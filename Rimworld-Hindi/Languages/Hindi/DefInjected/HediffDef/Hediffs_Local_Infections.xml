@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flu -->
+  <Animal_Flu.label>फ्लू</Animal_Flu.label>
+  <!-- EN: An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species. -->
+  <Animal_Flu.description>यह इन्फ्लूएंजा वायरस के कारण होने वाली एक संक्रामक बीमारी है। यह तनाव गैर-मानव प्रजातियों को संक्रमित करने के लिए अनुकूलित है।</Animal_Flu.description><!-- EN: An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species. -->
+  <Animal_Flu.labelNoun>एक संक्रामक रोग जो इन्फ्लूएंजा वायरस के कारण होता है। यह तनाव गैर-मानव प्रजातियों को संक्रमित करने के लिए अनुकूलित है।</Animal_Flu.labelNoun>
+  <!-- EN: minor -->
+  <Animal_Flu.stages.minor.label>मामूली</Animal_Flu.stages.minor.label>
+  <!-- EN: major -->
+  <Animal_Flu.stages.major.label>गंभीर</Animal_Flu.stages.major.label>
+  <!-- EN: extreme -->
+  <Animal_Flu.stages.extreme.label>गंभीर</Animal_Flu.stages.extreme.label>
+  
+  <!-- EN: plague -->
+  <Animal_Plague.label>प्लेग</Animal_Plague.label>
+  <!-- EN: An infectious disease caused by bacteria. This strain is adapted to infecting non-human species. -->
+  <Animal_Plague.description>एक संक्रामक रोग जो बैक्टीरिया के कारण होता है। यह तनाव गैर-मानव प्रजातियों को संक्रमित करने के लिए अनुकूलित है।</Animal_Plague.description><!-- EN: An infectious disease caused by bacteria. This strain is adapted to infecting non-human species. -->
+  <Animal_Plague.labelNoun>एक संक्रामक रोग जो बैक्टीरिया के कारण होता है। यह तनाव गैर-मानव प्रजातियों को संक्रमित करने के लिए अनुकूलित है।</Animal_Plague.labelNoun>
+  <!-- EN: minor -->
+  <Animal_Plague.stages.minor.label>मामूली</Animal_Plague.stages.minor.label>
+  <!-- EN: major -->
+  <Animal_Plague.stages.major.label>गंभीर</Animal_Plague.stages.major.label>
+  <!-- EN: extreme -->
+  <Animal_Plague.stages.extreme-0.label>गंभीर</Animal_Plague.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Animal_Plague.stages.extreme-1.label>गंभीर</Animal_Plague.stages.extreme-1.label>
+  
+  <!-- EN: fibrous mechanites -->
+  <FibrousMechanites.label>फाइब्रस मेकेनिट्स</FibrousMechanites.label>
+  <!-- EN: Semi-coherent mechanites which develop fibrous links in muscle tissue. They enhance the victim's strength, but also cause intense pain. These are probably a mutated strain of strength-enhancing mechanites. -->
+  <FibrousMechanites.description>अर्ध-सुसंगत मैकेनाइट जो मांसपेशियों के ऊतकों में रेशेदार संबंध विकसित करते हैं। वे पीड़ित की शक्ति को बढ़ाते हैं, लेकिन तीव्र दर्द भी पैदा करते हैं। ये संभवतः शक्ति-बढ़ाने वाले मैकेनाइट का एक उत्परिवर्तित तनाव हैं।</FibrousMechanites.description>
+  <!-- EN: mild pain -->
+  <FibrousMechanites.stages.mild_pain.label>हल्का दर्द</FibrousMechanites.stages.mild_pain.label>
+  <!-- EN: intense pain -->
+  <FibrousMechanites.stages.intense_pain.label>तीव्र दर्द</FibrousMechanites.stages.intense_pain.label>
+  
+  <!-- EN: flu -->
+  <Flu.label>फ्लू</Flu.label>
+  <!-- EN: An infectious disease caused by the influenza virus. -->
+  <Flu.description>यह इन्फ्लूएंजा वायरस के कारण होने वाली एक संक्रामक बीमारी है।</Flu.description><!-- EN: An infectious disease caused by the influenza virus. -->
+  <Flu.labelNoun>इन्फ्लूएंजा वायरस के कारण होने वाली एक संक्रामक बीमारी।</Flu.labelNoun>
+  <!-- EN: minor -->
+  <Flu.stages.minor.label>मामूली</Flu.stages.minor.label>
+  <!-- EN: major -->
+  <Flu.stages.major.label>गंभीर</Flu.stages.major.label>
+  <!-- EN: extreme -->
+  <Flu.stages.extreme.label>गंभीर</Flu.stages.extreme.label>
+  
+  <!-- EN: gut worms -->
+  <GutWorms.label>पेट के कीड़े</GutWorms.label>
+  <!-- EN: Parasitic worms in the gut. They cause vomiting. They also consume the victim's food, which increases hunger. -->
+  <GutWorms.description>आंतों में परजीवी कीड़े। ये उल्टी का कारण बनते हैं। ये पीड़ित के भोजन का भी उपभोग करते हैं, जिससे भूख बढ़ती है।</GutWorms.description><!-- EN: Parasitic worms in the gut. They cause vomiting. They also consume the victim's food, which increases hunger. -->
+  <GutWorms.labelNoun>आंतों में परजीवी कीड़े। वे उल्टी का कारण बनते हैं। वे पीड़ित के भोजन का भी उपभोग करते हैं, जिससे भूख बढ़ती है।</GutWorms.labelNoun>
+  
+  <!-- EN: lung rot -->
+  <LungRot.label>फेफड़ों का सड़न</LungRot.label>
+  <!-- EN: A bacterial disease that targets an individual's lungs. Minor cases are little more than an irritation, but if left unchecked the bacterial growth results in an increasing amount of fluid buildup in the victim's lungs, eventually resulting in death.\n\nIf treated properly, the body's immune system will eventually clear lung rot. -->
+  <LungRot.description>एक जीवाणु रोग जो किसी व्यक्ति के फेफड़ों को लक्षित करता है। मामूली मामलों में यह केवल एक जलन होती है, लेकिन यदि इसे अनियंत्रित छोड़ दिया जाए तो जीवाणु वृद्धि पीड़ित के फेफड़ों में तरल पदार्थ के बढ़ते संचय का कारण बनती है, अंततः मृत्यु हो जाती है।\n\nयदि उचित रूप से इलाज किया जाए, तो शरीर की प्रतिरक्षा प्रणाली अंततः फेफड़ों के सड़न को दूर कर देगी।</LungRot.description>
+  <!-- EN: A painful bacterial disease caused by exposure to rot stink gas. Upon reaching full saturation, it will kill the affected individual. -->
+  <LungRot.descriptionShort>सड़ती दुर्गंध गैस के संपर्क में आने से होने वाली एक दर्दनाक जीवाणु रोग। पूर्ण संतृप्ति पर, यह प्रभावित व्यक्ति को मार डालेगा।</LungRot.descriptionShort>
+  <!-- EN: minor -->
+  <LungRot.stages.minor.label>मामूली</LungRot.stages.minor.label>
+  <!-- EN: major -->
+  <LungRot.stages.major.label>गंभीर</LungRot.stages.major.label>
+  <!-- EN: extreme -->
+  <LungRot.stages.extreme.label>गंभीर</LungRot.stages.extreme.label>
+  
+  <!-- EN: rot stink exposure -->
+  <LungRotExposure.label>सड़न दुर्गंध जोखिम</LungRotExposure.label>
+  <!-- EN: Long-term exposure to rot stink gas. Rot stink exposure has no direct health effects. However, serious rot stink exposure has a chance to result in a painful bacterial infection known as lung rot. When not exposed to rot stink gas, rot stink exposure will slowly decrease. -->
+  <LungRotExposure.description>सड़ती दुर्गंध गैस के दीर्घकालिक संपर्क में रहना। सड़ती दुर्गंध के संपर्क का कोई सीधा स्वास्थ्य प्रभाव नहीं होता है। हालाँकि, गंभीर सड़ती दुर्गंध के संपर्क में आने से फुफ्फुसीय सड़न नामक एक दर्दनाक जीवाणु संक्रमण होने की संभावना होती है। सड़ती दुर्गंध गैस के संपर्क में न आने पर, सड़ती दुर्गंध का संपर्क धीरे-धीरे कम हो जाएगा।</LungRotExposure.description>
+  <!-- EN: {PAWN_nameDef} is beginning to suffer from exposure to rot stink gas. Keep {PAWN_objective} away from rotting corpses and other sources of rot stink. -->
+  <LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_gender ? {PAWN_nameDef} सड़न दुर्गंध गैस के संपर्क में आने से पीड़ित होने लगी है। {PAWN_objective} को सड़ते शवों और सड़न दुर्गंध के अन्य स्रोतों से दूर रखें। : {PAWN_nameDef} सड़न दुर्गंध गैस के संपर्क में आने से पीड़ित होना शुरू कर रहा है। {PAWN_objective} को सड़ती लाशों और सड़न दुर्गंध के अन्य स्रोतों से दूर रखें।}</LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <!-- EN: minor -->
+  <LungRotExposure.stages.minor.label>मामूली</LungRotExposure.stages.minor.label>
+  <!-- EN: major -->
+  <LungRotExposure.stages.major.label>गंभीर</LungRotExposure.stages.major.label>
+  <!-- EN: serious -->
+  <LungRotExposure.stages.serious.label>गंभीर</LungRotExposure.stages.serious.label>
+  
+  <!-- EN: malaria -->
+  <Malaria.label>मलेरिया</Malaria.label>
+  <!-- EN: An infectious disease caused by a mosquito-borne parasite. -->
+  <Malaria.description>मच्छरों से फैलने वाले परजीवी के कारण होने वाली एक संक्रामक बीमारी।</Malaria.description>
+  <!-- EN: minor -->
+  <Malaria.stages.minor.label>मामूली</Malaria.stages.minor.label>
+  <!-- EN: major -->
+  <Malaria.stages.major.label>गंभीर</Malaria.stages.major.label>
+  <!-- EN: extreme -->
+  <Malaria.stages.extreme.label>गंभीर</Malaria.stages.extreme.label>
+  
+  <!-- EN: muscle parasites -->
+  <MuscleParasites.label>मांसपेशी परजीवी</MuscleParasites.label>
+  <!-- EN: Parasitic creatures in the muscles. These cause weakness and a lack of coordination. -->
+  <MuscleParasites.description>मांसपेशियों में परजीवी जीव। ये कमजोरी और समन्वय की कमी का कारण बनते हैं।</MuscleParasites.description><!-- EN: Parasitic creatures in the muscles. These cause weakness and a lack of coordination. -->
+  <MuscleParasites.stages.0.label>मांसपेशियों में परजीवी जीव।</MuscleParasites.stages.0.label>
+  
+  <!-- EN: plague -->
+  <Plague.label>प्लेग</Plague.label>
+  <!-- EN: An infectious disease caused by bacteria. -->
+  <Plague.description>जीवाणु के कारण होने वाली एक संक्रामक बीमारी।</Plague.description><!-- EN: An infectious disease caused by bacteria. -->
+  <Plague.labelNoun>जीवाणुजनित संक्रामक रोग।</Plague.labelNoun>
+  <!-- EN: minor -->
+  <Plague.stages.minor.label>मामूली</Plague.stages.minor.label>
+  <!-- EN: major -->
+  <Plague.stages.major.label>गंभीर</Plague.stages.major.label>
+  <!-- EN: extreme -->
+  <Plague.stages.extreme-0.label>चरम</Plague.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Plague.stages.extreme-1.label>गंभीर</Plague.stages.extreme-1.label>
+  
+  <!-- EN: scaria infection -->
+  <ScariaInfection.label>स्केरिया संक्रमण</ScariaInfection.label>
+  <!-- EN: An infection caused by scaria bacterium. If not treated, the infection will eventually drive the host into a berserk rage. -->
+  <ScariaInfection.description>स्केरिया जीवाणु के कारण होने वाला संक्रमण। यदि इसका इलाज नहीं किया जाता है, तो यह संक्रमण अंततः होस्ट को उन्मत्त क्रोध में धकेल देगा।</ScariaInfection.description>
+  <!-- EN: Scaria: {PAWN_nameDef} -->
+  <ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>{PAWN_gender ? स्केरिया: {PAWN_nameDef} : स्केरिया: पुरुष नाम}</ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>
+  <!-- EN: {PAWN_nameDef} has developed scaria from {PAWN_possessive} infection, driving {PAWN_objective} into a berserk rage. Scaria can be cured with a special medical operation, but {PAWN_nameDef} must first be downed. -->
+  <ScariaInfection.comps.HediffComp_GiveHediff.letterText>{PAWN_gender ? {PAWN_nameDef} को {PAWN_possessive} संक्रमण से स्केरिया हो गया है, जिससे {PAWN_objective} उन्मत्त क्रोध में आ गई है। स्केरिया का इलाज एक विशेष चिकित्सा ऑपरेशन से किया जा सकता है, लेकिन {PAWN_nameDef} को पहले बेहोश किया जाना चाहिए। : {PAWN_nameDef} को {PAWN_possessive} संक्रमण से स्केरिया हो गया है, जिससे {PAWN_objective} उन्मत्त क्रोध में चला गया। स्केरिया का इलाज एक विशेष चिकित्सा ऑपरेशन से किया जा सकता है, लेकिन {PAWN_nameDef} को पहले बेहोश किया जाना चाहिए।}</ScariaInfection.comps.HediffComp_GiveHediff.letterText>
+  <!-- EN: a scaria infection -->
+  <ScariaInfection.labelNoun>स्केरिया संक्रमण</ScariaInfection.labelNoun>
+  <!-- EN: minor -->
+  <ScariaInfection.stages.minor.label>मामूली</ScariaInfection.stages.minor.label>
+  <!-- EN: major -->
+  <ScariaInfection.stages.major.label>गंभीर</ScariaInfection.stages.major.label>
+  <!-- EN: extreme -->
+  <ScariaInfection.stages.extreme.label>गंभीर</ScariaInfection.stages.extreme.label>
+  
+  <!-- EN: sensory mechanites -->
+  <SensoryMechanites.label>संवेदी यांत्रिकी</SensoryMechanites.label>
+  <!-- EN: Semi-coherent mechanites which reside in the nervous system. They enhance the victim's senses, but also cause intense pain. These are probably a mutated strain of sense-enhancing mechanites. -->
+  <SensoryMechanites.description>तंत्रिका तंत्र में रहने वाले अर्ध-सुसंगत मैकेनाइट्स। ये पीड़ित की इंद्रियों को बढ़ाते हैं, लेकिन तीव्र दर्द भी पैदा करते हैं। ये संभवतः इंद्रिय-बढ़ाने वाले मैकेनाइट्स का एक उत्परिवर्तित तनाव हैं।</SensoryMechanites.description>
+  <!-- EN: mild pain -->
+  <SensoryMechanites.stages.mild_pain.label>हल्का दर्द</SensoryMechanites.stages.mild_pain.label>
+  <!-- EN: intense pain -->
+  <SensoryMechanites.stages.intense_pain.label>तीव्र दर्द</SensoryMechanites.stages.intense_pain.label>
+  
+  <!-- EN: sleeping sickness -->
+  <SleepingSickness.label>नींद की बीमारी</SleepingSickness.label>
+  <!-- EN: An infectious disease caused by an insect-borne parasite. Sleeping sickness is not as deadly as some other diseases, but progresses slowly. The body takes a long time to clear the infection. -->
+  <SleepingSickness.description>एक संक्रामक रोग जो कीटों द्वारा फैलने वाले परजीवी के कारण होता है। स्लीप सिकनेस अन्य कुछ बीमारियों जितनी घातक नहीं है, लेकिन धीरे-धीरे बढ़ती है। शरीर को संक्रमण को दूर करने में लंबा समय लगता है।</SleepingSickness.description>
+  <!-- EN: minor -->
+  <SleepingSickness.stages.minor-0.label>मामूली</SleepingSickness.stages.minor-0.label>
+  <!-- EN: minor -->
+  <SleepingSickness.stages.minor-1.label>मामूली</SleepingSickness.stages.minor-1.label>
+  <!-- EN: major -->
+  <SleepingSickness.stages.major.label>गंभीर</SleepingSickness.stages.major.label>
+  <!-- EN: extreme -->
+  <SleepingSickness.stages.extreme-0.label>गंभीर</SleepingSickness.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <SleepingSickness.stages.extreme-1.label>गंभीर</SleepingSickness.stages.extreme-1.label>
+  
+  <!-- EN: infection -->
+  <WoundInfection.label>संक्रमण</WoundInfection.label>
+  <!-- EN: Bacterial infection in a wound. Without treatment, the bacteria will multiply, killing local tissue, and eventually causing blood poisoning and death.\n\nThrough aeons of human warfare, infections have often taken more lives than the wounds themselves. -->
+  <WoundInfection.description>घाव में जीवाणु संक्रमण। उपचार के बिना, जीवाणु गुणा करेंगे, स्थानीय ऊतक को मारेंगे, और अंततः रक्त विषाक्तता और मृत्यु का कारण बनेंगे।\n\nमानव युद्ध के युगों से, संक्रमण अक्सर घावों की तुलना में अधिक जान ले चुके हैं।</WoundInfection.description>
+  <!-- EN: an infection -->
+  <WoundInfection.labelNoun>संक्रमण</WoundInfection.labelNoun>
+  <!-- EN: minor -->
+  <WoundInfection.stages.minor.label>मामूली</WoundInfection.stages.minor.label>
+  <!-- EN: major -->
+  <WoundInfection.stages.major.label>गंभीर</WoundInfection.stages.major.label>
+  <!-- EN: extreme -->
+  <WoundInfection.stages.extreme-0.label>गंभीर</WoundInfection.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <WoundInfection.stages.extreme-1.label>गंभीर</WoundInfection.stages.extreme-1.label>
+  
+</LanguageData>

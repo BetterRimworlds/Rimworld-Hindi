@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mote -->
+  <Mote_LongSparkThrown.label>कण</Mote_LongSparkThrown.label>
+  
+  <!-- EN: Mote -->
+  <Mote_SparkThrownFast.label>कण</Mote_SparkThrownFast.label>
+  
+  <!-- EN: Mote -->
+  <Mote_SparkThrownFastBlue.label>कण</Mote_SparkThrownFastBlue.label>
+  
+  <!-- EN: Mote -->
+  <Mote_Splash.label>कण</Mote_Splash.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ToxicDamage.label>कण</Mote_ToxicDamage.label>
+  
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colonist mood -->
+  <ColonistMood.label>कॉलोनीवादी मनोदशा</ColonistMood.label>
+  
+  <!-- EN: debug -->
+  <Debug.label>डीबग</Debug.label>
+  
+  <!-- EN: population -->
+  <Population.label>जनसंख्या</Population.label>
+  
+  <!-- EN: wealth -->
+  <Wealth.label>संपत्ति</Wealth.label>
+  
+</LanguageData>

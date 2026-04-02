@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cougar -->
+  <Cougar.label>कूगर</Cougar.label>
+  <!-- EN: One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat. -->
+  <Cougar.description>कौगर सबसे खतरनाक बड़ी बिल्लियों में से एक हैं, जो लंबे, तीखे दांतों और पंजों वाले एकाकी शिकारी हैं। वे घात लगाकर शिकार करते हैं और फिर उस पर झपटते हैं।\n\nहालांकि मनुष्य उनका सामान्य भोजन नहीं हैं, लेकिन वे कमजोर मानव मांस का भोजन करने से इनकार नहीं करेंगे।</Cougar.description>
+  <!-- EN: left claw -->
+  <Cougar.tools.left_claw.label>बायां पंजा</Cougar.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Cougar.tools.left_claw.labelNoLocation>पंजे</Cougar.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Cougar.tools.right_claw.label>दायां पंजा</Cougar.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Cougar.tools.right_claw.labelNoLocation>पंजे</Cougar.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Cougar.tools.head.label>सिर</Cougar.tools.head.label>
+  
+  <!-- EN: lynx -->
+  <Lynx.label>लिंक्स</Lynx.label>
+  <!-- EN: A wildcat larger than a housecat, but smaller than a cougar. Lynxes survive on a diet of small birds and animals. Their very warm fur keeps them safe from the brutally cold temperatures of their frozen territories. -->
+  <Lynx.description>एक जंगली बिल्ली घरेलू बिल्ली से बड़ी, लेकिन कगार से छोटी होती है। लिंक्स छोटे पक्षियों और जानवरों पर जीवित रहते हैं। उनका बहुत गर्म फर उन्हें उनके जमे हुए क्षेत्रों के क्रूर ठंडे तापमान से सुरक्षित रखता है।</Lynx.description>
+  <!-- EN: left claw -->
+  <Lynx.tools.left_claw.label>बायां पंजा</Lynx.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Lynx.tools.left_claw.labelNoLocation>पंजे</Lynx.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Lynx.tools.right_claw.label>दायां पंजा</Lynx.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Lynx.tools.right_claw.labelNoLocation>पंजे</Lynx.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Lynx.tools.head.label>सिर</Lynx.tools.head.label>
+  
+  <!-- EN: panther -->
+  <Panther.label>पैंथर</Panther.label>
+  <!-- EN: An agile and powerful big cat native to the jungles of old Earth. As solitary ambush predators, panthers are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength. -->
+  <Panther.description>एक फुर्तीली और शक्तिशाली बड़ी बिल्ली जो पुराने पृथ्वी के जंगलों की मूल निवासी है। अकेले शिकारी होने के कारण, पैंथर बड़े और छोटे शिकार को मारने में माहिर होते हैं। दर्शक अक्सर इनकी सुंदर चालों पर ध्यान देते हैं, जबकि जो लोग करीब से संपर्क में आते हैं वे आमतौर पर इनकी खोपड़ी कुचलने वाली ताकत पर ध्यान देते हैं।</Panther.description>
+  <!-- EN: left claw -->
+  <Panther.tools.left_claw.label>बायां पंजा</Panther.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Panther.tools.left_claw.labelNoLocation>पंजे</Panther.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Panther.tools.right_claw.label>दायां पंजा</Panther.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Panther.tools.right_claw.labelNoLocation>पंजे</Panther.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Panther.tools.head.label>सिर</Panther.tools.head.label>
+  
+</LanguageData>

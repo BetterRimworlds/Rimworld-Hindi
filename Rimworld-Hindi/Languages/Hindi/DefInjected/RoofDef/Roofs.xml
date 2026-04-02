@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: constructed roof -->
+  <RoofConstructed.label>निर्मित छत</RoofConstructed.label>
+  
+  <!-- EN: overhead mountain -->
+  <RoofRockThick.label>पहाड़ी छत</RoofRockThick.label>
+  
+  <!-- EN: rock roof (thin) -->
+  <RoofRockThin.label>छत - पत्थर (पतली)</RoofRockThin.label>
+  
+</LanguageData>

@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient barrel -->
+  <AncientBarrel.label>प्राचीन बैरल</AncientBarrel.label>
+  <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
+  <AncientBarrel.description>एक प्राचीन, टूटी हुई बैरल जो दिखती है जैसे कभी इसमें किसी प्रकार का कचरा था। अब इसमें केवल सूखे कीचड़ का धब्बा है।</AncientBarrel.description>
+  
+  <!-- EN: ancient basic recharger -->
+  <AncientBasicRecharger.label>प्राचीन बुनियादी चार्जर</AncientBasicRecharger.label>
+  <!-- EN: An ancient basic recharger. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientBasicRecharger.description>एक प्राचीन बुनियादी रिचार्जकर्ता। मूल्यवान भाग गायब हैं, और बाकी सब कुछ बेकार हो गया है।</AncientBasicRecharger.description>
+  
+  <!-- EN: ancient bed -->
+  <AncientBed.label>प्राचीन बिस्तर</AncientBed.label>
+  <!-- EN: An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore. -->
+  <AncientBed.description>एक पुरानी, सड़ी हुई गद्दा जंग लगे ढांचे पर। हालांकि यह आरामदायक नहीं है, फिर भी इसका उपयोग किया जा सकता है, लेकिन यह पुनर्स्थापित करने के लिए बहुत जीर्ण-शीर्ण है।</AncientBed.description>
+  
+  <!-- EN: ancient crate -->
+  <AncientCrate.label>प्राचीन बक्सा</AncientCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained have degraded to uselessness. -->
+  <AncientCrate.description>एक प्राचीन, टूटी हुई पेटी। इसमें जो भी मूल्यवान वस्तुएं कभी थीं, वे बेकार हो गई हैं।</AncientCrate.description>
+  
+  <!-- EN: ancient display bank -->
+  <AncientDisplayBank.label>प्राचीन प्रदर्शन बैंक</AncientDisplayBank.label>
+  <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientDisplayBank.description>एक प्राचीन कंप्यूटर इंटरफेस। मूल्यवान भाग गायब हैं, और बाकी सब बेकार हो गया है।</AncientDisplayBank.description>
+  
+  <!-- EN: ancient equipment blocks -->
+  <AncientEquipmentBlocks.label>प्राचीन उपकरण अवरोधक</AncientEquipmentBlocks.label>
+  <!-- EN: A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientEquipmentBlocks.description>प्राचीन उपकरणों का एक संग्रह जिसका कार्य अज्ञात है। मूल्यवान भाग गायब हैं, और बाकी सब बेकार हो गया है।</AncientEquipmentBlocks.description>
+  
+  <!-- EN: ancient generator -->
+  <AncientGenerator.label>प्राचीन जनरेटर</AncientGenerator.label>
+  <!-- EN: An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness. -->
+  <AncientGenerator.description>एक प्राचीन विद्युत जनरेटर। इसके उपयोगी हिस्से बहुत पहले तोड़ दिए गए या लूट लिए गए, और बाकी जंग खाकर बेकार हो गया है।</AncientGenerator.description>
+  
+  <!-- EN: ancient kitchen sink -->
+  <AncientKitchenSink.label>प्राचीन रसोई सिंक</AncientKitchenSink.label>
+  <!-- EN: An ancient kitchen sink made of some non-metallic fiber-sheet material. It is badly deteriorated and there's no way to salvage anything from it.\n\nHow it got here must be a long story. -->
+  <AncientKitchenSink.description>एक प्राचीन रसोई का सिंक, जो किसी गैर-धात्विक फाइबर-शीट सामग्री से बना है। यह बुरी तरह से खराब हो गया है और इससे कुछ भी निकालना संभव नहीं है।\n\nयह यहाँ कैसे आया, यह एक लंबी कहानी ज़रूर होगी।</AncientKitchenSink.description>
+  
+  <!-- EN: ancient lamp -->
+  <AncientLamp.label>प्राचीन दीपक</AncientLamp.label>
+  <!-- EN: An ancient self-powered lamp. Its internal power supply is badly depleted, but it still emits a weak glow. -->
+  <AncientLamp.description>एक प्राचीन स्व-संचालित दीपक। इसकी आंतरिक ऊर्जा आपूर्ति बुरी तरह से कम हो गई है, लेकिन यह अभी भी एक मंद चमक उत्सर्जित करता है।</AncientLamp.description>
+  
+  <!-- EN: ancient large mech gestator -->
+  <AncientLargeMechGestator.label>प्राचीन विशाल यांत्रिक गर्भाशय</AncientLargeMechGestator.label>
+  <!-- EN: An ancient large mech gestator. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientLargeMechGestator.description>एक प्राचीन विशाल यांत्रिक गर्भाशय। मूल्यवान भाग गायब हैं, और बाकी सब कुछ बेकार हो गया है।</AncientLargeMechGestator.description>
+  
+  <!-- EN: ancient locker bank -->
+  <AncientLockerBank.label>प्राचीन लॉकर बैंक</AncientLockerBank.label>
+  <!-- EN: An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind. -->
+  <AncientLockerBank.description>एक प्राचीन, जंग लगा लॉकर का समूह। सभी लॉकर जबरदस्ती खोले गए हैं और पीछे कुछ भी मूल्यवान नहीं बचा है।</AncientLockerBank.description>
+  
+  <!-- EN: ancient machine -->
+  <AncientMachine.label>प्राचीन यंत्र</AncientMachine.label>
+  <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientMachine.description>एक बड़ा प्राचीन मशीन का खोल अज्ञात मशीनरी से भरा है। मूल्यवान हिस्से गायब हैं, और बाकी सब बेकार हो गया है।</AncientMachine.description>
+  
+  <!-- EN: ancient mech drop beacon -->
+  <AncientMechDropBeacon.label>प्राचीन यांत्रिक संकेत</AncientMechDropBeacon.label>
+  <!-- EN: The broken shell of a mech drop beacon. Its useful components are missing and the shell has deteriorated after many years. -->
+  <AncientMechDropBeacon.description>एक यांत्रिक ड्रॉप बीकन का टूटा हुआ खोल। इसके उपयोगी घटक गायब हैं और वर्षों बाद खोल खराब हो गया है।</AncientMechDropBeacon.description>
+  
+  <!-- EN: ancient mech gestator -->
+  <AncientMechGestator.label>प्राचीन यांत्रिक गर्भाशय</AncientMechGestator.label>
+  <!-- EN: An ancient mech gestator. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientMechGestator.description>एक प्राचीन यांत्रिक गर्भधारिणी। मूल्यवान भाग गायब हैं, और बाकी सब कुछ बेकार हो गया है।</AncientMechGestator.description>
+  
+  <!-- EN: ancient mech vat -->
+  <AncientMechGestatorTank.label>प्राचीन यांत्रिक पात्र</AncientMechGestatorTank.label>
+  <!-- EN: An ancient device capable of forming new mechanoids, and sustaining injured mechanoids while they rejuvenate. -->
+  <AncientMechGestatorTank.description>एक प्राचीन उपकरण जो नए मैकेनॉइड बनाने और घायल मैकेनॉइड को पुनर्जीवित करते समय बनाए रखने में सक्षम है।</AncientMechGestatorTank.description>
+  <!-- EN: A {0_labelShort} has emerged from a mech vat. -->
+  <AncientMechGestatorTank.comps.CompMechGestatorTank.triggeredMessage>एक {0_labelShort} यांत्रिक पात्र से उभरा है।</AncientMechGestatorTank.comps.CompMechGestatorTank.triggeredMessage>
+  
+  <!-- EN: ancient microwave -->
+  <AncientMicrowave.label>प्राचीन माइक्रोवेव</AncientMicrowave.label>
+  <!-- EN: An ancient device for heating food. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientMicrowave.description>एक प्राचीन उपकरण भोजन गरम करने के लिए। टूटा और जंग लगा हुआ, यह अब पूरी तरह से बेकार है।\n\nयह यहाँ कैसे आया यह कहना मुश्किल है।</AncientMicrowave.description>
+  
+  <!-- EN: ancient military crate -->
+  <AncientMilitaryCrate.label>प्राचीन सैन्य बक्सा</AncientMilitaryCrate.label>
+  <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
+  <AncientMilitaryCrate.description>एक प्राचीन, सैन्य-दिखने वाला संदूक। यह बहुत पहले टूट गया था और इसमें जो भी मूल्यवान वस्तुएं थीं, उन्हें लूट लिया गया।</AncientMilitaryCrate.description>
+  
+  <!-- EN: ancient operating table -->
+  <AncientOperatingTable.label>प्राचीन संचालन मेज</AncientOperatingTable.label>
+  <!-- EN: A table once used for surgical operations. It has long since deteriorated into uselessness. -->
+  <AncientOperatingTable.description>एक मेज़ जिसका उपयोग कभी शल्य चिकित्सा के लिए किया जाता था। यह अब पूरी तरह से अनुपयोगी हो गई है।</AncientOperatingTable.description>
+  
+  <!-- EN: ancient oven -->
+  <AncientOven.label>प्राचीन भट्टी</AncientOven.label>
+  <!-- EN: An ancient oven. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientOven.description>एक प्राचीन भट्टी। टूटी और जंग लगी, यह अब पूरी तरह से बेकार है।\n\nयह यहाँ कैसे आई, यह कहना मुश्किल है।</AncientOven.description>
+  
+  <!-- EN: ancient refrigerator -->
+  <AncientRefrigerator.label>प्राचीन शीतक</AncientRefrigerator.label>
+  <!-- EN: An ancient refrigerator. It was stripped of interesting parts long ago. -->
+  <AncientRefrigerator.description>एक प्राचीन रेफ्रिजरेटर। इसके दिलचस्प हिस्से बहुत पहले ही हटा लिए गए थे।</AncientRefrigerator.description>
+  
+  <!-- EN: ancient security turret -->
+  <AncientSecurityTurret.label>प्राचीन सुरक्षा तोप</AncientSecurityTurret.label>
+  <!-- EN: An ancient, broken security turret. The valuable parts have all been looted or smashed. -->
+  <AncientSecurityTurret.description>एक प्राचीन, टूटी हुई सुरक्षा तोप। मूल्यवान हिस्से या तो लूट लिए गए हैं या तोड़ दिए गए हैं।</AncientSecurityTurret.description>
+  
+  <!-- EN: ancient spacer crate -->
+  <AncientSpacerCrate.label>प्राचीन अंतरिक्ष युग बक्सा</AncientSpacerCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained were taken long ago. -->
+  <AncientSpacerCrate.description>एक प्राचीन, टूटी हुई पेटी। जो भी मूल्यवान वस्तुएं इसमें कभी थीं, वे बहुत पहले ले ली गईं।</AncientSpacerCrate.description>
+  
+  <!-- EN: ancient standard recharger -->
+  <AncientStandardRecharger.label>प्राचीन मानक चार्जर</AncientStandardRecharger.label>
+  <!-- EN: An ancient standard recharger. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientStandardRecharger.description>एक प्राचीन मानक चार्जर। मूल्यवान भाग गायब हैं, और बाकी सब कुछ बेकार हो गया है।</AncientStandardRecharger.description>
+  
+  <!-- EN: ancient storage cylinder -->
+  <AncientStorageCylinder.label>प्राचीन भंडारण बेलन</AncientStorageCylinder.label>
+  <!-- EN: An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientStorageCylinder.description>एक प्राचीन उपकरण जो ऐसा दिखता है जैसे इसने कभी किसी प्रकार का तरल पदार्थ संग्रहीत किया था। मूल्यवान भाग गायब हैं, और बाकी सब कुछ बेकार हो गया है।</AncientStorageCylinder.description>
+  
+  <!-- EN: ancient stove -->
+  <AncientStove.label>प्राचीन चूल्हा</AncientStove.label>
+  <!-- EN: An old stove. Smashed and rusted, it is now completely useless. -->
+  <AncientStove.description>एक पुराना चूल्हा। टूटा और जंग लगा हुआ, यह अब पूरी तरह से अनुपयोगी है।</AncientStove.description>
+  
+  <!-- EN: ancient system rack -->
+  <AncientSystemRack.label>प्राचीन प्रणाली रैक</AncientSystemRack.label>
+  <!-- EN: An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientSystemRack.description>एक प्राचीन रैक इकाई, अपरिचित उपकरणों से भरी हुई। मूल्यवान भाग गायब हैं, और बाकी सब बेकार हो गया है।</AncientSystemRack.description>
+  
+</LanguageData>

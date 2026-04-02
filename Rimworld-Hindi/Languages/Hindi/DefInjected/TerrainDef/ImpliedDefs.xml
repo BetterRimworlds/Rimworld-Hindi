@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granito en bruto -->
+  <Granite_Rough.label>कच्चा ग्रेनाइट</Granite_Rough.label>
+  <!-- EN: Suelo de granito en bruto. -->
+  <Granite_Rough.description>कच्चे ग्रेनाइट का फर्श।</Granite_Rough.description>
+  
+  <!-- EN: granito tallado en bruto -->
+  <Granite_RoughHewn.label>कच्चा ग्रेनाइट नक्काशी</Granite_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de granito. -->
+  <Granite_RoughHewn.description>प्राकृतिक ग्रेनाइट का खुरदरा फर्श।</Granite_RoughHewn.description>
+  
+  <!-- EN: granito liso -->
+  <Granite_Smooth.label>चिकनी ग्रेनाइट</Granite_Smooth.label>
+  <!-- EN: Suelo natural de granito alisado. -->
+  <Granite_Smooth.description>चिकनी ग्रेनाइट की प्राकृतिक सतह।</Granite_Smooth.description>
+  
+  <!-- EN: caliza en bruto -->
+  <Limestone_Rough.label>कच्चा कैलिज़ा</Limestone_Rough.label>
+  <!-- EN: Suelo de caliza en bruto. -->
+  <Limestone_Rough.description>कच्चे चूना पत्थर का फर्श।</Limestone_Rough.description>
+  
+  <!-- EN: caliza tallado en bruto -->
+  <Limestone_RoughHewn.label>कच्चा कैलिज़ा नक्काशी</Limestone_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de caliza. -->
+  <Limestone_RoughHewn.description>प्राकृतिक चूना पत्थर की खुरदरी मिट्टी।</Limestone_RoughHewn.description>
+  
+  <!-- EN: caliza liso -->
+  <Limestone_Smooth.label>चूना चिकना</Limestone_Smooth.label>
+  <!-- EN: Suelo natural de caliza alisado. -->
+  <Limestone_Smooth.description>चिकनी चूना पत्थर की प्राकृतिक ज़मीन।</Limestone_Smooth.description>
+  
+  <!-- EN: mármol en bruto -->
+  <Marble_Rough.label>कच्चा संगमरमर</Marble_Rough.label>
+  <!-- EN: Suelo de mármol en bruto. -->
+  <Marble_Rough.description>कच्चा संगमरमर का फर्श।</Marble_Rough.description>
+  
+  <!-- EN: mármol tallado en bruto -->
+  <Marble_RoughHewn.label>कच्चा मार्बल नक्काशी</Marble_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de mármol. -->
+  <Marble_RoughHewn.description>प्राकृतिक संगमरमर का खुरदरा फर्श।</Marble_RoughHewn.description>
+  
+  <!-- EN: mármol liso -->
+  <Marble_Smooth.label>चिकना संगमरमर</Marble_Smooth.label>
+  <!-- EN: Suelo natural de mármol alisado. -->
+  <Marble_Smooth.description>चिकना संगमरमर का प्राकृतिक फर्श।</Marble_Smooth.description>
+  
+  <!-- EN: arenisca en bruto -->
+  <Sandstone_Rough.label>कच्ची बलुआ पत्थर</Sandstone_Rough.label>
+  <!-- EN: Suelo de arenisca en bruto. -->
+  <Sandstone_Rough.description>कच्चे बलुआ पत्थर का फर्श।</Sandstone_Rough.description>
+  
+  <!-- EN: arenisca tallado en bruto -->
+  <Sandstone_RoughHewn.label>कच्ची नक्काशीदार बलुआ पत्थर</Sandstone_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de arenisca. -->
+  <Sandstone_RoughHewn.description>प्राकृतिक बलुआ पत्थर की खुरदरी मिट्टी।</Sandstone_RoughHewn.description>
+  
+  <!-- EN: arenisca liso -->
+  <Sandstone_Smooth.label>रेतशिला चिकनी</Sandstone_Smooth.label>
+  <!-- EN: Suelo natural de arenisca alisado. -->
+  <Sandstone_Smooth.description>चिकनी बलुआ पत्थर की प्राकृतिक ज़मीन।</Sandstone_Smooth.description>
+  
+  <!-- EN: pizarra en bruto -->
+  <Slate_Rough.label>कच्ची स्लेट</Slate_Rough.label>
+  <!-- EN: Suelo de pizarra en bruto. -->
+  <Slate_Rough.description>कच्ची स्लेट फ़र्श।</Slate_Rough.description>
+  
+  <!-- EN: pizarra tallado en bruto -->
+  <Slate_RoughHewn.label>कच्चा तराशा हुआ स्लेट</Slate_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de pizarra. -->
+  <Slate_RoughHewn.description>प्राकृतिक स्लेट का खुरदरा फर्श।</Slate_RoughHewn.description>
+  
+  <!-- EN: pizarra liso -->
+  <Slate_Smooth.label>स्लेट</Slate_Smooth.label>
+  <!-- EN: Suelo natural de pizarra alisado. -->
+  <Slate_Smooth.description>चिकनी स्लेट प्राकृतिक फर्श।</Slate_Smooth.description>
+  
+</LanguageData>

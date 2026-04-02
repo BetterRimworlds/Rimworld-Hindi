@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administered drug -->
+  <AdministeredDrug.label>प्रशासित दवा</AdministeredDrug.label>
+  
+  <!-- EN: administered hard drug -->
+  <AdministeredHardDrug.label>प्रशासित कठोर दवा</AdministeredHardDrug.label>
+  
+  <!-- EN: administered recreational drug -->
+  <AdministeredRecreationalDrug.label>प्रशासित मनोरंजक दवा</AdministeredRecreationalDrug.label>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat.label>मानव मांस खाया</AteHumanMeat.label>
+  
+  <!-- EN: build building -->
+  <BuildSpecificDef.label>निर्माण भवन</BuildSpecificDef.label>
+  
+  <!-- EN: joiner refused -->
+  <CharityRefused_ThreatReward_Joiner.label>जोइनर अस्वीकृत</CharityRefused_ThreatReward_Joiner.label>
+  
+  <!-- EN: cut tree -->
+  <CutTree.label>पेड़ काटें</CutTree.label>
+  
+  <!-- EN: destroyed natural wall -->
+  <DestroyedMineable.label>ध्वस्त प्राकृतिक दीवार</DestroyedMineable.label>
+  
+  <!-- EN: used drug -->
+  <IngestedDrug.label>उपयोग की गई दवा</IngestedDrug.label>
+  
+  <!-- EN: used hard drug -->
+  <IngestedHardDrug.label>कठिन नशीली दवा का उपयोग</IngestedHardDrug.label>
+  
+  <!-- EN: used recreational drug -->
+  <IngestedRecreationalDrug.label>उपयोग की जाने वाली मनोरंजक दवा</IngestedRecreationalDrug.label>
+  
+  <!-- EN: installed prosthetic -->
+  <InstalledProsthetic.label>स्थापित कृत्रिम अंग</InstalledProsthetic.label>
+  
+  <!-- EN: mined -->
+  <Mined.label>खनन किया गया</Mined.label>
+  
+  <!-- EN: tree died -->
+  <MinifiedTreeDied.label>पेड़ मरा</MinifiedTreeDied.label>
+  
+  <!-- EN: researching -->
+  <Researching.label>अनुसंधान</Researching.label>
+  
+  <!-- EN: sowed food plant -->
+  <SowedHumanFoodPlant.label>बोया गया खाद्य पौधा</SowedHumanFoodPlant.label>
+  
+  <!-- EN: sowed plant -->
+  <SowedPlant.label>बोया हुआ पौधा</SowedPlant.label>
+  
+</LanguageData>

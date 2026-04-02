@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready. -->
+  <AcceptStartingPawns.text>पुनर्व्यवस्थित करें और अधिक यादृच्छिक करें यदि आप चाहें – लेकिन सही वर्णों को प्राप्त करने का प्रयास न करें! हर किसी में कमियां होती हैं, और यह कहानी को और अधिक रोचक बनाती है!\n\nआप उनके नामों पर क्लिक करके पात्रों का नाम भी बदल सकते हैं।\n\nतैयार होने पर START पर क्लिक करें।</AcceptStartingPawns.text>
+  
+  <!-- EN: Select this -->
+  <AddBillSimpleMeal.onMapInstruction>चुनें यह</AddBillSimpleMeal.onMapInstruction>
+  <!-- EN: Please add a bill to cook simple meals at your cook stove. -->
+  <AddBillSimpleMeal.rejectInputMessage>कृपया अपने कुक स्टोव पर साधारण भोजन बनाने के लिए एक बिल जोड़ें।</AddBillSimpleMeal.rejectInputMessage>
+  <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and right-click the stove to prioritize building it. -->
+  <AddBillSimpleMeal.text>उपनिवेशकों को यह बताया जाना चाहिए कि क्या पकाना है।\n\nखाना बनाने के आदेश स्टोव पर ही जोड़े जाते हैं। एक बार बिल बन जाने के बाद, उपनिवेशक स्वचालित रूप से काम करेंगे।\n\n1. स्टोव के बनने का इंतज़ार करें।\n2. स्टोव का चयन करने के लिए उस पर क्लिक करें।\n3. BILLS टैब खोलें।\n4. ADD BILL पर क्लिक करें।\n5. संदर्भ मेनू से COOK SIMPLE MEAL चुनें।\n6. गिनती को 10 तक बढ़ाने के लिए + बटन पर क्लिक करें।\n\nयाद रखें, यदि निर्माण में बहुत समय लग रहा है तो आप समय को तेज़ कर सकते हैं।\n\nआप किसी उपनिवेशक का चयन भी कर सकते हैं और स्टोव पर राइट-क्लिक करके उसके निर्माण को प्राथमिकता दे सकते हैं।</AddBillSimpleMeal.text>
+  <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and press left trigger button on the stove to prioritize building it. -->
+  <AddBillSimpleMeal.textController>उपनिवेशकों को यह बताया जाना चाहिए कि क्या पकाना है।\n\nखाना बनाने के आदेश स्टोव पर ही जोड़े जाते हैं। एक बार बिल बन जाने के बाद, उपनिवेशक स्वचालित रूप से काम करेंगे।\n\n1. स्टोव के बनने का इंतज़ार करें।\n2. स्टोव का चयन करने के लिए उस पर क्लिक करें।\n3. BILLS टैब खोलें।\n4. ADD BILL पर क्लिक करें।\n5. संदर्भ मेनू से COOK SIMPLE MEAL चुनें।\n6. गिनती को 10 तक बढ़ाने के लिए + बटन पर क्लिक करें।\n\nयाद रखें, यदि निर्माण में बहुत समय लग रहा है तो आप समय को तेज़ कर सकते हैं।\n\nआप एक उपनिवेशक का चयन भी कर सकते हैं और स्टोव पर बाएँ ट्रिगर बटन दबाकर उसके निर्माण को प्राथमिकता दे सकते हैं।</AddBillSimpleMeal.textController>
+  
+  <!-- EN: Build an animal sleeping spot\ninside the room -->
+  <BuildAnimalSleepingSpot.onMapInstruction>कमरे के अंदर एक पशु नींद स्थान बनाएँ।</BuildAnimalSleepingSpot.onMapInstruction>
+  <!-- EN: Please place an animal sleeping spot inside the room. -->
+  <BuildAnimalSleepingSpot.rejectInputMessage>कमरे के अंदर एक पशु शयन स्थल रखें।</BuildAnimalSleepingSpot.rejectInputMessage>
+  <!-- EN: So your pet will sleep inside with you, place an ANIMAL SLEEPING SPOT inside the room.\n\nSleeping spots aren't real buildings - they're just spots on the ground designated for a sleeping. -->
+  <BuildAnimalSleepingSpot.text>आपका पालतू जानवर आपके साथ अंदर सोएगा, कमरे के अंदर एक पशु शयन स्थल रखें।\n\nशयन स्थल वास्तविक इमारतें नहीं हैं - वे बस सोने के लिए नामित ज़मीन पर स्थान हैं।</BuildAnimalSleepingSpot.text>
+  
+  <!-- EN: Build three beds inside the room -->
+  <BuildBeds.onMapInstruction>कमरे के अंदर तीन बिस्तर बनाएँ।</BuildBeds.onMapInstruction>
+  <!-- EN: Please build wooden beds inside the room. -->
+  <BuildBeds.rejectInputMessage>कमरे के अंदर लकड़ी के बिस्तर बनाइए।</BuildBeds.rejectInputMessage>
+  <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building. -->
+  <BuildBeds.text>आपके उपनिवेशवादी अब कमरा बनाएंगे!\n\nअब उन्हें सोने के लिए कहीं जगह चाहिए। कमरे के अंदर तीन बिस्तर रखें।\n\nउन्हें फर्नीचर श्रेणी में खोजें।\n\nआप इमारत को घुमाने के लिए {Key:Designator_RotateLeft} और {Key:Designator_RotateRight} कुंजियों का उपयोग कर सकते हैं।</BuildBeds.text>
+  <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can rotate the building by pressing the rotate buttons on the left. -->
+  <BuildBeds.textController>आपके उपनिवेशवादी अब कमरा बनाएंगे!\n\nअब उन्हें सोने के लिए कहीं जगह चाहिए। कमरे के अंदर तीन बिस्तर रखें।\n\nउन्हें फर्नीचर श्रेणी में खोजें।\n\nआप बाईं ओर के घुमाएँ बटन दबाकर इमारत को घुमा सकते हैं।</BuildBeds.textController>
+  
+  <!-- EN: Build a fueled stove inside the room -->
+  <BuildFueledStove.onMapInstruction>कमरे के अंदर ईंधन से चलने वाला स्टोव बनाएँ।</BuildFueledStove.onMapInstruction>
+  <!-- EN: Please build the fueled stove inside the room you built earlier. -->
+  <BuildFueledStove.rejectInputMessage>पहले बनाए गए कमरे के अंदर ईंधन से चलने वाला स्टोव बनाएं।</BuildFueledStove.rejectInputMessage>
+  <!-- EN: Excellent!\n\nNow you'll need to make a stove to cook food.\n\nBuild a FUELED STOVE inside the room. -->
+  <BuildFueledStove.text>उत्कृष्ट!\n\nअब आपको भोजन पकाने के लिए एक स्टोव बनाना होगा।\n\nकमरे के अंदर एक ईंधनित स्टोव बनाएँ।</BuildFueledStove.text>
+  
+  <!-- EN: Build a horseshoes pin\noutside the room -->
+  <BuildHorseshoesPin.onMapInstruction>बाहरी कमरे में घोड़े की नाल का पिन बनाएं।</BuildHorseshoesPin.onMapInstruction>
+  <!-- EN: Please place a horseshoes pin somewhere near the room. -->
+  <BuildHorseshoesPin.rejectInputMessage>कृपया कमरे के पास कहीं एक घोड़े की नाल का पिन रखें।</BuildHorseshoesPin.rejectInputMessage>
+  <!-- EN: Your colonists need sources of recreation or they'll get sad over time.\n\nBuild a HORSESHOES pin outside, near the room. -->
+  <BuildHorseshoesPin.text>आपके उपनिवेशवादियों को मनोरंजन के स्रोत चाहिए नहीं तो वे समय के साथ दुखी हो जाएंगे।\n\nकमरे के पास बाहर एक HORSESHOES पिन बनाएं।</BuildHorseshoesPin.text>
+  
+  <!-- EN: Build a door over one wall -->
+  <BuildRoomDoor.onMapInstruction>एक दीवार पर दरवाजा बनाएँ।</BuildRoomDoor.onMapInstruction>
+  <!-- EN: Please build a wooden door over one of your room walls. -->
+  <BuildRoomDoor.rejectInputMessage>अपने कमरे की एक दीवार पर एक लकड़ी का दरवाज़ा बनाएँ।</BuildRoomDoor.rejectInputMessage>
+  <!-- EN: Now just place a DOOR over any one of the room walls.\n\nDOOR is right beside WALL in the ARCHITECT menu. -->
+  <BuildRoomDoor.text>अब किसी भी कमरे की दीवार पर एक DOOR रखें।\n\nDOOR, ARCHITECT मेनू में WALL के ठीक बगल में है।</BuildRoomDoor.text>
+  
+  <!-- EN: Build walls -->
+  <BuildRoomWalls.onMapInstruction>दीवारें बनाएँ</BuildRoomWalls.onMapInstruction>
+  <!-- EN: Please build wooden walls along the edges of the highlighted rectangle. -->
+  <BuildRoomWalls.rejectInputMessage>हाइलाइट किए गए आयत के किनारों के साथ लकड़ी की दीवारें बनाएं।</BuildRoomWalls.rejectInputMessage>
+  <!-- EN: Awesome! Next, we'll build a room.\n\n1. Click ARCHITECT.\n2. Click STRUCTURE.\n3. Select WALL.\n4. Select WOOD as the material.\n5. Drag out four walls to form the shape indicated on the map. -->
+  <BuildRoomWalls.text>शानदार! अब हम एक कमरा बनाएंगे।\n\n1. आर्किटेक्ट पर क्लिक करें।\n2. संरचना पर क्लिक करें।\n3. दीवार चुनें।\n4. सामग्री के रूप में लकड़ी चुनें।\n5. मानचित्र पर दर्शाए गए आकार को बनाने के लिए चार दीवारों को खींचें।</BuildRoomWalls.text>
+  
+  <!-- EN: Build sandbags here -->
+  <BuildSandbags.onMapInstruction>यहाँ रेत की बोरियाँ बनाएँ</BuildSandbags.onMapInstruction>
+  <!-- EN: Please build sandbags in the highlighted area. -->
+  <BuildSandbags.rejectInputMessage>हाइलाइट किए गए क्षेत्र में रेत की बोरियां बनाएं।</BuildSandbags.rejectInputMessage>
+  <!-- EN: Great! You've now got a basic colony running! Eventually, enemies will raid your colony. It's time to prepare for that.\n\nSelect the SANDBAGS designator and drag the sandbags out at the designated area. -->
+  <BuildSandbags.text>शानदार! अब आपके पास एक बुनियादी कॉलोनी चल रही है! अंततः, शत्रु आपकी कॉलोनी पर हमला करेंगे। इसके लिए तैयारी करने का समय है।\n\nसैंडबैग डिज़ाइनरेटर चुनें और सैंडबैग को निर्दिष्ट क्षेत्र में खींचें।</BuildSandbags.text>
+  
+  <!-- EN: Build a wooden simple research bench\ninside the room -->
+  <BuildSimpleResearchBench.onMapInstruction>कमरे के अंदर एक लकड़ी का साधारण अनुसंधान बेंच बनाएँ।</BuildSimpleResearchBench.onMapInstruction>
+  <!-- EN: Please place a wooden simple research bench inside the room you built earlier. -->
+  <BuildSimpleResearchBench.rejectInputMessage>पहले बनाए गए कमरे के अंदर एक लकड़ी का साधारण अनुसंधान बेंच रखें।</BuildSimpleResearchBench.rejectInputMessage>
+  <!-- EN: To advance, you'll need to research new technologies.\n\nBuild a wooden SIMPLE RESEARCH BENCH inside your room. -->
+  <BuildSimpleResearchBench.text>आगे बढ़ने के लिए, आपको नई तकनीकों पर शोध करने की आवश्यकता होगी।\n\nअपने कमरे के अंदर एक लकड़ी का सरल अनुसंधान बेंच बनाएं।</BuildSimpleResearchBench.text>
+  
+  <!-- EN: Build a torch lamp inside the room -->
+  <BuildTorchLamp.onMapInstruction>कमरे के अंदर एक मशाल लैंप बनाएँ।</BuildTorchLamp.onMapInstruction>
+  <!-- EN: Please build a torch lamp inside the room. -->
+  <BuildTorchLamp.rejectInputMessage>कमरे के अंदर एक मशाल लैंप बनाएँ।</BuildTorchLamp.rejectInputMessage>
+  <!-- EN: You'll also want some light inside, or your colonists will get grumpy in the dark.\n\nBuild a TORCH LAMP inside the room. -->
+  <BuildTorchLamp.text>आपको अंदर थोड़ी रोशनी चाहिए, या आपके उपनिवेशवादी अंधेरे में चिड़चिड़े हो जाएंगे।\n\nकमरे के अंदर एक मशाल लैंप बनाएं।</BuildTorchLamp.text>
+  
+  <!-- EN: Please open the 'Work' tab and change some settings. -->
+  <ChangeWorkSettings.rejectInputMessage>&amp;apos;कार्य&amp;apos; टैब खोलें और कुछ सेटिंग्स बदलें।</ChangeWorkSettings.rejectInputMessage>
+  <!-- EN: You can control who does what kinds of work using the checkboxes. Colonists will do tasks in order, from left to right.\n\nTry changing some settings now.\n\nBeware - Colonists always follow their work priorities, even if this makes them do dumb things! Setting up a smart work regime is an important skill in RimWorld. So set the work settings carefully, and review them often! -->
+  <ChangeWorkSettings.text>आप चेकबॉक्स का उपयोग करके नियंत्रित कर सकते हैं कि कौन क्या काम करता है। उपनिवेशवादी कार्यों को क्रम में करेंगे, बाएं से दाएं।\n\nअभी कुछ सेटिंग्स बदलने का प्रयास करें।\n\nसावधान रहें - उपनिवेशवादी हमेशा अपनी कार्य प्राथमिकताओं का पालन करते हैं, भले ही इससे वे मूर्खतापूर्ण काम करें! रिमवर्ल्ड में एक स्मार्ट कार्य व्यवस्था स्थापित करना एक महत्वपूर्ण कौशल है। इसलिए कार्य सेटिंग्स को ध्यान से सेट करें, और उन्हें अक्सर समीक्षा करें!</ChangeWorkSettings.text>
+  
+  <!-- EN: Please choose a temperate forest (light green color) site with no landmarks, no mixed biomes, and no hills. -->
+  <ChooseLandingSite.rejectInputMessage>कृपया एक समशीतोष्ण वन (हल्के हरे रंग) स्थल चुनें जिसमें कोई स्थलचिह्न न हों, कोई मिश्रित बायोम न हों और कोई पहाड़ियाँ न हों।</ChooseLandingSite.rejectInputMessage>
+  <!-- EN: Here you choose your starting site.\n\nClick a temperate forest (light green) with no brown hills. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
+  <ChooseLandingSite.text>यहां आप अपनी शुरुआती जगह चुनते हैं।\n\nएक समशीतोष्ण वन (हल्का हरा) पर क्लिक करें जिसमें भूरे पहाड़ियाँ न हों। फिर NEXT पर क्लिक करें।\n\nवैकल्पिक रूप से, आप चयनित टाइल के बारे में जानकारी देखने के लिए TERRAIN टैब का उपयोग कर सकते हैं।</ChooseLandingSite.text>
+  
+  <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
+  <ChooseStoryteller.rejectInputMessage>कृपया ट्यूटोरियल समाप्त करने के लिए विकल्प मेनू में एक कहानीकार चुनें।</ChooseStoryteller.rejectInputMessage>
+  <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click the Gameplay button in the left columm.\n4. Click the Modify button beside Storyteller settings.\n5. Select a storyteller and playstyle that appeals to you.\n\nGood luck, and have fun. -->
+  <ChooseStoryteller.text>यह ट्यूटोरियल का अंत है!\n\nसीखने के लिए अभी भी बहुत कुछ है, जिसमें कैदी, शिकार, व्यापार, पशु प्रशिक्षण और बहुत कुछ शामिल है। लेकिन आपने बुनियादी बातें समझ ली हैं।\n\nइस ट्यूटोरियल के दौरान यादृच्छिक घटनाएं अक्षम कर दी गई थीं। वास्तविक गेम शुरू करने के लिए:\n\n1. नीचे-दाएं कोने में MENU टैब खोलें।\n2. OPTIONS चुनें।\n3. बाएं कॉलम में Gameplay बटन पर क्लिक करें।\n4. Storyteller सेटिंग्स के बगल में Modify बटन पर क्लिक करें।\n5. एक कहानीकार और खेलने की शैली चुनें जो आपको पसंद आए।\n\nशुभकामनाएं, और मज़े करें।</ChooseStoryteller.text>
+  
+  <!-- EN: Please drag the 'chop wood' designator over some trees. -->
+  <ChopTrees.rejectInputMessage>कुछ पेड़ों पर &amp;apos;लकड़ी काटें&amp;apos; डिज़ाइनरेटर को खींचिए।</ChopTrees.rejectInputMessage>
+  <!-- EN: You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.) -->
+  <ChopTrees.text>कुछ लकड़ी काटना होगा। कुछ पेड़ों को काटने के लिए निर्दिष्ट करें।\n\nCHOP WOOD डिज़ाइनेटर चुनें और  पेड़ों को काटने के लिए निर्दिष्ट करें।\n\n(पेशेवर टिप: एक साथ कई पेड़ों को निर्दिष्ट करने के लिए आप पेड़ों पर एक बॉक्स खींच सकते हैं।)</ChopTrees.text>
+  
+  <!-- EN: Click GENERATE to generate your world. -->
+  <CreateWorldParams.rejectInputMessage>दुनिया उत्पन्न करने के लिए जेनरेट पर क्लिक करें।</CreateWorldParams.rejectInputMessage>
+  <!-- EN: Welcome to RimWorld!\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
+  <CreateWorldParams.text>रिमवर्ल्ड में आपका स्वागत है!\n\nयह पृष्ठ कॉन्फ़िगर करता है कि आपकी दुनिया कैसे उत्पन्न होनी चाहिए।\n\nयहाँ डिफ़ॉल्ट सेटिंग्स अच्छी हैं - आगे बढ़ें और उत्पन्न पर क्लिक करें!</CreateWorldParams.text>
+  
+  <!-- EN: Send colonists here\ntouching sandbags for cover -->
+  <DownRaider.onMapInstruction>यहाँ उपनिवेशवादियों को भेजें\nकवर के लिए रेत की बोरियों को छूना।</DownRaider.onMapInstruction>
+  <!-- EN: Please focus on winning the fight! -->
+  <DownRaider.rejectInputMessage>रिमवर्ल्ड - ट्यूटोरियल और सीखने की अवधारणाएँ।\n\nमहत्वपूर्ण नियम:\n- कोई स्पष्टीकरण, नोट्स, या कोष्ठकीय टिप्पणी नहीं\n- कोई</DownRaider.rejectInputMessage>
+  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
+  <DownRaider.text>मैंने एक हमलावर को आपके उपनिवेश पर हमला करने के लिए भेजा है!\n\n1. {Key:TogglePause} दबाकर खेल को रोकें!\n2. स्क्रीन के निचले-दाएं कोने में लाल अक्षर पढ़ें।\n3. अपने उपनिवेशवादियों को चुनकर और DRAFT कमांड दबाकर उन्हें ड्राफ्ट करें।\n4. उन्हें रेत के थैले के वर्ग के अंदर, रेत के थैलों को छूते हुए स्थानों पर भेजने के लिए राइट-क्लिक करें।\n5. अनपॉज करें।\n\nउपनिवेशवादियों को इससे लाभ उठाने के लिए कवर को छूना चाहिए। एक बार जब आप कवर में हों, तो हमलावर के आने का इंतजार करें। आपके उपनिवेशवादी स्वचालित रूप से गोली चलाएंगे।</DownRaider.text>
+  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Press left trigger button to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
+  <DownRaider.textController>मैंने एक हमलावर को आपकी कॉलोनी पर हमला करने के लिए भेजा है!\n\n1. {Key:TogglePause} दबाकर गेम को रोकें!\n2. स्क्रीन के नीचे-दाएं कोने में लाल अक्षर पढ़ें।\n3. अपने उपनिवेशवादियों का मसौदा तैयार करें उन्हें चुनकर और मसौदा कमांड दबाकर।\n4. उन्हें रेत के थैले के वर्ग के अंदर की स्थिति पर भेजने के लिए बाएँ ट्रिगर बटन दबाएँ, रेत के थैलों को छूते हुए।\n5. अनपॉज करें।\n\nउपनिवेशवादियों को इससे लाभ उठाने के लिए कवर को छूना चाहिए। एक बार जब आप कवर में हों, तो हमलावर के आने का इंतजार करें। आपके उपनिवेशवादी स्वचालित रूप से गोली मारेंगे।</DownRaider.textController>
+  
+  <!-- EN: Right-click to get out of stockpile designating mode. -->
+  <EndStockpileDesignating.text>राइट-क्लिक करके स्टॉकपाइल निर्दिष्ट मोड से बाहर निकलें।</EndStockpileDesignating.text>
+  <!-- EN: Press left trigger button to get out of stockpile designating mode. -->
+  <EndStockpileDesignating.textController>स्टॉकपाइल पदनाम मोड से बाहर निकलने के लिए बायां ट्रिगर बटन दबाएं।</EndStockpileDesignating.textController>
+  
+  <!-- EN: Equip this -->
+  <EquipWeapons.onMapInstruction>यह लैस करें</EquipWeapons.onMapInstruction>
+  <!-- EN: Please have your colonists equip weapons. -->
+  <EquipWeapons.rejectInputMessage>अपने उपनिवेशवादियों को हथियार लैस करें।</EquipWeapons.rejectInputMessage>
+  <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Right-click the weapon you want to equip.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
+  <EquipWeapons.text>अपने उपनिवेशवादियों को शुरुआती हथियार लैस करें। हथियार लैस करने के लिए:\n\n1. उपनिवेशवादी पर क्लिक करके चयन करें।\n2. इच्छित हथियार पर राइट-क्लिक करें।\n3. संदर्भ मेनू पर &amp;apos;हथियार लैस करें&amp;apos; क्लिक करें।\n\nयह प्रत्येक उपनिवेशवादी के लिए करें।</EquipWeapons.text>
+  <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Hover over the weapon you want to equip and press left trigger button.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
+  <EquipWeapons.textController>अपने उपनिवेशवादियों को शुरुआती हथियार लैस करें। हथियार लैस करने के लिए:\n\n1. उपनिवेशवादी पर क्लिक करके चयन करें।\n2. लैस करने के लिए इच्छित हथियार पर मंडराएं और बायां ट्रिगर बटन दबाएं।\n3. संदर्भ मेनू पर &amp;apos;हथियार लैस करें&amp;apos; पर क्लिक करें।\n\nयह प्रत्येक उपनिवेशवादी के लिए करें।</EquipWeapons.textController>
+  
+  <!-- EN: Please expand the build roof area a bit, just for practice. -->
+  <ExpandAreaBuildRoof.rejectInputMessage>कृपया निर्माण छत क्षेत्र को थोड़ा विस्तारित करें।</ExpandAreaBuildRoof.rejectInputMessage>
+  <!-- EN: The BUILD ROOF AREA defines where your colonists will try to build roofs.\n\nIt auto-fills when you enclose a new room.\n\nSelect the EXPAND BUILD ROOF AREA tool and drag out the shape of a porch roof on the front of the house. -->
+  <ExpandAreaBuildRoof.text>बिल्ड रूफ एरिया परिभाषित करता है कि आपके उपनिवेशवादी छतें कहाँ बनाने की कोशिश करेंगे।\n\nयह किसी नए कमरे को घेरने पर स्वतः भर जाता है।\n\nएक्सपैंड बिल्ड रूफ एरिया टूल चुनें और घर के सामने बरामदे की छत का आकार खींचें।</ExpandAreaBuildRoof.text>
+  
+  <!-- EN: Please expand the home area a bit, just for practice. -->
+  <ExpandAreaHome.rejectInputMessage>रिमवर्ल्ड - ट्यूटोरियल और सीखने की अवधारणाएँ।\n\nघर के क्षेत्र का थोड़ा विस्तार करें, सिर्फ अभ्यास के लिए।</ExpandAreaHome.rejectInputMessage>
+  <!-- EN: Next, you'll learn to expand the HOME AREA.\n\nColonists will clean floors and extinguish fires in the home area only, and ignore fires or filth outside of it.\n\nThe home area is added automatically when you build things - but you can also expand it manually.\n\nSelect the EXPAND HOME AREA tool and drag out a new area on the map. -->
+  <ExpandAreaHome.text>अगला, आप HOME AREA का विस्तार करना सीखेंगे।\n\nकॉलोनीवादी केवल होम एरिया में फर्श साफ़ करेंगे और आग बुझाएंगे, और बाहर की आग या गंदगी को अनदेखा करेंगे।\n\nहोम एरिया स्वचालित रूप से तब जुड़ जाता है जब आप कुछ बनाते हैं - लेकिन आप इसे मैन्युअल रूप से भी विस्तारित कर सकते हैं।\n\nEXPAND HOME AREA टूल चुनें और मानचित्र पर एक नया क्षेत्र खींचें।</ExpandAreaHome.text>
+  
+  <!-- EN: Please wait for your colonists to finish building the sandbags. -->
+  <FinishSandbags.rejectInputMessage>कृपया अपने उपनिवेशवादियों को रेत की बोरियाँ बनाने दीजिये।</FinishSandbags.rejectInputMessage>
+  <!-- EN: Let's just wait for all your constructions to be built.\n\nConsider using the WORK tab to assign more colonists to Construct.\n\nAlso, you can speed up time to shorten the wait.\n\nOnce everything's built, I'll send an attacker to test your defenses! -->
+  <FinishSandbags.text>आइए, आपकी सभी संरचनाओं के बनने का इंतज़ार करें।\n\nनिर्माण के लिए अधिक उपनिवेशवादियों को नियुक्त करने हेतु कार्य टैब का उपयोग करने पर विचार करें।\n\nइंतज़ार को कम करने के लिए आप समय को तेज़ी से भी चला सकते हैं।\n\nएक बार सब कुछ बन जाने के बाद, मैं आपकी रक्षा का परीक्षण करने हेतु एक हमलावर भेजूँगा!</FinishSandbags.text>
+  
+  <!-- EN: Place growing zone here\n(drag corner-to-corner) -->
+  <MakeGrowingZone.onMapInstruction>यहाँ वृद्धि क्षेत्र रखें\n(कोने से कोने तक खींचें)</MakeGrowingZone.onMapInstruction>
+  <!-- EN: Please make a growing zone on the indicated area. -->
+  <MakeGrowingZone.rejectInputMessage>निर्दिष्ट क्षेत्र पर एक वृद्धि क्षेत्र बनाएं।</MakeGrowingZone.rejectInputMessage>
+  <!-- EN: The house is being built!\n\nYour colonists will need something to eat, so place a GROWING ZONE as indicated on the map.\n\nThis is where your colonists will sow crops. -->
+  <MakeGrowingZone.text>घर बन रहा है!\n\nआपके उपनिवेशवादियों को खाने के लिए कुछ चाहिए होगा, इसलिए मानचित्र पर दर्शाए अनुसार एक GROWING ZONE रखें।\n\nयह वह जगह है जहाँ आपके उपनिवेशवादी फसल बोएंगे।</MakeGrowingZone.text>
+  
+  <!-- EN: Place stockpile here\n(drag corner-to-corner) -->
+  <MakeStockpile.onMapInstruction>यहाँ भंडार ढेर रखें\n(कोने से कोने तक खींचें)</MakeStockpile.onMapInstruction>
+  <!-- EN: Please make a stockpile on the indicated area. -->
+  <MakeStockpile.rejectInputMessage>निर्दिष्ट क्षेत्र पर एक भंडार बनाएं।</MakeStockpile.rejectInputMessage>
+  <!-- EN: Great!\n\nNow, make a stockpile so your colonists know where to keep items.\n\n1. Click ARCHITECT tab in the bottom left.\n2. Click the ZONE/AREA category.\n3. Select the CREATE STOCKPILE tool.\n4. Click and drag out a square as indicated on the map. -->
+  <MakeStockpile.text>एक भंडारण ढेर बनाएं ताकि आपके उपनिवेशवादियों को पता हो कि वस्तुओं को कहाँ रखना है।\n\n1. नीचे बाईं ओर ARCHITECT टैब पर क्लिक करें।\n2. ZONE/AREA श्रेणी पर क्लिक करें।\n3. CREATE STOCKPILE टूल का चयन करें।\n4. मानचित्र पर दर्शाए अनुसार एक वर्ग पर क्लिक करें और खींचें।</MakeStockpile.text>
+  
+  <!-- EN: Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now! -->
+  <MapCameraDolly.text>आप सतह पर हैं!\n\nअब कैमरे को घुमाने का प्रयास करें।\n\n{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} कुंजियों का उपयोग करें, या मध्य माउस बटन से क्लिक करके खींचें।\n\nअभी प्रयास करें!</MapCameraDolly.text>
+  <!-- EN: Here you are on the surface!\n\nNow try moving the camera around with the left joystick.\n\nTry it now! -->
+  <MapCameraDolly.textController>आप सतह पर हैं!\n\nअब बाएं जॉयस्टिक से कैमरे को घुमाने का प्रयास करें।\n\nअभी प्रयास करें!</MapCameraDolly.textController>
+  
+  <!-- EN: Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now! -->
+  <MapCameraZoom.text>आप माउस व्हील या {Key:MapZoom_In} और {Key:MapZoom_Out} कुंजियों से ज़ूम इन और आउट भी कर सकते हैं।\n\nअभी प्रयास करें!</MapCameraZoom.text>
+  <!-- EN: Great!\n\nYou can also zoom in and out with {Key:MapZoom_In} and {Key:MapZoom_Out}.\n\nTry it now! -->
+  <MapCameraZoom.textController>आप {Key:MapZoom_In} और {Key:MapZoom_Out} से ज़ूम इन और आउट भी कर सकते हैं।\n\nअभी प्रयास करें!</MapCameraZoom.textController>
+  
+  <!-- EN: Designate all this\nfor mining -->
+  <MineSteel.onMapInstruction>इसे खनन के लिए निर्दिष्ट करें।</MineSteel.onMapInstruction>
+  <!-- EN: Please use the 'mine' designator on the compacted steel. -->
+  <MineSteel.rejectInputMessage>कृपया संघनित इस्पात पर &amp;apos;माइन&amp;apos; डिज़ाइनेटर का उपयोग करें।</MineSteel.rejectInputMessage>
+  <!-- EN: Now your colonists will cook some food! Tasty!\n\nNext, you'll want to mine some minerals. I've spawned some mineable steel near your base.\n\nSelect the MINE designator and drag over the steel to designate it for mining. -->
+  <MineSteel.text>अब आपके उपनिवेशवादी कुछ भोजन पकाएंगे! स्वादिष्ट!\n\nइसके बाद, आप कुछ खनिज निकालना चाहेंगे। मैंने आपके आधार के पास कुछ उत्खनन योग्य स्टील उत्पन्न किया है।\n\nMINE डिज़ाइनेटर का चयन करें और खनन के लिए उसे नामित करने के लिए स्टील पर खींचें।</MineSteel.text>
+  
+  <!-- EN: Please open the 'Research' tab. -->
+  <OpenMainTabResearch.rejectInputMessage>&amp;apos;रिसर्च&amp;apos; टैब खोलें।</OpenMainTabResearch.rejectInputMessage>
+  <!-- EN: Excellent! Next, you'll want to select what you want to be researched.\n\nOpen the RESEARCH tab. -->
+  <OpenMainTabResearch.text>उत्कृष्ट! अब, आपको वह चुनना होगा जिसकी आप जांच करना चाहते हैं।\n\nRESEARCH टैब खोलें।</OpenMainTabResearch.text>
+  
+  <!-- EN: Please open the 'Work' tab. -->
+  <OpenMainTabWork.rejectInputMessage>&amp;apos;कार्य&amp;apos; टैब खोलें।</OpenMainTabWork.rejectInputMessage>
+  <!-- EN: You can control which colonist does what kind of work.\n\nOpen the WORK tab at the bottom of the screen. -->
+  <OpenMainTabWork.text>आप उपनिवेशवादी को क्या काम करना है, नियंत्रित कर सकते हैं।\n\nस्क्रीन के नीचे WORK टैब खोलें।</OpenMainTabWork.text>
+  
+  <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right. -->
+  <Pause.text>आप समय रोक सकते हैं।\n\nइसका मतलब है कि आपको कभी भी जल्दबाजी करने की आवश्यकता नहीं है। आप हमेशा रोक सकते हैं और आदेश जारी करने के लिए अपना समय ले सकते हैं।\n\n{Key:TogglePause} कुंजी से या नीचे दाईं ओर समय नियंत्रण का उपयोग करके रोकने का प्रयास करें।</Pause.text>
+  <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} button, or by using the time controls in the bottom right. -->
+  <Pause.textController>आप समय रोक सकते हैं।\n\nइसका मतलब है कि आपको कभी भी जल्दबाजी करने की आवश्यकता नहीं है। आप हमेशा रोक सकते हैं और आदेश जारी करने के लिए अपना समय ले सकते हैं।\n\n{Key:TogglePause} बटन से या नीचे दाईं ओर समय नियंत्रण का उपयोग करके रोकने का प्रयास करें।</Pause.textController>
+  
+  <!-- EN: Please click the RANDOMIZE button to randomize the character. -->
+  <RandomizeCharacter.rejectInputMessage>कृपया रैंडमाइज़ बटन पर क्लिक करके चरित्र को यादृच्छिक करें।</RandomizeCharacter.rejectInputMessage>
+  <!-- EN: If you don't like a character, you can regenerate them!\n\nClick the RANDOMIZE button to randomize the character. -->
+  <RandomizeCharacter.text>यदि आपको कोई पात्र पसंद नहीं है, तो आप उसे पुनः उत्पन्न कर सकते हैं!\n\nRANDOMIZE बटन पर क्लिक करके पात्र को यादृच्छिक करें।</RandomizeCharacter.text>
+  
+  <!-- EN: Please drag a character from the "left behind" group (at the bottom-left) into the "selected" group (at the upper-left). -->
+  <ReorderCharacters.rejectInputMessage>कृपया &amp;quot;छोड़ दिए गए&amp;quot; समूह (नीचे-बाएँ) से एक पात्र को &amp;quot;चयनित&amp;quot; समूह (ऊपर-बाएँ) में खींचें।</ReorderCharacters.rejectInputMessage>
+  <!-- EN: Now you choose which characters you want to use.\n\nDRAG a character from the "left behind" part of the character list (at the bottom) into the "selected" part (at the top).\n\nOptionally, clicking a character will allow you inspect him or her. -->
+  <ReorderCharacters.text>अब आप उन पात्रों का चयन करें जिन्हें आप उपयोग करना चाहते हैं।\n\n&amp;quot;चरित्र सूची&amp;quot; के &amp;quot;छोड़ दिए गए&amp;quot; भाग से एक पात्र को &amp;quot;चयनित&amp;quot; भाग (ऊपर) में खींचें।\n\nवैकल्पिक रूप से, किसी पात्र पर क्लिक करने से आप उसका निरीक्षण कर सकते हैं।</ReorderCharacters.text>
+  
+  <!-- EN: Please choose a research project. -->
+  <SelectResearchProject.rejectInputMessage>एक अनुसंधान परियोजना चुनें।</SelectResearchProject.rejectInputMessage>
+  <!-- EN: Now just choose whatever you want to be researched first.\n\nYou might have to wait for the research bench to be constructed, or for trees to be chopped for wood.\n\nIf it's taking too long, use the WORK tab to assign more colonists to Construct. -->
+  <SelectResearchProject.text>सबसे पहले अनुसंधान के लिए जो चाहें चुनें।\n\nअनुसंधान बेंच के बनने का इंतज़ार करना पड़ सकता है, या लकड़ी के लिए पेड़ों को काटना पड़ सकता है।\n\nअगर इसमें बहुत समय लग रहा है, तो WORK टैब का उपयोग करके अधिक उपनिवेशवादियों को निर्माण कार्य सौंपें।</SelectResearchProject.text>
+  
+  <!-- EN: Set this growing zone to grow rice -->
+  <SetToGrowRice.onMapInstruction>इस बढ़ते क्षेत्र को चावल उगाने के लिए सेट करें।</SetToGrowRice.onMapInstruction>
+  <!-- EN: Please set your growing zone to grow rice. -->
+  <SetToGrowRice.rejectInputMessage>अपने उगाने वाले क्षेत्र को चावल उगाने के लिए सेट करें।</SetToGrowRice.rejectInputMessage>
+  <!-- EN: You can decide what plant your colonists should sow in a growing zone.\n\n1. Right-click to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the plant selector at the bottom and change it to rice. -->
+  <SetToGrowRice.text>आप अपने उपनिवेशवादियों को उगाने वाले क्षेत्र में बोने के लिए कोई भी पौधा चुन सकते हैं।\n\n1. आर्किटेक्ट मोड से बाहर निकलने के लिए दायाँ-क्लिक करें।\n2. इसे चुनने के लिए अपने उगाने वाले क्षेत्र पर क्लिक करें।\n3. नीचे दिए गए प्लांट सेलेक्टर पर क्लिक करें और इसे चावल में बदलें।</SetToGrowRice.text>
+  <!-- EN: You can decide what plant your colonists should sow in a growing zone.\n\n1. Press left trigger button to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the plant selector at the bottom and change it to rice. -->
+  <SetToGrowRice.textController>आप अपने उपनिवेशवादियों को उगाने वाले क्षेत्र में बोने के लिए कोई भी पौधा चुन सकते हैं।\n\n1. आर्किटेक्ट मोड से बाहर निकलने के लिए बाएँ ट्रिगर बटन दबाएँ।\n2. इसे चुनने के लिए अपने उगाने वाले क्षेत्र पर क्लिक करें।\n3. नीचे दिए गए प्लांट सेलेक्टर पर क्लिक करें और इसे चावल में बदलें।</SetToGrowRice.textController>
+  
+  <!-- EN: You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
+  <TimeControls.text>आप समय को तेज़ भी कर सकते हैं।\n\n{Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, और {Key:TimeSpeed_Superfast} कुंजियों से, या नीचे दाईं ओर के समय नियंत्रणों से समय को नियंत्रित करने का प्रयास करें।</TimeControls.text>
+  <!-- EN: You can also speed up time.\n\nTry controlling time with {Key:TimeSpeed_Faster} and {Key:TimeSpeed_Slower}, or with the time controls in the bottom right. -->
+  <TimeControls.textController>आप समय को तेज़ भी कर सकते हैं।\n\n{Key:TimeSpeed_Faster} और {Key:TimeSpeed_Slower} से समय को नियंत्रित करने का प्रयास करें, या नीचे दाईं ओर मौजूद समय नियंत्रणों से।</TimeControls.textController>
+  
+  <!-- EN: Please un-draft your colonists. -->
+  <UndraftAll.rejectInputMessage>अपने उपनिवेशवादियों को ड्राफ्ट से हटाएँ।</UndraftAll.rejectInputMessage>
+  <!-- EN: Success! Now UNDRAFT all your colonists using the same command as before.\n\nThis will let them return to their own schedules. -->
+  <UndraftAll.text>सफलता! अब पहले दिए गए आदेश का उपयोग करके अपने सभी उपनिवेशवादियों को अनड्राफ्ट करें।\n\nयह उन्हें अपनी स्वयं की समय-सारणी पर लौटने देगा।</UndraftAll.text>
+  
+  <!-- EN: Allow this -->
+  <UnforbidStartingResources.onMapInstruction>अनुमति दें</UnforbidStartingResources.onMapInstruction>
+  <!-- EN: Please allow your starting items. -->
+  <UnforbidStartingResources.rejectInputMessage>अपने शुरुआती आइटम अनुमति दें।</UnforbidStartingResources.rejectInputMessage>
+  <!-- EN: To allow your colonists to bring your items to the stockpile, you must remove the items' "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.)\n\nAlternatively, you can:\n1. Click ARCHITECT.\n2. Click ORDERS.\n3. Click ALLOW.\n4. Drag out a shape covering all forbidden items to allow them. -->
+  <UnforbidStartingResources.text>अपने उपनिवेशवादियों को आपकी वस्तुओं को भंडारगृह तक लाने की अनुमति देने के लिए, आपको वस्तुओं का &amp;quot;निषिद्ध&amp;quot; पदनाम हटाना होगा।\n\n1. अपनी शुरुआती वस्तुओं पर क्लिक करके उन्हें चुनें।\n2. उन्हें अनुमति देने के लिए ALLOW टॉगल बटन पर क्लिक करें।\n\n(पेशेवर टिप: एक ही प्रकार की सभी वस्तुओं को चुनने के लिए किसी आइटम पर डबल-क्लिक करें।)\n\nवैकल्पिक रूप से, आप कर सकते हैं:\n1. ARCHITECT पर क्लिक करें।\n2. ORDERS पर क्लिक करें।\n3. ALLOW पर क्लिक करें।\n4. निषिद्ध सभी वस्तुओं को अनुमति देने के लिए एक आकार खींचें।</UnforbidStartingResources.text>
+  
+</LanguageData>

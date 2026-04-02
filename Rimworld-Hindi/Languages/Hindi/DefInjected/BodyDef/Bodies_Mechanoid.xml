@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lancer -->
+  <Lancer.label>लांसर</Lancer.label>
+  <!-- EN: left sight sensor -->
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>बायां दृष्टि संवेदक</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>दाहिना दृष्टि संवेदक</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>बायां श्रवण संवेदक</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>दाहिना श्रवण संवेदक</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <!-- EN: left mechanical shoulder -->
+  <Lancer.corePart.parts.left_mechanical_shoulder.customLabel>बायां यांत्रिक कंधा</Lancer.corePart.parts.left_mechanical_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>बायां हाथ</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left hand -->
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>बायां हाथ</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>बायां अंगूठा</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left middle finger -->
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>बायां मध्य उंगली</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>बायां तर्जनी अंगूठा</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>बायां अंगूठा</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right mechanical shoulder -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.customLabel>दाहिना यांत्रिक कंधा</Lancer.corePart.parts.right_mechanical_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>दाहिना हाथ</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right hand -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>दाहिना हाथ</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>गुलाबी छोटी उंगली</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right middle finger -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>मध्यमा उंगली</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>दाहिना तर्जनी अंगुली</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>दाहिना अंगूठा</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Lancer.corePart.parts.left_leg.customLabel>बायां पैर</Lancer.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>बायां पैर</Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <Lancer.corePart.parts.right_leg.customLabel>दाहिना पैर</Lancer.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>दायां पैर</Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+  <!-- EN: mechanical centipede -->
+  <MechanicalCentipede.label>मैकेनिकल सेंटीपीड</MechanicalCentipede.label>
+  <!-- EN: left sight sensor -->
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>बायां दृष्टि संवेदक</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>दाहिना दृष्टि संवेदक</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>बायां श्रवण संवेदक</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>दाहिना श्रवण संवेदक</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  
+  <!-- EN: mechanical termite -->
+  <MechanicalTermite.label>यांत्रिक दीमक</MechanicalTermite.label>
+  <!-- EN: left sight sensor -->
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>बायां दृष्टि संवेदक</MechanicalTermite.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>दाहिना दृष्टि संवेदक</MechanicalTermite.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>बायां श्रवण संवेदक</MechanicalTermite.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>दाहिना श्रवण संवेदक</MechanicalTermite.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  
+  <!-- EN: pikeman -->
+  <Pikeman.label>भाला सैनिक</Pikeman.label>
+  <!-- EN: left sight sensor -->
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>बायां दृष्टि संवेदक</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>दाहिना दृष्टि संवेदक</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>बायां श्रवण संवेदक</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>दाहिना श्रवण संवेदक</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <!-- EN: front left leg -->
+  <Pikeman.corePart.parts.front_left_leg.customLabel>बायां अगला पैर</Pikeman.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left foot -->
+  <Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>बायां अगला पैर</Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+  <!-- EN: front right leg -->
+  <Pikeman.corePart.parts.front_right_leg.customLabel>सामने दायां पैर</Pikeman.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right foot -->
+  <Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>दाहिना अगला पैर</Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+  <!-- EN: rear left leg -->
+  <Pikeman.corePart.parts.rear_left_leg.customLabel>पिछला बायां पैर</Pikeman.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left foot -->
+  <Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>बायां पिछला पैर</Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+  <!-- EN: rear right leg -->
+  <Pikeman.corePart.parts.rear_right_leg.customLabel>पिछला दायां पैर</Pikeman.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right foot -->
+  <Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>दाहिना पिछला पैर</Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+  
+  <!-- EN: scyther -->
+  <Scyther.label>स्काइथर</Scyther.label>
+  <!-- EN: left sight sensor -->
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>बायां दृष्टि संवेदक</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <!-- EN: right sight sensor -->
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>दाहिना दृष्टि संवेदक</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <!-- EN: left hearing sensor -->
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>बायां श्रवण संवेदक</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <!-- EN: right hearing sensor -->
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>दाहिना श्रवण संवेदक</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <!-- EN: left shoulder -->
+  <Scyther.corePart.parts.left_shoulder.customLabel>बायां कंधा</Scyther.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>बायां हाथ</Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left blade -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>बायां ब्लेड</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>
+  <!-- EN: left hand -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>बायां हाथ</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>बायां अंगूठा</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left middle finger -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>बायां मध्य उंगली</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>बायां तर्जनी अंगूठा</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>बायां अंगूठा</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Scyther.corePart.parts.right_shoulder.customLabel>दाहिना कंधा</Scyther.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>दाहिना हाथ</Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right blade -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>दाहिना ब्लेड</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
+  <!-- EN: right hand -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>दाहिना हाथ</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>गुलाबी छोटी उंगली</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right middle finger -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>मध्यमा उंगली</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>दाहिना तर्जनी अंगुली</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>दाहिना अंगूठा</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Scyther.corePart.parts.left_leg.customLabel>बायां पैर</Scyther.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>बायां पैर</Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <Scyther.corePart.parts.right_leg.customLabel>दाहिना पैर</Scyther.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>दायां पैर</Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+</LanguageData>

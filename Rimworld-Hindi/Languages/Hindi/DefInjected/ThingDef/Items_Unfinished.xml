@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: minified thing -->
+  <MinifiedThing.label>छोटा वस्तु</MinifiedThing.label>
+  
+  <!-- EN: minified thing -->
+  <MinifiedThingRealtimeDraw.label>छोटा वस्तु</MinifiedThingRealtimeDraw.label>
+  
+  <!-- EN: minified tree -->
+  <MinifiedTree.label>छोटा पेड़</MinifiedTree.label>
+  
+  <!-- EN: unfinished apparel -->
+  <UnfinishedApparel.label>अधूरा परिधान</UnfinishedApparel.label>
+  <!-- EN: An unfinished piece of an apparel. -->
+  <UnfinishedApparel.description>एक परिधान का अधूरा टुकड़ा।</UnfinishedApparel.description>
+  
+  <!-- EN: unfinished simple armor -->
+  <UnfinishedArmor.label>अधूरा सरल कवच</UnfinishedArmor.label>
+  <!-- EN: An unfinished piece of simple armor. -->
+  <UnfinishedArmor.description>एक अधूरा साधारण कवच का टुकड़ा।</UnfinishedArmor.description>
+  
+  <!-- EN: unfinished belt -->
+  <UnfinishedBelt.label>अधूरा बेल्ट</UnfinishedBelt.label>
+  <!-- EN: An unfinished piece of a belt. -->
+  <UnfinishedBelt.description>एक बेल्ट का अधूरा टुकड़ा।</UnfinishedBelt.description>
+  
+  <!-- EN: unfinished component -->
+  <UnfinishedComponent.label>अधूरा घटक</UnfinishedComponent.label>
+  <!-- EN: An unfinished component. -->
+  <UnfinishedComponent.description>एक अधूरा घटक।</UnfinishedComponent.description>
+  
+  <!-- EN: unfinished gun -->
+  <UnfinishedGun.label>अधूरा हथियार</UnfinishedGun.label>
+  <!-- EN: An unfinished gun of some kind. -->
+  <UnfinishedGun.description>किसी प्रकार की अधूरी बंदूक।</UnfinishedGun.description>
+  
+  <!-- EN: unfinished bionic -->
+  <UnfinishedHealthItemBionic.label>अधूरा बायोनिक</UnfinishedHealthItemBionic.label>
+  <!-- EN: An unfinished bionic. -->
+  <UnfinishedHealthItemBionic.description>एक अधूरा बायोनिक।</UnfinishedHealthItemBionic.description>
+  
+  <!-- EN: unfinished prosthetic -->
+  <UnfinishedHealthItemProsthetic.label>अधूरा कृत्रिम अंग</UnfinishedHealthItemProsthetic.label>
+  <!-- EN: An unfinished prosthetic. -->
+  <UnfinishedHealthItemProsthetic.description>एक अधूरा कृत्रिम अंग।</UnfinishedHealthItemProsthetic.description>
+  
+  <!-- EN: unfinished mask -->
+  <UnfinishedMask.label>अधूरा मुखौटा</UnfinishedMask.label>
+  <!-- EN: An unfinished mask. -->
+  <UnfinishedMask.description>एक अधूरा मुखौटा।</UnfinishedMask.description>
+  
+  <!-- EN: unfinished metal armor -->
+  <UnfinishedMetallicTechArmor.label>अधूरा धातु कवच</UnfinishedMetallicTechArmor.label>
+  <!-- EN: An unfinished piece of metal armor. -->
+  <UnfinishedMetallicTechArmor.description>एक अधूरा धातु कवच।</UnfinishedMetallicTechArmor.description>
+  
+  <!-- EN: unfinished pack -->
+  <UnfinishedPack.label>अधूरा पैकेट</UnfinishedPack.label>
+  <!-- EN: An unfinished piece of a pack. -->
+  <UnfinishedPack.description>एक पैक का अधूरा टुकड़ा।</UnfinishedPack.description>
+  
+  <!-- EN: unfinished sculpture -->
+  <UnfinishedSculpture.label>अधूरा शिल्प</UnfinishedSculpture.label>
+  <!-- EN: An unfinished sculpture. -->
+  <UnfinishedSculpture.description>एक अधूरी मूर्ति।</UnfinishedSculpture.description>
+  
+  <!-- EN: unfinished advanced armor -->
+  <UnfinishedTechArmor.label>अधूरा उन्नत कवच</UnfinishedTechArmor.label>
+  <!-- EN: An unfinished piece of high-tech armor. -->
+  <UnfinishedTechArmor.description>एक अधूरा उच्च-तकनीकी कवच।</UnfinishedTechArmor.description>
+  
+  <!-- EN: unfinished weapon -->
+  <UnfinishedWeapon.label>अधूरा हथियार</UnfinishedWeapon.label>
+  <!-- EN: An unfinished weapon. -->
+  <UnfinishedWeapon.description>एक अधूरा हथियार।</UnfinishedWeapon.description>
+  
+</LanguageData>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: try to get to know -->
+  <BuildRapport.label>जानने की कोशिश</BuildRapport.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] described [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] offered a chance for [RECIPIENT_nameDef] to [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>toldastoryabout(p=2)->told a story about</li>
+    <li>toldastoryabout->told a funny story about</li>
+    <li>toldastoryabout->told a heartfelt story about</li>
+    <li>toldastoryabout->told an old story about</li>
+    <li>toldastoryabout->told a family story about</li>
+    <li>toldastoryabout->told a childhood story about</li>
+    <li>toldastoryabout->mentioned an anecdote about</li>
+    <li>talkabout->talk about</li>
+    <li>talkabout->discuss</li>
+    <li>talkabout->have a discussion about</li>
+    <li>talkabout->ask about</li>
+    <li>talkabout->think about</li>
+    <li>talkabout->find common ground around</li>
+    <li>subject->the colony</li>
+    <li>subject->the community</li>
+    <li>subject->joining the colony</li>
+    <li>subject->changing teams</li>
+    <li>subject->finding friends</li>
+    <li>subject->meeting new people</li>
+    <li>subject->reconsidering [RECIPIENT_possessive] ideas</li>
+    <li>subject->rethinking [RECIPIENT_possessive] loyalties</li>
+    <li>subject->health</li>
+    <li>subject->the future</li>
+    <li>subject->letting go</li>
+    <li>subject(p=4)->[ConceptPositive]</li>
+    <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
+  -->
+  <BuildRapport.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] को [subject] को [RECIPIENT_nameDef]।</li>
+    <li>r_logentry->[INITIATOR_nameDef] को बताया [RECIPIENT_nameDef] के बारे में [subject]।</li>
+    <li>r_logentry->[INITIATOR_nameDef] से बात की [RECIPIENT_nameDef] के बारे में [subject]।</li>
+    <li>r_logentry->[INITIATOR_nameDef] प्रोत्साहित किया [RECIPIENT_nameDef] को [talkabout] पर [subject]।</li>
+    <li>r_logentry->[INITIATOR_nameDef] प्रदान किया [RECIPIENT_nameDef] [talkabout] पर [subject]।</li>
+    <li>r_logentry->[INITIATOR_nameDef] रुचि व्यक्त की [PersonalCharacteristicDef] का [RECIPIENT_nameDef]।</li>
+    <li>r_logentry->[INITIATOR_nameDef] ने पूछा [RECIPIENT_nameDef] के बारे में [PersonalCharacteristic]।</li>
+    <li>toldastoryabout(p=2)->एक कहानी सुनाई</li>
+    <li>toldastoryabout->एक मजेदार कहानी सुनाई</li>
+    <li>toldastoryabout->उसने एक ईमानदार कहानी सुनाई।</li>
+    <li>toldastoryabout->एक पुरानी कहानी सुनाई</li>
+    <li>toldastoryabout->एक पारिवारिक कहानी सुनाई</li>
+    <li>toldastoryabout->उसने अपने बचपन की कहानी सुनाई।</li>
+    <li>toldastoryabout->एक किस्सा बताया</li>
+    <li>talkabout->बात करना</li>
+    <li>talkabout->चर्चा करना</li>
+    <li>talkabout->चर्चा करना</li>
+    <li>talkabout->पूछना</li>
+    <li>talkabout->सोचना</li>
+    <li>talkabout->समान ज़मीन खोजना</li>
+    <li>subject->कॉलोनी</li>
+    <li>subject->समुदाय</li>
+    <li>subject->जानवर उपनिवेश में शामिल हो रहे हैं</li>
+    <li>subject->टीम बदलना</li>
+    <li>subject->मित्रता</li>
+    <li>subject->नए लोगों से मिलना</li>
+    <li>subject->धर्म</li>
+    <li>subject->वफ़ादारी</li>
+    <li>subject->उसका स्वास्थ्य</li>
+    <li>subject->उनका परिवार</li>
+    <li>subject(p=4)->[ConceptPositive]</li>
+    <li>subject(p=2)->उसका [PersonalCharacteristic]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
+  </BuildRapport.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: recruit attempt -->
+  <RecruitAttempt.label>भर्ती का प्रयास</RecruitAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</li>
+    <li>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</li>
+    <li>goodthing(p=15)->[ConceptPositive]</li>
+    <li>goodthing->free, fresh [Vegetable]s</li>
+  -->
+  <RecruitAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] ने से निवेदन किया [RECIPIENT_nameDef] कि उपनिवेश में शामिल हो।</li>
+    <li>r_logentry->[INITIATOR_nameDef] वादा किया [goodthing] को [RECIPIENT_nameDef], और उसने कॉलोनी में शामिल होने के लिए कहा।</li>
+    <li>goodthing(p=0.5)->[ConceptPositive]</li>
+    <li>goodthing->स्वादिष्ट भोजन</li>
+    <li>goodthing->एक प्यारा घर</li>
+    <li>goodthing->स्वतंत्रता, भोजन और उनकी दोस्ती</li>
+    <li>goodthing->स्वतंत्रता, अच्छे पेय और आपकी दोस्ती।</li>
+    <li>goodthing->सुरक्षा करना और देखभाल करना</li>
+    <li>goodthing->उनकी स्थिति सुधारना</li>
+    <li>goodthing->उनका जीवन सुधारना</li>
+    <li>goodthing->बेहतर भोजन</li>
+  </RecruitAttempt.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: spark jailbreak -->
+  <SparkJailbreak.label>कैदियों का पलायन</SparkJailbreak.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape.</li>
+    <li>r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</li>
+    <li>r_logentry->[INITIATOR_nameDef] demonstrated a means of escape to [RECIPIENT_nameDef], and promised [freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that security is lax, and encouraged escape.</li>
+    <li>freedom->freedom</li>
+    <li>freedom->opportunity</li>
+    <li>freedom->home</li>
+    <li>freedom->self-determination</li>
+  -->
+  <SparkJailbreak.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] ने की खुशी के बारे में बात की [freedom], और बचने का एक तरीका पेश किया।</li>
+    <li>r_logentry->[INITIATOR_nameDef] ने की सुंदरता के बारे में बात की [TerrainFeature] और उसे स्वतंत्रता प्रदान की।</li>
+    <li>r_logentry->[INITIATOR_nameDef] ने भागने का एक तरीका दिखाया [RECIPIENT_nameDef], और उसने उसे वादा किया [freedom]।</li>
+    <li>r_logentry->[INITIATOR_nameDef] मना लिया [RECIPIENT_nameDef] कि सुरक्षा कमज़ोर है और भागने के लिए प्रोत्साहित किया।</li>
+    <li>freedom->स्वतंत्रता</li>
+    <li>freedom->आत्मनिर्णय</li>
+    <li>freedom->मुक्ति</li>
+    <li>freedom->आत्मनिर्णय</li>
+  </SparkJailbreak.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

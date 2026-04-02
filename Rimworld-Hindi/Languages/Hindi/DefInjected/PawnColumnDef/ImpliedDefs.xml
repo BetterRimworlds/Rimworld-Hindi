@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Transporte -->
+  <Trainable_Haul.headerTip>परिवहन</Trainable_Haul.headerTip>
+  
+  <!-- EN: Obediencia -->
+  <Trainable_Obedience.headerTip>आज्ञापालन</Trainable_Obedience.headerTip>
+  
+  <!-- EN: Ataque -->
+  <Trainable_Release.headerTip>हमला</Trainable_Release.headerTip>
+  
+  <!-- EN: Rescate -->
+  <Trainable_Rescue.headerTip>बचाव</Trainable_Rescue.headerTip>
+  
+  <!-- EN: Domesticado -->
+  <Trainable_Tameness.headerTip>पालतू बनाया गया</Trainable_Tameness.headerTip>
+  
+</LanguageData>

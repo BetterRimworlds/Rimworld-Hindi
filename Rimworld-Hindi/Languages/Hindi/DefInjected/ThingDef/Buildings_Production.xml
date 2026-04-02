@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biofuel refinery -->
+  <BiofuelRefinery.label>बायोईंधन शोधनशाला</BiofuelRefinery.label>
+  <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
+  <BiofuelRefinery.description>लकड़ी या वनस्पति पदार्थ जैसे जैविक पदार्थों को रासायनिक ईंधन में परिष्कृत करता है।</BiofuelRefinery.description>
+  
+  <!-- EN: brewery -->
+  <Brewery.label>शराबखाना</Brewery.label>
+  <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
+  <Brewery.description>बीयर उत्पादन के लिए मस्ट मिलाने के लिए आवश्यक सभी उपकरणों के साथ एक कार्य केंद्र। मस्ट को अंततः बीयर बनने के लिए किण्वित किया जाना चाहिए।</Brewery.description>
+  
+  <!-- EN: butcher spot -->
+  <ButcherSpot.label>कसाई स्थल</ButcherSpot.label>
+  <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
+  <ButcherSpot.description>जानवरों को काटने का स्थान। उपकरणों की कमी के कारण, यहाँ काटने से प्रत्येक जीव का केवल 70% मांस और चमड़ा प्राप्त होता है।</ButcherSpot.description>
+  
+  <!-- EN: crafting spot -->
+  <CraftingSpot.label>शिल्प स्थान</CraftingSpot.label>
+  <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
+  <CraftingSpot.description>सरल वस्तुओं जैसे चाकू या धनुष बनाने का स्थान। उपकरणों की कमी के कारण यहां उत्पादन धीमा है।</CraftingSpot.description>
+  
+  <!-- EN: deep drill -->
+  <DeepDrill.label>गहरा खनन</DeepDrill.label>
+  <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
+  <DeepDrill.description>गहरे भूगर्भ में खनिजों को निकालने के लिए एक गहरी परत ड्रिलिंग मशीन। संसाधनों का पता लगाने के लिए भूमि भेदन स्कैनर का उपयोग करें। यदि संसाधन मौजूद नहीं हैं तो यह ड्रिल पत्थर के टुकड़े देगी। इसे स्वतंत्र रूप से पुनः स्थापित किया जा सकता है।</DeepDrill.description>
+  
+  <!-- EN: drug lab -->
+  <DrugLab.label>दवा प्रयोगशाला</DrugLab.label>
+  <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
+  <DrugLab.description>एक कार्यक्षेत्र जिसमें विभिन्न दवाएं बनाने के लिए कंटेनर, हीटर और माप उपकरण लगे हैं।</DrugLab.description>
+  
+  <!-- EN: electric crematorium -->
+  <ElectricCrematorium.label>विद्युत दाहिनी</ElectricCrematorium.label>
+  <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
+  <ElectricCrematorium.description>एक विशाल पत्थर का श्मशान घाट जो अत्यधिक उच्च तापमान के साथ शवों को वाष्पित करता है।</ElectricCrematorium.description>
+  
+  <!-- EN: electric smelter -->
+  <ElectricSmelter.label>विद्युत शोधन</ElectricSmelter.label>
+  <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
+  <ElectricSmelter.description>धातु के टुकड़ों और मिश्रित धातु वस्तुओं से उपयोगी धातु निकालता है। बहुत अधिक ऊर्जा का उपयोग करता है।</ElectricSmelter.description>
+  
+  <!-- EN: electric smithy -->
+  <ElectricSmithy.label>विद्युत लोहारख़ाना</ElectricSmithy.label>
+  <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
+  <ElectricSmithy.description>विद्युत संचालित स्टेशन, जो गैर-यांत्रिक हथियार और उपकरण बनाने के लिए है।</ElectricSmithy.description>
+  
+  <!-- EN: electric stove -->
+  <ElectricStove.label>विद्युत चूल्हा</ElectricStove.label>
+  <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
+  <ElectricStove.description>बिजली से चलने वाला स्टोव, भोजन तैयार करने के लिए एक काउंटरटॉप से जुड़ा हुआ है।</ElectricStove.description>
+  
+  <!-- EN: electric tailor bench -->
+  <ElectricTailoringBench.label>विद्युत सिलाई बेंच</ElectricTailoringBench.label>
+  <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
+  <ElectricTailoringBench.description>एक कार्यक्षेत्र जिसमें कपड़ों की तेजी से सिलाई के लिए सिलाई मशीन लगी है। बिजली के बिना सामान्य गति के 50% पर कार्य कर सकता है।</ElectricTailoringBench.description>
+  
+  <!-- EN: fabrication bench -->
+  <FabricationBench.label>निर्माण बेंच</FabricationBench.label>
+  <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
+  <FabricationBench.description>एक कार्यक्षेत्र जो सरल सामग्री से तकनीकी अजूबों के उत्पादन के लिए उन्नत उपकरणों से लैस है।</FabricationBench.description>
+  
+  <!-- EN: fermenting barrel -->
+  <FermentingBarrel.label>किण्वन बैरल</FermentingBarrel.label>
+  <!-- EN: A barrel for fermenting raw wort into beer. -->
+  <FermentingBarrel.description>कच्चे वर्ट को बीयर में किण्वित करने के लिए एक बैरल।</FermentingBarrel.description>
+  
+  <!-- EN: fueled smithy -->
+  <FueledSmithy.label>ईंधन भट्टी</FueledSmithy.label>
+  <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
+  <FueledSmithy.description>लकड़ी से चलने वाला स्टेशन, जो गैर-यांत्रिक हथियार और उपकरण बनाने के लिए है।</FueledSmithy.description>
+  
+  <!-- EN: fueled stove -->
+  <FueledStove.label>ईंधन चूल्हा</FueledStove.label>
+  <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
+  <FueledStove.description>लकड़ी से चलने वाला चूल्हा, भोजन तैयार करने के लिए एक संलग्न काउंटरटॉप के साथ।</FueledStove.description>
+  
+  <!-- EN: hand tailor bench -->
+  <HandTailoringBench.label>हाथ से सिलाई बेंच</HandTailoringBench.label>
+  <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
+  <HandTailoringBench.description>कपड़े सिलने के लिए एक हस्तचालित कार्यक्षेत्र। यह विद्युत सिलने वाले कार्यक्षेत्र की गति के % पर कार्य करता है।</HandTailoringBench.description>
+  
+  <!-- EN: hi-tech research bench -->
+  <HiTechResearchBench.label>उच्च-तकनीकी अनुसंधान बेंच</HiTechResearchBench.label>
+  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
+  <HiTechResearchBench.description>एक उच्च तकनीक बेंच जिसमें कंप्यूटर और इलेक्ट्रॉनिक मापन उपकरण हैं। यह तेज़ी से अनुसंधान करने की अनुमति देता है, और उन्नत अनुसंधान परियोजनाओं को खोलता है।</HiTechResearchBench.description>
+  
+  <!-- EN: hopper -->
+  <Hopper.label>हॉपर</Hopper.label>
+  <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
+  <Hopper.description>मशीनों जैसे पोषक पेस्ट डिस्पेंसर के उपयोग के लिए संसाधन रखता है।</Hopper.description>
+  
+  <!-- EN: hydroponics basin -->
+  <HydroponicsBasin.label>हाइड्रोपोनिक्स बेसिन</HydroponicsBasin.label>
+  <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
+  <HydroponicsBasin.description>पौधों को उगाने के लिए एक कृत्रिम पोषक स्नान। पोषक पंप लगातार काम करने चाहिए; बिजली कटने पर पौधे मर जाएंगे।</HydroponicsBasin.description>
+  
+  <!-- EN: nutrient paste dispenser -->
+  <NutrientPasteDispenser.label>पोषक पेस्ट डिस्पेंसर</NutrientPasteDispenser.label>
+  <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
+  <NutrientPasteDispenser.description>एक मशीन जो आस-पास के हॉपर में रखे जैविक फीडस्टॉक से खाद्य पोषक पेस्ट का संश्लेषण करती है। यह किसी भी अन्य भोजन उत्पादन विधि की तुलना में कम सामग्री और समय का उपयोग करता है—लेकिन किसी को भी पोषक पेस्ट खाना पसंद नहीं है। यह कच्चा भोजन स्वीकार करता है, लेकिन घास जैसे खुरदरे पौधों के पदार्थ नहीं।</NutrientPasteDispenser.description>
+  
+  <!-- EN: simple research bench -->
+  <SimpleResearchBench.label>सरल अनुसंधान बेंच</SimpleResearchBench.label>
+  <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
+  <SimpleResearchBench.description>एक साधारण बेंच लेखन सामग्री और साधारण माप उपकरणों के साथ। शोधकर्ता यहां नई चीजें खोजने के लिए काम करते हैं।</SimpleResearchBench.description>
+  
+  <!-- EN: butcher table -->
+  <TableButcher.label>कसाई मेज</TableButcher.label>
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. Rotting or dessicated corpses cannot be butchered. -->
+  <TableButcher.description>भारी मेज़ मृत जीवों को कच्चे मांस के टुकड़ों में काटने के लिए। सड़ने वाले या सूखे शवों को काटा नहीं जा सकता।</TableButcher.description>
+  
+  <!-- EN: machining table -->
+  <TableMachining.label>मशीनिंग टेबल</TableMachining.label>
+  <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
+  <TableMachining.description>बंदूकें और गोला-बारूद जैसी मशीनरी को इकट्ठा करने या मृत मेकैनॉइड्स को तोड़ने के लिए एक कार्य केंद्र।</TableMachining.description>
+  
+  <!-- EN: art bench -->
+  <TableSculpting.label>कला बेंच</TableSculpting.label>
+  <!-- EN: A workbench equipped for creating art. -->
+  <TableSculpting.description>कलाकृति बनाने के लिए सुसज्जित कार्यक्षेत्र।</TableSculpting.description>
+  
+  <!-- EN: stonecutter's table -->
+  <TableStonecutter.label>पत्थर तराशने की मेज</TableStonecutter.label>
+  <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
+  <TableStonecutter.description>पत्थर के टुकड़ों को उपयोगी ब्लॉकों में काटने के लिए आरी और छेनी वाली कार्य मेज।</TableStonecutter.description>
+  
+</LanguageData>

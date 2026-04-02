@@ -1,0 +1,785 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: downed -->
+  <Downed.label>बेहोश</Downed.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef] with a [WEAPON_label]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] by [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] brutally [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] [with_weapon_optional]</li>
+    <li>wound_name_past->incapacitated</li>
+    <li>wound_name_past->crippled</li>
+    <li>wound_name_past->knocked unconscious</li>
+    <li>wound_name_past->disabled</li>
+    <li>wound_name_present->incapacitating</li>
+    <li>wound_name_present->harming</li>
+    <li>wound_name_present->knocking unconscious</li>
+    <li>wound_name_present->disabling</li>
+    <li>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->seemingly without remorse</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->with passionate rage</li>
+    <li>circumstance_phrase->with quick, efficient movements</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>circumstance_phrase->out of bleak necessity</li>
+    <li>circumstance_phrase->in a cowardly, halfhearted way</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</li>
+    <li>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+  -->
+  <Downed.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] {replace: a [VICTIM_nameDef]; "a el "-"al "}</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] {replace: a [VICTIM_nameDef]; "a el "-"al "} के साथ [WeaponCacIndef]</li>
+    <li>tale_noun->हुआ [wound_name_present1] {replace: de [VICTIM_nameDef]; "de el "-"del "} द्वारा [KILLER_nameDef]</li>
+    <li>tale_noun->हुआ [wound_name_present1] {replace: de [VICTIM_nameDef]; "de el "-"del "} के साथ [WeaponCacIndef]</li>
+    <li>tale_noun->घटित हुआ [wound_name_present1] {replace: de [VICTIM_nameDef]; "de el "-"del "}</li>
+    <li>image->[VICTIM_nameFull] अक्षम किया जा रहा है[VICTIM_o_a] द्वारा [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] को [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] बर्बरतापूर्वक [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] अक्षम कर दिया गया[VICTIM_o_a] [with_weapon_optional]</li>
+    <li>wound_name_past->अक्षम कर दिया</li>
+    <li>wound_name_past->लंगड़ा हो गया</li>
+    <li>wound_name_past->बेहोश कर दिया</li>
+    <li>wound_name_past->अक्षम कर दिया</li>
+    <li>wound_name_present->अक्षम कर रहा है</li>
+    <li>wound_name_present->नुकसान पहुँचाना</li>
+    <li>wound_name_present->बेहोश कर रहा है</li>
+    <li>wound_name_present->अक्षम करते हुए</li>
+    <li>wound_name_present1->अक्षमता</li>
+    <li>wound_name_present1->अलगाव</li>
+    <li>wound_name_present1->बेहोशी</li>
+    <li>wound_name_present1->बेहोशी</li>
+    <li>with_weapon_optional->के साथ [WeaponCacIndef] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->स्पष्ट रूप से पश्चाताप के बिना</li>
+    <li>circumstance_phrase->ठंडी कुशलता से</li>
+    <li>circumstance_phrase->ज्वलंत क्रोध के साथ</li>
+    <li>circumstance_phrase->तेज़ और कुशल चालों के साथ</li>
+    <li>circumstance_phrase->भावना या अभिव्यक्ति के बिना</li>
+    <li>circumstance_phrase->गंभीर आवश्यकता से</li>
+    <li>circumstance_phrase->कायरतापूर्वक और बेमन से</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] देख रहे हैं।</li>
+    <li>desc_sentence->खून शरीर के चारों ओर जमा हो रहा है {replace: de [VICTIM_nameDef]; "de el "-"del "}.</li>
+    <li>desc_sentence->[VICTIM_nameDef] [VICTIM_nameDef] फर्श पर बेजान पड़ा है।</li>
+    <li>desc_sentence->[VICTIM_nameDef] की आँखें बंद हैं।</li>
+    <li>desc_sentence->[KILLER_nameDef] अपने दाँत दिखा रहा है।</li>
+    <li>desc_sentence->[KILLER_nameDef] संतुष्ट लग रहा है[KILLER_o_a]।</li>
+    <li>desc_sentence->[KILLER_nameDef] परेशान दिख रहा है[KILLER_o_a] कर रहा है।</li>
+    <li>desc_sentence->[KILLER_nameDef] स्थिति से प्रसन्न दिख रहा है[KILLER_o_a] स्थिति के साथ।</li>
+    <li>desc_sentence->[KILLER_nameDef] विजयी प्रतीत होता है।</li>
+  </Downed.rulePack.rulesStrings>
+  
+  <!-- EN: exhausted -->
+  <Exhausted.label>थका हुआ</Exhausted.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] collapsing from exhaustion</li>
+    <li>image->[PAWN_nameFull] collapsing on the ground [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying on the ground [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying in bed [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] collapsed in a chair [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] peacefully sleeping [circumstance_group]</li>
+    <li>circumstance_phrase->with eyes closed</li>
+    <li>circumstance_phrase->with a visible look of exhaustion</li>
+    <li>circumstance_phrase->while covered in sweat</li>
+    <li>circumstance_phrase->and unable to move a muscle</li>
+    <li>desc_sentence->[PAWN_nameDef]'s last project sits nearby, complete.</li>
+    <li>desc_sentence->A marvelous construction surrounds [PAWN_nameDef].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s look grateful for [PAWN_nameDef]'s heroic effort.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s lie nearby in a similar state.</li>
+    <li>desc_sentence->The scene takes place inside a newly-built [Community].</li>
+  -->
+  <Exhausted.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] थकावट से [PAWN_nameDef] बेहोश हो गया।</li>
+    <li>image->[PAWN_nameFull] ज़मीन पर गिर रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ज़मीन पर लेटा हुआ [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] बिस्तर पर लेटा हुआ [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] कुर्सी पर गिर रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] शांति से सो रहा है [circumstance_group]</li>
+    <li>circumstance_phrase->आँखें बंद करके</li>
+    <li>circumstance_phrase->थकावट के स्पष्ट भाव के साथ</li>
+    <li>circumstance_phrase->ढका हुआ[PAWN_o_a] पसीने में</li>
+    <li>circumstance_phrase->एक मांसपेशी हिलाने में भी असमर्थ</li>
+    <li>desc_sentence->का अंतिम परियोजना [PAWN_nameDef] पास है, पूरा हुआ।</li>
+    <li>desc_sentence->एक अद्भुत निर्माण घेरता है [PAWN_nameDef]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] वीरतापूर्ण प्रयास के लिए कृतज्ञ दिख रहे हैं [PAWN_nameDef].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] निकट में समान अवस्था में पड़े हैं।</li>
+    <li>desc_sentence->दृश्य एक के भीतर घटित होता है [Community] हाल ही में निर्मित।</li>
+    <li>desc_sentence->दृश्य एक के भीतर घटित होता है [Community_Fem] हाल ही में निर्मित।</li>
+  </Exhausted.rulePack.rulesStrings>
+  
+  <!-- EN: gave birth -->
+  <GaveBirth.label>जन्म देते हुए</GaveBirth.label>
+  <!-- EN:
+    <li>tale_noun->[MOTHER_nameDef] giving birth to [CHILD_nameDef]</li>
+    <li>image->[MOTHER_nameFull] giving birth to [circumstance_group]</li>
+    <li>image->[MOTHER_nameFull] holding [MOTHER_possessive] [baby], [circumstance_group]</li>
+    <li>image->[MOTHER_nameFull] lying in bed next to [MOTHER_possessive] [baby], [circumstance_group]</li>
+    <li>image->[MOTHER_nameFull] collapsed in a chair with [MOTHER_possessive] [baby] [circumstance_group]</li>
+    <li>baby->infant</li>
+    <li>baby->newborn</li>
+    <li>baby->baby</li>
+    <li>circumstance_phrase->[CHILD_nameFull], who is bloody and crying</li>
+    <li>circumstance_phrase->[CHILD_nameFull], who is glowing softly [Color]</li>
+    <li>circumstance_phrase->[CHILD_nameFull], who is already trying to pull [CHILD_objective]self around</li>
+    <li>circumstance_phrase->[CHILD_nameFull], who is looking around with an expression of serenity</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s sleep peacefully nearby.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon the scene.</li>
+    <li>desc_sentence->A [PersonJob]s watches from a distance.</li>
+    <li>desc_sentence->The scene takes place inside a newly-built [Community].</li>
+  -->
+  <GaveBirth.rulePack.rulesStrings>
+    <li>tale_noun->[MOTHER_nameDef] को जन्म दिया [CHILD_name] शिशु</li>
+    <li>image->[MOTHER_nameFull] जन्म दे रही है [CHILD_nameFull] शिशु</li>
+    <li>image->[MOTHER_nameFull] गोद में लिए हुए [baby], [circumstance_group]</li>
+    <li>image->[MOTHER_nameFull] बिस्तर पर लेटी हुई अपनी [baby], [circumstance_group]</li>
+    <li>image->[MOTHER_nameFull] कुर्सी पर गिरकर अपने साथ [baby], [circumstance_group]</li>
+    <li>baby->शिशु</li>
+    <li>baby->नवजात शिशु</li>
+    <li>baby->शिशु</li>
+    <li>circumstance_phrase->जिसका शरीर खून से लथपथ है और वह रो रहा है।</li>
+    <li>circumstance_phrase->जो धीरे से [ColorAny] रंग में चमक रहा है [ColorAny]</li>
+    <li>circumstance_phrase->जो अपनी माँ को पकड़ने की कोशिश कर रहा है</li>
+    <li>circumstance_phrase->जो शांतिपूर्ण भाव के साथ इधर-उधर देख रहा है।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] शांति से सो रहे हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] दृश्य देख रहे हैं।</li>
+    <li>desc_sentence->एक [PersonJob] दूरी से देखता है।</li>
+    <li>desc_sentence->दृश्य एक के भीतर घटित होता है [Community] नव निर्मित।</li>
+    <li>desc_sentence->दृश्य एक के भीतर होता है [Community_Fem] हाल ही में निर्मित।</li>
+  </GaveBirth.rulePack.rulesStrings>
+  
+  <!-- EN: heatstroke revealed -->
+  <HeatstrokeRevealed.label>गर्मी का दौरा प्रकट हुआ</HeatstrokeRevealed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] getting heatstroke</li>
+    <li>tale_noun->[PAWN_nameDef] overheating</li>
+    <li>image->[PAWN_nameFull] trudging through sand [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] huddled in the shade of a [TerrainFeature] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] searching for water [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] searching for shade [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] crawling across sun-baked dirt [circumstance_group]</li>
+    <li>circumstance_phrase->with red dry skin</li>
+    <li>circumstance_phrase->and covered in sweat</li>
+    <li>circumstance_phrase->with cracked dry lips</li>
+    <li>circumstance_phrase->while vomiting</li>
+    <li>desc_sentence->[Quantity_adjphrase] desiccated [Animal] corpses surround the area.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s clothes are tattered and torn.</li>
+    <li>desc_sentence->A blazing sun looms in the background.</li>
+    <li>desc_sentence->The scene takes place inside a blazing desert.</li>
+    <li>desc_sentence->The scene appears to take place inside, next to a heater.</li>
+    <li>desc_sentence->[Quantity_adjphrase] unmoving [Animal]s surround the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
+  -->
+  <HeatstrokeRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] हीटस्ट्रोक का शिकार हो गया</li>
+    <li>tale_noun->[PAWN_nameDef] को गर्मी लग गई</li>
+    <li>image->[PAWN_nameFull] रेत में रेंगते हुए [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] छाँव में [TreeTypeIndef] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] पानी ढूंढ रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] छाया ढूंढ रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ज़मीन पर रेंग रहा है [circumstance_group]</li>
+    <li>circumstance_phrase->लाल और रूखी त्वचा के साथ</li>
+    <li>circumstance_phrase->ढका हुआ[PAWN_o_a] पसीने में</li>
+    <li>circumstance_phrase->सूखे और फटे होंठों के साथ</li>
+    <li>circumstance_phrase->उल्टी करते हुए</li>
+    <li>desc_sentence->[Quantity_adjphrase] सूखे {[AnimalAnyPl]} के शव [AnimalAnyPl] क्षेत्र को घेरते हैं।</li>
+    <li>desc_sentence->के कपड़े [PAWN_nameDef] फट गए हैं</li>
+    <li>desc_sentence->दूर एक सूरज चमक रहा है।</li>
+    <li>desc_sentence->दृश्य एक भयंकर रेगिस्तान के भीतर घटित होता है।</li>
+    <li>desc_sentence->दृश्य घर के अंदर, हीटर के पास घटित होता है।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] स्थिर लाश दृश्य को घेरे हुए हैं।</li>
+    <li>desc_sentence->हैं [Quantity_adjphrase] [AnimalAnyPl] ज़मीन पर तड़प रहे हैं।</li>
+  </HeatstrokeRevealed.rulePack.rulesStrings>
+  
+  <!-- EN: hypothermia revealed -->
+  <HypothermiaRevealed.label>हाइपोथर्मिया प्रकट हुआ</HypothermiaRevealed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] getting hypothermia</li>
+    <li>image->[PAWN_nameFull] trudging through snow [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] huddled beside a [TerrainFeature] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] searching for a warm [Apparel] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] crouching next to a fire [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] trying to light a fire [circumstance_group]</li>
+    <li>circumstance_phrase->while [PAWN_possessive] face slowly turns blue</li>
+    <li>circumstance_phrase->and shivering uncontrollably</li>
+    <li>circumstance_phrase->while covered in frost</li>
+    <li>circumstance_phrase->while exhaling clouds of fog</li>
+    <li>desc_sentence->[Quantity_adjphrase] frozen [Animal] corpses surround the area.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s clothes are tattered and worn.</li>
+    <li>desc_sentence->A cold blue moon looms in the background.</li>
+    <li>desc_sentence->The scene takes place inside a snow-covered [TreeType] forest.</li>
+    <li>desc_sentence->The scene appears to take place inside a freezer.</li>
+    <li>desc_sentence->[Quantity_adjphrase] shivering [Animal]s surround the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
+  -->
+  <HypothermiaRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] को हाइपोथर्मिया हुआ</li>
+    <li>image->[PAWN_nameFull] बर्फ में रेंग रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] के पास [TerrainFeatureIndef] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] गर्मी की तलाश में [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] आग के पास [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] आग जलाने की कोशिश कर रहा है [circumstance_group]</li>
+    <li>circumstance_phrase->जैसे-जैसे उसका चेहरा धीरे-धीरे नीला हो रहा है</li>
+    <li>circumstance_phrase->अनियंत्रित रूप से काँप रहा है</li>
+    <li>circumstance_phrase->बर्फ से ढका[PAWN_o_a] बर्फ की परत</li>
+    <li>circumstance_phrase->धुंध के बादल साँस छोड़ते हुए</li>
+    <li>desc_sentence->[Quantity_adjphrase] जमे हुए शरीर [AnimalAnyPl] क्षेत्र को घेरते हैं।</li>
+    <li>desc_sentence->के कपड़े [PAWN_nameDef] फटे हुए हैं।</li>
+    <li>desc_sentence->एक ठंडी और नीली चाँदनी दृश्य को प्रकाशित कर रही है।</li>
+    <li>desc_sentence->दृश्य एक {[TreeTypeAny]} वन के भीतर घटित होता है [TreeTypeAny]बर्फ से ढका हुआ है।</li>
+    <li>desc_sentence->दृश्य एक फ्रीजर के अंदर घटित हो रहा प्रतीत होता है।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] दृश्य के चारों ओर काँपते हुए घेर रहे हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] मिट्टी को ढँकते हुए मर रहे हैं।</li>
+  </HypothermiaRevealed.rulePack.rulesStrings>
+  
+  <!-- EN: illness revealed -->
+  <IllnessRevealed.label>प्रकट बीमारी</IllnessRevealed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] being stricken with [ILLNESS_label]</li>
+    <li>image->[PAWN_nameFull] staggering through a field [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying on the ground [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying in bed [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying in a hospital bed [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] collapsed in a chair [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] crouching next to a fire [circumstance_group]</li>
+    <li>circumstance_phrase->and sweating uncontrollably</li>
+    <li>circumstance_phrase->and shivering uncontrollably</li>
+    <li>circumstance_phrase->while both sweating and shivering</li>
+    <li>circumstance_phrase->with cracked dry lips</li>
+    <li>circumstance_phrase->while vomiting</li>
+    <li>circumstance_phrase->with a visible rash</li>
+    <li>circumstance_phrase->while being tended to by a doctor</li>
+    <li>desc_sentence->[Quantity_adjphrase] fly-ridden [Animal] corpses surround the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] twisted [Color] [TerrainFeature]s surround the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are stricken with the same affliction.</li>
+    <li>desc_sentence->The scene takes place inside a [TreeType] forest.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
+  -->
+  <IllnessRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] पीड़ित हुआ [ILLNESS_label]</li>
+    <li>image->[PAWN_nameFull] मैदान में पैर घसीटते हुए [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ज़मीन पर लेटा हुआ [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] बिस्तर पर लेटा हुआ [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] अस्पताल के बिस्तर पर लेटा हुआ [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] कुर्सी पर गिर रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] आग के पास [circumstance_group]</li>
+    <li>circumstance_phrase->बेकाबू पसीना आ रहा है</li>
+    <li>circumstance_phrase->अनियंत्रित रूप से काँप रहा है</li>
+    <li>circumstance_phrase->पसीना आ रहा है और काँप रहा है</li>
+    <li>circumstance_phrase->सूखे और फटे होंठों के साथ</li>
+    <li>circumstance_phrase->उल्टी करते हुए</li>
+    <li>circumstance_phrase->खुजली करते हुए चकत्ते के साथ</li>
+    <li>circumstance_phrase->जब डॉक्टर द्वारा इलाज किया जा रहा हो</li>
+    <li>desc_sentence->[Quantity_adjphrase] के शव [AnimalAnyPl] क्षेत्र को घेरते हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [TerrainFeature_Pl] [Color_Plural] मुड़े हुए दृश्य को घेरे हुए हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] उन्हें वही पीड़ा है।</li>
+    <li>desc_sentence->{[Quantity_adjphrase]} {[Animal]} देखते हैं। [TreeTypeAny]।</li>
+    <li>desc_sentence->है [Quantity_adjphrase] [AnimalAnyPl] ज़मीन पर मर रहा है</li>
+  </IllnessRevealed.rulePack.rulesStrings>
+  
+  <!-- EN: killed -->
+  <KilledCapacity.label>मारा गया</KilledCapacity.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
+    <li>image->[KILLER_nameFull] [cap_removal] [VICTIM_nameFull]'s capacity for [CAPACITY_label] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] by [cap_removal] [VICTIM_possessive] [CAPACITY_label] [with_weapon_optional]</li>
+    <li>cap_removal->destroying</li>
+    <li>cap_removal->eliminating</li>
+    <li>cap_removal->ending</li>
+    <li>wound_name_past->slayed</li>
+    <li>wound_name_past->executed</li>
+    <li>wound_name_past->assassinated</li>
+    <li>wound_name_past->eliminated</li>
+    <li>wound_name_present->slaying</li>
+    <li>wound_name_present->executing</li>
+    <li>wound_name_present->assassinating</li>
+    <li>wound_name_present->eliminating</li>
+    <li>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->seemingly without remorse</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->with quick, efficient movements</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+  -->
+  <KilledCapacity.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] {replace: a [VICTIM_nameDef]; "a el "-"al "}</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] {replace: a [VICTIM_nameDef]; "a el "-"al "} के साथ [WeaponIndef]</li>
+    <li>image->[KILLER_nameFull] [cap_removal] की [CAPACITY] का [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] द्वारा [VICTIM_nameFull] और [cap_removal] का [CAPACITY] [with_weapon_optional]</li>
+    <li>cap_removal->ध्वस्त करते हुए</li>
+    <li>cap_removal->हटाते हुए</li>
+    <li>cap_removal->हारकर</li>
+    <li>CAPACITY->क्षमता</li>
+    <li>CAPACITY->दृढ़ता</li>
+    <li>CAPACITY->दृढ़ता</li>
+    <li>wound_name_past->मारा</li>
+    <li>wound_name_past->निष्पादित किया</li>
+    <li>wound_name_past->हत्या कर दी</li>
+    <li>wound_name_past->उन्मूलन किया</li>
+    <li>wound_name_present->मार रहा है</li>
+    <li>wound_name_present->निष्पादित कर रहा है</li>
+    <li>wound_name_present->हत्या करते हुए</li>
+    <li>wound_name_present->हटाते हुए</li>
+    <li>with_weapon_optional->अपने [हथियारकिसी भी] [परिस्थिति_समूह] के साथ [WeaponAny] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->स्पष्ट रूप से पश्चाताप के बिना</li>
+    <li>circumstance_phrase->ठंडी कुशलता से</li>
+    <li>circumstance_phrase->तेज़ और कुशल चालों के साथ</li>
+    <li>circumstance_phrase->भावना या अभिव्यक्ति के बिना</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] देखते हैं।</li>
+    <li>desc_sentence->एक [PersonJob] चुपचाप देखता है [side_position]।</li>
+    <li>desc_sentence->[VICTIM_nameDef] संतुष्ट दिखता है [AdjectiveAngsty]।</li>
+    <li>desc_sentence->[VICTIM_nameDef] आँखें बंद हैं।</li>
+    <li>desc_sentence->[KILLER_nameDef] खुश दिख रहा है[KILLER_o_a]।</li>
+    <li>desc_sentence->[KILLER_nameDef] विजयी दिख रहा है[KILLER_o_a] जो वह कर रहा है उससे</li>
+    <li>desc_sentence->[KILLER_nameDef] प्रसन्न दिख रहा है[KILLER_o_a] स्थिति से</li>
+    <li>desc_sentence->[KILLER_nameDef] लगता है [AdjectiveBadass]।</li>
+  </KilledCapacity.rulePack.rulesStrings>
+  
+  <!-- EN: killed at distance -->
+  <KilledLongRange.label>दूर से मारा गया</KilledLongRange.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] at extreme distance</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] at extreme distance with a [WEAPON_label]</li>
+    <li>tale_noun->the long distance [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</li>
+    <li>tale_noun->the long distance [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef] with a [WEAPON_label]</li>
+    <li>image->[KILLER_nameFull] aiming at [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] coldly [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>wound_name_past->murdered</li>
+    <li>wound_name_past->slain</li>
+    <li>wound_name_past->slaughtered</li>
+    <li>wound_name_past->eliminated</li>
+    <li>wound_name_present->murdering</li>
+    <li>wound_name_present->slaying</li>
+    <li>wound_name_present->slaughtering</li>
+    <li>wound_name_present->eliminating</li>
+    <li>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->seemingly without remorse</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->from a long distance</li>
+    <li>circumstance_phrase->from a great height</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>circumstance_phrase->in a cowardly, halfhearted way</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</li>
+    <li>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+  -->
+  <KilledLongRange.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] {replace: a [VICTIM_nameDef]; "a el "-"al "} बहुत दूरी से</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] {replace: a [VICTIM_nameDef]; "a el "-"al "} दूर से एक [Weapon_Ranged]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] दूर से {replace: a [VICTIM_nameDef]; "a el "-"al "}</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] दूर से {replace: a [VICTIM_nameDef]; "a el "-"al "} के साथ [Weapon_Ranged]</li>
+    <li>image->[KILLER_nameFull] को निशाना साध रहा है [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] को [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] ठंडे लहजे में [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>wound_name_past->मार डाला</li>
+    <li>wound_name_past->मारा गया</li>
+    <li>wound_name_past->वध कर दिया</li>
+    <li>wound_name_past->निष्पादित किया</li>
+    <li>wound_name_present->हत्या करते हुए</li>
+    <li>wound_name_present->मार रहा है</li>
+    <li>wound_name_present->वध कर रहा है</li>
+    <li>wound_name_present->निष्कासित कर रहा है</li>
+    <li>with_weapon_optional->एक [Weapon_Ranged] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->स्पष्ट रूप से पश्चाताप के बिना</li>
+    <li>circumstance_phrase->ठोस दृढ़ता से</li>
+    <li>circumstance_phrase->बहुत दूर से</li>
+    <li>circumstance_phrase->बहुत ऊँचाई से</li>
+    <li>circumstance_phrase->भावना या अभिव्यक्ति के बिना</li>
+    <li>circumstance_phrase->कायरतापूर्वक और बेमन से</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] देखते हैं।</li>
+    <li>desc_sentence->एक [PersonJob] चुपचाप देखता है [side_position]।</li>
+    <li>desc_sentence->[VICTIM_nameDef] ढका हुआ है [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] आँखें बंद हैं।</li>
+    <li>desc_sentence->[VICTIM_nameDef] संतुष्ट प्रतीत होता है[VICTIM_o_a] का [Gore_Plural]।</li>
+    <li>desc_sentence->[KILLER_nameDef] अपने दाँत दिखाता है।</li>
+    <li>desc_sentence->[KILLER_nameDef] संतुष्ट दिख रहा है[KILLER_o_a]।</li>
+    <li>desc_sentence->[KILLER_nameDef] विजयी दिख रहा है[KILLER_o_a] जो वह कर रहा है उससे</li>
+    <li>desc_sentence->[KILLER_nameDef] प्रसन्न दिख रहा है[KILLER_o_a] स्थिति से</li>
+    <li>desc_sentence->[KILLER_nameDef] विजयी प्रतीत होता है।</li>
+  </KilledLongRange.rulePack.rulesStrings>
+  
+  <!-- EN: killed major threat -->
+  <KilledMajorThreat.label>प्रमुख खतरा समाप्त कर दिया गया।</KilledMajorThreat.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef] with a [WEAPON_label]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] by [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] brutally [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] [with_weapon_optional]</li>
+    <li>wound_name_past->slain</li>
+    <li>wound_name_past->defeated</li>
+    <li>wound_name_past->overcome</li>
+    <li>wound_name_present->slaying</li>
+    <li>wound_name_present->defeating</li>
+    <li>wound_name_present->overcoming</li>
+    <li>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->with quick, efficient movements</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>circumstance_phrase->with great heroism</li>
+    <li>circumstance_phrase->with incredible strength</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</li>
+    <li>desc_sentence->[VICTIM_nameDef] and [KILLER_nameDef] are both covered in [Gore].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s corpse towers over [KILLER_nameDef].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s massive corpse covers a [TerrainFeature].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes glow [Color].</li>
+    <li>desc_sentence->[KILLER_nameDef] is covered in [Gore].</li>
+    <li>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks [AdjectiveBadass].</li>
+    <li>desc_sentence->[KILLER_nameDef] is glowing with a heroic aura.</li>
+  -->
+  <KilledMajorThreat.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] {replace: a [VICTIM_nameDef]; "a el "-"al "}</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] {replace: a [VICTIM_nameDef]; "a el "-"al "} के साथ [WeaponIndef]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] साहसपूर्वक {replace: a [VICTIM_nameDef]; "a el "-"al "}</li>
+    <li>tale_noun->हुआ [wound_name_past1] {replace: de [VICTIM_nameDef]; "de el "-"del "} द्वारा [KILLER_nameDef] के साथ [WeaponIndef]</li>
+    <li>image->[VICTIM_nameFull] होने [wound_name_present] द्वारा [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] को [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] बर्बरतापूर्वक [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] हो रहा है [wound_name_present] [with_weapon_optional]</li>
+    <li>wound_name_past->मारा गया</li>
+    <li>wound_name_past->परास्त किया</li>
+    <li>wound_name_past->परास्त किया</li>
+    <li>wound_name_present->मारा गया[VICTIM_o_a]</li>
+    <li>wound_name_present->हारकर[VICTIM_o_a]</li>
+    <li>wound_name_present->वशीभूत करना[VICTIM_o_a]</li>
+    <li>wound_name_past1->मृत्यु</li>
+    <li>wound_name_past1->हार</li>
+    <li>wound_name_past1->हत्या</li>
+    <li>with_weapon_optional->के साथ [WeaponIndef] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->ठंडी कुशलता से</li>
+    <li>circumstance_phrase->तेज़ और कुशल चालों के साथ</li>
+    <li>circumstance_phrase->भावना या अभिव्यक्ति के बिना</li>
+    <li>circumstance_phrase->महान वीरता के साथ</li>
+    <li>circumstance_phrase->अविश्वसनीय शक्ति के साथ</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] देखते हैं।</li>
+    <li>desc_sentence->एक [PersonJob] चुपचाप देखता है [side_position]।</li>
+    <li>desc_sentence->[VICTIM_nameDef] ढका हुआ है [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] आँखें बंद हैं।</li>
+    <li>desc_sentence->[VICTIM_nameDef] का शव हावी है[VICTIM_o_a] से [Gore_Plural]।</li>
+    <li>desc_sentence->दोनों [VICTIM_nameDef] और [KILLER_nameDef] से ढके हुए हैं [Gore_Plural].</li>
+    <li>desc_sentence->लाश {replace: de [VICTIM_nameDef]; "de el "-"del "} पर चमकता है [KILLER_nameDef]।</li>
+    <li>desc_sentence->विशाल लाश {replace: de [VICTIM_nameDef]; "de el "-"del "} ढकता है [TerrainFeatureIndef]।</li>
+    <li>desc_sentence->आँखें {replace: de [VICTIM_nameDef]; "de el "-"del "} तीव्र रंग से चमकती हैं [Color]।</li>
+    <li>desc_sentence->[KILLER_nameDef] संतुष्ट प्रतीत होता है[KILLER_o_a] का [Gore_Plural]।</li>
+    <li>desc_sentence->[KILLER_nameDef] अपने दाँत दिखाता है।</li>
+    <li>desc_sentence->[KILLER_nameDef] दिख रहा है संतुष्ट[KILLER_o_a]।</li>
+    <li>desc_sentence->[KILLER_nameDef] विजयी प्रतीत होता है।</li>
+    <li>desc_sentence->[KILLER_nameDef] एक झलक है [AdjectiveBadass]।</li>
+    <li>desc_sentence->[KILLER_nameDef] एक वीर आभा के साथ चमक रहा है।</li>
+  </KilledMajorThreat.rulePack.rulesStrings>
+  
+  <!-- EN: killed in melee -->
+  <KilledMelee.label>हाथापाई में मारा गया</KilledMelee.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] in close combat</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] in melee with a [WEAPON_label]</li>
+    <li>tale_noun->the melee [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</li>
+    <li>tale_noun->the close combat [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef] with a [WEAPON_label]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] by [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] brutally [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] [with_weapon_optional]</li>
+    <li>wound_name_past->murdered</li>
+    <li>wound_name_past->slain</li>
+    <li>wound_name_past->slaughtered</li>
+    <li>wound_name_past->mutilated</li>
+    <li>wound_name_present->murdering</li>
+    <li>wound_name_present->slaying</li>
+    <li>wound_name_present->slaughtering</li>
+    <li>wound_name_present->mutilating</li>
+    <li>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->seemingly without remorse</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->with quick, efficient movements</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>circumstance_phrase->in a cowardly, halfhearted way</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</li>
+    <li>desc_sentence->[VICTIM_nameDef] and [KILLER_nameDef] are both covered in [Gore].</li>
+    <li>desc_sentence->[KILLER_nameDef] is covered in [Gore].</li>
+    <li>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+    <li>desc_sentence->[KILLER_nameDef] wears a feral expression.</li>
+  -->
+  <KilledMelee.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] {replace: a [VICTIM_nameDef]; "a el "-"al "} निकट युद्ध में</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] {replace: a [VICTIM_nameDef]; "a el "-"al "} हाथापाई में [WeaponCacIndef]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] निकट युद्ध में {replace: a [VICTIM_nameDef]; "a el "-"al "}</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] हाथापाई में {replace: a [VICTIM_nameDef]; "a el "-"al "} के साथ [WeaponCacIndef]</li>
+    <li>image->[KILLER_nameFull] मार रहा है [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] को [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] ठंडे लहजे में [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] मारा जा रहा है[VICTIM_o_a] [with_weapon_optional]</li>
+    <li>wound_name_past->मार डाला</li>
+    <li>wound_name_past->मार डाला</li>
+    <li>wound_name_past->कत्लेआम किया</li>
+    <li>wound_name_past->विकृत कर दिया</li>
+    <li>wound_name_present->हत्या करते हुए</li>
+    <li>wound_name_present->वध करते हुए</li>
+    <li>wound_name_present->कत्लेआम करते हुए</li>
+    <li>wound_name_present->विकृत करना</li>
+    <li>with_weapon_optional->के साथ [WeaponCacIndef] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->स्पष्ट रूप से पश्चाताप के बिना</li>
+    <li>circumstance_phrase->ठंडी कुशलता से</li>
+    <li>circumstance_phrase->तेज़ और कुशल चालों के साथ</li>
+    <li>circumstance_phrase->भावना या अभिव्यक्ति के बिना</li>
+    <li>circumstance_phrase->कायरतापूर्वक और बेमन से</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] देखते हैं।</li>
+    <li>desc_sentence->एक [PersonJob] चुपचाप देखता है [side_position]।</li>
+    <li>desc_sentence->[VICTIM_nameDef] ढका हुआ है [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] आँखें बंद हैं।</li>
+    <li>desc_sentence->[VICTIM_nameDef] ढका हुआ है[VICTIM_o_a] में [Gore_Plural]।</li>
+    <li>desc_sentence->दिखा रहा है [VICTIM_nameDef] दांत। [KILLER_nameDef] से ढके हुए हैं [Gore_Plural].</li>
+    <li>desc_sentence->[KILLER_nameDef] संतुष्ट प्रतीत होता है[KILLER_o_a] का [Gore_Plural]।</li>
+    <li>desc_sentence->[KILLER_nameDef] अपने दाँत दिखाता है।</li>
+    <li>desc_sentence->[KILLER_nameDef] खुश दिख रहा है[KILLER_o_a]।</li>
+    <li>desc_sentence->[KILLER_nameDef] विजयी दिख रहा है[KILLER_o_a] जो वह कर रहा है उससे</li>
+    <li>desc_sentence->[KILLER_nameDef] जंगली भाव दिखाता है[KILLER_o_a] स्थिति से खुश है।</li>
+    <li>desc_sentence->[KILLER_nameDef] विजयी प्रतीत होता है।</li>
+    <li>desc_sentence->[KILLER_nameDef] उसकी अभिव्यक्ति जंगली है।</li>
+  </KilledMelee.rulePack.rulesStrings>
+  
+  <!-- EN: killed with mortar -->
+  <KilledMortar.label>मोर्टार से मारा गया</KilledMortar.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a mortar</li>
+    <li>tale_noun->[VICTIM_nameDef] being killed by [KILLER_nameDef]'s artillery</li>
+    <li>image->[KILLER_nameFull] carefully adjusting a firing tube [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] looking into the distance [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] doing calculations on paper [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] testing wind direction [circumstance_group]</li>
+    <li>circumstance_phrase->while [VICTIM_nameFull] is consumed in a massive explosion</li>
+    <li>circumstance_phrase->as a shell arcs down towards [VICTIM_nameFull]</li>
+    <li>circumstance_phrase->while [VICTIM_nameFull] walks around obliviously</li>
+    <li>circumstance_phrase->as [VICTIM_nameFull] sprints</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</li>
+    <li>desc_sentence->[VICTIM_nameDef] is surrounded by explosions.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is surrounded by craters.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+  -->
+  <KilledMortar.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] {replace: a [VICTIM_nameDef]; "a el "-"al "} एक मोर्टार से</li>
+    <li>tale_noun->[VICTIM_nameDef] मारा गया[VICTIM_o_a] की तोपखाने से [KILLER_nameDef]</li>
+    <li>image->[KILLER_nameFull] [किलर_नामपूर्ण] सावधानीपूर्वक हथियार की नली समायोजित कर रहा है। [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] दूर देख रहा है [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] कागज पर गणना कर रहा है [circumstance_group]</li>
+    <li>image->[KILLER_nameFull] हवा की दिशा की जाँच कर रहा है [circumstance_group]</li>
+    <li>circumstance_phrase->जबकि [VICTIM_nameFull] एक विशाल विस्फोट में भस्म हो रहा है</li>
+    <li>circumstance_phrase->जैसे एक तोप का गोला [VICTIM_nameFull] की ओर जा रहा है [VICTIM_nameFull]</li>
+    <li>circumstance_phrase->जबकि [VICTIM_nameFull] अनजाने में घूमता है</li>
+    <li>circumstance_phrase->जैसे [VICTIM_nameFull] दौड़ता है</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] देखते हैं।</li>
+    <li>desc_sentence->एक [PersonJob] चुपचाप देखता है [side_position]।</li>
+    <li>desc_sentence->[VICTIM_nameDef] विस्फोटों से घिरा है [AdjectiveAngsty]।</li>
+    <li>desc_sentence->[VICTIM_nameDef] से घिरा हुआ है[VICTIM_o_a] में [Gore_Plural]।</li>
+    <li>desc_sentence->[VICTIM_nameDef] घिरा हुआ है[VICTIM_o_a] विस्फोटों से।</li>
+    <li>desc_sentence->[VICTIM_nameDef] परेशान दिख रहा है[VICTIM_o_a] कर रहा है।</li>
+    <li>desc_sentence->[KILLER_nameDef] संतुष्ट दिख रहा है[KILLER_o_a]।</li>
+    <li>desc_sentence->[KILLER_nameDef] विजयी दिख रहा है[KILLER_o_a] जो वह कर रहा है उससे</li>
+    <li>desc_sentence->[KILLER_nameDef] मुड़ा हुआ[KILLER_o_a] लाशें क्षेत्र घेर रही हैं।</li>
+    <li>desc_sentence->[KILLER_nameDef] विजयी प्रतीत होता है।</li>
+  </KilledMortar.rulePack.rulesStrings>
+  
+  <!-- EN: toxicity revealed -->
+  <ToxicityRevealed.label>विषाक्तता प्रकट हुई</ToxicityRevealed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s body becoming toxic</li>
+    <li>tale_noun->[PAWN_nameDef] being poisoned by toxins</li>
+    <li>image->[PAWN_nameFull] staggering through a field [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying on the ground [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] lying in bed [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] crouching next to a fire [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] trying to light a fire [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] mindlessly removing [PAWN_possessive] clothes [circumstance_group]</li>
+    <li>circumstance_phrase->and sweating uncontrollably</li>
+    <li>circumstance_phrase->and shivering uncontrollably</li>
+    <li>circumstance_phrase->while both sweating and shivering</li>
+    <li>circumstance_phrase->with cracked dry lips</li>
+    <li>circumstance_phrase->while vomiting</li>
+    <li>circumstance_phrase->with a visible rash</li>
+    <li>desc_sentence->[Quantity_adjphrase] twisted [Animal] corpses surround the area.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s clothes are falling apart.</li>
+    <li>desc_sentence->The sky is a murky [Color].</li>
+    <li>desc_sentence->[Quantity_adjphrase] twisted [Color] [TerrainFeature]s surround the scene.</li>
+    <li>desc_sentence->The scene takes place inside a twisted [TreeType] forest.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
+  -->
+  <ToxicityRevealed.rulePack.rulesStrings>
+    <li>tale_noun->का शरीर [PAWN_nameDef] विषाक्त हो गया</li>
+    <li>tale_noun->[PAWN_nameDef] ज़हर से प्रभावित हुआ[PAWN_o_a] विषैले पदार्थों से</li>
+    <li>image->[PAWN_nameFull] मैदान में रेंगते हुए [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ज़मीन पर लेटा हुआ [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] बिस्तर पर लेटा हुआ [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] आग के पास [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] आग जलाने की कोशिश कर रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] अपने कपड़े उतारने की कोशिश कर रहा है [circumstance_group]</li>
+    <li>circumstance_phrase->और अनियंत्रित रूप से पसीना बहा रहा है</li>
+    <li>circumstance_phrase->और अनियंत्रित रूप से काँपते हुए</li>
+    <li>circumstance_phrase->पसीना आ रहा है और काँप रहा है</li>
+    <li>circumstance_phrase->फटे और सूखे होंठों के साथ</li>
+    <li>circumstance_phrase->उल्टी करते हुए</li>
+    <li>circumstance_phrase->एक दृश्य चकत्ते के साथ</li>
+    <li>desc_sentence->[Quantity_adjphrase] मुड़े हुए {[AnimalAnyPl]} के शव [AnimalAnyPl] क्षेत्र को घेरते हैं।</li>
+    <li>desc_sentence->के कपड़े [PAWN_nameDef] टुकड़े टुकड़े हो रहे हैं।</li>
+    <li>desc_sentence->आकाश में धुंध है [Color_Fem].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [TerrainFeature_Pl] [Color_Plural] दृश्य को घेरते हैं।</li>
+    <li>desc_sentence->{[Quantity_adjphrase]} {[Animal]} देखते हैं। [TreeType]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] तड़पते हुए जानवर जमीन पर पड़े हैं।</li>
+  </ToxicityRevealed.rulePack.rulesStrings>
+  
+  <!-- EN: wounded -->
+  <Wounded.label>घायल</Wounded.label>
+  <!-- EN:
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef] with a [WEAPON_label]</li>
+    <li>tale_noun->the [wound_name_present] of [VICTIM_nameDef]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] by [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] brutally [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] being [wound_name_past] [with_weapon_optional]</li>
+    <li>wound_name_past->wounded</li>
+    <li>wound_name_past->harmed</li>
+    <li>wound_name_past->hurt</li>
+    <li>wound_name_past->assaulted</li>
+    <li>wound_name_past->attacked</li>
+    <li>wound_name_present->wounding</li>
+    <li>wound_name_present->harming</li>
+    <li>wound_name_present->hurting</li>
+    <li>wound_name_present->assaulting</li>
+    <li>wound_name_present->attacking</li>
+    <li>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->seemingly without remorse</li>
+    <li>circumstance_phrase->with cold efficiency</li>
+    <li>circumstance_phrase->with passionate rage</li>
+    <li>circumstance_phrase->with quick, efficient movements</li>
+    <li>circumstance_phrase->without emotion or expression</li>
+    <li>circumstance_phrase->out of bleak necessity</li>
+    <li>circumstance_phrase->in a cowardly, halfhearted way</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</li>
+    <li>desc_sentence->A [PersonJob] watches silently [side_position].</li>
+    <li>desc_sentence->Blood is pooling around [VICTIM_nameDef]'s body.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</li>
+    <li>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] is wincing in pain.</li>
+    <li>desc_sentence->[VICTIM_nameDef] is wincing in agony.</li>
+    <li>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</li>
+    <li>desc_sentence->[KILLER_nameDef] seems satisfied.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</li>
+    <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
+  -->
+  <Wounded.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] {replace: a [VICTIM_nameDef]; "a el "-"al "}</li>
+    <li>tale_noun->[KILLER_nameDef] [wound_name_past] {replace: a [VICTIM_nameDef]; "a el "-"al "} के साथ [WeaponIndef]</li>
+    <li>tale_noun->हुआ [wound_name_present1] {replace: de [VICTIM_nameDef]; "de el "-"del "} द्वारा [KILLER_nameDef]</li>
+    <li>tale_noun->हुआ [wound_name_present1] {replace: de [VICTIM_nameDef]; "de el "-"del "} के साथ [WeaponIndef]</li>
+    <li>tale_noun->घटित हुआ [wound_name_present1] {replace: de [VICTIM_nameDef]; "de el "-"del "}</li>
+    <li>image->[VICTIM_nameFull] होने [wound_name_present] द्वारा [KILLER_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present2] को [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[KILLER_nameFull] [wound_name_present2] बर्बरतापूर्वक [VICTIM_nameFull] [with_weapon_optional]</li>
+    <li>image->[VICTIM_nameFull] हो रहा है [wound_name_present] [with_weapon_optional]</li>
+    <li>wound_name_past->घायल किया</li>
+    <li>wound_name_past->नुकसान पहुँचाया</li>
+    <li>wound_name_past->चोट पहुँचाई</li>
+    <li>wound_name_past->हमला किया</li>
+    <li>wound_name_past->हमला किया</li>
+    <li>wound_name_present->घायल करना[VICTIM_o_a]</li>
+    <li>wound_name_present->क्षति पहुँचा रहा है[VICTIM_o_a]</li>
+    <li>wound_name_present->घायल[VICTIM_o_a]</li>
+    <li>wound_name_present->घायल करना[VICTIM_o_a]</li>
+    <li>wound_name_present->हमला कर रहा है[VICTIM_o_a]</li>
+    <li>wound_name_present2->हमला करते हुए</li>
+    <li>wound_name_present2->घायल करते हुए</li>
+    <li>wound_name_present2->घायल करते हुए</li>
+    <li>wound_name_present2->घायल करते हुए</li>
+    <li>wound_name_present2->मार रहा है</li>
+    <li>wound_name_present1->हमला</li>
+    <li>wound_name_present1->नुकसान</li>
+    <li>wound_name_present1->घाव</li>
+    <li>wound_name_present1->चोट</li>
+    <li>wound_name_present1->हमला</li>
+    <li>with_weapon_optional->के साथ [WeaponIndef] [circumstance_group]</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->स्पष्ट रूप से पश्चाताप के बिना</li>
+    <li>circumstance_phrase->ठंडी कुशलता से</li>
+    <li>circumstance_phrase->ज्वलंत क्रोध के साथ</li>
+    <li>circumstance_phrase->तेज़ और कुशल चालों के साथ</li>
+    <li>circumstance_phrase->भावना या अभिव्यक्ति के बिना</li>
+    <li>circumstance_phrase->गंभीर आवश्यकता से</li>
+    <li>circumstance_phrase->कायरतापूर्वक और बेमन से</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] देख रहे हैं।</li>
+    <li>desc_sentence->एक [PersonJob] चुपचाप देखता है [side_position]।</li>
+    <li>desc_sentence->खून शरीर के चारों ओर जमा हो रहा है {replace: de [VICTIM_nameDef]; "de el "-"del "}.</li>
+    <li>desc_sentence->[VICTIM_nameDef] कराह रहा है[VICTIM_o_a] से [Gore_Plural]।</li>
+    <li>desc_sentence->[VICTIM_nameDef] पीड़ा में कराह रहा है [AdjectiveAngsty].</li>
+    <li>desc_sentence->[VICTIM_nameDef] दर्द से कराह रहा है।</li>
+    <li>desc_sentence->[VICTIM_nameDef] दर्द से कराह रहा है।</li>
+    <li>desc_sentence->[KILLER_nameDef] अपने दाँत दिखाता है।</li>
+    <li>desc_sentence->[KILLER_nameDef] खुश दिख रहा है[KILLER_o_a]।</li>
+    <li>desc_sentence->[KILLER_nameDef] विजयी दिख रहा है[KILLER_o_a] जो वह कर रहा है उससे</li>
+    <li>desc_sentence->[KILLER_nameDef] प्रसन्न प्रतीत होता[KILLER_o_a] स्थिति से।</li>
+    <li>desc_sentence->[KILLER_nameDef] विजयी प्रतीत होता है।</li>
+  </Wounded.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient concrete barrier -->
+  <AncientConcreteBarrier.label>प्राचीन कंक्रीट अवरोध</AncientConcreteBarrier.label>
+  <!-- EN: A traffic management solution from long ago. -->
+  <AncientConcreteBarrier.description>पुराने समय का यातायात प्रबंधन समाधान।</AncientConcreteBarrier.description>
+  
+  <!-- EN: ancient lamppost -->
+  <AncientLamppost.label>प्राचीन खम्भा</AncientLamppost.label>
+  <!-- EN: Road lighting from long ago. No longer functional. -->
+  <AncientLamppost.description>पुरानी सड़क की रोशनी। अब काम नहीं करती।</AncientLamppost.description>
+  
+  <!-- EN: urn -->
+  <Urn.label>भंडारण</Urn.label>
+  <!-- EN: An ancient-style decorative container. -->
+  <Urn.description>एक प्राचीन शैली का सजावटी पात्र।</Urn.description>
+  
+</LanguageData>

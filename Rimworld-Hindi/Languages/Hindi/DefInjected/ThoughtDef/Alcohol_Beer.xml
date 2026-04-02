@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alcohol withdrawal -->
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.label>शराब वापसी</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
+  <!-- EN: Feeling shaky. Everything pisses me off. I keep thinking of drinking. -->
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.description>शरीर कांप रहा है। हर चीज़ से गुस्सा आ रहा है। मन में शराब पीने का विचार बार-बार आ रहा है।</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
+  
+  <!-- EN: mild hangover -->
+  <Hungover.stages.mild_hangover.label>हल्का नशा</Hungover.stages.mild_hangover.label>
+  <!-- EN: The headache is almost gone. -->
+  <Hungover.stages.mild_hangover.description>सिरदर्द लगभग ठीक हो गया है।</Hungover.stages.mild_hangover.description>
+  <!-- EN: serious hangover -->
+  <Hungover.stages.serious_hangover.label>गंभीर नशा</Hungover.stages.serious_hangover.label>
+  <!-- EN: My head hurts from all that liquor. -->
+  <Hungover.stages.serious_hangover.description>शराब की वजह से मेरा सिर दर्द कर रहा है।</Hungover.stages.serious_hangover.description>
+  <!-- EN: pounding hangover -->
+  <Hungover.stages.pounding_hangover.label>भयानक नशा</Hungover.stages.pounding_hangover.label>
+  <!-- EN: It feels like a gaggle of geese are pecking at my skull. -->
+  <Hungover.stages.pounding_hangover.description>ऐसा लगता है जैसे हंसों का झुंड मेरे खोपड़ी पर चोंच मार रहा है।</Hungover.stages.pounding_hangover.description>
+  
+  <!-- EN: alcohol warmth -->
+  <Inebriated.stages.alcohol_warmth.label>शराब गर्माहट</Inebriated.stages.alcohol_warmth.label>
+  <!-- EN: I just feel a bit more relaxed after that drink. That's good. -->
+  <Inebriated.stages.alcohol_warmth.description>उस पेय के बाद मुझे थोड़ा अधिक आराम महसूस हो रहा है। यह अच्छा है।</Inebriated.stages.alcohol_warmth.description>
+  <!-- EN: quite inebriated -->
+  <Inebriated.stages.quite_inebriated.label>बहुत नशे में</Inebriated.stages.quite_inebriated.label>
+  <!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
+  <Inebriated.stages.quite_inebriated.description>मैं थोड़ा अस्थिर महसूस कर रहा हूँ! और यह काफी सुखद है।</Inebriated.stages.quite_inebriated.description>
+  <!-- EN: drunk -->
+  <Inebriated.stages.drunk.label>नशा</Inebriated.stages.drunk.label>
+  <!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
+  <Inebriated.stages.drunk.description>मुझे बहुत आज़ाद और निर्भीक महसूस हो रहा है! यह बहुत अच्छा समय है!</Inebriated.stages.drunk.description>
+  <!-- EN: hammered -->
+  <Inebriated.stages.hammered.label>धक्का</Inebriated.stages.hammered.label>
+  <!-- EN: Wooo! What's going on? -->
+  <Inebriated.stages.hammered.description>वाह! क्या हो रहा है?</Inebriated.stages.hammered.description>
+  
+</LanguageData>

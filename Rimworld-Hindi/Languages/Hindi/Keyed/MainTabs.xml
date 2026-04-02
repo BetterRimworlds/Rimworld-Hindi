@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Work tab -->
+  <!-- EN: Manual priorities -->
+  <ManualPriorities>हाथ से प्राथमिकताएं</ManualPriorities>
+  <!-- EN: higher priority -->
+  <HigherPriority>उच्च प्राथमिकता</HigherPriority>
+  <!-- EN: lower priority -->
+  <LowerPriority>प्राथमिकता कम करें</LowerPriority>
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} -->
+  <RelevantSkills>प्रासंगिक कौशल: {0}\nप्रासंगिक कौशल का औसत: {1}</RelevantSkills>
+  <!-- EN: Click to jump to: -->
+  <ClickToJumpTo>क्लिक करके जाएँ:</ClickToJumpTo>
+  <!-- EN: {1_labelShort} cannot do this kind of work. -->
+  <CannotDoThisWork>{1_labelShort} यह तरह का काम नहीं कर सकता।</CannotDoThisWork>
+  <!-- EN: (none) -->
+  <NoneBrackets>नियम।</NoneBrackets>
+  <!-- EN: This colonist is not able to do any work of this type because of their health condition. -->
+  <IncapableOfWorkTypeBecauseOfCapacities>यह उपनिवेशवादी स्वास्थ्य स्थिति के कारण इस प्रकार का कोई भी कार्य करने में असमर्थ है।</IncapableOfWorkTypeBecauseOfCapacities>
+  <!-- EN: E -->
+  <EmergencyWorkMarker>ई</EmergencyWorkMarker>
+  <!-- EN: Warning: The average of relevant skills is very low. -->
+  <SelectedWorkTypeWithVeryBadSkill>चेतावनी: प्रासंगिक कौशल का औसत बहुत कम है।</SelectedWorkTypeWithVeryBadSkill>
+  <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
+  <PriorityOneDoneFirst>प्राथमिकता  पहले की जाती है। प्राथमिकता  अंतिम की जाती है।</PriorityOneDoneFirst>
+  <!-- EN: Will not do -->
+  <Priority0>नहीं होगा।</Priority0>
+  <!-- EN: Top priority -->
+  <Priority1>उच्च प्राथमिकता</Priority1>
+  <!-- EN: High priority -->
+  <Priority2>उच्च प्राथमिकता</Priority2>
+  <!-- EN: Normal priority -->
+  <Priority3>सामान्य प्राथमिकता</Priority3>
+  <!-- EN: Low priority -->
+  <Priority4>निम्न प्राथमिकता</Priority4>
+  <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
+  <PawnFactionInfo>{0}\n\nगुट {1_nameDef} वर्तमान में इससे संबंधित है।\n\nगुट देखने के लिए क्लिक करें।</PawnFactionInfo>
+  <!-- EN: Disabled by {0} backstory -->
+  <WorkDisabledByBackstory>{0} पृष्ठभूमि से अक्षम।</WorkDisabledByBackstory>
+  <!-- EN: Disabled by {0} trait -->
+  <WorkDisabledByTrait>{0} विशेषता से अक्षम।</WorkDisabledByTrait>
+  <!-- EN: Disabled by quest '{0}' -->
+  <WorkDisabledByQuest>क्वेस्ट ‘{0}’ द्वारा अक्षम।</WorkDisabledByQuest>
+  
+  <!-- Assign tab -->
+  <!-- EN: Unchangeable -->
+  <Unchangeable>अपरिवर्तनीय</Unchangeable>
+  <!-- EN: Clr. forced -->
+  <ClearForcedApparel>स्पष्ट मजबूर</ClearForcedApparel>
+  <!-- EN: forced -->
+  <ApparelForcedLower>मजबूर</ApparelForcedLower>
+  <!-- EN: locked -->
+  <ApparelLockedLower>ताला</ApparelLockedLower>
+  <!-- EN: Forced apparel -->
+  <ForcedApparel>मजबूरी वस्त्र</ForcedApparel>
+  <!-- EN: Edit -->
+  <AssignTabEdit>संशोधन</AssignTabEdit>
+  <!-- EN: Manage apparel policies -->
+  <ManageApparelPolicies>वस्त्र नीति प्रबंधित करें</ManageApparelPolicies>
+  <!-- EN: Manage drug policies -->
+  <ManageDrugPolicies>दवा नीतियाँ प्रबंधित करें</ManageDrugPolicies>
+  <!-- EN: Manage food policies -->
+  <ManageFoodPolicies>भोजन नीतियाँ प्रबंधित करें</ManageFoodPolicies>
+  <!-- EN: Manage reading policies -->
+  <ManageReadingPolicies>पठन नीतियाँ प्रबंधित करें</ManageReadingPolicies>
+  
+  <!-- Restrictions tab -->
+  <!-- EN: Copy -->
+  <Copy>प्रतिलिपि</Copy>
+  <!-- EN: Paste -->
+  <Paste>चिपकाना</Paste>
+  <!-- EN: Allowed area -->
+  <AllowedArea>अनुमत क्षेत्र</AllowedArea>
+  
+  <!-- Animals tab -->
+  <!-- EN: Master -->
+  <Master>मास्टर</Master>
+  <!-- EN: Pregnant ({0} / {1}) -->
+  <PregnantIconDesc>गर्भवती ({0} / {1})</PregnantIconDesc>
+  <!-- EN: Bonded to -->
+  <BondedTo>जुड़ा हुआ</BondedTo>
+  <!-- EN: Sterilize animal. -->
+  <SterilizeAnimal>पशु नसबंदी।</SterilizeAnimal>
+  <!-- EN: Animal sterile. -->
+  <AnimalAlreadySterile>जानवर बंजर।</AnimalAlreadySterile>
+  
+  <!-- Wildlife tab -->
+  <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
+  <IsPredator>यह जीव एक शिकारी है। भूख लगने पर, यह छोटे जीवों का शिकार करेगा - संभवतः लोगों सहित।</IsPredator>
+  <!-- EN: This creature is currently in mental state: {0} -->
+  <IsInMentalState>यह प्राणी वर्तमान में मानसिक अवस्था में है: {0}</IsInMentalState>
+  
+  <!-- Factions tab -->
+  <!-- EN: Hostile -->
+  <Hostile>शत्रुतापूर्ण</Hostile>
+  <!-- EN: Ally -->
+  <Ally>सहयोगी</Ally>
+  <!-- EN: hostile -->
+  <HostileLower>शत्रुतापूर्ण</HostileLower>
+  <!-- EN: ally -->
+  <AllyLower>सहयोगी</AllyLower>
+  <!-- EN: defeated -->
+  <DefeatedLower>पराजित</DefeatedLower>
+  <!-- EN: Enemy of {0} -->
+  <HostileTo>{0} का दुश्मन</HostileTo>
+  <!-- EN: Enemy of: -->
+  <EnemyOf>शत्रु</EnemyOf>
+  <!-- EN: Recent events -->
+  <RecentEvents>हालिया घटनाएं</RecentEvents>
+  <!-- EN: Ongoing events -->
+  <OngoingEvents>चल रही घटनाएँ</OngoingEvents>
+  <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
+  <CurrentGoodwillTip_PermanentEnemy>यह गुट स्थायी रूप से शत्रुतापूर्ण है। वे आपकी बस्तियों और कारवां पर हमला करेंगे। किसी भी कारण से उनके साथ संबंध कभी नहीं सुधरेंगे।</CurrentGoodwillTip_PermanentEnemy>
+  <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Ally>यह गुट सहयोगी है। वे जब भी संभव होगा आपकी सहायता के लिए लड़ाकू भेजेंगे। यदि संबंध {0} से नीचे गिर जाते हैं, तो वे तटस्थ हो जाएंगे।</CurrentGoodwillTip_Ally>
+  <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
+  <CurrentGoodwillTip_Neutral>यह गुट तटस्थ है। वे आपसे स्वतंत्र रूप से व्यापार और बातचीत करेंगे। यदि संबंध {0} से नीचे गिर जाते हैं, तो वे शत्रुतापूर्ण हो जाएंगे। यदि संबंध {1} से ऊपर उठ जाते हैं, तो वे सहयोगी बन जाएंगे और आपकी सहायता करने के लिए सक्रिय रूप से काम करना शुरू कर देंगे।</CurrentGoodwillTip_Neutral>
+  <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Hostile>यह गुट शत्रुतापूर्ण है। वे आपकी बस्तियों और कारवां पर हमला करेंगे। यदि संबंध {0} से ऊपर उठते हैं, तो वे तटस्थ हो जाएंगे।</CurrentGoodwillTip_Hostile>
+
+  <!-- Social tab -->
+  <!-- EN: Friend -->
+  <Friend>दोस्त</Friend>
+  <!-- EN: Rival -->
+  <Rival>प्रतिद्वंद्वी</Rival>
+  <!-- EN: Acquaintance -->
+  <Acquaintance>परिचय</Acquaintance>
+  
+  <!-- History tab - subtabs -->
+  <!-- EN: Graph -->
+  <Graph>रेखाचित्र</Graph>
+  <!-- EN: Messages -->
+  <Messages>संदेश</Messages>
+  <!-- EN: Statistics -->
+  <Statistics>सांख्यिकी</Statistics>
+  
+  <!-- History tab - Graphs -->
+  <!-- EN: Select graph -->
+  <SelectGraph>चयन आरेख</SelectGraph>
+  <!-- EN: Last 30 days -->
+  <Last30Days>पिछले 30 दिन</Last30Days>
+  <!-- EN: Last 100 days -->
+  <Last100Days>पिछले 100 दिन</Last100Days>
+  <!-- EN: Last 300 days -->
+  <Last300Days>पिछले ३०० दिन</Last300Days>
+  <!-- EN: All -->
+  <AllDays>सब</AllDays>
+  <!-- EN: Value -->
+  <Value>मूल्य</Value>
+  <!-- EN: External -->
+  <External>बाहरी</External>
+
+  <!-- History tab - Messages -->
+  <!-- EN: Show letters -->
+  <ShowLetters>अक्षर दिखाएँ</ShowLetters>
+  <!-- EN: Show messages -->
+  <ShowMessages>संदेश दिखाएँ</ShowMessages>
+  <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
+  <PinArchivableTip>यह संदेश पिन करें या अनपिन करें।\n\nसबसे पुराने अनपिन किए गए संदेशों को {0} संदेशों की सीमा तक पहुंचने के बाद स्वचालित रूप से सूची से हटा दिया जाएगा।</PinArchivableTip>
+  <!-- EN: no messages -->
+  <NoMessages>संदेश नहीं</NoMessages>
+
+  <!-- History tab - Statistics -->
+  <!-- EN: Play time -->
+  <Playtime>खेल समय</Playtime>
+  <!-- EN: Storyteller -->
+  <Storyteller>कथाकार</Storyteller>
+  <!-- EN: Colony wealth (this map) -->
+  <ThisMapColonyWealthTotal>कॉलोनी संपत्ति (यह मानचित्र)</ThisMapColonyWealthTotal>
+  <!-- EN: Colony wealth (items) (this map) -->
+  <ThisMapColonyWealthItems>कॉलोनी संपत्ति (वस्तुएं) (यह मानचित्र)</ThisMapColonyWealthItems>
+  <!-- EN: Colony wealth (buildings) (this map) -->
+  <ThisMapColonyWealthBuildings>कॉलोनी संपत्ति (इमारतें) (यह मानचित्र)</ThisMapColonyWealthBuildings>
+  <!-- EN: Colony wealth (people and animals) (this map) -->
+  <ThisMapColonyWealthColonistsAndTameAnimals>कॉलोनी संपत्ति (लोग और जानवर) (यह मानचित्र)</ThisMapColonyWealthColonistsAndTameAnimals>
+  <!-- EN: Major threats -->
+  <NumThreatBigs>गंभीर खतरे</NumThreatBigs>
+  <!-- EN: Enemy raids -->
+  <NumEnemyRaids>शत्रु छापे</NumEnemyRaids>
+  <!-- EN: Damage taken (this map) -->
+  <ThisMapDamageTaken>क्षति प्राप्त (यह मानचित्र)</ThisMapDamageTaken>
+  <!-- EN: Colonists killed -->
+  <ColonistsKilled>कॉलोनिस्ट मारे गए</ColonistsKilled>
+  <!-- EN: Colonists launched into space -->
+  <ColonistsLaunched>कॉलोनिस्ट अंतरिक्ष में प्रक्षेपित।</ColonistsLaunched>
+
+  <!-- Research tab -->
+  <!-- EN: Research -->
+  <Research>अनुसंधान</Research>
+  <!-- EN: Study -->
+  <Study>अध्ययन</Study>
+  <!-- EN: Study {0} -->
+  <StudyThing>अध्ययन {0}</StudyThing>
+  <!-- EN: Unresearched -->
+  <Unresearched>अन्वेषित न</Unresearched>
+  <!-- EN: Finished -->
+  <Finished>पूरा हुआ</Finished>
+  <!-- EN: In Progress -->
+  <InProgress>प्रगति में</InProgress>
+  <!-- EN: Locked -->
+  <Locked>ताला</Locked>
+  <!-- EN: Prerequisites -->
+  <Prerequisites>आवश्यकताएं</Prerequisites>
+  <!-- EN: Techprints required {0} / {1} -->
+  <ResearchTechprintRequirement>तकनीकी ब्लूप्रिंट आवश्यक {0} / {1}</ResearchTechprintRequirement>
+  <!-- EN: Insufficient techprints applied ({0} / {1}) -->
+  <InsufficientTechprintsApplied>पर्याप्त तकनीकी ब्लूप्रिंट लागू नहीं किए गए ({0} / {1})</InsufficientTechprintsApplied>
+  <!-- EN: Prerequisite(s) not completed -->
+  <PrerequisitesNotCompleted>आवश्यकताएँ पूरी नहीं हुईं।</PrerequisitesNotCompleted>
+  <!-- EN: No project active. -->
+  <NoProjectSelected>कोई परियोजना सक्रिय नहीं।</NoProjectSelected>
+  <!-- EN: Active projects -->
+  <ActiveProjectPlural>सक्रिय परियोजनाएं</ActiveProjectPlural>
+  <!-- EN: Active project -->
+  <ActiveProject>सक्रिय परियोजना</ActiveProject>
+  <!-- EN: Stop research -->
+  <StopResearch>अनुसंधान रोकें</StopResearch>
+  <!-- EN: Missing required research facilities -->
+  <MissingRequiredResearchFacilities>आवश्यक अनुसंधान सुविधाएं गुम हैं।</MissingRequiredResearchFacilities>
+  <!-- EN: Required research bench -->
+  <RequiredResearchBench>आवश्यक अनुसंधान बेंच</RequiredResearchBench>
+  <!-- EN: Required research bench facilities -->
+  <RequiredResearchBenchFacilities>आवश्यक अनुसंधान बेंच सुविधाएं</RequiredResearchBenchFacilities>
+  <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
+  <ResearchCostComparison>परियोजना आधार लागत {0} आपकी तकनीक स्तर के कारण {1} हो जाती है।</ResearchCostComparison>
+  <!-- EN: Techprints are available from these factions via trade and quests: -->
+  <ResearchTechprintsFromFactions>तकनीकी प्रिंट इन गुटों से व्यापार और खोजों के माध्यम से उपलब्ध हैं:</ResearchTechprintsFromFactions>
+  <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
+  <TechLevelTooLow>आपके गुट का तकनीकी स्तर {0} है, लेकिन इस परियोजना का तकनीकी स्तर {1} है। अनुसंधान गति को {2} से गुणा किया जाएगा।</TechLevelTooLow>
+  <!-- EN: Unlocked with -->
+  <UnlockedWith>अनलॉक किया गया</UnlockedWith>
+  <!-- EN: Research one or more of this project's prerequisites to discover it. -->
+  <UnknownResearchDescription>इस परियोजना की एक या अधिक पूर्वशर्तों पर शोध करके इसे खोजें।</UnknownResearchDescription>
+  <!-- EN: unknown -->
+  <UnknownResearch>अज्ञात</UnknownResearch>
+
+  <!-- Factions tab -->
+  <!-- EN: Factions -->
+  <FactionsTab>गुट</FactionsTab>
+  <!-- EN: No known factions -->
+  <NoFactions>कोई ज्ञात गुट नहीं</NoFactions>
+
+  <!-- Quests tab -->
+  <!-- EN: Available -->
+  <AvailableQuests>उपलब्ध</AvailableQuests>
+  <!-- EN: Active -->
+  <ActiveQuests>सक्रिय</ActiveQuests>
+  <!-- EN: Historical -->
+  <HistoricalQuests>ऐतिहासिक</HistoricalQuests>
+  <!-- EN: no quest selected -->
+  <NoQuestSelected>कोई खोज नहीं चुनी गई।</NoQuestSelected>
+  <!-- EN: Appeared {0} days ago -->
+  <AppearedDaysAgo>दिखा {0} दिन पहले</AppearedDaysAgo>
+  <!-- EN: Appeared on {0} -->
+  <AppearedOn>{0} पर दिखा</AppearedOn>
+  <!-- EN: Accepted {0} ago -->
+  <AcceptedAgo>स्वीकृत {0} पहले</AcceptedAgo>
+  <!-- EN: Accepted on {0} -->
+  <AcceptedOn>{0} पर स्वीकृत</AcceptedOn>
+  <!-- EN: Accepted {0} ago by {1} -->
+  <AcceptedAgoBy>स्वीकृत {0} पहले {1} द्वारा</AcceptedAgoBy>
+  <!-- EN: Accepted on {0} by {1} -->
+  <AcceptedOnBy>स्वीकृत {0} द्वारा {1}</AcceptedOnBy>
+  <!-- EN: Expires in {0} -->
+  <QuestExpiresIn>{0} में समाप्त</QuestExpiresIn>
+  <!-- EN: Expires on {0} -->
+  <QuestExpiresOn>{0} पर समाप्त</QuestExpiresOn>
+  <!-- EN: Average guest mood (previous {0}): {1} -->
+  <QuestAveragePawnMood>औसत अतिथि मनोदशा (पिछला {0}): {1}</QuestAveragePawnMood>
+  <!-- EN: The average mood of {0} over the previous {1} -->
+  <QuestAveragePawnMoodTargets>{0} का पिछले {1} में औसत मनोदशा</QuestAveragePawnMoodTargets>
+  <!-- EN: Shuttle arrives in {0} -->
+  <ShuttleArrivesIn>शटल {0} में पहुंचता है।</ShuttleArrivesIn>
+  <!-- EN: Shuttle arrives on {0} -->
+  <ShuttleArrivesOn>शटल {0} पर पहुंचता है।</ShuttleArrivesOn>
+  <!-- EN: Shuttle departs in {0} -->
+  <ShuttleDepartsIn>शटल {0} में रवाना होगा।</ShuttleDepartsIn>
+  <!-- EN: Shuttle departs on {0} -->
+  <ShuttleDepartsOn>शटल {0} पर रवाना होता है।</ShuttleDepartsOn>
+  <!-- EN: Guests depart in {0} -->
+  <GuestsDepartsIn>मेहमान {0} में रवाना होते हैं।</GuestsDepartsIn>
+  <!-- EN: Guests depart on {0} -->
+  <GuestsDepartsOn>मेहमान {0} पर रवाना होते हैं।</GuestsDepartsOn>
+  <!-- EN: Finished {0} ago -->
+  <QuestFinishedAgo>पूरा हुआ {0} पहले</QuestFinishedAgo>
+  <!-- EN: Accept quest -->
+  <AcceptQuest>कार्य स्वीकार करें</AcceptQuest>
+  <!-- EN: Accept with {0_labelShort} -->
+  <AcceptWith>स्वीकार करें</AcceptWith>
+  <!-- EN: Accept for -->
+  <AcceptQuestFor>स्वीकार करें</AcceptQuestFor>
+  <!-- EN: Click to accept this quest for this reward. -->
+  <AcceptQuestForTip>क्लिक करके इस खोज को स्वीकार करें इस पुरस्कार के लिए।</AcceptQuestForTip>
+  <!-- EN: The offer expired. -->
+  <QuestOutcomeInfo_OfferExpired>प्रस्ताव समाप्त।</QuestOutcomeInfo_OfferExpired>
+  <!-- EN: You completed this quest. -->
+  <QuestOutcomeInfo_UnknownOrSuccess>आपने यह खोज पूरी की।</QuestOutcomeInfo_UnknownOrSuccess>
+  <!-- EN: You failed this quest. -->
+  <QuestOutcomeInfo_Failed>आप इस कार्य में विफल रहे।</QuestOutcomeInfo_Failed>
+  <!-- EN: This quest became invalid before it was accepted. -->
+  <QuestOutcomeInfo_Invalid>यह खोज स्वीकार करने से पहले ही अमान्य हो गई।</QuestOutcomeInfo_Invalid>
+  <!-- EN: Jump to {0} -->
+  <JumpToTargetCustom>{0} पर जाएँ</JumpToTargetCustom>
+  <!-- EN: Select hives -->
+  <SelectHiveTargets>छत्ते चुनें</SelectHiveTargets>
+  <!-- EN: Challenge rating. This is a general rating for how difficult the quest will be relative to your current strength. More challenging quests give greater rewards.\n\n1: Normal\n2: Hard\n3: Extreme\n4: Ultimate -->
+  <QuestChallengeRatingTip>चुनौती रेटिंग। यह आपकी वर्तमान शक्ति के सापेक्ष खोज कितनी कठिन होगी इसकी सामान्य रेटिंग है। अधिक चुनौतीपूर्ण खोजें अधिक पुरस्कार देती हैं।\n\n1: सामान्य\n2: कठिन\n3: चरम\n4: अंतिम</QuestChallengeRatingTip>
+  <!-- EN: To accept this quest, you need -->
+  <QuestAcceptanceRequirementsDescription>इस खोज को स्वीकार करने के लिए, आपको आवश्यकता है।</QuestAcceptanceRequirementsDescription>
+  <!-- EN: free bedrooms that satisfy the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfied>खाली बेडरूम जो शीर्षक आवश्यकताओं को पूरा करते हैं।</QuestBedroomRequirementsUnsatisfied>
+  <!-- EN: a free bedroom that satisfies the title requirements of -->
+  <QuestBedroomRequirementsUnsatisfiedSingle>एक मुफ्त शयनकक्ष जो शीर्षक आवश्यकताओं को पूरा करता है।</QuestBedroomRequirementsUnsatisfiedSingle>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestThroneRoomRequirementsUnsatisfied>एक सिंहासन कक्ष जो {PAWN_निश्चित} के {TITLE} पद की आवश्यकताओं को पूरा करता है</QuestThroneRoomRequirementsUnsatisfied>
+  <!-- EN: assign a throne for {PAWN_definite} -->
+  <QuestNoThroneRoom>{PAWN_निश्चित} के लिए सिंहासन निर्दिष्ट करें।</QuestNoThroneRoom>
+  <!-- EN: a colonist with the title of {0} -->
+  <QuestNoColonistWithTitle>एक उपनिवेशवादी {0} शीर्षक के साथ</QuestNoColonistWithTitle>
+  <!-- EN: {PAWN_definite} to be in your home colony -->
+  <QuestPawnNotOnColonyMap>{PAWN_definite} आपके गृह उपनिवेश में रहने के लिए</QuestPawnNotOnColonyMap>
+  <!-- EN: the map clear of enemies of the bestower's faction -->
+  <QuestRequiresNoDangerOnMap>दस्तावर गुट के शत्रुओं से मानचित्र साफ़।</QuestRequiresNoDangerOnMap>
+  <!-- EN: that {PROJECT_label} has been researched. -->
+  <QuestRequiresResearch>वह {PROJECT_label} का अनुसंधान हो चुका है।</QuestRequiresResearch>
+  <!-- EN: to finish the ongoing bestowing ceremony quest -->
+  <QuestCanNotStartUntilBestowingCeremonyFinished>जारी सर्वश्रेष्ठ समारोह खोज को पूरा करने के लिए।</QuestCanNotStartUntilBestowingCeremonyFinished>
+  <!-- EN: Reward preferences -->
+  <ChooseRewards>पुरस्कार प्राथमिकताएं</ChooseRewards>
+  <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
+  <ChooseRewardsDesc>भविष्य के खोजों में आप किस प्रकार के पुरस्कार चाहते हैं, अन्य गुटों को बताएं। यह पहले से पेश किए गए खोजों को प्रभावित नहीं करता है।</ChooseRewardsDesc>
+  <!-- EN: Accept {FACTION_royalFavorLabel} -->
+  <AcceptRoyalFavor>स्वीकार करें</AcceptRoyalFavor>
+  <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
+  <AcceptRoyalFavorDesc>क्या आप {FACTION_royalFavorLabel} से {FACTION_name} द्वारा पुरस्कृत होने की इच्छा रखते हैं।\n\nयदि यह अक्षम है, तो {FACTION_name} इसके बजाय अन्य प्रकार के पुरस्कार देगा।\n\nयह सेटिंग केवल नए आगमन वाले खोजों को प्रभावित करती है।</AcceptRoyalFavorDesc>
+  <!-- EN: Accept goodwill -->
+  <AcceptGoodwill>अच्छाई स्वीकार करें</AcceptGoodwill>
+  <!-- EN: Whether you wish to be rewarded via improved faction relations with {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->
+  <AcceptGoodwillDesc>क्या आप {FACTION_name} के साथ बेहतर गुट संबंधों के माध्यम से पुरस्कृत होना चाहते हैं।\n\nयदि यह अक्षम है, तो {FACTION_name} इसके बजाय अन्य प्रकार के पुरस्कार प्रदान करेगा।\n\nयह सेटिंग केवल नव-उत्पन्न खोजों को प्रभावित करती है।</AcceptGoodwillDesc>
+  <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOn>आप {FACTION_royalFavorLabel} प्राप्त करने के लिए सहमत हैं।</RoyalFavorOn>
+  <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->
+  <RoyalFavorOff>आप {FACTION_royalFavorLabel} प्राप्त करने से बाहर निकल रहे हैं।</RoyalFavorOff>
+  <!-- EN: Your goodwill with {0_name} will improve by {1}.\n\nCurrent goodwill: {4} ({5}).\n\nGoodwill measures the general relationship between factions. If it falls below {2}, the faction becomes hostile and will raid your settlements and caravans. If it rises above {3}, the faction will become your ally and send fighters to help you when they can. Otherwise, the faction remains neutral and will trade and talk with you freely. -->
+  <GoodwillTip>{0_name} के साथ आपकी सद्भावना {1} से सुधरेगी।\n\nवर्तमान सद्भावना: {4} ({5})।\n\nसद्भावना गुटों के बीच सामान्य संबंध को मापती है। यदि यह {2} से नीचे गिरती है, तो गुट शत्रुतापूर्ण हो जाएगा और आपके बस्तियों और कारवां पर हमला करेगा। यदि यह {3} से ऊपर उठती है, तो गुट आपका सहयोगी बन जाएगा और जब वे कर सकते हैं तो आपकी सहायता के लिए लड़ाकू भेजेगा। अन्यथा, गुट तटस्थ रहता है और आपके साथ स्वतंत्र रूप से व्यापार और बातचीत करेगा।</GoodwillTip>
+  <!-- EN: {0_labelShort} joins -->
+  <PawnQuestReward>{0_labelShort} शामिल होता है</PawnQuestReward>
+  <!-- EN: Betrayal offer: {0} targets remain -->
+  <QuestBetrayalOffer>विश्वासघात प्रस्ताव: {0} लक्ष्य बने रहते हैं।</QuestBetrayalOffer>
+  <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
+  <QuestBetrayalOfferTip>{0} {1} के सभी सदस्यों को मारने के लिए आपको पुरस्कार देगा।</QuestBetrayalOfferTip>
+  <!-- EN: a colony wealth of at least {0} -->
+  <QuestRequiredPlayerWealth>एक कॉलोनी की संपत्ति कम से कम {0} की</QuestRequiredPlayerWealth>
+  <!-- EN: alliance with {0} -->
+  <QuestAlliedTo>गठबंधन {0} के साथ</QuestAlliedTo>
+  <!-- EN: hostile to {0} -->
+  <QuestHostileTo>{0} से शत्रुतापूर्ण</QuestHostileTo>
+  <!-- EN: neutral to {0} -->
+  <QuestNeutralTo>तटस्थ से {0}</QuestNeutralTo>
+  <!-- EN: studied {0_labelShort} -->
+  <QuestRequiredThingStudied>अध्ययन</QuestRequiredThingStudied>
+  <!-- EN: cannot accept {GERUND} {LAYER} -->
+  <QuestRequiredLayer>स्वीकार नहीं कर सकता {GERUND} {LAYER}</QuestRequiredLayer>
+  <!-- EN: cannot accept in space -->
+  <QuestNotSpace>अंतरिक्ष में स्वीकार नहीं किया जा सकता।</QuestNotSpace>
+
+  <!-- Health tab -->
+  <!-- EN: Creates need -->
+  <CreatesNeed>ज़रूरतें बनाता है</CreatesNeed>
+  <!-- EN: Change defaults... -->
+  <ChangeDefaults>डिफ़ॉल्ट बदलें…</ChangeDefaults>
+
+  <!-- Misc -->
+  <!-- EN: Click to edit -->
+  <ClickToEdit>संपादित करें</ClickToEdit>
+  <!-- EN: Assign -->
+  <AssignButton>सौंपना</AssignButton>
+  <!-- EN: Unassign -->
+  <UnassignButton>नियुक्ति रद्द करें</UnassignButton>
+  
+  <!-- Books -->
+  <!-- EN: Mental break chance -->
+  <BookMentalBreakChance>मानसिक विराम संभावना</BookMentalBreakChance>
+  
+  <!-- EN: Recreation gain multiplier -->
+  <BookJoyFactor>मनोरंजन लाभ गुणक</BookJoyFactor>
+  
+</LanguageData>

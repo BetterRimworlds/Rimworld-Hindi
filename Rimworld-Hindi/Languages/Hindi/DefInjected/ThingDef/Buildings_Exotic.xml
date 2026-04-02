@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ship part (defoliator) -->
+  <DefoliatorShipPart.label>जहाज भाग (पत्ती हटाने वाला)</DefoliatorShipPart.label>
+  <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
+  <DefoliatorShipPart.description>एक प्राचीन जहाज़ का भाग, अज्ञात मूल के यान से अलग किया गया। यह हज़ारों वर्ष पुराना हो सकता है।\n\nइसमें एक उपकरण है जो अपने पास के वनस्पति जीवन को नष्ट कर देता है, लेकिन मांसल प्राणियों को सीधे प्रभावित नहीं करता है। इस प्रकार के हथियार कभी-कभी खेतों या जंगलों में बिखरे होते हैं ताकि दुश्मन की खाद्य आपूर्ति और छिपने की जगहों को स्थायी रूप से क्षेत्र को बर्बाद किए बिना हटाया जा सके। वे आमतौर पर कक्षीय-ड्रॉप मैकेनोइड सेनाओं से जुड़े होते हैं।</DefoliatorShipPart.description>
+  
+  <!-- EN: ship part (psychic droner) -->
+  <PsychicDronerShipPart.label>जहाज भाग</PsychicDronerShipPart.label>
+  <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself. -->
+  <PsychicDronerShipPart.description>एक प्राचीन यान का भाग, अज्ञात मूल के यान से अलग हो गया। यह हजारों वर्ष पुराना हो सकता है।\n\nइसमें एक मानसिक गड़बड़ी उपकरण है। अगम्य पुरातन प्रौद्योगिकियों का उपयोग करते हुए, यह एक मानसिक संकेत उत्पन्न करता है जो इसके आसपास के विस्तृत क्षेत्र में लोगों और जानवरों को पागल कर देता है।</PsychicDronerShipPart.description>
+  
+  <!-- EN: ship chunk -->
+  <ShipChunk.label>जहाज खंड</ShipChunk.label>
+  <!-- EN: A chunk of a spacecraft. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nHaving landed not long ago, it still contains useful resources which you can acquire by deconstructing it. -->
+  <ShipChunk.description>अंतरिक्ष यान का एक टुकड़ा। ऐसा लगता है कि यह अनियंत्रित पुन: प्रवेश बलों या किसी प्रकार के हथियार से अलग हो गया था।\n\nअभी हाल ही में उतरा होने के कारण, इसमें अभी भी उपयोगी संसाधन हैं जिन्हें आप इसे विघटित करके प्राप्त कर सकते हैं।</ShipChunk.description>
+  <!-- EN: Deconstruct for valuable resources. -->
+  <ShipChunk.comps.CompInspectString.inspectString>मूल्यवान संसाधनों के लिए विघटित करें।</ShipChunk.comps.CompInspectString.inspectString>
+  
+  <!-- EN: imperial shuttle -->
+  <Shuttle.label>साम्राज्यिक यान</Shuttle.label>
+  <!-- EN: A spacer-tech uranium-powered shuttle designed for transit between surface and orbit, or between moons of a planetary system. To prevent unsanctioned use, the shuttle is locked to the pilot's bio-signature. Destroying the shuttle will yield a shuttle engine and other valuable resources. -->
+  <Shuttle.description>अंतरिक्ष युग तकनीक से संचालित यूरेनियम से चलने वाला शटल, जो सतह और कक्षा के बीच, या किसी ग्रह प्रणाली के चंद्रमाओं के बीच यात्रा के लिए डिज़ाइन किया गया है। अनधिकृत उपयोग को रोकने के लिए, शटल को पायलट के बायो-हस्ताक्षर से लॉक किया गया है। शटल को नष्ट करने से एक शटल इंजन और अन्य मूल्यवान संसाधन प्राप्त होंगे।</Shuttle.description>
+  
+  <!-- EN: crashed shuttle -->
+  <ShuttleCrashed.label>दुर्घटनाग्रस्त यान</ShuttleCrashed.label>
+  <!-- EN: A spacer-tech uranium-powered shuttle designed for transit between surface and orbit, or between moons of a planetary system. To prevent unsanctioned use, the shuttle is locked to the pilot's bio-signature. Destroying the shuttle will yield a shuttle engine and other valuable resources. -->
+  <ShuttleCrashed.description>अंतरिक्ष युग तकनीक से संचालित यूरेनियम से चलने वाला शटल, जो सतह और कक्षा के बीच, या किसी ग्रह प्रणाली के चंद्रमाओं के बीच यात्रा के लिए डिज़ाइन किया गया है। अनधिकृत उपयोग को रोकने के लिए, शटल पायलट के बायो-हस्ताक्षर से लॉक है। शटल को नष्ट करने से शटल इंजन और अन्य मूल्यवान संसाधन प्राप्त होंगे।</ShuttleCrashed.description>
+  
+</LanguageData>

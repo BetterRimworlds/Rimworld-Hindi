@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient soldier --><!-- EN: soldado antiguo -->
+  <AncientSoldier.label>पुराना सैनिक</AncientSoldier.label><!-- EN: soldado antigua -->
+  <AncientSoldier.labelFemale>सोल्डाडो एंटीगुआ</AncientSoldier.labelFemale><!-- EN: soldados antiguos -->
+  <AncientSoldier.labelPlural>पुराने सैनिक</AncientSoldier.labelPlural>
+  
+  <!-- EN: space refugee --><!-- EN: refugiado espacial -->
+  <SpaceRefugee.label>अंतरिक्ष शरणार्थी</SpaceRefugee.label><!-- EN: refugiada espacial -->
+  <SpaceRefugee.labelFemale>अंतरिक्षीय शरणार्थी महिला</SpaceRefugee.labelFemale><!-- EN: refugiados espaciales -->
+  <SpaceRefugee.labelPlural>अंतरिक्ष शरणार्थी</SpaceRefugee.labelPlural>
+  
+  <!-- EN: space refugee --><!-- EN: refugiado espacial -->
+  <SpaceRefugee_Clothed.label>अंतरिक्ष शरणार्थी</SpaceRefugee_Clothed.label><!-- EN: refugiada espacial -->
+  <SpaceRefugee_Clothed.labelFemale>अंतरिक्षीय शरणार्थी महिला</SpaceRefugee_Clothed.labelFemale><!-- EN: refugiados espaciales -->
+  <SpaceRefugee_Clothed.labelPlural>अंतरिक्ष शरणार्थी</SpaceRefugee_Clothed.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Armor - Blunt -->
+  <ArmorRating_Blunt.label>कवच - कुंद</ArmorRating_Blunt.label>
+  <!-- EN: The protection given against blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Blunt.description>मुट्ठी, क्लब के प्रभाव और चट्टानों के गिरने जैसे कुंद क्षति से मिलने वाला संरक्षण।\n\nक्षति लेने पर, पहले यह कवच रेटिंग हमले के कवच भेदन मूल्य से कम हो जाती है।\n\nशेष कवच रेटिंग की तुलना तब 0 से 100 तक की एक यादृच्छिक संख्या से की जाती है।\n\n– यदि यादृच्छिक संख्या कवच रेटिंग के आधे से कम है, तो क्षति हानिरहित रूप से विक्षेपित हो जाती है।\n– यदि यादृच्छिक संख्या कवच रेटिंग के आधे से अधिक है, लेकिन कवच रेटिंग से अधिक नहीं है, तो क्षति आधी हो जाती है और कुंद हो जाती है।\n– यदि यादृच्छिक संख्या कवच रेटिंग से अधिक है, तो कवच का कोई प्रभाव नहीं पड़ता।\n\nउदाहरण के लिए, 10% कवच भेदन वाले हमले के विरुद्ध 90% कवच रेटिंग पर, हमले को हानिरहित रूप से विक्षेपित करने की 40% संभावना है, और क्षति को कम करने की 40% संभावना है।\n\nकवच की प्रत्येक परत को बाहर से अंदर की ओर अलग-अलग लागू किया जाता है।</ArmorRating_Blunt.description>
+  <!-- EN: Armor - Blunt (armor stat) -->
+  <ArmorRating_Blunt.labelForFullStatList>कवच - कुंद (कवच आँकड़ा)</ArmorRating_Blunt.labelForFullStatList>
+  
+  <!-- EN: Armor - Heat -->
+  <ArmorRating_Heat.label>कवच - ताप</ArmorRating_Heat.label>
+  <!-- EN: The protection given against temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Heat.description>तापमान-संबंधी क्षति जैसे जलने से मिलने वाली सुरक्षा।\n\nक्षति होने पर, यह कवच रेटिंग पहले हमले के कवच भेदन मूल्य से कम हो जाती है।\n\nशेष कवच रेटिंग की तुलना तब 0 से 100 तक की एक यादृच्छिक संख्या से की जाती है।\n\n    - यदि यादृच्छिक संख्या कवच रेटिंग के आधे से कम है, तो क्षति हानिरहित रूप से विक्षेपित हो जाती है।\n    - यदि यादृच्छिक संख्या कवच रेटिंग के आधे से अधिक है, लेकिन कवच रेटिंग से अधिक नहीं है, तो क्षति आधी हो जाती है और कुंद हो जाती है।\n    - यदि यादृच्छिक संख्या कवच रेटिंग से अधिक है, तो कवच का कोई प्रभाव नहीं पड़ता है।\n\nउदाहरण के लिए, 10% कवच भेदन वाले हमले के विरुद्ध 90% कवच रेटिंग पर, हमले को हानिरहित रूप से विक्षेपित करने की 40% संभावना है, और क्षति को कम करने की 40% संभावना है।\n\nकवच की प्रत्येक परत को बाहर से अंदर की ओर अलग-अलग लागू किया जाता है।</ArmorRating_Heat.description>
+  <!-- EN: Armor - Heat (armor stat) -->
+  <ArmorRating_Heat.labelForFullStatList>कवच - ताप (कवच आँकड़ा)</ArmorRating_Heat.labelForFullStatList>
+  
+  <!-- EN: Armor - Sharp -->
+  <ArmorRating_Sharp.label>कवच - तीक्ष्ण</ArmorRating_Sharp.label>
+  <!-- EN: The protection given against sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Sharp.description>गोली, चाकू के वार, विस्फोट और जानवरों के काटने जैसी तीक्ष्ण क्षति से दिया गया संरक्षण।\n\nक्षति लेने पर, यह कवच रेटिंग पहले हमले के कवच भेदन मूल्य से कम हो जाती है।\n\nशेष कवच रेटिंग की तुलना तब 0 से 100 तक की एक यादृच्छिक संख्या से की जाती है।\n\n– यदि यादृच्छिक संख्या कवच रेटिंग के आधे से कम है, तो क्षति हानिरहित रूप से विक्षेपित हो जाती है।\n– यदि यादृच्छिक संख्या कवच रेटिंग के आधे से अधिक है, लेकिन कवच रेटिंग से अधिक नहीं है, तो क्षति आधी हो जाती है और कुंद हो जाती है।\n– यदि यादृच्छिक संख्या कवच रेटिंग से अधिक है, तो कवच का कोई प्रभाव नहीं पड़ता है।\n\nउदाहरण के लिए, 10% कवच भेदन वाले हमले के विरुद्ध 90% कवच रेटिंग पर, हमले को हानिरहित रूप से विक्षेपित करने की 40% संभावना है, और क्षति को कम करने की 40% संभावना है।\n\nकवच की प्रत्येक परत को बाहर से अंदर की ओर अलग-अलग लागू किया जाता है।</ArmorRating_Sharp.description>
+  <!-- EN: Armor - Sharp (armor stat) -->
+  <ArmorRating_Sharp.labelForFullStatList>कवच - तीक्ष्ण (कवच आँकड़ा)</ArmorRating_Sharp.labelForFullStatList>
+  
+  <!-- EN: Shield max energy -->
+  <EnergyShieldEnergyMax.label>शील्ड ऊर्जा अधिकतम</EnergyShieldEnergyMax.label>
+  <!-- EN: The maximum energy a shield can have at one time.\n\nMore energy absorbs more damage. -->
+  <EnergyShieldEnergyMax.description>शील्ड एक समय में जितनी अधिकतम ऊर्जा धारण कर सकती है।\n\nअधिक ऊर्जा अधिक क्षति को अवशोषित करती है।</EnergyShieldEnergyMax.description>
+  
+  <!-- EN: Shield recharge rate -->
+  <EnergyShieldRechargeRate.label>शील्ड पुनर्भरण दर</EnergyShieldRechargeRate.label>
+  <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+  <EnergyShieldRechargeRate.description>शील्ड की ऊर्जा प्राप्त करने की दर, जब तक यह टूटी नहीं है।</EnergyShieldRechargeRate.description>
+  <!-- EN: {0}/s -->
+  <EnergyShieldRechargeRate.formatString>{0} प्रति सेकंड</EnergyShieldRechargeRate.formatString>
+  
+  <!-- EN: equip delay -->
+  <EquipDelay.label>उपकरण विलंब</EquipDelay.label>
+  <!-- EN: The time it takes to equip and unequip this item. -->
+  <EquipDelay.description>यह वस्तु पहनने और उतारने में लगने वाला समय।</EquipDelay.description>
+  <!-- EN: {0} s -->
+  <EquipDelay.formatString>{0} आँकड़े</EquipDelay.formatString>
+  
+  <!-- EN: Insulation - Cold -->
+  <Insulation_Cold.label>शीत रोधन</Insulation_Cold.label>
+  <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature.\n\nGreater values allow surviving in colder temperatures. -->
+  <Insulation_Cold.description>यह परिधान पहनने वाले के न्यूनतम आरामदायक तापमान को कितना बढ़ाता है।\n\nउच्च मान ठंडे तापमान में जीवित रहने की अनुमति देते हैं।</Insulation_Cold.description>
+  <!-- EN: Insulation - Cold (armor stat) -->
+  <Insulation_Cold.labelForFullStatList>इन्सुलेशन - ठंडा (कवच आँकड़ा)</Insulation_Cold.labelForFullStatList>
+  
+  <!-- EN: Insulation - Heat -->
+  <Insulation_Heat.label>ऊष्मारोधन</Insulation_Heat.label>
+  <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature.\n\nGreater values allow surviving in warmer temperatures. -->
+  <Insulation_Heat.description>यह परिधान पहनने वाले के अधिकतम आरामदायक तापमान को कितना बढ़ाता है।\n\nउच्च मान गर्म तापमान में जीवित रहने की अनुमति देते हैं।</Insulation_Heat.description>
+  <!-- EN: Insulation - Heat (armor stat) -->
+  <Insulation_Heat.labelForFullStatList>इन्सुलेशन - गर्मी (कवच आँकड़ा)</Insulation_Heat.labelForFullStatList>
+  
+  <!-- EN: Effect radius -->
+  <PackRadius.label>प्रभाव त्रिज्या</PackRadius.label>
+  <!-- EN: The area affected when this pack detonates. -->
+  <PackRadius.description>विस्फोट होने पर प्रभावित क्षेत्र।</PackRadius.description>
+  <!-- EN: {0} c -->
+  <PackRadius.formatString>{0} सी</PackRadius.formatString>
+  
+  <!-- EN: Armor - Material effect multiplier -->
+  <StuffEffectMultiplierArmor.label>कवच - सामग्री प्रभाव गुणक</StuffEffectMultiplierArmor.label>
+  
+  <!-- EN: Insulation - Cold - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Cold.label>अवरोधन - शीत - सामग्री गुणक</StuffEffectMultiplierInsulation_Cold.label>
+  
+  <!-- EN: Insulation - Heat - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Heat.label>ऊष्मारोधक गुणक</StuffEffectMultiplierInsulation_Heat.label>
+  
+</LanguageData>

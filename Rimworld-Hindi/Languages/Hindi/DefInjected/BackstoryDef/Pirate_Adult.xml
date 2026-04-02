@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset. -->
+  <Assassin20.description>{PAWN_gender ? [PAWN_nameDef] एक पेशेवर हत्यारी थी। वह ठंडी, गणनात्मक थी, और अच्छा मुनाफा कमाती थी। इस व्यवसाय में, सहानुभूति की पूर्ण कमी एक संपत्ति थी। : [PAWN_nameDef] एक पेशेवर हत्यारा था। वह ठंडा, गणनात्मक था, और अच्छा लाभ कमाता था। इस व्यवसाय में, सहानुभूति की पूर्ण कमी एक संपत्ति थी।}</Assassin20.description>
+  <!-- EN: assassin -->
+  <Assassin20.title>हत्यारा</Assassin20.title>
+  <Assassin20.titleFemale>हत्यारी</Assassin20.titleFemale>
+  <!-- EN: assassin -->
+  <Assassin20.titleShort>हत्यारा</Assassin20.titleShort>
+  <Assassin20.titleShortFemale>हत्यारी</Assassin20.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was used for [PAWN_possessive] body by hundreds of customers in brothels on several planets. [PAWN_pronoun] gained some mental marks and a special kind of street smarts. -->
+  <Gigolo30.description>[PAWN_nameDef] का शरीर कई ग्रहों पर सैकड़ों ग्राहकों द्वारा वेश्यालयों में इस्तेमाल किया गया था। उसने कुछ मानसिक निशान और एक विशेष प्रकार की सड़क समझदारी हासिल की।</Gigolo30.description>
+  <!-- EN: gigolo -->
+  <Gigolo30.title>पुरुष वेश्या पुरुष वेश्या</Gigolo30.title>
+  <!-- EN: gigolo -->
+  <Gigolo30.titleFemale>वेश्या</Gigolo30.titleFemale>
+  <!-- EN: courtesan -->
+  <Gigolo30.titleShort>वेश्या</Gigolo30.titleShort>
+  <!-- EN: courtesan -->
+  <Gigolo30.titleShortFemale>वैश्या, मनोरंजनकर्ता, महिला</Gigolo30.titleShortFemale>
+  
+  <!-- EN: There is a law that says that you're not allowed to put terawatt-range grasers on a cargo scow. Especially if you hide them under what looks like a communications dish for better ambush potential. [PAWN_nameDef] discovered that there is great profit to be made, however, from those who are uninterested in these laws. -->
+  <IllegalShipwright76.description>एक कानून है जो कहता है कि आपको टेरावैट-श्रेणी के ग्रैसर को कार्गो स्कॉ पर नहीं लगाना चाहिए। खासकर यदि आप उन्हें बेहतर घात लगाने की क्षमता के लिए संचार डिश के रूप में छिपाते हैं। [PAWN_nameDef] ने पाया कि जो लोग इन कानूनों में रुचि नहीं रखते हैं, उनसे बहुत लाभ कमाया जा सकता है।</IllegalShipwright76.description>
+  <!-- EN: illegal shipwright -->
+  <IllegalShipwright76.title>अवैध जहाज़ निर्माता</IllegalShipwright76.title>
+  <!-- EN: shipwright -->
+  <IllegalShipwright76.titleShort>जहाज-निर्माता</IllegalShipwright76.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was nine years old when [PAWN_pronoun] got in [PAWN_possessive] first fight. [PAWN_pronoun] won, but more important was the enjoyment of [PAWN_possessive] audience. Pit fighting turned out to be a lucrative career for those who could survive it. And it was even mostly legal. -->
+  <PitBrawler76.description>{PAWN_gender ? [PAWN_nameDef] जब नौ वर्ष की थी, तब वह अपनी पहली लड़ाई में शामिल हुई। उसने जीत हासिल की, लेकिन दर्शकों का मनोरंजन अधिक महत्वपूर्ण था। पिट फाइटिंग उन लोगों के लिए एक लाभकारी करियर साबित हुआ जो इसमें जीवित रह सकते थे, और यह ज्यादातर कानूनी भी था। : [PAWN_nameDef] नौ साल का था जब उसने अपनी पहली लड़ाई लड़ी। उसने जीत हासिल की, लेकिन दर्शकों का मनोरंजन अधिक महत्वपूर्ण था। गड्ढे में लड़ाई उन लोगों के लिए एक आकर्षक करियर बन गया जो इसमें जीवित रह सकते थे। और यह ज्यादातर कानूनी भी था।}</PitBrawler76.description>
+  <!-- EN: pit brawler -->
+  <PitBrawler76.title>गड्ढा योद्धा</PitBrawler76.title>
+  <PitBrawler76.titleFemale>खाई योद्धा</PitBrawler76.titleFemale>
+  <!-- EN: brawler -->
+  <PitBrawler76.titleShort>मुक्केबाज</PitBrawler76.titleShort>
+  <PitBrawler76.titleShortFemale>मुक्केबाज़</PitBrawler76.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a warrior in an Imperial navy. [PAWN_possessive] job was to punch into enemy starships, gun down the crew, and capture the ship intact. And [PAWN_pronoun] was good at it. -->
+  <SpaceMarine16.description>{PAWN_gender ? [PAWN_nameDef] एक शाही नौसेना में योद्धा थी। उसका काम दुश्मन के अंतरिक्ष यानों में घुसना, चालक दल को मार गिराना और जहाज को अक्षुण्ण रूप से पकड़ना था। और वह इसमें अच्छी थी। : [PAWN_nameDef] एक शाही नौसेना में योद्धा था। उसका काम दुश्मन के स्टारशिप में घुसना, चालक दल को मार गिराना और जहाज को अक्षुण्ण रूप से पकड़ना था। और वह इसमें अच्छा था।}</SpaceMarine16.description>
+  <!-- EN: space marine -->
+  <SpaceMarine16.title>अंतरिक्ष सैनिक</SpaceMarine16.title>
+  <!-- EN: marine -->
+  <SpaceMarine16.titleShort>समुद्री सैनिक</SpaceMarine16.titleShort>
+  
+  <!-- EN: Piracy appears everywhere that governments are weak and society spread thin. [PAWN_nameDef] was part of this age-old part of human existence, extorting and smashing peaceful trade ships for profit. -->
+  <SpacePirate55.description>{PAWN_gender ? समुद्री डकैती हर जगह दिखाई देती है जहाँ सरकारें कमजोर हैं और समाज पतला फैला हुआ है। [PAWN_nameDef] इस प्राचीन मानव अस्तित्व का हिस्सा थीं, जो लाभ के लिए शांतिपूर्ण व्यापार जहाजों से जबरन वसूली और तोड़फोड़ करती थीं। : समुद्री डकैती हर जगह दिखाई देती है जहाँ सरकारें कमजोर हैं और समाज पतला फैला हुआ है। [PAWN_nameDef] इस प्राचीन मानव अस्तित्व का हिस्सा था, जो लाभ के लिए शांतिपूर्ण व्यापार जहाजों से जबरन वसूली करता था और उन्हें तोड़ता था।}</SpacePirate55.description>
+  <!-- EN: space pirate -->
+  <SpacePirate55.title>अंतरिक्ष समुद्री डाकू</SpacePirate55.title>
+  <SpacePirate55.titleFemale>अंतरिक्ष समुद्री डाकू</SpacePirate55.titleFemale>
+  <!-- EN: pirate -->
+  <SpacePirate55.titleShort>समुद्री डाकू</SpacePirate55.titleShort>
+  <SpacePirate55.titleShortFemale>समुद्री डाकू महिला</SpacePirate55.titleShortFemale>
+  
+</LanguageData>

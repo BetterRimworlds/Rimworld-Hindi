@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: butchery efficiency -->
+  <ButcheryFleshEfficiency.label>कसाई दक्षता</ButcheryFleshEfficiency.label>
+  <!-- EN: The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size. -->
+  <ButcheryFleshEfficiency.description>मांसल जीवों को काटने पर उत्पन्न मांस की मात्रा। \n\nवास्तविक मात्रा जीव के आकार से भी संबंधित है।</ButcheryFleshEfficiency.description>
+  
+  <!-- EN: butchery speed -->
+  <ButcheryFleshSpeed.label>कसाई गति</ButcheryFleshSpeed.label>
+  <!-- EN: The speed at which this person butchers flesh creatures. -->
+  <ButcheryFleshSpeed.description>इस व्यक्ति की मांसल जीवों को काटने की गति।</ButcheryFleshSpeed.description>
+  
+  <!-- EN: mechanoid shredding efficiency -->
+  <ButcheryMechanoidEfficiency.label>मेकैनॉइड कतरन दक्षता</ButcheryMechanoidEfficiency.label>
+  <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
+  <ButcheryMechanoidEfficiency.description>इस व्यक्ति द्वारा संसाधन हेतु किसी मृत मैकेनोइड को तोड़ने पर प्राप्त सामग्री की मात्रा।\n\nवास्तविक मात्रा मैकेनोइड के आकार से भी संबंधित है।</ButcheryMechanoidEfficiency.description>
+  
+  <!-- EN: mechanoid shredding speed -->
+  <ButcheryMechanoidSpeed.label>मेकैनॉइड कतरन गति</ButcheryMechanoidSpeed.label>
+  <!-- EN: The speed at which this person can shred a mechanoid for resources. -->
+  <ButcheryMechanoidSpeed.description>यह व्यक्ति किसी मैकेनॉइड को संसाधनों के लिए कितनी तेज़ी से नष्ट कर सकता है।</ButcheryMechanoidSpeed.description>
+  
+  <!-- EN: cooking speed -->
+  <CookSpeed.label>पाक गति</CookSpeed.label>
+  <!-- EN: The speed at which this person cooks meals. -->
+  <CookSpeed.description>इस व्यक्ति की भोजन बनाने की गति।</CookSpeed.description>
+  
+  <!-- EN: drug cooking speed -->
+  <DrugCookingSpeed.label>दवा पकाने की गति</DrugCookingSpeed.label>
+  <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
+  <DrugCookingSpeed.description>यह व्यक्ति कितनी तेज़ी से बीयर और चाय बनाता है, या स्मोकलीफ जोड़ों जैसे साधारण नशीले पदार्थ बनाता है।</DrugCookingSpeed.description>
+  
+  <!-- EN: drug synthesis speed -->
+  <DrugSynthesisSpeed.label>दवा निर्माण गति</DrugSynthesisSpeed.label>
+  <!-- EN: How fast this character synthesizes complex chemical drugs. -->
+  <DrugSynthesisSpeed.description>यह पात्र कितनी तेज़ी से जटिल रासायनिक दवाएँ बनाता है।</DrugSynthesisSpeed.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>भोजन विष जोखिम</FoodPoisonChance.label>
+  <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
+  <FoodPoisonChance.description>इस पात्र द्वारा अनजाने में भोजन में विष मिलाने की संभावना।\n\nजो कोई भी विषैला भोजन खाएगा, उसे अस्थायी रूप से दर्द, कमजोरी और उल्टी से पीड़ित होना पड़ेगा।</FoodPoisonChance.description>
+  <!-- EN: food poison chance (chance to poison a meal) -->
+  <FoodPoisonChance.labelForFullStatList>भोजन विषाक्तता संभावना (भोजन को विषाक्त करने की संभावना)</FoodPoisonChance.labelForFullStatList>
+  
+  <!-- EN: general labor speed -->
+  <GeneralLaborSpeed.label>श्रम गति</GeneralLaborSpeed.label>
+  <!-- EN: The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production. -->
+  <GeneralLaborSpeed.description>यह व्यक्ति पत्थर के ब्लॉक बनाने, रिफाइनरी में रासायनिक ईंधन बनाने, वस्तुओं को जलाने, कपड़े सिलने, कला बनाने, कवच और हथियार बनाने या स्लैग पिघलाने जैसे सामान्य श्रम को कितनी तेजी से करता है। यह आँकड़ा उन गतिविधियों पर लागू होता है जिनमें कोई कौशल शामिल नहीं है, साथ ही उन गतिविधियों पर भी जिनमें कौशल उत्पाद की गुणवत्ता को प्रभावित करता है न कि उत्पादन की गति को।</GeneralLaborSpeed.description>
+  
+  <!-- EN: smelting speed -->
+  <SmeltingSpeed.label>पिघलाने की गति</SmeltingSpeed.label>
+  <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
+  <SmeltingSpeed.description>यह व्यक्ति कितनी तेजी से धातु गलाता है।\n\nचूंकि धातु गलाने का काम साधारण है, इसलिए गलाने की गति किसी भी कौशल से प्रभावित नहीं होती है।</SmeltingSpeed.description>
+  
+</LanguageData>

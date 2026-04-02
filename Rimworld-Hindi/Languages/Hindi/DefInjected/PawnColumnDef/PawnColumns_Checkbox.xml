@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Follow master while the master is drafted. -->
+  <FollowDrafted.headerTip>मास्टर के ड्राफ्ट होने पर मास्टर का अनुसरण करें।</FollowDrafted.headerTip>
+  
+  <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
+  <FollowFieldwork.headerTip>मास्टर के साथ तब चलें जब मास्टर खेत में काम कर रहा हो (शिकार या जानवरों को पालना)।</FollowFieldwork.headerTip>
+  
+  <!-- EN: Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt. -->
+  <Hunt.headerTip>शिकार के लिए जानवरों को चिह्नित करें।\n\nकेवल उपयुक्त दूरी वाली बंदूकों वाले शिकारी शिकार करेंगे।</Hunt.headerTip>
+  
+  <!-- EN: Release to wild -->
+  <ReleaseAnimalToWild.headerTip>जंगली छोड़ें</ReleaseAnimalToWild.headerTip>
+  
+  <!-- EN: Slaughter -->
+  <Slaughter.headerTip>वध</Slaughter.headerTip>
+  
+  <!-- EN: Sterilize -->
+  <Sterile.headerTip>नसबंदी</Sterile.headerTip>
+  
+  <!-- EN: Tame a wild animal. -->
+  <Tame.headerTip>पालतू बनाना।</Tame.headerTip>
+  
+</LanguageData>

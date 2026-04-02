@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: usually man's -->
+  <MarriageName_UsuallyMans.label>पुरुष प्रधान</MarriageName_UsuallyMans.label>
+  <!-- EN: Most couples share the man's name. -->
+  <MarriageName_UsuallyMans.description>ज्यादातर जोड़े पुरुष का नाम साझा करते हैं।</MarriageName_UsuallyMans.description>
+  
+</LanguageData>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial brain -->
+  <ArtificialBrain.label>कृत्रिम मस्तिष्क</ArtificialBrain.label>
+  
+  <!-- EN: blade -->
+  <Blade.label>ब्लेड</Blade.label>
+  
+  <!-- EN: fluid reprocessor -->
+  <FluidReprocessor.label>द्रव पुन:प्रसंस्करणकर्ता</FluidReprocessor.label>
+  
+  <!-- EN: sound sensor -->
+  <HearingSensor.label>ध्वनि संवेदक</HearingSensor.label>
+  
+  <!-- EN: arm -->
+  <MechanicalArm.label>बांह</MechanicalArm.label>
+  
+  <!-- EN: fifth body ring -->
+  <MechanicalCentipedeBodyFifthRing.label>पांचवां शरीर वलय</MechanicalCentipedeBodyFifthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFifthRing.labelShort>शरीर वलय</MechanicalCentipedeBodyFifthRing.labelShort>
+  
+  <!-- EN: first body ring -->
+  <MechanicalCentipedeBodyFirstRing.label>पहला शरीर वलय</MechanicalCentipedeBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFirstRing.labelShort>शरीर वलय</MechanicalCentipedeBodyFirstRing.labelShort>
+  
+  <!-- EN: fourth body ring -->
+  <MechanicalCentipedeBodyFourthRing.label>चौथा शरीर वलय</MechanicalCentipedeBodyFourthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFourthRing.labelShort>शरीर वलय</MechanicalCentipedeBodyFourthRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalCentipedeBodySecondRing.label>दूसरा शरीर वलय</MechanicalCentipedeBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySecondRing.labelShort>शरीर वलय</MechanicalCentipedeBodySecondRing.labelShort>
+  
+  <!-- EN: sixth body ring -->
+  <MechanicalCentipedeBodySixthRing.label>छठा शरीर वलय</MechanicalCentipedeBodySixthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySixthRing.labelShort>शरीर वलय</MechanicalCentipedeBodySixthRing.labelShort>
+  
+  <!-- EN: third body ring -->
+  <MechanicalCentipedeBodyThirdRing.label>तीसरा शरीर वलय</MechanicalCentipedeBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyThirdRing.labelShort>शरीर वलय</MechanicalCentipedeBodyThirdRing.labelShort>
+  
+  <!-- EN: finger -->
+  <MechanicalFinger.label>उंगली</MechanicalFinger.label>
+  
+  <!-- EN: foot -->
+  <MechanicalFoot.label>पैर</MechanicalFoot.label>
+  
+  <!-- EN: hand -->
+  <MechanicalHand.label>हाथ</MechanicalHand.label>
+  
+  <!-- EN: head -->
+  <MechanicalHead.label>सिर</MechanicalHead.label>
+  
+  <!-- EN: leg -->
+  <MechanicalLeg.label>पैर</MechanicalLeg.label>
+  
+  <!-- EN: neck -->
+  <MechanicalNeck.label>गर्दन</MechanicalNeck.label>
+  
+  <!-- EN: shoulder -->
+  <MechanicalShoulder.label>कंधा</MechanicalShoulder.label>
+  
+  <!-- EN: thorax -->
+  <MechanicalThorax.label>वक्ष: पिंजरा</MechanicalThorax.label>
+  
+  <!-- EN: thorax -->
+  <MechanicalThoraxCanManipulate.label>वक्ष: पिंजरा</MechanicalThoraxCanManipulate.label>
+  
+  <!-- EN: reactor -->
+  <Reactor.label>रिएक्टर</Reactor.label>
+  
+  <!-- EN: visual sensor -->
+  <SightSensor.label>दृश्य संवेदक</SightSensor.label>
+  
+  <!-- EN: chemical analyzer -->
+  <SmellSensor.label>रासायनिक विश्लेषक</SmellSensor.label>
+  
+</LanguageData>

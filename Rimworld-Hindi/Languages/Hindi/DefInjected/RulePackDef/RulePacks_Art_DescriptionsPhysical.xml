@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>physical_description_root->This furniture is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This furniture bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on this furniture [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <ArtDescription_Furniture.rulePack.rulesStrings>
+    <li>physical_description_root->इस फर्नीचर पर उकेरा गया है एक [depiction] का [image]। [desc_sentence_group]</li>
+    <li>physical_description_root->यह फर्नीचर रखता है एक [depiction] का [image]। [desc_sentence_group]</li>
+    <li>physical_description_root->इस फर्नीचर पर एक नक्काशी [depicts] . [image]। [desc_sentence_group]</li>
+  </ArtDescription_Furniture.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->The sarcophagus bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on this sarcophagus [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+    <li>physical_description_root->शवागार पर उकेरा गया है एक [depiction] का [image]। [desc_sentence_group]</li>
+    <li>physical_description_root->शवागार में एक [depiction] का [image]। [desc_sentence_group]</li>
+    <li>physical_description_root->शवागार पर उकेरा गया है एक [depiction] का [image]। [desc_sentence_group]</li>
+    <li>physical_description_root->इस ताबूत पर नक्काशी [depicts] को [image]। [desc_sentence_group]</li>
+  </ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>physical_description_root->This [sculpture] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This [sculpture] bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->On this [sculpture] is a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>sculpture->sculpture</li>
+    <li>sculpture->work</li>
+    <li>sculpture->piece</li>
+    <li>sculpture->carving</li>
+  -->
+  <ArtDescription_Sculpture.rulePack.rulesStrings>
+    <li>physical_description_root->यह [sculpture] [depicts] . [image]। [desc_sentence_group]</li>
+    <li>physical_description_root->यह [sculpture] रखती है एक [depiction] का [image]। [desc_sentence_group]</li>
+    <li>physical_description_root->इस [sculpture] है एक [depiction] का [image]। [desc_sentence_group]</li>
+    <li>physical_description_root->यह [sculpture1] [depicts] का [image]। [desc_sentence_group]</li>
+    <li>physical_description_root->यह [sculpture1] में एक [depiction] का [image]। [desc_sentence_group]</li>
+    <li>physical_description_root->इस पर [sculpture1] एक है [depiction] का [image]। [desc_sentence_group]</li>
+    <li>sculpture->मूर्तिकला</li>
+    <li>sculpture1->काम</li>
+    <li>sculpture->कार्य</li>
+    <li>sculpture1->उकेरा हुआ</li>
+  </ArtDescription_Sculpture.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <ArtDescription_WeaponGun.rulePack.rulesStrings>
+    <li>physical_description_root->इस हथियार पर उकेरा गया है एक [depiction] का [image]। [desc_sentence_group]</li>
+    <li>physical_description_root->यह हथियार रखता है एक [depiction] का [image]। [desc_sentence_group]</li>
+    <li>physical_description_root->इस हथियार पर नक्काशी [depicts] को [image]। [desc_sentence_group]</li>
+  </ArtDescription_WeaponGun.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
+  -->
+  <ArtDescription_WeaponMelee.rulePack.rulesStrings>
+    <li>physical_description_root->यह हथियार उकेरा गया है एक [depiction] का [image]। [desc_sentence_group]</li>
+    <li>physical_description_root->यह हथियार एक [depiction] का [image]। [desc_sentence_group]</li>
+    <li>physical_description_root->इस हथियार पर उकेरी गई नक्काशी [depicts] को [image]। [desc_sentence_group]</li>
+  </ArtDescription_WeaponMelee.rulePack.rulesStrings>
+  
+</LanguageData>

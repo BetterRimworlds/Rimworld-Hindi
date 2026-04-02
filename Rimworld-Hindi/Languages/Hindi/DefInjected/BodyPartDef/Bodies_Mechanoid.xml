@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: first body ring -->
+  <MechanicalTermiteBodyFirstRing.label>पहला शरीर वलय</MechanicalTermiteBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodyFirstRing.labelShort>शरीर वलय</MechanicalTermiteBodyFirstRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalTermiteBodySecondRing.label>दूसरा शरीर वलय</MechanicalTermiteBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodySecondRing.labelShort>शरीर वलय</MechanicalTermiteBodySecondRing.labelShort>
+  
+  <!-- EN: third body ring -->
+  <MechanicalTermiteBodyThirdRing.label>तीसरा शरीर वलय</MechanicalTermiteBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodyThirdRing.labelShort>शरीर वलय</MechanicalTermiteBodyThirdRing.labelShort>
+  
+</LanguageData>

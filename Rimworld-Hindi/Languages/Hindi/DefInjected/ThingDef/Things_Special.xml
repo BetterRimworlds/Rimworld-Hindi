@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drop pod -->
+  <ActiveDropPod.label>गिरावट पोड</ActiveDropPod.label>
+  
+  <!-- EN: drop pod -->
+  <ActiveDropPodMechanoid.label>गिरावट पोड</ActiveDropPodMechanoid.label>
+  
+  <!-- EN: fire -->
+  <Fire.label>आग</Fire.label>
+  
+  <!-- EN: spark -->
+  <Spark.label>चिंगारी</Spark.label>
+  
+</LanguageData>

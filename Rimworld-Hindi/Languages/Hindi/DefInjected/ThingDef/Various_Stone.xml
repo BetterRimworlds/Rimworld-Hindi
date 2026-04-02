@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granite blocks -->
+  <BlocksGranite.label>граниट खंड</BlocksGranite.label>
+  <!-- EN: Blocks of solid granite. Granite is a very hard stone. -->
+  <BlocksGranite.description>ठोस ग्रेनाइट के खंड। ग्रेनाइट एक बहुत ही कठोर पत्थर है।</BlocksGranite.description>
+  <!-- EN: granite -->
+  <BlocksGranite.stuffProps.stuffAdjective>ग्रैनाइट</BlocksGranite.stuffProps.stuffAdjective>
+  
+  <!-- EN: limestone blocks -->
+  <BlocksLimestone.label>चूना पत्थर खंड</BlocksLimestone.label>
+  <!-- EN: Blocks of solid limestone. -->
+  <BlocksLimestone.description>ठोस चूना पत्थर के खंड।</BlocksLimestone.description>
+  <!-- EN: limestone -->
+  <BlocksLimestone.stuffProps.stuffAdjective>चूना पत्थर</BlocksLimestone.stuffProps.stuffAdjective>
+  
+  <!-- EN: marble blocks -->
+  <BlocksMarble.label>संगमरमर खंड</BlocksMarble.label>
+  <!-- EN: Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt. -->
+  <BlocksMarble.description>ठोस संगमरमर के खंड। संगमरमर एक नरम, सुंदर पत्थर है, जो आसानी से तराशा जा सकता है।</BlocksMarble.description>
+  <!-- EN: marble -->
+  <BlocksMarble.stuffProps.stuffAdjective>संगमरमर</BlocksMarble.stuffProps.stuffAdjective>
+  
+  <!-- EN: sandstone blocks -->
+  <BlocksSandstone.label>बालू पत्थर के खंड</BlocksSandstone.label>
+  <!-- EN: Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily. -->
+  <BlocksSandstone.description>ठोस बलुआ पत्थर के खंड। बलुआ पत्थर एक अपेक्षाकृत नरम चट्टान है और आसानी से टूट जाता है।</BlocksSandstone.description>
+  <!-- EN: sandstone -->
+  <BlocksSandstone.stuffProps.stuffAdjective>रेत पत्थर</BlocksSandstone.stuffProps.stuffAdjective>
+  
+  <!-- EN: slate blocks -->
+  <BlocksSlate.label>पत्थर की स्लैब</BlocksSlate.label>
+  <!-- EN: Blocks of solid slate. A dull-looking rock that chips easily. -->
+  <BlocksSlate.description>ठोस स्लेट के खंड। एक फीका दिखने वाला पत्थर जो आसानी से टूट जाता है।</BlocksSlate.description>
+  <!-- EN: slate -->
+  <BlocksSlate.stuffProps.stuffAdjective>स्लेट</BlocksSlate.stuffProps.stuffAdjective>
+  
+  <!-- EN: granite chunk -->
+  <ChunkGranite.label>граниट खण्ड</ChunkGranite.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkGranite.description>चट्टान का एक टुकड़ा। उपयोगी पत्थर के ब्लॉकों में काटा जा सकता है।</ChunkGranite.description>
+  
+  <!-- EN: limestone chunk -->
+  <ChunkLimestone.label>चूना पत्थर का टुकड़ा</ChunkLimestone.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkLimestone.description>चट्टान का एक टुकड़ा। उपयोगी पत्थर के ब्लॉकों में काटा जा सकता है।</ChunkLimestone.description>
+  
+  <!-- EN: marble chunk -->
+  <ChunkMarble.label>संगमरमर खंड</ChunkMarble.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkMarble.description>चट्टान का एक टुकड़ा। उपयोगी पत्थर के ब्लॉकों में काटा जा सकता है।</ChunkMarble.description>
+  
+  <!-- EN: sandstone chunk -->
+  <ChunkSandstone.label>बालू पत्थर का टुकड़ा</ChunkSandstone.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkSandstone.description>चट्टान का एक टुकड़ा। उपयोगी पत्थर के ब्लॉकों में काटा जा सकता है।</ChunkSandstone.description>
+  
+  <!-- EN: steel slag chunk -->
+  <ChunkSlagSteel.label>इस्पात अपशिष्ट खंड</ChunkSlagSteel.label>
+  <!-- EN: A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel. -->
+  <ChunkSlagSteel.description>इस्पात की भस्म का एक टुकड़ा। वर्तमान रूप में यह अनुपयोगी है, लेकिन इस्पात प्राप्त करने के लिए इसे पिघलाया जा सकता है।</ChunkSlagSteel.description>
+  
+  <!-- EN: slate chunk -->
+  <ChunkSlate.label>पत्थर का टुकड़ा</ChunkSlate.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkSlate.description>चट्टान का एक टुकड़ा। उपयोगी पत्थर के ब्लॉकों में काटा जा सकता है।</ChunkSlate.description>
+  
+  <!-- EN: granite -->
+  <Granite.label>ग्रैनाइट</Granite.label>
+  <!-- EN: A very hard igneous rock. -->
+  <Granite.description>एक बहुत ही कठोर आग्नेय चट्टान।</Granite.description>
+  
+  <!-- EN: limestone -->
+  <Limestone.label>चूना पत्थर</Limestone.label>
+  <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. -->
+  <Limestone.description>एक तलछटी चट्टान जो प्राचीन सीपियों के संकुचित अवशेषों से बनी है।</Limestone.description>
+  
+  <!-- EN: marble -->
+  <Marble.label>संगमरमर</Marble.label>
+  <!-- EN: A soft metamorphic rock. -->
+  <Marble.description>एक नरम रूपांतरित चट्टान।</Marble.description>
+  
+  <!-- EN: sandstone -->
+  <Sandstone.label>बालू पत्थर</Sandstone.label>
+  <!-- EN: A sedimentary rock composed of sand particles compressed together. -->
+  <Sandstone.description>रेत के कणों के एक साथ दबने से बनी एक तलछटी चट्टान।</Sandstone.description>
+  
+  <!-- EN: slate -->
+  <Slate.label>स्लेट</Slate.label>
+  <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. -->
+  <Slate.description>एक गहरे रंग की रूपांतरित चट्टान। इसकी महीन परतें स्लेटी दरार का प्रतीक हैं।</Slate.description>
+  
+  <!-- EN: smoothed granite -->
+  <SmoothedGranite.label>चिकना ग्रेनाइट</SmoothedGranite.label>
+  <!-- EN: A very hard igneous rock. The shining surface is filled with a mosaic of black, white, and pink speckles. -->
+  <SmoothedGranite.description>एक बहुत ही कठोर आग्नेय चट्टान है। चमकती हुई सतह काले, सफेद और गुलाबी धब्बों के मोज़ेक से भरी है।</SmoothedGranite.description>
+  
+  <!-- EN: smoothed limestone -->
+  <SmoothedLimestone.label>चिकना चूना पत्थर</SmoothedLimestone.label>
+  <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. It glows a smooth white, with light patterns of impurities suspended within. -->
+  <SmoothedLimestone.description>एक तलछटी चट्टान प्राचीन सीपियों के संकुचित अवशेषों से बनी है। यह एक चिकनी सफेद चमक देती है, जिसके भीतर अशुद्धियों के हल्के पैटर्न निलंबित हैं।</SmoothedLimestone.description>
+  
+  <!-- EN: smoothed marble -->
+  <SmoothedMarble.label>चिकना संगमरमर</SmoothedMarble.label>
+  <!-- EN: A soft metamorphic rock. This semi-transparent rock almost appears to glow with its own inner light. -->
+  <SmoothedMarble.description>एक नरम रूपांतरित चट्टान। यह अर्ध-पारदर्शी चट्टान लगभग अपनी आंतरिक रोशनी से चमकती हुई प्रतीत होती है।</SmoothedMarble.description>
+  
+  <!-- EN: smoothed sandstone -->
+  <SmoothedSandstone.label>चिकना बलुआ पत्थर</SmoothedSandstone.label>
+  <!-- EN: A sedimentary rock composed of sand particles compressed together. The sand layers have been polished to a flat, smooth surface. -->
+  <SmoothedSandstone.description>एक तलछटी चट्टान जो रेत के कणों से मिलकर बनी है और दबाव में संकुचित हो गई है। रेत की परतें सपाट, चिकनी सतह में पॉलिश की गई हैं।</SmoothedSandstone.description>
+  
+  <!-- EN: smoothed slate -->
+  <SmoothedSlate.label>चिकना स्लेट</SmoothedSlate.label>
+  <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. Interior strata are clearly visible through the polished surface. -->
+  <SmoothedSlate.description>एक गहरे रंग की रूपांतरित चट्टान। इसकी महीन परतें स्लेट क्लीवेज की प्रतीक हैं। पॉलिश की हुई सतह से आंतरिक परतें स्पष्ट रूप से दिखाई देती हैं।</SmoothedSlate.description>
+  
+</LanguageData>

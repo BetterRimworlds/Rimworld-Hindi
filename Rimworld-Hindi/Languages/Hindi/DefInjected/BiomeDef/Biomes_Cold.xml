@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boreal forest -->
+  <BorealForest.label>बोरेअल वन</BorealForest.label>
+  <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
+  <BorealForest.description>शंकुधारी पेड़ों के जंगल। कठोर सर्दियों के बावजूद, उत्तरी वन छोटे और बड़े जानवरों की एक विविध आबादी का समर्थन करते हैं, और गर्म ग्रीष्मकाल होते हैं।</BorealForest.description>
+  
+  <!-- EN: cold bog -->
+  <ColdBog.label>ठंडी दलदल</ColdBog.label>
+  <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
+  <ColdBog.description>पेड़ों और लताओं से भरा एक आर्द्रभूमि। इस दलदली भूमि का अधिकांश भाग भारी संरचनाओं का समर्थन नहीं कर सकता है, और घने वनस्पति के कारण घूमना धीमा है। यह घनी, गीली पारिस्थितिकी तंत्र में रोग स्थानिक है।</ColdBog.description>
+  
+  <!-- EN: ice sheet -->
+  <IceSheet.label>बर्फ़ की परत</IceSheet.label>
+  <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
+  <IceSheet.description>बर्फ़ की परतें जो कई किलोमीटर मोटी हो सकती हैं। पौधों के बढ़ने के लिए यहाँ मिट्टी नहीं है। यहाँ के केवल जानवर कहीं और प्रवास कर रहे हैं—या बुरी तरह से खो गए हैं।</IceSheet.description>
+  <!-- EN: Ice sheet is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <IceSheet.settleWarning>बर्फ़ की चादर अत्यधिक प्रतिकूल है। पौधों के लिए मिट्टी नहीं है और लगभग कोई पशु जीवन नहीं है। दीर्घकालिक अस्तित्व एक चुनौती है।</IceSheet.settleWarning>
+  
+  <!-- EN: sea ice -->
+  <SeaIce.label>समुद्री बर्फ</SeaIce.label>
+  <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
+  <SeaIce.description>स्थायी बर्फ़ की परतें पानी पर तैरती हैं। पौधों के बढ़ने के लिए मिट्टी नहीं है, खनिजों के खनन के लिए संसाधन नहीं हैं, और लगभग कोई पशु जीवन नहीं है।</SeaIce.description>
+  <!-- EN: Sea ice is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <SeaIce.settleWarning>समुद्री बर्फ़ अत्यधिक प्रतिकूल है। पौधों के लिए मिट्टी नहीं है और लगभग कोई पशु जीवन नहीं है। दीर्घकालिक अस्तित्व एक चुनौती है।</SeaIce.settleWarning>
+  
+  <!-- EN: tundra -->
+  <Tundra.label>टुंड्रा</Tundra.label>
+  <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
+  <Tundra.description>ये अधिकतर-जमे हुए मैदान लगभग कोई पेड़ और बहुत कम वनस्पति रखते हैं। कुछ छोटे जानवर प्रवासी चरवाहों के बड़े झुंडों और उनके शिकारियों के बीच बिखरे हुए हैं।</Tundra.description>
+  
+</LanguageData>

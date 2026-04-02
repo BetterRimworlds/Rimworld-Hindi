@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: d -->
+  <LetterDay>क्षति</LetterDay>
+  <!-- EN: h -->
+  <LetterHour>ह</LetterHour>
+  <!-- EN: m -->
+  <LetterMinute>खनन</LetterMinute>
+  <!-- EN: s -->
+  <LetterSecond>स</LetterSecond>
+  <!-- EN: y -->
+  <LetterYear>स्वीकार करें</LetterYear>
+  
+  <!-- EN: AM -->
+  <AM>सुबह</AM>
+  <!-- EN: PM -->
+  <PM>संदेश</PM>
+
+  <!-- EN: days -->
+  <DaysLower>दिन</DaysLower>
+  <!-- EN: hours -->
+  <HoursLower>घंटे</HoursLower>
+  <!-- EN: seconds -->
+  <SecondsLower>सेकंड</SecondsLower>
+
+  <!-- EN: spring -->
+  <SeasonSpring>बसंत</SeasonSpring>
+  <!-- EN: summer -->
+  <SeasonSummer>ग्रीष्म</SeasonSummer>
+  <!-- EN: fall -->
+  <SeasonFall>गिरना</SeasonFall>
+  <!-- EN: winter -->
+  <SeasonWinter>सर्दी</SeasonWinter>
+  <!-- EN: permanent summer -->
+  <SeasonPermanentSummer>स्थायी गर्मी</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
+  <SeasonPermanentWinter>स्थायी सर्दी</SeasonPermanentWinter>
+
+  <!-- EN: Aprimay -->
+  <QuadrumAprimay>प्राथमिकता</QuadrumAprimay>
+  <!-- EN: Jugust -->
+  <QuadrumJugust>जुगुस्त</QuadrumJugust>
+  <!-- EN: Septober -->
+  <QuadrumSeptober>सितंबर-अक्टूबर</QuadrumSeptober>
+  <!-- EN: Decembary -->
+  <QuadrumDecembary>दिसंबर</QuadrumDecembary>
+
+  <!-- EN: Apr -->
+  <QuadrumAprimay_Short>अप्रैल</QuadrumAprimay_Short>
+  <!-- EN: Jug -->
+  <QuadrumJugust_Short>कलश</QuadrumJugust_Short>
+  <!-- EN: Sep -->
+  <QuadrumSeptober_Short>अलग करना</QuadrumSeptober_Short>
+  <!-- EN: Dec -->
+  <QuadrumDecembary_Short>घटाव</QuadrumDecembary_Short>
+  
+  <!-- EN: Born: {0} -->
+  <Born>जन्म: {0}</Born>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
+  <AgeChronological>कालानुक्रमिक आयु: {0} वर्ष, {1} चौथाई वर्ष, {2} दिन</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
+  <AgeBiological>जैविक आयु: {0} वर्ष, {1} चौथाई वर्ष, {2} दिन</AgeBiological>
+
+  <!-- Date periods -->
+  <!-- EN: 1 year -->
+  <Period1Year>1 वर्ष</Period1Year>
+  <!-- EN: {0} years -->
+  <PeriodYears>{0} वर्ष</PeriodYears>
+  <!-- EN: 1 quadrum -->
+  <Period1Quadrum>1 चौथाई वर्ष</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
+  <PeriodQuadrums>{0} चौथाई वर्ष</PeriodQuadrums>
+  <!-- EN: 1 day -->
+  <Period1Day>1 दिन</Period1Day>
+  <!-- EN: {0} days -->
+  <PeriodDays>{0} दिन</PeriodDays>
+  <!-- EN: 1 hour -->
+  <Period1Hour>1 घंटा</Period1Hour>
+  <!-- EN: {0} hours -->
+  <PeriodHours>{0} घंटे</PeriodHours>
+  <!-- EN: 1 second -->
+  <Period1Second>एक सेकंड</Period1Second>
+  <!-- EN: {0} seconds -->
+  <PeriodSeconds>{0} सेकंड</PeriodSeconds>
+
+  <!-- Misc -->
+  <!-- EN: Started -->
+  <Started>शुरू किया गया</Started>
+  <!-- EN: Lasted -->
+  <Lasted>चला</Lasted>
+  <!-- EN: occurred {0} ago -->
+  <OccurredTimeAgo>हुआ {0} पहले</OccurredTimeAgo>
+  <!-- EN: {0} ago -->
+  <TimeAgo>{0} पहले</TimeAgo>
+  
+</LanguageData>

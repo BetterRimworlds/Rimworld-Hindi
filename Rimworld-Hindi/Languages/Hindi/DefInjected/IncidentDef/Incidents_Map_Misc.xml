@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeavers -->
+  <Alphabeavers.label>अल्फा बीवर</Alphabeavers.label>
+  
+  <!-- EN: ambrosia sprout -->
+  <AmbrosiaSprout.label>एम्ब्रोसिया अंकुर</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>एम्ब्रोज़िया अंकुर</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>रहस्यमय एम्ब्रोसिया झाड़ी का एक समूह पास में उग आया है! यदि आप पौधों को बढ़ने का इंतज़ार करते हैं, तो आप स्वादिष्ट, सुखद और थोड़े नशे की लत वाले फल की कटाई कर सकेंगे।</AmbrosiaSprout.letterText>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>ठंडी लहर</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>ठंडी लहर</ColdSnap.letterLabel><!-- EN: Cold snap -->
+  <ColdSnap.letterText>ठंडी लहर</ColdSnap.letterText>
+  
+  <!-- EN: crop blight -->
+  <CropBlight.label>फसल व्याधि</CropBlight.label>
+  
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>पशुधन भटककर आया</FarmAnimalsWanderIn.label>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>फ्लैशस्टॉर्म</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>फ्लैशस्टॉर्म</Flashstorm.letterLabel><!-- EN: Flashstorm -->
+  <Flashstorm.letterText>फ्लैशस्टॉर्म</Flashstorm.letterText>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>गर्मी की लहर</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>गर्मी की लहर</HeatWave.letterLabel><!-- EN: Heat wave -->
+  <HeatWave.letterText>गर्मी की लहर</HeatWave.letterText>
+  
+  <!-- EN: herd migration -->
+  <HerdMigration.label>झुंड प्रवास</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>पशु प्रवास: {0}</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>{0} का एक समूह इस क्षेत्र से गुजर रहा है।\n\nजब तक उकसाया न जाए, वे हमला नहीं करेंगे।</HerdMigration.letterText>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>उल्कापिंड प्रभाव</MeteoriteImpact.label>
+  <!-- EN: Meteorite -->
+  <MeteoriteImpact.letterLabel>उल्कापिंड</MeteoriteImpact.letterLabel>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>एक बड़ा उल्कापिंड क्षेत्र में ज़मीन पर गिरा है। इसने {0} का एक ढेर छोड़ दिया है।</MeteoriteImpact.letterText>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>मानसिक ड्रोन</PsychicDrone.label>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>मानसिक शांति</PsychicSoothe.label>
+  
+  <!-- EN: ransom demand -->
+  <RansomDemand.label>फिरौती मांग</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>फिरौती मांग</RansomDemand.letterLabel>
+  
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>परिवहन पोड दुर्घटना</RefugeePodCrash.label>
+  
+  <!-- EN: resource pod crash -->
+  <ResourcePodCrash.label>संसाधन पोड दुर्घटना</ResourcePodCrash.label>
+  
+  <!-- EN: self-tame -->
+  <SelfTame.label>स्व-पालतू</SelfTame.label>
+  
+  <!-- EN: short circuit -->
+  <ShortCircuit.label>शॉर्ट सर्किट</ShortCircuit.label>
+  
+  <!-- EN: thrumbos pass -->
+  <ThrumboPasses.label>थ्रमबो मार्ग</ThrumboPasses.label>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>विषाक्त परिणाम</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>विषाक्त परिणाम</ToxicFallout.letterLabel><!-- EN: Toxic fallout -->
+  <ToxicFallout.letterText>विषाक्त पतन</ToxicFallout.letterText>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>ज्वालामुखी शीत</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>ज्वालामुखी शीत</VolcanicWinter.letterLabel><!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterText>ज्वालामुखी शीत</VolcanicWinter.letterText>
+  
+  <!-- EN: wanderer join -->
+  <WandererJoin.label>आवारा शामिल होना</WandererJoin.label><!-- EN: wanderer join -->
+  <WandererJoin.letterLabel>आवारा शामिल होना</WandererJoin.letterLabel><!-- EN: wanderer join -->
+  <WandererJoin.letterText>आवारा शामिल हों</WandererJoin.letterText>
+  
+  <!-- EN: wild man wanders in -->
+  <WildManWandersIn.label>जंगली व्यक्ति भटकता हुआ</WildManWandersIn.label>
+  <!-- EN: {0} wanders in -->
+  <WildManWandersIn.letterLabel>{0} भटकता हुआ</WildManWandersIn.letterLabel>
+  <!-- EN: A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame {PAWN_objective}. -->
+  <WildManWandersIn.letterText>{PAWN_gender ? एक {1} जो जंगली जानवरों के बीच रहती है, इस क्षेत्र में भटककर आई है। उसे {0} कहते हैं।\n\nआप {PAWN_objective} को पालने का प्रयास कर सकते हैं। : एक {1} जो जंगली जानवरों के बीच रहता है, इस क्षेत्र में भटककर आया है। उसे {0} कहते हैं।\n\nआप {PAWN_objective} को पालने का प्रयास कर सकते हैं।}</WildManWandersIn.letterText>
+  
+</LanguageData>

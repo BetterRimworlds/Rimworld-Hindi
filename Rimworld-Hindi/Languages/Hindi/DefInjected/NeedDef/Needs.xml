@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>सौंदर्य</Beauty.label>
+  <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
+  <Beauty.description>सौंदर्य दर्शाता है कि किसी व्यक्ति ने हाल ही में अपने आसपास के वातावरण को कितना आकर्षक पाया है। कला जैसी सुंदर चीजें देखने पर सौंदर्य में सुधार करती हैं, जबकि गंदगी और खुरदरी पत्थर की सतह जैसी बदसूरत चीजें इसे कम करती हैं।</Beauty.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>आराम</Comfort.label>
+  <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
+  <Comfort.description>आरामदायक फर्नीचर पर बैठने या सोने से आराम मिलता है। यह बिस्तर पर लेटने, काम करते समय कुर्सी पर बैठने, या अन्य समयों में प्राप्त होता है।</Comfort.description>
+  
+  <!-- EN: chemical -->
+  <DrugDesire.label>रासायनिक</DrugDesire.label>
+  <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
+  <DrugDesire.description>रसायन नशीले पदार्थों का सेवन करने की इच्छा व्यक्त करता है। एक निश्चित स्तर से ऊपर होने पर यह अच्छा मूड बनाएगा, लेकिन एक निश्चित स्तर से नीचे होने पर यह तेजी से खराब मूड पैदा करेगा।</DrugDesire.description>
+  
+  <!-- EN: food -->
+  <Food.label>भोजन</Food.label>
+  <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
+  <Food.description>भोजन वह पोषण की मात्रा है जिसे किसी जीव ने हाल ही में ग्रहण किया है। यदि यह शून्य है, तो जीव उत्तरोत्तर कुपोषित हो जाएगा और अंततः मर जाएगा।</Food.description>
+  
+  <!-- EN: indoors -->
+  <Indoors.label>अंदर</Indoors.label>
+  <!-- EN: Indoors expresses the need to feel safe within walls and under a roof. It improves when someone spends time inside. -->
+  <Indoors.description>अंदरूनी दीवारों और छत के नीचे सुरक्षित महसूस करने की आवश्यकता व्यक्त करता है। यह तब बेहतर होता है जब कोई व्यक्ति अंदर समय बिताता है।</Indoors.description>
+  
+  <!-- EN: recreation -->
+  <Joy.label>मनोरंजन</Joy.label>
+  <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
+  <Joy.description>मनोरंजन में आनंद की आवश्यकता होती है। एक ही तरह की गतिविधि को बार-बार करने से आनंद कम हो जाता है, इसलिए विविधता आवश्यक है।</Joy.description>
+  
+  <!-- EN: mood -->
+  <Mood.label>मनोदशा</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low their mood is, someone who has a mental break may have a minor breaks like hiding in their room for a day, or a major break like going on a murder spree. -->
+  <Mood.description>मनोदशा दर्शाती है कि कोई व्यक्ति कितना खुश या तनावग्रस्त है। यदि मनोदशा बहुत कम हो जाती है, तो व्यक्ति मानसिक रूप से टूट सकता है। मनोदशा के निम्न स्तर पर निर्भर करते हुए, मानसिक रूप से टूटने वाला व्यक्ति मामूली ब्रेक ले सकता है जैसे कि एक दिन के लिए अपने कमरे में छिपना, या एक बड़ा ब्रेक जैसे कि हत्या पर निकल जाना।</Mood.description>
+  
+  <!-- EN: outdoors -->
+  <Outdoors.label>बाहरी</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>बाहरी जगह बंद रहने की आवश्यकता को दर्शाती है। लंबे समय तक अंदर, विशेषकर भूमिगत रहने से यह प्रभावित होती है। जब कोई व्यक्ति आकाश के नीचे समय बिताता है, विशेषकर बाहर, तो इसमें सुधार होता है। कमरों का आकार महत्वपूर्ण नहीं है, बल्कि समय-समय पर बाहर रहने की आवश्यकता है। बाहरी जगह पर समय की कमी भूमिगत ठिकानों में रहने वाले लोगों के लिए एक महत्वपूर्ण चुनौती है।</Outdoors.description>
+  
+  <!-- EN: sleep -->
+  <Rest.label>नींद</Rest.label>
+  <!-- EN: Sleep is how much time a creature has spent sleeping recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>नींद यह दर्शाती है कि किसी जीव ने हाल ही में कितनी देर तक नींद ली है। यदि यह शून्य पर है, तो जीव अंततः वहीं सो जाएगा।</Rest.description>
+  
+  <!-- EN: room size -->
+  <RoomSize.label>कमरा आकार</RoomSize.label>
+  
+</LanguageData>

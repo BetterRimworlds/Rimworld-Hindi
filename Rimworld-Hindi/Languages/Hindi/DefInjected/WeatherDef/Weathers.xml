@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clear -->
+  <Clear.label>साफ़</Clear.label>
+  <!-- EN: A clear day. No penalties or modifiers. -->
+  <Clear.description>एक स्पष्ट दिन। कोई दंड या संशोधक नहीं।</Clear.description>
+  
+  <!-- EN: dry thunderstorm -->
+  <DryThunderstorm.label>सूखी गरज</DryThunderstorm.label>
+  <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
+  <DryThunderstorm.description>सूखी गरजें खतरनाक होती हैं क्योंकि बिजली आग लगा सकती है और उन्हें बुझाने के लिए बारिश नहीं होती।</DryThunderstorm.description>
+  
+  <!-- EN: fog -->
+  <Fog.label>धुंध</Fog.label>
+  <!-- EN: Fog reduces the accuracy of ranged weapons. -->
+  <Fog.description>धुंध दूर की वस्तुओं पर हथियारों की सटीकता कम करती है।</Fog.description>
+  
+  <!-- EN: foggy rain -->
+  <FoggyRain.label>धुंधली बारिश</FoggyRain.label>
+  <!-- EN: Reduces accuracy and movement speed. -->
+  <FoggyRain.description>शुद्धता और गति कम करती है।</FoggyRain.description>
+  
+  <!-- EN: rain -->
+  <Rain.label>बारिश</Rain.label>
+  <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Rain.description>बारिश दूरस्थ हथियारों की सटीकता कम करती है, आग बुझाती है, और लोगों की गति धीमी कर देती है।</Rain.description>
+  
+  <!-- EN: rainy thunderstorm -->
+  <RainyThunderstorm.label>बारिशी तूफान</RainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <RainyThunderstorm.description>बिजली आग लगाएगी, लेकिन बारिश उसे बुझा देगी। बारिश गति और निशानेबाजी की सटीकता को भी कम करती है।</RainyThunderstorm.description>
+  
+  <!-- EN: gentle snow -->
+  <SnowGentle.label>हल्की बर्फ़</SnowGentle.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowGentle.description>बर्फ़ दूरस्थ हथियारों की सटीकता कम करती है, आग बुझाती है, और लोगों की गति धीमी कर देती है।</SnowGentle.description>
+  
+  <!-- EN: hard snow -->
+  <SnowHard.label>कठोर बर्फ</SnowHard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowHard.description>बर्फ़ दूरस्थ हथियारों की सटीकता कम करती है, आग बुझाती है, और लोगों की गति धीमी कर देती है।</SnowHard.description>
+  
+  <!-- EN: underground -->
+  <Underground.label>भूमिगत</Underground.label>
+  <!-- EN: There is no weather underground. -->
+  <Underground.description>भूमिगत मौसम नहीं है।</Underground.description>
+  
+</LanguageData>

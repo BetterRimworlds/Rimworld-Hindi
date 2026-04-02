@@ -1,0 +1,767 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
+  <Tutorial>शिक्षण</Tutorial>
+  <!-- EN: New colony -->
+  <NewColony>नया उपनिवेश</NewColony>
+  <!-- EN: Back to game -->
+  <BackToGame>खेल पर वापस</BackToGame>
+  <!-- EN: Review scenario -->
+  <ReviewScenario>समीक्षा परिदृश्य</ReviewScenario>
+  <!-- EN: Save -->
+  <Save>संग्रहण</Save>
+  <!-- EN: Load game -->
+  <LoadGame>खेल लोड करें</LoadGame>
+  <!-- EN: Options -->
+  <Options>विकल्प</Options>
+  <!-- EN: Mod -->
+  <Mod>मोड</Mod>
+  <!-- EN: Mods -->
+  <Mods>मोड</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>रिपोर्ट सहेजें</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>नियम।</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>सफाई</CleanupTranslationFiles>
+  <!-- EN: Update translations files (TKey's) -->
+  <TranslationFilesTKeyUpdate>महत्वपूर्ण नियम:\n- कोई स्पष्टीकरण, नोट्स या कोष्ठक में टिप्पणियाँ नहीं।\n- केवल एक अनुवाद - कोई विकल्प नहीं [</TranslationFilesTKeyUpdate>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>सफाई</CleaningTranslationFiles>
+  <!-- EN: Dev quicktest -->
+  <DevQuickTest>त्वरित परीक्षण</DevQuickTest>
+  <!-- EN: Credits -->
+  <Credits>साख</Credits>
+  <!-- EN: Quit to main menu -->
+  <QuitToMainMenu>मुख्य मेनू में छोड़ें</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
+  <SaveAndQuitToMainMenu>संग्रहित करें और मेनू में छोड़ें।</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
+  <QuitToOS>ऑपरेटिंग सिस्टम से बाहर निकलें</QuitToOS>
+  <!-- EN: Save and quit to OS -->
+  <SaveAndQuitToOS>संग्रहित करें और छोड़ें</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
+  <FictionPrimer>कथा परिचय</FictionPrimer>
+  <!-- EN: Ludeon blog -->
+  <LudeonBlog>ल्यूडियन ब्लॉग</LudeonBlog>
+  <!-- EN: Subreddit -->
+  <Subreddit>सबरेडिट</Subreddit>
+  <!-- EN: Official wiki -->
+  <OfficialWiki>आधिकारिक विकी</OfficialWiki>
+  <!-- EN: Tynan's X -->
+  <TynansX>टाइनान का एक्स</TynansX>
+  <!-- EN: Tynan's design book -->
+  <TynansDesignBook>टाइनान की डिज़ाइन पुस्तक</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
+  <HelpTranslate>RimWorld का अनुवाद करने में सहायता करें</HelpTranslate>
+  <!-- EN: Create world -->
+  <CreateWorld>विश्व निर्माण</CreateWorld>
+  <!-- EN: Buy soundtrack -->
+  <BuySoundtrack>संगीत खरीदें</BuySoundtrack>
+  <!-- EN: RimWorld Soundtrack -->
+  <BuySoundtrack_Classic>रिमवर्ल्ड साउंडट्रैक</BuySoundtrack_Classic>
+  <!-- EN: RimWorld - Royalty Soundtrack -->
+  <BuySoundtrack_Royalty>रॉयल्टी साउंडट्रैक</BuySoundtrack_Royalty>
+  <!-- EN: RimWorld - Anomaly Soundtrack -->
+  <BuySoundtrack_Anomaly>रिमवर्ल्ड - विसंगति साउंडट्रैक</BuySoundtrack_Anomaly>
+  <!-- EN: RimWorld - Odyssey Soundtrack -->
+  <BuySoundtrack_Odyssey>रिमवर्ल्ड - ओडिसी साउंडट्रैक</BuySoundtrack_Odyssey>
+  
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>सभी रिमवर्ल्ड अनुवाद प्रशंसक-निर्मित हैं। इस प्रशंसक-निर्मित अनुवाद को निम्नलिखित उत्कृष्ट स्वयंसेवकों ने बनाया है:\n\n{0}</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>आप भी योगदान कर सकते हैं। नीचे क्लिक करके और जानें (वेब ब्राउज़र खुलता है)।</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>और जानें</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>चेतावनी: यह एक अस्थिर विकास निर्माण है। इसका मतलब है कि हम डिजाइन प्रयोग कर रहे हैं और तकनीकी विकास कर रहे हैं।\n\nकुछ चीजें जानबूझकर अस्थायी रूप से असंतुलित होंगी। यह एक क्लासिक गेम डिजाइन विधि है जहां हम संतुलन की सीमाओं को बेहतर ढंग से समझने के लिए जानबूझकर संतुलन परिवर्तन के साथ बहुत दूर जाते हैं। फिर हम उस जानकारी का उपयोग अंतिम संतुलन बिंदुओं पर निर्णय लेने के लिए कर सकते हैं।\n\nबग भी होंगे, जिनमें गेम-ब्रेकिंग बग भी शामिल हैं। सेव संगतता किसी भी समय टूट सकती है।\n\nयदि आप इन सभी बातों से सहमत हैं, तो परीक्षण के लिए धन्यवाद! यदि आप हमारे प्रयोगों के अधीन नहीं होना चाहते हैं, तो कृपया नवीनतम स्थिर संस्करण खेलें।</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
+  <ReviewWorld>विश्व समीक्षा</ReviewWorld>
+  <!-- EN: Generate -->
+  <WorldGenerate>बनाएं</WorldGenerate>
+  <!-- EN: Save and finish -->
+  <WorldSaveAndFinish>संग्रहण और समाप्त करें</WorldSaveAndFinish>
+  <!-- EN: Reset factions -->
+  <ResetFactions>गुट रीसेट करें</ResetFactions>
+  <!-- EN: Globe coverage -->
+  <PlanetCoverage>वैश्विक कवरेज</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
+  <PlanetRainfall>कुल वर्षा</PlanetRainfall>
+  <!-- EN: Overall temperature -->
+  <PlanetTemperature>सामान्य तापमान</PlanetTemperature>
+  <!-- EN: Population -->
+  <PlanetPopulation>जनसंख्या</PlanetPopulation>
+  <!-- EN: Low -->
+  <PlanetRainfall_Low>निम्न</PlanetRainfall_Low>
+  <!-- EN: Normal -->
+  <PlanetRainfall_Normal>सामान्य</PlanetRainfall_Normal>
+  <!-- EN: High -->
+  <PlanetRainfall_High>उच्च</PlanetRainfall_High>
+  <!-- EN: Low -->
+  <PlanetTemperature_Low>कम</PlanetTemperature_Low>
+  <!-- EN: Normal -->
+  <PlanetTemperature_Normal>सामान्य</PlanetTemperature_Normal>
+  <!-- EN: High -->
+  <PlanetTemperature_High>उच्च</PlanetTemperature_High>
+  <!-- EN: Sparse -->
+  <PlanetPopulation_Low>विरल</PlanetPopulation_Low>
+  <!-- EN: Normal -->
+  <PlanetPopulation_Normal>सामान्य</PlanetPopulation_Normal>
+  <!-- EN: Crowded -->
+  <PlanetPopulation_High>भीड़</PlanetPopulation_High>
+  <!-- EN: Seed -->
+  <WorldSeed>बीज</WorldSeed>
+  <!-- EN: Randomize seed -->
+  <RandomizeSeed>बीज यादृच्छिक करें</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
+  <PlanetCoverageTip>ग्रह का व्यास हमेशा समान रहता है, लेकिन चूंकि यह खेलने के लिए आवश्यक से बहुत बड़ा है, इसलिए हम पूरी सतह उत्पन्न नहीं करते क्योंकि इसमें बहुत समय लग सकता है। यह वह प्रतिशत है जो आप उत्पन्न करवाना चाहते हैं।</PlanetCoverageTip>
+  <!-- EN: Factions -->
+  <WorldFactionsTab>गुट</WorldFactionsTab>
+  <!-- EN: Advanced settings -->
+  <AdvancedSettings>उन्नत सेटिंग्स</AdvancedSettings>
+
+  <!-- Select world -->
+  <!-- EN: Select world -->
+  <SelectWorld>विश्व चुनें</SelectWorld>
+  <!-- EN: Select -->
+  <WorldChooseButton>चुनें</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
+  <NoWorldsFilesFound>कोई विश्व फ़ाइलें नहीं मिली। पहले एक विश्व बनाएँ।</NoWorldsFilesFound>
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
+  <BuildNowAvailable>संस्करण {0} अब उपलब्ध है। अधिक जानकारी के लिए ludeon.com देखें।</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
+  <BuildUpToDate>ठीक है। मैं तैयार हूँ। मुझे RimWorld का सामान्य गेम टेक्स्ट दें। \n\n(Okay. I am ready. Give me the RimWorld general game text.)</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
+  <ErrorGettingVersionInfo>त्रुटि संस्करण जानकारी प्राप्त करने में: {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
+  <LoadingVersionInfo>संस्करण जानकारी लोड हो रही है…</LoadingVersionInfo>
+
+  <!-- World generator -->
+  <!-- EN: Generate world -->
+  <GenerateWorld>विश्व निर्माण</GenerateWorld>
+
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
+  <OpenSteamWorkshop>स्टीम कार्यशाला खोलें</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
+  <GetModsFromForum>फ़ोरम से मोड प्राप्त करें।</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
+  <OpenModsDataFolder>फ़ोल्डर खोलें मॉड डेटा</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>मॉड डेटा स्थान दिखाएँ</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
+  <ConfirmDisableCoreMod>क्या आप वाकई मुख्य मॉड को अक्षम करना चाहते हैं? खेल बिल्कुल काम नहीं करेगा जब तक आपके पास कोई अन्य मॉड न हो जो सभी मुख्य कार्यक्षमता को बदल दे।\n\nयाद रखें, अन्य मॉड समान डेफनेम का उपयोग करके मुख्य मॉड में डेफ को ओवरराइड कर सकते हैं।</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
+  <ConfirmDeleteMod>क्या आप वाकई {0} की सारी सामग्री हटाना चाहते हैं?</ConfirmDeleteMod>
+  <!-- EN: Auto-sort mods -->
+  <ResolveModOrder>मॉड स्वतः क्रमबद्ध करें</ResolveModOrder>
+  <!-- EN: Save and apply changes -->
+  <SaveModChanges>बचाएं और बदलाव लागू करें।</SaveModChanges>
+  <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
+  <DiscardModChanges>मोड में बदलाव सहेजे नहीं गए हैं। क्या आप जारी रखना चाहते हैं?</DiscardModChanges>
+  <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
+  <ModReorderConflict_MustLoadAfter>{0} को स्थानांतरित नहीं कर सकते: इसे {1} के बाद लोड किया जाना चाहिए।</ModReorderConflict_MustLoadAfter>
+  <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
+  <ModReorderConflict_MustLoadBefore>{0} को हिला नहीं सकते: इसे {1} से पहले लोड किया जाना चाहिए।</ModReorderConflict_MustLoadBefore>
+  <!-- EN: Unsubscribe -->
+  <Unsubscribe>रद्द सदस्यता</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe? -->
+  <ConfirmUnsubscribe>क्या आप वाकई सदस्यता रद्द करना चाहते हैं?</ConfirmUnsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
+  <ConfirmUnsubscribeFrom>क्या आप {0} से सदस्यता रद्द करने के लिए निश्चित हैं?</ConfirmUnsubscribeFrom>
+  <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
+  <ConfirmUnsubscribeFromMultiple>क्या आप वाकई इनसे सदस्यता रद्द करना चाहते हैं:\n\n{0}</ConfirmUnsubscribeFromMultiple>
+  <!-- EN: Author -->
+  <Author>लेखक</Author>
+  <!-- EN: Enabled -->
+  <Enabled>सक्षम</Enabled>
+  <!-- EN: Disabled -->
+  <Disabled>निष्क्रिय</Disabled>
+  <!-- EN: Enable -->
+  <Enable>सक्षम करें</Enable>
+  <!-- EN: Disable -->
+  <Disable>निष्क्रिय करें</Disable>
+  <!-- EN: Get mods from... -->
+  <GetMods>मोड प्राप्त करें…</GetMods>
+  <!-- EN: Unsubscribe from... -->
+  <UnsubscribeMultiple>सदस्यता रद्द करें…</UnsubscribeMultiple>
+  <!-- EN: Save / load list... -->
+  <SaveLoadList>सहेजें / लोड सूची…</SaveLoadList>
+  <!-- EN: Save mod list -->
+  <SaveModList>सूची सहेजें</SaveModList>
+  <!-- EN: Load mod list -->
+  <LoadModList>मोड सूची लोड करें</LoadModList>
+  <!-- EN: Added mods -->
+  <AddedModsList>जोड़े गए मॉड</AddedModsList>
+  <!-- EN: Missing mods -->
+  <MissingModsList>लापता मॉड</MissingModsList>
+  <!-- EN: Shared mods -->
+  <SharedModsList>साझा मॉड</SharedModsList>
+  <!-- EN: Website -->
+  <ModWebsite>वेबसाइट</ModWebsite>
+  <!-- EN: Open folder -->
+  <ModFolder>खोलें फ़ोल्डर</ModFolder>
+  <!-- EN: Mod options -->
+  <ModOptions>मोड विकल्प</ModOptions>
+  <!-- EN: Workshop -->
+  <FromWorkshop>कार्यशाला</FromWorkshop>
+  <!-- EN: Forum -->
+  <FromForum>मंच</FromForum>
+  <!-- EN: Advanced... -->
+  <MoreActions>उन्नत…</MoreActions>
+  <!-- EN: All selected mods -->
+  <AllSelectedMods>चयनित मोड</AllSelectedMods>
+  <!-- EN: All disabled mods -->
+  <AllDisabledMods>अक्षम मोड</AllDisabledMods>
+  <!-- EN: All incompatible mods -->
+  <AllIncompatibleMods>असंगत मॉड</AllIncompatibleMods>
+  <!-- EN: Workshop page -->
+  <WorkshopPage>कार्यशाला पृष्ठ</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
+  <UploadToSteamWorkshop>अपलोड करें</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
+  <UpdateOnSteamWorkshop>स्टीम कार्यशाला पर अद्यतन।</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
+  <UploadAlreadyInProgress>अपलोड प्रगति पर है।</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
+  <WorkshopSubmissionFailed>कार्यशाला सबमिशन विफल।\n\nकारण: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
+  <WorkshopUploadSucceeded>सफलतापूर्वक अपलोड किया गया {0}।</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
+  <Downloading>डाउनलोडिंग</Downloading>
+  <!-- EN: Workshop ID -->
+  <WorkshopId>वर्कशॉप आईडी</WorkshopId>
+  <!-- EN: Display fulfilled requirements -->
+  <ModDisplayFulfilledRequirements>ज़रूरतें पूरी हुईं।</ModDisplayFulfilledRequirements>
+  <!-- EN: Click to select. -->
+  <ModClickToSelect>चुनें।</ModClickToSelect>
+  <!-- EN: Click to go to website. -->
+  <ModClickToGoToWebsite>वेबसाइट पर जाने के लिए क्लिक करें।</ModClickToGoToWebsite>
+  <!-- EN: Source -->
+  <Source>स्रोत</Source>
+  <!-- EN: Game versions -->
+  <ModTargetVersion>संस्करण</ModTargetVersion>
+  <!-- EN: Mod version -->
+  <ModVersion>मोड संस्करण</ModVersion>
+  <!-- EN: ID -->
+  <ModPackageId>आईडी</ModPackageId>
+  <!-- EN: This must be loaded before: {0}. -->
+  <ModMustLoadBefore>यह {0} से पहले लोड होना चाहिए।</ModMustLoadBefore>
+  <!-- EN: This must be loaded after: {0}. -->
+  <ModMustLoadAfter>इसे {0} के बाद लोड किया जाना चाहिए।</ModMustLoadAfter>
+  <!-- EN: Depends on: {0} -->
+  <ModDependsOn>{0} पर निर्भर करता है</ModDependsOn>
+  <!-- EN: Incompatible with: {0} -->
+  <ModIncompatibleWith>असंगत: {0}</ModIncompatibleWith>
+  <!-- EN: This mod is incompatible with: {0}. -->
+  <ModIncompatibleWithTip>यह मॉड {0} के साथ असंगत है।</ModIncompatibleWithTip>
+  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
+  <ModOrderingWarning>यह मॉड किसी अन्य मॉड के सापेक्ष गलत क्रम में लोड हो रहा है। &amp;apos;ऑटो-सॉर्ट&amp;apos; बटन का उपयोग करें, या मॉड को मैन्युअल रूप से पुन: व्यवस्थित करें।</ModOrderingWarning>
+  <!-- EN: Another active mod uses the same ID: {0}. -->
+  <ModWithSameIdAlreadyActive>एक अन्य सक्रिय मॉड उसी आईडी का उपयोग कर रहा है: {0}।</ModWithSameIdAlreadyActive>
+  <!-- EN: There is a cyclic mod dependency starting with {0}. -->
+  <ModCyclicDependency>{0} से शुरू होने वाली एक चक्रीय मॉड निर्भरता है।</ModCyclicDependency>
+  <!-- EN: This requires the following mods to work: {0}. -->
+  <ModUnsatisfiedDependency>यह काम करने के लिए निम्नलिखित मॉड की आवश्यकता है: {0}.</ModUnsatisfiedDependency>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion>यह मॉड रिमवर्ल्ड के इस संस्करण के लिए नहीं बनाया गया है, और शायद सही ढंग से काम नहीं करेगा।</ModNotMadeForThisVersion>
+  <!-- EN: This mod is not made for this version of RimWorld. -->
+  <ModNotMadeForThisVersionShort>यह मॉड रिमवर्ल्ड के इस संस्करण के लिए नहीं बनाया गया है।</ModNotMadeForThisVersionShort>
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>यह मॉड रिमवर्ल्ड के नए संस्करण के लिए बनाया गया था और शायद ठीक से काम नहीं करेगा।</ModNotMadeForThisVersion_Newer>
+  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
+  <MessageModNeedsWellFormattedTargetVersion>मॉड को अबाउट.xml में ठीक से स्वरूपित समर्थित संस्करण जानकारी की आवश्यकता है। जैसे: &amp;lt;supportedVersions&amp;gt;&amp;lt;li&amp;gt;{0}&amp;lt;/li&amp;gt;&amp;lt;/supportedVersions&amp;gt; - &amp;lt;targetVersion&amp;gt; अप्रचलित है। अधिक जानकारी के लिए लॉग देखें।</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
+  <MessageModNeedsWellFormattedPackageId>मॉड को About.xml में एक अद्वितीय, उचित रूप से स्वरूपित packageId की आवश्यकता है। इसे निम्नलिखित आवश्यकताओं को पूरा करना होगा:\n\n  - केवल अक्षरांकीय वर्ण और बिंदु।\n  - कोई रिक्त स्थान नहीं।\n  - कम से कम एक बिंदु।\n  - लगातार दोहराए गए बिंदु नहीं, और न ही बिंदु से शुरू या खत्म हो।\n  -  वर्ण या उससे कम।\n  - "Ludeon" शब्द नहीं हो सकता।\n\nउदाहरण के लिए:\n&amp;lt;packageId&amp;gt;AuthorName.ModName&amp;lt;/packageId&amp;gt;\n&amp;lt;packageId&amp;gt;AuthorName.ModName.Specific&amp;lt;/packageId&amp;gt;</MessageModNeedsWellFormattedPackageId>
+  <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
+  <ModHadLoadFolderIssues>इस मॉड में लोडफोल्डर्स.एक्सएमएल में समस्याएँ हैं, जिन्हें अपलोड करने से पहले हल करने की आवश्यकता है:</ModHadLoadFolderIssues>
+  <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
+  <ModLoadFolderDoesntExist>फ़ोल्डर {0} संस्करण {1} के लिए निर्दिष्ट मौजूद नहीं है।</ModLoadFolderDoesntExist>
+  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
+  <ModLoadFolderMalformedVersion>गलत संस्करण स्ट्रिंग &amp;apos;{0}&amp;apos;। सही प्रारूप मेजर.माइनर है (जैसे 1.1)</ModLoadFolderMalformedVersion>
+  <!-- EN: The list of load folders for version {0} is empty. -->
+  <ModLoadFolderListEmpty>संस्करण {0} के लिए लोड फ़ोल्डर की सूची खाली है।</ModLoadFolderListEmpty>
+  <!-- EN: Version {0} lists the same folder more than once: {1}. -->
+  <ModLoadFolderRepeatingFolder>संस्करण {0} में एक ही फ़ोल्डर को एक से अधिक बार सूचीबद्ध किया गया है: {1}.</ModLoadFolderRepeatingFolder>
+  <!-- EN: Invalid version order: {0} should come before {1}. -->
+  <ModLoadFolderOutOfOrder>अमान्य संस्करण क्रम: {0} को {1} से पहले आना चाहिए।</ModLoadFolderOutOfOrder>
+  <!-- EN: Invalid version order: 'default' should be defined first. -->
+  <ModLoadFolderOutOfOrderDefault>अमान्य संस्करण क्रम: &amp;apos;default&amp;apos; को पहले परिभाषित किया जाना चाहिए।</ModLoadFolderOutOfOrderDefault>
+  <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
+  <ModLoadFolderDefaultDeprecated>डिफ़ॉल्ट फ़ोल्डरों में लोड करना अप्रचलित है। कृपया प्रत्येक संस्करण के लिए &amp;lt;v…&amp;gt; टैग का उपयोग करके फ़ोल्डर परिभाषित करें।</ModLoadFolderDefaultDeprecated>
+  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>संस्करण {0} लोड फ़ोल्डरों में परिभाषित है, लेकिन मॉड के About.xml की &amp;apos;supportedVersions&amp;apos; में सूचीबद्ध नहीं है।</ModLoadFolderDefinesUnsupportedGameVersion>
+  <!-- EN: Drag to reorder -->
+  <DragToReorder>पुनर्व्यवस्थित करें</DragToReorder>
+
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
+  <ChooseScenario>परिदृश्य चुनें</ChooseScenario>
+  <!-- EN: Custom -->
+  <ScenariosCustom>अनुकूलन</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
+  <ScenariosSteamWorkshop>स्टीम कार्यशाला</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
+  <ScenarioEditor>परिदृश्य संपादक</ScenarioEditor>
+  <!-- EN: Delete -->
+  <Delete>हटाना</Delete>
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
+  <Seed>बीज</Seed>
+  <!-- EN: Load -->
+  <Load>लोड</Load>
+  <!-- EN: edit mode -->
+  <EditMode>संपादित मोड</EditMode>
+  <!-- EN: Summary -->
+  <Summary>सारांश</Summary>
+  <!-- EN: Add part -->
+  <AddPart>जोड़ें भाग</AddPart>
+  <!-- EN: All text fields must be filled. -->
+  <TextFieldsMustBeFilled>महत्वपूर्ण नियम:\n- कोई स्पष्टीकरण, नोट्स या कोष्ठक में टिप्पणियाँ नहीं।\n- केवल एक अनुवाद - कोई विकल्प नहीं [केवल 1, कोई '</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
+  <ConfirmSteamWorkshopUpload>क्या आप वाकई इस फ़ाइल को स्टीम वर्कशॉप पर अपलोड करना चाहते हैं?\n\nआपको स्टीम वर्कशॉप की सेवा शर्तों से सहमत होना होगा। पूरी शर्तें यहाँ देखें:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
+  <ConfirmContentAuthor>Yes, I created the translation rules and examples myself, based on the provided instructions. I understand the importance of originality and have not copied from any external source. The rules are designed to guide a specific translation style for the RimWorld game text.</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
+  <Incompatible>असंगत</Incompatible>
+  <!-- EN: Tag as translation -->
+  <TagAsTranslation>टैग करें</TagAsTranslation>
+  <!-- EN: Too many (max {0}): -->
+  <TooMany>बहुत ज़्यादा (अधिकतम {0}):</TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
+  <CanBeUpdatedOnWorkshop>कार्यशाला पर अद्यतन किया जा सकता है, क्योंकि आप लेखक हैं। \n\n(Karyashala par adyatan kiya ja sakta hai, kyoki aap lekhak hain.)</CanBeUpdatedOnWorkshop>
+  <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
+  <ScenarioChangedSavePrompt>यह परिदृश्य संपादित किया गया है।\n\nक्या आप आगे बढ़ने से पहले इसे सहेजना चाहते हैं?</ScenarioChangedSavePrompt>
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
+  <ChooseAIStoryteller>AI कहानीकार चुनें</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
+  <HowStorytellersWork>एआई कहानीकार समुद्री डाकू छापे, संसाधन गिरावट, या पशु हमलों जैसे कार्यक्रम बनाता है। इनके चुनाव आपके उपनिवेश की कहानी को प्रभावित करेंगे। आप किसी भी समय इन सेटिंग्स को बदल सकते हैं।</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
+  <MustChooseDifficulty>कृपया कठिनाई स्तर चुनें।</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
+  <Difficulty>कठिनाई</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>प्रतिबद्धता मोड</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>पुनः लोड मोड</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>प्रतिबद्धता मोड या कभी भी पुनः लोड मोड चुनें।</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>आप किसी भी समय गेम को सहेज और लोड कर सकते हैं।\n\nयदि आप अभी भी गेम सीख रहे हैं, यदि यह आपकी व्यक्तिगत खेलने की शैली के अनुकूल है, यदि आप ऐसे मॉड का उपयोग कर रहे हैं जो आपके गेम को तोड़ सकते हैं, या यदि आप प्रतिबद्धता मोड को स्वयं लागू करने का इरादा रखते हैं तो यह एक अच्छा विकल्प है।</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>खेल छोड़ने पर ही सहेज सकते हैं।\n\nचूंकि रिमवर्ल्ड एक कहानी जनरेटर है, इसलिए केवल एक व्यक्ति बचे रहने पर भी खेल समाप्त नहीं होता - यह कहानी का हिस्सा है। खेल को नुकसान के बाद उबरने की अनुमति देने के लिए डिज़ाइन किया गया है।\n\nये भयानक स्थितियाँ दुख और विजय दोनों वाली कहानी बनाती हैं। रिमवर्ल्ड को इसी तरह खेलने के लिए डिज़ाइन किया गया है।\n\nल्यूक स्काईवॉकर ने अपने परिवार की मृत्यु के बाद छोड़ने और पुनः लोड करने का प्रयास नहीं किया - नुकसान और उबरना नाटकीय है।</PermadeathModeInfo>
+  <!-- EN: Storyteller and playstyle can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>कहानीकार और खेलने की शैली किसी भी समय बदली जा सकती है।</CanChangeStorytellerSettingsDuringPlay>
+
+  <!-- custom difficulty settings -->
+  <!-- EN: Custom playstyle settings -->
+  <DifficultyCustomSectionLabel>अनुकूलित खेलशैली</DifficultyCustomSectionLabel>
+  <!-- EN: Set to standard playstyle... -->
+  <DifficultyReset>मानक खेल शैली पर सेट।</DifficultyReset>
+  
+  <!-- EN: Threats -->
+  <DifficultyThreatSection>खतरे</DifficultyThreatSection>
+  <!-- EN: Threat scale -->
+  <Difficulty_ThreatScale_Label>खतरा स्तर</Difficulty_ThreatScale_Label>
+  <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
+  <Difficulty_ThreatScale_Info>छापे और संक्रमण जैसे खतरों के आकार और खोजों की कठिनाई समायोजित करें।</Difficulty_ThreatScale_Info>
+  <!-- EN: Major threats -->
+  <Difficulty_AllowBigThreats_Label>गंभीर खतरे</Difficulty_AllowBigThreats_Label>
+  <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
+  <Difficulty_AllowBigThreats_Info>बड़े खतरों जैसे छापे, संक्रमण, शिकारी झुंड, दुर्घटनाग्रस्त मेकैनॉइड जहाज़ और बहुत कुछ की अनुमति दें।</Difficulty_AllowBigThreats_Info>
+  <!-- EN: Quest threats -->
+  <Difficulty_AllowViolentQuests_Label>खतरे</Difficulty_AllowViolentQuests_Label>
+  <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
+  <Difficulty_AllowViolentQuests_Info>हिंसात्मक खतरों और चुनौतियों के साथ quests प्रस्तुत करने की अनुमति दें। यदि यह अक्षम है, तो quests को अहिंसक बनाने के लिए संशोधित किया जाएगा।</Difficulty_AllowViolentQuests_Info>
+  <!-- EN: Intro threats -->
+  <Difficulty_AllowIntroThreats_Label>प्रारंभिक खतरे</Difficulty_AllowIntroThreats_Label>
+  <!-- EN: Enable the fixed intro threats that appear near game start. -->
+  <Difficulty_AllowIntroThreats_Info>सुरुआती खतरों को सक्रिय करें।</Difficulty_AllowIntroThreats_Info>
+  <!-- EN: Predators hunt humans -->
+  <Difficulty_PredatorsHuntHumanlikes_Label>शिकारी मानवों का शिकार</Difficulty_PredatorsHuntHumanlikes_Label>
+  <!-- EN: Allow wild predators to hunt humans. -->
+  <Difficulty_PredatorsHuntHumanlikes_Info>मानव शिकार करने के लिए जंगली शिकारियों को अनुमति दें।</Difficulty_PredatorsHuntHumanlikes_Info>
+  <!-- EN: Extreme weather -->
+  <Difficulty_AllowExtremeWeatherIncidents_Label>चरम मौसम</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
+  <Difficulty_AllowExtremeWeatherIncidents_Info>अत्यधिक मौसम की घटनाओं जैसे जहरीली धूल, ज्वालामुखी शीतकाल और अचानक तूफान की अनुमति दें।</Difficulty_AllowExtremeWeatherIncidents_Info>
+
+  <!-- EN: Economy -->
+  <DifficultyEconomySection>अर्थव्यवस्था</DifficultyEconomySection>
+  <!-- EN: Trade price disadvantage -->
+  <Difficulty_TradePriceFactorLoss_Label>व्यापार हानि</Difficulty_TradePriceFactorLoss_Label>
+  <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
+  <Difficulty_TradePriceFactorLoss_Info>व्यापार करते समय, खरीद मूल्य इस राशि से बढ़ जाते हैं जबकि बिक्री मूल्य इस राशि से घट जाते हैं।</Difficulty_TradePriceFactorLoss_Info>
+  <!-- EN: Harvest yield -->
+  <Difficulty_CropYieldFactor_Label>उत्पादन</Difficulty_CropYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
+  <Difficulty_CropYieldFactor_Info>फसल और पौधों की कटाई करते समय उत्पादित सामग्री की मात्रा समायोजित करें। इसमें पौधों की कटाई और पेड़ों को काटना शामिल है।</Difficulty_CropYieldFactor_Info>
+  <!-- EN: Mining yield -->
+  <Difficulty_MineYieldFactor_Label>खनन उपज</Difficulty_MineYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when mining. -->
+  <Difficulty_MineYieldFactor_Info>खनन से उत्पन्न सामग्री की मात्रा समायोजित करें।</Difficulty_MineYieldFactor_Info>
+  <!-- EN: Butchering yield -->
+  <Difficulty_ButcherYieldFactor_Label>कसाई उपज</Difficulty_ButcherYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
+  <Difficulty_ButcherYieldFactor_Info>कसाई करने पर उत्पादित सामग्री की मात्रा समायोजित करें। इसमें मांस, चमड़ा और मेकैनॉइड्स को टुकड़े-टुकड़े करने से प्राप्त उपज शामिल है।</Difficulty_ButcherYieldFactor_Info>
+  <!-- EN: Research speed -->
+  <Difficulty_ResearchSpeedFactor_Label>शोध गति</Difficulty_ResearchSpeedFactor_Label>
+  <!-- EN: Adjust the speed of research. -->
+  <Difficulty_ResearchSpeedFactor_Info>अनुसंधान की गति समायोजित करें।</Difficulty_ResearchSpeedFactor_Info>
+  <!-- EN: Quest rewards -->
+  <Difficulty_QuestRewardValueFactor_Label>पुरस्कार</Difficulty_QuestRewardValueFactor_Label>
+  <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_QuestRewardValueFactor_Info>पुरस्कार मूल्यों को समायोजित करें।\n\nध्यान दें: खोज पुरस्कार मूल्य खतरे के स्तर की भरपाई के लिए स्वचालित रूप से स्केल भी किया जाता है। यदि आप यह सेटिंग समायोजित करते हैं, तो आप एक अतिरिक्त गुणक जोड़ेंगे।</Difficulty_QuestRewardValueFactor_Info>
+  <!-- EN: Raid loot -->
+  <Difficulty_RaidLootPointsFactor_Label>छापा लूट</Difficulty_RaidLootPointsFactor_Label>
+  <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_RaidLootPointsFactor_Info>रेडर्स द्वारा ले जाए गए लूट के मूल्य को समायोजित करें।\n\nध्यान दें: रेड लूट मूल्य को खतरे के पैमाने की भरपाई के लिए स्वचालित रूप से बढ़ाया भी जाता है। यदि आप यह सेटिंग समायोजित करते हैं, तो आप एक अतिरिक्त गुणक जोड़ेंगे।</Difficulty_RaidLootPointsFactor_Info>
+  <!-- EN: Turret rearm cost -->
+  <Difficulty_MaintenanceCostFactor_Label>तोप पुनः स्थापित लागत</Difficulty_MaintenanceCostFactor_Label>
+  <!-- EN: Adjust the cost of rearming turrets. -->
+  <Difficulty_MaintenanceCostFactor_Info>Adjust the cost of rearming turrets.</Difficulty_MaintenanceCostFactor_Info>
+  <!-- EN: Scaria rot chance -->
+  <Difficulty_ScariaRotChance_Label>स्केरिया सड़ने की संभावना</Difficulty_ScariaRotChance_Label>
+  <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
+  <Difficulty_ScariaRotChance_Info>मृत्यु पर किसी प्राणी के शव के तुरंत सड़ने की संभावना, यदि उस प्राणी को स्केरिया रोग है।\n\nध्यान दें: डिफ़ॉल्ट सेटिंग्स उच्च कठिनाइयों पर पशु गणना में वृद्धि को बिल्कुल संतुलित करने के लिए डिज़ाइन की गई हैं, ताकि सभी खिलाड़ियों को समान मांस पुरस्कार मिलें।</Difficulty_ScariaRotChance_Info>
+  <!-- EN: Enemy death on downed -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>शत्रु मृत्यु: धराशायी</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>गिरने पर दुश्मन के तुरंत मरने की अतिरिक्त संभावना समायोजित करें। यह कैदियों को लेने की संभावनाओं और इस प्रकार कॉलोनी की जनसंख्या वृद्धि दर को प्रभावित करता है।</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+
+  <!-- EN: General -->
+  <DifficultyGeneralSection>सामान्य</DifficultyGeneralSection>
+  <!-- EN: Colonist mood -->
+  <Difficulty_ColonistMoodOffset_Label>कॉलोनीवादी मनोदशा</Difficulty_ColonistMoodOffset_Label>
+  <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
+  <Difficulty_ColonistMoodOffset_Info>हर उपनिवेशवादी और कैदी पर लागू एक स्थायी मनोदशा परिवर्तन। उपनिवेशवादियों का आधार मनोदशा 50% है।</Difficulty_ColonistMoodOffset_Info>
+  <!-- EN: Food poison chance -->
+  <Difficulty_FoodPoisonChanceFactor_Label>भोजन विषाक्तता संभावना</Difficulty_FoodPoisonChanceFactor_Label>
+  <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
+  <Difficulty_FoodPoisonChanceFactor_Info>संभावित रूप से दूषित भोजन खाने से किसी व्यक्ति को फूड पॉइज़निंग होने की संभावना समायोजित करें।</Difficulty_FoodPoisonChanceFactor_Info>
+  <!-- EN: Animal revenge chance -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>जानवर बदला मौका</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>जंगली जानवर को घायल करने से हमले की संभावना समायोजित करें।</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <!-- EN: Friendly fire -->
+  <Difficulty_FriendlyFireChanceFactor_Label>मित्रघात</Difficulty_FriendlyFireChanceFactor_Label>
+  <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
+  <Difficulty_FriendlyFireChanceFactor_Info>दोस्ताना आग की संभावना समायोजित करें।\n\nध्यान दें: यह सेटिंग केवल उन सीधी गोलियों को प्रभावित करती है जो अपने लक्ष्य को हिट करने वाली थीं। यह विस्फोटों से होने वाले नुकसान, या उन गोलियों से होने वाले नुकसान को नहीं रोकती जो लक्ष्य को चूकने वाली थीं।</Difficulty_FriendlyFireChanceFactor_Info>
+  <!-- EN: Colonist instant kills -->
+  <Difficulty_AllowInstantKillChance_Label>कॉलोनीवासी तत्काल हत्याएँ</Difficulty_AllowInstantKillChance_Label>
+  <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
+  <Difficulty_AllowInstantKillChance_Info>हमले के कारण उपनिवेशवादी की तत्काल मृत्यु की संभावना समायोजित करें। आने वाली क्षति को समायोजित किया गया है ताकि उपनिवेशवादी बेहोश हो जाए।\n\nयह केवल कुछ प्रकार की तत्काल मृत्यु को रोकता है - उपनिवेशवादी अभी भी बेहोश हो सकते हैं और खून बहकर मर सकते हैं, आग, विस्फोट, बीमारी आदि से मर सकते हैं।</Difficulty_AllowInstantKillChance_Info>
+  <!-- EN: Infection chance -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>संक्रमण संभावना</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <!-- EN: Adjust the chance that a wound will become infected. -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>घाव के संक्रमित होने की संभावना समायोजित करें।</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <!-- EN: Disease frequency -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>रोग आवृत्ति</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <!-- EN: Adjust the frequency of random disease events. -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>रोग घटनाओं की आवृत्ति समायोजित करें।</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <!-- EN: Insect spawning rate -->
+  <Difficulty_EnemyReproductionRateFactor_Label>कीट उत्पत्ति दर</Difficulty_EnemyReproductionRateFactor_Label>
+  <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
+  <Difficulty_EnemyReproductionRateFactor_Info>कीटों के मौजूदा घोंसले नए कीटों को उत्पन्न करने की दर को समायोजित करें। कम मान उत्पन्न होने की घटनाओं के बीच अधिक समय का अर्थ है।\n\nयह इस बात को प्रभावित नहीं करता है कि संक्रमण हो सकते हैं या नहीं - केवल सक्रिय घोंसलों द्वारा कीटों के उत्पादन की गति को।</Difficulty_EnemyReproductionRateFactor_Info>
+  <!-- EN: Deep drilling infestations -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>गहरा खनन संक्रमण</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>गहरा ड्रिलिंग से संक्रमण शुरू होने की संभावना समायोजित करें।</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <!-- EN: Map generation ancient threats -->
+  <Difficulty_PeacefulTemples_Inverted_Label>प्राचीन खतरे</Difficulty_PeacefulTemples_Inverted_Label>
+  <!-- EN: Ancient structures may contain dangerous threats. -->
+  <Difficulty_PeacefulTemples_Inverted_Info>प्राचीन संरचनाओं में खतरनाक खतरे हो सकते हैं।</Difficulty_PeacefulTemples_Inverted_Info>
+  <!-- EN: Map generation natural hives -->
+  <Difficulty_AllowCaveHives_Label>प्राकृतिक छत्ते</Difficulty_AllowCaveHives_Label>
+  <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
+  <Difficulty_AllowCaveHives_Info>सुषुप्त कीट छत्ते प्राकृतिक गुफाओं में उत्पन्न हो सकते हैं।\n\nयह सेटिंग केवल मानचित्र निर्माण पर लागू होती है और खेलने के दौरान सुरंग बनाने वाले सक्रिय कीड़ों को प्रभावित नहीं करती है।</Difficulty_AllowCaveHives_Info>
+  <!-- EN: Add unwavering prisoners -->
+  <Difficulty_UnwaveringPrisoners_Label>अटल कैदी</Difficulty_UnwaveringPrisoners_Label>
+  <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
+  <Difficulty_UnwaveringPrisoners_Info>यह विकल्प खेल में अतिरिक्त पकड़ने योग्य कैदियों को जोड़ता है जिन्हें अटूट निष्ठा के कारण भर्ती नहीं किया जा सकता।\n\nअटूट कैदी सामान्य कैदियों के अतिरिक्त जोड़े जाते हैं, इसलिए इसे बंद करने से अधिक भर्ती योग्य कैदी नहीं मिलेंगे - यह केवल अटूट कैदियों को हटा देगा।\n\nअटूट कैदियों को राजनयिक लाभ के लिए छोड़ा जा सकता है, बेचा जा सकता है, गुलाम बनाया जा सकता है, अंगों के लिए काटा जा सकता है, या अन्यथा उपयोग किया जा सकता है। सामान्य तौर पर, वे अधिक विकल्प और संसाधन प्रदान करते हैं, और खेल को थोड़ा समृद्ध और आसान बनाते हैं।</Difficulty_UnwaveringPrisoners_Info>
+  <!-- EN: Nomadic mineable resources -->
+  <Difficulty_NomadicMineableResourcesFactor_Label>घुमंत खनिज</Difficulty_NomadicMineableResourcesFactor_Label>
+  <!-- EN: Adjust how many mineable resources are generated on maps after your first.\n\nNote: Your first colony map will always generate with the standard amount of resources. -->
+  <Difficulty_NomadicMineableResourcesFactor_Info>बाद के नक़्शों पर खनन योग्य संसाधनों की मात्रा समायोजित करें।\n\nध्यान दें: आपका पहला उपनिवेश नक़्शा हमेशा मानक मात्रा में संसाधनों के साथ उत्पन्न होगा।</Difficulty_NomadicMineableResourcesFactor_Info>
+
+  <!-- EN: Player tools -->
+  <DifficultyPlayerToolsSection>उपकरण</DifficultyPlayerToolsSection>
+  <!-- EN: Player can build traps -->
+  <Difficulty_AllowTraps_Label>जाल निर्माण</Difficulty_AllowTraps_Label>
+  <!-- EN: Player can build traps like spike traps and IED traps. -->
+  <Difficulty_AllowTraps_Info>खिलाड़ी जाल जैसे स्पाइक जाल और आईईडी जाल बना सकते हैं।</Difficulty_AllowTraps_Info>
+  <!-- EN: Player can build turrets -->
+  <Difficulty_AllowTurrets_Label>तोपें बन सकती हैं</Difficulty_AllowTurrets_Label>
+  <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
+  <Difficulty_AllowTurrets_Info>खिलाड़ी मिनी-तोपें, ऑटोकेनन तोपें और यूरेनियम स्लग तोपें जैसी स्थिर तोपें बना सकते हैं।\n\nयदि यह अक्षम है, तो भी आप कैप्चर की गई तोपों का उपयोग कर सकते हैं।</Difficulty_AllowTurrets_Info>
+  <!-- EN: Player can build mortars -->
+  <Difficulty_AllowMortars_Label>मोर्टार बनाए जा सकते हैं</Difficulty_AllowMortars_Label>
+  <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
+  <Difficulty_AllowMortars_Info>खिलाड़ी मोर्टार बना सकते हैं।\n\nभले ही यह अक्षम हो गया हो, आप कैप्चर किए गए मोर्टार का उपयोग करना जारी रख सकते हैं।</Difficulty_AllowMortars_Info>
+  <!-- EN: Classic mortars -->
+  <Difficulty_ClassicMortars_Label>क्लासिक मोर्टार</Difficulty_ClassicMortars_Label>
+  <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
+  <Difficulty_ClassicMortars_Info>मोर्टार को बनाने या पुनः लोड करने के लिए प्रबलित बैरल की आवश्यकता नहीं होगी, और यह इस आसान पहुँच के लिए संतुलित हैं।</Difficulty_ClassicMortars_Info>
+  
+  <!-- EN: Adaptation -->
+  <DifficultyAdaptationSection>अनुकूलन</DifficultyAdaptationSection>
+  <!-- EN: Adaptation growth rate -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>अनुकूलन वृद्धि दर</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how fast the adaptation score grows over time. -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>अनुकूलन का अर्थ है कि कहानीकार तब खेल को अधिक चुनौतीपूर्ण बना देता है जब आप अच्छा कर रहे हों। अनुकूलन अंक समय के साथ बढ़ते हैं, और क्षति होने पर कम हो जाते हैं।\n\nयह सेटिंग समायोजित करती है कि समय के साथ अनुकूलन अंक कितनी तेजी से बढ़ते हैं।</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <!-- EN: Adaptation impact -->
+  <Difficulty_AdaptationEffectFactor_Label>अनुकूलन प्रभाव</Difficulty_AdaptationEffectFactor_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how much the adaptation score affects the difficulty. -->
+  <Difficulty_AdaptationEffectFactor_Info>अनुकूलन का अर्थ है कि कहानीकार तब खेल को अधिक चुनौतीपूर्ण बना देता है जब आप अच्छा कर रहे हों। अनुकूलन अंक समय के साथ बढ़ते हैं, और जब आपको क्षति होती है तो कम हो जाते हैं।\n\nयह सेटिंग समायोजित करती है कि अनुकूलन अंक कठिनाई को कितना प्रभावित करते हैं।</Difficulty_AdaptationEffectFactor_Info>
+  <!-- EN: Wealth-independent progress mode -->
+  <Difficulty_FixedWealthMode_Label>संपत्ति-स्वतंत्र प्रगति मोड</Difficulty_FixedWealthMode_Label>
+  <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
+  <Difficulty_FixedWealthMode_Info>धन-स्वतंत्र प्रगति मोड में खेलें।\n\nसामान्य मोड में, कहानीकार खतरों को उपनिवेशवादी गिनती, खिलाड़ी धन और अन्य कारकों के अनुसार बढ़ाता है। धन-स्वतंत्र मोड धन कारक को हटा देता है और इसे समय पर आधारित एक निश्चित प्रगति वक्र से बदल देता है। समय प्रत्येक उपनिवेश की स्थापना से गिना जाता है।\n\nयह केवल उन लोगों के लिए अनुशंसित है जो एक सख्त कौशल चुनौती की तलाश में हैं। धन-स्वतंत्र मोड में, गंभीर नुकसान से उबरना लगभग असंभव हो सकता है जब तक कि आप एक नया समझौता स्थापित न करें। वक्र से बहुत आगे निकल जाना और खेल को बहुत आसान पाना भी संभव है।</Difficulty_FixedWealthMode_Info>
+  <!-- EN: Years until maximum threat -->
+  <Difficulty_FixedWealthTimeFactor_Label>वर्ष खतरे तक</Difficulty_FixedWealthTimeFactor_Label>
+  <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
+  <Difficulty_FixedWealthTimeFactor_Info>संपत्ति-स्वतंत्र मोड अपने अधिकतम खतरे स्तर तक पहुंचने में लगने वाले खेल वर्षों की संख्या।\n\nध्यान रखें कि कहानीकार अभी भी उपनिवेशवादियों की संख्या और विभिन्न अन्य कारकों के अनुसार खतरों को बढ़ाएगा।</Difficulty_FixedWealthTimeFactor_Info>
+
+  <!-- EN: Ideology -->
+  <DifficultyIdeologySection>विचारधारा</DifficultyIdeologySection>
+  <!-- EN: Low pop conversion boost -->
+  <Difficulty_LowPopConversionBoost_Label>जनसंख्या प्रोत्साहन</Difficulty_LowPopConversionBoost_Label>
+  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
+  <Difficulty_LowPopConversionBoost_Info>एक आरंभिक विचारधारा अनुयायी के साथ, उनकी विचारधारा में परिवर्तन की संभावना इस राशि से गुणा होती है। उनके विरुद्ध परिवर्तन प्रयासों का प्रभाव इस राशि से विभाजित होता है।\n\nदो आरंभिक विचारधारा अनुयायियों के साथ, प्रभाव आधा हो जाता है।\n\nतीन या अधिक आरंभिक विचारधारा अनुयायियों के साथ, इसका कोई प्रभाव नहीं पड़ता।</Difficulty_LowPopConversionBoost_Info>
+
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>स्थान चुनें</SelectStartingSite>
+  <!-- EN: Select random site -->
+  <SelectRandomSite>यादृच्छिक स्थल चुनें</SelectRandomSite>
+  <!-- EN: Select site -->
+  <SelectSite>स्थान चुनें</SelectSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>साइट चुनें।</MustSelectStartingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
+  <CannotLandBiome>इस बायोम पर उतरना संभव नहीं है: {0}</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
+  <BiomeNotImplemented>बायोम लागू नहीं</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
+  <CannotLandImpassableMountains>अगम्य पर्वतों पर उतरना संभव नहीं है।</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
+  <BaseAlreadyThere>{0} वहां पहले से ही एक आधार है।</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
+  <YourBaseAlreadyThere>आपके पास पहले से ही एक आधार है।</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
+  <TileOccupied>यह टाइल व्यस्त है।</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
+  <FactionBaseAdjacent>बस्तियाँ एक दूसरे के सीधे बगल में नहीं हो सकतीं।</FactionBaseAdjacent>
+  <!-- EN: Biome -->
+  <Biome>भूभाग</Biome>
+  <!-- EN: Terrain -->
+  <Terrain>भूभाग</Terrain>
+  <!-- EN: Road -->
+  <Road>सड़क</Road>
+  <!-- EN: River -->
+  <River>नदी</River>
+  <!-- EN: Elevation -->
+  <Elevation>ऊंचाई</Elevation>
+  <!-- EN: Features -->
+  <TileMutators>विशेषताएं</TileMutators>
+  <!-- EN: Fertility -->
+  <Fertility>प्रजनन</Fertility>
+  <!-- EN: fertility -->
+  <FertilityLower>प्रजनन</FertilityLower>
+  <!-- EN: Average temperature -->
+  <AvgTemp>औसत तापमान</AvgTemp>
+  <!-- EN: Rainfall -->
+  <Rainfall>वर्षा</Rainfall>
+  <!-- EN: Special features -->
+  <SpecialFeatures>विशेषताएं</SpecialFeatures>
+  <!-- EN: northern coast -->
+  <HasCoast0>उत्तरी तट</HasCoast0>
+  <!-- EN: eastern coast -->
+  <HasCoast1>पूर्वी तट</HasCoast1>
+  <!-- EN: southern coast -->
+  <HasCoast2>दक्षिणी तट</HasCoast2>
+  <!-- EN: western coast -->
+  <HasCoast3>पश्चिमी तट</HasCoast3>
+  <!-- EN: caves -->
+  <HasCaves>गुफाएँ</HasCaves>
+  <!-- EN: Faction base -->
+  <FactionBase>गुट आधार</FactionBase>
+  <!-- EN: Stone types -->
+  <StoneTypesHere>पत्थर प्रकार</StoneTypesHere>
+  <!-- EN: Time zone -->
+  <TimeZone>समय क्षेत्र</TimeZone>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>चलन कठिनाई</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
+  <AnimalsCanGrazeNow>पशु अब चर सकते हैं।</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
+  <AverageDiseaseFrequency>रोग आवृत्ति</AverageDiseaseFrequency>
+  <!-- EN: per year -->
+  <PerYear>प्रति वर्ष</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>उपलब्धता</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>चुने गए लोगों में से कोई भी निम्नलिखित काम नहीं कर सकता:\n\n{0}\n\nइससे खेल सामान्य से अधिक कठिन हो सकता है। क्या आप जारी रखना चाहते हैं?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <!-- EN: temperature -->
+  <TemperatureLower>तापमान</TemperatureLower>
+  <!-- EN: light -->
+  <LightLower>रोशनी</LightLower>
+
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
+  <CreateCharacters>चरित्र बनाएँ</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
+  <FirstNameDesc>चरित्र का पहला नाम।\n\nयह केवल कुछ मेनू में प्रदर्शित होता है।</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
+  <ShortIdentifierDesc>चरित्र की संक्षिप्त पहचान।\n\nयह हमेशा प्रदर्शित होता है। यह पहला नाम, अंतिम नाम या पूरी तरह से अलग उपनाम हो सकता है।</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
+  <LastNameDesc>यह चरित्र का अंतिम नाम है।\n\nयह केवल कुछ मेनू में प्रदर्शित होता है।</LastNameDesc>
+  <!-- EN: Randomize -->
+  <Randomize>यादृच्छिकरण</Randomize>
+  <!-- EN: age {0} -->
+  <AgeIndicator>उम्र {0}</AgeIndicator>
+  <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummary>{PAWN_race}, उम्र {PAWN_ageFull}</PawnSummary>
+  <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummaryWithGender>{PAWN_लिंग} {PAWN_जाति}, उम्र {PAWN_उम्रपूर्ण}</PawnSummaryWithGender>
+  <!-- EN: Backstory -->
+  <Backstory>पृष्ठभूमि</Backstory>
+  <!-- EN: Incapable of -->
+  <IncapableOf>अक्षम</IncapableOf>
+  <!-- EN: Abilities -->
+  <Abilities>क्षमताएं</Abilities>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipHediff>के कारण</IncapableOfTooltipHediff>
+  <!-- EN: Disabled work types: -->
+  <IncapableOfTooltipWorkTypes>अक्षम कार्य प्रकार:</IncapableOfTooltipWorkTypes>
+  <!-- EN: Caused by backstory -->
+  <IncapableOfTooltipBackstory>कहानी से प्रेरित</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title -->
+  <IncapableOfTooltipTitle>के कारण से शीर्षक</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait -->
+  <IncapableOfTooltipTrait>विशेषता से हुआ</IncapableOfTooltipTrait>
+  <!-- EN: Caused by quest status -->
+  <IncapableOfTooltipQuest>कार्य स्थिति के कारण</IncapableOfTooltipQuest>
+  <!-- EN: Caused by role -->
+  <IncapableOfTooltipRole>भूमिका द्वारा</IncapableOfTooltipRole>
+  <!-- EN: Caused by gene -->
+  <IncapableOfTooltipGene>जीन से प्रेरित</IncapableOfTooltipGene>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipMutant>कारण</IncapableOfTooltipMutant>
+  <!-- EN: Traits -->
+  <Traits>विशेषताएं</Traits>
+  <!-- EN: Permanent mood effect -->
+  <PermanentMoodEffect>स्थायी मनोदशा प्रभाव</PermanentMoodEffect>
+  <!-- EN: Skills -->
+  <Skills>कौशल</Skills>
+  <!-- EN: none -->
+  <NoneLower>कोई नहीं</NoneLower>
+  <!-- EN: Adulthood -->
+  <Adulthood>वयस्कता</Adulthood>
+  <!-- EN: Childhood -->
+  <Childhood>बचपन</Childhood>
+  <!-- EN: male -->
+  <Male>पुरुष</Male>
+  <!-- EN: female -->
+  <Female>महिला</Female>
+  <!-- EN: male and female -->
+  <MaleAndFemale>पुरुष और महिला</MaleAndFemale>
+  <!-- EN: male -->
+  <MaleAnimal>पुरुष</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>महिला</FemaleAnimal>
+  <!-- EN: Pain -->
+  <Pain>दर्द</Pain>
+  <!-- EN: Health -->
+  <Health>स्वास्थ्य</Health>
+  <!-- EN: Relations -->
+  <Relations>संबंध</Relations>
+  <!-- EN: Possessions -->
+  <Possessions>सामान</Possessions>
+  <!-- EN: Team skills -->
+  <TeamSkills>टीम कौशल</TeamSkills>
+  <!-- EN: Selected -->
+  <StartingPawnsSelected>चयनित</StartingPawnsSelected>
+  <!-- EN: Left behind -->
+  <StartingPawnsLeftBehind>छोड़ दिया</StartingPawnsLeftBehind>
+  <!-- EN: This person is considered guilty. Others won't be bothered if you banish, execute or arrest them.\n\nGuilt expires in -->
+  <GuiltyDesc>इस व्यक्ति को दोषी माना जाता है। यदि आप इन्हें निर्वासित, निष्पादित या गिरफ्तार करते हैं तो दूसरों को कोई आपत्ति नहीं होगी।\n\nदोष की अवधि समाप्त होती है</GuiltyDesc>
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
+  <Start>शुरू करें</Start>
+  <!-- EN: Advanced -->
+  <Advanced>उन्नत</Advanced>
+  <!-- EN: Next -->
+  <Next>अगला</Next>
+  <!-- EN: Back -->
+  <Back>वापस</Back>
+  <!-- EN: Change material... -->
+  <ShowMaterials>सामग्री बदलें।</ShowMaterials>
+  <!-- EN: Gameplay -->
+  <Gameplay>खेलना</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
+  <ConfirmQuit>सच में छोड़ दें? आपकी बिना सहेजी गई प्रगति खो जाएगी।</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
+  <EveryoneNeedsValidName>प्रत्येक व्यक्ति को एक मान्य नाम चाहिए।</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>चुने गए लोगों में से कोई भी निम्नलिखित कार्य नहीं कर सकता।</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
+  <Quit>छोड़ें</Quit>
+  <!-- EN: Ignore -->
+  <Ignore>अस्वीकार</Ignore>
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
+  <GeneratingWorld>दुनियाँ निर्माण</GeneratingWorld>
+  <!-- EN: Generating planet -->
+  <GeneratingPlanet>ग्रह निर्माण</GeneratingPlanet>
+  <!-- EN: Generating map -->
+  <GeneratingMap>मानचित्र निर्माण</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
+  <GeneratingMapForNewEncounter>नक्शा नए मुठभेड़ के लिए उत्पन्न हो रहा है।</GeneratingMapForNewEncounter>
+
+  <!-- EN: Click for more info. -->
+  <ClickForMoreInfo>अधिक जानकारी के लिए क्लिक करें।</ClickForMoreInfo>
+  <!-- EN: No more information is available. -->
+  <NoMoreInfoAvailable>कोई अतिरिक्त जानकारी उपलब्ध नहीं है।</NoMoreInfoAvailable>
+  <!-- EN: Best skill -->
+  <BestSkillLabel>सर्वोत्तम कौशल</BestSkillLabel>
+  <!-- EN: {PAWN_nameDef}'s best stat -->
+  <BestSkillLetterLabel>{PAWN_nameDef} का सर्वश्रेष्ठ आँकड़ा</BestSkillLetterLabel>
+  <!-- EN: skill level {0} -->
+  <BestSkillInfoLevel>कौशल स्तर {0}</BestSkillInfoLevel>
+
+  <!-- Factions -->
+  <!-- EN: Factions -->
+  <Factions>गुट</Factions>
+  <!-- EN: max {0} basic factions allowed -->
+  <TotalFactionsAllowed>अधिकतम {0} बुनियादी गुट अनुमत</TotalFactionsAllowed>
+  <!-- EN: max {0} -->
+  <MaxFactionsForType>अधिकतम {0}</MaxFactionsForType>
+  <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
+  <FactionSelectionDesc>दुनिया में गुटों का चयन करें। आप कुल {0} गुटों का चयन कर सकते हैं।</FactionSelectionDesc>
+  <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
+  <FactionDisabledContentWarning>{0} अक्षम करने से खोज विविधता और अन्य कम सामग्री घट जाएगी।</FactionDisabledContentWarning>
+  <!-- EN: Disabling {0} means less spontaneous threat variety. -->
+  <InsectsDisabledContentWarning>{0} अक्षम करने से सहज खतरे की विविधता कम हो जाएगी।</InsectsDisabledContentWarning>
+  <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
+  <MechanoidsDisabledContentWarning>{0} अक्षम करने से खोज और सहज खतरे की विविधता कम हो जाएगी।</MechanoidsDisabledContentWarning>
+  <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
+  <FactionsDisabledWarning>अन्य गुटों के बिना, छापे, व्यापार और खोज सामान्य रूप से नहीं होंगे।</FactionsDisabledWarning>
+  <!-- EN: Cannot be removed for this scenario. -->
+  <FactionRemovalDisabled>ज़रूरी नियम:\n- हटाया नहीं जा सकता।</FactionRemovalDisabled>
+
+</LanguageData>

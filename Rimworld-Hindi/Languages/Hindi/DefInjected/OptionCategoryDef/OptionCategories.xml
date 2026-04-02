@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: audio -->
+  <Audio.label>ऑडियो</Audio.label>
+  
+  <!-- EN: controls -->
+  <Controls.label>नियंत्रण</Controls.label>
+  
+  <!-- EN: dev -->
+  <Dev.label>डेवलपर</Dev.label>
+  
+  <!-- EN: gameplay -->
+  <Gameplay.label>खेलना</Gameplay.label>
+  
+  <!-- EN: general -->
+  <General.label>सामान्य</General.label>
+  
+  <!-- EN: graphics -->
+  <Graphics.label>ग्राफिक्स</Graphics.label>
+  
+  <!-- EN: interface -->
+  <Interface.label>अंतरापृष्ठ</Interface.label>
+  
+  <!-- EN: mod options -->
+  <Mods.label>मोड विकल्प</Mods.label>
+  
+</LanguageData>

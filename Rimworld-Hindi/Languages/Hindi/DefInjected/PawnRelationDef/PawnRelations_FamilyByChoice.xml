@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: son-in-law -->
+  <ChildInLaw.label>दामाद</ChildInLaw.label>
+  <!-- EN: daughter-in-law -->
+  <ChildInLaw.labelFemale>बहु-बेटी</ChildInLaw.labelFemale>
+  
+  <!-- EN: ex-lover -->
+  <ExLover.label>पुराना प्रेमी</ExLover.label>
+  <ExLover.labelFemale>पुरानी प्रेमिका</ExLover.labelFemale>
+  
+  <!-- EN: ex-husband -->
+  <ExSpouse.label>पूर्व पति</ExSpouse.label>
+  <!-- EN: ex-wife -->
+  <ExSpouse.labelFemale>पूर्व पत्नी</ExSpouse.labelFemale>
+  
+  <!-- EN: fiance -->
+  <Fiance.label>मंगेतर</Fiance.label>
+  <!-- EN: fiancée -->
+  <Fiance.labelFemale>मंगेतरी</Fiance.labelFemale>
+  
+  <!-- EN: lover -->
+  <Lover.label>प्रेमी</Lover.label>
+  <Lover.labelFemale>प्रेमिका</Lover.labelFemale>
+  
+  <!-- EN: father-in-law -->
+  <ParentInLaw.label>सासरा</ParentInLaw.label>
+  <!-- EN: mother-in-law -->
+  <ParentInLaw.labelFemale>सास-बहू संबंध</ParentInLaw.labelFemale>
+  
+  <!-- EN: husband -->
+  <Spouse.label>पति</Spouse.label>
+  <!-- EN: wife -->
+  <Spouse.labelFemale>पत्नी</Spouse.labelFemale>
+  
+  <!-- EN: stepson -->
+  <Stepchild.label>सौतेला बेटा</Stepchild.label>
+  <!-- EN: stepdaughter -->
+  <Stepchild.labelFemale>सौतेली बेटी</Stepchild.labelFemale>
+  
+  <!-- EN: stepfather -->
+  <Stepparent.label>सौतेला पिता</Stepparent.label>
+  <!-- EN: stepmother -->
+  <Stepparent.labelFemale>सौतेली माँ</Stepparent.labelFemale>
+  
+</LanguageData>

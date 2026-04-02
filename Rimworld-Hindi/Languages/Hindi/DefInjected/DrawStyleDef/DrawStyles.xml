@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: angled line -->
+  <AngledLine.label>कोणीय रेखा</AngledLine.label>
+  
+  <!-- EN: empty oval -->
+  <EmptyOval.label>खाली अंडाकार</EmptyOval.label>
+  
+  <!-- EN: empty rectangle -->
+  <EmptyRectangle.label>खाली आयत</EmptyRectangle.label>
+  
+  <!-- EN: filled oval -->
+  <FilledOval.label>भरा अंडाकार</FilledOval.label>
+  
+  <!-- EN: filled rectangle -->
+  <FilledRectangle.label>भरा आयत</FilledRectangle.label>
+  
+  <!-- EN: line -->
+  <Line.label>लाइन</Line.label>
+  
+</LanguageData>

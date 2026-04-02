@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: manhunter pack -->
+  <Manhunters.label>मानव शिकारी झुंड</Manhunters.label>
+  <!-- EN: A pack of manhunting animals. -->
+  <Manhunters.description>शिकारी जानवरों का एक झुंड।</Manhunters.description>
+  <!-- EN: There are scaria-infected manhunting animals in this area. -->
+  <Manhunters.arrivedLetter>इस क्षेत्र में स्कैरिया-संक्रमित शिकारी जानवर हैं।</Manhunters.arrivedLetter>
+  
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: talking. -->
+  <GiveSpeech.reportString>बातचीत</GiveSpeech.reportString>
+  
+  <!-- EN: marrying TargetA. -->
+  <MarryAdjacentPawn.reportString>लक्ष्यA से विवाह।</MarryAdjacentPawn.reportString>
+  
+  <!-- EN: spectating. -->
+  <SpectateCeremony.reportString>देखना.</SpectateCeremony.reportString>
+  
+  <!-- EN: relaxing socially. -->
+  <StandAndBeSociallyActive.reportString>सामाजिक रूप से आराम।</StandAndBeSociallyActive.reportString>
+  
+</LanguageData>

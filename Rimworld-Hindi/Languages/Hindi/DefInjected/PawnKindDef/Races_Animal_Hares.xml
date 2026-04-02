@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hare --><!-- EN: liebre -->
+  <Hare.label>खरगोश</Hare.label><!-- EN: liebres -->
+  <Hare.labelPlural>लिएब्रेस</Hare.labelPlural><!-- EN: cría de liebre -->
+  <Hare.lifeStages.0.label>खरगोश का बच्चा</Hare.lifeStages.0.label><!-- EN: cría de liebre -->
+  <Hare.lifeStages.0.labelFemale>खरगोश का बच्चा</Hare.lifeStages.0.labelFemale><!-- EN: crías de liebre -->
+  <Hare.lifeStages.0.labelPlural>खरगोश के बच्चे</Hare.lifeStages.0.labelPlural><!-- EN: liebre joven -->
+  <Hare.lifeStages.1.label>युवा लिब्रे</Hare.lifeStages.1.label><!-- EN: liebres jóvenes -->
+  <Hare.lifeStages.1.labelPlural>युवा लिब्रेस</Hare.lifeStages.1.labelPlural><!-- EN: liebre -->
+  <Hare.lifeStages.2.label>खरगोश</Hare.lifeStages.2.label><!-- EN: liebres -->
+  <Hare.lifeStages.2.labelPlural>लिएब्रेस</Hare.lifeStages.2.labelPlural>
+  
+  <!-- EN: snowhare --><!-- EN: liebre polar -->
+  <Snowhare.label>ध्रुवीय खरगोश</Snowhare.label><!-- EN: liebres polares -->
+  <Snowhare.labelPlural>ध्रुवीय लीब्रेस</Snowhare.labelPlural><!-- EN: cría de liebre polar -->
+  <Snowhare.lifeStages.0.label>ध्रुवीय खरगोश का बच्चा</Snowhare.lifeStages.0.label><!-- EN: crías de liebre polar -->
+  <Snowhare.lifeStages.0.labelPlural>ध्रुवीय खरगोश के बच्चे</Snowhare.lifeStages.0.labelPlural><!-- EN: liebre polar joven -->
+  <Snowhare.lifeStages.1.label>ध्रुवीय खरगोश बच्चा</Snowhare.lifeStages.1.label><!-- EN: liebres polares jóvenes -->
+  <Snowhare.lifeStages.1.labelPlural>ध्रुवीय खरगोश के बच्चे</Snowhare.lifeStages.1.labelPlural><!-- EN: liebre polar -->
+  <Snowhare.lifeStages.2.label>ध्रुवीय खरगोश</Snowhare.lifeStages.2.label><!-- EN: liebres polares -->
+  <Snowhare.lifeStages.2.labelPlural>ध्रुवीय लीब्रेस</Snowhare.lifeStages.2.labelPlural>
+  
+</LanguageData>

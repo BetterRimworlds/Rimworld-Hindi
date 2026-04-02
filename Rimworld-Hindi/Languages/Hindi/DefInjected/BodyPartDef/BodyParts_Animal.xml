@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: jaw -->
+  <AnimalJaw.label>जबड़ा</AnimalJaw.label>
+  
+  <!-- EN: antenna -->
+  <Antenna.label>एंटीना</Antenna.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>चोंच</Beak.label>
+  
+  <!-- EN: body -->
+  <Body.label>शरीर</Body.label>
+  
+  <!-- EN: elytra -->
+  <Elytra.label>एलीट्रा</Elytra.label>
+  
+  <!-- EN: front claw -->
+  <FrontClaw.label>सामने का पंजा</FrontClaw.label>
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>पंजा</FrontClaw.labelShort>
+  
+  <!-- EN: head claw -->
+  <HeadClaw.label>सिर पंजा</HeadClaw.label>
+  
+  <!-- EN: head -->
+  <HeadWithEarHoles.label>सिर</HeadWithEarHoles.label>
+  
+  <!-- EN: hoof -->
+  <Hoof.label>खुर</Hoof.label>
+  
+  <!-- EN: horn -->
+  <Horn.label>सींग</Horn.label>
+  
+  <!-- EN: hump -->
+  <Hump.label>कूबड़</Hump.label>
+  
+  <!-- EN: head -->
+  <InsectHead.label>सिर</InsectHead.label>
+  
+  <!-- EN: heart -->
+  <InsectHeart.label>दिल</InsectHeart.label>
+  
+  <!-- EN: leg -->
+  <InsectLeg.label>पैर</InsectLeg.label>
+  
+  <!-- EN: mouth -->
+  <InsectMouth.label>मुँह</InsectMouth.label>
+  
+  <!-- EN: nostril -->
+  <InsectNostril.label>नाक छिद्र</InsectNostril.label>
+  
+  <!-- EN: jowl -->
+  <Jowl.label>जबड़ा</Jowl.label>
+  
+  <!-- EN: paw -->
+  <Paw.label>पंजा</Paw.label>
+  
+  <!-- EN: plastron -->
+  <Plastron.label>प्लास्ट्रॉन</Plastron.label>
+  
+  <!-- EN: pronotum -->
+  <Pronotum.label>प्रोनोटम</Pronotum.label>
+  
+  <!-- EN: rear claw -->
+  <RearClaw.label>पिछला पंजा</RearClaw.label>
+  <!-- EN: claw -->
+  <RearClaw.labelShort>पंजा</RearClaw.labelShort>
+  
+  <!-- EN: shell -->
+  <Shell.label>शेल</Shell.label>
+  
+  <!-- EN: body -->
+  <SnakeBody.label>शरीर</SnakeBody.label>
+  
+  <!-- EN: head -->
+  <SnakeHead.label>सिर</SnakeHead.label>
+  
+  <!-- EN: mouth -->
+  <SnakeMouth.label>मुँह</SnakeMouth.label>
+  
+  <!-- EN: tail -->
+  <Tail.label>पूंछ</Tail.label>
+  
+  <!-- EN: trunk -->
+  <Trunk.label>धड़</Trunk.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeak.label>चोंच</TurtleBeak.label>
+  
+  <!-- EN: shell -->
+  <TurtleShell.label>शेल</TurtleShell.label>
+  
+  <!-- EN: tusk -->
+  <Tusk.label>दाँत</Tusk.label>
+  
+</LanguageData>

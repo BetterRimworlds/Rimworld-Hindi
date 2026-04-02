@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: utility -->
+  <Belt.label>उपयोगिता</Belt.label>
+  
+  <!-- EN: eyes -->
+  <EyeCover.label>आँखें</EyeCover.label>
+  
+  <!-- EN: middle -->
+  <Middle.label>मध्य</Middle.label>
+  
+  <!-- EN: skin -->
+  <OnSkin.label>त्वचा</OnSkin.label>
+  
+  <!-- EN: headgear -->
+  <Overhead.label>सिर का कवच</Overhead.label>
+  
+  <!-- EN: outer -->
+  <Shell.label>बाहरी परत</Shell.label>
+  
+</LanguageData>

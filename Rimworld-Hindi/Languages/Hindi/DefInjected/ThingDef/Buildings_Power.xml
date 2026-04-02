@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: battery -->
+  <Battery.label>बैटरी</Battery.label>
+  <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
+  <Battery.description>बिजली को बाद में उपयोग के लिए संग्रहीत करता है। चार्ज की गई बैटरियां बारिश या आग के संपर्क में आने पर फट जाती हैं।</Battery.description>
+  
+  <!-- EN: chemfuel powered generator -->
+  <ChemfuelPoweredGenerator.label>रासायनिक ईंधन जनरेटर</ChemfuelPoweredGenerator.label>
+  <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
+  <ChemfuelPoweredGenerator.description>रासायनिक ईंधन का उपयोग करके बिजली उत्पन्न करता है। इसे समय-समय पर हाथ से फिर से ईंधन भरने की आवश्यकता होती है।</ChemfuelPoweredGenerator.description>
+  
+  <!-- EN: geothermal generator -->
+  <GeothermalGenerator.label>भूतापीय जनरेटर</GeothermalGenerator.label>
+  <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
+  <GeothermalGenerator.description>भूतापीय भाप झरनों से बिजली उत्पन्न करता है। इसे भाप झरने पर रखना आवश्यक है।</GeothermalGenerator.description>
+  
+  <!-- EN: hidden conduit -->
+  <HiddenConduit.label>गुप्त नाली</HiddenConduit.label>
+  <!-- EN: Hidden electrical cables for moving power around. They're tougher than regular conduits, but also slower to build and more expensive. -->
+  <HiddenConduit.description>छिपी हुई विद्युत केबलें बिजली को इधर-उधर ले जाने के लिए। ये सामान्य नलिकाओं से अधिक मजबूत हैं, लेकिन बनाने में धीमी और अधिक महंगी भी हैं।</HiddenConduit.description>
+  
+  <!-- EN: power conduit -->
+  <PowerConduit.label>पावर कंड्यूट</PowerConduit.label>
+  <!-- EN: A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
+  <PowerConduit.description>बिजली के तारों का एक गुच्छा, जो ऊर्जा को इधर-उधर ले जाने के लिए होता है। इसे दीवारों और अन्य इमारतों के नीचे रखा जा सकता है।</PowerConduit.description>
+  
+  <!-- EN: power switch -->
+  <PowerSwitch.label>बिजली स्विच</PowerSwitch.label>
+  <!-- EN: Switches power on/off. -->
+  <PowerSwitch.description>बिजली चालू/बंद करता है।</PowerSwitch.description>
+  
+  <!-- EN: solar generator -->
+  <SolarGenerator.label>सौर जनरेटर</SolarGenerator.label>
+  <!-- EN: Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
+  <SolarGenerator.description>सूर्य के प्रकाश से बिजली उत्पन्न करता है। अंधेरे में या कृत्रिम प्रकाश के नीचे काम नहीं करता है।</SolarGenerator.description>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>जलचक्की जनरेटर</WatermillGenerator.label>
+  <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
+  <WatermillGenerator.description>नदी से बिजली उत्पन्न करता है। पहिये को बहते पानी में स्थापित किया जाना चाहिए। यदि जलचक्की एक दूसरे के बहुत करीब रखी जाती हैं, तो वे उत्पन्न अशांति हस्तक्षेप करेगी और बिजली उत्पादन को कम करेगी।</WatermillGenerator.description>
+  
+  <!-- EN: waterproof conduit -->
+  <WaterproofConduit.label>जलरोधक नलिका</WaterproofConduit.label>
+  <!-- EN: Insulated electrical cables for transmitting power through shallow water or mud. -->
+  <WaterproofConduit.description>उथले पानी या कीचड़ से बिजली पहुंचाने के लिए इंसुलेटेड इलेक्ट्रिकल केबल।</WaterproofConduit.description>
+  
+  <!-- EN: wind turbine -->
+  <WindTurbine.label>पवन टरबाइन</WindTurbine.label>
+  <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
+  <WindTurbine.description>पवन ऊर्जा से चलने वाला विद्युत जनरेटर। इष्टतम वायु प्रवाह के लिए सामने और पीछे एक बड़ी खाली जगह की आवश्यकता होती है।</WindTurbine.description>
+  
+  <!-- EN: wood-fired generator -->
+  <WoodFiredGenerator.label>लकड़ी जनरेटर</WoodFiredGenerator.label>
+  <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
+  <WoodFiredGenerator.description>लकड़ी खाकर ऊर्जा उत्पन्न करता है। लकड़ी के ईंधन से समय-समय पर हाथ से भरना आवश्यक है।</WoodFiredGenerator.description>
+  
+</LanguageData>

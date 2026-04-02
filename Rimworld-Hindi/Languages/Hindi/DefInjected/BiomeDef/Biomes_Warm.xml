@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tropical rainforest -->
+  <TropicalRainforest.label>उष्णकटिबंधीय वर्षावन</TropicalRainforest.label>
+  <!-- EN: A thick, moist jungle, buzzing with animal life and infested with disease. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant sickness are why some explorers call this the "green hell". -->
+  <TropicalRainforest.description>एक घनी, नम जंगल, पशु जीवन से गुलजार और रोग से ग्रस्त। अपनी दृश्य सुंदरता के बावजूद, यह एक बहुत ही खतरनाक बायोम है। दम घुटने वाली अतिवृद्धि, आक्रामक जानवर और लगातार बीमारी के कारण कुछ खोजकर्ता इसे &amp;quot;हरा नरक&amp;quot; कहते हैं।</TropicalRainforest.description>
+  
+  <!-- EN: tropical swamp -->
+  <TropicalSwamp.label>उष्णकटिबंधीय दलदल</TropicalSwamp.label>
+  <!-- EN: A plant-choked, steamy swamp seething with parasites and pathogens. Much of the land is too marshy to build on. Difficult movement, aggressive animals, and rampant disease make living here a nightmare. -->
+  <TropicalSwamp.description>एक पौधा-घिरी, भाप से भरी दलदल परजीवी और रोगजनकों से उबल रही है। अधिकांश भूमि निर्माण के लिए बहुत दलदली है। कठिन आवागमन, आक्रामक जानवर और व्यापक रोग यहाँ जीवन को एक दुःस्वप्न बनाते हैं।</TropicalSwamp.description>
+  
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambush -->
+  <Ambush.label>घात</Ambush.label>
+  <!-- EN: Caravan ambushed -->
+  <Ambush.letterLabel>कारवां घात</Ambush.letterLabel>
+  <!-- EN: {0} has been ambushed by {1} from {2}! -->
+  <Ambush.letterText>{0} पर {2} से आए {1} ने घात लगाकर हमला किया है!</Ambush.letterText>
+  
+  <!-- EN: payment demand -->
+  <CaravanDemand.label>भुगतान मांग</CaravanDemand.label>
+  
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>कारवां मिलन</CaravanMeeting.label>
+  
+  <!-- EN: manhunter ambush -->
+  <ManhunterAmbush.label>मानशिकारी घात</ManhunterAmbush.label>
+  <!-- EN: Caravan ambushed (manhunters) -->
+  <ManhunterAmbush.letterLabel>कारवां घात (मानव शिकारी)</ManhunterAmbush.letterLabel>
+  <!-- EN: {0} has been ambushed by scaria-infected manhunting {1}! -->
+  <ManhunterAmbush.letterText>{0} पर स्कारिया-संक्रमित मानव-शिकारी {1} द्वारा घात लगाकर हमला किया गया है!</ManhunterAmbush.letterText>
+  
+</LanguageData>

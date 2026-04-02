@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: haul -->
+  <Haul.label>ढोना</Haul.label>
+  <!-- EN: The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
+  <Haul.description>जानवर समय-समय पर वस्तुओं को इधर-उधर ले जाएगा (हालांकि इसे विशिष्ट वस्तुओं को ले जाने के लिए निर्देशित नहीं किया जा सकता)।</Haul.description>
+  
+  <!-- EN: guard -->
+  <Obedience.label>रक्षक</Obedience.label>
+  <!-- EN: The animal can be assigned a master whom it will follow and defend. -->
+  <Obedience.description>जानवर को एक मालिक सौंपा जा सकता है जिसे वह अनुसरण करेगा और जिसकी रक्षा करेगा।</Obedience.description>
+  
+  <!-- EN: attack -->
+  <Release.label>हमला</Release.label>
+  <!-- EN: The animal can be released to attack distant targets instead of just guarding its master. -->
+  <Release.description>जानवर को दूर के लक्ष्यों पर हमला करने के लिए छोड़ा जा सकता है, न कि केवल अपने मालिक की रक्षा करने के लिए।</Release.description>
+  
+  <!-- EN: rescue -->
+  <Rescue.label>बचाव</Rescue.label>
+  <!-- EN: The animal will rescue wounded allies and drag them to safety. -->
+  <Rescue.description>जानवर घायल सहयोगियों को बचाएगा और उन्हें सुरक्षित स्थान पर घसीट लेगा।</Rescue.description>
+  
+  <!-- EN: tameness -->
+  <Tameness.label>पालतूता</Tameness.label>
+  <!-- EN: The animal can learn to consider itself a member of your colony. -->
+  <Tameness.description>जानवर अपनी पहचान आपके उपनिवेश का सदस्य मान सकता है।</Tameness.description>
+  
+</LanguageData>

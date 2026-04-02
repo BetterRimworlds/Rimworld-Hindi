@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate without table -->
+  <AteWithoutTable.stages.ate_without_table.label>बिना मेज़</AteWithoutTable.stages.ate_without_table.label>
+  <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
+  <AteWithoutTable.stages.ate_without_table.description>मुझे ज़मीन पर बैठकर खाना पड़ा। क्या यहाँ कोई मेज़ नहीं मिल सकती?</AteWithoutTable.stages.ate_without_table.description>
+  
+  <!-- EN: bonded animal {0} banished -->
+  <BondedAnimalBanished.stages.bonded_animal_banished.label>बंधुआ जानवर {0} निर्वासित</BondedAnimalBanished.stages.bonded_animal_banished.label>
+  <!-- EN: My bonded animal was banished! -->
+  <BondedAnimalBanished.stages.bonded_animal_banished.description>मेरे बंधे हुए जानवर को निर्वासित कर दिया गया!</BondedAnimalBanished.stages.bonded_animal_banished.description>
+  
+  <!-- EN: I butchered humanlike -->
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>मानव जैसा कत्ल</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+  <!-- EN: I butchered someone up like an animal. -->
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>मैंने किसी को जानवर की तरह काटकर मार डाला।</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
+  
+  <!-- EN: butchered humanlike corpse -->
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>मानव जैसा शव</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  
+  <!-- EN: catharsis -->
+  <Catharsis.stages.catharsis.label>विमोचन</Catharsis.stages.catharsis.label>
+  <!-- EN: It felt good to finally unbottle my feelings. -->
+  <Catharsis.stages.catharsis.description>अपनी भावनाओं को आखिरकार व्यक्त करके अच्छा लगा।</Catharsis.stages.catharsis.description>
+  
+  <!-- EN: colonist banished -->
+  <ColonistBanished.stages.colonist_banished.label>बर्खास्त उपनिवेशवादी</ColonistBanished.stages.colonist_banished.label>
+  <!-- EN: We just banished someone. I hope they make it, but I'm worried. -->
+  <ColonistBanished.stages.colonist_banished.description>हमने अभी किसी को निर्वासित किया है। मुझे उम्मीद है कि वे जीवित रहेंगे, लेकिन मैं चिंतित हूँ।</ColonistBanished.stages.colonist_banished.description>
+  
+  <!-- EN: colonist banished to death -->
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>बर्खास्त उपनिवेशवादी मृत्यु</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
+  <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>हमने किसी को इस तरह से निकाला कि उनके जीवित रहने की संभावना लगभग नहीं है।</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  
+  <!-- EN: Colonist prisoner escaped -->
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>कॉलोनी कैदी भागा</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>
+  <!-- EN: Can't we keep control of our own people? I feel like anything could happen to me here. -->
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>क्या हम अपने लोगों पर नियंत्रण नहीं रख सकते? मुझे लगता है कि यहाँ मेरे साथ कुछ भी हो सकता है।</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
+  
+  <!-- EN: defeated hostile leader {0} -->
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>पराजित शत्रु नेता {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+  <!-- EN: They were leading efforts to destroy us, and I took them down! -->
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>वे हमें नष्ट करने के प्रयासों का नेतृत्व कर रहे थे, और मैंने उन्हें हरा दिया!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
+  
+  <!-- EN: defeated hostile leader -->
+  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>पराजित शत्रु नेता</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
+  
+  <!-- EN: defeated insect hive -->
+  <DefeatedInsectHive.stages.defeated_insect_hive.label>कीट कॉलोनी</DefeatedInsectHive.stages.defeated_insect_hive.label>
+  <!-- EN: The only good bug is a dead bug! -->
+  <DefeatedInsectHive.stages.defeated_insect_hive.description>कीड़ों का सफाया करना ही सबसे अच्छा है!</DefeatedInsectHive.stages.defeated_insect_hive.description>
+  
+  <!-- EN: defeated mech cluster -->
+  <DefeatedMechCluster.stages.defeated_mech_cluster.label>पराजित यांत्रिक समूह</DefeatedMechCluster.stages.defeated_mech_cluster.label>
+  <!-- EN: Blood beats metal, you damn machines! -->
+  <DefeatedMechCluster.stages.defeated_mech_cluster.description>खून धातु को पीटता है, तुम शापित मशीनें!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
+  
+  <!-- EN: denied joining -->
+  <DeniedJoining.stages.denied_joining.label>जुड़ने से इनकार</DeniedJoining.stages.denied_joining.label>
+  <!-- EN: We just denied someone's request to join us. I hope they make it. -->
+  <DeniedJoining.stages.denied_joining.description>हमने किसी के शामिल होने के अनुरोध को अस्वीकार कर दिया। मुझे उम्मीद है कि वे सफल होंगे।</DeniedJoining.stages.denied_joining.description>
+  
+  <!-- EN: failed to rescue {0} -->
+  <FailedToRescueRelative.stages.failed_to_rescue.label>{0} बचाव विफल</FailedToRescueRelative.stages.failed_to_rescue.label>
+  <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
+  <FailedToRescueRelative.stages.failed_to_rescue.description>हमें अपने रिश्तेदार को बचाने का अवसर मिला, और हम विफल रहे। मैं मदद कर सकता था!</FailedToRescueRelative.stages.failed_to_rescue.description>
+  
+  <!-- EN: freed from slavery -->
+  <FreedFromSlavery.stages.freed_from_slavery.label>गुलामी से मुक्ति</FreedFromSlavery.stages.freed_from_slavery.label>
+  <!-- EN: I have been freed from slavery. I'm so thankful! -->
+  <FreedFromSlavery.stages.freed_from_slavery.description>मुझे गुलामी से मुक्ति मिली है। मैं बहुत आभारी हूँ!</FreedFromSlavery.stages.freed_from_slavery.description>
+  
+  <!-- EN: bloodlust organ harvested -->
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>रक्तपिपासु अंग निकाला</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
+  <!-- EN: Extracting the flesh from their bodies is so bloody and satisfying. -->
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>शरीरों से मांस निकालना इतना खूनी और संतोषजनक है।</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
+  
+  <!-- EN: killed someone -->
+  <KilledHumanlikeBloodlust.stages.killed_someone.label>हत्या</KilledHumanlikeBloodlust.stages.killed_someone.label>
+  <!-- EN: I killed someone! What a rush! -->
+  <KilledHumanlikeBloodlust.stages.killed_someone.description>मैंने किसी को मार डाला! क्या अद्भुत अनुभूति है!</KilledHumanlikeBloodlust.stages.killed_someone.description>
+  
+  <!-- EN: buried in sarcophagus -->
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>शव-पेटिका में दफ़्न</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
+  <!-- EN: This colony buried someone in an ornamented sarcophagus. May their soul rest in peace. -->
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>इस बस्ती ने किसी को अलंकृत ताबूत में दफनाया। उनकी आत्मा को शांति मिले।</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
+  
+  <!-- EN: we butchered humanlike -->
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>मानवसदृश कत्लेआम</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
+  <!-- EN: We butchered someone up like an animal. -->
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>हमने किसी को जानवर की तरह बेरहमी से काटा।</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
+  
+  <!-- EN: colonist's organ harvested -->
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>कॉलोनीस्ट अंग निकाला गया</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
+  <!-- EN: Someone took body parts from a colonist. It's horrible, breaking someone down for parts when they have no choice. -->
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>किसी उपनिवेशवादी के शरीर के अंगों को निकाल लिया गया। यह भयानक है, किसी को अंगों के लिए तोड़ना जब उनके पास कोई विकल्प नहीं है।</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
+  
+  <!-- EN: someone's organ harvested -->
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>अंग प्रत्यारोपण</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
+  <!-- EN: The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice. -->
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>कॉलोनी ने किसी अतिथि या कैदी के शरीर के अंगों को ले लिया। यह भयानक है, किसी को अंगों के लिए तोड़ना जब उनके पास कोई विकल्प नहीं है।</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
+  
+  <!-- EN: prisoner sold -->
+  <KnowPrisonerSold.stages.prisoner_sold.label>कैदी बेचा गया</KnowPrisonerSold.stages.prisoner_sold.label>
+  <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
+  <KnowPrisonerSold.stages.prisoner_sold.description>इस कॉलोनी ने एक कैदी को ग़ुलामी में बेच दिया। यह एक चिंताजनक विचार है।</KnowPrisonerSold.stages.prisoner_sold.description>
+  
+  <!-- EN: my organ harvested -->
+  <MyOrganHarvested.stages.my_organ_harvested.label>अंग प्रत्यारोपण</MyOrganHarvested.stages.my_organ_harvested.label>
+  <!-- EN: The colony harvested body parts from me! They're breaking me down like an old engine! -->
+  <MyOrganHarvested.stages.my_organ_harvested.description>कॉलोनी ने मुझसे शरीर के अंग काटे! वे मुझे एक पुरानी मशीन की तरह तोड़ रहे हैं!</MyOrganHarvested.stages.my_organ_harvested.description>
+  
+  <!-- EN: initial hope -->
+  <NewColonyHope.stages.initial_hope.label>प्रारंभिक आशा</NewColonyHope.stages.initial_hope.label>
+  <!-- EN: I'm getting used to this, but it's still an exciting new situation. I hope this works out... -->
+  <NewColonyHope.stages.initial_hope.description>मुझे इसकी आदत हो रही है, लेकिन यह अभी भी एक रोमांचक नई परिस्थिति है। मुझे उम्मीद है कि यह सफल होगा…</NewColonyHope.stages.initial_hope.description>
+  
+  <!-- EN: initial optimism -->
+  <NewColonyOptimism.stages.initial_optimism.label>प्रारंभिक आशावाद</NewColonyOptimism.stages.initial_optimism.label>
+  <!-- EN: It's a tough situation, but I'm excited to be founding a new settlement. -->
+  <NewColonyOptimism.stages.initial_optimism.description>यह कठिन परिस्थिति है, लेकिन मैं एक नई बस्ती की स्थापना करने के लिए उत्साहित हूँ।</NewColonyOptimism.stages.initial_optimism.description>
+  
+  <!-- EN: nuzzled -->
+  <Nuzzled.stages.nuzzled-0.label>सहलाया</Nuzzled.stages.nuzzled-0.label>
+  <!-- EN: A cute animal nuzzled me. -->
+  <Nuzzled.stages.nuzzled-0.description>एक प्यारा जानवर मुझसे सटा।</Nuzzled.stages.nuzzled-0.description>
+  <!-- EN: nuzzled -->
+  <Nuzzled.stages.nuzzled-1.label>सहलाया</Nuzzled.stages.nuzzled-1.label>
+  <!-- EN: It is so cute, and supportive, and loving... I feel fulfilled and refreshed. -->
+  <Nuzzled.stages.nuzzled-1.description>यह बहुत प्यारा, सहायक और प्रेमपूर्ण है… मुझे संतुष्टि और ताजगी महसूस हो रही है।</Nuzzled.stages.nuzzled-1.description>
+  
+  <!-- EN: observed corpse -->
+  <ObservedLayingCorpse.stages.observed_corpse.label>मृत शरीर</ObservedLayingCorpse.stages.observed_corpse.label>
+  <!-- EN: I saw a dead body laying on the ground. It was disturbing. -->
+  <ObservedLayingCorpse.stages.observed_corpse.description>मैंने जमीन पर एक मृत शरीर पड़ा देखा। यह परेशान करने वाला था।</ObservedLayingCorpse.stages.observed_corpse.description>
+  
+  <!-- EN: observed rotting corpse -->
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>सड़ा हुआ शव</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
+  <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>मैंने ज़मीन पर एक सड़ता हुआ शव पड़ा देखा। यह घृणित था।</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
+  
+  <!-- EN: on duty -->
+  <OnDuty.stages.on_duty.label>कार्य पर</OnDuty.stages.on_duty.label>
+  <!-- EN: I have a job to do. -->
+  <OnDuty.stages.on_duty.description>मेरे करने के लिए काम है।</OnDuty.stages.on_duty.description>
+  
+  <!-- EN: prisoner banished to death -->
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>कैदी मृत्यु निर्वासित</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
+  <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>हमने एक कैदी को इस तरह से निर्वासित कर दिया है कि उनके जीवित रहने की संभावना लगभग न के बराबर है।</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  
+  <!-- EN: used flame weapon -->
+  <PyroUsed.stages.used_flame_weapon.label>जली हुई हथियार</PyroUsed.stages.used_flame_weapon.label>
+  <!-- EN: The searing heat will make my foes beautiful! -->
+  <PyroUsed.stages.used_flame_weapon.description>तपती गर्मी मेरे दुश्मनों को सुंदर बना देगी!</PyroUsed.stages.used_flame_weapon.description>
+  
+  <!-- EN: prisoner released -->
+  <ReleasedHealthyPrisoner.stages.prisoner_released.label>कैदी रिहा</ReleasedHealthyPrisoner.stages.prisoner_released.label>
+  <!-- EN: We released a healthy prisoner. It feels good to know we even treat prisoners well. -->
+  <ReleasedHealthyPrisoner.stages.prisoner_released.description>हमने एक स्वस्थ कैदी को रिहा कर दिया। यह जानकर अच्छा लगता है कि हम कैदियों के साथ भी अच्छा व्यवहार करते हैं।</ReleasedHealthyPrisoner.stages.prisoner_released.description>
+  
+  <!-- EN: rescued -->
+  <Rescued.stages.rescued.label>बचाव</Rescued.stages.rescued.label>
+  <!-- EN: I was rescued! I almost thought I was done for back there. I'm so thankful. -->
+  <Rescued.stages.rescued.description>मुझे बचा लिया गया! मुझे तो लगा था कि मैं वहीं खत्म हो जाऊंगा। मैं बहुत आभारी हूँ।</Rescued.stages.rescued.description>
+  
+  <!-- EN: rescued {0} -->
+  <RescuedRelative.stages.rescued.label>बचाया {0}</RescuedRelative.stages.rescued.label>
+  <!-- EN: We rescued one of my relatives. Finally, I can breathe a sigh of relief. -->
+  <RescuedRelative.stages.rescued.description>हमने मेरे रिश्तेदार में से एक को बचाया। आखिरकार, मैं राहत की सांस ले सकता हूँ।</RescuedRelative.stages.rescued.description>
+  
+  <!-- EN: disturbed sleep -->
+  <SleepDisturbed.stages.disturbed_sleep.label>बेचैन नींद</SleepDisturbed.stages.disturbed_sleep.label>
+  <!-- EN: I was disturbed during sleep by people moving around nearby. A private room would solve this. -->
+  <SleepDisturbed.stages.disturbed_sleep.description>निकटवर्ती लोगों की हलचल से नींद में खलल पड़ा। एक निजी कमरा इस समस्या का समाधान करेगा।</SleepDisturbed.stages.disturbed_sleep.description>
+  
+  <!-- EN: slept in the cold -->
+  <SleptInCold.stages.slept_in_the_cold.label>ठंडी में सोया</SleptInCold.stages.slept_in_the_cold.label>
+  <!-- EN: I had to sleep in the cold. We really need some heaters. -->
+  <SleptInCold.stages.slept_in_the_cold.description>मुझे ठंड में सोना पड़ा। हमें वास्तव में कुछ हीटरों की आवश्यकता है।</SleptInCold.stages.slept_in_the_cold.description>
+  
+  <!-- EN: slept in the heat -->
+  <SleptInHeat.stages.slept_in_the_heat.label>गर्मी में सोया</SleptInHeat.stages.slept_in_the_heat.label>
+  <!-- EN: I had to sleep in unbearable heat. Can't we have air conditioning? -->
+  <SleptInHeat.stages.slept_in_the_heat.description>मुझे असहनीय गर्मी में सोना पड़ा। क्या हम एयर कंडीशनिंग नहीं रख सकते?</SleptInHeat.stages.slept_in_the_heat.description>
+  
+  <!-- EN: slept on ground -->
+  <SleptOnGround.stages.slept_on_ground.label>ज़मीन पर सोया</SleptOnGround.stages.slept_on_ground.label>
+  <!-- EN: I had to sleep on the ground like an animal. -->
+  <SleptOnGround.stages.slept_on_ground.description>मुझे जानवर की तरह जमीन पर सोना पड़ा।</SleptOnGround.stages.slept_on_ground.description>
+  
+  <!-- EN: slept outside -->
+  <SleptOutside.stages.slept_outside.label>बाहरी नींद</SleptOutside.stages.slept_outside.label>
+  <!-- EN: I had to sleep outdoors without any protection from the elements. -->
+  <SleptOutside.stages.slept_outside.description>मुझे तत्वों से सुरक्षा के बिना बाहर सोना पड़ा।</SleptOutside.stages.slept_outside.description>
+  
+  <!-- EN: soaking wet -->
+  <SoakingWet.stages.soaking_wet.label>गीला</SoakingWet.stages.soaking_wet.label>
+  <!-- EN: I'm soaking wet. -->
+  <SoakingWet.stages.soaking_wet.description>मैं भीग गया/गई हूँ।</SoakingWet.stages.soaking_wet.description>
+  
+  <!-- EN: eager to travel -->
+  <TravelAnticipation.stages.eager_to_travel.label>यात्रा इच्छुक</TravelAnticipation.stages.eager_to_travel.label>
+  <!-- EN: I've been preparing this caravan for a while. I'm looking forward to the upcoming journey. -->
+  <TravelAnticipation.stages.eager_to_travel.description>मैंने कुछ समय से इस कारवां की तैयारी की है। मैं आने वाली यात्रा का उत्सुकता से इंतज़ार कर रहा/रही हूँ।</TravelAnticipation.stages.eager_to_travel.description>
+  <!-- EN: excited to travel -->
+  <TravelAnticipation.stages.excited_to_travel.label>यात्रा उत्साह</TravelAnticipation.stages.excited_to_travel.label>
+  <!-- EN: So much thought and preparation have gone into this adventure. I can't wait to set off! -->
+  <TravelAnticipation.stages.excited_to_travel.description>इस यात्रा में बहुत सोच-विचार और तैयारी की गई है। मैं प्रस्थान करने के लिए उत्सुक हूँ!</TravelAnticipation.stages.excited_to_travel.description>
+  
+  <!-- EN: was imprisoned -->
+  <WasImprisoned.stages.was_imprisoned.label>कैद</WasImprisoned.stages.was_imprisoned.label>
+  <!-- EN: The colony had me in jail for a while, like a caged animal. -->
+  <WasImprisoned.stages.was_imprisoned.description>कॉलोनी ने मुझे कुछ समय के लिए जेल में रखा, जैसे पिंजरे में बंद जानवर।</WasImprisoned.stages.was_imprisoned.description>
+  
+  <!-- EN: witnessed ally's death -->
+  <WitnessedDeathAlly.stages.witnessed_allys_death.label>सहयोगी की मृत्यु देखी</WitnessedDeathAlly.stages.witnessed_allys_death.label>
+  <!-- EN: I saw one of my people die. They were alive one moment, and dead the next. -->
+  <WitnessedDeathAlly.stages.witnessed_allys_death.description>मैंने अपने किसी व्यक्ति को मरते हुए देखा। एक क्षण वे जीवित थे, और अगले ही क्षण मृत।</WitnessedDeathAlly.stages.witnessed_allys_death.description>
+  
+  <!-- EN: witnessed death with bloodlust -->
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>खूनखराबा देखा</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
+  <!-- EN: I saw someone die! That was intense! -->
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>मैंने किसी को मरते हुए देखा! यह बहुत तीव्र था!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
+  
+  <!-- EN: witnessed family member's death -->
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>पारिवारिक मृत्यु दर्शन</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
+  <!-- EN: I saw a member of my family die. My own flesh and blood... -->
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.description>मैंने अपने परिवार का एक सदस्य मरते हुए देखा। मेरा अपना खून और मांस…</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
+  
+  <!-- EN: witnessed outsider's death -->
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>बाहरी मृत्युदर्शी</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
+  <!-- EN: I saw someone die. They were alive one moment, and dead the next. -->
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>मैंने किसी को मरते हुए देखा। एक क्षण वे जीवित थे, और अगले ही क्षण मृत।</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
+  
+</LanguageData>

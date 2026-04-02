@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Custom -->
+  <Custom.label>कस्टम</Custom.label>
+  <!-- EN: This setting allows you to define your own playstyle in detail.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
+  <Custom.description>यह सेटिंग आपको विस्तृत रूप से अपनी खेलने की शैली परिभाषित करने की अनुमति देती है।\n\n(*SectionTitle)अनुशंसित:(/SectionTitle)\n\n- वे खिलाड़ी जो मानक खेलने की शैलियों के स्तरों से संतुष्ट हैं, लेकिन कुछ चीजें बदलना चाहते हैं।\n- वे खिलाड़ी जो कुछ अलग के साथ प्रयोग करना चाहते हैं।</Custom.description>
+  
+  <!-- EN: community builder -->
+  <Easy.label>सामुदायिक निर्माता</Easy.label>
+  <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
+  <Easy.description>खतरे की झलक के साथ एक समुदाय का निर्माण करें। खतरे प्रकट होते हैं, लेकिन वे कमजोर होते हैं।\n\n(अनुभाग शीर्षक)सिफारिश की जाती है:(/अनुभाग शीर्षक)\n\n- वे खिलाड़ी जो इस तरह के खेल में नए हैं।\n- वे खिलाड़ी जो एक आदर्श कॉलोनी बनाना चाहते हैं।\n- वे खिलाड़ी जो आराम करना चाहते हैं।</Easy.description>
+  
+  <!-- EN: losing is fun -->
+  <Extreme.label>हारना मज़ेदार है</Extreme.label>
+  <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
+  <Extreme.description>यह सेटिंग अन्यायपूर्ण होने के लिए बनाई गई है। भारी खतरे बिना किसी दया के आप पर गिरेंगे जब तक आपकी कॉलोनी नष्ट नहीं हो जाती। केवल तभी यह सेटिंग चुनें जब आप संघर्ष और मृत्यु के नाटक से खुश हों।\n\n(*SectionTitle)अनुशंसित:(/SectionTitle)\n\n- अनुभवी खिलाड़ी जो एक क्रूर, अन्यायपूर्ण चुनौती का सामना करना चाहते हैं जहाँ महान कौशल भी मृत्यु को नहीं रोक सकता।\n- त्रासदी के प्रेमी।\n- डिजिटल साधक।</Extreme.description>
+  
+  <!-- EN: blood and dust -->
+  <Hard.label>खून और धूल</Hard.label>
+  <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to struggle to survive. -->
+  <Hard.description>कठिन अस्तित्व चुनौतियों का सामना करें। भले ही आप अच्छी तरह से खेलें, लोग मरेंगे। आपको खतरों के आने से पहले उनका अनुमान लगाना होगा, और हर लाभ की तलाश करनी होगी।\n\n(*अनुभाग शीर्षक)अनुशंसित:(/अनुभाग शीर्षक)\n\n- अनुभवी खिलाड़ी जो जीवित रहने के लिए संघर्ष चाहते हैं।</Hard.description>
+  
+  <!-- EN: adventure story -->
+  <Medium.label>साहसिक कहानी</Medium.label>
+  <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
+  <Medium.description>बढ़ने और पनपने की जगह है, लेकिन यह अभी भी एक खतरनाक ग्रह है।\n\n(अनुभाग शीर्षक)सिफारिश की जाती है: (अनुभाग शीर्षक)\n\n- अनुभवी रणनीति गेमर्स जो रिमवर्ल्ड का पहला गेम खेल रहे हैं।\n- अनुभवी रिमवर्ल्ड खिलाड़ी जो मज़ेदार या अजीब लक्ष्यों को आगे बढ़ाने के लिए कुछ जगह चाहते हैं।</Medium.description>
+  
+  <!-- EN: peaceful -->
+  <Peaceful.label>शांतिपूर्ण</Peaceful.label>
+  <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
+  <Peaceful.description>एक सैंडबॉक्स वातावरण में एक समुदाय का निर्माण करें। प्रमुख प्रत्यक्ष खतरे अक्षम हैं, लेकिन बीमारी, मानसिक टूटन और पागल जानवरों जैसी चुनौतियाँ अभी भी हो सकती हैं।\n\n(अनुभाग शीर्षक)सिफारिश की गई:(/अनुभाग शीर्षक)\n\n- वे खिलाड़ी जो कम से कम दबाव के साथ खेल यांत्रिकी सीखना चाहते हैं।\n- वे खिलाड़ी जो केवल निर्माण करना चाहते हैं।\n- वे खिलाड़ी जो केवल आराम करना चाहते हैं।</Peaceful.description>
+  
+  <!-- EN: strive to survive -->
+  <Rough.label>जीवित रहने का प्रयास</Rough.label>
+  <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want a rough story requiring skill to survive. -->
+  <Rough.description>कठोर, चुनौतीपूर्ण ग्रह पर जीवित रहने का प्रयास करें। विजय और त्रासदी दोनों होंगे।\n\n(*SectionTitle)अनुशंसित:(/SectionTitle)\n\n- अनुभवी खिलाड़ी जो एक कठिन कहानी चाहते हैं जिसके लिए जीवित रहने के लिए कौशल की आवश्यकता हो।</Rough.description>
+  
+</LanguageData>

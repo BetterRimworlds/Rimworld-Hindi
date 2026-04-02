@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bite -->
+  <Bite.label>काट</Bite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <Bite.deathMessage>{0} को काट-काट कर मार डाला गया।</Bite.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Blunt.label>कुंद</Blunt.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Blunt.deathMessage>{0} को पीट-पीटकर मार डाला गया है।</Blunt.deathMessage>
+  
+  <!-- EN: crush -->
+  <Crush.label>कुचलना</Crush.label>
+  <!-- EN: {0} has been crushed to death. -->
+  <Crush.deathMessage>{0} कुचलकर मारा गया।</Crush.deathMessage>
+  
+  <!-- EN: cut -->
+  <Cut.label>कट</Cut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <Cut.deathMessage>{0} को काटकर मार दिया गया है।</Cut.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Demolish.label>कुंद</Demolish.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Demolish.deathMessage>{0} को पीट-पीटकर मार डाला गया है।</Demolish.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Poke.label>कुंद</Poke.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Poke.deathMessage>{0} को पीट-पीटकर मार डाला गया है।</Poke.deathMessage>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>खरोंच</Scratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <Scratch.deathMessage>{0} को फाड़कर मार डाला गया है।</Scratch.deathMessage>
+  
+  <!-- EN: toxic scratch -->
+  <ScratchToxic.label>विषाक्त खरोंच</ScratchToxic.label>
+  <!-- EN: {0} has been torn to death. -->
+  <ScratchToxic.deathMessage>{0} को फाड़कर मार डाला गया है।</ScratchToxic.deathMessage>
+  
+  <!-- EN: stab -->
+  <Stab.label>घातक वार</Stab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <Stab.deathMessage>{0} को चाकू मार कर मार डाला गया है।</Stab.deathMessage>
+  
+  <!-- EN: toxic bite -->
+  <ToxicBite.label>विषाक्त काट</ToxicBite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <ToxicBite.deathMessage>{0} को काट-काट कर मार डाला गया।</ToxicBite.deathMessage>
+  
+</LanguageData>

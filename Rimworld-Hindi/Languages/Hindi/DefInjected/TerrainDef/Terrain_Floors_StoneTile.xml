@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granite flagstone -->
+  <FlagstoneGranite.label>ग्रेनाइट पट्टिका</FlagstoneGranite.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneGranite.description>कटे हुए पत्थर की टाइलें। ये सुंदर नहीं हैं, लेकिन ये सड़कों और बाहरी रास्तों के लिए अच्छी सतहें बनाती हैं। ध्वजाश्म को नष्ट करने से कोई संसाधन नहीं मिलते।</FlagstoneGranite.description>
+  
+  <!-- EN: limestone flagstone -->
+  <FlagstoneLimestone.label>चूना पत्थर</FlagstoneLimestone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneLimestone.description>कटे हुए पत्थर की टाइलें। ये सुंदर नहीं हैं, लेकिन ये सड़कों और बाहरी रास्तों के लिए अच्छी सतहें बनाती हैं। ध्वजाश्म को नष्ट करने से कोई संसाधन नहीं मिलते।</FlagstoneLimestone.description>
+  
+  <!-- EN: marble flagstone -->
+  <FlagstoneMarble.label>संगमरमर पट्टिका</FlagstoneMarble.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneMarble.description>कटे हुए पत्थर की टाइलें। ये सुंदर नहीं हैं, लेकिन ये सड़कों और बाहरी रास्तों के लिए अच्छी सतहें बनाती हैं। ध्वजाश्म को नष्ट करने से कोई संसाधन नहीं मिलते।</FlagstoneMarble.description>
+  
+  <!-- EN: sandstone flagstone -->
+  <FlagstoneSandstone.label>बलुआ पत्थर</FlagstoneSandstone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSandstone.description>कटे हुए पत्थर की टाइलें। ये सुंदर नहीं हैं, लेकिन ये सड़कों और बाहरी रास्तों के लिए अच्छी सतहें बनाती हैं। ध्वजाश्म को नष्ट करने से कोई संसाधन नहीं मिलते।</FlagstoneSandstone.description>
+  
+  <!-- EN: slate flagstone -->
+  <FlagstoneSlate.label>स्लेट पत्थर</FlagstoneSlate.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSlate.description>कटे हुए पत्थर की टाइलें। ये सुंदर नहीं हैं, लेकिन ये सड़कों और बाहरी रास्तों के लिए अच्छी सतहें बनाती हैं। ध्वजाश्म को नष्ट करने से कोई संसाधन नहीं मिलते।</FlagstoneSlate.description>
+  
+  <!-- EN: granite tile -->
+  <TileGranite.label>ग्रेनाइट टाइल</TileGranite.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileGranite.description>बारीक कटे और फिट किए गए पत्थर के टाइल, जो महल जैसा अनुभव कराते हैं। वे देखने में सुंदर हैं, लेकिन उन्हें लगाने में लंबा समय लगता है।</TileGranite.description>
+  
+  <!-- EN: limestone tile -->
+  <TileLimestone.label>चूना पत्थर टाइल</TileLimestone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileLimestone.description>बारीक कटे और फिट किए गए पत्थर के टाइल, एक किले जैसा एहसास कराते हैं। वे देखने में सुंदर हैं, लेकिन उन्हें बिछाने में लंबा समय लगता है।</TileLimestone.description>
+  
+  <!-- EN: marble tile -->
+  <TileMarble.label>संगमरमर टाइल</TileMarble.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileMarble.description>बारीक कटे और फिट किए गए पत्थर के टाइल, एक किले जैसा एहसास कराते हैं। वे देखने में सुंदर हैं, लेकिन उन्हें बिछाने में लंबा समय लगता है।</TileMarble.description>
+  
+  <!-- EN: sandstone tile -->
+  <TileSandstone.label>बालू पत्थर टाइल</TileSandstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSandstone.description>बारीक कटे और फिट किए गए पत्थर के टाइल, एक किले जैसा एहसास कराते हैं। वे देखने में सुंदर हैं, लेकिन उन्हें बिछाने में लंबा समय लगता है।</TileSandstone.description>
+  
+  <!-- EN: slate tile -->
+  <TileSlate.label>स्लेट टाइल</TileSlate.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSlate.description>बारीक कटे और फिट किए गए पत्थर के टाइल, एक किले जैसा एहसास कराते हैं। वे देखने में सुंदर हैं, लेकिन उन्हें बिछाने में लंबा समय लगता है।</TileSlate.description>
+  
+</LanguageData>

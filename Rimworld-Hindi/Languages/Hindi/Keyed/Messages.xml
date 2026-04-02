@@ -1,0 +1,870 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
+  <MessageSiegersAssaulting>{0} से घेराबंदी करने वाले {1} कॉलोनी पर हमला कर रहे हैं।</MessageSiegersAssaulting>
+
+  <!-- EN: {0} from {1} are beginning their assault. -->
+  <MessageRaidersBeginningAssault>{0} से {1} हमला शुरू कर रहे हैं।</MessageRaidersBeginningAssault>
+  <!-- EN: {0} from {1} have detected you and begun their assault early. -->
+  <MessageRaidersDetectedEarlyAssault>{0} से {1} ने आपको पहचान लिया है और समय से पहले ही हमला शुरू कर दिया है।</MessageRaidersDetectedEarlyAssault>
+  <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
+  <MessageRaidersKidnapping>{0} से {1} ने अपहरण करने योग्य लोगों का अपहरण करने और चले जाने का फैसला किया है।</MessageRaidersKidnapping>
+  <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
+  <MessageRaidersStealing>{0} से {1} ने चोरी करने और चले जाने का फैसला किया है।</MessageRaidersStealing>
+
+  <!-- EN: The mechanoids sense no more targets and are moving on. -->
+  <MechanoidsMovingOn>मेकैनॉइड्स को अब कोई लक्ष्य नहीं दिख रहा है और वे आगे बढ़ रहे हैं।</MechanoidsMovingOn>
+
+  <!-- EN: {0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}. -->
+  <MessageCaravanDetectedRaidArrived>{0} से {1} आ गए हैं और हमला कर रहे हैं! और आ रहे हैं और {2} में पहुंचेंगे।</MessageCaravanDetectedRaidArrived>
+
+  <!-- EN: {0} from {1} are leaving. -->
+  <MessageRaidersLeaving>{0} {1} से जा रहे हैं।</MessageRaidersLeaving>
+  <!-- EN: {0} from {1} have given up and are leaving. -->
+  <MessageRaidersGivenUpLeaving>{0} से {1} ने हार मान ली है और जा रहे हैं।</MessageRaidersGivenUpLeaving>
+  <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
+  <MessageRaidersSatisfiedLeaving>{0} से {1} संतुष्ट हैं कि नुकसान हो गया है और वे जा रहे हैं।</MessageRaidersSatisfiedLeaving>
+
+  <!-- EN: {0} from {1} are fleeing. -->
+  <MessageFightersFleeing>{0} से {1} भाग रहे हैं।</MessageFightersFleeing>
+  <!-- EN: Friendly {0} from {1} are leaving. -->
+  <MessageFriendlyFightersLeaving>दोस्ताना {0} {1} से जा रहे हैं।</MessageFriendlyFightersLeaving>
+
+  <!-- EN: {0} from {1} are taking a wounded guest. -->
+  <MessageVisitorsTakingWounded>{0} से {1} एक घायल अतिथि ले जा रहे हैं।</MessageVisitorsTakingWounded>
+  <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
+  <MessageVisitorsTrappedLeaving>{1} से {0} फँस गए हैं और बचने के लिए खोद रहे हैं।</MessageVisitorsTrappedLeaving>
+  <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
+  <MessageVisitorsDangerousTemperature>{0} {1} से खतरनाक तापमान के कारण मानचित्र छोड़ रहे हैं।</MessageVisitorsDangerousTemperature>
+  <!-- EN: {0} from {1} are leaving the map because of dangerous weather. -->
+  <MessageVisitorsAnomalousWeather>{0} {1} से खतरनाक मौसम के कारण मानचित्र छोड़ रहे हैं।</MessageVisitorsAnomalousWeather>
+  <!-- EN: {0} from {1} are leaving the map because of dangerous conditions. -->
+  <MessageVisitorsDangerousConditions>{0} {1} से खतरनाक परिस्थितियों के कारण मानचित्र छोड़ रहे हैं।</MessageVisitorsDangerousConditions>
+
+  <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
+  <MessageWornApparelDeterioratedAway>{0} जो {1_nameFull} ने पहना था, पूरी तरह से नष्ट हो गया।</MessageWornApparelDeterioratedAway>
+  <!-- EN: {0} has deteriorated away in storage. -->
+  <MessageDeterioratedAway>{0} भंडारण में सड़ गया।</MessageDeterioratedAway>
+
+  <!-- EN: {0} has begun. -->
+  <MessageSeasonBegun>{0} शुरू हो गया।</MessageSeasonBegun>
+
+  <!-- EN: {0} has left comms range. -->
+  <MessageShipHasLeftCommsRange>{0} संचार सीमा से बाहर है।</MessageShipHasLeftCommsRange>
+
+  <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
+  <MessageNeedBeaconToTradeWithShip>बिजली से चलने वाला कक्षीय व्यापार बीकन व्यापार के लिए जहाज से संपर्क करने हेतु आवश्यक है।</MessageNeedBeaconToTradeWithShip>
+  <!-- EN: Caller must have the title of {0_label} or higher. -->
+  <MessageNeedRoyalTitleToCallWithShip>कॉल करने वाले के पास {0_label} पद या उससे ऊपर का पद होना चाहिए।</MessageNeedRoyalTitleToCallWithShip>
+
+  <!-- EN: {0} has been destroyed. -->
+  <MessageConditionCauserDespawned>{0} नष्ट हो गया।</MessageConditionCauserDespawned>
+  
+  <!-- EN: Bill complete: {0}. -->
+  <MessageBillComplete>बिल पूरा: {0}.</MessageBillComplete>
+
+  <!-- EN: {1_label} is fully healed. -->
+  <MessageFullyHealed>{1_label} पूरी तरह से ठीक हो गया।</MessageFullyHealed>
+
+  <!-- EN: Prisoner {1_labelShort} is escaping. -->
+  <MessagePrisonerIsEscaping>कैदी {1_labelShort} भाग रहा है।</MessagePrisonerIsEscaping>
+
+  <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
+  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} को {GUN_label} के लिए पास में कोई आरक्षित न किया गया खोल नहीं मिला।</MessageOutOfNearbyShellsFor>
+  <!-- EN: {PAWN_labelShort} found no nearby unreserved {FUEL} for {GUN_label}. -->
+  <MessageOutOfNearbyFuelFor>{PAWN_labelShort} को {GUN_label} के लिए पास में कोई आरक्षित न किया हुआ {FUEL} नहीं मिला।</MessageOutOfNearbyFuelFor>
+
+  <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
+  <MessageAnimalsGoPsychoHunted>चेतावनी: {ANIMAL_kindBasePlural} को चोट लगने पर हमला करने की {1} आधार संभावना है। संभावना दूरी और शिकारी की गुप्तता स्थिति पर निर्भर करती है।</MessageAnimalsGoPsychoHunted>
+  <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
+  <MessageAnimalManhuntsOnTameFailed>चेतावनी: असफल पालतू बनाने के प्रयासों पर {1} संभावना है कि {ANIMAL_kindBasePlural} हमला कर सकते हैं।</MessageAnimalManhuntsOnTameFailed>
+  <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
+  <MessageInsectTameDesignated>केवल कीड़ों के प्रति सहानुभूति वाले ही {INSECT_indefinite} को पाल सकते हैं।</MessageInsectTameDesignated>
+  <!-- EN: No colonists are assigned to hunt. -->
+  <MessageNoHuntersAvailable>कोई उपनिवेशवादी शिकार के लिए नियुक्त नहीं हैं।</MessageNoHuntersAvailable>
+  <!-- EN: No hunter has a valid hunting weapon. Equip a hunter with a suitable ranged weapon. -->
+  <MessageNoHuntersWithProperWeapon>कोई शिकारी के पास वैध शिकार हथियार नहीं है। किसी शिकारी को उपयुक्त दूरी का हथियार से लैस करें।</MessageNoHuntersWithProperWeapon>
+
+  <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
+  <MessageInsectsHostileOnTaming>चेतावनी: {PAWN_labelShort} शत्रुतापूर्ण है और आपके उपनिवेशवादी द्वारा पालतू बनाने की कोशिश करते समय हमला करेगा।</MessageInsectsHostileOnTaming>
+  
+  <!-- EN: New recruit -->
+  <LetterLabelMessageRecruitSuccess>नया भर्ती</LetterLabelMessageRecruitSuccess>
+  <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull}. -->
+  <MessageRecruitSuccess>{RECRUITER_nameFull} ने सफलतापूर्वक {RECRUITEE_nameFull} की भर्ती की।</MessageRecruitSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. -->
+  <MessageTameSuccess>{RECRUITER_labelShort} ने सफलतापूर्वक {1} को पाल लिया।</MessageTameSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. It is now called {RECRUITEE_nameFull}. -->
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} ने सफलतापूर्वक {1} पालतू बनाया। अब इसे {RECRUITEE_nameFull} कहा जाता है।</MessageTameAndNameSuccess>
+  <!-- EN: There is no suitable animal pen for {ANIMAL_labelShort}. It will eventually roam away. -->
+  <MessageTameNoSuitablePens>उपयुक्त पशु बाड़ा {ANIMAL_labelShort} के लिए उपलब्ध नहीं है। यह अंततः भटक जाएगा।</MessageTameNoSuitablePens>
+  <!-- EN: {RECRUITEE} has joined your colony. -->
+  <MessageRecruitJoinOfferAccepted>{RECRUITEE} आपकी बस्ती में शामिल हुआ/हुई।</MessageRecruitJoinOfferAccepted>
+
+  <!-- EN: The colony cannot afford this deal. -->
+  <MessageColonyCannotAfford>कॉलोनी इस सौदे को वहन नहीं कर सकती।</MessageColonyCannotAfford>
+  <!-- EN: You do not have enough silver ready to trade. -->
+  <MessageColonyNotEnoughSilver>आपके पास व्यापार के लिए पर्याप्त चांदी तैयार नहीं है।</MessageColonyNotEnoughSilver>
+
+  <!-- EN: Critical alert: {0} -->
+  <MessageCriticalAlert>गंभीर सूचना: {0}</MessageCriticalAlert>
+
+  <!-- EN: Must designate harvestable sufficiently-grown plants. -->
+  <MessageMustDesignateHarvestable>पर्याप्त रूप से विकसित होने वाले पौधों को कटाई के लिए नामित करें।</MessageMustDesignateHarvestable>
+  <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
+  <MessageMustDesignateHarvestableWood>लकड़ी देने वाले, पर्याप्त रूप से विकसित पौधों को नामित करें।</MessageMustDesignateHarvestableWood>
+  <!-- EN: Prevent cutting is enabled for this plant. -->
+  <MessageMustPlantCuttingForbidden>इस पौधे के लिए कटाई रोकना सक्रिय है।</MessageMustPlantCuttingForbidden>
+  <!-- EN: Must designate plants. -->
+  <MessageMustDesignatePlants>पौधे निर्दिष्ट करें।</MessageMustDesignatePlants>
+  <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
+  <MessageMustDesignateHaulable>ज़रूरी नियम:\nमाल ढोने योग्य वस्तुओं को निर्दिष्ट करना होगा। कुछ वस्तुएं हमेशा माल ढोने योग्य होती हैं और उन्हें निर्दिष्ट नहीं किया जा सकता।</MessageMustDesignateHaulable>
+  <!-- EN: Must designate impassable mineable rocks. -->
+  <MessageMustDesignateMineable>अनिवार्य रूप से अगम्य खनन योग्य चट्टानों को निर्दिष्ट करें।</MessageMustDesignateMineable>
+  <!-- EN: Must designate huntable animals. -->
+  <MessageMustDesignateHuntable>शिकार योग्य जानवरों को नामित करना होगा।</MessageMustDesignateHuntable>
+  <!-- EN: Must designate tameable animals. -->
+  <MessageMustDesignateTameable>पालतू बनाए जा सकने वाले जानवरों को नामित करना होगा।</MessageMustDesignateTameable>
+  <!-- EN: Must designate abandoned claimable structures or items. -->
+  <MessageMustDesignateClaimable>निर्दिष्ट परित्यक्त दावा करने योग्य संरचनाएं या वस्तुएं।</MessageMustDesignateClaimable>
+  <!-- EN: Must designate paintable buildings not already painted {0_label}. -->
+  <MessageMustDesignatePaintableBuildings>पेंट करने योग्य इमारतों को नामित करना ज़रूरी है जो पहले से पेंट नहीं की गई हैं {0_label}.</MessageMustDesignatePaintableBuildings>
+  <!-- EN: Must designate paintable floors which are not already painted {0_label}. -->
+  <MessageMustDesignatePaintableFloors>पेंट करने योग्य फर्शों को नामित करना ज़रूरी है जो पहले से पेंट नहीं किए गए हैं {0_label}.</MessageMustDesignatePaintableFloors>
+  <!-- EN: Must designate painted buildings or floors. -->
+  <MessageMustDesignatePainted>चित्रित इमारतों या फर्शों को नामित करना होगा।</MessageMustDesignatePainted>
+  <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
+  <MessageMustDesignateDeconstructibleMechCluster>मैक क्लस्टर को नष्ट करने के बाद ही आप उसे विघटित कर सकते हैं।</MessageMustDesignateDeconstructibleMechCluster>
+  <!-- EN: Must designate rough stone surfaces. -->
+  <MessageMustDesignateSmoothableSurface>कठोर पत्थर की सतहों को निर्दिष्ट करना होगा।</MessageMustDesignateSmoothableSurface>
+  <!-- EN: Must designate rough stone terrain. -->
+  <MessageMustDesignateSmoothableFloor>कठोर पत्थर वाली भूमि निर्दिष्ट करनी होगी।</MessageMustDesignateSmoothableFloor>
+  <!-- EN: Must designate rough stone wall. -->
+  <MessageMustDesignateSmoothableWall>कच्ची पत्थर की दीवार निर्दिष्ट करनी होगी।</MessageMustDesignateSmoothableWall>
+  <!-- EN: Nothing can remove thick roofs. -->
+  <MessageNothingCanRemoveThickRoofs>मोटी छतें हटाई नहीं जा सकतीं।</MessageNothingCanRemoveThickRoofs>
+  <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
+  <MessageAlreadyInStorage>यह भंडारण में है और आवश्यकतानुसार उच्च-प्राथमिकता वाले भंडारण में ले जाया जाएगा।</MessageAlreadyInStorage>
+  <!-- EN: Must designate corpse or downed character with strippable apparel. -->
+  <MessageMustDesignateStrippable>शरीर या गिरे हुए पात्र को छीनने योग्य वस्त्रों से चिन्हित करें।</MessageMustDesignateStrippable>
+  <!-- EN: Must designate tame animal that belongs to the colony. -->
+  <MessageMustDesignateSlaughterable>कॉलोनी से संबंधित पालतू जानवर को नामित करना होगा।</MessageMustDesignateSlaughterable>
+  <!-- EN: Must designate full graves or containers. -->
+  <MessageMustDesignateOpenable>पूर्ण कब्रों या कंटेनरों को नामित करना होगा।</MessageMustDesignateOpenable>
+  <!-- EN: Must designate unforbidden items. -->
+  <MessageMustDesignateForbiddable>अनिवार्य रूप से निषिद्ध वस्तुओं को निर्दिष्ट करें।</MessageMustDesignateForbiddable>
+  <!-- EN: Must designate forbidden items. -->
+  <MessageMustDesignateUnforbiddable>निश्चित रूप से निषिद्ध वस्तुओं को नामित करें।</MessageMustDesignateUnforbiddable>
+  <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
+  <MessageCannotClaimWhenPawnThreatsAreNear>दावा नहीं कर सकते {CLAIMABLE_labelShort} जब आसपास युद्ध-सक्षम {THREAT_factionPawnsPlural} हों।</MessageCannotClaimWhenPawnThreatsAreNear>
+  <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
+  <MessageCannotAdoptWhilePawnThreatsAreNear>{CLAIMABLE_labelShort} को गोद नहीं ले सकते जब आस-पास युद्ध-सक्षम {THREAT_factionPawnsPlural} हों।</MessageCannotAdoptWhilePawnThreatsAreNear>
+  <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there is {THREAT} nearby. -->
+  <MessageCannotClaimWhenThreatsAreNear>दावा नहीं कर सकते {CLAIMABLE_labelShort} जब पास में {THREAT} हो।</MessageCannotClaimWhenThreatsAreNear>
+  <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there is {THREAT} nearby. -->
+  <MessageCannotAdoptWhileThreatsAreNear>{CLAIMABLE_labelShort} को गोद नहीं ले सकते जब पास में {THREAT} हो।</MessageCannotAdoptWhileThreatsAreNear>
+  <!-- EN: Cannot remove foundation that supports a building. -->
+  <MessageCannotRemoveSupportingFoundation>इमारत को सहारा देने वाली नींव नहीं हटाई जा सकती।</MessageCannotRemoveSupportingFoundation>
+
+  <!-- EN: {1_labelShort} has refused to be arrested! -->
+  <MessageRefusedArrest>{1_labelShort} को गिरफ्तार होने से इनकार है!</MessageRefusedArrest>
+  
+  <!-- EN: There are no medical beds available. -->
+  <MessageNoMedicalBeds>चिकित्सा बिस्तर उपलब्ध नहीं हैं।</MessageNoMedicalBeds>
+  <!-- EN: There are no animal beds available. -->
+  <MessageNoAnimalBeds>पशु शैय्या उपलब्ध नहीं हैं।</MessageNoAnimalBeds>
+  <!-- EN: Warning: {PAWN_nameDef}'s medicine restriction ({RESTRICTIONLABEL}) prevents doing this operation. Consider changing {PAWN_possessive} medicine restriction. -->
+  <MessageWarningNoMedicineForRestriction>चेतावनी: {PAWN_nameDef} की दवा प्रतिबंध ({RESTRICTIONLABEL}) इस ऑपरेशन को करने से रोकता है। {PAWN_possessive} दवा प्रतिबंध बदलने पर विचार करें।</MessageWarningNoMedicineForRestriction>
+  
+  <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
+  <PawnDiedBecauseOf>{PAWN_labelShort} की मृत्यु हो गई। कारण: {1}।</PawnDiedBecauseOf>
+  <!-- EN: {1_labelShort} has died. -->
+  <PawnDied>{1_labelShort} का निधन।</PawnDied>
+
+  <!-- EN: {1_label} is no longer incapable of walking. -->
+  <MessageNoLongerDowned>{1_label} अब चलने में असमर्थ नहीं है।</MessageNoLongerDowned>
+
+  <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
+  <MessageInvoluntarySleep>{1_labelShort} अत्यधिक थकान के कारण गिर गया/गई।</MessageInvoluntarySleep>
+
+  <!-- EN: This operation will anger {0}. -->
+  <MessageMedicalOperationWillAngerFaction>यह क्रिया {0} को क्रोधित करेगी।</MessageMedicalOperationWillAngerFaction>
+
+  <!-- EN: {PAWN_nameDef} is pregnant! -->
+  <MessageAnimalIsPregnant>{PAWN_nameDef} गर्भवती है!</MessageAnimalIsPregnant>
+  <!-- EN: {0} has miscarried due to starvation. -->
+  <MessageMiscarriedStarvation>{0} भूख से गर्भपात हो गया।</MessageMiscarriedStarvation>
+  <!-- EN: {0} has miscarried due to poor health. -->
+  <MessageMiscarriedPoorHealth>{0} को खराब स्वास्थ्य के कारण गर्भपात हो गया है।</MessageMiscarriedPoorHealth>
+  <!-- EN: {0} has given birth. -->
+  <MessageGaveBirth>{0} ने जन्म दिया।</MessageGaveBirth>
+  
+  <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
+  <MessagePsylinkNoSensitivity>{PAWN_labelShort} साइकलिंक का उपयोग करने में सक्षम नहीं होगा क्योंकि {PAWN_pronoun} में शून्य मानसिक संवेदनशीलता है।</MessagePsylinkNoSensitivity>
+  <!-- EN: {PAWN_labelShort} has lost a {1} implant level due to {2}. -->
+  <MessageLostImplantLevelFromHediff>{PAWN_labelShort} ने {2} के कारण एक {1} इम्प्लांट स्तर खो दिया है।</MessageLostImplantLevelFromHediff>
+  <!-- EN: {PAWN_labelShort} has suffered {1} points of brain damage due to {2}. -->
+  <MessageReceivedBrainDamageFromHediff>{PAWN_labelShort} को {2} के कारण {1} मस्तिष्क क्षति हुई है।</MessageReceivedBrainDamageFromHediff>
+  <!-- EN: {PAWN_labelShort} has exceeded the normal limit of neural heat. -->
+  <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort} ने सामान्य तंत्रिका ताप सीमा पार कर ली है।</MessageWentOverPsychicEntropyLimit>
+
+  <!-- EN: No handler capable of taming {ANIMAL_kindBase} (requires level {1} in {2}, best capable handler {HANDLER_labelShort} has {4}). -->
+  <MessageNoHandlerSkilledEnough>कोई भी हैंडलर {2} में स्तर {1} के साथ {ANIMAL_kindBase} को पालने में सक्षम नहीं है (सर्वश्रेष्ठ सक्षम हैंडलर {HANDLER_labelShort} के पास {4} है)।</MessageNoHandlerSkilledEnough>
+  
+  <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
+  <MessageEatenByPredator>{EATEN_labelShort} को {PREDATOR} ने खा लिया है।</MessageEatenByPredator>
+  <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
+  <MessageAttackedByPredator>{PREY_labelShort} पर {PREDATOR} द्वारा हमला किया जा रहा है!</MessageAttackedByPredator>
+
+  <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
+  <MessageRoamerLeaving>{PAWN_labelShort} भटकना शुरू कर दिया है! {PAWN_pronoun} नक्शे को छोड़ देगा जब तक कोई पशुपालक {PAWN_objective} को वापस बाड़े में न ले आए।</MessageRoamerLeaving>
+
+  <!-- EN: A bug hive has reproduced itself. -->
+  <MessageHiveReproduced>कीटों का छत्ता स्वयं को पुन: उत्पन्न कर लिया है।</MessageHiveReproduced>
+  
+  <!-- EN: The trade caravan from {0} is leaving. -->
+  <MessageTraderCaravanLeaving>{0} से आने वाला व्यापार कारवां जा रहा है।</MessageTraderCaravanLeaving>
+  <!-- EN: The trade caravan from {0} has been dismissed. -->
+  <MessageTraderCaravanDismissed>{0} से व्यापार कारवाँ को खारिज कर दिया गया है।</MessageTraderCaravanDismissed>
+
+  <!-- EN: {1_labelShort} is dead. -->
+  <MessageCantSelectDeadPawn>{1_labelShort} मर गया।</MessageCantSelectDeadPawn>
+  <!-- EN: {1_labelShort} is off the map. -->
+  <MessageCantSelectOffMapPawn>{1_labelShort} मानचित्र से बाहर है।</MessageCantSelectOffMapPawn>
+  
+  <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
+  <MessageSocialFight>{PAWN1_labelShort} ने {PAWN2_labelShort} के साथ सामाजिक झगड़ा शुरू किया।</MessageSocialFight>
+  
+  <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}'s marriage. -->
+  <MessageNewMarriageCeremony>कॉलोनिस्ट {PAWN1_labelShort} और {PAWN2_labelShort} के विवाह का जश्न मनाने के लिए एकत्रित हो रहे हैं।</MessageNewMarriageCeremony>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
+  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} और {PAWN2_labelShort} विवाह समारोह शुरू कर रहे हैं!</MessageMarriageCeremonyStarts>
+  <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
+  <MessageMarriageCeremonyCalledOff>{PAWN1_labelShort} और {PAWN2_labelShort} की विवाह समारोह रद्द कर दी गई है।</MessageMarriageCeremonyCalledOff>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
+  <MessageNewlyMarried>{PAWN1_labelShort} और {PAWN2_labelShort} ने विवाह किया। उपनिवेशवादी अब इस अवसर का जश्न मना रहे हैं।</MessageNewlyMarried>
+  <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
+  <MessageMarriageCeremonyAfterPartyFinished>{PAWN1_labelShort} और {PAWN2_labelShort} की विवाह ceremony समाप्त हो गई।</MessageMarriageCeremonyAfterPartyFinished>
+  
+  <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
+  <MessageNewBondRelation>{HUMAN_labelShort} और {ANIMAL_labelShort} ने बंधन बनाया है।</MessageNewBondRelation>
+  <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
+  <MessageNewBondRelationNewName>{HUMAN_labelShort} और {1} ने बंधन बना लिया है। {HUMAN_labelShort} ने {ANIMAL_objective} को {ANIMAL_nameFull} नाम दिया है।</MessageNewBondRelationNewName>
+  
+  <!-- EN: {ANIMAL} has had a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageBondedAnimalMentalBreak>{ANIMAL} को {HUMAN_labelShort} की मृत्यु के कारण मानसिक आघात हुआ है।</MessageBondedAnimalMentalBreak>
+  <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has had a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} नामक {ANIMAL_label} को {HUMAN_labelShort} की मृत्यु के कारण मानसिक आघात हुआ है।</MessageNamedBondedAnimalMentalBreak>
+  <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
+  <MessageBondedAnimalsMentalBreak>{0} जानवर किसी व्यक्ति के मरने से मानसिक रूप से टूट जाते हैं।</MessageBondedAnimalsMentalBreak>
+  
+  <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
+  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} ने सफलतापूर्वक {PATIENT_labelShort} की {HEDIFF} हटाई।</MessageSuccessfullyRemovedHediff>
+  
+  <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
+  <MessageShipChunkDrop>अंतरिक्ष यान के टुकड़े पास में गिरे हैं। आप उन्हें संसाधन प्राप्त करने के लिए नष्ट कर सकते हैं।</MessageShipChunkDrop>
+
+  <!-- EN: Some items cannot be traded because of: -->
+  <MessageCannotSellItemsReason>कुछ वस्तुएँ निम्न कारणों से व्यापार योग्य नहीं हैं:</MessageCannotSellItemsReason>
+
+  <!-- EN: {WORKER_labelShort} failed while constructing a {0}. Some resources have been wasted. -->
+  <MessageConstructionFailed>{WORKER_labelShort} {0} बनाते समय विफल रहा। कुछ संसाधन बर्बाद हो गए हैं।</MessageConstructionFailed>
+
+  <!-- EN: Screenshot saved as: {0} -->
+  <MessageScreenshotSavedAs>स्क्रीनशॉट {0} के रूप में सहेजा गया।</MessageScreenshotSavedAs>
+  
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
+  <MessageNoLongerSocialFighting>{PAWN1_labelShort} और {PAWN2_labelShort} अब सामाजिक लड़ाई नहीं कर रहे हैं।</MessageNoLongerSocialFighting>
+  
+  <!-- EN: {2_labelShort} is no longer binging on {1}. -->
+  <MessageNoLongerBingingOnDrug>{2_labelShort} अब {1} पर अत्यधिक सेवन नहीं कर रहा है।</MessageNoLongerBingingOnDrug>
+
+  <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
+  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} अब {TARGET_label} के खिलाफ अपमानजनक बातें कहना बंद कर दिया है।</MessageNoLongerOnTargetedInsultingSpree>
+
+  <!-- EN: {1_label} has rotted away in storage. -->
+  <MessageRottedAwayInStorage>{1_label} भंडारण में सड़ गया।</MessageRottedAwayInStorage>
+  
+  <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
+  <MessageFoodPoisoning>{PAWN_labelShort} को {FOOD_labelShort} से फूड पॉइज़निंग हो गई है। कारण: {2}।</MessageFoodPoisoning>
+  
+  <!-- EN: {0} has been removed from the caravan. -->
+  <MessagePawnLostWhileFormingCaravan>{0} को कारवां से हटा दिया गया है।</MessagePawnLostWhileFormingCaravan>
+  <!-- EN: The caravan formation process has been terminated. -->
+  <MessagePawnLostWhileFormingCaravan_AllLost>कारवां गठन प्रक्रिया समाप्त कर दी गई है।</MessagePawnLostWhileFormingCaravan_AllLost>
+  <!-- EN: No colonist capable of forming caravan. The caravan formation process has been terminated. -->
+  <MessageForceSendingCaravan_AllLost>कोई उपनिवेशवादी कारवां बनाने में सक्षम नहीं है। कारवां निर्माण प्रक्रिया समाप्त कर दी गई है।</MessageForceSendingCaravan_AllLost>
+  <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
+  <MessageCaravanFormationPaused>दल गठन प्रक्रिया सभी के मानसिक टूटने से उबरने पर जारी रहेगी।</MessageCaravanFormationPaused>
+  <!-- EN: Your colonists will now continue forming a caravan. -->
+  <MessageCaravanFormationUnpaused>आपके उपनिवेशवादी अब कारवां बनाना जारी रखेंगे।</MessageCaravanFormationUnpaused>
+  
+  <!-- EN: One of the caravan members has had a mental break. -->
+  <MessageCaravanMemberHasExtremeMentalBreak>एक कारवां सदस्य को मानसिक विघटन हुआ है।</MessageCaravanMemberHasExtremeMentalBreak>
+  
+  <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
+  <MessageMaxPlanetCoveragePerformanceWarning>चेतावनी: पूरे ग्रह को उत्पन्न करने में बहुत लंबा समय लग सकता है।</MessageMaxPlanetCoveragePerformanceWarning>
+
+  <!-- EN: {0} has died because of cold. -->
+  <MessagePlantDiedOfCold>{0} ठंड से मर गया।</MessagePlantDiedOfCold>
+  <!-- EN: {0} has died from rotting due to being left unharvested. -->
+  <MessagePlantDiedOfRot_LeftUnharvested>{0} सड़ने से मरा क्योंकि इसे काटा नहीं गया था।</MessagePlantDiedOfRot_LeftUnharvested>
+  <!-- EN: {0} has died due to being exposed to light. -->
+  <MessagePlantDiedOfRot_ExposedToLight>{0} प्रकाश के संपर्क में आने से मर गया।</MessagePlantDiedOfRot_ExposedToLight>
+  <!-- EN: {0} has died from rotting. -->
+  <MessagePlantDiedOfRot>{0} सड़ने से मर गया।</MessagePlantDiedOfRot>
+  <!-- EN: {0} has died because of poison. -->
+  <MessagePlantDiedOfPoison>{0} ज़हर के कारण मर गया।</MessagePlantDiedOfPoison>
+  <!-- EN: {1_label} has died because of blight. -->
+  <MessagePlantDiedOfBlight>{1_label} ब्लइट के कारण मर गया/गई।</MessagePlantDiedOfBlight>
+
+  <!-- EN: {1_labelShort} is being burned by superheated air! -->
+  <MessagePawnBeingBurned>{1_labelShort} गर्म हवा से जल रहा है!</MessagePawnBeingBurned>
+
+  <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
+  <MessageAccidentalOverdose>{INGESTER} ने {DRUG_labelShort} का सेवन करते समय गलती से ओवरडोज कर लिया!</MessageAccidentalOverdose>
+  
+  <!-- EN: {0} has arrived at its destination. -->
+  <MessageCaravanArrivedAtDestination>{0} अपने गंतव्य पर पहुँच गया।</MessageCaravanArrivedAtDestination>
+  
+  <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} क्षेत्र छोड़ गया है और एक कारवां बनाया है।</MessagePawnLeftMapAndCreatedCaravan>
+  <!-- EN: Your animals are moving to join it. -->
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>आपके जानवर इसमें शामिल होने के लिए जा रहे हैं।</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  
+  <!-- EN: You have successfully settled in a new area. -->
+  <MessageSettledInExistingMap>आपने एक नए क्षेत्र में सफलतापूर्वक बसेरा किया है।</MessageSettledInExistingMap>
+  
+  <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
+  <MessagePermanentWoundHealed>{PAWN_labelShort} का {2} ठीक हो गया है। कारण: {0}</MessagePermanentWoundHealed>
+  
+  <!-- EN: [PAWN_nameDef] has recovered and decided to leave. -->
+  <MessageRescueeDidntJoin>[PAWN_nameDef] ठीक हो गया है और जाने का फैसला किया है।</MessageRescueeDidntJoin>
+  
+  <!-- EN: Some transport pods are unreachable. -->
+  <MessageTransporterUnreachable>कुछ परिवहन पॉड अप्राप्य हैं।</MessageTransporterUnreachable>
+  <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
+  <MessageTransportersNotAdjacent>चुने हुए परिवहन पॉड से जुड़े सभी पॉड लांचर आसन्न होने चाहिए।</MessageTransportersNotAdjacent>
+  
+  <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
+  <MessageTransportersLoadCanceled_TransporterDestroyed>लोडिंग प्रक्रिया रद्द कर दी गई है क्योंकि एक परिवहन पॉड नष्ट हो गया है।</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <!-- EN: The loading process has been canceled because the shuttle has been destroyed. -->
+  <MessageTransporterSingleLoadCanceled_TransporterDestroyed>लोडिंग प्रक्रिया रद्द कर दी गई है क्योंकि शटल नष्ट हो गया है।</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
+  <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>लोडिंग प्रक्रिया रद्द कर दी गई है क्योंकि एक पॉड लांचर नष्ट हो गया है।</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  
+  <!-- EN: Assigned items and people will now be loaded into the transport pods. -->
+  <MessageTransportersLoadingProcessStarted>नियुक्त वस्तुएं और लोग अब परिवहन पॉड में लोड किए जाएंगे।</MessageTransportersLoadingProcessStarted>
+  <!-- EN: Assigned items and people will now be loaded into the transport pod. -->
+  <MessageTransporterSingleLoadingProcessStarted>नियुक्त वस्तुएं और लोग अब परिवहन पॉड में लोड किए जाएंगे।</MessageTransporterSingleLoadingProcessStarted>
+  <!-- EN: Assigned items and people will now be loaded into the shuttle. -->
+  <MessageShuttleLoadingProcessStarted>नियुक्त वस्तुएं और लोग अब शटल में लाद दिए जाएंगे।</MessageShuttleLoadingProcessStarted>
+
+  <!-- EN: Your transport pods have arrived. -->
+  <MessageTransportPodsArrived>आपके परिवहन पॉड आ गए हैं।</MessageTransportPodsArrived>
+  <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
+  <MessageTransportPodsArrivedAndLost>आपके परिवहन पॉड आ गए हैं, लेकिन चूंकि अंदर कोई उपनिवेशवादी नहीं थे, इसलिए सामग्री खो गई।</MessageTransportPodsArrivedAndLost>
+  <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
+  <MessageTransportPodsArrivedAndAddedToCaravan>आपके परिवहन पॉड आ गए हैं। सामग्री को {0} में जोड़ा गया है।</MessageTransportPodsArrivedAndAddedToCaravan>
+  
+  <!-- EN: Transport pod loading complete. Launch when ready. -->
+  <MessageFinishedLoadingTransporters>परिवहन पोड लोडिंग पूर्ण। तैयार होने पर प्रक्षेपित करें।</MessageFinishedLoadingTransporters>
+  <!-- EN: {SHUTTLE_label} is loaded with required cargo and can launch when ready. -->
+  <MessageFinishedLoadingShuttle>{SHUTTLE_label} आवश्यक माल से भरा है और तैयार होने पर प्रक्षेपित हो सकता है।</MessageFinishedLoadingShuttle>
+
+  <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
+  <MessageCantLoadMoreIntoTransporters>आपका {1} परिवहन पॉड लोड करना समाप्त नहीं कर सकता क्योंकि कुछ वस्तुएं या लोग अनुपलब्ध हो गए ({2_labelShort})।</MessageCantLoadMoreIntoTransporters>
+  <!-- EN: Your {1} can't finish loading the shuttle because some items or people became unavailable ({2_labelShort}). -->
+  <MessageCantLoadMoreIntoShuttle>आपका {1} शटल लोड करना पूरा नहीं कर सकता क्योंकि कुछ वस्तुएं या लोग अनुपलब्ध हो गए हैं ({2_labelShort}).</MessageCantLoadMoreIntoShuttle>
+  <!-- EN: Your {1} can't finish entering the {0} because some items or people became unavailable ({2_labelShort}). -->
+  <MessageCantLoadMoreIntoPortal>आपका {1} {0} में प्रवेश पूरा नहीं कर सकता क्योंकि कुछ वस्तुएं या लोग अनुपलब्ध हो गए ({2_labelShort}).</MessageCantLoadMoreIntoPortal>
+  
+  <!-- EN: Selected destination is invalid. -->
+  <MessageTransportPodsDestinationIsInvalid>चयनित गंतव्य अमान्य है।</MessageTransportPodsDestinationIsInvalid>
+  <!-- EN: {OBJECT_labelCap} is not a valid destination. -->
+  <MessageWorldObjectIsInvalid>{OBJECT_labelCap} मान्य गंतव्य नहीं है।</MessageWorldObjectIsInvalid>
+  <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
+  <MessageTransportPodsDestinationIsTooFar>प्रत्येक पॉड लॉन्चर को इतनी दूर ट्रांसपोर्ट पॉड भेजने के लिए कम से कम {0}x रासायनिक ईंधन की आवश्यकता होगी।</MessageTransportPodsDestinationIsTooFar>
+  
+  <!-- EN: The caravan has been reformed. -->
+  <MessageReformedCaravan>कारवां का पुनर्निर्माण किया गया है।</MessageReformedCaravan>
+  
+  <!-- EN: You can't banish the last colonist. -->
+  <MessageCantBanishLastColonist>आप अंतिम उपनिवेशवादी को निर्वासित नहीं कर सकते।</MessageCantBanishLastColonist>
+
+  <!-- EN: Cannot equip: {0}. -->
+  <MessageCantEquipCustom>उपकरण संभव नहीं: {0}.</MessageCantEquipCustom>
+  <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
+  <MessageCantEquipIncapableOfViolence>उपकरण धारण नहीं कर सकता: {1_labelShort} हिंसा करने में असमर्थ है।</MessageCantEquipIncapableOfViolence>
+  <!-- EN: Cannot equip: {1_labelShort} is incapable of shooting. -->
+  <MessageCantEquipIncapableOfShooting>उपकरण लगाने में असमर्थ: {1_labelShort} गोली चलाने में सक्षम नहीं है।</MessageCantEquipIncapableOfShooting>
+  <!-- EN: Cannot equip: Incapable. -->
+  <MessageCantEquipIncapableOfManipulation>सक्षम नहीं।</MessageCantEquipIncapableOfManipulation>
+  <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->
+  <MessageCantWearApparelMissingBodyParts>पहनने में असमर्थ: {1_labelShort} के लिए आवश्यक शारीरिक अंग गायब हैं।</MessageCantWearApparelMissingBodyParts>
+  <!-- EN: This person refuses to remove this. -->
+  <MessageCantUnequipLockedApparel>यह व्यक्ति इसे हटाने से इनकार करता है।</MessageCantUnequipLockedApparel>
+  <!-- EN: Cannot wear: This would replace apparel {1_labelShort} refues to remove. -->
+  <MessageWouldReplaceLockedApparel>पहन नहीं सकते: यह परिधान {1_labelShort} हटाने से इनकार करता है।</MessageWouldReplaceLockedApparel>
+  
+  <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
+  <MessageSlaughteringBondedAnimal>चूंकि वे बंधे हुए हैं, {DESIGNATED_labelShort} का वध करने से {BONDED_labelShort} दुखी हो जाएगा।</MessageSlaughteringBondedAnimal>
+  <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
+  <MessageReleaseBondedAnimal>क्योंकि वे जुड़े हैं, {DESIGNATED_labelShort} को मुक्त करने से {BONDED_labelShort} दुखी हो जाएगा।</MessageReleaseBondedAnimal>
+  
+  <!-- EN: {0} has run out of food. -->
+  <MessageCaravanRanOutOfFood>{0} के पास भोजन समाप्त हो गया है।</MessageCaravanRanOutOfFood>
+  <!-- EN: {PAWN_definite}'s corpse has been picked up by the caravan. It is heavy and may immobilize the caravan, but can be left behind in the caravan items tab. -->
+  <MessageCaravanDeathCorpseAddedToInventory>{PAWN_definite} का शव कारवां द्वारा उठाया गया है। यह भारी है और कारवां को स्थिर कर सकता है, लेकिन कारवां आइटम टैब में छोड़ा जा सकता है।</MessageCaravanDeathCorpseAddedToInventory>
+
+  <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
+  <MessageSelectOwnBaseToFormCaravan>कारवां बनाने के लिए, अपना उपनिवेश या वह स्थान चुनें जहाँ आपके लोग हों।</MessageSelectOwnBaseToFormCaravan>
+
+  <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
+  <MessageScreenResTooSmallForUIScale>इस रिज़ॉल्यूशन और यूआई स्केल पर, गेम इंटरफ़ेस स्क्रीन पर फिट नहीं होगा। कृपया यूआई स्केल कम करें या रिज़ॉल्यूशन बढ़ाएँ।</MessageScreenResTooSmallForUIScale>
+  
+  <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
+  <MessageYouHaveToReformCaravanNow>आपको अब कारवां को फिर से बनाना होगा। पीछे छूटे हुए सभी को छोड़ दिया जाएगा।</MessageYouHaveToReformCaravanNow>
+  
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <MessageDefendersAttacking>{0} से {1} आपके {2} पर हमला कर रहे हैं।</MessageDefendersAttacking>
+  <!-- EN: Mechanoids have been gestated and will defend their cluster. -->
+  <MessageMechanoidsAssembled>मेकैनॉइड्स का विकास हो गया है और वे अपने समूह की रक्षा करेंगे।</MessageMechanoidsAssembled>
+  <!-- EN: Remaining mechanoids to gestate -->
+  <MessageMechanoidsLeftToAssemble>शेष मेकैनॉइड्स को विकसित होना है।</MessageMechanoidsLeftToAssemble>
+  <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
+  <MessageMechanoidsReinforcementsDrop>मैक ड्रॉप बीकन ने पास में ड्रॉप पॉड में सुदृढीकरण को बुलाया है।</MessageMechanoidsReinforcementsDrop>
+
+  <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
+  <MessageSelfTendUnsatisfied>स्वयं उपचार करने के लिए, {1_labelShort} को डॉक्टर कार्य भी सौंपा जाना चाहिए।</MessageSelfTendUnsatisfied>
+  <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
+  <MessageCannotSelfTendEver>{1_labelShort} डॉक्टर का काम करने में असमर्थ है, और इसलिए स्वयं की देखभाल नहीं कर सकता।</MessageCannotSelfTendEver>
+  
+  <!-- EN: This tile is impassable. -->
+  <MessageCantAddWaypointBecauseImpassable>यह टाइल अगम्य है।</MessageCantAddWaypointBecauseImpassable>
+  <!-- EN: It's not possible to reach this tile from the last waypoint. -->
+  <MessageCantAddWaypointBecauseUnreachable>इस टाइल तक पिछले वेपॉइंट से पहुंचना संभव नहीं है।</MessageCantAddWaypointBecauseUnreachable>
+  <!-- EN: You can't add more than {0} waypoints. -->
+  <MessageCantAddWaypointBecauseLimit>आप {0} से अधिक वेपॉइंट नहीं जोड़ सकते।</MessageCantAddWaypointBecauseLimit>
+  <!-- EN: You can't remove this waypoint. -->
+  <MessageCantRemoveWaypointBecauseFirst>इस मार्ग बिंदु को हटाया नहीं जा सकता।</MessageCantRemoveWaypointBecauseFirst>
+  
+  <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>आपके किसी भी संरक्षक में हिंसा करने की क्षमता नहीं है। निष्पादन नहीं किया जाएगा।</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  
+  <!-- EN: Area is now safe. You can reform the caravan on the world map. -->
+  <MessageCanReformCaravanNowNoMoreEnemies>क्षेत्र अब सुरक्षित है। आप विश्व मानचित्र पर कारवां को फिर से बना सकते हैं।</MessageCanReformCaravanNowNoMoreEnemies>
+  <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
+  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>क्षेत्र अब सुरक्षित है, लेकिन कुछ अज्ञात कमरे शेष हैं। आप आगे अन्वेषण कर सकते हैं या विश्व मानचित्र पर कारवां को पुनर्गठित कर सकते हैं।</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
+
+  <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
+  <MessageCantBanishDownedPawn>{1_labelShort} को निष्कासित नहीं कर सकते क्योंकि {1_pronoun} चल नहीं सकता।</MessageCantBanishDownedPawn>
+
+  <!-- EN: {0} have woken up. -->
+  <MessageSleepingPawnsWokenUp>{0} जाग गए हैं।</MessageSleepingPawnsWokenUp>
+  <!-- EN: Mech cluster buildings have been defeated. -->
+  <MessageMechClusterDefeated>मैक क्लस्टर इमारतें हार गईं।</MessageMechClusterDefeated>
+
+  <!-- EN: Item produced: {0}. -->
+  <MessageCompSpawnerSpawnedItem>उत्पादित वस्तु: {0}.</MessageCompSpawnerSpawnedItem>
+
+  <!-- EN: Health condition healed: {0}. -->
+  <MessageHediffCuredByItem>स्वास्थ्य स्थिति ठीक हुई: {0}.</MessageHediffCuredByItem>
+  <!-- EN: Body part restored: {0}. -->
+  <MessageBodyPartCuredByItem>शरीर का हिस्सा बहाल: {0}.</MessageBodyPartCuredByItem>
+  <!-- EN: Technology given: {0}. -->
+  <MessageResearchProjectFinishedByItem>तकनीक दी गई: {0}.</MessageResearchProjectFinishedByItem>
+
+  <!-- EN: {0} has been brought back to life! -->
+  <MessagePawnResurrected>{0} को फिर से जीवित कर दिया गया है!</MessagePawnResurrected>
+
+  <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
+  <MessageFailedToRescueRelative>आपने {PAWN_labelShort} को बचाने में विफल रहे। इससे {RELATIVE_labelShort} दुखी होगा।</MessageFailedToRescueRelative>
+  <!-- EN: You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy. -->
+  <MessageRescuedRelative>आपने {PAWN_labelShort} को बचा लिया है। इससे {RELATIVE_labelShort} खुश होगा।</MessageRescuedRelative>
+
+  <!-- EN: The tornado has left the map. -->
+  <MessageTornadoLeftMap>तूफान नक्शे से चला गया।</MessageTornadoLeftMap>
+  <!-- EN: The tornado has dissipated. -->
+  <MessageTornadoDissipated>तूफान शांत हो गया।</MessageTornadoDissipated>
+
+  <!-- EN: No conscious, capable diplomat. -->
+  <MessagePeaceTalksNoDiplomat>कोई सचेत, सक्षम राजनयिक नहीं।</MessagePeaceTalksNoDiplomat>
+
+  <!-- EN: Warning: {0} cannot live when exposed to light. -->
+  <MessageWarningCavePlantsExposedToLight>चेतावनी: {0} प्रकाश के संपर्क में आने पर जीवित नहीं रह सकता।</MessageWarningCavePlantsExposedToLight>
+
+  <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} {OLDTARGET_label} तक नहीं पहुंच पाया इसलिए उसने अपना गुस्सा {TARGET_label} पर निकालने का फैसला किया।</MessageTargetedTantrumChangedTarget>
+
+  <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} {OLDTARGET_label} तक नहीं पहुंच सका इसलिए उसने अपना गुस्सा {TARGET_label} पर निकालने का फैसला किया।</MessageTargetedInsultingSpreeChangedTarget>
+
+  <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort} ने {TARGET_label} पर अपना क्रोध मोड़ने का फैसला किया है।</MessageMurderousRageChangedTarget>
+
+  <!-- EN: {0} cannot grow underneath a roof. -->
+  <MessagePlantIncompatibleWithRoof>{0} छत के नीचे नहीं बढ़ सकता.</MessagePlantIncompatibleWithRoof>
+  <!-- EN: Cannot build a roof over {0}. -->
+  <MessageRoofIncompatibleWithPlant>{0} पर छत नहीं बना सकते।</MessageRoofIncompatibleWithPlant>
+
+  <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>क्षेत्र छोड़ने के लिए, विश्व दृश्य में &amp;apos;कारवां सुधारें&amp;apos; बटन का उपयोग करें।</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <!-- EN: You can't leave the map now. -->
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>अब नक्शा छोड़ना संभव नहीं है।</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+
+  <!-- EN: Relations with {0} have changed from {1} to {2}. -->
+  <MessageGoodwillChanged>{0} के साथ संबंध {1} से बदलकर {2} हो गए हैं।</MessageGoodwillChanged>
+  <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
+  <MessageGoodwillChangedWithReason>{0} के साथ संबंध {1} से बदलकर {2} हो गए हैं ({3}).</MessageGoodwillChangedWithReason>
+  <!-- EN: attacked {1_labelShort} -->
+  <GoodwillChangedReason_AttackedPawn>हमला किया गया</GoodwillChangedReason_AttackedPawn>
+  <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
+  <GoodwillChangedReason_UsedItem>{ITEM_labelShort} का प्रयोग {TARGET_labelShort} पर किया गया।</GoodwillChangedReason_UsedItem>
+  <!-- EN: used {0} on {1} -->
+  <GoodwillChangedReason_UsedAbility>{0} का {1} पर उपयोग किया गया।</GoodwillChangedReason_UsedAbility>
+  <!-- EN: harvested {0} -->
+  <GoodwillChangedReason_RemovedBodyPart>कटाई की {0}</GoodwillChangedReason_RemovedBodyPart>
+  <!-- EN: removed {0} -->
+  <GoodwillChangedReason_RemovedImplant>हटाया गया {0}</GoodwillChangedReason_RemovedImplant>
+  <!-- EN: downgraded {0} -->
+  <GoodwillChangedReason_DowngradedImplant>निम्न किया गया {0}</GoodwillChangedReason_DowngradedImplant>
+  <!-- EN: needlessly installed {0} -->
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>बेकार में स्थापित {0}</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <!-- EN: captured {1_labelShort} -->
+  <GoodwillChangedReason_CapturedPawn>पकड़ा गया</GoodwillChangedReason_CapturedPawn>
+  <!-- EN: {1_labelShort} crushed -->
+  <GoodwillChangedReason_PawnCrushed>कुचला हुआ</GoodwillChangedReason_PawnCrushed>
+  <!-- EN: {1_labelShort} died -->
+  <GoodwillChangedReason_PawnDied>{1_labelShort} मरा</GoodwillChangedReason_PawnDied>
+  <!-- EN: {0_labelShort} stripped -->
+  <GoodwillChangedReason_PawnStripped>छिला हुआ</GoodwillChangedReason_PawnStripped>
+  <!-- EN: traded -->
+  <GoodwillChangedReason_Traded>व्यापार</GoodwillChangedReason_Traded>
+  <!-- EN: attacked a caravan -->
+  <GoodwillChangedReason_AttackedCaravan>कारवां पर हमला किया गया</GoodwillChangedReason_AttackedCaravan>
+  <!-- EN: {1_labelShort} exited the map healthy -->
+  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} नक्शे से स्वस्थ होकर निकला।</GoodwillChangedReason_ExitedMapHealthy>
+  <!-- EN: tended to {1_labelShort} -->
+  <GoodwillChangedReason_Tended>देखभाल की गई {1_labelShort}</GoodwillChangedReason_Tended>
+  <!-- EN: received a gift -->
+  <GoodwillChangedReason_ReceivedGift>उपहार मिला</GoodwillChangedReason_ReceivedGift>
+  <!-- EN: fulfilled a trade offer -->
+  <GoodwillChangedReason_FulfilledTradeRequest>व्यापार प्रस्ताव पूरा हुआ।</GoodwillChangedReason_FulfilledTradeRequest>
+  <!-- EN: finished a quest -->
+  <GoodwillChangedReason_FinishedQuest>पूरा कार्य</GoodwillChangedReason_FinishedQuest>
+  <!-- EN: {PAWN_labelShort} used {CULPRIT} -->
+  <GoodwillChangedReason_UsedForbiddenThing>{PAWN_labelShort} ने इस्तेमाल किया</GoodwillChangedReason_UsedForbiddenThing>
+  <!-- EN: sold {0_labelShort} -->
+  <GoodwillChangedReason_SoldPawn>बिका {0_labelShort}</GoodwillChangedReason_SoldPawn>
+  <!-- EN: euthanized {PAWN_labelShort} -->
+  <GoodwillChangedReason_EuthanizedPawn>मार डाला {PAWN_labelShort}</GoodwillChangedReason_EuthanizedPawn>
+  <!-- EN: requested military aid -->
+  <GoodwillChangedReason_RequestedMilitaryAid>सैन्य सहायता अनुरोध</GoodwillChangedReason_RequestedMilitaryAid>
+  <!-- EN: requested trader caravan -->
+  <GoodwillChangedReason_RequestedTrader>अनुरोधित व्यापारी कारवाँ</GoodwillChangedReason_RequestedTrader>
+  <!-- EN: caused neuroquake echo -->
+  <GoodwillChangedReason_CausedNeuroquakeEcho>तंत्रिका कंपन प्रतिध्वनि</GoodwillChangedReason_CausedNeuroquakeEcho>
+  <!-- EN: caused berserk on {PAWN_labelShort} -->
+  <GoodwillChangedReason_CausedBerserk>{PAWN_labelShort} को उन्मादी बना दिया</GoodwillChangedReason_CausedBerserk>
+  <!-- EN: attacked {0_name} -->
+  <GoodwillChangeReason_AttackedFaction>हमला किया {0_name}</GoodwillChangeReason_AttackedFaction>
+  <!-- EN: shuttle destroyed -->
+  <GoodwillChangeReason_ShuttleDestroyed>शटल नष्ट</GoodwillChangeReason_ShuttleDestroyed>
+  <!-- EN: civilians lost -->
+  <GoodwillChangeReason_CiviliansLost>नागरिक हानि</GoodwillChangeReason_CiviliansLost>
+  <!-- EN: commander lost -->
+  <GoodwillChangeReason_CommanderLost>कमांडर खो गया</GoodwillChangeReason_CommanderLost>
+
+  <!-- EN: {0} accept your gift but they don't appreciate it. -->
+  <MessageGiftGivenButNotAppreciated>{0} आपकी भेंट स्वीकार करता है लेकिन वे इसकी सराहना नहीं करते।</MessageGiftGivenButNotAppreciated>
+
+  <!-- EN: The caravan is already encumbered and can't carry anything else. -->
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>कारवां पहले से ही बोझिल है और कुछ भी नहीं ले जा सकता।</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
+  <MessageCantGiveGiftBecauseCantCarry>कारवां इतना कुछ नहीं ले जा सकता। उपहारों का वज़न {0} है लेकिन कारवां केवल {1} और ले जा सकता है।</MessageCantGiveGiftBecauseCantCarry>
+
+  <!-- EN: {0} has formed and is now traveling on the world map. -->
+  <MessageFormedCaravan>{0} का गठन हुआ है और अब यह विश्व मानचित्र पर यात्रा कर रहा है।</MessageFormedCaravan>
+  <!-- EN: Orders -->
+  <MessageFormedCaravan_Orders>आदेश</MessageFormedCaravan_Orders>
+
+  <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
+  <MessageBillValidationStoreZoneDeleted>{1} का &amp;quot;{0}&amp;quot; अब हटाए गए भंडार {2} तक नहीं पहुंचा सकता।</MessageBillValidationStoreZoneDeleted>
+  <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
+  <MessageBillValidationStoreZoneUnavailable>{1} का &amp;quot;{0}&amp;quot; अब अनुपलब्ध भंडार {2} तक पहुंचा नहीं सकता।</MessageBillValidationStoreZoneUnavailable>
+  <!-- EN: {0} can no longer work on "{1}" at {2}. The restriction has been removed. -->
+  <MessageBillValidationPawnUnavailable>{0} अब &amp;quot;{1}&amp;quot; पर काम नहीं कर सकता। प्रतिबंध हटा दिया गया है। {2}।</MessageBillValidationPawnUnavailable>
+  <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
+  <MessageBillValidationIncludeZoneDeleted>{1} का &amp;quot;{0}&amp;quot; अब हटाये गए भंडार {2} में वस्तुओं की गिनती नहीं कर सकता।</MessageBillValidationIncludeZoneDeleted>
+  <!-- EN: {1}'s "{0}" can no longer count items in deleted building {2}. -->
+  <MessageBillValidationIncludeBuildingDeleted>{1} का &amp;quot;{0}&amp;quot; अब हटाई गई इमारत {2} में वस्तुओं की गिनती नहीं कर सकता।</MessageBillValidationIncludeBuildingDeleted>
+  <!-- EN: {1}'s "{0}" can no longer count items in deleted storage group {2}. -->
+  <MessageBillValidationIncludeStorageGroupDeleted>{1} का &amp;quot;{0}&amp;quot; अब हटाई गई भंडारण समूह {2} में वस्तुओं की गिनती नहीं कर सकता।</MessageBillValidationIncludeStorageGroupDeleted>
+  <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
+  <MessageBillValidationIncludeZoneUnavailable>{1} का &amp;quot;{0}&amp;quot; अब अनुपलब्ध भंडार {2} में वस्तुओं की गिनती नहीं कर सकता।</MessageBillValidationIncludeZoneUnavailable>
+  <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
+  <MessageBillValidationStoreZoneInsufficient>{1} का &amp;quot;{0}&amp;quot; अब भंडारित {2} तक सभी उत्पाद वितरित नहीं कर सकता।</MessageBillValidationStoreZoneInsufficient>
+
+  <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
+  <MessageAnimalReturnedWild>पालतू बनाने के रखरखाव की कमी के कारण, {1_labelShort} फिर से जंगली हो गया है।</MessageAnimalReturnedWild>
+  <!-- EN: {1_labelShort} has been returned to the wild. -->
+  <MessageAnimalReturnedWildReleased>{1_labelShort} को जंगल में लौटा दिया गया है।</MessageAnimalReturnedWildReleased>
+  <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
+  <MessageAnimalLostSkill>देखभाल प्रशिक्षण की कमी के कारण, {ANIMAL_labelShort} ने एक कौशल खो दिया है: {1}</MessageAnimalLostSkill>
+
+  <!-- EN: Translation report written to {0} -->
+  <MessageTranslationReportSaved>{0} को लिखी गई अनुवाद रिपोर्ट।</MessageTranslationReportSaved>
+
+  <!-- EN: {0} couldn't reach its destination. -->
+  <MessageCaravanArrivalActionNoLongerValid>{0} गंतव्य तक पहुंचने में असमर्थ रहा।</MessageCaravanArrivalActionNoLongerValid>
+
+  <!-- EN: Too dangerous to re-enter for {0}. -->
+  <MessageEnterCooldownBlocksEntering>{0} में फिर से प्रवेश करना बहुत खतरनाक है।</MessageEnterCooldownBlocksEntering>
+
+  <!-- EN: {0_labelShort} can now freely use "{1}". -->
+  <MessagePermitCooldownFinished>{0_labelShort} अब स्वतंत्र रूप से &amp;quot;{1}&amp;quot; का उपयोग कर सकता है।</MessagePermitCooldownFinished>
+
+  <!-- EN: {PREDATOR} is hunting {PREY_definite} ({PREY_kindBase}) for food! -->
+  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} {PREY_definite} ({PREY_kindBase}) का भोजन के लिए शिकार कर रहा है!</MessagePredatorHuntingPlayerAnimal>
+
+  <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
+  <MessagePrisonerResistanceBroken>कैदी {PRISONER_labelShort} का प्रतिरोध {WARDEN_labelShort} द्वारा तोड़ दिया गया है।</MessagePrisonerResistanceBroken>
+  <!-- EN: Recruitment attempts will begin. -->
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>भर्ती के प्रयास शुरू होंगे।</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+
+  <!-- EN: Another mod with the package ID {0} is already active. Deactivate {1} before trying to activate this. -->
+  <MessageModWithPackageIdAlreadyEnabled>एक और मॉड जिसका पैकेज आईडी {0} है, पहले से ही सक्रिय है। इस मॉड को सक्रिय करने से पहले {1} को निष्क्रिय करें।</MessageModWithPackageIdAlreadyEnabled>
+  <!-- EN: Disable all mods before using this tool. -->
+  <MessageDisableModsBeforeCleaningTranslationFiles>इस उपकरण का उपयोग करने से पहले सभी मॉड अक्षम करें।</MessageDisableModsBeforeCleaningTranslationFiles>
+  <!-- EN: Unpack and then delete all compressed translation files for this language before using this tool. -->
+  <MessageUnpackBeforeCleaningTranslationFiles>ठीक है। \n\n(Okay.) \n\nI understand the instructions. I am ready to translate when you provide the English text. I acknowledge the critical rules regarding format, diacritics, verb treatment, and the specific meanings of &amp;quot;Mine&amp;quot; and &amp;quot;Train&amp;quot;. I also understand the instruction about unpacking and deleting</MessageUnpackBeforeCleaningTranslationFiles>
+  <!-- EN: Done. Affected folders: {0} -->
+  <MessageTranslationFilesCleanupDone>पूर्ण। प्रभावित फ़ोल्डर: {0}</MessageTranslationFilesCleanupDone>
+
+  <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>एक अनुवाद फ़ाइल {0} लोड नहीं हो सकी। सभी XML पार्सिंग त्रुटियों को पहले हल किया जाना चाहिए।</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+
+  <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
+  <MessageCapturingWillAngerFaction>चेतावनी: {PAWN_nameDef} को पकड़ने से {PAWN_possessive} गुट {PAWN_factionName} क्रोधित हो जाएगा।</MessageCapturingWillAngerFaction>
+
+  <!-- EN: Warning: Stripping {PAWN_nameDef} will anger {PAWN_factionName}. -->
+  <MessageStrippingWillAngerFaction>चेतावनी: {PAWN_nameDef} को छीनने से {PAWN_factionName} क्रोधित हो जाएगा।</MessageStrippingWillAngerFaction>
+
+  <!-- EN: Cannot shoot in melee. -->
+  <MessageCantShootInMelee>निकट युद्ध में गोली चलाना संभव नहीं है।</MessageCantShootInMelee>
+
+  <!-- EN: None of your {0} can accept this quest now. -->
+  <MessageNoColonistCanAcceptQuest>इनमें से कोई भी {0} अब इस खोज को स्वीकार नहीं कर सकता।</MessageNoColonistCanAcceptQuest>
+  <!-- EN: Cannot accept this quest. -->
+  <MessageCannotAcceptQuest>इस खोज को स्वीकार नहीं कर सकते।</MessageCannotAcceptQuest>
+  <!-- EN: {0_definite} has accepted a quest: {1} -->
+  <MessageQuestAccepted>{0_definite} ने एक खोज स्वीकार की है: {1}</MessageQuestAccepted>
+  <!-- EN: {0} is leaving. -->
+  <MessagePawnLeaving>{0} जा रहा है।</MessagePawnLeaving>
+  <!-- EN: {0} are leaving. -->
+  <MessagePawnsLeaving>{0} जा रहे हैं।</MessagePawnsLeaving>
+
+  <!-- EN: The monument has been destroyed because you've built a disallowed building inside. -->
+  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>स्मारक नष्ट हो गया है क्योंकि आपने इसके अंदर एक निषिद्ध इमारत बनाई है।</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
+
+  <!-- EN: Cannot apply: No reachable, un-reserved research bench available. -->
+  <MessageNoResearchBenchForTechprint>लागू नहीं कर सकते: कोई पहुंच योग्य, आरक्षित न किया गया अनुसंधान बेंच उपलब्ध नहीं है।</MessageNoResearchBenchForTechprint>
+
+  <!-- EN: No valid destination found for {0} -->
+  <NoValidDestinationFound>{0} के लिए कोई मान्य गंतव्य नहीं मिला।</NoValidDestinationFound>
+
+  <!-- EN: An extracted tree just died. -->
+  <MessageMinifiedTreeDied>एक उखाड़ा हुआ पेड़ मर गया।</MessageMinifiedTreeDied>
+  
+  <!-- Research -->
+  <!-- EN: Warning: Research will not begin until you build a research bench. -->
+  <MessageResearchMenuWithoutBench>चेतावनी: अनुसंधान बेंच बनाने तक अनुसंधान शुरू नहीं होगा।</MessageResearchMenuWithoutBench>
+
+  <!-- EN: {0_indefinite} has triggered a proximity activator. -->
+  <MessageActivatorProximityTriggered>कोई व्यक्ति निकटता सक्रियक से सक्रिय हुआ है।</MessageActivatorProximityTriggered>
+
+  <!-- EN: {0_label} is currently hidden. -->
+  <MessageCannotSelectInvisibleStat>{0_label} वर्तमान में छिपा हुआ है।</MessageCannotSelectInvisibleStat>
+
+  <!-- EN: {PAWN_nameDef} is a prisoner -->
+  <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} एक कैदी है।</MessagePrisonerCannotEquipWeapon>
+
+  <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
+  <MessageIdeoOpposedWorkTypeSelected>चेतावनी: {0_nameDef} की मान्यताएं {1} कार्य का विरोध करती हैं। {0_pronoun} दुखी हो सकता है।</MessageIdeoOpposedWorkTypeSelected>
+
+  <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
+  <MessageBedLostAssignment>{0} अब {1_nameDef} को सौंपा नहीं गया है।</MessageBedLostAssignment>
+  <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
+  <MessageBedDestroyed>{0} को {1_nameDef} को नष्ट कर दिया गया।</MessageBedDestroyed>
+
+  <!-- Lord jobs -->
+  <!-- EN: You need {0_indefinite}. -->
+  <MessageLordJobNeedsAtLeastOneRolePawn>आपको {0_indefinite} चाहिए।</MessageLordJobNeedsAtLeastOneRolePawn>
+  <!-- EN: You need at least {1} {0}. -->
+  <MessageLordJobNeedsAtLeastNumRolePawn>आपको कम से कम {1} {0} की आवश्यकता है।</MessageLordJobNeedsAtLeastNumRolePawn>
+
+  <!-- Rituals -->
+  <!-- EN: spectate -->
+  <Spectate>देखना</Spectate>
+  <!-- EN: Assign to {0} -->
+  <AssignToRole>सौंपें {0}</AssignToRole>
+  <!-- EN: {0} has begun. -->
+  <RitualBegun>{0} शुरू हो गया।</RitualBegun>
+  <!-- EN: The maximum number of {0}s is {1}. -->
+  <MaxPawnsPerRole>अधिकतम {0} की संख्या {1} है।</MaxPawnsPerRole>
+  <!-- EN: Role of {0} is locked. -->
+  <RoleIsLocked>{0} की भूमिका लॉक है।</RoleIsLocked>
+  <!-- EN: You need at least one participant. -->
+  <MessageRitualNeedsAtLeastOnePerson>कम से कम एक प्रतिभागी आवश्यक है।</MessageRitualNeedsAtLeastOnePerson>
+  <!-- EN: You need at least one spectator. -->
+  <MessageRitualNeedsAtLeastOneSpectator>कम से कम एक दर्शक आवश्यक है।</MessageRitualNeedsAtLeastOneSpectator>
+  <!-- EN: {0_labelShort} is downed. -->
+  <MessageRitualPawnDowned>{0_labelShort} गिरा है।</MessageRitualPawnDowned>
+  <!-- EN: {0_labelShort} is currently escaping. -->
+  <MessageRitualPawnPrisonerNotSecured>{0_labelShort} वर्तमान में भाग रहा है।</MessageRitualPawnPrisonerNotSecured>
+  <!-- EN: {0_labelShort} is currently rebelling. -->
+  <MessageRitualPawnSlaveNotSecured>{0_labelShort} वर्तमान में विद्रोह कर रहा/रही है।</MessageRitualPawnSlaveNotSecured>
+  <!-- EN: {0_labelShort} is being released. -->
+  <MessageRitualPawnReleased>{0_labelShort} जारी किया जा रहा है।</MessageRitualPawnReleased>
+  <!-- EN: {0_labelShort} is injured. -->
+  <MessageRitualPawnInjured>{0_labelShort} घायल है।</MessageRitualPawnInjured>
+  <!-- EN: {0_labelShort} must hold one of these roles -->
+  <MessageRitualRoleRequired>{0_labelShort} को इनमें से एक भूमिका निभानी चाहिए।</MessageRitualRoleRequired>
+  <!-- EN: {0} must be a prisoner. -->
+  <MessageRitualRoleMustBePrisoner>{0} एक कैदी है।</MessageRitualRoleMustBePrisoner>
+  <!-- EN: {0} must be an animal. -->
+  <MessageRitualRoleMustBeAnimal>{0} एक जानवर है।</MessageRitualRoleMustBeAnimal>
+  <!-- EN: {0} must be a human. -->
+  <MessageRitualRoleMustBeHumanlike>{0} एक इंसान है।</MessageRitualRoleMustBeHumanlike>
+  <!-- EN: {0} cannot be a baby. -->
+  <MessageRitualRoleCannotBeABaby>{0} शिशु नहीं हो सकता।</MessageRitualRoleCannotBeABaby>
+  <!-- EN: No roles available for {0_labelShort}. -->
+  <MessageRitualNoRolesAvailable>{0_labelShort} के लिए कोई भूमिका उपलब्ध नहीं है।</MessageRitualNoRolesAvailable>
+  <!-- EN: {0_labelShort} is not a member of any colony ideoligion. -->
+  <MessageRitualNotOfPlayerIdeo>{0_labelShort} किसी भी कॉलोनी विचारधारा का सदस्य नहीं है।</MessageRitualNotOfPlayerIdeo>
+  <!-- EN: {0} must have eyes -->
+  <MessageRitualRoleMustHaveEyes>{0} को आँखें होनी चाहिए।</MessageRitualRoleMustHaveEyes>
+  <!-- EN: {0_labelShort} does not require further scarification. -->
+  <MessageRitualRoleMustRequireScarification>{0_labelShort} को आगे निशान बनाने की आवश्यकता नहीं है।</MessageRitualRoleMustRequireScarification>
+  <!-- EN: {0_labelShort} does not require blinding. -->
+  <MessageRitualRoleMustRequireBlinding>{0_labelShort} अंधा करने की आवश्यकता नहीं है।</MessageRitualRoleMustRequireBlinding>
+  <!-- EN: {0} must be a prisoner or slave. -->
+  <MessageRitualRoleMustBePrisonerOrSlave>{0} कैदी या दास होना चाहिए।</MessageRitualRoleMustBePrisonerOrSlave>
+  <!-- EN: {0_labelShort} must be capable of fighting. -->
+  <MessageRitualRoleMustBeCapableOfFighting>{0_labelShort} लड़ने में सक्षम होना चाहिए।</MessageRitualRoleMustBeCapableOfFighting>
+  <!-- EN: this role cannot be played by someone else. -->
+  <MessageRitualRoleCannotReplaceRequiredPawn>यह भूमिका किसी और द्वारा नहीं निभाई जा सकती।</MessageRitualRoleCannotReplaceRequiredPawn>
+  <!-- EN: {0_labelShort} cannot connect to a Gauranlen tree because {0_possessive} connection was recently torn. -->
+  <MessageRitualRolePawnRecentlyTornConnection>{0_labelShort} एक गौरवलेन पेड़ से जुड़ नहीं सकता क्योंकि {0_possessive} कनेक्शन हाल ही में टूट गया था।</MessageRitualRolePawnRecentlyTornConnection>
+  <!-- EN: {0_labelShort} has the same ideoligion as the converter. -->
+  <MessageRitualRolePawnHasSameIdeo>{0_labelShort} परिवर्तक के समान विचारधारा रखता है।</MessageRitualRolePawnHasSameIdeo>
+  <!-- EN: {0_labelShort} must be capable of wardening. -->
+  <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort} को पहरा देने में सक्षम होना चाहिए।</MessageRitualRoleMustBeCapableOfWardening>
+  <!-- EN: {0} must be capable of {1}. -->
+  <MessageRitualRoleMustBeCapableOfGeneric>{0} में {1} करने की क्षमता होनी चाहिए।</MessageRitualRoleMustBeCapableOfGeneric>
+  <!-- EN: {0} must be capable of violence. -->
+  <MessageRitualRoleMustBeCapableOfViolence>{0} हिंसा करने में सक्षम है।</MessageRitualRoleMustBeCapableOfViolence>
+  <!-- EN: prisoners cannot {0}. -->
+  <MessageRitualRoleMustNotBePrisonerToSpectate>कैदी {0} नहीं कर सकते।</MessageRitualRoleMustNotBePrisonerToSpectate>
+  <!-- EN: only {0} can {1}. -->
+  <MessageRitualRoleMustHaveIdeoToSpectate>सिर्फ़ {0} ही {1} कर सकता है।</MessageRitualRoleMustHaveIdeoToSpectate>
+  <!-- EN: only {0} can fill the role of {1}. -->
+  <MessageRitualRoleMustHaveIdeoToDoRole>केवल {0} {1} की भूमिका भर सकता है।</MessageRitualRoleMustHaveIdeoToDoRole>
+  <!-- EN: must be colonist for the {0} role. -->
+  <MessageRitualRoleMustBeColonist>{0} भूमिका के लिए उपनिवेशवादी होना चाहिए।</MessageRitualRoleMustBeColonist>
+  <!-- EN: must not be a prisoner for the {0} role. -->
+  <MessageRitualRoleMustBeFree>{0} भूमिका के लिए कैदी नहीं होना चाहिए।</MessageRitualRoleMustBeFree>
+  <!-- EN: {0_labelShort} won't attend due to extreme temperature in the ritual area. -->
+  <MessageRitualWontAttendExtremeTemperature>{0_labelShort} अत्यधिक तापमान के कारण अनुष्ठान क्षेत्र में भाग नहीं लेगा।</MessageRitualWontAttendExtremeTemperature>
+  <!-- EN: must be colonist and not enslaved for the {0} role. -->
+  <MessageRitualRoleMustBeFreeColonist>{0} भूमिका के लिए उपनिवेशवादी और दास नहीं होना चाहिए।</MessageRitualRoleMustBeFreeColonist>
+  <!-- EN: {0} must have an animal with min body size of {1}. -->
+  <MessageRitualRoleMustHaveLargerBodySize>{0} को न्यूनतम शरीर आकार {1} वाला एक जानवर चाहिए।</MessageRitualRoleMustHaveLargerBodySize>
+  <!-- EN: {0_labelShort} is in a mental state. -->
+  <MessageRitualPawnMentalState>{0_labelShort} एक मानसिक अवस्था में है।</MessageRitualPawnMentalState>
+  <!-- EN: {0_labelShort} is already {1}. -->
+  <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort} पहले से ही {1} है।</MessageRitualPawnIsAlreadyBelievingIdeo>
+  <!-- EN: {0_labelShort} cannot take any other role than spectator. -->
+  <MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort} दर्शक से अधिक कोई भूमिका नहीं ले सकता।</MessageRitualCannotAssignAnyRoleFromSpectating>
+  <!-- EN: {0} cannot be an imprisoned wild man/woman. -->
+  <MessageRitualRoleMustNotBeImprisonedWildMan>{0} कैद किया गया जंगली व्यक्ति नहीं हो सकता।</MessageRitualRoleMustNotBeImprisonedWildMan>
+  <!-- EN: {0} must be free. -->
+  <MessageRitualRoleMustNotBeImprisoned>{0} मुक्त होना चाहिए।</MessageRitualRoleMustNotBeImprisoned>
+  <!-- EN: {0} cannot be a child. -->
+  <MessageRitualRoleCannotBeChild>{0} बच्चा नहीं हो सकता।</MessageRitualRoleCannotBeChild>
+  <!-- EN: {0} cannot be a baby. -->
+  <MessageRitualRoleCannotBeBaby>{0} शिशु नहीं हो सकता।</MessageRitualRoleCannotBeBaby>
+  <!-- EN: {0} is busy. -->
+  <MessageRitualRoleBusy>{0} व्यस्त है।</MessageRitualRoleBusy>
+
+  <!-- EN: You must select a site to continue. -->
+  <MessagePlayerMustSelectTile>आपको जारी रखने के लिए एक स्थल चुनना होगा।</MessagePlayerMustSelectTile>
+
+  <!-- EN: Cannot plant {0_labelShort} -->
+  <CannotPlantThing>रोपण संभव नहीं</CannotPlantThing>
+  <!-- EN: Need more fertile terrain. -->
+  <MessageWarningNotEnoughFertility>अधिक उपजाऊ भूभाग चाहिए।</MessageWarningNotEnoughFertility>
+  <!-- EN: Temperature too extreme. -->
+  <CannotPlantExtremeTemp>तापमान अत्यधिक।</CannotPlantExtremeTemp>
+  <!-- EN: Plants cannot grow on this terrain. -->
+  <CannotPlantMissingTerrainTag>पौधे इस भूभाग पर नहीं बढ़ सकते।</CannotPlantMissingTerrainTag>
+  <!-- EN: blocked by {0_label}. -->
+  <BlockedBy>अवरुद्ध {0_label} द्वारा।</BlockedBy>
+  <!-- EN: Cannot be planted next to {0_label}. -->
+  <AdjacentSowBlocker>{0_label} के पास बोना संभव नहीं है।</AdjacentSowBlocker>
+  <!-- EN: Too close to {0_label}. -->
+  <TooCloseToOtherPlant>{0_label} के बहुत करीब।</TooCloseToOtherPlant>
+  <!-- EN: Too close to {0}'s planting location. -->
+  <TooCloseToOtherSeedPlantCell>{0} के रोपण स्थान के बहुत करीब।</TooCloseToOtherSeedPlantCell>
+  <!-- EN: Cannot be placed on {0}. -->
+  <MessageCannotBePlacedOn>{0} पर नहीं रखा जा सकता.</MessageCannotBePlacedOn>
+
+  <!-- EN: Warning: {0} has been marked for cutting. -->
+  <MessageWarningCutImportantPlant>चेतावनी: {0} को काटने के लिए चिह्नित किया गया है।</MessageWarningCutImportantPlant>
+
+  <!-- EN: {0_labelShort} is incapable of manipulation. -->
+  <MessageIncapableOfManipulation>{0_labelShort} में हेरफेर संभव नहीं है।</MessageIncapableOfManipulation>
+
+  <!-- EN: {0_labelShort} activation canceled -->
+  <MessageActivationCanceled>सक्रियण रद्द</MessageActivationCanceled>
+
+  <!-- EN: Nothing is currently buildable in category -->
+  <NothingAvailableInCategory>कोई भी वस्तु वर्तमान में श्रेणी में बनाने योग्य नहीं है।</NothingAvailableInCategory>
+
+  <!-- EN: Storage settings linked for {0} buildings. -->
+  <SettingsLinkedFor>भंडारण सेटिंग्स {0} इमारतों के लिए लिंक की गई हैं।</SettingsLinkedFor>
+  <!-- EN: Storage settings linked for 1 building. -->
+  <SettingsLinkedForSingular>भंडारण सेटिंग्स 1 इमारत से जुड़ी हैं।</SettingsLinkedForSingular>
+  <!-- EN: Storage settings unlinked for {0} buildings. -->
+  <SettingsUnlinkedFor>भंडारण सेटिंग्स {0} इमारतों के लिए अनलिंक कर दी गई हैं।</SettingsUnlinkedFor>
+  <!-- EN: Storage settings unlinked for 1 building. -->
+  <SettingsUnlinkedForSingular>भंडारण सेटिंग्स 1 इमारत से अलग हो गई हैं।</SettingsUnlinkedForSingular>
+  <!-- EN: Storage settings copied to clipboard. -->
+  <StorageSettingsCopiedToClipboard>संग्रहण सेटिंग्स क्लिपबोर्ड पर प्रतिलिपि की गईं।</StorageSettingsCopiedToClipboard>
+  <!-- EN: Storage settings pasted from clipboard. -->
+  <StorageSettingsPastedFromClipboard>संग्रहण सेटिंग्स क्लिपबोर्ड से पेस्ट की गईं।</StorageSettingsPastedFromClipboard>
+  
+  <!-- EN: {0_label} requires adjacent walls to function. -->
+  <MessageBuildingRequiresAdjacentWalls>{0_label} को कार्य करने के लिए आसन्न दीवारों की आवश्यकता है।</MessageBuildingRequiresAdjacentWalls>
+
+  <!-- EN: Cannot skip: Refugee -->
+  <MessageLodgersCantFarskip>शरणार्थी</MessageLodgersCantFarskip>
+  
+  <!-- EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out for {DURATION}. -->
+  <MessageHackerLockedOut>{HACKER_nameDef} की हैकिंग का पता चला है। {HACKER_pronoun} को {DURATION} के लिए बाहर कर दिया गया है।</MessageHackerLockedOut>
+  <!-- EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out permanently. -->
+  <MessageHackerLockedOutPermanently>{HACKER_nameDef} की हैकिंग का पता चला है। {HACKER_pronoun} को स्थायी रूप से बाहर कर दिया गया है।</MessageHackerLockedOutPermanently>
+  <!-- EN: {0_labelShort} can be hacked again. -->
+  <MessageHackableUnlocked>{0_labelShort} को दोबारा हैक किया जा सकता है।</MessageHackableUnlocked>
+
+  <!-- EN: Shuttle cannot land here -->
+  <ShuttleCannotLand>शटल यहाँ उतर नहीं सकता।</ShuttleCannotLand>
+  <!-- EN: The shuttle has arrived. -->
+  <MessageShuttleArrived>शटल आ गया है।</MessageShuttleArrived>
+
+  <!-- EN: Warning: {THING_labelCap} will not function in this biome -->
+  <MessageGroundPenetratingScannerNoBedrock>चेतावनी: {THING_labelCap} इस बायोम में कार्य नहीं करेगा।</MessageGroundPenetratingScannerNoBedrock>
+
+</LanguageData>

@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: You can dismiss letters and messages by right-clicking on them. -->
+  <GameplayTips.DismissLetters>आप दाएँ क्लिक करके पत्रों और संदेशों को खारिज कर सकते हैं।</GameplayTips.DismissLetters>
+  <!-- EN: You can hold the shift key to queue orders on your colonists. -->
+  <GameplayTips.QueueOrders>आप अपने उपनिवेशवादियों के लिए आदेशों को कतारबद्ध करने के लिए शिफ्ट कुंजी दबाए रख सकते हैं।</GameplayTips.QueueOrders>
+  <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
+  <GameplayTips.ReorderColonistbar>आप उपनिवेशवादी बार पर उपनिवेशवादियों को पुन: व्यवस्थित करने के लिए राइट-क्लिक और ड्रैग कर सकते हैं।</GameplayTips.ReorderColonistbar>
+  <!-- EN: You can select the previous or next colonist with the , and . keys. -->
+  <GameplayTips.SelectPrevNextColonist>आप , और . कुंजियों से पिछले या अगले उपनिवेशवादी का चयन कर सकते हैं।</GameplayTips.SelectPrevNextColonist>
+  <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
+  <GameplayTips.SettingPainting>कई मेनू आपको एक सेटिंग पर क्लिक और ड्रैग करने की अनुमति देते हैं ताकि इसे कई प्रविष्टियों पर ‘रंग’ किया जा सके। यह पोशाक या भोजन प्रतिबंध जैसी चीजों के लिए भी काम करता है।</GameplayTips.SettingPainting>
+  <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
+  <GameplayTips.ManualPriorities>कार्य टैब के मैनुअल प्राथमिकताओं मोड में,  पहली प्राथमिकता है, जबकि  अंतिम प्राथमिकता है।</GameplayTips.ManualPriorities>
+  <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
+  <GameplayTips.ColonistMood>प्रत्येक उपनिवेशवादी का मनोदशा स्क्रीन के शीर्ष पर उपनिवेशवादी बार में उनके आइकन की पृष्ठभूमि में प्रदर्शित होता है।</GameplayTips.ColonistMood>
+  <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->
+  <GameplayTips.WorkTabChangeAllColonists>कार्य टैब में कार्य प्रकार के नाम पर शिफ्ट-क्लिक करने से एक साथ सभी उपनिवेशवादियों की सेटिंग्स बदल जाती हैं।</GameplayTips.WorkTabChangeAllColonists>
+  <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
+  <GameplayTips.WorkTabDecreasePriority>वर्क टैब में किसी संख्या पर राइट-क्लिक करने से मैनुअल प्राथमिकताओं का उपयोग करते हुए प्राथमिकता बढ़ाने के बजाय घट जाएगी।</GameplayTips.WorkTabDecreasePriority>
+  <!-- EN: You can hold the alt key to show detailed information about a specific tile. -->
+  <GameplayTips.CellInspector>आप Alt कुंजी दबाकर किसी विशिष्ट टाइल के बारे में विस्तृत जानकारी देख सकते हैं।</GameplayTips.CellInspector>
+  <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
+  <GameplayTips.GunfightCover>बंदूक की लड़ाई में, हमेशा कवर के पीछे रहें! लाइन बनाने के लिए राइट-क्लिक करें और खींचें अपने मसौदा सेनानियों को।</GameplayTips.GunfightCover>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
+  <GameplayTips.GunfightSpread>दाहिने बटन से खींचकर अपने drafted योद्धाओं को पंक्ति में लाएं। एक साथ झुके हुए लक्ष्य पर मारना आसान है!</GameplayTips.GunfightSpread>
+  <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
+  <GameplayTips.ShootingAccuracySmoke>धुआँ पूरी तरह से बुर्ज को लक्ष्य का पता लगाने से रोकता है, लेकिन लोग कम सटीकता के साथ अभी भी गोली चला सकते हैं।</GameplayTips.ShootingAccuracySmoke>
+  <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
+  <GameplayTips.DesignDefenses>बचाव योजना बनाते समय, मान लें कि शत्रु ड्रॉप पॉड या सुरंगों से अंदर आ जाएंगे। आंतरिक रक्षात्मक स्थान बनाएं।</GameplayTips.DesignDefenses>
+  <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
+  <GameplayTips.ShootingAccuracyFogRain>धुंधली या बारिश वाली मौसम में लंबी दूरी के हथियारों की सटीकता कम हो जाती है।</GameplayTips.ShootingAccuracyFogRain>
+  <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
+  <GameplayTips.ShootingTooltip>आप निशाने की संभावना का विश्लेषण निशानेबाज को चुनकर और माउस को लक्ष्य पर रखकर कर सकते हैं।</GameplayTips.ShootingTooltip>
+  <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
+  <GameplayTips.TurretsExplode>तोपें बहुत नुकसान झेलने पर फट जाती हैं। उन्हें बहुत करीब न रखें, और अपने लोगों को उनसे बहुत करीब न रखें।</GameplayTips.TurretsExplode>
+  <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
+  <GameplayTips.AnimalDeathExplosion>कुछ जानवर मृत्यु पर फट जाते हैं। आप जानवरों को शत्रुओं पर गिराने के लिए परिवहन पॉड का उपयोग कर सकते हैं। इस पर विचार करें।</GameplayTips.AnimalDeathExplosion>
+  <!-- EN: If you need help in a fight, call your allies using the comms console. -->
+  <GameplayTips.CallAllies>यदि आपको लड़ाई में मदद की ज़रूरत है, तो कॉम कंसोल का उपयोग करके अपने सहयोगियों को बुलाएँ।</GameplayTips.CallAllies>
+  <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
+  <GameplayTips.MaddenedAnimals>पागल जानवर किसी भी इंसान पर हमला करेंगे, जिसमें आपके दुश्मन भी शामिल हैं। आप इसका उपयोग कर सकते हैं।</GameplayTips.MaddenedAnimals>
+  <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
+  <GameplayTips.EMPDisablesTurretsShields>EMP bursts will temporarily disable turrets and shields.</GameplayTips.EMPDisablesTurretsShields>
+  <!-- EN: EMP bursts instantly break personal shields. -->
+  <GameplayTips.EMPDisablesPersonalShields>ईएमपी विस्फोट तुरंत व्यक्तिगत ढाल तोड़ देता है।</GameplayTips.EMPDisablesPersonalShields>
+  <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
+  <GameplayTips.HunterStealth>शिकारी की गुप्तता आँकड़ा पशु हमलों की संभावना कम करता है। यह शिकारी के पशुओं और निशानेबाजी कौशल से प्रभावित होता है।</GameplayTips.HunterStealth>
+  <!-- EN: Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting. -->
+  <GameplayTips.AnimalsAttackCloseRange>जानवर निकट दूरी से नुकसान पहुंचने पर हमला करने की अधिक संभावना रखते हैं। लंबी दूरी की, धीमी गति से चलने वाले हथियार शिकार के लिए सबसे सुरक्षित हैं।</GameplayTips.AnimalsAttackCloseRange>
+  <!-- EN: Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey. -->
+  <GameplayTips.AnimalsMayAttack>पशुओं के पूरे झुंड आप पर हमला कर सकते हैं जब आप उनका शिकार करने की कोशिश करते हैं। शिकार करने से पहले जोखिम स्वीकार करें, या कमजोर शिकार चुनें।</GameplayTips.AnimalsMayAttack>
+  <!-- EN: If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires. -->
+  <GameplayTips.AnimalDeathExplosionRain>यदि आप बारिश होने पर विस्फोटक चूहे और बूमालोप्स का शिकार करते हैं, तो उनकी मृत्यु से जंगल में आग नहीं लगेगी।</GameplayTips.AnimalDeathExplosionRain>
+  <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
+  <GameplayTips.GreaterSlaughterYield>ध्यानपूर्वक वध किए गए जानवर, हिंसक रूप से मारे गए जानवरों की तुलना में अधिक मांस और चमड़ा देते हैं।</GameplayTips.GreaterSlaughterYield>
+  <!-- EN: Place the caravan hitching spot where you want your caravans to form up. It's usually best to place it near your storage areas. -->
+  <GameplayTips.CaravanHitchingSpot>कारवां अटैचिंग स्पॉट को वहाँ रखें जहाँ आप अपने कारवां को इकट्ठा करना चाहते हैं। इसे आमतौर पर अपने भंडारण क्षेत्रों के पास रखना सबसे अच्छा होता है।</GameplayTips.CaravanHitchingSpot>
+  <!-- EN: During encounters away from home, you can place a caravan hitching spot to keep your animals from wandering. -->
+  <GameplayTips.CaravanHitchingSpotRoamers>घर से दूर मुठभेड़ों के दौरान, आप अपने जानवरों को भटकने से रोकने के लिए कारवां हिचिंग स्पॉट रख सकते हैं।</GameplayTips.CaravanHitchingSpotRoamers>
+  <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
+  <GameplayTips.CaravanRideableAnimals>कारवां घोड़े, गधे और ऊँट जैसे सवारी योग्य जानवरों को शामिल करने पर तेज़ी से चलते हैं।</GameplayTips.CaravanRideableAnimals>
+  <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
+  <GameplayTips.CaravanSmallerLessVisible>छोटे कारवां पर कम हमले होते हैं क्योंकि वे कम दिखाई देते हैं।</GameplayTips.CaravanSmallerLessVisible>
+  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan hitching spot. This will make packing much faster. -->
+  <GameplayTips.CaravanStockpileNearPackingSpot>कारवां बनाने से पहले, अपनी इच्छित वस्तुओं को कारवां जुड़ने वाले स्थान के पास एक भंडार में एकत्र करें। इससे पैकिंग बहुत तेज़ हो जाएगी।</GameplayTips.CaravanStockpileNearPackingSpot>
+  <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
+  <GameplayTips.CaravanUntrainedAnimals>यदि आपके कारवां में अप्रशिक्षित जानवर हैं, तो आप उन पर हमला करने से पहले उन्हें एक अलग कारवां में विभाजित कर सकते हैं, ताकि उन्हें लड़ाई से दूर रखा जा सके।</GameplayTips.CaravanUntrainedAnimals>
+  <!-- EN: Don't forget to pack medicine on your caravans. -->
+  <GameplayTips.CaravanDontForgetMedicine>अपने कारवां में दवा पैक करना न भूलें।</GameplayTips.CaravanDontForgetMedicine>
+  <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
+  <GameplayTips.StoryGenerator>रिमवर्ल्ड एक कहानी जनरेटर है, कौशल परीक्षण नहीं। एक बर्बाद कॉलोनी एक नाटकीय त्रासदी है, विफलता नहीं।</GameplayTips.StoryGenerator>
+  <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
+  <GameplayTips.BadAllies>कुछ उपनिवेशवादी बेकार से भी बदतर हैं। बुरे सहयोगी चुनौती का हिस्सा हैं।</GameplayTips.BadAllies>
+  <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
+  <GameplayTips.MakeCaravanRunBeforeDefeat>यदि आप किसी खतरे से बचाव नहीं कर सकते, तो एक कारवां बनाएं और भाग जाएं। आप अपना घर खो सकते हैं, लेकिन आपकी कहानी जारी रह सकती है।</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <!-- EN: When you have more wealth, more powerful enemies attack. If you want the challenge to scale with time instead, select 'Wealth-independent progress mode' in the storyteller settings. -->
+  <GameplayTips.FixedWealthMode>अधिक संपत्ति होने पर, अधिक शक्तिशाली शत्रु हमला करते हैं। यदि आप चुनौती को समय के साथ बढ़ाना चाहते हैं, तो कहानीकार सेटिंग्स में &amp;apos;संपत्ति-स्वतंत्र प्रगति मोड&amp;apos; चुनें।</GameplayTips.FixedWealthMode>
+  <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
+  <GameplayTips.StoneDoors>पत्थर के दरवाज़े बनाने से बचें। वे बहुत धीरे खुलते हैं, जिससे आपके उपनिवेशवादियों का समय बर्बाद होता है।</GameplayTips.StoneDoors>
+  <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
+  <GameplayTips.ChairsWorkbench>कुर्सियाँ कार्यस्थलों के सामने रखें ताकि श्रमिक काम करते समय आराम से बैठ सकें।</GameplayTips.ChairsWorkbench>
+  <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
+  <GameplayTips.MechanicalBreakdown>यांत्रिक संरचनाएं टूट जाती हैं और प्रतिस्थापन घटकों की आवश्यकता होती है। अनावश्यक चीज़ें न बनाएं।</GameplayTips.MechanicalBreakdown>
+  <!-- EN: Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them. -->
+  <GameplayTips.CarefulConstructionOnBridges>पुलों पर जो कुछ भी बनाया जाए, उस पर ध्यान दें। पुल विस्फोटों से आसानी से ढह जाते हैं, और आपकी इमारतें भी उनके साथ चली जाएँगी।</GameplayTips.CarefulConstructionOnBridges>
+  <!-- EN: Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean. -->
+  <GameplayTips.CleanRooms>साफ कमरे अनुसंधान गति बढ़ाते हैं, चिकित्सा परिणामों में सुधार करते हैं, और खाद्य विषाक्तता कम करते हैं। बाँझ टाइलें कमरों को अतिरिक्त साफ बनाती हैं।</GameplayTips.CleanRooms>
+  <!-- EN: Building your whole colony in one structure saves resources, but also makes it difficult to contain fires. -->
+  <GameplayTips.ColonyOneStructure>एक ही संरचना में पूरी कॉलोनी बनाने से संसाधन बचते हैं, लेकिन आग को नियंत्रित करना भी मुश्किल हो जाता है।</GameplayTips.ColonyOneStructure>
+  <!-- EN: Terrain affects movement speed. Build floors to help your colonists get around quicker. -->
+  <GameplayTips.TerrainMovementSpeed>भूभाग गति को प्रभावित करता है। अपने उपनिवेशवादियों को तेज़ी से घूमने में मदद करने के लिए फर्श बनाएँ।</GameplayTips.TerrainMovementSpeed>
+  <!-- EN: Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty. -->
+  <GameplayTips.TerrainCleanliness>विभिन्न भूभागों में अलग-अलग अंतर्निहित स्वच्छता स्तर होते हैं। टाइलें स्वाभाविक रूप से स्वच्छ होती हैं; गंदगी स्वाभाविक रूप से गंदी होती है।</GameplayTips.TerrainCleanliness>
+  <!-- EN: Some floor types are faster to clean than others. It takes much longer to clean carpet compared to metal tile. -->
+  <GameplayTips.TerrainCleanSpeed>कुछ फर्श के प्रकार दूसरों की तुलना में तेज़ी से साफ होते हैं। धातु टाइल की तुलना में कालीन को साफ करने में बहुत अधिक समय लगता है।</GameplayTips.TerrainCleanSpeed>
+  <!-- EN: You can give prisoners as gifts. Giving a prisoner back to their own faction will be highly appreciated. -->
+  <GameplayTips.PrisonersAsGifts>कैदियों को उपहार दिया जा सकता है। किसी कैदी को उनके अपने गुट को वापस करना अत्यधिक सराहना की जाएगी।</GameplayTips.PrisonersAsGifts>
+  <!-- EN: You can request specific types of trade caravans using the comms console. -->
+  <GameplayTips.RequestTradeCaravans>संचार कंसोल का उपयोग करके आप विशिष्ट प्रकार के व्यापार कारवां का अनुरोध कर सकते हैं।</GameplayTips.RequestTradeCaravans>
+  <!-- EN: You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations. -->
+  <GameplayTips.TransportPodsSendGift>आप परिवहन पॉड का उपयोग करके सीधे अन्य गुटों के ठिकानों पर उपहार भेज सकते हैं - यहाँ तक कि अपने दुश्मनों को भी। इससे गुट संबंध बेहतर होते हैं।</GameplayTips.TransportPodsSendGift>
+  <!-- EN: Keeping prisoners together saves space. However, prisoners kept together will try to break out together. -->
+  <GameplayTips.KeepingPrisonersTogether>कैदियों को एक साथ रखने से जगह बचती है। हालाँकि, एक साथ रखे गए कैदी एक साथ भागने की कोशिश करेंगे।</GameplayTips.KeepingPrisonersTogether>
+  <!-- EN: Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try. -->
+  <GameplayTips.EnemyFactionBaseDefenses>शत्रु गुट अड्डे बहुत अच्छी तरह से सुरक्षित हैं। आपको उन पर हमला करने की आवश्यकता नहीं है - लेकिन यदि आप कोशिश करने का निर्णय लेते हैं तो अच्छी तरह से तैयारी करें।</GameplayTips.EnemyFactionBaseDefenses>
+  <!-- EN: Cute tame animals will nuzzle your colonists, improving their mood. -->
+  <GameplayTips.AnimalNuzzle>प्यारे पालतू जानवर आपके उपनिवेशवादियों को सहलाएंगे, जिससे उनका मनोबल बढ़ेगा।</GameplayTips.AnimalNuzzle>
+  <!-- EN: Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them. -->
+  <GameplayTips.AnimalHerbivorousGrassArea>शाकाहारी जानवरों को घास वाले क्षेत्रों में नियुक्त करें। वे घास खाएंगे और आपको उन्हें खिलाने की आवश्यकता से बचाएंगे।</GameplayTips.AnimalHerbivorousGrassArea>
+  <!-- EN: If someone has a serious infection in a limb, you can remove the limb to save their life. -->
+  <GameplayTips.RemoveLimbInfection>यदि किसी अंग में गंभीर संक्रमण है, तो जीवन बचाने के लिए अंग को हटाया जा सकता है।</GameplayTips.RemoveLimbInfection>
+  <!-- EN: Sloshing through water makes people unhappy. Build a bridge when you can. -->
+  <GameplayTips.SloshingWater>पानी में छपाक-छपाक चलना लोगों को दुखी करता है। जब संभव हो, पुल बनाएं।</GameplayTips.SloshingWater>
+  <!-- EN: Luciferium can heal scars - even those on the eye or brain. It is, however, a permanent commitment. -->
+  <GameplayTips.Luciferium>लूसिफेरियम घावों को ठीक कर सकता है—यहाँ तक कि आँख या मस्तिष्क पर भी। हालाँकि, यह एक स्थायी प्रतिबद्धता है।</GameplayTips.Luciferium>
+  <!-- EN: Work and movement speed are affected by lighting. Everything is slower in the dark. -->
+  <GameplayTips.WorkMovementSpeedLighting>काम और गति की रफ़्तार रोशनी से प्रभावित होती है। अंधेरे में सब कुछ धीमा है।</GameplayTips.WorkMovementSpeedLighting>
+  <!-- EN: Deep underground caverns have a naturally stable temperature, even if it's very hot or cold outside. -->
+  <GameplayTips.DeepCavesTemperature>गहरे भूमिगत गुफाओं का तापमान स्वाभाविक रूप से स्थिर रहता है, भले ही बाहर बहुत गर्मी हो या ठंड।</GameplayTips.DeepCavesTemperature>
+  <!-- EN: Mountain bases are easy to defend. The downside is that people go crazy spending too long underground. And giant insects. -->
+  <GameplayTips.MountainBases>पहाड़ी अड्डे बचाव के लिए आसान हैं। नुकसान यह है कि लोग लंबे समय तक भूमिगत रहने से पागल हो जाते हैं। और विशाल कीड़े।</GameplayTips.MountainBases>
+  <!-- EN: Prisoners will join much quicker and attempt fewer breakouts when they're in a good mood. -->
+  <GameplayTips.PrisonersGoodMood>कैदी जल्दी शामिल होंगे और जब उनका मूड अच्छा होगा तो कम भागने का प्रयास करेंगे।</GameplayTips.PrisonersGoodMood>
+  <!-- EN: You can have multiple researchers working simultaneously at multiple research tables. -->
+  <GameplayTips.MultipleResearchers>एक साथ कई शोधकर्ता कई अनुसंधान तालिकाओं पर काम कर सकते हैं।</GameplayTips.MultipleResearchers>
+  <!-- EN: Geysers heat up rooms if enclosed. This can be dangerous, or useful. -->
+  <GameplayTips.GeysersHeatRooms>गिज़र बंद जगहों को गर्म करते हैं। यह खतरनाक या उपयोगी हो सकता है।</GameplayTips.GeysersHeatRooms>
+  <!-- EN: Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice. -->
+  <GameplayTips.ExtinguishFireArtillery>विस्फोट अपनी विस्फोट त्रिज्या में आग बुझा देते हैं। इससे तोपखाने के गोले आग रोकने के लिए उपयोगी हो जाते हैं जब कोई अन्य विकल्प न हो।</GameplayTips.ExtinguishFireArtillery>
+  <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
+  <GameplayTips.BestStoriesFromDarkestSituations>गंभीर झटके भी खेल के अंत का अर्थ नहीं हैं। हारा हुआ युद्ध खेलकर देखें - अक्सर सबसे अच्छी कहानियां सबसे कठिन परिस्थितियों से उत्पन्न होती हैं।</GameplayTips.BestStoriesFromDarkestSituations>
+  <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>हथियारों के भंडारों को अपनी जेलों से दूर रखें। जेल तोड़ने की कोशिशें बंदूकें और विस्फोटक होने पर कहीं अधिक खतरनाक हो जाती हैं।</GameplayTips.KeepWeaponsAwayFromPrisoners>
+  <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
+  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>जानवरों को पालते समय, सुनिश्चित करें कि उनके पास पर्याप्त भोजन है जो उन्हें खिलाने के लिए उपयुक्त हो।</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
+  <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
+  <GameplayTips.DroppingChunksWillForceDoorsOpen>दरवाजे में पत्थर या स्लैग का टुकड़ा गिराने से वह खुल जाएगा, जिससे आप शत्रुतापूर्ण वन्यजीवों और हमलावरों के प्रति असुरक्षित हो जाएंगे।</GameplayTips.DroppingChunksWillForceDoorsOpen>
+  <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
+  <GameplayTips.CleanLabs>साफ़ प्रयोगशालाएँ बाँझ टाइलों के साथ अनुसंधान गति बोनस देती हैं।</GameplayTips.CleanLabs>
+  <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
+  <GameplayTips.ChangeStoryteller>आप किसी भी समय विकल्पों मेनू के माध्यम से कहानीकार और खेलने की शैली बदल सकते हैं।</GameplayTips.ChangeStoryteller>
+  <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
+  <GameplayTips.MoreAlliesMoreTraders>जितने अधिक गुट आपके सहयोगी होंगे, उतने ही अधिक यादृच्छिक व्यापारी और सैन्य सहायता आपको प्राप्त होगी।</GameplayTips.MoreAlliesMoreTraders>
+  <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
+  <GameplayTips.CombatDrugsFromInventory>आप अपनी लड़ाकू इकाइयों को गो-जूस जैसे युद्धकालीन नशीले पदार्थों को ले जाने के लिए दवा नीतियाँ इस्तेमाल कर सकते हैं। लड़ाई की शुरुआत में एक त्वरित खुराक से युद्ध जीता जा सकता है।</GameplayTips.CombatDrugsFromInventory>
+  <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
+  <GameplayTips.SchedulesSetLong>लंबी अवधि के लिए एक गतिविधि के कार्यक्रम निर्धारित करें ताकि यात्रा का समय कम हो।</GameplayTips.SchedulesSetLong>
+  <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
+  <GameplayTips.StrawMatting>पुआल की चटाई गंदगी की अनदेखी करती है। इसका उपयोग अपने खलिहान के फर्श के लिए करें।</GameplayTips.StrawMatting>
+  <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
+  <GameplayTips.AnimalFilth>कुछ जानवर बहुत गंदगी उत्पन्न करते हैं। अपने हाथियों और मवेशियों को बाहर रखें।</GameplayTips.AnimalFilth>
+  <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
+  <GameplayTips.PredatorsAndFences>शिकारी बाड़ों या अवरोधों के दूसरी ओर के जानवरों का शिकार नहीं करेंगे।</GameplayTips.PredatorsAndFences>
+  <!-- EN: It's never game over. If everyone is dead or gone, you can create new wanderers to take over the remains of your colony. -->
+  <GameplayTips.NeverGameOver>कभी खेल खत्म नहीं होता। यदि सब मर जाते हैं या चले जाते हैं, तो आप नए आवारा लोग बना सकते हैं जो आपकी कॉलोनी के अवशेषों पर कब्ज़ा कर लें।</GameplayTips.NeverGameOver>
+  <!-- EN: Store books in bookcases. This increases the beauty of a room, makes nearby research benches faster, and increases the XP and recreation gained from reading. -->
+  <GameplayTips.StoreBooksInBookcases>पुस्तकों को बुकशेल्फ़ में रखें। इससे कमरे की सुंदरता बढ़ती है, आस-पास की रिसर्च बेंच तेज़ हो जाती हैं, और पढ़ने से मिलने वाला अनुभव और मनोरंजन बढ़ता है।</GameplayTips.StoreBooksInBookcases>
+  <!-- EN: Want a newly crafted item to be taken to a specific shelf? Once a shelf is named or linked with other shelves, it will appear as a hauling destination in the bill's “Details...” window. -->
+  <GameplayTips.TakeToShelves>नवनिर्मित वस्तु को किसी विशिष्ट शेल्फ तक ले जाना है? एक बार शेल्फ का नामकरण या अन्य शेल्फ से जोड़ दिए जाने पर, यह बिल के “विवरण…” विंडो में एक ढुलाई गंतव्य के रूप में प्रकट होगा।</GameplayTips.TakeToShelves>
+  <!-- EN: You can change to a 12 hour clock, or change Celsius temperatures to Fahrenheit, in the options menu. -->
+  <GameplayTips.ChangeUnits>विकल्प मेनू में, आप 12 घंटे की घड़ी में बदल सकते हैं, या सेल्सियस तापमान को फ़ारेनहाइट में बदल सकते हैं।</GameplayTips.ChangeUnits>
+  <!-- EN: When targeting a colonist with an ability or item, you can also target their portrait in the top colonist bar. -->
+  <GameplayTips.TargetColonistBar>किसी उपनिवेशवादी को क्षमता या वस्तु से लक्षित करते समय, आप शीर्ष उपनिवेशवादी पट्टी में उनके चित्र को भी लक्षित कर सकते हैं।</GameplayTips.TargetColonistBar>
+  <!-- EN: Some buildings are more efficient if they're in a dedicated room. Workbenches in their own room make a workshop. Research benches in their own room make a laboratory. -->
+  <GameplayTips.WorkTableRoomRole>कुछ इमारतें समर्पित कमरे में अधिक कुशल होती हैं। अपने कमरे में वर्कबेंच से कार्यशाला बनती है। अपने कमरे में रिसर्च बेंच से प्रयोगशाला बनती है।</GameplayTips.WorkTableRoomRole>
+  <!-- EN: You can rename bills in the bill details dialog. -->
+  <GameplayTips.RenamingBills>आप बिल विवरण संवाद में बिलों का नाम बदल सकते हैं।</GameplayTips.RenamingBills>
+  <!-- EN: Friendly fire can't happen if the shooter is close to their ally. You can safely put melee colonists in front of gun-wielding colonists. -->
+  <GameplayTips.FriendlyFire>मित्रवत आग नहीं हो सकती यदि निशानेबाज़ अपने सहयोगी के करीब हो। आप सुरक्षित रूप से हाथापाई उपनिवेशवादियों को बंदूक चलाने वाले उपनिवेशवादियों के सामने रख सकते हैं।</GameplayTips.FriendlyFire>
+  <!-- EN: Right-click on certain buttons in the orders menu for additional options. For example, you can forbid all items on a map or cancel all hunting jobs. -->
+  <GameplayTips.RightClickGizmos>कुछ बटनों पर दायाँ-क्लिक करने पर अतिरिक्त विकल्प मिलेंगे। उदाहरण के लिए, आप मानचित्र पर सभी वस्तुओं को मना कर सकते हैं या सभी शिकार कार्य रद्द कर सकते हैं।</GameplayTips.RightClickGizmos>
+  <!-- EN: Hold the shift key while scrolling the map to scroll faster. -->
+  <GameplayTips.FastScroll>शिफ्ट कुंजी दबाए रखते हुए मानचित्र को स्क्रॉल करने से तेज़ी से स्क्रॉल होगा।</GameplayTips.FastScroll>
+  <!-- EN: Shelves aren't just for show. They increase your storage capacity by holding multiple items on the same spot. -->
+  <GameplayTips.Shelves>शेल्फ सिर्फ़ प्रदर्शन के लिए नहीं हैं। वे एक ही जगह पर कई वस्तुएँ रखकर आपकी भंडारण क्षमता बढ़ाते हैं।</GameplayTips.Shelves>
+  <!-- EN: Mechanoids have some psychic sensitivity. Use a psychic lance on one to turn a fight. -->
+  <GameplayTips.MechanoidPsychicSensitivity>मेकैनॉइड्स में कुछ मानसिक संवेदनशीलता होती है। लड़ाई को मोड़ने के लिए उन पर एक मानसिक भाला इस्तेमाल करें।</GameplayTips.MechanoidPsychicSensitivity>
+  <!-- EN: Most colonists hate eating insect meat. Turn it into chemfuel using a biofuel refinery. -->
+  <GameplayTips.InsectMeat>अधिकांश उपनिवेशवादी कीड़े का मांस खाने से नफरत करते हैं। इसे बायोफ्यूल रिफाइनरी का उपयोग करके केमफ्यूल में बदलें।</GameplayTips.InsectMeat>
+  <!-- EN: Pressing Z will let you search the map for items, creatures, buildings, and more. You can search the world map too. -->
+  <GameplayTips.MapSearch>ज़ेड दबाने से आप नक्शे पर वस्तुओं, जीवों, इमारतों और बहुत कुछ खोज सकते हैं। आप विश्व नक्शे पर भी खोज सकते हैं।</GameplayTips.MapSearch>
+  
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: architect -->
+  <Architect.label>वास्तुकार</Architect.label>
+  <!-- EN: General-use controls for the architect mode menu. -->
+  <Architect.description>आर्किटेक्ट मोड मेनू के लिए सामान्य उपयोग नियंत्रण।</Architect.description>
+  
+  <!-- EN: debug menu -->
+  <DebugMenu.label>डीबग मेनू</DebugMenu.label>
+  <!-- EN: Controls used in debug menus. Active in development mode only. -->
+  <DebugMenu.description>विकास मोड में ही सक्रिय डिबग मेनू में प्रयुक्त नियंत्रण।</DebugMenu.description>
+  
+  <!-- EN: developer tools -->
+  <Development.label>डेवलपर उपकरण</Development.label>
+  <!-- EN: Controls for developers and modders. Active in development mode only. -->
+  <Development.description>डेवलपर्स और मॉडर्स के लिए नियंत्रण। केवल डेवलपमेंट मोड में सक्रिय।</Development.description>
+  
+  <!-- EN: in-game global -->
+  <Game.label>खेल वैश्विक</Game.label>
+  <!-- EN: Colony mode controls that apply in most situations. -->
+  <Game.description>कॉलोनी मोड नियंत्रण जो अधिकांश परिस्थितियों में लागू होते हैं।</Game.description>
+  
+  <!-- EN: camera -->
+  <GameMapCamera.label>कैमरा</GameMapCamera.label>
+  <!-- EN: Controls for the camera. -->
+  <GameMapCamera.description>कैमरे के नियंत्रण।</GameMapCamera.description>
+  
+  <!-- EN: main tabs -->
+  <MainTabs.label>मुख्य टैब</MainTabs.label>
+  <!-- EN: Controls for the main tabs. -->
+  <MainTabs.description>मुख्य टैब के लिए नियंत्रण।</MainTabs.description>
+  
+  <!-- EN: modifiers -->
+  <Modifiers.label>संशोधक</Modifiers.label>
+  <!-- EN: Controls used to modify other actions. -->
+  <Modifiers.description>कार्रवाइयों में बदलाव लाने के लिए उपयोग किए जाने वाले नियंत्रण।</Modifiers.description>
+  
+  <!-- EN: misc -->
+  <SelectionMisc.label>विविध</SelectionMisc.label>
+  <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
+  <SelectionMisc.description>विभिन्न वस्तुओं और खेल में मौजूद कई चीजों द्वारा पुन: उपयोग किए जाने वाले सामान्य नियंत्रण।</SelectionMisc.description>
+  
+  <!-- EN: special -->
+  <SelectionSpecial.label>विशेष</SelectionSpecial.label>
+  <!-- EN: Special controls reserved for specific functions on specific objects. -->
+  <SelectionSpecial.description>विशिष्ट वस्तुओं पर विशिष्ट कार्यों के लिए आरक्षित विशेष नियंत्रण।</SelectionSpecial.description>
+  
+</LanguageData>

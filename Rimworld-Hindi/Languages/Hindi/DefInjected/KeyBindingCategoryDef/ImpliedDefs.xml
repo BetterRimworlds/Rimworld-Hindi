@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: suelos tab -->
+  <Architect_Floors.label>मिट्टी टैब</Architect_Floors.label>
+  <!-- EN: Key bindings for the "Suelos" section of the Architect menu -->
+  <Architect_Floors.description>आर्किटेक्ट मेनू के “Suelos” खंड के लिए कुंजी संयोजन।</Architect_Floors.description>
+  
+  <!-- EN: mobiliario tab -->
+  <Architect_Furniture.label>फर्नीचर सूची</Architect_Furniture.label>
+  <!-- EN: Key bindings for the "Mobiliario" section of the Architect menu -->
+  <Architect_Furniture.description>आर्किटेक्ट मेनू के “मोबिलियारियो” खंड के लिए कुंजी बंधन।</Architect_Furniture.description>
+  
+  <!-- EN: diversión tab -->
+  <Architect_Joy.label>मनोरंजन टैब</Architect_Joy.label>
+  <!-- EN: Key bindings for the "Diversión" section of the Architect menu -->
+  <Architect_Joy.description>आर्किटेक्ट मेनू के "मनोरंजन" अनुभाग के लिए कुंजी बाइंडिंग।</Architect_Joy.description>
+  
+  <!-- EN: varios tab -->
+  <Architect_Misc.label>विविध टैब</Architect_Misc.label>
+  <!-- EN: Key bindings for the "Varios" section of the Architect menu -->
+  <Architect_Misc.description>आर्किटेक्ट मेनू के “वेरियोस” खंड के लिए कुंजी संयोजन।</Architect_Misc.description>
+  
+  <!-- EN: órdenes tab -->
+  <Architect_Orders.label>आदेश टैब</Architect_Orders.label>
+  <!-- EN: Key bindings for the "Órdenes" section of the Architect menu -->
+  <Architect_Orders.description>आर्किटेक्ट मेनू के “ऑर्डेन्स” खंड के लिए कुंजी संयोजन।</Architect_Orders.description>
+  
+  <!-- EN: electricidad tab -->
+  <Architect_Power.label>विद्युत टैब</Architect_Power.label>
+  <!-- EN: Key bindings for the "Electricidad" section of the Architect menu -->
+  <Architect_Power.description>आर्किटेक्ट मेनू के “इलेक्ट्रिकिडाड” खंड के लिए कुंजी बंधन।</Architect_Power.description>
+  
+  <!-- EN: producción tab -->
+  <Architect_Production.label>उत्पादन टैब</Architect_Production.label>
+  <!-- EN: Key bindings for the "Producción" section of the Architect menu -->
+  <Architect_Production.description>आर्किटेक्ट मेनू के “उत्पादन” खंड के लिए कुंजी बंधन।</Architect_Production.description>
+  
+  <!-- EN: seguridad tab -->
+  <Architect_Security.label>सुरक्षा टैब</Architect_Security.label>
+  <!-- EN: Key bindings for the "Seguridad" section of the Architect menu -->
+  <Architect_Security.description>आर्किटेक्ट मेनू के “सुरक्षा” खंड के लिए कुंजी संयोजन।</Architect_Security.description>
+  
+  <!-- EN: nave tab -->
+  <Architect_Ship.label>नेव टैब</Architect_Ship.label>
+  <!-- EN: Key bindings for the "Nave" section of the Architect menu -->
+  <Architect_Ship.description>आर्किटेक्ट मेनू के “नेव” खंड के लिए कुंजी संयोजन।</Architect_Ship.description>
+  
+  <!-- EN: estructuras tab -->
+  <Architect_Structure.label>संरचनाएँ टैब</Architect_Structure.label>
+  <!-- EN: Key bindings for the "Estructuras" section of the Architect menu -->
+  <Architect_Structure.description>आर्किटेक्ट मेनू के “एस्ट्रक्चरस” खंड के लिए कुंजी बंधन।</Architect_Structure.description>
+  
+  <!-- EN: temperatura tab -->
+  <Architect_Temperature.label>तापमान टैब</Architect_Temperature.label>
+  <!-- EN: Key bindings for the "Temperatura" section of the Architect menu -->
+  <Architect_Temperature.description>आर्किटेक्ट मेनू के “तापमान” खंड के लिए कुंजी संयोजन।</Architect_Temperature.description>
+  
+  <!-- EN: áreas tab -->
+  <Architect_Zone.label>क्षेत्र टैब</Architect_Zone.label>
+  <!-- EN: Key bindings for the "Áreas" section of the Architect menu -->
+  <Architect_Zone.description>आर्किटेक्ट मेनू के “क्षेत्र” खंड के लिए कुंजी बंधन।</Architect_Zone.description>
+  
+</LanguageData>

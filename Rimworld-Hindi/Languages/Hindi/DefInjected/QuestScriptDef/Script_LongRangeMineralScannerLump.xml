@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->Using your long-range mineral scanner, [worker_definite] has found a lump of [targetMineable_label] nearby.\n\nUnfortunately, it won't last - others will mine it first in [timeoutTicks_duration] if we don't.[lumpThreatDescription]</li>
+  -->
+  <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+    <li>questDescription->दूरगामी खनिज स्कैनर का उपयोग करते हुए [worker_definite] ने एक [targetMineable_labelVar] आपके स्थान के पास पाया है\n\nदुर्भाग्य से, यह ज्यादा देर तक नहीं टिकेगा - यदि आप जल्दी नहीं करते हैं तो अन्य इसे पहले ही खनन कर लेंगे [timeoutTicks_duration] आपके विरोधियों द्वारा दावा किया जाएगा।[lumpThreatDescription]</li>
+  </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[lump] of [targetMineableThing_label]</li>
+    <li>questName->[targetMineableThing_label] [lump]</li>
+    <li>questName->The [targetMineableThing_label] [lump]</li>
+    <li>questName->[adj] [targetMineableThing_label]</li>
+    <li>questName->[targetMineableThing_label] [discovered]</li>
+    <li>lump->lump</li>
+    <li>lump->pile</li>
+    <li>lump->deposit</li>
+    <li>lump->seam</li>
+    <li>lump->chunk</li>
+    <li>lump->pile</li>
+    <li>adj->distant</li>
+    <li>adj->far</li>
+    <li>adj->unknown</li>
+    <li>adj->scanned</li>
+    <li>discovered->discovered</li>
+    <li>discovered->detected</li>
+    <li>discovered->found</li>
+    <li>discovered->scanned</li>
+  -->
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings>
+    <li>questName->[lump] का [targetMineableThing_labelVar]</li>
+    <li>questName->[targetMineableThing_labelVar] का एक बड़ा ढेर [targetMineableThing_labelVar]</li>
+    <li>questName->की [targetMineableThing_labelVar] [adj] [targetMineableThing_labelVar] [adj]</li>
+    <li>questName->की खदान [targetMineableThing_labelVar] [discovered]</li>
+    <li>lump->एक ढेर</li>
+    <li>lump->ढेर</li>
+    <li>lump->जमा राशि</li>
+    <li>lump->एक नस</li>
+    <li>lump->एक टुकड़ा</li>
+    <li>lump->ढेर</li>
+    <li>adj->दूर का</li>
+    <li>adj->दूरस्थ</li>
+    <li>adj->अज्ञात</li>
+    <li>adj->स्कैन किया गया</li>
+    <li>discovered->खोज की गई</li>
+    <li>discovered->पता चला</li>
+    <li>discovered->मिली हुई</li>
+    <li>discovered->स्कैन किया गया</li>
+  </LongRangeMineralScannerLump.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>मिशन समाप्त हो गया: [resolvedQuestName]</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Others have mined the lump of [targetMineable_label]. The quest [resolvedQuestName] has expired. -->
+  <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>दूसरों ने से संसाधनों का खनन किया है [targetMineable_labelVar]। मिशन [resolvedQuestName] समाप्त हो गया है।</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomrat -->
+  <Boomrat.label>विस्फोटक चूहा</Boomrat.label>
+  <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
+  <Boomrat.description>चाहे जानबूझकर आनुवंशिक हथियार के रूप में, या एक असामान्य रक्षा तंत्र के रूप में, ये कृंतक जैसे जीव मरने पर एक शक्तिशाली आग लगाने वाला विस्फोट उत्पन्न करते हैं।</Boomrat.description>
+  <!-- EN: left claw -->
+  <Boomrat.tools.left_claw.label>बायां पंजा</Boomrat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Boomrat.tools.left_claw.labelNoLocation>पंजे</Boomrat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Boomrat.tools.right_claw.label>दायां पंजा</Boomrat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Boomrat.tools.right_claw.labelNoLocation>पंजे</Boomrat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Boomrat.tools.head.label>सिर</Boomrat.tools.head.label>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>इगुआना</Iguana.label>
+  <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
+  <Iguana.description>ये बड़ी छिपकलियां सामान्यतः पौधों पर भोजन करती हैं। हालांकि, क्रोधित होने पर, उनकी मजबूत त्वचा और तेज पंजे उन्हें काफी खतरनाक बना देते हैं।\n\nआराम करते हुए इगुआना अपना सिर ऊंचा रखते हैं, जिससे उन्हें एक मजेदार &amp;apos;घमंडी&amp;apos; रूप मिलता है। लेकिन वे घमंडी नहीं हैं; वे बस शिकारियों को देखने की कोशिश कर रहे हैं ताकि वे खाए न जाएं।</Iguana.description>
+  <!-- EN: left claw -->
+  <Iguana.tools.left_claw.label>बायां पंजा</Iguana.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Iguana.tools.left_claw.labelNoLocation>पंजे</Iguana.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Iguana.tools.right_claw.label>दायां पंजा</Iguana.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Iguana.tools.right_claw.labelNoLocation>पंजे</Iguana.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Iguana.tools.head.label>सिर</Iguana.tools.head.label>
+  
+  <!-- EN: raccoon -->
+  <Raccoon.label>रैकून</Raccoon.label>
+  <!-- EN: A small, hardy animal that ranges wide across forests and shrubland. It is happy to break into your garbage container, or your kitchen, to eat almost anything. -->
+  <Raccoon.description>एक छोटा, मजबूत जानवर जो जंगलों और झाड़ियों में दूर तक घूमता है। यह आपके कचरे के डिब्बे में, या आपकी रसोई में घुसकर लगभग कुछ भी खाने में खुश होता है।</Raccoon.description>
+  <!-- EN: left claw -->
+  <Raccoon.tools.left_claw.label>बायां पंजा</Raccoon.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Raccoon.tools.left_claw.labelNoLocation>पंजे</Raccoon.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Raccoon.tools.right_claw.label>दायां पंजा</Raccoon.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Raccoon.tools.right_claw.labelNoLocation>पंजे</Raccoon.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Raccoon.tools.head.label>सिर</Raccoon.tools.head.label>
+  
+  <!-- EN: rat -->
+  <Rat.label>चूहा</Rat.label>
+  <!-- EN: A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere. -->
+  <Rat.description>एक व्यापक रूप से घृणित कृंतक जो रसोई को दूषित करने और रोग फैलाने के लिए जाना जाता है, चूहे हर जगह मनुष्यों का पीछा करने का एक तरीका रखते हैं। यह लगभग कुछ भी खाता है और लगभग कहीं भी रहता है।</Rat.description>
+  <!-- EN: left claw -->
+  <Rat.tools.left_claw.label>बायां पंजा</Rat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Rat.tools.left_claw.labelNoLocation>पंजे</Rat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Rat.tools.right_claw.label>दायां पंजा</Rat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Rat.tools.right_claw.labelNoLocation>पंजे</Rat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Rat.tools.head.label>सिर</Rat.tools.head.label>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>गिलहरी</Squirrel.label>
+  <!-- EN: One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->
+  <Squirrel.description>गिलहरी कई मजबूत कृंतक प्रजातियों में से एक है जो मानव जाति के फैलने के साथ हर जगह पाई जाती है। इनकी विशेषता घनी पूंछ है, जिसका उपयोग ये खराब मौसम में छाते के रूप में करती हैं।</Squirrel.description>
+  <!-- EN: left claw -->
+  <Squirrel.tools.left_claw.label>बायां पंजा</Squirrel.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Squirrel.tools.left_claw.labelNoLocation>पंजे</Squirrel.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Squirrel.tools.right_claw.label>दायां पंजा</Squirrel.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Squirrel.tools.right_claw.labelNoLocation>पंजे</Squirrel.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Squirrel.tools.head.label>सिर</Squirrel.tools.head.label>
+  
+</LanguageData>

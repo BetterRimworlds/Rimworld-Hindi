@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: awful hospital -->
+  <HospitalPatientRoomStats.stages.awful_hospital.label>अस्पताल: खराब</HospitalPatientRoomStats.stages.awful_hospital.label>
+  <!-- EN: This hospital is awful. -->
+  <HospitalPatientRoomStats.stages.awful_hospital.description>यह अस्पताल बहुत खराब है।</HospitalPatientRoomStats.stages.awful_hospital.description>
+  <!-- EN: dull hospital -->
+  <HospitalPatientRoomStats.stages.dull_hospital.label>अस्पताल सुस्ती</HospitalPatientRoomStats.stages.dull_hospital.label>
+  <!-- EN: I'm stuck in a dull hospital. -->
+  <HospitalPatientRoomStats.stages.dull_hospital.description>मैं एक नीरस अस्पताल में फंसा हुआ/फंसी हुई हूँ।</HospitalPatientRoomStats.stages.dull_hospital.description>
+  <!-- EN: slightly impressive hospital -->
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>अस्पताल</HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>
+  <!-- EN: My hospital is slightly impressive. It makes me feel a bit better. -->
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>मेरा अस्पताल थोड़ा प्रभावशाली है। इससे मुझे थोड़ा बेहतर महसूस होता है।</HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>
+  <!-- EN: somewhat impressive hospital -->
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>अपेक्षाकृत अस्पताल</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>
+  <!-- EN: My hospital is impressive. It makes me feel better. -->
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>मेरा अस्पताल प्रभावशाली है। इससे मुझे बेहतर महसूस होता है।</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>
+  <!-- EN: very impressive hospital -->
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.label>अति प्रभावशाली अस्पताल</HospitalPatientRoomStats.stages.very_impressive_hospital.label>
+  <!-- EN: My hospital is very impressive. It makes me feel better. -->
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.description>मेरा अस्पताल बहुत प्रभावशाली है। इससे मुझे बेहतर महसूस होता है।</HospitalPatientRoomStats.stages.very_impressive_hospital.description>
+  <!-- EN: extremely impressive hospital -->
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>अति प्रभावशाली अस्पताल</HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>
+  <!-- EN: My hospital is extremely impressive. It makes me feel better already. -->
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>मेरा अस्पताल बहुत प्रभावशाली है। इससे मुझे पहले से ही बेहतर महसूस होता है।</HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>
+  <!-- EN: unbelievably impressive hospital -->
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>अविश्वसनीय अस्पताल</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>
+  <!-- EN: My hospital is unbelievably impressive. It makes me feel better already. -->
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>मेरा अस्पताल अविश्वसनीय रूप से प्रभावशाली है। इससे मुझे पहले से ही बेहतर महसूस होता है।</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>
+  <!-- EN: wondrously impressive hospital -->
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>अद्भुत अस्पताल</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>
+  <!-- EN: My hospital is wonderful! It makes me feel better already. -->
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>मेरा अस्पताल शानदार है! इससे मुझे पहले से ही बेहतर महसूस हो रहा है।</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>
+  
+  <!-- EN: awful barracks -->
+  <PrisonBarracks.stages.awful_barracks.label>खराब बैरक</PrisonBarracks.stages.awful_barracks.label>
+  <!-- EN: My prison barracks is an awful place. -->
+  <PrisonBarracks.stages.awful_barracks.description>मेरी जेल बैरक एक भयानक जगह है।</PrisonBarracks.stages.awful_barracks.description>
+  <!-- EN: dull barracks -->
+  <PrisonBarracks.stages.dull_barracks.label>सुस्त बैरक</PrisonBarracks.stages.dull_barracks.label>
+  <!-- EN: I'm living in a dull barracks. -->
+  <PrisonBarracks.stages.dull_barracks.description>मैं एक नीरस बैरक में रह रहा/रही हूँ।</PrisonBarracks.stages.dull_barracks.description>
+  <!-- EN: slightly impressive barracks -->
+  <PrisonBarracks.stages.slightly_impressive_barracks.label>थोड़ा प्रभावशाली बैरक</PrisonBarracks.stages.slightly_impressive_barracks.label>
+  <!-- EN: My prison barracks is slightly impressive. -->
+  <PrisonBarracks.stages.slightly_impressive_barracks.description>मेरी जेल बैरक थोड़ी प्रभावशाली है।</PrisonBarracks.stages.slightly_impressive_barracks.description>
+  <!-- EN: somewhat impressive barracks -->
+  <PrisonBarracks.stages.somewhat_impressive_barracks.label>बैरक</PrisonBarracks.stages.somewhat_impressive_barracks.label>
+  <!-- EN: My prison barracks is impressive. I like it. -->
+  <PrisonBarracks.stages.somewhat_impressive_barracks.description>मेरी जेल बैरक प्रभावशाली है। मुझे यह पसंद है।</PrisonBarracks.stages.somewhat_impressive_barracks.description>
+  <!-- EN: very impressive barracks -->
+  <PrisonBarracks.stages.very_impressive_barracks.label>बैरक</PrisonBarracks.stages.very_impressive_barracks.label>
+  <!-- EN: My prison barracks is very impressive. I like it. -->
+  <PrisonBarracks.stages.very_impressive_barracks.description>मेरी जेल बैरक बहुत प्रभावशाली है। मुझे यह पसंद है।</PrisonBarracks.stages.very_impressive_barracks.description>
+  <!-- EN: extremely impressive barracks -->
+  <PrisonBarracks.stages.extremely_impressive_barracks.label>बैरक</PrisonBarracks.stages.extremely_impressive_barracks.label>
+  <!-- EN: My prison barracks is extremely impressive. I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.extremely_impressive_barracks.description>मेरी जेल बैरक बेहद प्रभावशाली है। मुझे विश्वास नहीं हो रहा कि वे मुझे ऐसी जगह पर रख रहे हैं।</PrisonBarracks.stages.extremely_impressive_barracks.description>
+  <!-- EN: unbelievably impressive barracks -->
+  <PrisonBarracks.stages.unbelievably_impressive_barracks.label>अविश्वसनीय बैरक</PrisonBarracks.stages.unbelievably_impressive_barracks.label>
+  <!-- EN: My prison barracks is unbelievably impressive. I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.unbelievably_impressive_barracks.description>मेरी जेल बैरक अविश्वसनीय रूप से प्रभावशाली है। मुझे विश्वास नहीं हो रहा कि वे मुझे ऐसी जगह पर रख रहे हैं।</PrisonBarracks.stages.unbelievably_impressive_barracks.description>
+  <!-- EN: wondrously impressive barracks -->
+  <PrisonBarracks.stages.wondrously_impressive_barracks.label>शानदार बैरक</PrisonBarracks.stages.wondrously_impressive_barracks.label>
+  <!-- EN: My prison barracks is wonderful! I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.wondrously_impressive_barracks.description>मेरी जेल बैरक शानदार है! मुझे विश्वास नहीं हो रहा कि वे मुझे ऐसी जगह पर रख रहे हैं।</PrisonBarracks.stages.wondrously_impressive_barracks.description>
+  
+  <!-- EN: awful prison cell -->
+  <PrisonCell.stages.awful_prison_cell.label>भयानक कारावास</PrisonCell.stages.awful_prison_cell.label>
+  <!-- EN: My prison cell is an awful place. -->
+  <PrisonCell.stages.awful_prison_cell.description>मेरी जेल की कोठरी एक भयानक जगह है।</PrisonCell.stages.awful_prison_cell.description>
+  <!-- EN: mediocre prison cell -->
+  <PrisonCell.stages.mediocre_prison_cell.label>मध्यम कारागार</PrisonCell.stages.mediocre_prison_cell.label>
+  <!-- EN: My prison cell is dull. Still, could be worse. -->
+  <PrisonCell.stages.mediocre_prison_cell.description>मेरी कारागार कोशिका नीरस है। फिर भी, इससे बुरा हो सकता था।</PrisonCell.stages.mediocre_prison_cell.description>
+  <!-- EN: decent prison cell -->
+  <PrisonCell.stages.decent_prison_cell.label>उचित कारावास</PrisonCell.stages.decent_prison_cell.label>
+  <!-- EN: My prison cell is pretty decent. -->
+  <PrisonCell.stages.decent_prison_cell.description>मेरी जेल की कोठरी काफी अच्छी है।</PrisonCell.stages.decent_prison_cell.description>
+  <!-- EN: slightly impressive prison cell -->
+  <PrisonCell.stages.slightly_impressive_prison_cell.label>थोड़ी बेहतर बंदीगृह</PrisonCell.stages.slightly_impressive_prison_cell.label>
+  <!-- EN: My prison cell seems to be a nice place. -->
+  <PrisonCell.stages.slightly_impressive_prison_cell.description>मेरी कारागार कोशिका एक अच्छी जगह प्रतीत होती है।</PrisonCell.stages.slightly_impressive_prison_cell.description>
+  <!-- EN: impressive prison cell -->
+  <PrisonCell.stages.impressive_prison_cell.label>उत्कृष्ट कारावास</PrisonCell.stages.impressive_prison_cell.label>
+  <!-- EN: My prison cell is impressive. I can't believe they are keeping me in a room like this. -->
+  <PrisonCell.stages.impressive_prison_cell.description>मेरी जेल की कोठरी प्रभावशाली है। मुझे विश्वास नहीं हो रहा कि वे मुझे ऐसे कमरे में रख रहे हैं।</PrisonCell.stages.impressive_prison_cell.description>
+  <!-- EN: very impressive prison cell -->
+  <PrisonCell.stages.very_impressive_prison_cell.label>उत्कृष्ट कारावास</PrisonCell.stages.very_impressive_prison_cell.label>
+  <!-- EN: My prison cell is very impressive. I can't believe they are keeping me in a room like this. I love it! -->
+  <PrisonCell.stages.very_impressive_prison_cell.description>मेरी जेल की कोठरी बहुत प्रभावशाली है। मुझे विश्वास नहीं हो रहा कि वे मुझे ऐसे कमरे में रख रहे हैं। मुझे यह पसंद है!</PrisonCell.stages.very_impressive_prison_cell.description>
+  <!-- EN: extremely impressive prison cell -->
+  <PrisonCell.stages.extremely_impressive_prison_cell.label>अति प्रभावशाली कारागार</PrisonCell.stages.extremely_impressive_prison_cell.label>
+  <!-- EN: My prison cell is extremely impressive. I can't believe they are keeping me in a room like this. I love it! -->
+  <PrisonCell.stages.extremely_impressive_prison_cell.description>मेरी जेल की कोठरी बेहद शानदार है। मुझे विश्वास नहीं हो रहा कि वे मुझे ऐसे कमरे में रख रहे हैं। मुझे यह पसंद है!</PrisonCell.stages.extremely_impressive_prison_cell.description>
+  <!-- EN: unbelievably impressive prison cell -->
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.label>अविश्वसनीय कारागार</PrisonCell.stages.unbelievably_impressive_prison_cell.label>
+  <!-- EN: My prison cell is unbelievably impressive. This is the best place ever! -->
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.description>मेरी जेल की कोठरी अविश्वसनीय रूप से प्रभावशाली है। यह अब तक की सबसे अच्छी जगह है!</PrisonCell.stages.unbelievably_impressive_prison_cell.description>
+  <!-- EN: wondrously impressive prison cell -->
+  <PrisonCell.stages.wondrously_impressive_prison_cell.label>अद्भुत कारागार</PrisonCell.stages.wondrously_impressive_prison_cell.label>
+  <!-- EN: My prison cell is the best place one can ever imagine. I can stay here forever. -->
+  <PrisonCell.stages.wondrously_impressive_prison_cell.description>मेरी जेल की कोठरी सबसे अच्छी जगह है जिसकी कोई कल्पना कर सकता है। मैं यहां हमेशा रह सकता हूं।</PrisonCell.stages.wondrously_impressive_prison_cell.description>
+  
+</LanguageData>

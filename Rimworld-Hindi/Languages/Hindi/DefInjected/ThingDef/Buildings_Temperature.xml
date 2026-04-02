@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: campfire -->
+  <Campfire.label>अग्नि शिविर</Campfire.label>
+  <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+  <Campfire.description>भोजन बनाता है और गर्मी उत्पन्न करता है, और कुछ दिनों के बाद जल जाता है। सभी गर्मी स्रोतों की तरह, इसे घर के अंदर रखा जाना चाहिए ताकि इसमें गर्म करने के लिए एक बंद जगह हो। ईंधन भरने योग्य।</Campfire.description>
+  
+  <!-- EN: cooler -->
+  <Cooler.label>शीतक</Cooler.label>
+  <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+  <Cooler.description>दीवार में लगने वाली एक वायु-शीतलन मशीन। एक तरफ से ठंडी हवा निकलती है, जबकि दूसरी तरफ से गर्म हवा बाहर निकलती है। इसका उपयोग गर्मियों में कमरों को ठंडा करने या वाक-इन फ्रीजर बनाने के लिए किया जा सकता है।</Cooler.description>
+  
+  <!-- EN: heater -->
+  <Heater.label>हीटर</Heater.label>
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <Heater.description>एक उपकरण जो बिजली को गर्मी में परिवर्तित करता है। यह किसी विशिष्ट लक्षित तापमान तक पहुंचने के लिए स्वचालित रूप से स्वयं को चालू या बंद कर सकता है।</Heater.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>निष्क्रिय शीतक</PassiveCooler.label>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
+  <PassiveCooler.description>पानी के वाष्पीकरण से काम करने वाला एक पारंपरिक, बिना ऊर्जा वाला कूलर। नियमित रूप से लकड़ी से फिर से भरा जाना चाहिए। भोजन को ठंडा करने के लिए पर्याप्त कुशल नहीं है।</PassiveCooler.description>
+  
+  <!-- EN: vent -->
+  <Vent.label>वायु-निकास</Vent.label>
+  <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
+  <Vent.description>दो कमरों के बीच तापमान को बराबर करने का एक वेंट, जिससे लोग एक से दूसरे में न जा सकें।</Vent.description>
+  
+</LanguageData>

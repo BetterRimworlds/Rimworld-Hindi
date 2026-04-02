@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: depressive -->
+  <MoodOffsetDepressive.stages.depressive.label>अवसादग्रस्त</MoodOffsetDepressive.stages.depressive.label>
+  <!-- EN: Natural penalty from 'depressive' trait. -->
+  <MoodOffsetDepressive.stages.depressive.description>अवसादग्रस्त स्वभाव से स्वाभाविक दंड।</MoodOffsetDepressive.stages.depressive.description>
+  
+  <!-- EN: optimist -->
+  <MoodOffsetOptimist.stages.optimist.label>आशावादी</MoodOffsetOptimist.stages.optimist.label>
+  <!-- EN: Natural bonus from 'optimist' trait. -->
+  <MoodOffsetOptimist.stages.optimist.description>आशावादी स्वभाव से स्वाभाविक लाभ।</MoodOffsetOptimist.stages.optimist.description>
+  
+  <!-- EN: pessimist -->
+  <MoodOffsetPessimist.stages.pessimist.label>निराशावादी</MoodOffsetPessimist.stages.pessimist.label>
+  <!-- EN: Natural penalty from 'pessimist' trait. -->
+  <MoodOffsetPessimist.stages.pessimist.description>नकारात्मकतावादी लक्षण से स्वाभाविक दंड।</MoodOffsetPessimist.stages.pessimist.description>
+  
+  <!-- EN: sanguine -->
+  <MoodOffsetSanguine.stages.sanguine.label>आशावादी</MoodOffsetSanguine.stages.sanguine.label>
+  <!-- EN: Natural bonus from 'sanguine' trait. -->
+  <MoodOffsetSanguine.stages.sanguine.description>सanguine लक्षण से स्वाभाविक लाभ।</MoodOffsetSanguine.stages.sanguine.description>
+  
+  <!-- EN: Tortured artist -->
+  <MoodOffsetTorturedArtist.stages.Tortured_artist.label>यातनाग्रस्त कलाकार</MoodOffsetTorturedArtist.stages.Tortured_artist.label>
+  <!-- EN: Natural penalty from 'tortured artist' trait. -->
+  <MoodOffsetTorturedArtist.stages.Tortured_artist.description>उत्पीड़ित कलाकार गुण से स्वाभाविक दंड।</MoodOffsetTorturedArtist.stages.Tortured_artist.description>
+  
+</LanguageData>

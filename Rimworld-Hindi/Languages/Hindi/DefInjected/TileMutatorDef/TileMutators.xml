@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: caves -->
+  <Caves.label>गुफाएँ</Caves.label>
+  <!-- EN: Small cave networks can be found within the rocks. -->
+  <Caves.description>चट्टानों के भीतर छोटी गुफाएँ पाई जा सकती हैं।</Caves.description>
+  
+  <!-- EN: coast -->
+  <Coast.label>तट</Coast.label>
+  <!-- EN: This tile borders the coast. -->
+  <Coast.description>यह टाइल तट से सटी हुई है।</Coast.description>
+  
+  <!-- EN: mountain -->
+  <Mountain.label>पर्वत</Mountain.label>
+  <!-- EN: A mountain fills one side of this tile. -->
+  <Mountain.description>इस टाइल का एक भाग पर्वत से भरा है।</Mountain.description>
+  
+  <!-- EN: river -->
+  <River.label>नदी</River.label>
+  <!-- EN: A stream of fresh water flows through here. -->
+  <River.description>यहां से ताज़े पानी की धारा बहती है।</River.description>
+  
+  <!-- EN: underground cave -->
+  <UndergroundCave.label>भूमि गुफा</UndergroundCave.label>
+  
+</LanguageData>

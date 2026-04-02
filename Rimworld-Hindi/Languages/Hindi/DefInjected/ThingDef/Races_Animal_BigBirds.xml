@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>कसुवरी</Cassowary.label>
+  <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
+  <Cassowary.description>एक बड़ा उड़ानहीन पक्षी जिसके रंगीन पंख हैं। यह दिखने में सुंदर है, लेकिन इसकी लात बहुत भयानक होती है। यह हिंसा से चोट लगने या अक्षम पशु प्रशिक्षकों के सामने जल्दी क्रोधित होने के लिए जाना जाता है।</Cassowary.description>
+  <!-- EN: bird meat -->
+  <Cassowary.race.meatLabel>पक्षी मांस</Cassowary.race.meatLabel>
+  <!-- EN: claws -->
+  <Cassowary.tools.claws.label>पंजे</Cassowary.tools.claws.label>
+  <!-- EN: beak -->
+  <Cassowary.tools.beak.label>चोंच</Cassowary.tools.beak.label>
+  <!-- EN: head -->
+  <Cassowary.tools.head.label>सिर</Cassowary.tools.head.label>
+  
+  <!-- EN: emu -->
+  <Emu.label>एमू</Emu.label>
+  <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
+  <Emu.description>एक बड़ी उड़ानहीन पक्षी जिसकी बदसूरत शक्ल पर छोटी आँखें हैं। अपने बुरे स्वभाव के साथ, यह प्राकृतिक दुनिया का धूर्त है। इसे परेशान करें, और यह निश्चित रूप से बदला लेने की कोशिश करेगा।</Emu.description>
+  <!-- EN: claws -->
+  <Emu.tools.claws.label>पंजे</Emu.tools.claws.label>
+  <!-- EN: beak -->
+  <Emu.tools.beak.label>चोंच</Emu.tools.beak.label>
+  <!-- EN: head -->
+  <Emu.tools.head.label>सिर</Emu.tools.head.label>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>शुतुरमुर्ग</Ostrich.label>
+  <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
+  <Ostrich.description>सबसे बड़ा बिना बदले पक्षी, शुतुरमुर्ग अपनी तेज़ दौड़, बड़े अंडे और शक्तिशाली लात के लिए जाना जाता है। यह आसानी से क्रोधित हो जाता है।</Ostrich.description>
+  <!-- EN: claws -->
+  <Ostrich.tools.claws.label>पंजे</Ostrich.tools.claws.label>
+  <!-- EN: beak -->
+  <Ostrich.tools.beak.label>चोंच</Ostrich.tools.beak.label>
+  <!-- EN: head -->
+  <Ostrich.tools.head.label>सिर</Ostrich.tools.head.label>
+  
+</LanguageData>

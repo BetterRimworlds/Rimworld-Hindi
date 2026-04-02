@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drifter --><!-- EN: errante -->
+  <Drifter.label>आवारा</Drifter.label><!-- EN: errantes -->
+  <Drifter.labelPlural>एरेंटेस</Drifter.labelPlural>
+  
+  <!-- EN: pirate gunner --><!-- EN: artillero pirata -->
+  <Pirate.label>समुद्री डाकू तोपची</Pirate.label><!-- EN: artillera pirata -->
+  <Pirate.labelFemale>समुद्री डाकू तोपची</Pirate.labelFemale><!-- EN: artillero pirata -->
+  <Pirate.labelMale>आर्टिलेरो समुद्री डाकू</Pirate.labelMale><!-- EN: artilleros piratas -->
+  <Pirate.labelPlural>कलाकार समुद्री डाकू</Pirate.labelPlural>
+  
+  <!-- EN: scavenger gunner --><!-- EN: artillero carroñero -->
+  <Scavenger.label>आर्टिलेरो कैरोनेरो</Scavenger.label><!-- EN: artillera carroñera -->
+  <Scavenger.labelFemale>आर्टिलेरा कैरोन्येरा</Scavenger.labelFemale><!-- EN: artillero carroñero -->
+  <Scavenger.labelMale>आर्टिलेरो कैरोनेरो</Scavenger.labelMale><!-- EN: artilleros carroñeros -->
+  <Scavenger.labelPlural>आर्टिलेरोस कैरोनेरोस</Scavenger.labelPlural>
+  
+  <!-- EN: scavenger thrasher --><!-- EN: carroñero de la basura -->
+  <Thrasher.label>कचरा सियार</Thrasher.label><!-- EN: carroñera de la basura -->
+  <Thrasher.labelFemale>कचरे की गिद्ध—कचरे की गिद्धिका</Thrasher.labelFemale><!-- EN: carroñero de la basura -->
+  <Thrasher.labelMale>कचरा खाने वाला</Thrasher.labelMale><!-- EN: carroñeros de la basura -->
+  <Thrasher.labelPlural>कचरा खाने वाले</Thrasher.labelPlural>
+  
+</LanguageData>

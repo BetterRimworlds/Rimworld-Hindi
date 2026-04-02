@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alzheimer's -->
+  <Alzheimers.label>अल्जाइमर रोग</Alzheimers.label>
+  <!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
+  <Alzheimers.description>एक मस्तिष्क रोग जो आमतौर पर बुढ़ापे से जुड़ा होता है। अल्जाइमर रोग सोचने और याद रखने की क्षमता में प्रगतिशील गिरावट का कारण बनता है। मरीज़ों को करीबी रिश्तेदारों को भूलने और कभी-कभी भ्रम में इधर-उधर भटकने के लिए जाना जाता है।</Alzheimers.description><!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
+  <Alzheimers.labelNoun>एक मस्तिष्क रोग जो आमतौर पर बुढ़ापे से जुड़ा होता है। अल्जाइमर रोग सोचने और याद रखने की क्षमता में प्रगतिशील गिरावट का कारण बनता है। मरीज़ों को करीबी रिश्तेदारों को भूलने और कभी-कभी भ्रम में इधर-उधर भटकने के लिए जाना जाता है।</Alzheimers.labelNoun>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-0.label>मामूली</Alzheimers.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-1.label>मामूली</Alzheimers.stages.minor-1.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-0.label>गंभीर</Alzheimers.stages.major-0.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-1.label>गंभीर</Alzheimers.stages.major-1.label>
+  
+  <!-- EN: asthma -->
+  <Asthma.label>दमा</Asthma.label>
+  <!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
+  <Asthma.description>फेफड़ों में वायुमार्ग की एक दीर्घकालिक सूजन संबंधी बीमारी है। लक्षणों को रोकने के लिए नियमित देखभाल की आवश्यकता होती है।</Asthma.description><!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
+  <Asthma.labelNoun>फेफड़ों में वायुमार्ग की एक दीर्घकालिक सूजन संबंधी बीमारी। लक्षणों को रोकने के लिए नियमित देखभाल की आवश्यकता होती है।</Asthma.labelNoun>
+  <!-- EN: minor -->
+  <Asthma.stages.minor.label>मामूली</Asthma.stages.minor.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-0.label>गंभीर</Asthma.stages.major-0.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-1.label>गंभीर</Asthma.stages.major-1.label>
+  
+  <!-- EN: bad back -->
+  <BadBack.label>बुरी पीठ</BadBack.label>
+  <!-- EN: Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly. -->
+  <BadBack.description>रीढ़ की हड्डी और आसपास की मांसपेशियों में गिरावट। इससे हिलना और आसानी से झुकना मुश्किल हो जाता है।</BadBack.description>
+  <!-- EN: a bad back -->
+  <BadBack.labelNoun>बुरी पीठ</BadBack.labelNoun>
+  
+  <!-- EN: blindness -->
+  <Blindness.label>अंधापन</Blindness.label>
+  <!-- EN: Total inability to see. -->
+  <Blindness.description>देखने में पूर्ण अक्षमता।</Blindness.description><!-- EN: Total inability to see. -->
+  <Blindness.labelNoun>पूरी तरह से देखने में अक्षमता।</Blindness.labelNoun>
+  
+  <!-- EN: carcinoma -->
+  <Carcinoma.label>कार्सिनोमा</Carcinoma.label>
+  <!-- EN: A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.\n\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma. -->
+  <Carcinoma.description>कैंसरयुक्त ऊतक का एक गुच्छा। उपचार के बिना, कार्सिनोमा समय के साथ बढ़ेगा, जिससे लक्षण बदतर होंगे और अंततः रोगी की मृत्यु हो जाएगी।\n\nएक कुशल चिकित्सक कार्सिनोमा को निकाल सकता है। एक अकुशल चिकित्सक केवल कार्सिनोमा युक्त शरीर के अंग को काट सकता है।</Carcinoma.description>
+  <!-- EN: a carcinoma -->
+  <Carcinoma.labelNoun>कार्सिनोमा</Carcinoma.labelNoun>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-0.label>मामूली</Carcinoma.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-1.label>मामूली</Carcinoma.stages.minor-1.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-0.label>गंभीर</Carcinoma.stages.major-0.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-1.label>गंभीर</Carcinoma.stages.major-1.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-0.label>गंभीर</Carcinoma.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-1.label>गंभीर</Carcinoma.stages.extreme-1.label>
+  
+  <!-- EN: cataract -->
+  <Cataract.label>मोतियाबिंद</Cataract.label>
+  <!-- EN: Milky-looking opacity in the eye. Cataracts impair vision. -->
+  <Cataract.description>आँख में दूधिया अपारदर्शिता। मोतियाबिंद दृष्टि को बाधित करते हैं।</Cataract.description>
+  <!-- EN: a cataract -->
+  <Cataract.labelNoun>मोतियाबिंद</Cataract.labelNoun>
+  
+  <!-- EN: dementia -->
+  <Dementia.label>डिमेंशिया</Dementia.label>
+  <!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
+  <Dementia.description>तंत्रिका क्षरण जो सोचने और याद रखने की क्षमता में कमी का कारण बनता है। डिमेंशिया के विभिन्न कारण हैं जिनमें उम्र बढ़ना, विशिष्ट बीमारियाँ और विष शामिल हैं।</Dementia.description><!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
+  <Dementia.labelNoun>तंत्रिका क्षरण जो सोचने और याद रखने की क्षमता में कमी का कारण बनता है। डिमेंशिया के विभिन्न कारण हैं जिनमें उम्र बढ़ना, विशिष्ट बीमारियाँ और विष शामिल हैं।</Dementia.labelNoun>
+  
+  <!-- EN: frail -->
+  <Frail.label>कमज़ोर</Frail.label>
+  <!-- EN: Generalized loss of muscle and bone density. -->
+  <Frail.description>मांसपेशियों और हड्डी के घनत्व का सामान्यीकृत नुकसान।</Frail.description>
+  <!-- EN: frailty -->
+  <Frail.labelNoun>कमज़ोरी</Frail.labelNoun>
+  
+  <!-- EN: hearing loss -->
+  <HearingLoss.label>श्रवण हानि</HearingLoss.label>
+  <!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
+  <HearingLoss.description>कोक्लिया में बालों की कोशिकाओं के क्षरण के कारण धीमी आवाज़ सुनने में अक्षमता।</HearingLoss.description><!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
+  <HearingLoss.labelNoun>कोक्लिया में बालों की कोशिकाओं के क्षरण के कारण धीमी आवाज़ सुनने में असमर्थता।</HearingLoss.labelNoun>
+  
+  <!-- EN: artery blockage -->
+  <HeartArteryBlockage.label>धमनी रुकावट</HeartArteryBlockage.label>
+  <!-- EN: A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks. -->
+  <HeartArteryBlockage.description>दिल की महत्वपूर्ण धमनियों में से एक में रुकावट। हृदय धमनी अवरोधक यादृच्छिक रूप से हृदयघात उत्पन्न करते हैं।</HeartArteryBlockage.description>
+  <!-- EN: an artery blockage -->
+  <HeartArteryBlockage.labelNoun>धमनी रुकावट</HeartArteryBlockage.labelNoun>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-0.label>मामूली</HeartArteryBlockage.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-1.label>मामूली</HeartArteryBlockage.stages.minor-1.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-0.label>गंभीर</HeartArteryBlockage.stages.major-0.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-1.label>गंभीर</HeartArteryBlockage.stages.major-1.label>
+  <!-- EN: extreme -->
+  <HeartArteryBlockage.stages.extreme.label>गंभीर</HeartArteryBlockage.stages.extreme.label>
+  
+  <!-- EN: organ decay -->
+  <OrganDecay.label>अंग क्षय</OrganDecay.label>
+  <!-- EN: An untreatable degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people.\n\nThis organ will slowly lose function before dying completely. Replace it with a bionic or natural organ. -->
+  <OrganDecay.description>एक असाध्य अपक्षयी रोग जो एक एकल अंग को प्रभावित करता है। कारण जीवाणु या वायरल हो सकता है। बीमारी किसी अज्ञात प्राकृतिक भंडार से बेतरतीब ढंग से फैलती प्रतीत होती है; यह लोगों के बीच सीधे संक्रामक नहीं है।\n\nयह अंग पूरी तरह से मरने से पहले धीरे-धीरे कार्यक्षमता खो देगा। इसे एक बायोनीक या प्राकृतिक अंग से बदलें।</OrganDecay.description>
+  <!-- EN: {PAWN_labelShort}'s {1} was destroyed by organ decay. -->
+  <OrganDecay.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort} का {1} अंग क्षय से नष्ट हो गया।</OrganDecay.comps.HediffComp_DestroyOrgan.messageText>
+  <!-- EN: minor -->
+  <OrganDecay.stages.minor.label>मामूली</OrganDecay.stages.minor.label>
+  <!-- EN: moderate -->
+  <OrganDecay.stages.moderate.label>मध्यम</OrganDecay.stages.moderate.label>
+  <!-- EN: severe -->
+  <OrganDecay.stages.severe.label>गंभीर</OrganDecay.stages.severe.label>
+  <!-- EN: extreme -->
+  <OrganDecay.stages.extreme.label>गंभीर</OrganDecay.stages.extreme.label>
+  
+</LanguageData>

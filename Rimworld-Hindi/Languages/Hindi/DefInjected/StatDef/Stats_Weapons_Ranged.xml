@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Accuracy (long) -->
+  <AccuracyLong.label>सटीकता</AccuracyLong.label>
+  <!-- EN: The weapon's accuracy at a distance of 40 cells or more.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyLong.description>हथियार की 40 सेल या उससे अधिक दूरी पर सटीकता।\n\nएक वास्तविक गोली की हिट होने की संभावना अन्य कारकों से भी प्रभावित होगी।</AccuracyLong.description>
+  
+  <!-- EN: Accuracy (medium) -->
+  <AccuracyMedium.label>सटीकता</AccuracyMedium.label>
+  <!-- EN: The weapon's accuracy at a distance of 25 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyMedium.description>हथियार की 25 सेल की दूरी पर सटीकता।\n\nएक वास्तविक गोली लगने की संभावना अन्य कारकों से भी प्रभावित होगी।</AccuracyMedium.description>
+  
+  <!-- EN: Accuracy (short) -->
+  <AccuracyShort.label>सटीकता</AccuracyShort.label>
+  <!-- EN: The weapon's accuracy at a distance of 12 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyShort.description>हथियार की 12 सेल की दूरी पर सटीकता।\n\nएक वास्तविक गोली लगने की संभावना अन्य कारकों से भी प्रभावित होगी।</AccuracyShort.description>
+  
+  <!-- EN: Accuracy (close) -->
+  <AccuracyTouch.label>सटीकता</AccuracyTouch.label>
+  <!-- EN: The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyTouch.description>हथियार की 3 सेल या उससे कम दूरी पर सटीकता।\n\nएक वास्तविक गोली की हिट होने की संभावना अन्य कारकों से भी प्रभावित होगी।</AccuracyTouch.description>
+  
+  <!-- EN: armor penetration multiplier -->
+  <RangedWeapon_ArmorPenetrationMultiplier.label>कवच भेदन गुणक</RangedWeapon_ArmorPenetrationMultiplier.label>
+  <!-- EN: A multiplier applied to armor penetration. -->
+  <RangedWeapon_ArmorPenetrationMultiplier.description>कवच भेदन पर लागू एक गुणक।</RangedWeapon_ArmorPenetrationMultiplier.description>
+  
+  <!-- EN: ranged cooldown -->
+  <RangedWeapon_Cooldown.label>दूरस्थ शीतलन</RangedWeapon_Cooldown.label>
+  <!-- EN: How long it takes to recover after firing this weapon. -->
+  <RangedWeapon_Cooldown.description>इस हथियार को चलाने के बाद ठीक होने में लगने वाला समय।</RangedWeapon_Cooldown.description>
+  <!-- EN: {0} s -->
+  <RangedWeapon_Cooldown.formatString>{0} के आँकड़े</RangedWeapon_Cooldown.formatString>
+  
+  <!-- EN: damage multiplier -->
+  <RangedWeapon_DamageMultiplier.label>क्षति गुणक</RangedWeapon_DamageMultiplier.label>
+  <!-- EN: A multiplier applied to this weapon's damage. -->
+  <RangedWeapon_DamageMultiplier.description>यह हथियार के नुकसान पर लागू किया गया एक गुणक है।</RangedWeapon_DamageMultiplier.description>
+  
+  <!-- EN: range multiplier -->
+  <RangedWeapon_RangeMultiplier.label>दायरा गुणक</RangedWeapon_RangeMultiplier.label>
+  <!-- EN: A multiplier applied to this weapon's range. -->
+  <RangedWeapon_RangeMultiplier.description>यह हथियार की रेंज पर लागू किया गया एक गुणक है।</RangedWeapon_RangeMultiplier.description>
+  
+  <!-- EN: aiming time multiplier -->
+  <RangedWeapon_WarmupMultiplier.label>लक्ष्य समय गुणक</RangedWeapon_WarmupMultiplier.label>
+  <!-- EN: A multiplier applied to this weapon's aiming time. -->
+  <RangedWeapon_WarmupMultiplier.description>यह हथियार के लक्ष्य साधने के समय पर लागू किया गया गुणक है।</RangedWeapon_WarmupMultiplier.description>
+  
+</LanguageData>

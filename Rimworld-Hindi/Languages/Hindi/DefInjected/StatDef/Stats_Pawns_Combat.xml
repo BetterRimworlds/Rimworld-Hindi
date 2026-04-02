@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aiming time -->
+  <AimingDelayFactor.label>लक्ष्य समय</AimingDelayFactor.label>
+  <!-- EN: How long it takes to shoot after choosing a target. -->
+  <AimingDelayFactor.description>लक्ष्य चुनने के बाद गोली चलाने में लगने वाला समय।</AimingDelayFactor.description>
+  
+  <!-- EN: incoming damage multiplier -->
+  <IncomingDamageFactor.label>क्षति गुणक</IncomingDamageFactor.label>
+  <!-- EN: A multiplier on all incoming damage. -->
+  <IncomingDamageFactor.description>सभी आने वाली क्षति पर एक गुणक।</IncomingDamageFactor.description>
+  
+  <!-- EN: melee armor penetration -->
+  <MeleeArmorPenetration.label>नज़दीकी युद्ध कवच भेदन</MeleeArmorPenetration.label>
+  <!-- EN: Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon. -->
+  <MeleeArmorPenetration.description>नज़दीकी युद्ध में सभी हमलों का औसत कवच भेदन।\n\nयह आँकड़ा वर्तमान में उपयोग किए जा रहे हथियार को भी शामिल करता है।</MeleeArmorPenetration.description>
+  
+  <!-- EN: melee cooldown -->
+  <MeleeCooldownFactor.label>नज़दीकी युद्ध शीतकाल</MeleeCooldownFactor.label>
+  <!-- EN: A multiplier on the time this creature takes to recover after making a melee attack. -->
+  <MeleeCooldownFactor.description>नज़दीकी युद्ध हमले करने के बाद इस प्राणी को ठीक होने में लगने वाले समय पर एक गुणक।</MeleeCooldownFactor.description>
+  
+  <!-- EN: melee damage factor -->
+  <MeleeDamageFactor.label>नज़दीकी युद्ध क्षति कारक</MeleeDamageFactor.label>
+  <!-- EN: A multiplier on the amount of melee damage inflicted by this person. -->
+  <MeleeDamageFactor.description>A multiplier on the amount of melee damage inflicted by this person.</MeleeDamageFactor.description>
+  
+  <!-- EN: melee dodge chance -->
+  <MeleeDodgeChance.label>नज़दीकी युद्ध बचाव संभावना</MeleeDodgeChance.label>
+  <!-- EN: Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon. -->
+  <MeleeDodgeChance.description>निकटवर्ती हमले से बचने की संभावना जो अन्यथा लगते।\n\nपात्र लक्ष्य साधते या दूर से हथियार चलाते समय नहीं बचेंगे।</MeleeDodgeChance.description>
+  
+  <!-- EN: melee DPS -->
+  <MeleeDPS.label>नज़दीकी युद्ध DPS</MeleeDPS.label>
+  <!-- EN: Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor. -->
+  <MeleeDPS.description>नज़दीकी युद्ध में प्रति सेकंड औसत क्षति।\n\nयह आँकड़ा लक्ष्य के बचाव, जैसे कि चकमा देना और कवच, को अनदेखा करता है।</MeleeDPS.description>
+  
+  <!-- EN: melee hit chance -->
+  <MeleeHitChance.label>नज़दीकी युद्ध हिट संभावना</MeleeHitChance.label>
+  <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
+  <MeleeHitChance.description>निकटवर्ती लक्ष्य को मारने की संभावना।\n\nलक्ष्य अभी भी बच सकता है भले ही हम मारते।</MeleeHitChance.description>
+  
+  <!-- EN: Mortar miss radius multiplier -->
+  <MortarMissRadiusFactor.label>मोर्टार चूक त्रिज्या गुणक</MortarMissRadiusFactor.label>
+  <!-- EN: A multiplier on the miss radius of a mortar used by this person. Smaller numbers means more accurate mortar shells. -->
+  <MortarMissRadiusFactor.description>यह व्यक्ति द्वारा उपयोग किए जाने वाले मोर्टार की मिस त्रिज्या पर एक गुणक है। छोटी संख्याएँ अधिक सटीक मोर्टार गोले दर्शाती हैं।</MortarMissRadiusFactor.description>
+  <!-- EN: Mortar miss radius multiplier -->
+  <MortarMissRadiusFactor.labelForFullStatList>मोर्टार चूक त्रिज्या गुणक</MortarMissRadiusFactor.labelForFullStatList>
+  
+  <!-- EN: trap spring chance -->
+  <PawnTrapSpringChance.label>जाल स्प्रिंग संभावना</PawnTrapSpringChance.label>
+  <!-- EN: Chance to spring a trap the character is unaware of. -->
+  <PawnTrapSpringChance.description>चरित्र को पता नहीं चल पाने वाले जाल को सक्रिय करने की संभावना।</PawnTrapSpringChance.description>
+  
+  <!-- EN: ranged cooldown multiplier -->
+  <RangedCooldownFactor.label>दूरस्थ शीतलन गुणक</RangedCooldownFactor.label>
+  <!-- EN: A multiplier on the cooldown between bursts when using a ranged weapon. -->
+  <RangedCooldownFactor.description>दूरस्थ हथियार का उपयोग करते समय विस्फोटों के बीच कूलडाउन पर एक गुणक।</RangedCooldownFactor.description>
+  
+  <!-- EN: accuracy factor (long) -->
+  <ShootingAccuracyFactor_Long.label>सटीकता गुणक</ShootingAccuracyFactor_Long.label>
+  <!-- EN: A multiplier on accuracy at a distance of 40 cells or more. -->
+  <ShootingAccuracyFactor_Long.description>40 सेल या उससे अधिक दूरी पर सटीकता का गुणक।</ShootingAccuracyFactor_Long.description>
+  
+  <!-- EN: accuracy factor (medium) -->
+  <ShootingAccuracyFactor_Medium.label>सटीकता गुणक</ShootingAccuracyFactor_Medium.label>
+  <!-- EN: A multiplier on accuracy at a distance of 25 cells. -->
+  <ShootingAccuracyFactor_Medium.description>25 सेल की दूरी पर सटीकता का गुणक।</ShootingAccuracyFactor_Medium.description>
+  
+  <!-- EN: accuracy factor (short) -->
+  <ShootingAccuracyFactor_Short.label>सटीकता गुणक</ShootingAccuracyFactor_Short.label>
+  <!-- EN: A multiplier on accuracy at a distance of 12 cells. -->
+  <ShootingAccuracyFactor_Short.description>12 सेल की दूरी पर सटीकता पर एक गुणक।</ShootingAccuracyFactor_Short.description>
+  
+  <!-- EN: accuracy factor (close) -->
+  <ShootingAccuracyFactor_Touch.label>सटीकता गुणक</ShootingAccuracyFactor_Touch.label>
+  <!-- EN: A multiplier on accuracy at a distance of 3 cells or less. -->
+  <ShootingAccuracyFactor_Touch.description>3 सेल या उससे कम दूरी पर सटीकता का गुणक।</ShootingAccuracyFactor_Touch.description>
+  
+  <!-- EN: shooting accuracy -->
+  <ShootingAccuracyPawn.label>शूटिंग सटीकता</ShootingAccuracyPawn.label>
+  <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <ShootingAccuracyPawn.description>हर सेल की दूरी पर निशाना न चूकने की मूल संभावना।\n\nलक्ष्य लगाने की संभावना कई अन्य कारकों से भी प्रभावित होती है।\n\nकिसी भी शॉट के लिए निशाना लगने की व्याख्या देखने के लिए, एक निशानेबाज का चयन करें और लक्ष्य पर माउस ले जाएं।</ShootingAccuracyPawn.description>
+  <!-- EN: shooting accuracy (people) -->
+  <ShootingAccuracyPawn.labelForFullStatList>शूटिंग सटीकता</ShootingAccuracyPawn.labelForFullStatList>
+  
+  <!-- EN: stagger time multiplier -->
+  <StaggerDurationFactor.label>विलंब गुणक</StaggerDurationFactor.label>
+  <!-- EN: A multiplier on the duration of the stagger-slowdown that occurs when damage is taken. -->
+  <StaggerDurationFactor.description>क्षति होने पर होने वाले अस्थिर-धीमेपन की अवधि पर एक गुणक।</StaggerDurationFactor.description>
+  
+</LanguageData>

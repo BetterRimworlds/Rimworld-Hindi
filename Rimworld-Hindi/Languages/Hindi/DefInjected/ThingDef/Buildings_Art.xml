@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grand sculpture -->
+  <SculptureGrand.label>भव्य मूर्ति</SculptureGrand.label>
+  <!-- EN: A huge sculpture sized to dominate a room. -->
+  <SculptureGrand.description>एक विशाल मूर्ति जो किसी कमरे पर हावी होने के लिए आकार में है।</SculptureGrand.description>
+  
+  <!-- EN: large sculpture -->
+  <SculptureLarge.label>बड़ी मूर्ति</SculptureLarge.label>
+  <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
+  <SculptureLarge.description>एक मानव आकार की सामग्री को कलात्मक रूप में तराशा गया है।</SculptureLarge.description>
+  
+  <!-- EN: small sculpture -->
+  <SculptureSmall.label>छोटी मूर्ति</SculptureSmall.label>
+  <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
+  <SculptureSmall.description>एक धड़ के आकार की सामग्री को कलात्मक रूप में तराशा गया है।</SculptureSmall.description>
+  
+  <!-- EN: snowman -->
+  <Snowman.label>बर्फीला पुतला</Snowman.label>
+  <!-- EN: A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it. -->
+  <Snowman.description>बर्फ के बड़े गोलों का ढेर लगाकर किसी व्यक्ति की शक्ल बनाई जाती है। लोग इसे मनोरंजन के लिए बनाते हैं।</Snowman.description>
+  
+</LanguageData>

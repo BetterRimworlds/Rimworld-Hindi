@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>damaged_inf->bite</li>
+    <li>damaged_inf->chomp</li>
+    <li>damaged_inf(p=0.5)->nip</li>
+    <li>damaged_past->bit</li>
+    <li>damaged_past->chomped</li>
+    <li>damaged_past->nipped</li>
+    <li>damaged_past->gnawed</li>
+    <li>damaged_past(deflected!=True)->tore</li>
+    <li>damaged_present->biting</li>
+    <li>damaged_present->chomping</li>
+    <li>damaged_present->nipped</li>
+    <li>damaged_present->gnawing</li>
+    <li>damaged_present(deflected!=True)->tearing</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->exposing the flesh underneath</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->exposing the machinery underneath</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->leaving grisly tears in the skin</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->leaving grisly tears in the metal</li>
+    <li>destroyed_past->tore off</li>
+    <li>destroyed_past->ripped off</li>
+    <li>destroyed_past->bit off</li>
+    <li>destroyed_present->tearing off</li>
+    <li>destroyed_present->ripping off</li>
+    <li>destroyed_present->biting off</li>
+    <li>destroyed_suffix->[to] pieces</li>
+    <li>destroyed_suffix->[to] bits</li>
+    <li>destroyed_suffix->[to] chunks</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] shreds</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] strips</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] messy strips</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] an unrecognizable mess</li>
+  -->
+  <Maneuver_Bite.rulePack.rulesStrings>
+    <li>damaged_inf->काटना</li>
+    <li>damaged_inf->चबाना</li>
+    <li>damaged_inf(p=0.5)->काटना</li>
+    <li>damaged_past->काटा हुआ</li>
+    <li>damaged_past->काटा हुआ</li>
+    <li>damaged_past->काटा हुआ</li>
+    <li>damaged_past->कुतरना</li>
+    <li>damaged_past(deflected!=True)->फटा दिया</li>
+    <li>damaged_present->काट रहा है</li>
+    <li>damaged_present->चबा रहा है</li>
+    <li>damaged_present->काट रहा है</li>
+    <li>damaged_present->कुतर रहा है</li>
+    <li>damaged_present(deflected!=True)->फूँकते हुए</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->मांस को उजागर कर रहा है</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->मशीनरी के हिस्सों को उजागर कर रहा है</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->त्वचा पर तैलीय धब्बे छोड़ते हुए</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->धातु पर चिपचिपे दाग छोड़ते हुए</li>
+    <li>destroyed_past->छील लिया</li>
+    <li>destroyed_past->छिल गया</li>
+    <li>destroyed_past->काटा हुआ</li>
+    <li>destroyed_past->विनाशित</li>
+    <li>destroyed_present->फड़ रहा है</li>
+    <li>destroyed_present->छीलकर</li>
+    <li>destroyed_present->चबा रहा है</li>
+    <li>destroyed_present->ध्वस्त करते हुए</li>
+    <li>destroyed_suffix->[to] टुकड़े</li>
+    <li>destroyed_suffix->[to] टुकड़े</li>
+    <li>destroyed_suffix->[to] टुकड़े</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] टुकड़े</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] पट्टियाँ</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] मांस के टुकड़े</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] एक अपरिचित आपदा</li>
+  </Maneuver_Bite.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] dodged out of the way.</li>
+    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] blocked it.</li>
+  -->
+  <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] कोशिश की लात मारने की [TOOL_label] की आँखों में [RECIPIENT_definite], लेकिन [RECIPIENT_definite] बच गया।</li>
+    <li>r_logentry->[INITIATOR_definite] कोशिश की लात मारने की [TOOL_label] की आँखों में [RECIPIENT_definite], लेकिन [RECIPIENT_definite] उसने रोक दिया।</li>
+  </Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] kicked [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] kicked a spray of [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
+  -->
+  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] लात मारी [TOOL_label] की आँखों में [RECIPIENT_definite]।</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] छिड़का [TOOL_label] की आँखों में [RECIPIENT_definite]की आँखें।</li>
+  </Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but missed.</li>
+  -->
+  <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] कोशिश की लात मारने की [TOOL_label] की आँखों में [RECIPIENT_definite], पर चूक गया।</li>
+  </Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damaged_inf(p=2)->poke</li>
+    <li>damaged_inf(p=2)->jab</li>
+    <li>damaged_inf->prod</li>
+    <li>damaged_inf->shove</li>
+    <li>damaged_inf->stab</li>
+    <li>damaged_past(p=2)->poked</li>
+    <li>damaged_past(p=2)->jabbed</li>
+    <li>damaged_past->prodded</li>
+    <li>damaged_past->shoved</li>
+    <li>damaged_past->stabbed</li>
+    <li>damaged_present(p=2)->poking</li>
+    <li>damaged_present(p=2)->jabbing</li>
+    <li>damaged_present->prodding</li>
+    <li>damaged_present->shoving</li>
+    <li>damaged_present->stabbing</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->leaving an enormous bruise</li>
+    <li>flavortext_consequence->leaving the area visibly deformed</li>
+    <li>flavortext_consequence->knocking [RECIPIENT_objective] off balance</li>
+    <li>flavortext_consequence->knocking [RECIPIENT_objective] to the side</li>
+    <li>destroyed_past->shattered</li>
+    <li>destroyed_past->crushed</li>
+    <li>destroyed_past->obliterated</li>
+    <li>destroyed_past->annihilated</li>
+    <li>destroyed_past->broke</li>
+    <li>destroyed_present->shattering</li>
+    <li>destroyed_present->crushing</li>
+    <li>destroyed_present->obliterating</li>
+    <li>destroyed_present->annihilating</li>
+    <li>destroyed_present->breaking</li>
+    <li>destroyed_suffix->[to] pieces</li>
+    <li>destroyed_suffix->[to] bits</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] a fine mist</li>
+    <li>destroyed_suffix->[to] fragments</li>
+  -->
+  <Maneuver_Poke.rulePack.rulesStrings>
+    <li>damaged_inf(p=2)->चुभना</li>
+    <li>damaged_inf(p=2)->चुभना</li>
+    <li>damaged_inf->टटोला जाना</li>
+    <li>damaged_inf->धक्का देना</li>
+    <li>damaged_inf->घात करना</li>
+    <li>damaged_past(p=2)->चुभाया हुआ</li>
+    <li>damaged_past(p=2)->चुभाया हुआ</li>
+    <li>damaged_past->उकसाया गया</li>
+    <li>damaged_past->धक्का दिया गया</li>
+    <li>damaged_past->घात किया हुआ</li>
+    <li>damaged_present(p=2)->छेदकर</li>
+    <li>damaged_present(p=2)->चुभोते हुए</li>
+    <li>damaged_present->पुंचिंग (punching) or छेड़छाड़ (chhedchhad) - depending on context. If it's about poking with a weapon, पुंचिंग is better. If it's about annoying someone/something, छेड़छाड़ is better.</li>
+    <li>damaged_present->धक्का मार रहा है</li>
+    <li>damaged_present->घात कर रहा है</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->एक बड़ा खरोंच छोड़ते हुए</li>
+    <li>flavortext_consequence->क्षेत्र को स्पष्ट रूप से विकृत छोड़ रहा है।</li>
+    <li>flavortext_consequence->जो [RECIPIENT_objective] संतुलन बिगाड़ता है</li>
+    <li>flavortext_consequence->मार रहा[RECIPIENT_objective] एक तरफ</li>
+    <li>destroyed_past->कुचल दिया गया</li>
+    <li>destroyed_past->कुचल दिया गया</li>
+    <li>destroyed_past->विनाशित</li>
+    <li>destroyed_past->टूटा हुआ</li>
+    <li>destroyed_past->क्षतिग्रस्त</li>
+    <li>destroyed_present->कुचलते हुए</li>
+    <li>destroyed_present->कुचलना</li>
+    <li>destroyed_present->विनाश करते हुए</li>
+    <li>destroyed_present->ध्वस्त करते हुए</li>
+    <li>destroyed_present->फाड़ रहा है</li>
+    <li>destroyed_suffix->[to] टुकड़े</li>
+    <li>destroyed_suffix->[to] टुकड़े</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] एक महीन धुंध</li>
+    <li>destroyed_suffix->[to] टुकड़े</li>
+  </Maneuver_Poke.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>woundname->wound</li>
+    <li>woundname(p=0.3)->opening</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->and exposing the flesh underneath</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->and exposing the machinery underneath</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->and leaving a gory [woundname]</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] messy strips</li>
+    <li>destroyed_suffix->[to] strips</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] messy pieces</li>
+    <li>destroyed_suffix->[to] pieces</li>
+    <li>destroyed_suffix->[to] fragments</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] a pile of gore</li>
+  -->
+  <Maneuver_Scratch.rulePack.rulesStrings>
+    <li>woundname->घाव</li>
+    <li>woundname(p=0.3)->चीरा</li>
+    <li>flavortext_situation(RECIPIENT_flesh!=Mechanoid)->खून की बूँदें टपक रही हैं [woundname] से [woundname]</li>
+    <li>flavortext_situation->[घाव का नाम] से टपकते तरल पदार्थों के साथ [woundname]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->और नीचे की त्वचा को उजागर कर रहा है।</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->और नीचे की मशीनरी को उजागर कर रहा है।</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->और एक खूनी घाव छोड़ते हुए [woundname]</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] गंदी पट्टियाँ</li>
+    <li>destroyed_suffix->[to] पट्टियाँ</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] बिखरे हुए टुकड़े</li>
+    <li>destroyed_suffix->[to] टुकड़े</li>
+    <li>destroyed_suffix->[to] टुकड़े</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] खून का ढेर</li>
+  </Maneuver_Scratch.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damaged_inf(p=4)->scratch</li>
+    <li>damaged_inf(deflected!=True)->lacerate</li>
+    <li>damaged_inf(deflected!=True)->tear</li>
+    <li>damaged_inf->cut</li>
+    <li>damaged_past(p=4)->scratched</li>
+    <li>damaged_past(deflected!=True)->lacerated</li>
+    <li>damaged_past(deflected!=True)->tore</li>
+    <li>damaged_past->cut</li>
+    <li>damaged_present->scratching</li>
+    <li>damaged_present(deflected!=True)->lacerating</li>
+    <li>damaged_present(deflected!=True)->tearing</li>
+    <li>damaged_present->cutting</li>
+    <li>destroyed_past->mauled</li>
+    <li>destroyed_past->lacerated</li>
+    <li>destroyed_past->tore</li>
+    <li>destroyed_past->shredded</li>
+    <li>destroyed_past->ripped</li>
+    <li>destroyed_present->mauling</li>
+    <li>destroyed_present->lacerating</li>
+    <li>destroyed_present->tearing</li>
+    <li>destroyed_present->shredding</li>
+    <li>destroyed_present->ripping</li>
+  -->
+  <Maneuver_Scratch_Damage.rulePack.rulesStrings>
+    <li>damaged_inf(p=4)->खरोंचना</li>
+    <li>damaged_inf(deflected!=True)->चीरना</li>
+    <li>damaged_inf(deflected!=True)->फाड़ना</li>
+    <li>damaged_inf->काटना</li>
+    <li>damaged_past(p=4)->खरोंचा हुआ</li>
+    <li>damaged_past(deflected!=True)->चीर-फाड़ किया हुआ</li>
+    <li>damaged_past(deflected!=True)->फटा दिया</li>
+    <li>damaged_past->काटा हुआ</li>
+    <li>damaged_present->खरोंचते हुए</li>
+    <li>damaged_present(deflected!=True)->चीरता हुआ</li>
+    <li>damaged_present(deflected!=True)->फाड़ते हुए</li>
+    <li>damaged_present->काट रहा है</li>
+    <li>destroyed_past->चीर-फाड़ किया हुआ</li>
+    <li>destroyed_past->फटा हुआ</li>
+    <li>destroyed_past->छिलके वाला</li>
+    <li>destroyed_past->फटा हुआ</li>
+    <li>destroyed_past->विभाजित</li>
+    <li>destroyed_present->काट रहा है</li>
+    <li>destroyed_present->फटने वाला, चीरता हुआ</li>
+    <li>destroyed_present->छिलते हुए</li>
+    <li>destroyed_present->चीर रहा है</li>
+    <li>destroyed_present->चीरता हुआ</li>
+  </Maneuver_Scratch_Damage.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damaged_inf(p=4)->slash</li>
+    <li>damaged_inf->cut</li>
+    <li>damaged_inf->chop</li>
+    <li>damaged_inf->hack</li>
+    <li>damaged_inf->slice</li>
+    <li>damaged_inf(deflected!=True)->gash</li>
+    <li>damaged_past(p=4)->slashed</li>
+    <li>damaged_past->cut</li>
+    <li>damaged_past->chopped</li>
+    <li>damaged_past->hacked</li>
+    <li>damaged_past->sliced</li>
+    <li>damaged_past(deflected!=True)->gashed</li>
+    <li>damaged_present->slashing</li>
+    <li>damaged_present->cutting</li>
+    <li>damaged_present->slicing</li>
+    <li>damaged_present(deflected!=True)->gashing</li>
+    <li>damaged_present(deflected!=True)->tearing</li>
+    <li>damaged_present(deflected!=True)->lacerating</li>
+    <li>woundname->wound</li>
+    <li>woundname(p=0.3)->opening</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->exposing the flesh underneath</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->exposing the machinery underneath</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->leaving a gory [woundname]</li>
+    <li>destroyed_past->bisected</li>
+    <li>destroyed_past->divided</li>
+    <li>destroyed_past->halved</li>
+    <li>destroyed_past->separated</li>
+    <li>destroyed_past->split</li>
+    <li>destroyed_present->bisecting</li>
+    <li>destroyed_present->dividing</li>
+    <li>destroyed_present->halving</li>
+    <li>destroyed_present->separating</li>
+    <li>destroyed_present->splitting</li>
+    <li>destroyed_suffix->into neat pieces</li>
+    <li>destroyed_suffix->cleanly</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->exposing its inner workings</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->slicing it in twain</li>
+  -->
+  <Maneuver_Slash.rulePack.rulesStrings>
+    <li>damaged_inf(p=4)->काटना</li>
+    <li>damaged_inf->काटना</li>
+    <li>damaged_inf->काटना</li>
+    <li>damaged_inf->काटना</li>
+    <li>damaged_inf->काटना</li>
+    <li>damaged_inf(deflected!=True)->चीरना</li>
+    <li>damaged_past(p=4)->काटा हुआ</li>
+    <li>damaged_past->काटा हुआ</li>
+    <li>damaged_past->काटा हुआ</li>
+    <li>damaged_past->काटा हुआ</li>
+    <li>damaged_past->काटा हुआ</li>
+    <li>damaged_past(deflected!=True)->फटा हुआ</li>
+    <li>damaged_present->काट रहा है</li>
+    <li>damaged_present->काट रहा है</li>
+    <li>damaged_present->काट रहा है</li>
+    <li>damaged_present(deflected!=True)->चीर रहा है</li>
+    <li>damaged_present(deflected!=True)->फाड़ते हुए</li>
+    <li>damaged_present(deflected!=True)->चीर रहा है</li>
+    <li>woundname->घाव</li>
+    <li>woundname(p=0.3)->चीरा</li>
+    <li>flavortext_situation(RECIPIENT_flesh!=Mechanoid)->खून [woundname] से टपक रहा है [woundname]</li>
+    <li>flavortext_situation->से तरल टपक रहा है [woundname]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->नीचे की मांस को उजागर करना</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->नीचे की मशीनरी को उजागर करना</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->खून से लथपथ छोड़ते हुए [woundname]</li>
+    <li>destroyed_past->विभाजित</li>
+    <li>destroyed_past->विभाजित</li>
+    <li>destroyed_past->विभाजित</li>
+    <li>destroyed_past->विभाजित</li>
+    <li>destroyed_past->दो टुकड़ों में टूटा हुआ</li>
+    <li>destroyed_present->विभाजित करते हुए</li>
+    <li>destroyed_present->विभाजित करते हुए</li>
+    <li>destroyed_present->अलग करना</li>
+    <li>destroyed_present->अलग करते हुए</li>
+    <li>destroyed_present->टुकड़े-टुकड़े हो रहा है</li>
+    <li>destroyed_suffix->व्यवस्थित टुकड़ों में</li>
+    <li>destroyed_suffix->साफ़-सुथरे ढंग से</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->अपनी आंतरिक कार्यप्रणाली उजागर करते हुए</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->इसे दो भागों में काटते हुए</li>
+  </Maneuver_Slash.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->leaving an enormous bruise</li>
+    <li>flavortext_consequence->leaving the area visibly deformed</li>
+    <li>flavortext_consequence->knocking [RECIPIENT_objective] off balance</li>
+    <li>flavortext_consequence->knocking [RECIPIENT_objective] to the side</li>
+    <li>destroyed_suffix->[to] pieces</li>
+    <li>destroyed_suffix->[to] bits</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] a fine mist</li>
+    <li>destroyed_suffix->[to] fragments</li>
+  -->
+  <Maneuver_Smash.rulePack.rulesStrings>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->एक बड़ा खरोंच छोड़ते हुए</li>
+    <li>flavortext_consequence->क्षेत्र को स्पष्ट रूप से विकृत छोड़ रहा है।</li>
+    <li>flavortext_consequence->संतुलन बिगाड़कर[RECIPIENT_objective]</li>
+    <li>flavortext_consequence->मार रहा है[RECIPIENT_objective] एक तरफ</li>
+    <li>destroyed_suffix->[to] टुकड़े</li>
+    <li>destroyed_suffix->[to] टुकड़े</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->[to] एक महीन धुंध</li>
+    <li>destroyed_suffix->[to] टुकड़े</li>
+  </Maneuver_Smash.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damaged_inf->hit</li>
+    <li>damaged_inf->smash</li>
+    <li>damaged_inf->bash</li>
+    <li>damaged_inf->slam</li>
+    <li>damaged_inf->strike</li>
+    <li>damaged_inf->beat</li>
+    <li>damaged_past->hit</li>
+    <li>damaged_past->smashed</li>
+    <li>damaged_past->bashed</li>
+    <li>damaged_past->slammed</li>
+    <li>damaged_past->struck</li>
+    <li>damaged_past->beat</li>
+    <li>damaged_present->smashing</li>
+    <li>damaged_present->bashing</li>
+    <li>damaged_present(deflected!=True)->bruising</li>
+    <li>destroyed_past->shattered</li>
+    <li>destroyed_past->crushed</li>
+    <li>destroyed_past->broke</li>
+    <li>destroyed_present->shattering</li>
+    <li>destroyed_present->crushing</li>
+    <li>destroyed_present->breaking</li>
+  -->
+  <Maneuver_Smash_Damage.rulePack.rulesStrings>
+    <li>damaged_inf->मारना</li>
+    <li>damaged_inf->कुचलना</li>
+    <li>damaged_inf->मारना</li>
+    <li>damaged_inf->धक्का मारना</li>
+    <li>damaged_inf->मारना</li>
+    <li>damaged_inf->मारना</li>
+    <li>damaged_past->मारा गया</li>
+    <li>damaged_past->कुचल दिया गया</li>
+    <li>damaged_past->पीटा हुआ</li>
+    <li>damaged_past->धक्का दिया हुआ</li>
+    <li>damaged_past->मारा हुआ</li>
+    <li>damaged_past->पीटा हुआ</li>
+    <li>damaged_present->कुचलना</li>
+    <li>damaged_present->पीट रहा है</li>
+    <li>damaged_present(deflected!=True)->चोट लग रही है</li>
+    <li>destroyed_past->कुचल दिया गया</li>
+    <li>destroyed_past->टूटा हुआ</li>
+    <li>destroyed_past->फंसा हुआ</li>
+    <li>destroyed_present->कुचलते हुए</li>
+    <li>destroyed_present->कुचल रहा है</li>
+    <li>destroyed_present->भेदन करते हुए</li>
+  </Maneuver_Smash_Damage.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damaged_inf(p=4)->stab</li>
+    <li>damaged_inf->jab</li>
+    <li>damaged_inf(deflected!=True)->pierce</li>
+    <li>damaged_inf(deflected!=True)->puncture</li>
+    <li>damaged_inf(deflected!=True)->skewer</li>
+    <li>damaged_past(p=4)->stabbed</li>
+    <li>damaged_past->jabbed</li>
+    <li>damaged_past(deflected!=True)->pierced</li>
+    <li>damaged_past(deflected!=True)->punctured</li>
+    <li>damaged_past(deflected!=True)->skewered</li>
+    <li>damaged_present(deflected!=True)->piercing</li>
+    <li>damaged_present(deflected!=True)->puncturing</li>
+    <li>damaged_present(deflected!=True)->penetrating</li>
+    <li>damaged_present(deflected!=True)->skewering</li>
+    <li>woundname->hole</li>
+    <li>woundname->wound</li>
+    <li>woundname->crevice</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->leaving a bloody [woundname]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->leaving a torn [woundname]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->leaving a bleeding [woundname]</li>
+    <li>destroyed_past->impaled</li>
+    <li>destroyed_past->perforated</li>
+    <li>destroyed_past->skewered</li>
+    <li>destroyed_present->impaling</li>
+    <li>destroyed_present->perforating</li>
+    <li>destroyed_present->skewering</li>
+    <li>destroyed_suffix->straight through</li>
+    <li>destroyed_suffix->leaving a clean hole</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid,target_part_destroyed_count==1)->leaving it leaking gory fluids</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->leaving it leaking unrecognizable fluids</li>
+  -->
+  <Maneuver_Stab.rulePack.rulesStrings>
+    <li>damaged_inf(p=4)->घात करना</li>
+    <li>damaged_inf->चुभना</li>
+    <li>damaged_inf(deflected!=True)->भेदन करना</li>
+    <li>damaged_inf(deflected!=True)->पंचर करना</li>
+    <li>damaged_inf(deflected!=True)->छेदन करना</li>
+    <li>damaged_past(p=4)->चुभाया हुआ</li>
+    <li>damaged_past->चुभाया हुआ</li>
+    <li>damaged_past(deflected!=True)->भेदा हुआ</li>
+    <li>damaged_past(deflected!=True)->छेदित</li>
+    <li>damaged_past(deflected!=True)->छेदित</li>
+    <li>damaged_present(deflected!=True)->भेदन करते हुए</li>
+    <li>damaged_present(deflected!=True)->भेदन करते हुए</li>
+    <li>damaged_present(deflected!=True)->प्रवेश करते हुए</li>
+    <li>damaged_present(deflected!=True)->छेद रहा है</li>
+    <li>woundname_mas->छेद</li>
+    <li>woundname->छेद</li>
+    <li>woundname->घाव</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->खून से लथपथ छोड़ते हुए [woundname]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->एक खूनी घाव छोड़ते हुए [woundname_mas]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->खून बहता हुआ [woundname]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->एक भयानक घाव छोड़ते हुए [woundname_mas]</li>
+    <li>destroyed_past->छेदा हुआ</li>
+    <li>destroyed_past->छेदित</li>
+    <li>destroyed_past(p=0.3)->पिरोया हुआ</li>
+    <li>destroyed_present->भेदी रहा है</li>
+    <li>destroyed_present->भेदी रहा है</li>
+    <li>destroyed_present(p=0.3)->पिरो रहा है</li>
+    <li>destroyed_suffix->एक बड़ा छेद छोड़ते हुए</li>
+    <li>destroyed_suffix->एक साफ छेद छोड़ते हुए</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid,target_part_destroyed_count==1)->खून से सने तरल पदार्थ रिसते हुए छोड़ दिया।</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->अपरिचित तरल पदार्थ रिसते हुए छोड़ दिया।</li>
+  </Maneuver_Stab.rulePack.rulesStrings>
+  
+</LanguageData>

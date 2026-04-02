@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New Arrivals -->
+  <PlayerColony.label>नए आगमन</PlayerColony.label>
+  <!-- EN: A colony of recently-arrived off-worlders. -->
+  <PlayerColony.description>हाल ही में दूसरे ग्रह से आए लोगों की एक कॉलोनी।</PlayerColony.description>
+  <!-- EN: leader -->
+  <PlayerColony.leaderTitle>नेता प्रमुख व्यक्ति</PlayerColony.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerColony.messageDefendersAttacking>{0} से {1} आपके {2} पर हमला कर रहे हैं।</PlayerColony.messageDefendersAttacking>
+  <!-- EN: colonist -->
+  <PlayerColony.pawnSingular>कॉलोनीवासी</PlayerColony.pawnSingular>
+  <!-- EN: colonists -->
+  <PlayerColony.pawnsPlural>कॉलोनिस्ट</PlayerColony.pawnsPlural>
+  
+  <!-- EN: New Tribe -->
+  <PlayerTribe.label>नया कबीला</PlayerTribe.label>
+  <!-- EN: A small tribe. -->
+  <PlayerTribe.description>एक छोटा कबीला।</PlayerTribe.description>
+  <!-- EN: leader -->
+  <PlayerTribe.leaderTitle>नेता प्रमुख व्यक्ति</PlayerTribe.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerTribe.messageDefendersAttacking>{0} से {1} आपके {2} पर हमला कर रहे हैं।</PlayerTribe.messageDefendersAttacking>
+  <!-- EN: tribesman -->
+  <PlayerTribe.pawnSingular>जनजातीय सदस्य</PlayerTribe.pawnSingular>
+  <!-- EN: tribespeople -->
+  <PlayerTribe.pawnsPlural>जनजातीय लोगों</PlayerTribe.pawnsPlural>
+  
+</LanguageData>

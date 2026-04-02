@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals -->
+  <Animals.label>जानवर</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
+  <Animals.description>जानवरों को पालतू बनाना, प्रशिक्षित करना और नियंत्रित करना।</Animals.description>
+  <!-- EN:
+    <li>subject->animals</li>
+    <li>subject->herding</li>
+    <li>subject->taming</li>
+    <li>subject->livestock</li>
+    <li>subject->breeding</li>
+    <li>subject->zoology</li>
+    <li>subject->husbandry</li>
+    <li>subject->herding</li>
+    <li>subject->domestication</li>
+    <li>subject->fauna</li>
+    <li>subject->wildlife</li>
+    <li>subject->poultry</li>
+  -->
+  <Animals.generalRules.rulesStrings>
+    <li>subject->जानवर</li>
+    <li>subject->चरवाही</li>
+    <li>subject->पालतू बनाना</li>
+    <li>subject->पशुधन</li>
+    <li>subject->प्रजनन</li>
+    <li>subject->प्राणीशास्त्र</li>
+    <li>subject->पशुपालन</li>
+    <li>subject->चरवाही</li>
+    <li>subject->पालतूकरण</li>
+    <li>subject->वन्यजीव</li>
+    <li>subject->वन्यजीव</li>
+    <li>subject->मुर्गी पालन</li>
+  </Animals.generalRules.rulesStrings>
+  <!-- EN: animals -->
+  <Animals.skillLabel>जानवर</Animals.skillLabel>
+  
+  <!-- EN: artistic -->
+  <Artistic.label>कलात्मक</Artistic.label>
+  <!-- EN: Crafting art. -->
+  <Artistic.description>कलात्मक मूर्तियाँ बनाना।</Artistic.description>
+  <!-- EN:
+    <li>subject->art</li>
+    <li>subject->pottery</li>
+    <li>subject->sculpting</li>
+    <li>subject->painting</li>
+    <li>subject->creativity</li>
+    <li>subject->expression</li>
+    <li>subject->aesthetics</li>
+    <li>subject->design</li>
+    <li>subject->sculpture</li>
+    <li>subject->impressionism</li>
+    <li>subject->artistry</li>
+  -->
+  <Artistic.generalRules.rulesStrings>
+    <li>subject->कला</li>
+    <li>subject->मिट्टी के बर्तन</li>
+    <li>subject->मूर्तिकला</li>
+    <li>subject->चित्रकला</li>
+    <li>subject->रचनात्मकता</li>
+    <li>subject->अभिव्यक्ति</li>
+    <li>subject->सौंदर्यशास्त्र</li>
+    <li>subject->डिज़ाइन</li>
+    <li>subject->मूर्तिकला</li>
+    <li>subject->प्रभाववाद</li>
+    <li>subject->कलात्मकता</li>
+  </Artistic.generalRules.rulesStrings>
+  <!-- EN: artistic -->
+  <Artistic.skillLabel>कलात्मक</Artistic.skillLabel>
+  
+  <!-- EN: construction -->
+  <Construction.label>निर्माण</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>संरचनाओं और अन्य वस्तुओं का निर्माण और विध्वंस।</Construction.description>
+  <!-- EN:
+    <li>subject->construction</li>
+    <li>subject->building</li>
+    <li>subject->architecture</li>
+    <li>subject->engineering</li>
+    <li>subject->design</li>
+    <li>subject->renovation</li>
+    <li>subject->structures</li>
+    <li>subject->foundation</li>
+    <li>subject->carpentry</li>
+    <li>subject->infrastructure</li>
+  -->
+  <Construction.generalRules.rulesStrings>
+    <li>subject->निर्माण</li>
+    <li>subject->इमारत</li>
+    <li>subject->वास्तुकला</li>
+    <li>subject->इंजीनियरिंग</li>
+    <li>subject->डिज़ाइन</li>
+    <li>subject->नवीनीकरण</li>
+    <li>subject->संरचनाएँ</li>
+    <li>subject->नींव</li>
+    <li>subject->बढ़ईगिरी</li>
+    <li>subject->बुनियादी ढांचा</li>
+  </Construction.generalRules.rulesStrings>
+  <!-- EN: construction -->
+  <Construction.skillLabel>निर्माण</Construction.skillLabel>
+  
+  <!-- EN: cooking -->
+  <Cooking.label>खाना बनाना</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>कच्चे सामग्रियों से भोजन तैयार करना और आकस्मिक विषाक्तता को कम करना।</Cooking.description>
+  <!-- EN:
+    <li>subject->cooking</li>
+    <li>subject->food</li>
+    <li>subject->baking</li>
+    <li>subject->cuisine</li>
+    <li>subject->recipes</li>
+    <li>subject->gastronomy</li>
+    <li>subject->flavors</li>
+    <li>subject->ingredients</li>
+    <li>subject->spices</li>
+    <li>subject->nutrition</li>
+    <li>subject->taste</li>
+    <li>subject->sauces</li>
+    <li>subject->meals</li>
+  -->
+  <Cooking.generalRules.rulesStrings>
+    <li>subject->खाना बनाना</li>
+    <li>subject->भोजन</li>
+    <li>subject->बेक करना</li>
+    <li>subject->व्यंजन विधि संग्रह</li>
+    <li>subject->नुस्खे</li>
+    <li>subject->पाकशास्त्र</li>
+    <li>subject->स्वाद</li>
+    <li>subject->सामग्री</li>
+    <li>subject->मसाले</li>
+    <li>subject->पोषण</li>
+    <li>subject->स्वाद</li>
+    <li>subject->सॉस</li>
+    <li>subject->भोजन</li>
+  </Cooking.generalRules.rulesStrings>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>खाना बनाना</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
+  <Crafting.label>निर्माण</Crafting.label>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>वस्त्र, हथियार, घटक और परिष्कृत संसाधन जैसे सामान्य वस्तुओं का निर्माण।</Crafting.description>
+  <!-- EN:
+    <li>subject->crafting</li>
+    <li>subject->assembly</li>
+    <li>subject->manufacturing</li>
+    <li>subject->handcrafting</li>
+    <li>subject->fabrication</li>
+    <li>subject->production</li>
+    <li>subject->craftsmanship</li>
+    <li>subject->machining</li>
+    <li>subject->artisanry</li>
+  -->
+  <Crafting.generalRules.rulesStrings>
+    <li>subject->शिल्पकारी</li>
+    <li>subject->असेंबली</li>
+    <li>subject->निर्माण</li>
+    <li>subject->हाथ से बनी कलाकृति</li>
+    <li>subject->निर्माण</li>
+    <li>subject->उत्पादन</li>
+    <li>subject->शिल्पकारी</li>
+    <li>subject->मशीनीकरण</li>
+    <li>subject->शिल्पकारी</li>
+  </Crafting.generalRules.rulesStrings>
+  <!-- EN: crafting -->
+  <Crafting.skillLabel>निर्माण</Crafting.skillLabel>
+  
+  <!-- EN: intellectual -->
+  <Intellectual.label>बुद्धिमत्ता</Intellectual.label>
+  <!-- EN: Researching and drug synthesis. -->
+  <Intellectual.description>दवाओं पर शोध और संश्लेषण।</Intellectual.description>
+  <!-- EN:
+    <li>subject->physics</li>
+    <li>subject->chemistry</li>
+    <li>subject->orbital dynamics</li>
+    <li>subject->mathematics</li>
+    <li>subject->biology</li>
+    <li>subject->science</li>
+    <li>subject->research</li>
+    <li>subject->innovation</li>
+    <li>subject->discovery</li>
+    <li>subject->analysis</li>
+    <li>subject->experimentation</li>
+    <li>subject->knowledge</li>
+    <li>subject->exploration</li>
+    <li>subject->physics</li>
+    <li>subject->chemistry</li>
+    <li>subject->data analysis</li>
+    <li>subject->scientific inquiry</li>
+    <li>subject->intellectual growth</li>
+    <li>subject->academic pursuits</li>
+    <li>subject->quantitative analysis</li>
+    <li>subject->experiment design</li>
+    <li>subject->research methods</li>
+    <li>subject->intellectual inquiry</li>
+  -->
+  <Intellectual.generalRules.rulesStrings>
+    <li>subject->भौतिकी</li>
+    <li>subject->रसायन विज्ञान</li>
+    <li>subject->कक्षीय गतिशीलता</li>
+    <li>subject->गणित</li>
+    <li>subject->जीव विज्ञान</li>
+    <li>subject->विज्ञान</li>
+    <li>subject->अनुसंधान</li>
+    <li>subject->नवाचार</li>
+    <li>subject->खोज</li>
+    <li>subject->विश्लेषण</li>
+    <li>subject->प्रयोग</li>
+    <li>subject->ज्ञान</li>
+    <li>subject->अन्वेषण</li>
+    <li>subject->भौतिकी</li>
+    <li>subject->रसायन विज्ञान</li>
+    <li>subject->डेटा विश्लेषण</li>
+    <li>subject->वैज्ञानिक जाँच-पड़ताल</li>
+    <li>subject->बौद्धिक विकास</li>
+    <li>subject->शैक्षणिक खोजें</li>
+    <li>subject->मात्रात्मक विश्लेषण</li>
+    <li>subject->प्रायोगिक डिज़ाइन</li>
+    <li>subject->अनुसंधान विधियाँ</li>
+    <li>subject->बौद्धिक जाँच-पड़ताल</li>
+  </Intellectual.generalRules.rulesStrings>
+  <!-- EN: intellectual -->
+  <Intellectual.skillLabel>बुद्धिमत्ता</Intellectual.skillLabel>
+  
+  <!-- EN: medical -->
+  <Medicine.label>चिकित्सा</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>घावों और बीमारियों का इलाज करना और सर्जरी करना।</Medicine.description>
+  <!-- EN:
+    <li>subject->medicine</li>
+    <li>subject->surgery</li>
+    <li>subject->bacteria</li>
+    <li>subject->skin repair</li>
+    <li>subject->healthcare</li>
+    <li>subject->medical science</li>
+    <li>subject->physiology</li>
+    <li>subject->pharmacology</li>
+    <li>subject->treatment</li>
+    <li>subject->diagnosis</li>
+    <li>subject->surgery</li>
+    <li>subject->anatomy</li>
+    <li>subject->bacteria</li>
+    <li>subject->pathology</li>
+    <li>subject->disease management</li>
+    <li>subject->patient care</li>
+    <li>subject->emergency medicine</li>
+    <li>subject->nursing</li>
+    <li>subject->medical research</li>
+    <li>subject->public health</li>
+    <li>subject->virology</li>
+    <li>subject->health sciences</li>
+  -->
+  <Medicine.generalRules.rulesStrings>
+    <li>subject->दवा</li>
+    <li>subject->सर्जरी</li>
+    <li>subject->बैक्टीरिया</li>
+    <li>subject->त्वचा की मरम्मत</li>
+    <li>subject->स्वास्थ्य सेवा</li>
+    <li>subject->चिकित्सा विज्ञान</li>
+    <li>subject->शरीर क्रिया विज्ञान</li>
+    <li>subject->औषध विज्ञान</li>
+    <li>subject->उपचार</li>
+    <li>subject->निदान</li>
+    <li>subject->सर्जरी</li>
+    <li>subject->शरीर रचना विज्ञान</li>
+    <li>subject->बैक्टीरिया</li>
+    <li>subject->रोग विज्ञान</li>
+    <li>subject->रोग प्रबंधन</li>
+    <li>subject->रोगी की देखभाल</li>
+    <li>subject->आपातकालीन चिकित्सा</li>
+    <li>subject->नर्सिंग</li>
+    <li>subject->चिकित्सा अनुसंधान</li>
+    <li>subject->सार्वजनिक स्वास्थ्य</li>
+    <li>subject->विषाणु विज्ञान</li>
+    <li>subject->स्वास्थ्य विज्ञान</li>
+  </Medicine.generalRules.rulesStrings>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>चिकित्सा</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>हाथापाई</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>निकट युद्ध, चाहे हथियारों से हो या नंगे हाथों से।</Melee.description>
+  <!-- EN:
+    <li>subject->fighting</li>
+    <li>subject->melee</li>
+    <li>subject->combat</li>
+    <li>subject->martial arts</li>
+    <li>subject->swordplay</li>
+    <li>subject->weaponry</li>
+    <li>subject->brawling</li>
+    <li>subject->pugilism</li>
+    <li>subject->fencing</li>
+    <li>subject->knighthood</li>
+    <li>subject->dueling</li>
+  -->
+  <Melee.generalRules.rulesStrings>
+    <li>subject->लड़ाई</li>
+    <li>subject->निकट युद्ध</li>
+    <li>subject->लड़ाई</li>
+    <li>subject->मार्शल आर्ट्स</li>
+    <li>subject->तलवारबाजी</li>
+    <li>subject->हथियार</li>
+    <li>subject->झगड़ा</li>
+    <li>subject->मुक्केबाजी</li>
+    <li>subject->तलवारबाजी</li>
+    <li>subject->नाइटहुड</li>
+    <li>subject->द्वंद्वयुद्ध</li>
+  </Melee.generalRules.rulesStrings>
+  <!-- EN: melee -->
+  <Melee.skillLabel>हाथापाई</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>खनन</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>सुरंग खोदना और दबी हुई खनिज संसाधनों को निकालना।</Mining.description>
+  <!-- EN:
+    <li>subject->mining</li>
+    <li>subject->digging</li>
+    <li>subject->quarrying</li>
+    <li>subject->strip-mining</li>
+    <li>subject->excavation</li>
+    <li>subject->prospecting</li>
+    <li>subject->ore</li>
+    <li>subject->tunneling</li>
+    <li>subject->drilling</li>
+    <li>subject->minerals</li>
+    <li>subject->gemology</li>
+    <li>subject->geology</li>
+    <li>subject->earthmoving</li>
+  -->
+  <Mining.generalRules.rulesStrings>
+    <li>subject->खनन</li>
+    <li>subject->खुदाई</li>
+    <li>subject->पत्थर की खदान से निकालना</li>
+    <li>subject->खुली खदान से खनन</li>
+    <li>subject->खुदाई</li>
+    <li>subject->खोजबीन</li>
+    <li>subject->अयस्क</li>
+    <li>subject->सुरंग बनाना</li>
+    <li>subject->ड्रिलिंग</li>
+    <li>subject->खनिज</li>
+    <li>subject->रत्नविज्ञान</li>
+    <li>subject->भूगर्भशास्त्र</li>
+    <li>subject->भूमि समतलन</li>
+  </Mining.generalRules.rulesStrings>
+  <!-- EN: mining -->
+  <Mining.skillLabel>खनन</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>कृषि</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>फसल बोना, उनकी देखभाल करना और उन्हें काटना, और यात्रा करते समय भोजन की तलाश करना।</Plants.description>
+  <!-- EN:
+    <li>subject->plants</li>
+    <li>subject->herbs</li>
+    <li>subject->vegetables</li>
+    <li>subject->flora</li>
+    <li>subject->cultivation</li>
+    <li>subject->horticulture</li>
+    <li>subject->agriculture</li>
+    <li>subject->gardening</li>
+    <li>subject->farming</li>
+    <li>subject->harvesting</li>
+    <li>subject->permaculture</li>
+    <li>subject->botany</li>
+    <li>subject->crop management</li>
+    <li>subject->soil enrichment</li>
+    <li>subject->organic farming</li>
+    <li>subject->food production</li>
+    <li>subject->crop science</li>
+  -->
+  <Plants.generalRules.rulesStrings>
+    <li>subject->पौधे</li>
+    <li>subject->जड़ी-बूटियाँ</li>
+    <li>subject->सब्जियाँ</li>
+    <li>subject->वनस्पति</li>
+    <li>subject->खेती</li>
+    <li>subject->बागवानी</li>
+    <li>subject->कृषि</li>
+    <li>subject->बागवानी</li>
+    <li>subject->कृषि</li>
+    <li>subject->कटाई</li>
+    <li>subject->परमाकल्चर</li>
+    <li>subject->वनस्पति विज्ञान</li>
+    <li>subject->फसल प्रबंधन</li>
+    <li>subject->मिट्टी की उर्वरता में वृद्धि</li>
+    <li>subject->जैविक खेती</li>
+    <li>subject->खाद्य उत्पादन</li>
+    <li>subject->फसल विज्ञान</li>
+  </Plants.generalRules.rulesStrings>
+  <!-- EN: plants -->
+  <Plants.skillLabel>कृषि</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>गोलीबारी</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>दूर से मुकाबला, उच्च और निम्न तकनीक वाली हथियारों के साथ।</Shooting.description>
+  <!-- EN:
+    <li>subject->guns</li>
+    <li>subject->weapons</li>
+    <li>subject->aiming</li>
+    <li>subject->shooting</li>
+    <li>subject->gunplay</li>
+    <li>subject->marksmanship</li>
+    <li>subject->firearms</li>
+    <li>subject->sniping</li>
+    <li>subject->ballistics</li>
+    <li>subject->long-range combat</li>
+    <li>subject->precision shooting</li>
+    <li>subject->rifle mastery</li>
+    <li>subject->target practice</li>
+    <li>subject->sharpshooting</li>
+    <li>subject->ranged tactics</li>
+    <li>subject->shot placement</li>
+    <li>subject->gun handling</li>
+    <li>subject->distance shooting</li>
+  -->
+  <Shooting.generalRules.rulesStrings>
+    <li>subject->बंदूकें</li>
+    <li>subject->हथियार</li>
+    <li>subject->लक्ष्य साधना</li>
+    <li>subject->गोली मारना</li>
+    <li>subject->बंदूक चलाना</li>
+    <li>subject->निशानेबाजी</li>
+    <li>subject->आग्नेयास्त्र</li>
+    <li>subject->स्नाइपरिंग</li>
+    <li>subject->प्रक्षेप्य विज्ञान</li>
+    <li>subject->लंबी दूरी की लड़ाई</li>
+    <li>subject->सटीक निशाना साधना</li>
+    <li>subject->राइफल में महारत</li>
+    <li>subject->लक्ष्य अभ्यास</li>
+    <li>subject->कुशल निशानेबाज</li>
+    <li>subject->दूरस्थ युद्ध रणनीति</li>
+    <li>subject->गोली लगाने की जगह</li>
+    <li>subject->बंदूक चलाना</li>
+    <li>subject->दूर से निशाना साधना</li>
+  </Shooting.generalRules.rulesStrings>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>गोलीबारी</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>सामाजिकरण</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>दूसरों से बातचीत करना, मनाना, हेरफेर करना, नेतृत्व करना और प्रोत्साहित करना।</Social.description>
+  <!-- EN:
+    <li>subject->communication</li>
+    <li>subject->networking</li>
+    <li>subject->conflict resolution</li>
+    <li>subject->collaboration</li>
+    <li>subject->leadership</li>
+    <li>subject->empathy</li>
+    <li>subject->negotiation</li>
+    <li>subject->trade</li>
+    <li>subject->listening</li>
+    <li>subject->diplomacy</li>
+    <li>subject->teamwork</li>
+    <li>subject->etiquette</li>
+    <li>subject->charisma</li>
+    <li>subject->social intelligence</li>
+    <li>subject->assertiveness</li>
+    <li>subject->emotional intelligence</li>
+    <li>subject->communication skills</li>
+  -->
+  <Social.generalRules.rulesStrings>
+    <li>subject->संचार</li>
+    <li>subject->नेटवर्किंग</li>
+    <li>subject->संघर्ष समाधान</li>
+    <li>subject->सहयोग</li>
+    <li>subject->नेतृत्व</li>
+    <li>subject->सहानुभूति</li>
+    <li>subject->समझौता</li>
+    <li>subject->व्यापार</li>
+    <li>subject->सुनना</li>
+    <li>subject->कूटनीति</li>
+    <li>subject->टीमवर्क</li>
+    <li>subject->शिष्टाचार</li>
+    <li>subject->करिश्मा</li>
+    <li>subject->सामाजिक बुद्धिमत्ता</li>
+    <li>subject->दृढ़ता</li>
+    <li>subject->भावनात्मक बुद्धिमत्ता</li>
+    <li>subject->संचार कौशल</li>
+  </Social.generalRules.rulesStrings>
+  <!-- EN: social -->
+  <Social.skillLabel>सामाजिकरण</Social.skillLabel>
+  
+</LanguageData>

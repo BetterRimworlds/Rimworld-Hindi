@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beautiful -->
+  <Beauty.degreeDatas.beautiful.label>सुंदरता</Beauty.degreeDatas.beautiful.label>
+  <Beauty.degreeDatas.beautiful.labelFemale>सुंदरता</Beauty.degreeDatas.beautiful.labelFemale>
+  <!-- EN: [PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth. -->
+  <Beauty.degreeDatas.beautiful.description>{PAWN_gender ? [PAWN_nameDef] असाधारण रूप से सुंदर है, जिसके चेहरे की संरचना विदेशी होते हुए भी परिचित लगती है और उसकी आकर्षक निगाहें लोगों को अपनी ओर खींच लेती हैं। वह कुछ कहती भी नहीं है और लोग उसकी ओर आकर्षित हो जाते हैं। : [PAWN_nameDef] असाधारण रूप से सुंदर है, जिसके चेहरे की संरचना विदेशी होते हुए भी परिचित लगती है और जिसकी आकर्षक निगाहें लोगों को अपनी ओर खींच लेती हैं। वह मुंह खोले बिना ही लोगों को आकर्षित कर लेता है।}</Beauty.degreeDatas.beautiful.description>
+  <!-- EN: pretty -->
+  <Beauty.degreeDatas.pretty.label>सुंदरता</Beauty.degreeDatas.pretty.label>
+  <Beauty.degreeDatas.pretty.labelFemale>सुंदरता</Beauty.degreeDatas.pretty.labelFemale>
+  <!-- EN: [PAWN_nameDef] has a pretty face, which predisposes people to like [PAWN_objective]. -->
+  <Beauty.degreeDatas.pretty.description>[PAWN_nameDef] का चेहरा सुंदर है, जो लोगों को उसे पसंद करने के लिए प्रेरित करता है।</Beauty.degreeDatas.pretty.description>
+  <!-- EN: ugly -->
+  <Beauty.degreeDatas.ugly.label>कुरूपता</Beauty.degreeDatas.ugly.label>
+  <Beauty.degreeDatas.ugly.labelFemale>कुरूपता</Beauty.degreeDatas.ugly.labelFemale>
+  <!-- EN: [PAWN_nameDef] is somewhat ugly. This subtly repels others during social interactions. -->
+  <Beauty.degreeDatas.ugly.description>{PAWN_gender ? [PAWN_nameDef] थोड़ी बदसूरत है। यह सूक्ष्म रूप से सामाजिक अंतःक्रियाओं के दौरान दूसरों को दूर रखती है। : [PAWN_nameDef] थोड़ा बदसूरत है। यह सूक्ष्म रूप से सामाजिक बातचीत के दौरान दूसरों को दूर करता है।}</Beauty.degreeDatas.ugly.description>
+  <!-- EN: staggeringly ugly -->
+  <Beauty.degreeDatas.staggeringly_ugly.label>भद्दापन</Beauty.degreeDatas.staggeringly_ugly.label>
+  <!-- EN: [PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing. -->
+  <Beauty.degreeDatas.staggeringly_ugly.description>{PAWN_gender ? [PAWN_nameDef] बेहद बदसूरत है। उसका चेहरा एक अप्रतिभाशाली बच्चे द्वारा बनाई गई ड्राइंग, फॉर्मेल्डिहाइड के जार में एक विकृत भ्रूण और आधुनिक कला के एक टुकड़े के बीच का मिश्रण जैसा दिखता है। दूसरों को बातचीत करते समय उसे देखने के लिए सचेत प्रयास करना पड़ता है। : [PAWN_nameDef] बेहद बदसूरत है। उसका चेहरा एक अप्रतिभाशाली बच्चे की बनाई हुई तस्वीर, फॉर्मेल्डिहाइड के जार में एक विकृत भ्रूण और आधुनिक कला के एक टुकड़े के बीच का मिश्रण जैसा दिखता है। दूसरों को बातचीत करते समय उसे देखने के लिए सचेत प्रयास करना पड़ता है।}</Beauty.degreeDatas.staggeringly_ugly.description>
+  
+  <!-- EN: chemical fascination -->
+  <DrugDesire.degreeDatas.chemical_fascination.label>रसायन आकर्षण</DrugDesire.degreeDatas.chemical_fascination.label>
+  <!-- EN: [PAWN_nameDef] is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
+  <DrugDesire.degreeDatas.chemical_fascination.description>{PAWN_gender ? [PAWN_nameDef] रसायन स्रोतों से अत्यधिक मोहित है जो आनंद प्रदान करते हैं। मनोरंजक नशीले पदार्थों का सेवन करने से उसका मूड अच्छा होगा, जबकि परहेज करने से समय के साथ बढ़ती निराशा होगी और संभवतः नशीली दवाओं का अत्यधिक सेवन भी हो सकता है। वह मनोरंजक नशीले पदार्थों का उपयोग न करने के निर्देशों को अनदेखा करेगी, और एक सामान्य व्यक्ति से अधिक उनका सेवन करेगी। : [PAWN_nameDef] रसायन स्रोतों से अत्यधिक मोहित है जो आनंद प्रदान करते हैं। मनोरंजक नशीले पदार्थों का सेवन करने से उसका मूड अच्छा होगा, जबकि परहेज करने से समय के साथ बढ़ती निराशा होगी और संभवतः नशीली दवाओं का अत्यधिक सेवन हो सकता है। वह मनोरंजक नशीले पदार्थों का उपयोग न करने के निर्देशों को अनदेखा करेगा, और एक सामान्य व्यक्ति से अधिक सेवन करेगा।}</DrugDesire.degreeDatas.chemical_fascination.description>
+  <!-- EN: chemical interest -->
+  <DrugDesire.degreeDatas.chemical_interest.label>रासायनिक रुचि</DrugDesire.degreeDatas.chemical_interest.label>
+  <!-- EN: [PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
+  <DrugDesire.degreeDatas.chemical_interest.description>{PAWN_gender ? [PAWN_nameDef] को आनंद के रासायनिक स्रोतों में असामान्य रुचि है। मनोरंजक नशीले पदार्थों का सेवन करने से उसका मूड अच्छा हो जाएगा, जबकि परहेज करने से समय के साथ बढ़ती निराशा और संभावित नशीली दवाओं की लत लग सकती है। वह मनोरंजक नशीले पदार्थों का उपयोग न करने के निर्देशों को अनदेखा कर देगी, और एक सामान्य व्यक्ति से अधिक सेवन करेगी। : [PAWN_nameDef] को मनोरंजन के रासायनिक स्रोतों में असामान्य रुचि है। मनोरंजक नशीले पदार्थों का सेवन करने से उसका मूड अच्छा हो जाएगा, जबकि परहेज करने से समय के साथ बढ़ती निराशा और संभावित नशीली दवाओं की लत लग सकती है। वह मनोरंजक नशीले पदार्थों का उपयोग न करने के निर्देशों को अनदेखा कर देगा, और एक सामान्य व्यक्ति से अधिक सेवन करेगा।}</DrugDesire.degreeDatas.chemical_interest.description>
+  <!-- EN: teetotaler -->
+  <DrugDesire.degreeDatas.teetotaler.label>धर्मनिष्ठ</DrugDesire.degreeDatas.teetotaler.label>
+  <DrugDesire.degreeDatas.teetotaler.labelFemale>धर्मनिष्ठ</DrugDesire.degreeDatas.teetotaler.labelFemale>
+  <!-- EN: [PAWN_nameDef] abhors the idea of gaining pleasure from chemicals. [PAWN_pronoun] strictly avoids alcohol and recreational drugs. -->
+  <DrugDesire.degreeDatas.teetotaler.description>{PAWN_gender ? [PAWN_nameDef] रसायनों से सुख प्राप्त करने के विचार को नापसंद करती है। वह सख्ती से शराब और मनोरंजक नशीले पदार्थों से बचती है। : [PAWN_nameDef] रसायनों से आनंद प्राप्त करने के विचार से नफ़रत करता है। वह सख्ती से शराब और मनोरंजक नशीले पदार्थों से बचता है।}</DrugDesire.degreeDatas.teetotaler.description>
+  
+  <!-- EN: super-immune -->
+  <Immunity.degreeDatas.superimmune.label>अति प्रतिरोधक</Immunity.degreeDatas.superimmune.label>
+  <!-- EN: [PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others. -->
+  <Immunity.degreeDatas.superimmune.description>{PAWN_gender ? [PAWN_nameDef] की स्वाभाविक रूप से शक्तिशाली प्रतिरक्षा प्रणाली है। वह एक सामान्य व्यक्ति की तुलना में बहुत तेजी से प्रतिरोधक क्षमता प्राप्त करेगी, और उन बीमारियों से भी बच सकती है जो दूसरों को मार डालेंगी। : [PAWN_nameDef] की स्वाभाविक रूप से शक्तिशाली प्रतिरक्षा प्रणाली है। वह एक सामान्य व्यक्ति की तुलना में बहुत तेजी से प्रतिरोधक क्षमता प्राप्त करेगा, और उन बीमारियों से भी बच सकता है जो दूसरों को मार डालेंगी।}</Immunity.degreeDatas.superimmune.description>
+  <!-- EN: sickly -->
+  <Immunity.degreeDatas.sickly.label>बीमार</Immunity.degreeDatas.sickly.label>
+  <Immunity.degreeDatas.sickly.labelFemale>बीमार</Immunity.degreeDatas.sickly.labelFemale>
+  <!-- EN: [PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by. -->
+  <Immunity.degreeDatas.sickly.description>{PAWN_gender ? [PAWN_nameDef] की रोग प्रतिरोधक क्षमता बहुत खराब है। वह सामान्य से अधिक बार बीमार पड़ती है, अक्सर ऐसी बीमारियों से जो कॉलोनी में किसी को नहीं हुई हैं। : [PAWN_nameDef] की रोग प्रतिरोधक क्षमता बहुत खराब है। वह सामान्य से अधिक बार बीमार पड़ता है, अक्सर ऐसी बीमारियों से जो कॉलोनी में किसी को नहीं हुई हैं।}</Immunity.degreeDatas.sickly.description>
+  
+  <!-- EN: industrious -->
+  <Industriousness.degreeDatas.industrious.label>उद्यमी</Industriousness.degreeDatas.industrious.label>
+  <!-- EN: [PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person. -->
+  <Industriousness.degreeDatas.industrious.description>{PAWN_gender ? [PAWN_nameDef] को कार्य पर ध्यान केंद्रित करने और उसे पूरा करने में आसानी होती है, और वह औसत व्यक्ति से बहुत तेज़ी से काम पूरा करती है। : [PAWN_nameDef] को काम पर ध्यान केंद्रित करने और उसे जारी रखने में आसानी होती है, और वह औसत व्यक्ति से बहुत तेजी से काम पूरा करता है।}</Industriousness.degreeDatas.industrious.description>
+  <!-- EN: hard worker -->
+  <Industriousness.degreeDatas.hard_worker.label>मेहनती</Industriousness.degreeDatas.hard_worker.label>
+  <Industriousness.degreeDatas.hard_worker.labelFemale>मेहनती</Industriousness.degreeDatas.hard_worker.labelFemale>
+  <!-- EN: [PAWN_nameDef] is a natural hard worker and will finish tasks faster than most. -->
+  <Industriousness.degreeDatas.hard_worker.description>{PAWN_gender ? [PAWN_nameDef] स्वाभाविक रूप से मेहनती है और अधिकांश लोगों की तुलना में कार्यों को तेज़ी से पूरा करेगी। : [PAWN_nameDef] कुदरती तौर पर मेहनती है और ज़्यादातर लोगों से तेज़ी से काम पूरा कर लेगा।}</Industriousness.degreeDatas.hard_worker.description>
+  <!-- EN: lazy -->
+  <Industriousness.degreeDatas.lazy.label>आलस्य</Industriousness.degreeDatas.lazy.label>
+  <Industriousness.degreeDatas.lazy.labelFemale>आलस्य</Industriousness.degreeDatas.lazy.labelFemale>
+  <!-- EN: [PAWN_nameDef] is a little bit lazy. -->
+  <Industriousness.degreeDatas.lazy.description>{PAWN_gender ? [PAWN_nameDef] थोड़ी आलसी है। : [PAWN_nameDef] थोड़ा आलसी है।}</Industriousness.degreeDatas.lazy.description>
+  <!-- EN: slothful -->
+  <Industriousness.degreeDatas.slothful.label>आलस्य</Industriousness.degreeDatas.slothful.label>
+  <Industriousness.degreeDatas.slothful.labelFemale>आलस्य</Industriousness.degreeDatas.slothful.labelFemale>
+  <!-- EN: [PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task. -->
+  <Industriousness.degreeDatas.slothful.description>{PAWN_gender ? [PAWN_nameDef] को आलस्य पसंद है और वह किसी भी उत्पादक कार्य से नफ़रत करती है। वह धीरे-धीरे चलती है और शायद ही कभी किसी कार्य पर ध्यान केंद्रित रहती है। : [PAWN_nameDef] को आलस्य पसंद है और वह किसी भी उत्पादक कार्य से नफ़रत करता है। वह धीरे-धीरे चलता है और शायद ही कभी किसी कार्य पर ध्यान केंद्रित रहता है।}</Industriousness.degreeDatas.slothful.description>
+  
+  <!-- EN: sanguine -->
+  <NaturalMood.degreeDatas.sanguine.label>आशावादी</NaturalMood.degreeDatas.sanguine.label>
+  <NaturalMood.degreeDatas.sanguine.labelFemale>आशावादी</NaturalMood.degreeDatas.sanguine.labelFemale>
+  <!-- EN: [PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is. -->
+  <NaturalMood.degreeDatas.sanguine.description>{PAWN_gender ? [PAWN_nameDef] हमेशा अपनी परिस्थिति से स्वाभाविक रूप से उत्साहित रहती है, लगभग हर समय, चाहे वह कुछ भी हो। : [PAWN_nameDef] हर परिस्थिति में लगभग हमेशा, स्वाभाविक रूप से अपनी स्थिति के बारे में उत्साहित रहता है, चाहे वह कैसी भी हो।}</NaturalMood.degreeDatas.sanguine.description>
+  <!-- EN: optimist -->
+  <NaturalMood.degreeDatas.optimist.label>आशावादी</NaturalMood.degreeDatas.optimist.label>
+  <!-- EN: [PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down. -->
+  <NaturalMood.degreeDatas.optimist.description>[PAWN_nameDef] स्वाभाविक रूप से जीवन के बारे में आशावादी है। उसे निराश करना मुश्किल है।</NaturalMood.degreeDatas.optimist.description>
+  <!-- EN: pessimist -->
+  <NaturalMood.degreeDatas.pessimist.label>निराशावादी</NaturalMood.degreeDatas.pessimist.label>
+  <!-- EN: [PAWN_nameDef] tends to look on the bad side of life. -->
+  <NaturalMood.degreeDatas.pessimist.description>{PAWN_gender ? [PAWN_nameDef] जीवन के नकारात्मक पक्ष पर ध्यान केंद्रित करने की प्रवृत्ति रखती है। : [PAWN_nameDef] जीवन के बुरे पहलू पर ध्यान केंद्रित करने की प्रवृत्ति रखता है।}</NaturalMood.degreeDatas.pessimist.description>
+  <!-- EN: depressive -->
+  <NaturalMood.degreeDatas.depressive.label>उदासीन</NaturalMood.degreeDatas.depressive.label>
+  <NaturalMood.degreeDatas.depressive.labelFemale>उदासीन</NaturalMood.degreeDatas.depressive.labelFemale>
+  <!-- EN: [PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine. -->
+  <NaturalMood.degreeDatas.depressive.description>{PAWN_gender ? [PAWN_nameDef] हमेशा दुखी रहती है। उसे अच्छा मूड बनाए रखने में कठिनाई होती है, यहां तक कि जब सब कुछ ठीक होता है। : [PAWN_nameDef] हमेशा खुश नहीं रहता है। उसे अच्छा मूड बनाए रखने में कठिनाई होती है, भले ही सब कुछ ठीक हो।}</NaturalMood.degreeDatas.depressive.description>
+  
+  <!-- EN: iron-willed -->
+  <Nerves.degreeDatas.ironwilled.label>दृढ़ इच्छाशक्ति</Nerves.degreeDatas.ironwilled.label>
+  <!-- EN: [PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before. -->
+  <Nerves.degreeDatas.ironwilled.description>{PAWN_gender ? [PAWN_nameDef] की इच्छा एक लोहे की ढाल है। वह हर मुश्किल और परेशानी से गुजरती रहती है, जबकि दूसरे बहुत पहले ही टूट गए थे। : [PAWN_nameDef] की इच्छा एक लोहे की ढाल है। वह हर मुश्किल और परेशानी से गुजरता रहता है, जबकि दूसरे बहुत पहले ही टूट गए थे।}</Nerves.degreeDatas.ironwilled.description>
+  <!-- EN: steadfast -->
+  <Nerves.degreeDatas.steadfast.label>दृढ़ता</Nerves.degreeDatas.steadfast.label>
+  <Nerves.degreeDatas.steadfast.labelFemale>दृढ़ता</Nerves.degreeDatas.steadfast.labelFemale>
+  <!-- EN: [PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people. -->
+  <Nerves.degreeDatas.steadfast.description>{PAWN_gender ? [PAWN_nameDef] मानसिक रूप से मजबूत है और उन तनावों के तहत नहीं टूटेगी जो अधिकांश लोगों को तोड़ देंगे। : [PAWN_nameDef] मानसिक रूप से मजबूत है और उन तनावों के तहत नहीं टूटेगा जो अधिकांश लोगों को तोड़ देंगे।}</Nerves.degreeDatas.steadfast.description>
+  <!-- EN: nervous -->
+  <Nerves.degreeDatas.nervous.label>घबराया हुआ</Nerves.degreeDatas.nervous.label>
+  <Nerves.degreeDatas.nervous.labelFemale>घबराया हुआ</Nerves.degreeDatas.nervous.labelFemale>
+  <!-- EN: [PAWN_nameDef] tends to crack under pressure. -->
+  <Nerves.degreeDatas.nervous.description>{PAWN_gender ? वह दबाव में आसानी से टूट जाती है। : वह दबाव में आसानी से टूट जाता है।}</Nerves.degreeDatas.nervous.description>
+  <!-- EN: volatile -->
+  <Nerves.degreeDatas.volatile.label>अस्थिरता</Nerves.degreeDatas.volatile.label>
+  <!-- EN: [PAWN_nameDef] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation. -->
+  <Nerves.degreeDatas.volatile.description>{PAWN_gender ? [PAWN_nameDef] हर समय बहुत जल्दी प्रतिक्रिया देती हैं। वह किसी भी कठिन परिस्थिति में सबसे पहले टूट जाती हैं। : [PAWN_nameDef] hamesha taiyar rahata hai. vah kisi bhi kathin paristhiti mein pehle todne wala hai.}</Nerves.degreeDatas.volatile.description>
+  
+  <!-- EN: neurotic -->
+  <Neurotic.degreeDatas.neurotic.label>चिंताग्रस्त</Neurotic.degreeDatas.neurotic.label>
+  <Neurotic.degreeDatas.neurotic.labelFemale>चिंताग्रस्त</Neurotic.degreeDatas.neurotic.labelFemale>
+  <!-- EN: [PAWN_nameDef] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective]. -->
+  <Neurotic.degreeDatas.neurotic.description>{PAWN_gender ? [PAWN_nameDef] को सब कुछ व्यवस्थित रखना पसंद है। वह इस स्थिति को प्राप्त करने के लिए अधिकांश लोगों से अधिक मेहनत करेगी, लेकिन उसकी घबराहट उस पर हावी हो सकती है। : [PAWN_nameDef] ko sab kuchh vyavasthit pasand hai. vah is sthiti ko prapt karne ke liye adhikatar logon se kathin mehnat karega, lekin uske naadiyon par uski bhavnaon ka kabu ho sakta hai.}</Neurotic.degreeDatas.neurotic.description>
+  <!-- EN: very neurotic -->
+  <Neurotic.degreeDatas.very_neurotic.label>अति चिंतित</Neurotic.degreeDatas.very_neurotic.label>
+  <Neurotic.degreeDatas.very_neurotic.labelFemale>अति चिंतित</Neurotic.degreeDatas.very_neurotic.labelFemale>
+  <!-- EN: [PAWN_nameDef] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective]. -->
+  <Neurotic.degreeDatas.very_neurotic.description>{PAWN_gender ? [PAWN_nameDef] को हमेशा हर काम को लेकर लगातार घबराहट होती रहती है। वह इस स्थिति को प्राप्त करने के लिए अत्यधिक परिश्रम करेगी, लेकिन उसकी घबराहट आसानी से उस पर हावी हो सकती है। : [PAWN_nameDef] hamesha har cheez ke bare mein bechain rehta hai jo karni hai. vah is sthiti ko prapt karne ke liye bahut mehnat karega, lekin uski bechaini aasani se us par haavi ho sakti hai.}</Neurotic.degreeDatas.very_neurotic.description>
+  
+  <!-- EN: psychically hypersensitive -->
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>मानसिक संवेदनशीलता</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
+  <!-- EN: [PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>{PAWN_gender ? [PAWN_nameDef] का मन एक मानसिक ट्यूनिंग कांटा जैसा है। वह मानसिक घटनाओं के प्रति अत्यधिक संवेदनशील है। : [PAWN_nameDef] का दिमाग एक मानसिक ट्यूनिंग कांटा जैसा है। वह मानसिक घटनाओं के प्रति अत्यधिक संवेदनशील है।}</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <!-- EN: psychically sensitive -->
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>मानसिक संवेदनशीलता</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
+  <!-- EN: [PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>[PAWN_nameDef] की मानसिक क्षमताएं मानसिक घटनाओं के प्रति असाधारण रूप से संवेदनशील हैं।</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <!-- EN: psychically dull -->
+  <PsychicSensitivity.degreeDatas.psychically_dull.label>मानसिक मंदता</PsychicSensitivity.degreeDatas.psychically_dull.label>
+  <!-- EN: [PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>{PAWN_gender ? [PAWN_nameDef] की मानसिक क्षमता दूसरों से तालमेल नहीं बिठा पाती है। वह मानसिक घटनाओं से उतनी प्रभावित नहीं होती है। : [PAWN_nameDef] का मन दूसरों के साथ मानसिक रूप से तालमेल बिठाने में असमर्थ है। वह मानसिक घटनाओं से उतना प्रभावित नहीं होता है।}</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <!-- EN: psychically deaf -->
+  <PsychicSensitivity.degreeDatas.psychically_deaf.label>मानसिक बहरापन</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+  <!-- EN: [PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>{PAWN_gender ? [PAWN_nameDef] की मानसिकता दूसरों से अलग मानसिक आवृत्ति पर काम करती है। वह मानसिक घटनाओं से प्रभावित ही नहीं होती है। : [PAWN_nameDef] का दिमाग़ दूसरों से अलग मानसिक आवृत्ति पर काम करता है। वह बस मानसिक घटनाओं से प्रभावित नहीं होता है।}</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  
+  <!-- EN: careful shooter -->
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>सटीक निशानेबाज</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  <ShootingAccuracy.degreeDatas.careful_shooter.labelFemale>सटीक निशानेबाज</ShootingAccuracy.degreeDatas.careful_shooter.labelFemale>
+  <!-- EN: [PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy. -->
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>{PAWN_gender ? [PAWN_nameDef] को निशाना साधने में अधिक समय लगता है। वह दूसरों की तुलना में कम गोली मारती है, लेकिन अधिक सटीकता के साथ मारती है। : [PAWN_nameDef] ko goli maarne ke liye zyada samay lagta hai. vah dusron se kam hi goli chalta hai, lekin zyada sachchai ke saath.}</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <!-- EN: trigger-happy -->
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>तुरंत गोलीबारी</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <!-- EN: Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately. -->
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>{PAWN_gender ? वाह! वाह! वाह! [PAWN_nameDef] को बस ट्रिगर खींचना पसंद है। वह दूसरों की तुलना में तेज़ी से गोली मारती है, लेकिन कम सटीकता से। : वाह! वाह! वाह! [PAWN_nameDef] ko bas ट्रिगर खींचना पसंद है। वह दूसरों की तुलना में तेज़ी से गोली मारता है, लेकिन कम सटीकता से।}</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  
+  <!-- EN: slowpoke -->
+  <SpeedOffset.degreeDatas.slowpoke.label>मंदबुद्धि</SpeedOffset.degreeDatas.slowpoke.label>
+  <SpeedOffset.degreeDatas.slowpoke.labelFemale>मंदबुद्धि</SpeedOffset.degreeDatas.slowpoke.labelFemale>
+  <!-- EN: [PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere. -->
+  <SpeedOffset.degreeDatas.slowpoke.description>{PAWN_gender ? [PAWN_nameDef] हमेशा कहीं भी जाती है तो समूह से पीछे रह जाती है। : [PAWN_nameDef] har jagah jaate samay hamesha samuh se peeche reh jaata hai.}</SpeedOffset.degreeDatas.slowpoke.description>
+  <!-- EN: fast walker -->
+  <SpeedOffset.degreeDatas.fast_walker.label>तेज़ चलने वाला</SpeedOffset.degreeDatas.fast_walker.label>
+  <SpeedOffset.degreeDatas.fast_walker.labelFemale>तेज़ चलने वाला</SpeedOffset.degreeDatas.fast_walker.labelFemale>
+  <!-- EN: [PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people. -->
+  <SpeedOffset.degreeDatas.fast_walker.description>{PAWN_gender ? [PAWN_nameDef] को जहाँ जाना है, वहीं रहना पसंद है। वह अधिकतर लोगों से तेज़ी से चलती है। : [PAWN_nameDef] ko jahan jaana hai, vahan pahunchne mein khushi hoti hai. vah jyaada tar logon se tez chalta hai.}</SpeedOffset.degreeDatas.fast_walker.description>
+  <!-- EN: jogger -->
+  <SpeedOffset.degreeDatas.jogger.label>दौड़ना</SpeedOffset.degreeDatas.jogger.label>
+  <SpeedOffset.degreeDatas.jogger.labelFemale>दौड़ना</SpeedOffset.degreeDatas.jogger.labelFemale>
+  <!-- EN: [PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up. -->
+  <SpeedOffset.degreeDatas.jogger.description>{PAWN_gender ? [PAWN_nameDef] हमेशा एक तात्कालिकता की भावना के साथ चलती है—इतनी कि दूसरे अक्सर उसके साथ तालमेल नहीं बिठा पाते हैं। : [PAWN_nameDef] hamesha jaldi mein chalta hai—itna ki doosre aksar usse pace nahin bana pate.}</SpeedOffset.degreeDatas.jogger.description>
+  
+</LanguageData>

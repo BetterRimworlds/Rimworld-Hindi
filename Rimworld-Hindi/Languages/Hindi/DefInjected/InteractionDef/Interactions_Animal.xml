@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal chat -->
+  <AnimalChat.label>जानवर से बातचीत</AnimalChat.label>
+  <!-- EN:
+    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] while whispering to [INITIATOR_objective]self about [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] came near [RECIPIENT_nameDef] while talking to [INITIATOR_objective]self about [TalkTopicAny].</li>
+    <li>tamed->made calming noises towards</li>
+    <li>tamed->offered slow, friendly gestures to</li>
+    <li>tamed->made shushing noises at</li>
+    <li>tamed->made happy clicking noises at</li>
+    <li>tamed->gestured gently and approached</li>
+    <li>tamed->slowly approached</li>
+    <li>tamed->gently touched</li>
+    <li>tamed->calmed and encouraged</li>
+    <li>tamed->matched breathing with</li>
+    <li>tamed->took a low stance while approaching</li>
+    <li>tamed->showed no fear or anger to</li>
+    <li>tamed->feigned inattention towards</li>
+    <li>tamed->gently hummed a song at</li>
+    <li>tamed->sang an old lullaby at</li>
+    <li>tamed->firmly yet softly touched</li>
+    <li>tamed->showed a relaxed attitude towards</li>
+    <li>tamed->sat patiently near</li>
+    <li>tamed->whispered a story about [TalkTopicAny] to</li>
+  -->
+  <AnimalChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef][INITIATOR_nameDef] ने [tamed] [RECIPIENT_nameDef] को।</li>
+    <li>r_logentry->[INITIATOR_nameDef] पास बैठ गया [RECIPIENT_nameDef] और खुद से बात की[INITIATOR_o_a] के बारे में [TalkTopicAny]।</li>
+    <li>r_logentry->[INITIATOR_nameDef] के पास पहुँचा [RECIPIENT_nameDef] खुद से फुसफुसाते हुए[INITIATOR_o_a] के बारे में [TalkTopicAny]।</li>
+    <li>r_logentry->[INITIATOR_nameDef] के पास आया [RECIPIENT_nameDef] खुद से बात करते हुए[INITIATOR_o_a] के बारे में [TalkTopicAny]।</li>
+    <li>tamed->को शांत करने वाली आवाज़ें निकालीं।</li>
+    <li>tamed->उसने धीरे-धीरे और दोस्ताना इशारे किए।</li>
+    <li>tamed->शांत करने के लिए इशारा किया</li>
+    <li>tamed->खुशी से क्लिक करने की आवाज़ निकाली</li>
+    <li>tamed->दोस्ताना संकेत दिए और पास आ गया।</li>
+    <li>tamed->धीरे-धीरे पास आया</li>
+    <li>tamed->धीरे से छुआ</li>
+    <li>tamed->शांत किया और प्रोत्साहित किया</li>
+    <li>tamed->उसने अपनी सांसों को मिला दिया</li>
+    <li>tamed->झुके हुए पास आ रहा था।</li>
+    <li>tamed->उसने डर या गुस्सा नहीं दिखाया।</li>
+    <li>tamed->उसने की ओर ध्यान न देने का नाटक किया।</li>
+    <li>tamed->धीरे से एक गाना गुनगुनाया</li>
+    <li>tamed->गाने के पुराने एक लोरी को गाया</li>
+    <li>tamed->उसने दृढ़ता और कोमलता से छुआ।</li>
+    <li>tamed->उसने के प्रति एक शांत रवैया दिखाया।</li>
+    <li>tamed->धैर्यपूर्वक पास में बैठ गया</li>
+    <li>tamed->फुसफुसाया एक कहानी के बारे में [TalkTopicAny] को</li>
+  </AnimalChat.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: nuzzle -->
+  <Nuzzle.label>सहलाहट</Nuzzle.label>
+  <!-- EN:
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
+    <li>nuzzled(p=2)->nuzzled</li>
+    <li>nuzzled->snuggled up to</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->gently</li>
+    <li>nuzzleadverb->encouragingly</li>
+    <li>nuzzleadverb->happily</li>
+    <li>nuzzleadverb->softly</li>
+    <li>nuzzleadverb->supportively</li>
+    <li>nuzzleadverb->lightly</li>
+    <li>nuzzleadverb->warmly</li>
+    <li>nuzzleadverb->plaintively</li>
+    <li>nuzzleadverb->lovingly</li>
+    <li>nuzzleadverb->affectionately</li>
+    <li>rubbedpart->leg</li>
+    <li>rubbedpart->knee</li>
+    <li>rubbedpart->foot</li>
+    <li>rubbedpart->elbow</li>
+    <li>rubbedpart->hip</li>
+    <li>rubbedpart->shoulder</li>
+    <li>rubbedpart->hand</li>
+    <li>rubbedpart->side</li>
+    <li>rubbedpart->arm</li>
+  -->
+  <Nuzzle.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzled] [nuzzleadverb] को [RECIPIENT_nameDef]।</li>
+    <li>r_logentry->[INITIATOR_nameDef] रगड़ा [nuzzleadverb] अपनी नाक से [rubbedpart] का [RECIPIENT_nameDef]।</li>
+    <li>nuzzled(p=2)->सहलाया</li>
+    <li>nuzzled->लिपट गया</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->धीरे से</li>
+    <li>nuzzleadverb->प्रोत्साहनपूर्वक</li>
+    <li>nuzzleadverb->खुशी से</li>
+    <li>nuzzleadverb->धीरे से</li>
+    <li>nuzzleadverb->समर्थनपूर्वक</li>
+    <li>nuzzleadverb->हल्के से</li>
+    <li>nuzzleadverb->स्नेहपूर्वक</li>
+    <li>nuzzleadverb->दर्द से कराहते हुए</li>
+    <li>nuzzleadverb->प्यार से</li>
+    <li>nuzzleadverb->स्नेहपूर्वक</li>
+    <li>rubbedpart->पैर</li>
+    <li>rubbedpart->घुटना</li>
+    <li>rubbedpart->पैर</li>
+    <li>rubbedpart->कोहनी</li>
+    <li>rubbedpart->कूल्हा</li>
+    <li>rubbedpart->कंधा</li>
+    <li>rubbedpart->हाथ</li>
+    <li>rubbedpart->किनारा</li>
+    <li>rubbedpart->बांह</li>
+  </Nuzzle.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: release to the wild -->
+  <ReleaseToWild.label>जानवर को मुक्त करना</ReleaseToWild.label>
+  <!-- EN:
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] gently pet [RECIPIENT_nameDef] one last time</li>
+    <li>farewell->[INITIATOR_nameDef] said some warm words to [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] removed [RECIPIENT_nameDef]'s collar</li>
+    <li>farewell->[INITIATOR_nameDef] reminisced about the good time [INITIATOR_pronoun] had with [RECIPIENT_nameDef]</li>
+    <li>released->and released [RECIPIENT_objective] to the wild.</li>
+    <li>released->and set [RECIPIENT_objective] free.</li>
+    <li>released->and sent [RECIPIENT_objective] off.</li>
+    <li>released->and let [RECIPIENT_objective] go.</li>
+    <li>released->then turned away and let [RECIPIENT_objective] leave the colony.</li>
+    <li>released->before letting [RECIPIENT_objective] go to live in freedom.</li>
+  -->
+  <ReleaseToWild.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] धीरे से सहलाता है [RECIPIENT_nameDef] अंतिम बार</li>
+    <li>farewell->[INITIATOR_nameDef] ने [RECIPIENT_nameDef] को कुछ प्यार भरे शब्द कहे [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] ने [RECIPIENT_nameDef] से कॉलर हटा लिया। [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] के साथ बिताए अच्छे समय को याद किया [RECIPIENT_nameDef]</li>
+    <li>released->और छोड़ा [RECIPIENT_objective] प्रकृति में</li>
+    <li>released->और सेट [RECIPIENT_objective] मुक्त।</li>
+    <li>released->और भेजा [RECIPIENT_objective] दूर।</li>
+    <li>released->और जाने देता है[RECIPIENT_objective] जाना।</li>
+    <li>released->फिर वह मुड़ गया और [RECIPIENT_objective] कॉलोनी से जाने दिया।</li>
+    <li>released->उसे आज़ादी में जीने के लिए जाने देने से पहले।</li>
+  </ReleaseToWild.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: tame attempt -->
+  <TameAttempt.label>पालतू बनाने का प्रयास</TameAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control.</li>
+    <li>r_logentry->[INITIATOR_nameDef] attempted to collar [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] demanded obedience from [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come to [INITIATOR_objective].</li>
+    <li>r_logentry->[INITIATOR_nameDef] tried to make [RECIPIENT_nameDef] sit still.</li>
+    <li>r_logentry->[INITIATOR_nameDef] seized [RECIPIENT_nameDef] sharply and barked a command.</li>
+    <li>r_logentry->[INITIATOR_nameDef] attempted to hold [RECIPIENT_nameDef] still.</li>
+    <li>r_logentry->[INITIATOR_nameDef] shouted a command at [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] slapped [RECIPIENT_nameDef] in a show of dominance.</li>
+    <li>r_logentry->[INITIATOR_nameDef] directed [RECIPIENT_nameDef] back towards the community.</li>
+    <li>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come back to the community.</li>
+    <li>r_logentry->[INITIATOR_nameDef] touched a vulnerable body part of [RECIPIENT_nameDef], demanding obedience.</li>
+    <li>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</li>
+    <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
+  -->
+  <TameAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] पालतू बनाने की कोशिश की [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] नियंत्रित करने की कोशिश की [RECIPIENT_nameDef]के अधीन</li>
+    <li>r_logentry->[INITIATOR_nameDef] ने को गले का पट्टा लगाने की कोशिश की [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] से आज्ञापालन की मांग की [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] ने बुलाया [RECIPIENT_nameDef] करीब आने के लिए।</li>
+    <li>r_logentry->[INITIATOR_nameDef] करने की कोशिश की [RECIPIENT_nameDef] बैठ जाए।</li>
+    <li>r_logentry->[INITIATOR_nameDef] ने पकड़ा [RECIPIENT_nameDef] और चिल्लाकर आदेश दिया।</li>
+    <li>r_logentry->[INITIATOR_nameDef] रोकने की कोशिश की [RECIPIENT_nameDef]।</li>
+    <li>r_logentry->[INITIATOR_nameDef] ने आदेश चिल्लाया [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] थप्पड़ मारा [RECIPIENT_nameDef] श्रेष्ठता दिखाने के लिए।</li>
+    <li>r_logentry->[INITIATOR_nameDef] निर्देशित किया [RECIPIENT_nameDef] बस्ती की ओर</li>
+    <li>r_logentry->[INITIATOR_nameDef] ने बुलाया [RECIPIENT_nameDef] वापस कॉलोनी में आने के लिए।</li>
+    <li>r_logentry->[INITIATOR_nameDef] ने {[RECIPIENT_nameDef]} के एक कमजोर हिस्से को छुआ [RECIPIENT_nameDef], और आज्ञा का पालन करने की मांग की।</li>
+    <li>r_logentry->[INITIATOR_nameDef] जमीन की ओर इशारा करते हुए और मांग करते हुए [RECIPIENT_nameDef] चला जाए।</li>
+    <li>r_logentry->[INITIATOR_nameDef] पहला आदेश दिया [RECIPIENT_nameDef]को</li>
+  </TameAttempt.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: train attempt -->
+  <TrainAttempt.label>प्रशिक्षण का प्रयास</TrainAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
+    <li>trained(p=2)->[tried] to train</li>
+    <li>trained->[tried] to show a new trick to</li>
+    <li>trained->[tried] to discipline</li>
+    <li>trained->[tried] to instruct</li>
+    <li>trained->[tried] to encourage a new skill in</li>
+    <li>trained->demonstrated a skill to</li>
+    <li>trained->encouraged a new response from</li>
+    <li>tried->tried</li>
+    <li>tried->attempted</li>
+  -->
+  <TrainAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef][INITIATOR_nameDef] ने [RECIPIENT_nameDef] को प्रशिक्षित किया।</li>
+    <li>trained(p=2)->[tried] प्रशिक्षित करना</li>
+    <li>trained->[tried] एक नया करतब दिखाना</li>
+    <li>trained->[tried] अनुशासन करना</li>
+    <li>trained->[tried] सिखाना</li>
+    <li>trained->[tried] एक नया कौशल सिखाने के लिए</li>
+    <li>trained->किसी को कौशल दिखाना</li>
+    <li>trained->कुछ सिखाना</li>
+    <li>tried->कोशिश की</li>
+    <li>tried->प्रयास किया</li>
+  </TrainAttempt.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

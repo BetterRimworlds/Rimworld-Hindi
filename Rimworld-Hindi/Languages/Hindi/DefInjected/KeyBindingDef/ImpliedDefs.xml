@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Toggle animales tab -->
+  <MainTab_Animals.label>जानवर टैब</MainTab_Animals.label>
+  
+  <!-- EN: Toggle arquitecto tab -->
+  <MainTab_Architect.label>आर्किटेक्ट टैब</MainTab_Architect.label>
+  
+  <!-- EN: Toggle asignar tab -->
+  <MainTab_Assign.label>टॉगल असाइन टैब</MainTab_Assign.label>
+  
+  <!-- EN: Toggle historia tab -->
+  <MainTab_History.label>हिस्टोरिया टैब</MainTab_History.label>
+  
+  <!-- EN: Toggle investigación tab -->
+  <MainTab_Research.label>शोध टैब</MainTab_Research.label>
+  
+  <!-- EN: Toggle trabajo tab -->
+  <MainTab_Work.label>कार्य टैब</MainTab_Work.label>
+  
+  <!-- EN: Toggle mundo tab -->
+  <MainTab_World.label>दुनिया टैब</MainTab_World.label>
+  
+</LanguageData>

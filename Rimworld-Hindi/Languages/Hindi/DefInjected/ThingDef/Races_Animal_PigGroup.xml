@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>चिंचिला</Chinchilla.label>
+  <!-- EN: A small, nimble rodent. Its fur is softer than just about anything in the universe, making it very valuable as a trade good. -->
+  <Chinchilla.description>एक छोटा, फुर्तीला कृंतक। इसका फर ब्रह्मांड में लगभग किसी भी चीज़ से ज़्यादा मुलायम है, जो इसे व्यापार के लिए बहुत मूल्यवान बनाता है।</Chinchilla.description>
+  <!-- EN: left claw -->
+  <Chinchilla.tools.left_claw.label>बायां पंजा</Chinchilla.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Chinchilla.tools.left_claw.labelNoLocation>पंजे</Chinchilla.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Chinchilla.tools.right_claw.label>दायां पंजा</Chinchilla.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Chinchilla.tools.right_claw.labelNoLocation>पंजे</Chinchilla.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Chinchilla.tools.head.label>सिर</Chinchilla.tools.head.label>
+  
+  <!-- EN: deer -->
+  <Deer.label>हिरण</Deer.label>
+  <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
+  <Deer.description>एक मध्यम आकार का झुंड बनाने वाला शाकाहारी जानवर जो मिश्रित वनों और मैदानों में रहना पसंद करता है। हिरण बहुत तेज़ होते हैं।</Deer.description>
+  <!-- EN: venison -->
+  <Deer.race.meatLabel>हिरण मांस</Deer.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Deer.tools.left_hoof.label>बायां खुर</Deer.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Deer.tools.left_hoof.labelNoLocation>खुर</Deer.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Deer.tools.right_hoof.label>दाहिना खुर</Deer.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Deer.tools.right_hoof.labelNoLocation>खुर</Deer.tools.right_hoof.labelNoLocation>
+  <!-- EN: teeth -->
+  <Deer.tools.teeth.label>दाँत</Deer.tools.teeth.label>
+  <!-- EN: head -->
+  <Deer.tools.head.label>सिर</Deer.tools.head.label>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>गज़ेल</Gazelle.label>
+  <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
+  <Gazelle.description>एक छोटी, बेहद तेज़ मृग जो अपनी आश्चर्यजनक रूप से लंबी छलांग के लिए जानी जाती है।</Gazelle.description>
+  <!-- EN: left hoof -->
+  <Gazelle.tools.left_hoof.label>बायां खुर</Gazelle.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Gazelle.tools.left_hoof.labelNoLocation>खुर</Gazelle.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Gazelle.tools.right_hoof.label>दाहिना खुर</Gazelle.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Gazelle.tools.right_hoof.labelNoLocation>खुर</Gazelle.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Gazelle.tools.head.label>सिर</Gazelle.tools.head.label>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>आइबेक्स</Ibex.label>
+  <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
+  <Ibex.description>पालतू बकरी का जंगली पूर्वज। आइबेक्स सीमांत क्षेत्रों में रहते हैं जहाँ अधिकांश मृग नहीं बच सकते, शैवाल और विरल पर्वतीय पौधे खाते हैं। वे नंगे चट्टान के चेहरों पर कुशलता से कूदने—और उनकी हिंसक टक्कर हमले के लिए प्रसिद्ध हैं।</Ibex.description>
+  <!-- EN: left hoof -->
+  <Ibex.tools.left_hoof.label>बायां खुर</Ibex.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Ibex.tools.left_hoof.labelNoLocation>खुर</Ibex.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Ibex.tools.right_hoof.label>दाहिना खुर</Ibex.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Ibex.tools.right_hoof.labelNoLocation>खुर</Ibex.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Ibex.tools.head.label>सिर</Ibex.tools.head.label>
+  
+  <!-- EN: pig -->
+  <Pig.label>सूअर</Pig.label>
+  <!-- EN: Pigs were one of the first animals domesticated by humans. They are an efficient source of meat, and are easy to feed because they will eat almost anything. -->
+  <Pig.description>सुअर उन पहले जानवरों में से थे जिन्हें मनुष्यों ने पालतू बनाया। वे मांस का एक कुशल स्रोत हैं, और उन्हें खिलाना आसान है क्योंकि वे लगभग कुछ भी खा लेंगे।</Pig.description>
+  <!-- EN: pork -->
+  <Pig.race.meatLabel>सूअर का मांस</Pig.race.meatLabel>
+  <!-- EN: head -->
+  <Pig.tools.head.label>सिर</Pig.tools.head.label>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>जंगली सूअर</WildBoar.label>
+  <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
+  <WildBoar.description>यह रोएँदार सर्वाहारी, भागकर निकले हुए सूअरों से उत्पन्न हुई है और जंगली जीवन के लिए विकसित हुई है।\n\nइसके दांत इसे अपने पालतू सूअर चचेरे भाइयों की तुलना में बेहतर योद्धा बनाते हैं। दुर्भाग्य से, यह सबसे जटिल कार्यों में प्रशिक्षित करने के लिए बहुत ही अनियंत्रित है।</WildBoar.description>
+  <!-- EN: tusk -->
+  <WildBoar.tools.tusk.label>दन्त</WildBoar.tools.tusk.label>
+  <!-- EN: head -->
+  <WildBoar.tools.head.label>सिर</WildBoar.tools.head.label>
+  
+</LanguageData>

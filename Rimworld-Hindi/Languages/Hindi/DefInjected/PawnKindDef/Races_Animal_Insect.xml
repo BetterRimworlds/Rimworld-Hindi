@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megascarab --><!-- EN: megaescarabajo -->
+  <Megascarab.label>मेगाएस्कारबाजो</Megascarab.label><!-- EN: megaescarabajos -->
+  <Megascarab.labelPlural>मेगाएस्कारबाजोस</Megascarab.labelPlural><!-- EN: larva de megaescarabajo -->
+  <Megascarab.lifeStages.0.label>मेगास्कारब लार्वा</Megascarab.lifeStages.0.label><!-- EN: larvas de megaescarabajo -->
+  <Megascarab.lifeStages.0.labelPlural>मेगास्कारब लार्वा</Megascarab.lifeStages.0.labelPlural><!-- EN: megaescarabajo inmaduro -->
+  <Megascarab.lifeStages.1.label>मेगाएस्कारबाजो अपरिपक्व</Megascarab.lifeStages.1.label><!-- EN: megaescarabajos inmaduros -->
+  <Megascarab.lifeStages.1.labelPlural>मेगाएस्कारबाजोस अपरिपक्व</Megascarab.lifeStages.1.labelPlural><!-- EN: megaescarabajo -->
+  <Megascarab.lifeStages.2.label>मेगाएस्कारबाजो</Megascarab.lifeStages.2.label><!-- EN: megaescarabajos -->
+  <Megascarab.lifeStages.2.labelPlural>मेगाएस्कारबाजोस</Megascarab.lifeStages.2.labelPlural>
+  
+  <!-- EN: megaspider --><!-- EN: megaraña -->
+  <Megaspider.label>मेगाराणा</Megaspider.label><!-- EN: megarañas -->
+  <Megaspider.labelPlural>मेगाराñas</Megaspider.labelPlural><!-- EN: larva de megaraña -->
+  <Megaspider.lifeStages.0.label>मेगाराणा लार्वा</Megaspider.lifeStages.0.label><!-- EN: larvas de megaraña -->
+  <Megaspider.lifeStages.0.labelPlural>मेगाराणा लार्वा</Megaspider.lifeStages.0.labelPlural><!-- EN: megaraña inmadura -->
+  <Megaspider.lifeStages.1.label>मेगाराणा अपरिपक्व</Megaspider.lifeStages.1.label><!-- EN: megarañas inmaduras -->
+  <Megaspider.lifeStages.1.labelPlural>मेगाराñas अनामृत</Megaspider.lifeStages.1.labelPlural><!-- EN: megaraña -->
+  <Megaspider.lifeStages.2.label>मेगाराणा</Megaspider.lifeStages.2.label><!-- EN: megarañas -->
+  <Megaspider.lifeStages.2.labelPlural>मेगाराñas</Megaspider.lifeStages.2.labelPlural>
+  
+  <!-- EN: spelopede --><!-- EN: espelópedo -->
+  <Spelopede.label>एस्पेलॉपेडो</Spelopede.label><!-- EN: espelópedos -->
+  <Spelopede.labelPlural>एस्पेलॉपेडोस</Spelopede.labelPlural><!-- EN: larva de espelópedo -->
+  <Spelopede.lifeStages.0.label>एस्पेलॉपेडो लार्वा</Spelopede.lifeStages.0.label><!-- EN: larvas de espelópedo -->
+  <Spelopede.lifeStages.0.labelPlural>स्पेलोपेडो लार्वा</Spelopede.lifeStages.0.labelPlural><!-- EN: espelópedo inmaduro -->
+  <Spelopede.lifeStages.1.label>अपरिपक्व एस्पेलॉपेडो</Spelopede.lifeStages.1.label><!-- EN: espelópedos inmaduros -->
+  <Spelopede.lifeStages.1.labelPlural>अपरिपक्व एस्पेलॉपेडोस</Spelopede.lifeStages.1.labelPlural><!-- EN: espelópedo -->
+  <Spelopede.lifeStages.2.label>एस्पेलॉपेडो</Spelopede.lifeStages.2.label><!-- EN: espelópedos -->
+  <Spelopede.lifeStages.2.labelPlural>एस्पेलॉपेडोस</Spelopede.lifeStages.2.labelPlural>
+  
+</LanguageData>

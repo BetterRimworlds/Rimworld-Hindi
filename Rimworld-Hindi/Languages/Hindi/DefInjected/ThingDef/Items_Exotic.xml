@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: persona core -->
+  <AIPersonaCore.label>व्यक्तित्व कोर</AIPersonaCore.label>
+  <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent machine persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
+  <AIPersonaCore.description>एक अति-उन्नत कंप्यूटर कोर जो एक चरम-मानव-समकक्ष मशीन व्यक्तित्व को आश्रय देता है। अपने पृथक अवस्था में, कोर निष्क्रिय है। हालाँकि, उचित सहायक संरचना में स्थापित होने पर, यह महान शक्ति का मन बन सकता है।</AIPersonaCore.description>
+  
+  <!-- EN: elephant tusk -->
+  <ElephantTusk.label>हाथी का दांत</ElephantTusk.label>
+  <!-- EN: An elephant's tusk. It is very durable and valuable. While somewhat unwieldy as a melee weapon, it can still be deadly. -->
+  <ElephantTusk.description>हाथी का दांत। यह बहुत टिकाऊ और मूल्यवान है। नज़दीकी युद्ध के हथियार के रूप में थोड़ा बोझिल होते हुए भी, यह फिर भी घातक हो सकता है।</ElephantTusk.description>
+  <!-- EN: point -->
+  <ElephantTusk.tools.point.label>बिंदु</ElephantTusk.tools.point.label>
+  <!-- EN: base -->
+  <ElephantTusk.tools.base.label>आधार</ElephantTusk.tools.base.label>
+  
+  <!-- EN: healer mech serum -->
+  <MechSerumHealer.label>उपचारक यंत्र सीरम</MechSerumHealer.label>
+  <!-- EN: A one-use super-dose of mechanites tuned to heal health conditions. The mechanites will target and heal the single worst health condition affecting someone at any given time. Works even on health conditions that would otherwise be incurable. The mechanites can even transmute themselves into organic matter, forming new limbs or organs as needed. -->
+  <MechSerumHealer.description>एक बार इस्तेमाल होने वाली मैकेनाइट्स की उच्च खुराक, जो स्वास्थ्य स्थितियों को ठीक करने के लिए समायोजित की गई है। मैकेनाइट्स किसी भी समय किसी व्यक्ति को प्रभावित करने वाली सबसे खराब स्वास्थ्य स्थिति को लक्षित और ठीक करेंगे। यह उन स्वास्थ्य स्थितियों पर भी काम करता है जिन्हें अन्यथा ठीक नहीं किया जा सकता है। मैकेनाइट्स आवश्यकतानुसार जैविक पदार्थ में खुद को परिवर्तित भी कर सकते हैं, नए अंग या शरीर के अंग बना सकते हैं।</MechSerumHealer.description>
+  <!-- EN: Use {0_label} -->
+  <MechSerumHealer.comps.CompUsable.useLabel>{0_label}</MechSerumHealer.comps.CompUsable.useLabel>
+  
+  <!-- EN: resurrector mech serum -->
+  <MechSerumResurrector.label>पुनर्जीवन यंत्र सीरम</MechSerumResurrector.label>
+  <!-- EN: A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death.\n\nThe resurrected also experience limited retrograde amnesia, forgetting some recent memories and social interactions. -->
+  <MechSerumResurrector.description>मृतकों को पुनर्जीवित करने के लिए ट्यून किए गए मैकेनाइट्स की एक बार इस्तेमाल होने वाली सुपर-खुराक। किसी शव को दिया जाने पर, मैकेनाइट्स टूटे हुए ऊतकों की मरम्मत करते हैं और शरीर को वापस जीवन में लाते हैं। दुर्भाग्य से, पुनर्जीवित कभी-कभी मस्तिष्क क्षति, अंधापन या प्रगतिशील मनोविकृति के साथ वापस आते हैं। परिणाम बेहतर होते हैं जब मैकेनाइट्स को ताज़ा शरीर पर दिए जाते हैं। यदि किसी शरीर को संरक्षित किया जाता है, तो उसे मृत्यु के लंबे समय बाद भी पुनर्जीवित किया जा सकता है।\n\nपुनर्जीवित सीमित प्रतिगामी स्मृतिलोप का भी अनुभव करते हैं, कुछ हाल की यादों और सामाजिक अंतःक्रियाओं को भूल जाते हैं।</MechSerumResurrector.description>
+  <!-- EN: Use {0_label} -->
+  <MechSerumResurrector.comps.CompUsable.useLabel>{0_label}</MechSerumResurrector.comps.CompUsable.useLabel>
+  
+  <!-- EN: techprof subpersona core -->
+  <TechprofSubpersonaCore.label>तकनीकी उप-व्यक्तित्व कोर</TechprofSubpersonaCore.label>
+  <!-- EN: A small AI core housing a low-grade subpersona specialized in teaching technology. When used, the AI will teach you the technology you're currently researching, instantly and for free. Can only be used once. -->
+  <TechprofSubpersonaCore.description>एक छोटा कृत्रिम बुद्धिमत्ता कोर, जो प्रौद्योगिकी सिखाने में विशेषज्ञता वाले निम्न-श्रेणी के उप-व्यक्तित्व को रखता है। उपयोग करने पर, कृत्रिम बुद्धिमत्ता आपको वर्तमान में शोध की जा रही प्रौद्योगिकी को तुरंत और मुफ्त में सिखाएगी। इसका केवल एक बार उपयोग किया जा सकता है।</TechprofSubpersonaCore.description>
+  <!-- EN: Use {0_label} -->
+  <TechprofSubpersonaCore.comps.CompUsable.useLabel>{0_label}</TechprofSubpersonaCore.comps.CompUsable.useLabel>
+  
+  <!-- EN: thrumbo horn -->
+  <ThrumboHorn.label>थ्रम्बो सींग</ThrumboHorn.label>
+  <!-- EN: A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon. -->
+  <ThrumboHorn.description>थ्रम्बो का सींग। यह रेज़र-शार्प, चट्टान की तरह कठोर है, और ज़्यादातर बाज़ारों में बेशकीमती है। यह एक सच्चा ट्रॉफ़ी है, साथ ही एक घातक नज़दीकी युद्ध हथियार भी।</ThrumboHorn.description>
+  <!-- EN: point -->
+  <ThrumboHorn.tools.point.label>बिंदु</ThrumboHorn.tools.point.label>
+  <!-- EN: base -->
+  <ThrumboHorn.tools.base.label>आधार</ThrumboHorn.tools.base.label>
+  
+</LanguageData>

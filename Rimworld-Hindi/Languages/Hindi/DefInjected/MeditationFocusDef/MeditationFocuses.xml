@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artistic -->
+  <Artistic.label>कलात्मक</Artistic.label>
+  
+  <!-- EN: dignified -->
+  <Dignified.label>गरिमा</Dignified.label>
+  
+  <!-- EN: flame -->
+  <Flame.label>ज्वाला</Flame.label>
+  
+  <!-- EN: minimal -->
+  <Minimal.label>न्यूनतम</Minimal.label>
+  
+  <!-- EN: morbid -->
+  <Morbid.label>रुखा</Morbid.label>
+  
+  <!-- EN: natural -->
+  <Natural.label>प्राकृतिक</Natural.label>
+  
+</LanguageData>

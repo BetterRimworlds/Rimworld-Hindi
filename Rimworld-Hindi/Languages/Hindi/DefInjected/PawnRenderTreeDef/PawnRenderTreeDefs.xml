@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Carried thing -->
+  <Animal.root.children.1.debugLabel>ले जाया गया सामान</Animal.root.children.1.debugLabel>
+  
+  <!-- EN: Body tattoo -->
+  <Humanlike.root.children.0.children.0.debugLabel>शरीर टैटू</Humanlike.root.children.0.children.0.debugLabel>
+  <!-- EN: Wounds - pre apparel -->
+  <Humanlike.root.children.0.children.1.debugLabel>घाव - परिधान से पहले</Humanlike.root.children.0.children.1.debugLabel>
+  <!-- EN: Baby swaddle -->
+  <Humanlike.root.children.0.children.2.debugLabel>शिशु लपेटन</Humanlike.root.children.0.children.2.debugLabel>
+  <!-- EN: Apparel root -->
+  <Humanlike.root.children.0.children.3.debugLabel>वस्त्र मूल</Humanlike.root.children.0.children.3.debugLabel>
+  <!-- EN: Wounds - post apparel -->
+  <Humanlike.root.children.0.children.4.debugLabel>घाव - परिधान पश्चात</Humanlike.root.children.0.children.4.debugLabel>
+  <!-- EN: Head stump -->
+  <Humanlike.root.children.1.debugLabel>सिर का हिस्सा</Humanlike.root.children.1.debugLabel>
+  <!-- EN: Head tattoo -->
+  <Humanlike.root.children.2.children.0.debugLabel>सिर टैटू</Humanlike.root.children.2.children.0.debugLabel>
+  <!-- EN: Head wounds -->
+  <Humanlike.root.children.2.children.3.debugLabel>सिर घाव</Humanlike.root.children.2.children.3.debugLabel>
+  <!-- EN: Apparel root -->
+  <Humanlike.root.children.2.children.4.debugLabel>वस्त्र मूल</Humanlike.root.children.2.children.4.debugLabel>
+  <!-- EN: Status overlay -->
+  <Humanlike.root.children.2.children.6.debugLabel>स्थिति आवरण</Humanlike.root.children.2.children.6.debugLabel>
+  <!-- EN: Weapon/carried thing -->
+  <Humanlike.root.children.3.debugLabel>हथियार</Humanlike.root.children.3.debugLabel>
+  
+  <!-- EN: Weapon/carried thing -->
+  <Misc.root.children.1.debugLabel>हथियार</Misc.root.children.1.debugLabel>
+  
+</LanguageData>

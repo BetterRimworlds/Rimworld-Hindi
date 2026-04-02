@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chokevine -->
+  <Plant_Chokevine.label>चोकेवाइन</Plant_Chokevine.label>
+  <!-- EN: Tangled masses of cord-like, spiky vines which coil in great masses along the ground. Chokevine greatly slows down anyone who moves over it. Multiple tribes have independently generated stories of chokevine strangling children to death in the night, as a way to scare kids into coming home before dark. -->
+  <Plant_Chokevine.description>जमीन पर बड़े गुच्छों में लिपटे, कांटेदार बेलों के उलझे हुए ढेर। चोकेवाइन से जो कोई भी गुजरता है, उसकी गति बहुत धीमी हो जाती है। कई जनजातियों ने स्वतंत्र रूप से कहानियां बनाई हैं कि चोकेवाइन रात में बच्चों को गला घोंटकर मार डालती है, ताकि बच्चों को अंधेरा होने से पहले घर आने के लिए डराया जा सके।</Plant_Chokevine.description>
+  
+  <!-- EN: cypress tree -->
+  <Plant_TreeCypress.label>साइप्रस वृक्ष</Plant_TreeCypress.label>
+  <!-- EN: A tall coniferous tree often found in swamps. Despite its slow growth, planting these trees can be profitable as a low-effort, long-term investment because they yield so much usable wood. -->
+  <Plant_TreeCypress.description>एक लंबा शंकुधारी वृक्ष अक्सर दलदलों में पाया जाता है। धीमी वृद्धि के बावजूद, इन पेड़ों को लगाना लाभदायक हो सकता है क्योंकि यह कम प्रयास वाला, दीर्घकालिक निवेश है और यह बहुत उपयोगी लकड़ी देता है।</Plant_TreeCypress.description>
+  
+  <!-- EN: maple tree -->
+  <Plant_TreeMaple.label>मेपल वृक्ष</Plant_TreeMaple.label>
+  <!-- EN: A common medium-sized tree, easily identifiable by its distinct three-pointed leaf. -->
+  <Plant_TreeMaple.description>एक आम मध्यम आकार का पेड़, जिसकी विशिष्ट तीन-नुकीली पत्ती से आसानी से पहचान की जा सकती है।</Plant_TreeMaple.description>
+  
+  <!-- EN: willow tree -->
+  <Plant_TreeWillow.label>विलो वृक्ष</Plant_TreeWillow.label>
+  <!-- EN: One of the fastest growing shade trees, willows provide a beautiful, leafy canopy. It doesn't yield much usable wood. -->
+  <Plant_TreeWillow.description>विलो सबसे तेज़ी से बढ़ने वाले छायादार पेड़ों में से एक है, जो एक सुंदर, पत्तीदार चंदवा प्रदान करता है। यह बहुत उपयोगी लकड़ी नहीं देता है।</Plant_TreeWillow.description>
+  
+</LanguageData>

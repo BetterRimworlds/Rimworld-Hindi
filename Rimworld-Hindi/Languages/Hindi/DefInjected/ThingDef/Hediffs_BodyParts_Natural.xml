@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heart -->
+  <Heart.label>दिल</Heart.label>
+  <!-- EN: A biological human heart. Pumps blood around the body. -->
+  <Heart.description>एक जैविक मानव हृदय। शरीर में रक्त पंप करता है।</Heart.description>
+  
+  <!-- EN: kidney -->
+  <Kidney.label>गुर्दा</Kidney.label>
+  <!-- EN: A biological human kidney. Filters and removes waste products from the blood. -->
+  <Kidney.description>एक जैविक मानव गुर्दा। रक्त से अपशिष्ट उत्पादों को छानता है और हटाता है।</Kidney.description>
+  
+  <!-- EN: liver -->
+  <Liver.label>जिगर</Liver.label>
+  <!-- EN: A biological human liver. Plays an important role in metabolism. -->
+  <Liver.description>एक जैविक मानव यकृत। चयापचय में महत्वपूर्ण भूमिका निभाता है।</Liver.description>
+  
+  <!-- EN: lung -->
+  <Lung.label>फेफड़ा</Lung.label>
+  <!-- EN: A biological human lung. A pair of these form the core of the human respiratory system. -->
+  <Lung.description>एक जैविक मानव फेफड़ा। इनके एक जोड़े मानव श्वसन प्रणाली का मूल बनाते हैं।</Lung.description>
+  
+</LanguageData>

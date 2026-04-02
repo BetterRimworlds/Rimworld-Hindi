@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: corn plant -->
+  <Plant_Corn.label>मकई पौधा</Plant_Corn.label>
+  <!-- EN: A tall grain plant which produces ears of soft, edible seeds. While corn takes a long time to grow, it yields lots of food compared to other crops. Harvested corn takes a long time to spoil. -->
+  <Plant_Corn.description>एक लंबा अनाज पौधा जो नरम, खाने योग्य बीजों के बाल उत्पन्न करता है। मक्का को बढ़ने में लंबा समय लगता है, लेकिन यह अन्य फसलों की तुलना में बहुत अधिक भोजन देता है। काटी गई मक्का लंबे समय तक खराब नहीं होती।</Plant_Corn.description>
+  
+  <!-- EN: cotton plant -->
+  <Plant_Cotton.label>कपास पौधा</Plant_Cotton.label>
+  <!-- EN: A mid-size crop that yields fine white cotton fibers. These are used to make cloth. -->
+  <Plant_Cotton.description>एक मध्यम आकार की फसल जो महीन सफेद कपास रेशे देती है। इनका उपयोग कपड़ा बनाने के लिए किया जाता है।</Plant_Cotton.description>
+  
+  <!-- EN: devilstrand -->
+  <Plant_Devilstrand.label>डेविलस्ट्रैंड</Plant_Devilstrand.label>
+  <!-- EN: This fragile mushroom was genetically engineered to produce a silk net that is both difficult to tear and soft to the touch. While the mushroom takes a very long time to grow, only exotic ultra-tech fabrics outperform its devilstrand fibers.\n\nSome say it's called devilstrand because of its red color. Others think it owes its name to the greed it inspires in people. -->
+  <Plant_Devilstrand.description>यह नाजुक मशरूम आनुवंशिक रूप से रेशम का जाल बनाने के लिए इंजीनियर किया गया है जो फटने में मुश्किल और स्पर्श करने में नरम दोनों है। हालाँकि मशरूम को बढ़ने में बहुत लंबा समय लगता है, केवल विदेशी अल्ट्रा युग के कपड़े ही इसके डेविलस्ट्रैंड रेशों से बेहतर प्रदर्शन करते हैं।\n\nकुछ लोग कहते हैं कि इसे डेविलस्ट्रैंड इसलिए कहा जाता है क्योंकि इसका रंग लाल है। अन्य का मानना है कि यह अपना नाम उन लालच को देता है जो यह लोगों में प्रेरित करता है।</Plant_Devilstrand.description>
+  
+  <!-- EN: haygrass -->
+  <Plant_Haygrass.label>घास</Plant_Haygrass.label>
+  <!-- EN: A mixture of nutrient-rich grasses which yield large amounts of hay. Hay is edible for animals, but not humans. -->
+  <Plant_Haygrass.description>पोषक तत्वों से भरपूर घास का मिश्रण जो बड़ी मात्रा में घास-चारा उत्पन्न करता है। घास-चारा जानवरों के लिए खाने योग्य है, लेकिन मनुष्यों के लिए नहीं।</Plant_Haygrass.description>
+  
+  <!-- EN: healroot -->
+  <Plant_Healroot.label>उपचार जड़</Plant_Healroot.label>
+  <!-- EN: A slow-growing plant which yields herbal medicine when harvested. Sowing and harvesting healroot are both very labor-intensive tasks because of its delicate shoots.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues. -->
+  <Plant_Healroot.description>धीरे-धीरे बढ़ने वाला पौधा जो कटाई पर औषधीय दवा देता है। हीलरूट बोना और काटना दोनों ही बहुत श्रमसाध्य कार्य हैं क्योंकि इसकी कोंपलें नाजुक होती हैं।\n\nहीलरूट को सदियों से बसने वालों द्वारा चयनात्मक रूप से उगाया गया है। जनजातीय लोग इसे कभी-कभी &amp;quot;हीलर का हाथ&amp;quot; भी कहते हैं - यह उपनाम इसे इसके पाँच प्रमुख औषधीय गुणों के कारण मिला है।</Plant_Healroot.description>
+  
+  <!-- EN: hop plant -->
+  <Plant_Hops.label>हॉप पौधा</Plant_Hops.label>
+  <!-- EN: A flowering crop that yields hops, an essential ingredient in beer. -->
+  <Plant_Hops.description>एक पुष्पीय फसल जो हॉप्स पैदा करती है, जो बीयर में एक आवश्यक घटक है।</Plant_Hops.description>
+  
+  <!-- EN: potato plant -->
+  <Plant_Potato.label>आलू पौधा</Plant_Potato.label>
+  <!-- EN: A highly nutritious tuber. Potatoes grow well even in somewhat poor soil, and form a delicious crispy outer coating when fried in oil. -->
+  <Plant_Potato.description>एक अत्यधिक पौष्टिक कंद। आलू थोड़ी खराब मिट्टी में भी अच्छी तरह उगते हैं, और तेल में तलने पर एक स्वादिष्ट कुरकुरी बाहरी परत बनाते हैं।</Plant_Potato.description>
+  
+  <!-- EN: psychoid plant -->
+  <Plant_Psychoid.label>मानसिक पौधा</Plant_Psychoid.label>
+  <!-- EN: A leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive. -->
+  <Plant_Psychoid.description>एक पत्तीदार पौधा जो साइकाइट नामक रासायनिक यौगिक उत्पन्न करता है। मूल रूप से, यह पौधे खाने वाले जानवरों को अति उत्तेजित और बीमार करके दूर रखने के लिए एक रक्षा तंत्र के रूप में विकसित हुआ था, साइकाइट दवा को निकाला जा सकता है और मनोरंजक उपयोग के लिए विभिन्न रूपों में परिष्कृत किया जा सकता है। यह व्यसनकारी है।</Plant_Psychoid.description>
+  
+  <!-- EN: rice plant -->
+  <Plant_Rice.label>चावल पौधा</Plant_Rice.label>
+  <!-- EN: A short, fast-growing crop that yields small edible grains. Its great nutritional output and ease of cultivation has made it the economic core of many great civilizations. While rice grows quickly, it is sensitive to soil fertility and will not fare well in poor soil. -->
+  <Plant_Rice.description>एक छोटी, तेज़ी से बढ़ने वाली फसल जो खाने योग्य छोटे अनाज देती है। इसकी महान पोषण संबंधी उपज और आसान खेती ने इसे कई महान सभ्यताओं के आर्थिक केंद्र बना दिया है। चावल जल्दी उगता है, लेकिन यह मिट्टी की उर्वरता के प्रति संवेदनशील है और खराब मिट्टी में अच्छा प्रदर्शन नहीं करेगा।</Plant_Rice.description>
+  
+  <!-- EN: smokeleaf plant -->
+  <Plant_Smokeleaf.label>स्मोकलीफ पौधा</Plant_Smokeleaf.label>
+  <!-- EN: A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive. -->
+  <Plant_Smokeleaf.description>पत्तियों में मौजूद रसायनों के मनोवैज्ञानिक प्रभावों के लिए उगाई जाने वाली एक पत्तीदार फसल। स्मोकलीफ की पत्तियों को क्राफ्टिंग स्पॉट पर जोड़ में तैयार किया जा सकता है। स्मोकलीफ उपयोगकर्ता को आराम महसूस कराती है, लेकिन प्रेरणा कम करती है, और यह व्यसनकारी हो सकती है।</Plant_Smokeleaf.description>
+  
+  <!-- EN: strawberry plant -->
+  <Plant_Strawberry.label>स्ट्रॉबेरी पौधा</Plant_Strawberry.label>
+  <!-- EN: A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw. -->
+  <Plant_Strawberry.description>एक नीची झाड़ीदार पौधा जो नाजुक लेकिन स्वादिष्ट स्ट्रॉबेरी देता है। यह अन्य फसलों जितनी कैलोरी-प्रति-कैलोरी उत्पादक नहीं है, फिर भी स्ट्रॉबेरी कच्ची होने पर भी स्वादिष्ट होती है।</Plant_Strawberry.description>
+  
+  <!-- EN: cocoa tree -->
+  <Plant_TreeCocoa.label>कोको वृक्ष</Plant_TreeCocoa.label>
+  <!-- EN: A tropical tree that produces chocolate, genetically engineered to sweeten its own product, and survive in slightly less-warm climates. -->
+  <Plant_TreeCocoa.description>एक उष्णकटिबंधीय वृक्ष जो चॉकलेट उत्पन्न करता है, आनुवंशिक रूप से अपने उत्पाद को मीठा करने और थोड़े कम गर्म जलवायु में जीवित रहने के लिए इंजीनियर किया गया है।</Plant_TreeCocoa.description>
+  
+</LanguageData>

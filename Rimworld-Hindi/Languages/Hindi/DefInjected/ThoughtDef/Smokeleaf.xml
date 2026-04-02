@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high on smokeleaf -->
+  <SmokeleafHigh.stages.high_on_smokeleaf.label>स्मोकलीफ पर उच्च</SmokeleafHigh.stages.high_on_smokeleaf.label>
+  <!-- EN: I'm, like, stoned, man. -->
+  <SmokeleafHigh.stages.high_on_smokeleaf.description>मैं, जैसे, नशा हुआ हूँ, यार।</SmokeleafHigh.stages.high_on_smokeleaf.description>
+  
+  <!-- EN: smokeleaf withdrawal -->
+  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>स्मोकलीफ वापसी</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>
+  <!-- EN: I really wish I could smoke. I feel jittery, and my gut has that anxious sensation all the time. -->
+  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>मुझे धूम्रपान करने की तीव्र इच्छा हो रही है। मैं बेचैन महसूस कर रहा हूँ, और मेरे पेट में लगातार चिंता की अनुभूति हो रही है।</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>
+  
+</LanguageData>

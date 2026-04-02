@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extremely low -->
+  <ExtremelyLow.label>अत्यंत निम्न</ExtremelyLow.label>
+  
+  <!-- EN: high -->
+  <High.label>उच्च</High.label>
+  
+  <!-- EN: low -->
+  <Low.label>कम</Low.label>
+  
+  <!-- EN: moderate -->
+  <Moderate.label>मध्यम</Moderate.label>
+  
+  <!-- EN: noble -->
+  <Noble.label>नोबल</Noble.label>
+  
+  <!-- EN: royal -->
+  <Royal.label>शाही</Royal.label>
+  
+  <!-- EN: sky high -->
+  <SkyHigh.label>आकाश उच्च</SkyHigh.label>
+  
+  <!-- EN: very low -->
+  <VeryLow.label>बहुत कम</VeryLow.label>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>आर्कोटेक भुजा</ArchotechArm.label>
+  <!-- EN: An artificial arm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechArm.description>एक आर्कोटेक द्वारा निर्मित कृत्रिम हाथ। यह एक मोटे दृढ़ लकड़ी की शाखा को अपने हाथ में कुचलने के लिए पर्याप्त मजबूत है, और चावल के एक दाने पर एक सॉनेट लिखने के लिए पर्याप्त सटीक है। यह प्राकृतिक मांस जैसा दिखता और महसूस होता है, लेकिन यह प्लास्टील से अधिक नुकसान सहने में कठिन है। यदि इसे नुकसान होता भी है, तो यह समय के साथ स्वयं की मरम्मत करता है। इसकी आंतरिक कार्यप्रणाली सभी मानव दिमागों के लिए एक रहस्य है।</ArchotechArm.description>
+  
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>आर्कोटेक आँख</ArchotechEye.label>
+  <!-- EN: An artificial eye built by an archotech. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Its internal workings are a mystery to human minds. -->
+  <ArchotechEye.description>एक आर्कोटैच द्वारा निर्मित कृत्रिम आँख। यह रेडियो तरंगों, अवरक्त, प्रकाश, एक्स-रे और गामा किरणों सहित हर प्रकार के विद्युत चुम्बकीय विकिरण को समझती है। इसकी दृश्य तीक्ष्णता बीस मीटर की दूरी से हस्तलेखन पढ़ने के लिए पर्याप्त सटीक है। यह टॉर्च की तरह विभिन्न तरंग दैर्ध्य का विकिरण उत्सर्जित कर सकती है, और इसमें एक आंतरिक उप-व्यक्तित्व एआई है जो उपयोगी दृश्य जानकारी को उजागर करने में मदद करता है। इसकी आंतरिक कार्यप्रणाली मानव मन के लिए एक रहस्य है।</ArchotechEye.description>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>आर्कोटेक पैर</ArchotechLeg.label>
+  <!-- EN: An artificial leg built by an archotech. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechLeg.description>एक आर्कोटेक द्वारा निर्मित कृत्रिम पैर। यह प्राकृतिक मांस जैसा दिखता और महसूस होता है, लेकिन इनकी एक जोड़ी उपयोगकर्ता को एक अच्छी कार जितनी तेज़ी से ले जा सकती है, और यह प्लास्टील से अधिक नुकसान सहने वाला है। यदि इसे नुकसान होता भी है, तो यह समय के साथ स्वयं की मरम्मत करता है। इसकी आंतरिक कार्यप्रणाली सभी मानव दिमागों के लिए एक रहस्य है।</ArchotechLeg.description>
+  
+</LanguageData>

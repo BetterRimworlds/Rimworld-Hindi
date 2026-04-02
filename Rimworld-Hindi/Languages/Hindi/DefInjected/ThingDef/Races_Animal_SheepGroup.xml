@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpaca -->
+  <Alpaca.label>अल्पाका</Alpaca.label>
+  <!-- EN: A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America. -->
+  <Alpaca.description>अल्पाका, लामा से निकटता से संबंधित एक मध्यम आकार का खुर वाला जानवर है, जिसे आमतौर पर इसके असाधारण रूप से नरम और इन्सुलेटिंग ऊन के लिए पाला जाता है। अल्पाका का उपयोग प्राचीन दक्षिण अमेरिका की ऊबड़-खाबड़ पहाड़ी पगडंडियों पर माल ढोने वाले पैक जानवरों के रूप में भी किया गया है।</Alpaca.description>
+  <!-- EN: left hoof -->
+  <Alpaca.tools.left_hoof.label>बायां खुर</Alpaca.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Alpaca.tools.left_hoof.labelNoLocation>खुर</Alpaca.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Alpaca.tools.right_hoof.label>दाहिना खुर</Alpaca.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Alpaca.tools.right_hoof.labelNoLocation>खुर</Alpaca.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Alpaca.tools.head.label>सिर</Alpaca.tools.head.label>
+  
+  <!-- EN: capybara -->
+  <Capybara.label>कैपिबारा</Capybara.label>
+  <!-- EN: The largest natural rodent, the capybara is well-adapted for steaming jungle environments. -->
+  <Capybara.description>सबसे बड़ा प्राकृतिक कृंतक, कैपिबारा, गर्म और आर्द्र जंगल के वातावरण के लिए अच्छी तरह से अनुकूलित है।</Capybara.description>
+  <!-- EN: left claw -->
+  <Capybara.tools.left_claw.label>बायां पंजा</Capybara.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Capybara.tools.left_claw.labelNoLocation>पंजे</Capybara.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Capybara.tools.right_claw.label>दायां पंजा</Capybara.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Capybara.tools.right_claw.labelNoLocation>पंजे</Capybara.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Capybara.tools.head.label>सिर</Capybara.tools.head.label>
+  
+  <!-- EN: megasloth -->
+  <Megasloth.label>मेगास्लोथ</Megasloth.label>
+  <!-- EN: A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws. -->
+  <Megasloth.description>एक विशाल, एकाकी शाकाहारी प्राणी जिसके खतरे से बचाव के लिए दो विशाल पंजे हैं। पृथ्वी के अमेरिकी महाद्वीप के मूल निवासियों द्वारा विलुप्त होने के बाद, मेगास्लोथ को उन्नत क्लोनिंग और कृत्रिम गर्भाशय का उपयोग करके वापस लाया गया। इसकी मोटी त्वचा असाधारण रूप से मजबूत और इन्सुलेटिंग है, और यह ठंडे मौसम के कपड़ों के लिए बेहतरीन चमड़ा बनाती है। यह यदि अकेला छोड़ दिया जाए तो शांतिपूर्ण है, लेकिन अपने विशाल पंजों से किसी को भी परेशान करने पर उसे चीर देगा।</Megasloth.description>
+  <!-- EN: left claw -->
+  <Megasloth.tools.left_claw.label>बायां पंजा</Megasloth.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Megasloth.tools.left_claw.labelNoLocation>पंजे</Megasloth.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Megasloth.tools.right_claw.label>दायां पंजा</Megasloth.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Megasloth.tools.right_claw.labelNoLocation>पंजे</Megasloth.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Megasloth.tools.head.label>सिर</Megasloth.tools.head.label>
+  
+  <!-- EN: sheep -->
+  <Sheep.label>भेड़</Sheep.label>
+  <!-- EN: Sheep husbandry is practiced throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns. -->
+  <Sheep.description>भेड़ पालन अधिकांश बसे हुए ग्रहों पर प्रचलित है, हालाँकि हाल ही में इसे रिमवर्ल्ड्स में पेश किया गया है। पालतू भेड़ें अपेक्षाकृत छोटी शाकाहारी जानवर हैं, आमतौर पर पीले रंग की ऊन और मध्यम आकार के सींगों वाली होती हैं।</Sheep.description>
+  <!-- EN: head -->
+  <Sheep.tools.head.label>सिर</Sheep.tools.head.label>
+  <!-- EN: left hoof -->
+  <Sheep.tools.left_hoof.label>बायां खुर</Sheep.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Sheep.tools.left_hoof.labelNoLocation>खुर</Sheep.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Sheep.tools.right_hoof.label>दाहिना खुर</Sheep.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Sheep.tools.right_hoof.labelNoLocation>खुर</Sheep.tools.right_hoof.labelNoLocation>
+  
+</LanguageData>

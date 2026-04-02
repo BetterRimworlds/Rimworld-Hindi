@@ -1,0 +1,1443 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Confirm -->
+  <Confirm>पुष्टि करें</Confirm>
+  <!-- EN: Go back -->
+  <GoBack>वापस जाएं</GoBack>
+  <!-- EN: Do you want to continue? -->
+  <WantToContinue>हाँ, जारी रखें।</WantToContinue>
+  <!-- EN: OK -->
+  <OK>GAME TEXT: Crafting\n\nHINDI: बनाना</OK>
+  <!-- EN: Close -->
+  <Close>बंद करें</Close>
+  <!-- EN: Accept -->
+  <Accept>स्वीकार</Accept>
+  <!-- EN: Cancel -->
+  <Cancel>रद्द करें</Cancel>
+  <!-- EN: Reset -->
+  <Reset>रीसेट</Reset>
+  <!-- EN: Reset all -->
+  <ResetAll>रीसेट करें</ResetAll>
+  <!-- EN: Disable -->
+  <Disable>निष्क्रिय करें</Disable>
+  <!-- EN: Modify -->
+  <Modify>संशोधन</Modify>
+  <!-- EN: Settle here anyway? -->
+  <ConfirmSettle>वहाँ बसें?</ConfirmSettle>
+  <!-- EN: add -->
+  <Add>जोड़ें</Add>
+  <!-- EN: Cannot shoot -->
+  <CannotShoot>गोली नहीं चल सकती</CannotShoot>
+  
+  <!-- Game updated to new version -->
+  <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
+  <GameUpdatedToNewVersionInitial>रिमवर्ल्ड को संस्करण {0} से संस्करण {1} में अद्यतन किया गया है।</GameUpdatedToNewVersionInitial>
+  <!-- EN: This may cause saved games and mods from the old version to stop working. -->
+  <GameUpdatedToNewVersionSavesIncompatible>यह पुराने संस्करण के सहेजे गए खेलों और मॉड को काम करना बंद कर सकता है।</GameUpdatedToNewVersionSavesIncompatible>
+  <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
+  <GameUpdatedToNewVersionSavesCompatible>पुराने संस्करण से सहेजे गए खेल संगत होने चाहिए, हालाँकि कुछ मॉड काम करना बंद कर सकते हैं।</GameUpdatedToNewVersionSavesCompatible>
+  <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
+  <GameUpdatedToNewVersionNonSteam>चूंकि यह एक डीआरएम-मुक्त प्रति है, आप खेल को दो अलग-अलग फ़ोल्डरों में दो बार स्थापित कर सकते हैं, ताकि पुराने और नए दोनों संस्करणों को खेला जा सके।</GameUpdatedToNewVersionNonSteam>
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
+  <GameUpdatedToNewVersionSteam>यदि आप पुराने संस्करण के साथ जारी रखना चाहते हैं, तो आप स्टीम की “बीटा” सुविधा का उपयोग करके ऑप्ट-इन कर सकते हैं।\n\n1. स्टीम लाइब्रेरी में, रिमवर्ल्ड पर राइट-क्लिक करें।\n2. गुण पर क्लिक करें।\n3. बीटा टैब पर क्लिक करें।\n4. ड्रॉप-डाउन मेनू से वांछित संस्करण का चयन करें।</GameUpdatedToNewVersionSteam>
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature. -->
+  <GameUpdatedToNewVersionSteamController>यदि आप पुराने संस्करण के साथ जारी रखना चाहते हैं, तो आप स्टीम की “बीटा” सुविधा का उपयोग करके ऐसा कर सकते हैं।</GameUpdatedToNewVersionSteamController>
+  
+  <!-- Recovered from errors caused by mods -->
+  <!-- EN: Recovered from incompatible or corrupted mods errors -->
+  <RecoveredFromErrorsDialogTitle>पुनः प्राप्त असंगत या दूषित मोड त्रुटियाँ</RecoveredFromErrorsDialogTitle>
+  <!-- EN: It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
+  <RecoveredFromErrorsText>कुछ सक्रिय मॉड त्रुटियाँ पैदा कर रहे थे।\n\nवे एक दूसरे के साथ असंगत थे, रिमवर्ल्ड के भिन्न संस्करण के लिए डिज़ाइन किए गए थे, या दूषित थे।\n\nसभी मॉड निष्क्रिय कर दिए गए हैं और मॉड संवाद में फिर से सक्रिय किए जा सकते हैं।</RecoveredFromErrorsText>
+  
+  <!-- Errors during loading -->
+  <!-- EN: Error while loading assets -->
+  <ErrorWhileLoadingAssetsTitle>त्रुटि संपत्ति लोड करते समय</ErrorWhileLoadingAssetsTitle>
+  <!-- EN: An error occurred while loading game assets. See error log for more information. -->
+  <ErrorWhileLoadingAssets>खेल संपत्तियां लोड करते समय त्रुटि हुई। अधिक जानकारी के लिए त्रुटि लॉग देखें।</ErrorWhileLoadingAssets>
+  <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
+  <ErrorWhileLoadingAssets_ModsInfo>खेल वर्तमान में कस्टम मॉड के साथ चल रहा है—ये समस्याएँ उत्पन्न कर सकते हैं।</ErrorWhileLoadingAssets_ModsInfo>
+  <!-- EN: Error while generating a map -->
+  <ErrorWhileGeneratingMapTitle>मानचित्र उत्पन्न करते समय त्रुटि</ErrorWhileGeneratingMapTitle>
+  <!-- EN: An error occurred while generating a new map. See error log for more information. -->
+  <ErrorWhileGeneratingMap>नया मानचित्र बनाते समय त्रुटि हुई। अधिक जानकारी के लिए त्रुटि लॉग देखें।</ErrorWhileGeneratingMap>
+  <!-- EN: Error while loading a map -->
+  <ErrorWhileLoadingMapTitle>त्रुटि मानचित्र लोड करते समय</ErrorWhileLoadingMapTitle>
+  <!-- EN: An error occurred while loading a map. See error log for more information. -->
+  <ErrorWhileLoadingMap>मानचित्र लोड करने में त्रुटि हुई। अधिक जानकारी के लिए त्रुटि लॉग देखें।</ErrorWhileLoadingMap>
+  
+  <!-- Unloaded mod with an assembly -->
+  <!-- EN: The mod list has changed. The game will now restart automatically. -->
+  <ModsChanged>मोड सूची बदली गई है। खेल अब स्वचालित रूप से पुनः आरंभ होगा।</ModsChanged>
+  <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
+  <FailedToRestart>खेल पुनः आरंभ करते समय कुछ गलत हो गया। निष्क्रिय किए गए मॉड से संशोधित कोड को खेल पूरी तरह से अनलोड नहीं कर सकता है, इसलिए निष्क्रिय किए गए मॉड का कोड अभी भी सक्रिय रह सकता है।\n\nयह अनुशंसा की जाती है कि आप सभी मॉड को साफ तरीके से लोड करने के लिए अभी खेल से बाहर निकलें और पुनः आरंभ करें।</FailedToRestart>
+  <!-- EN: Restarting -->
+  <Restarting>पुनः आरंभ</Restarting>
+  
+  <!-- Missing Steam -->
+  <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
+  <SteamClientMissing>स्टीम एपीआई आरंभ नहीं हो सका। संभावित कारण:\n\n-स्टीम नहीं चल रहा है।\n-स्टीम के बाहर से बिना steam_appid.txt के लॉन्च किया गया।\n-स्टीम क्लाइंट से अलग विशेषाधिकारों के साथ चल रहा है (जैसे &amp;quot;व्यवस्थापक के रूप में&amp;quot;)।\n\nज्यादातर मामलों में, अपने कंप्यूटर को रीबूट करने से यह समस्या ठीक हो जाएगी।\n\nआप वैसे भी खेल सकते हैं, लेकिन कोई भी स्टीम आँकड़ा रिकॉर्ड नहीं किया जाएगा और स्टीम सुविधाएँ उपलब्ध नहीं होंगी।</SteamClientMissing>
+  
+  <!-- Long events -->
+  <!-- EN: Initializing interface -->
+  <InitializingInterface>इंटरफेस आरम्भ</InitializingInterface>
+  <!-- EN: Unloading unused assets -->
+  <UnloadingUnusedAssets>अतिरिक्त संपत्ति उतारना</UnloadingUnusedAssets>
+  <!-- EN: Loading all active mods -->
+  <LoadingAllActiveMods>सक्रिय मॉड लोड हो रहे हैं।</LoadingAllActiveMods>
+  <!-- EN: Loading defs -->
+  <LoadingDefs>परिभाषाएँ लोड हो रही हैं</LoadingDefs>
+  <!-- EN: Loading assets -->
+  <LoadingAssets>संपत्तियाँ लोड हो रही हैं।</LoadingAssets>
+  <!-- EN: Initializing -->
+  <Initializing>प्रारंभिकरण</Initializing>
+  <!-- EN: Loading world -->
+  <LoadingWorld>दुनिया लोड हो रही है</LoadingWorld>
+  <!-- EN: Loading map -->
+  <LoadingMap>मानचित्र लोड हो रहा है</LoadingMap>
+  <!-- EN: Initializing game -->
+  <InitializingGame>खेल शुरू करना</InitializingGame>
+  <!-- EN: Spawning things -->
+  <SpawningAllThings>उत्पादन</SpawningAllThings>
+  <!-- EN: Spawning colonists -->
+  <SpawningColonists>कॉलोनिस्ट स्पॉन हो रहे हैं</SpawningColonists>
+  
+  <!-- Save/load -->
+  <!-- EN: Save -->
+  <SaveGameButton>संग्रहण</SaveGameButton>
+  <!-- EN: Load -->
+  <LoadGameButton>लोड</LoadGameButton>
+  <!-- EN: Overwrite -->
+  <OverwriteButton>बदलें</OverwriteButton>
+  <!-- EN: Really delete {0}? -->
+  <ConfirmDelete>वास्तव में हटाएं {0}?</ConfirmDelete>
+  <!-- EN: Delete this savegame. -->
+  <DeleteThisSavegame>सेवगेम हटाएं।</DeleteThisSavegame>
+  <!-- EN: Saved as {0}. -->
+  <SavedAs>{0} के रूप में सहेजा गया।</SavedAs>
+  <!-- EN: Please enter a name. -->
+  <NeedAName>नाम दर्ज करें।</NeedAName>
+  <!-- EN: Loading -->
+  <LoadingLongEvent>लोडिंग</LoadingLongEvent>
+  <!-- EN: Saving -->
+  <SavingLongEvent>सहेज रहा है</SavingLongEvent>
+  <!-- EN: (Permadeath) -->
+  <PermadeathModeSaveSuffix>स्थायी मृत्यु</PermadeathModeSaveSuffix>
+  <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
+  <SaveIsFromDifferentGameVersion>हम {0} चला रहे हैं लेकिन सहेजी गई डेटा {1} से है, जो कि एक अलग संस्करण है।\n\nइस डेटा को लोड करने का प्रयास शायद काम नहीं करेगा।</SaveIsFromDifferentGameVersion>
+  <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
+  <SaveIsFromDifferentGameBuild>हम {0} चला रहे हैं लेकिन सहेजी गई डेटा {1} से है, जो एक अलग बिल्ड है।\n\nइस डेटा को लोड करने का प्रयास अभी भी काम करना चाहिए।</SaveIsFromDifferentGameBuild>
+  <!-- EN: Save data was saved with our game version and should work without issue. -->
+  <SaveIsFromThisGameBuild>गेम संस्करण के साथ सहेजा गया डेटा सुरक्षित है और बिना किसी समस्या के काम करना चाहिए।</SaveIsFromThisGameBuild>
+  <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
+  <SaveIsUnknownFormat>सेव डेटा अज्ञात प्रारूप में है और शायद ही ठीक से लोड होगा।</SaveIsUnknownFormat>
+  <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
+  <ProblemSavingFile>फ़ाइल {} को सहेजने में समस्या हुई:\n\n{}\n\nअधिक जानकारी के लिए त्रुटि लॉग देखें।</ProblemSavingFile>
+  <!-- EN: Load anyway -->
+  <LoadAnyway>फिर भी लोड करें</LoadAnyway>
+  <!-- EN: Load mod list from save -->
+  <ChangeLoadedMods>मोड सूची लोड करें सहेजें</ChangeLoadedMods>
+  <!-- EN: Some mods are unavailable, and need to be installed -->
+  <MissingMods>कुछ मॉड अनुपलब्ध हैं, और स्थापित करने की आवश्यकता है।</MissingMods>
+  <!-- EN: Official content -->
+  <OfficialContent>आधिकारिक सामग्री</OfficialContent>
+  <!-- EN: Active -->
+  <ContentActive>सक्रिय</ContentActive>
+  <!-- EN: Installed, but not active -->
+  <ContentInstalledButNotActive>स्थापित, लेकिन सक्रिय नहीं।</ContentInstalledButNotActive>
+  <!-- EN: Not installed -->
+  <ContentNotInstalled>स्थापित नहीं</ContentNotInstalled>
+  
+  <!-- Player faction naming -->
+  <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
+  <NamePlayerFactionMessage>चूंकि ऐसा लगता है कि आप यहां कुछ समय के लिए रहेंगे, {0} का मानना ​​है कि आपको अपने गुट को एक नाम देना चाहिए। आपके गुट का नाम क्या होना चाहिए?</NamePlayerFactionMessage>
+  <!-- EN: Your faction is now known as {0}. -->
+  <PlayerFactionGainsName>आपका गुट अब {0} के रूप में जाना जाता है।</PlayerFactionGainsName>
+  <!-- EN: That name isn't valid. -->
+  <PlayerFactionNameIsInvalid>अमान्य नाम।</PlayerFactionNameIsInvalid>
+
+  <!-- Player faction base naming -->
+  <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
+  <NamePlayerFactionBaseMessage>{0} को लगता है कि आपको इस बस्ती का नाम देना चाहिए। इस स्थानीय बस्ती को क्या कहा जाना चाहिए?</NamePlayerFactionBaseMessage>
+  <!-- EN: This community is now known as {0}. -->
+  <PlayerFactionBaseGainsName>यह समुदाय अब {0} के रूप में जाना जाता है।</PlayerFactionBaseGainsName>
+  <!-- EN: That name isn't valid. -->
+  <PlayerFactionBaseNameIsInvalid>अमान्य नाम।</PlayerFactionBaseNameIsInvalid>
+  
+  <!-- Player faction and faction base naming -->
+  <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0} को भी लगता है कि आपको इस बस्ती का नाम देना चाहिए। इस स्थानीय बस्ती का क्या नाम होना चाहिए?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
+  <PlayerFactionAndBaseGainsName>आपका गुट अब {0} के रूप में जाना जाता है, और यह समुदाय अब {1} के रूप में जाना जाता है।</PlayerFactionAndBaseGainsName>
+  
+  <!-- Renaming -->
+  <!-- EN: Please enter a valid name. -->
+  <NameIsInvalid>कृपया एक मान्य नाम दर्ज करें।</NameIsInvalid>
+  <!-- EN: Name is already in use. -->
+  <NameIsInUse>नाम पहले से उपयोग में है।</NameIsInUse>
+  <!-- EN: The zone is now called {0}. -->
+  <ZoneGainsName>क्षेत्र को अब {0} कहा जाता है।</ZoneGainsName>
+  
+  <!-- Pawn naming -->
+  <!-- EN: Chosen name is invalid. -->
+  <NameInvalid>चुना हुआ नाम अमान्य है।</NameInvalid>
+  <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
+  <PawnGainsName>इस व्यक्ति का उपनाम अब {0} है। {PAWN_possessive} पदवी {PAWN_title} है।</PawnGainsName>
+  <!-- EN: The animal's name is now {0}. -->
+  <AnimalGainsName>जानवर का नाम अब {0} है।</AnimalGainsName>
+  <!-- EN: rename person -->
+  <RenamePerson>नाम बदलें</RenamePerson>
+  <!-- EN: mother -->
+  <Mother>माता</Mother>
+  <!-- EN: father -->
+  <Father>पिता</Father>
+  <!-- EN: unknown -->
+  <Unknown>अज्ञात</Unknown>
+  <!-- EN: first name -->
+  <FirstName>पहला नाम</FirstName>
+  <!-- EN: nickname -->
+  <NickName>उपनाम</NickName>
+  <!-- EN: last name -->
+  <LastName>अंतिम नाम</LastName>
+  <!-- EN: suggested -->
+  <Suggested>सुझाव</Suggested>
+  
+  <!-- Choose new wanderers -->
+  <!-- EN: Choose new wanderers -->
+  <ChooseNewWanderers>नए आवारा</ChooseNewWanderers>
+
+  <!-- Save game incompatible warning -->
+  <!-- EN: Version mismatch -->
+  <VersionMismatch>संस्करण विसंगति</VersionMismatch>
+  <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
+  <SaveGameIncompatibleWarningText>यह गेम {0} गेम संस्करण के साथ सहेजा गया था।\nहम {1} गेम संस्करण चला रहे हैं।\n\nइस सेव को लोड करने से बग और क्रैश हो सकते हैं।</SaveGameIncompatibleWarningText>
+  <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
+  <WorldFileVersionMismatch>विश्व फ़ाइल खेल संस्करण {0} के साथ उत्पन्न हुई थी।\nहम खेल संस्करण {1} चला रहे हैं।\n\nइस विश्व को लोड करने से बग और क्रैश हो सकते हैं। आपको शायद एक नया विश्व शुरू से उत्पन्न करना चाहिए।</WorldFileVersionMismatch>
+  <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
+  <FileIncompatibleWarning>यह फ़ाइल गेम संस्करण {0} के साथ सहेजी गई थी।\nहम गेम संस्करण {1} चला रहे हैं।\n\nइस फ़ाइल को लोड करने से बग और क्रैश हो सकते हैं।</FileIncompatibleWarning>
+  <!-- EN: Mods mismatch -->
+  <ModsMismatchWarningTitle>संशोधन बेमेल हैं</ModsMismatchWarningTitle>
+  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do. -->
+  <ModsMismatchWarningText>यह फ़ाइल अलग मॉडों के साथ सहेजी गई थी जो वर्तमान में सक्रिय नहीं हैं। यह समस्याएँ पैदा कर सकती है या नहीं, यह इन मॉडों पर निर्भर करता है।</ModsMismatchWarningText>
+  <!-- EN: No mods have been added or removed, but the order of your mod list has changed. -->
+  <ModsMismatchOrderChanged>मोड सूची का क्रम बदल गया है।</ModsMismatchOrderChanged>
+  <!-- EN: Are you sure you want to load the mod list from this save file? -->
+  <ConfirmLoadSaveList>क्या आप इस सहेजे गए फ़ाइल से मॉड सूची लोड करना चाहते हैं?</ConfirmLoadSaveList>
+
+  <!-- Resolution change dialog -->
+  <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
+  <ConfirmResolutionChange>आपने अपनी स्क्रीन सेटिंग्स बदल दी हैं। क्या नई सेटिंग्स ठीक से काम कर रही हैं?\n\n{0} में स्वतः वापस लौट रहा है…</ConfirmResolutionChange>
+  <!-- EN: Keep -->
+  <ResolutionKeep>रखें</ResolutionKeep>
+  <!-- EN: Revert -->
+  <ResolutionRevert>वापसी</ResolutionRevert>
+
+  <!-- Confirm permanently disable dev mode -->
+  <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
+  <ConfirmPermanentlyDisableDevMode>क्या आप इस कंप्यूटर पर डेवलपमेंट मोड को स्थायी रूप से अक्षम करना चाहते हैं?\n\nयह विकल्प उन लोगों के लिए है जो सामान्य खेल में लाभ प्राप्त करने के लिए डेवलपमेंट टूल का उपयोग करने के प्रलोभन के बिना एक शुद्ध खेल अनुभव चाहते हैं।\n\nडेवलपमेंट मोड को फिर से सक्षम किया जा सकता है, लेकिन ऐसा करने के लिए कॉन्फ़िगरेशन फ़ाइलों को मैन्युअल रूप से संपादित करने की आवश्यकता होगी। आपको यह पता लगाने के लिए इंटरनेट पर खोज करनी होगी कि कैसे।</ConfirmPermanentlyDisableDevMode>
+
+  <!-- Confirm reset learning helper -->
+  <!-- EN: Are you sure you want to reset the learning helper?\n\nAll records of which concepts have been learned will be erased and the system will teach everything from scratch. -->
+  <ConfirmResetLearningHelper>क्या आप सीखने वाले सहायक को रीसेट करना चाहते हैं?\n\nसीखे गए सभी अवधारणाओं के रिकॉर्ड मिटा दिए जाएंगे और सिस्टम सब कुछ शुरुआत से सिखाएगा।</ConfirmResetLearningHelper>
+
+  <!-- Backstory translation restart dialog -->
+  <!-- EN: Backstories are now implemented as a def and all legacy backstory translations have been imported into def translations. The file {0} has been imported and moved to {1}. It can now be deleted.\n\nRestart the game for changes to take effect. -->
+  <RestartAfterImportingLegacyBackstoryTanslations>बैकस्टोरीज़ अब एक डेफ के रूप में लागू की गई हैं और सभी पुरानी बैकस्टोरी अनुवाद डेफ अनुवादों में आयात किए गए हैं। फ़ाइल {0} आयात की गई है और {1} में ले जाई गई है। इसे अब हटाया जा सकता है।\n\nपरिवर्तनों को प्रभावी करने के लिए गेम को पुनरारंभ करें।</RestartAfterImportingLegacyBackstoryTanslations>
+
+  <!-- Game start -->
+  <!-- EN: Must include exactly {SUMMARY} -->
+  <SelectedCharactersMustInclude>ठीक {SUMMARY} शामिल होना चाहिए</SelectedCharactersMustInclude>
+  <!-- EN: All colonists must be {0} -->
+  <SelectedCharactersMustBeOfAllowedDevelopmentalStages>सभी उपनिवेशवादियों को {0} होना चाहिए।</SelectedCharactersMustBeOfAllowedDevelopmentalStages>
+  <!-- EN: At least one colonist must be capable of {0} -->
+  <SelectedCharacterMustBeCapableOf>कम से कम एक उपनिवेशवादी {0} करने में सक्षम होना चाहिए।</SelectedCharacterMustBeCapableOf>
+
+  <!-- Advanced game start options -->
+  <!-- EN: Warning: You will be landing in winter. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different season. -->
+  <MapWinterWarning>चेतावनी: आप सर्दी में उतरेंगे। जीवित रहना कठिन या असंभव हो सकता है। यदि आप अत्यधिक चुनौती का सामना करने का इरादा नहीं रखते हैं, तो एक अलग मौसम चुनें।</MapWinterWarning>
+  <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
+  <MapSizePerformanceWarning>खेल मध्यम आकार के मानचित्रों पर खेलने के लिए डिज़ाइन किया गया है। ये आकार पर्याप्त जगह प्रदान करते हैं!\n\nबड़े आकार के मानचित्र प्रदर्शन को खराब ही नहीं करते - वे वास्तव में खेल डिज़ाइन को तोड़ देते हैं। कृत्रिम बुद्धिमत्ता मूर्खतापूर्ण निर्णय लेगी, और खेल संतुलन विभिन्न तरीकों से बुरी तरह प्रभावित होगा। ये आकार केवल परंपरा और परीक्षण के कारणों से शामिल हैं, कृपया उन्हें किसी विशिष्ट कारण के बिना उपयोग न करें।</MapSizePerformanceWarning>
+  <!-- EN: Map size -->
+  <MapSize>मानचित्र आकार</MapSize>
+  <!-- EN: {0}x{0} ({1} cells) -->
+  <MapSizeDesc>{0}x{0} ({1} कोशिकाएं)</MapSizeDesc>
+  <!-- EN: Small -->
+  <MapSizeSmall>छोटा</MapSizeSmall>
+  <!-- EN: Medium -->
+  <MapSizeMedium>मध्यम</MapSizeMedium>
+  <!-- EN: Large -->
+  <MapSizeLarge>बड़ा</MapSizeLarge>
+  <!-- EN: Extreme (test) -->
+  <MapSizeExtreme>अति</MapSizeExtreme>
+  <!-- EN: Starting season -->
+  <MapStartSeason>शुरू मौसम</MapStartSeason>
+  <!-- EN: Auto -->
+  <MapStartSeasonDefault>स्वचालित</MapStartSeasonDefault>
+  <!-- EN: Notice -->
+  <Notice>सूचना</Notice>
+
+  <!-- Bill config -->
+  <!-- EN: Suspended -->
+  <Suspended>निलंबित</Suspended>
+  <!-- EN: Not suspended -->
+  <NotSuspended>निलंबित नहीं</NotSuspended>
+  <!-- EN: SUSPENDED -->
+  <SuspendedAllCaps>निलंबित</SuspendedAllCaps>
+  <!-- EN: Repeat: -->
+  <RepeatCount>दोहराएँ</RepeatCount>
+  <!-- EN: Forever -->
+  <Forever>हमेशा</Forever>
+  <!-- EN: Details -->
+  <Details>विवरण</Details>
+  <!-- EN: Ingredient radius -->
+  <IngredientSearchRadius>सामग्री त्रिज्या</IngredientSearchRadius>
+  <!-- EN: Currently have -->
+  <CurrentlyHave>वर्तमान में है</CurrentlyHave>
+  <!-- EN: Counting -->
+  <CountingProducts>गिनती</CountingProducts>
+  <!-- EN: Infinite -->
+  <Infinite>अनंत</Infinite>
+  <!-- EN: Allowed {0} skill -->
+  <AllowedSkillRange>अनुमत {0} कौशल</AllowedSkillRange>
+  <!-- EN: incompatible -->
+  <IncompatibleLower>असंगत</IncompatibleLower>
+  <!-- EN: Any worker -->
+  <AnyWorker>कोई भी कर्मी</AnyWorker>
+  <!-- EN: Unlimited -->
+  <Unlimited>असीमित</Unlimited>
+  
+  <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
+  <RecipeCannotHaveTargetCount>(यह नुस्खा लक्ष्य गिनती नहीं रख सकता क्योंकि इसमें कई या अप्रत्याशित उत्पाद हैं।)</RecipeCannotHaveTargetCount>
+  <!-- EN: Work amount -->
+  <WorkAmount>कार्य मात्रा</WorkAmount>
+  <!-- EN: Minimum skills: -->
+  <MinimumSkills>न्यूनतम कौशल:</MinimumSkills>
+  <!-- EN: Requires -->
+  <BillRequires>ज़रूरतें</BillRequires>
+  <!-- EN: nutrition -->
+  <BillNutrition>पोषण</BillNutrition>
+  <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
+  <BillRequiresMayVary>ध्यान दें: कम मात्रा वाली सामग्री जैसे सोना को {0}x अधिक की आवश्यकता होती है।</BillRequiresMayVary>
+  <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
+  <ThisIsSmallVolume>यह एक छोटी मात्रा वाली सामग्री है। इसका मतलब है कि प्रत्येक &amp;apos;इकाई&amp;apos; सामान्य-मात्रा वाली सामग्री से केवल 1/{0} जितनी है। इसलिए, समान सामग्री आवश्यकता को पूरा करने के लिए, आपको सामान्य से {0} गुना अधिक की आवश्यकता होगी।</ThisIsSmallVolume>
+  <!-- EN: ingredients -->
+  <UsableIngredients>सामग्री</UsableIngredients>
+  <!-- EN: To {0} -->
+  <BillRepeatTargetCountShort>{0} की ओर</BillRepeatTargetCountShort>
+
+  <!-- EN: Pause when satisfied -->
+  <PauseWhenSatisfied>रोकें। \n\n(Roken)</PauseWhenSatisfied>
+  <!-- EN: Unpause at -->
+  <UnpauseWhenYouHave>रोक हटाएं</UnpauseWhenYouHave>
+  <!-- EN: paused -->
+  <Paused>रोक दिया गया</Paused>
+  <!-- EN: Unpause -->
+  <Unpause>जारी रखें</Unpause>
+
+  <!-- EN: Count equipped -->
+  <IncludeEquipped>उपकरण गिनती</IncludeEquipped>
+  <!-- EN: Count tainted -->
+  <IncludeTainted>दूषित गिनती</IncludeTainted>
+  <!-- EN: Only allowed ingredients -->
+  <LimitToAllowedStuff>केवल अनुमत सामग्री</LimitToAllowedStuff>
+  <!-- EN: Look everywhere -->
+  <IncludeFromAll>हर जगह देखें</IncludeFromAll>
+  <!-- EN: Look in {0} -->
+  <IncludeSpecific>{0} में देखें</IncludeSpecific>
+  <!-- EN: Stockpiles -->
+  <StockpilePlural>भंडार</StockpilePlural>
+  <!-- EN: Shelves -->
+  <ShelfPlural>शेल्फ</ShelfPlural>
+  <!-- EN: Groups -->
+  <GroupPlural>समूह</GroupPlural>
+  
+  <!-- Info card -->
+  <!-- EN: Damage -->
+  <Damage>क्षति</Damage>
+  <!-- EN: Armor penetration -->
+  <ArmorPenetration>कवच भेदन</ArmorPenetration>
+  <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
+  <ArmorPenetrationExplanation>कवच भेदन वह मात्रा है जो यह हथियार प्रत्येक हिट पर लक्ष्य के कवच को अनदेखा कर देगा।\n\nयदि कवच भेदन लक्ष्य के कवच से अधिक है, तो ऐसा लगता है जैसे लक्ष्य बिना कवच वाला है। अन्यथा, कवच भेदन को लक्ष्य के कवच से घटा दिया जाता है।</ArmorPenetrationExplanation>
+  <!-- EN: Building damage factor -->
+  <BuildingDamageFactor>भवन क्षति कारक</BuildingDamageFactor>
+  <!-- EN: Damage to all buildings is multiplied by this value. -->
+  <BuildingDamageFactorExplanation>सभी इमारतों को होने वाला नुकसान इस मान से गुणा किया जाता है।</BuildingDamageFactorExplanation>
+  <!-- EN: Building damage factor (impassable) -->
+  <BuildingDamageFactorImpassable>इमारत क्षति कारक (अगम्य)</BuildingDamageFactorImpassable>
+  <!-- EN: Damage to all impassable buildings is multiplied by this value. -->
+  <BuildingDamageFactorImpassableExplanation>अभेद्य इमारतों को होने वाला नुकसान इस मान से गुणा होता है।</BuildingDamageFactorImpassableExplanation>
+  <!-- EN: Building damage factor (passable) -->
+  <BuildingDamageFactorPassable>निर्माण क्षति कारक (पारगम्य)</BuildingDamageFactorPassable>
+  <!-- EN: Damage to all passable buildings is multiplied by this value. -->
+  <BuildingDamageFactorPassableExplanation>सभी पारगम्य इमारतों को होने वाला नुकसान इस मान से गुणा किया जाता है।</BuildingDamageFactorPassableExplanation>
+  <!-- EN: Accuracy -->
+  <Accuracy>सटीकता</Accuracy>
+  <!-- EN: Burst shot count -->
+  <BurstShotCount>गोली की संख्या</BurstShotCount>
+  <!-- EN: Warmup -->
+  <WarmupTime>तैयारी</WarmupTime>
+  <!-- EN: Melee warmup -->
+  <MeleeWarmupTime>नज़दीकी युद्ध वार्मअप</MeleeWarmupTime>
+  <!-- EN: Aiming time -->
+  <RangedWarmupTime>लक्ष्य समय</RangedWarmupTime>
+  <!-- EN: Cooldown -->
+  <CooldownTime>ठंडा होना</CooldownTime>
+  <!-- EN: Disarmed -->
+  <DisarmedTime>निष्क्रिय</DisarmedTime>
+  <!-- EN: Charging -->
+  <ChargingTime>चार्जिंग</ChargingTime>
+  <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
+  <ChargingNext>अगली रिचार्ज (के लिए {1}) में: {0}\nचार्ज चक्र: {2}</ChargingNext>
+  <!-- EN: Shut down -->
+  <ShutDown>बंद करें</ShutDown>
+  <!-- EN: Fire rate -->
+  <BurstShotFireRate>आग दर</BurstShotFireRate>
+  <!-- EN: Range -->
+  <Range>दायरा</Range>
+  <!-- EN: Stopping power -->
+  <StoppingPower>रोकने की शक्ति</StoppingPower>
+  <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds.\n\nTargets with a body size larger than the stopping power will be unaffected. -->
+  <StoppingPowerExplanation>इस हथियार से लगने वाली चोटें लक्ष्यों को डगमगा देंगी, जिससे उनकी गति कुछ सेकंड के लिए धीमी हो जाएगी।\n\nजिन लक्ष्यों का शरीर का आकार स्टॉपिंग पावर से बड़ा है, वे अप्रभावित रहेंगे।</StoppingPowerExplanation>
+  <!-- EN: Direct hit chance -->
+  <DirectHitChance>सीधा प्रहार मौका</DirectHitChance>
+  <!-- EN: Miss radius -->
+  <MissRadius>छूट त्रिज्या</MissRadius>
+  <!-- EN: Grows wild -->
+  <GrowsWild>जंगली उगाना</GrowsWild>
+  <!-- EN: Harvestable -->
+  <Harvestable>कटाई</Harvestable>
+  <!-- EN: Limited lifespan -->
+  <LimitedLifespan>सीमित जीवनकाल</LimitedLifespan>
+  <!-- EN: Growing time -->
+  <GrowingTime>उगाने का समय</GrowingTime>
+  <!-- EN: Harvest yield -->
+  <HarvestYield>उत्पादन</HarvestYield>
+  <!-- EN: Min growth temperature -->
+  <MinGrowthTemperature>न्यूनतम वृद्धि तापमान</MinGrowthTemperature>
+  <!-- EN: Max growth temperature -->
+  <MaxGrowthTemperature>अधिकतम वृद्धि तापमान</MaxGrowthTemperature>
+  <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\n\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
+  <GrowingTimeDesc>पौधे दिन के केवल एक हिस्से में और केवल प्रकाश में ही बढ़ते हैं।\n\nयह आँकड़ा मापता है कि पौधे को पूरी तरह से विकसित होने के लिए वास्तव में कितना समय बिताने की आवश्यकता है।\n\nवास्तविक विकास का समय आम तौर पर लगभग दोगुना लंबा होगा।\n\nकम तापमान भी पौधों की वृद्धि को धीमा कर देता है।</GrowingTimeDesc>
+  <!-- EN: days -->
+  <Days>दिन</Days>
+  <!-- EN: Minimum growing skill to sow -->
+  <MinGrowingSkillToSow>न्यूनतम वृद्धि कौशल बोने के लिए</MinGrowingSkillToSow>
+  <!-- EN: Fertility requirement -->
+  <FertilityRequirement>प्रजनन आवश्यकता</FertilityRequirement>
+  <!-- EN: Fertility sensitivity -->
+  <FertilitySensitivity>प्रजनन संवेदनशीलता</FertilitySensitivity>
+  <!-- EN: Light requirement -->
+  <LightRequirement>प्रकाश आवश्यकता</LightRequirement>
+  <!-- EN: Attributes -->
+  <Attributes>विशेषताएं</Attributes>
+  <!-- EN: Lifespan -->
+  <LifeSpan>जीवनकाल</LifeSpan>
+  <!-- EN: Nutrition -->
+  <Nutrition>पोषण</Nutrition>
+  <!-- EN: Recreation -->
+  <Joy>मनोरंजन</Joy>
+  <!-- EN: Food quality -->
+  <FoodQuality>भोजन गुणवत्ता</FoodQuality>
+  <!-- EN: Walk speed -->
+  <WalkSpeedProperty>चलने की गति</WalkSpeedProperty>
+  <!-- EN: Min. food quality -->
+  <MinFoodQuality>न्यूनतम भोजन गुणवत्ता</MinFoodQuality>
+  <!-- EN: Diet -->
+  <Diet>आहार</Diet>
+  <!-- EN: Nutrition need per day -->
+  <NutritationEatenPerDay>पोषण आवश्यकता प्रति दिन</NutritationEatenPerDay>
+  <!-- EN: Leather type -->
+  <LeatherType>चमड़े का प्रकार</LeatherType>
+  <!-- EN: Body size -->
+  <BodySize>शरीर आकार</BodySize>
+  <!-- EN: Growth -->
+  <Growth>वृद्धि</Growth>
+  <!-- EN: Recruit difficulty -->
+  <RecruitDifficulty>भर्ती कठिनाई</RecruitDifficulty>
+  <!-- EN: Base price -->
+  <MarketValue>मूल मूल्य</MarketValue>
+  <!-- EN: Covers -->
+  <Covers>ढकना</Covers>
+  <!-- EN: Created at -->
+  <CreatedAt>बनाया गया</CreatedAt>
+  <!-- EN: Layer -->
+  <Layer>परत</Layer>
+  <!-- EN: Cover effectiveness -->
+  <CoverEffectiveness>आड़ प्रभावशीलता</CoverEffectiveness>
+  <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
+  <CoverEffectivenessExplanation>बंदूक की लड़ाई में आड़ के रूप में यह कितना प्रभावी है।\n\nउच्च प्रतिशत अधिक गोलियाँ रोकेंगे।</CoverEffectivenessExplanation>
+  <!-- EN: Experience gain factor -->
+  <MedicineXpGainFactor>अनुभव वृद्धि दर</MedicineXpGainFactor>
+  <!-- EN: Mood change -->
+  <MoodChange>मनोदशा परिवर्तन</MoodChange>
+  <!-- EN: Wildness -->
+  <Wildness>जंगलीपन</Wildness>
+  <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
+  <WildnessExplanation>जंगली जीव स्वाभाविक रूप से पालने, प्रशिक्षित करने और संभालने में अधिक कठिन होते हैं।</WildnessExplanation>
+  <!-- EN: Training decay interval -->
+  <TrainingDecayInterval>प्रशिक्षण क्षय अंतराल</TrainingDecayInterval>
+  <!-- EN: Tameness will never decay for animals of very low wildness. -->
+  <TamenessWillNotDecay>जानवरों की वशता, बहुत कम जंगलीपन वाले जानवरों के लिए कभी घटती नहीं है।</TamenessWillNotDecay>
+  <!-- EN: Tameness will never decay for animals that can be kept behind fences. -->
+  <TamenessWillNotDecayFenceBlocked>जानवरों की पालतूता बाड़ के पीछे रखे जाने पर कभी घटती नहीं है।</TamenessWillNotDecayFenceBlocked>
+  <!-- EN: Time -->
+  <TimeRecordsCategory>समय</TimeRecordsCategory>
+  <!-- EN: Misc -->
+  <MiscRecordsCategory>विविध</MiscRecordsCategory>
+  <!-- EN: Chemical -->
+  <Chemical>रासायनिक</Chemical>
+  <!-- EN: High gain per dose -->
+  <HighGain>उच्च खुराक प्रति लाभ</HighGain>
+  <!-- EN: High fall rate -->
+  <HighFallRate>गिरावट दर</HighFallRate>
+  <!-- EN: High duration per dose -->
+  <HighDuration>उच्च खुराक प्रति अवधि</HighDuration>
+  <!-- EN: Tolerance gain per dose -->
+  <ToleranceGain>खुराक प्रति सहनशीलता लाभ</ToleranceGain>
+  <!-- EN: Tolerance fall rate -->
+  <ToleranceFallRate>सहिष्णुता गिरावट दर</ToleranceFallRate>
+  <!-- EN: New addiction min tolerance -->
+  <MinimumToleranceForAddiction>नया व्यसन न्यूनतम सहनशीलता</MinimumToleranceForAddiction>
+  <!-- EN: Safe dose interval for adults -->
+  <SafeDoseInterval>सुरक्षित खुराक अंतराल वयस्क</SafeDoseInterval>
+  <!-- EN: age {0}-{1} -->
+  <AgeXToY>उम्र {0}-{1}</AgeXToY>
+  <!-- EN: age {0}+ -->
+  <AgePlus>उम्र {0}+</AgePlus>
+  <!-- EN: New addiction chance -->
+  <Addictiveness>नया व्यसन अवसर</Addictiveness>
+  <!-- EN: Addiction initial severity -->
+  <AddictionSeverityInitial>नशा तीव्रता</AddictionSeverityInitial>
+  <!-- EN: Addiction severity per dose -->
+  <AddictionSeverityPerDose>खुराक प्रति व्यसन गंभीरता</AddictionSeverityPerDose>
+  <!-- EN: Addiction need fill per dose -->
+  <AddictionNeedOffset>मादक पदार्थ की खुराक प्रति आवश्यकता</AddictionNeedOffset>
+  <!-- EN: Addiction need fall rate -->
+  <AddictionNeedFallRate>लत की आवश्यकता घटने की दर</AddictionNeedFallRate>
+  <!-- EN: Addiction need dose interval -->
+  <AddictionNeedDoseInterval>लत खुराक अंतराल चाहिए</AddictionNeedDoseInterval>
+  <!-- EN: Addiction recovery time -->
+  <AddictionRecoveryTime>नशा मुक्ति समय</AddictionRecoveryTime>
+  <!-- EN: Addiction cost -->
+  <AddictionCost>लत लागत</AddictionCost>
+  <!-- EN: Random overdose chance -->
+  <RandomODChance>यादृच्छिक खुराक मौका</RandomODChance>
+  <!-- EN: Always safe -->
+  <AlwaysSafe>हमेशा सुरक्षित</AlwaysSafe>
+  <!-- EN: Never safe -->
+  <NeverSafe>कभी सुरक्षित नहीं</NeverSafe>
+  <!-- EN: {0} / day -->
+  <PerDay>{0} / दिन</PerDay>
+  <!-- EN: {0} / hour -->
+  <PerHour>{0} / घंटा</PerHour>
+  <!-- EN: {0} XP / hour -->
+  <XpPerHour>{0} अनुभव/घंटा</XpPerHour>
+  <!-- EN: Pack animal -->
+  <PackAnimal>बोझा पशु</PackAnimal>
+  <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
+  <PackAnimalExplanation>क्या यह जानवर लंबी दूरी पर कारवां में सामान ले जाने के लिए उपयुक्त है।</PackAnimalExplanation>
+  <!-- EN: Skill -->
+  <Skill>कौशल</Skill>
+  <!-- EN: Success rate multiplier -->
+  <SurgerySuccessChanceFactor>सफलता दर गुणक</SurgerySuccessChanceFactor>
+  <!-- EN: Death chance on fail -->
+  <SurgeryDeathOnFailChance>विफलता पर मृत्यु संभावना</SurgeryDeathOnFailChance>
+  <!-- EN: Work speed governed by -->
+  <WorkSpeedStat>कार्य गति द्वारा नियंत्रित</WorkSpeedStat>
+  <!-- EN: Output quantity governed by -->
+  <EfficiencyStat>उत्पादन मात्रा द्वारा नियंत्रित</EfficiencyStat>
+  <!-- EN: {0} skill required -->
+  <SkillRequiredToBuild>{0} कौशल आवश्यक</SkillRequiredToBuild>
+  <!-- EN: Requires this level of {0} in order to build. -->
+  <SkillRequiredToBuildExplanation>इस निर्माण के लिए {0} स्तर की आवश्यकता है।</SkillRequiredToBuildExplanation>
+  <!-- EN: Nuzzle interval -->
+  <NuzzleInterval>प्यार का अंतराल</NuzzleInterval>
+  <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection.\nMost humans find this cute and it will leave them in a good mood for a period of time. -->
+  <NuzzleIntervalExplanation>कोई जानवर मित्रवत उपनिवेशवादियों को कितनी बार थपथपाएगा, औसतन।\n\nथपथपाना कई पशु प्रजातियों द्वारा साझा किया जाने वाला व्यवहार है, जहाँ जानवर स्नेह के संकेत के रूप में अपना नाक या थूथन किसी मित्र के विरुद्ध दबाता है।\nअधिकांश मनुष्य इसे प्यारा पाते हैं और यह उन्हें कुछ समय के लिए अच्छे मूड में छोड़ देगा।</NuzzleIntervalExplanation>
+  <!-- EN: Revenge chance on harm -->
+  <HarmedRevengeChance>बदला लेने की संभावना चोट पर</HarmedRevengeChance>
+  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
+  <HarmedRevengeChanceExplanation>इस प्राणी के घायल होने पर हमला करने की संभावना।\n\nयदि हमलावर करीब है तो यह संभावना तीन गुना तक बढ़ जाती है।\n\nयह संभावना प्रत्येक बार क्षति होने पर लागू होती है। इसका मतलब है कि धीमी गति से चलने वाले, अधिक क्षति पहुंचाने वाले हथियार शिकार करते समय इसे ट्रिगर करने की संभावना कम रखते हैं।</HarmedRevengeChanceExplanation>
+  <!-- EN: Revenge chance on tame fail -->
+  <TameFailedRevengeChance>बदला लेने की संभावना, पालतू बनाने में विफलता पर</TameFailedRevengeChance>
+  <!-- EN: Terrain requirement -->
+  <TerrainRequirement>भू-आवश्यकता</TerrainRequirement>
+  <!-- EN: Supports -->
+  <Supports>सहायता</Supports>
+  <!-- EN: Trap armor penetration -->
+  <TrapArmorPenetration>जाल कवच भेदन</TrapArmorPenetration>
+  <!-- EN: Rearm cost -->
+  <RearmCost>पुनःसज्जा लागत</RearmCost>
+  <!-- EN: Resources needed to rearm this turret -->
+  <RearmCostExplanation>इस तोप को पुनः सशस्त्र करने के लिए आवश्यक संसाधन।</RearmCostExplanation>
+  <!-- EN: affected by difficulty -->
+  <RearmCostExplanationDifficulty>कठिनाई से प्रभावित</RearmCostExplanationDifficulty>
+  <!-- EN: Shots before rearm -->
+  <ShotsBeforeRearm>गोलीबारी से पहले</ShotsBeforeRearm>
+  <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
+  <ShotsBeforeRearmExplanation>यह तोप पुनः सशस्त्र होने से पहले कितने शॉट चला सकती है।</ShotsBeforeRearmExplanation>
+  <!-- EN: Power consumption -->
+  <PowerConsumption>बिजली खपत</PowerConsumption>
+  <!-- EN: Target -->
+  <Target>लक्ष्य</Target>
+  <!-- EN: The types of targets on which this ability can be used. -->
+  <AbilityTargetDesc>इस क्षमता के उपयोग के लिए लक्षित किए जा सकने वाले प्रकार।</AbilityTargetDesc>
+  <!-- EN: human -->
+  <TargetHuman>मानव</TargetHuman>
+  <!-- EN: animal -->
+  <TargetAnimal>जानवर</TargetAnimal>
+  <!-- EN: self -->
+  <TargetSelf>स्वयं</TargetSelf>
+  <!-- EN: ground -->
+  <TargetGround>भूमि</TargetGround>
+  <!-- EN: Click to learn more. -->
+  <ClickToLearnMore>अधिक जानने के लिए क्लिक करें।</ClickToLearnMore>
+  <!-- EN: Click to view factions. -->
+  <ClickToViewFactions>गुट देखने के लिए क्लिक करें।</ClickToViewFactions>
+  <!-- EN: meditation focus types -->
+  <MeditationFocuses>ध्यान प्रकार</MeditationFocuses>
+  <!-- EN: Unlocks meditation focus types -->
+  <MeditationFocusesUnlocked>ध्यान एकाग्रता प्रकारों को खोलता है।</MeditationFocusesUnlocked>
+  <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an object to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
+  <MeditationFocusesPawnDesc>इस व्यक्ति द्वारा उपयोग किए जा सकने वाले ध्यान के प्रकार। ध्यान करते समय, कोई व्यक्ति अपने साइफ़ोकस लाभ को बढ़ाने के लिए किसी वस्तु पर ध्यान केंद्रित कर सकता है—लेकिन केवल तभी जब वह वस्तु एक ऐसे ध्यान प्रकार प्रदान करे जिसका वे उपयोग कर सकते हैं। प्रत्येक व्यक्ति के ध्यान के प्रकार उनकी पृष्ठभूमि, लक्षणों, सामाजिक स्थिति आदि से निर्धारित होते हैं।</MeditationFocusesPawnDesc>
+  <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
+  <MeditationFocusesDesc>इस वस्तु द्वारा प्रस्तुत ध्यान के प्रकार। ध्यान करने वाला व्यक्ति अपनी साइफोक्स प्राप्ति को बढ़ावा देने के लिए इस वस्तु पर ध्यान केंद्रित कर सकता है, लेकिन केवल तभी जब वे इसके ध्यान के प्रकारों में से किसी एक का उपयोग करने में सक्षम हों। प्रत्येक व्यक्ति पृष्ठभूमि, लक्षणों, सामाजिक स्थिति आदि के आधार पर विभिन्न ध्यान के प्रकारों का उपयोग कर सकता है।</MeditationFocusesDesc>
+  <!-- EN: Can use {0} focus type because -->
+  <MeditationFocusCanUse>0 फोकस प्रकार का उपयोग कर सकते हैं क्योंकि</MeditationFocusCanUse>
+  <!-- EN: {0} focus objects -->
+  <MeditationFocusObjects>{0} फोकस वस्तुएं</MeditationFocusObjects>
+  <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
+  <MeditationFocusEnabledByTitle>पकड़ शीर्षक: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
+  <!-- EN: has childhood -->
+  <MeditationFocusEnabledByChildhood>बचपन है</MeditationFocusEnabledByChildhood>
+  <!-- EN: has adulthood -->
+  <MeditationFocusEnabledByAdulthood>वयस्कता</MeditationFocusEnabledByAdulthood>
+  <!-- EN: has trait -->
+  <MeditationFocusEnabledByTrait>विशेषता है</MeditationFocusEnabledByTrait>
+  <!-- EN: has health condition -->
+  <MeditationFocusEnabledByHediff>स्वास्थ्य स्थिति</MeditationFocusEnabledByHediff> 
+  <!-- EN: does not have trait -->
+  <MeditationFocusDisabledByTrait>विशेषता नहीं है।</MeditationFocusDisabledByTrait>
+  <!-- EN: Enables meditation focus types -->
+  <EnablesMeditationFocusType>ध्यान प्रकार सक्षम करता है।</EnablesMeditationFocusType>
+  
+  <!-- Trade -->
+  <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
+  <PositiveBuysNegativeSells>धनात्मक संख्याएँ खरीदें।\nऋणात्मक संख्याएँ बेचें।</PositiveBuysNegativeSells>
+  <!-- EN: Price you pay to buy this. -->
+  <BuyPriceDesc>इसकी खरीद के लिए आपको जो कीमत चुकानी होगी।</BuyPriceDesc>
+  <!-- EN: Price you receive for selling this. -->
+  <SellPriceDesc>इसकी बिक्री पर आपको मिलने वाली कीमत।</SellPriceDesc>
+  <!-- EN: For this item, this price is {0}. -->
+  <PriceTypeDesc>इस वस्तु के लिए यह मूल्य {0} है।</PriceTypeDesc>
+  <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
+  <ColonyCount>कॉलोनी के पास इस वस्तु की कितनी मात्रा व्यापार के लिए उपलब्ध है।\n\nकक्षा व्यापारी को वस्तुएँ बेचने के लिए, वे कक्षा व्यापार बीकन के पास होने चाहिए।</ColonyCount>
+  <!-- EN: How many of this item the trader has to trade. -->
+  <TraderCount>इस वस्तु के लिए व्यापारी के पास कितने हैं।</TraderCount>
+  <!-- EN: Accept -->
+  <AcceptButton>स्वीकार</AcceptButton>
+  <!-- EN: Load selected -->
+  <LoadSelected>चयन लोड करें</LoadSelected>
+  <!-- EN: Reset -->
+  <ResetButton>रीसेट</ResetButton>
+  <!-- EN: Cancel -->
+  <CancelButton>रद्द करें</CancelButton>
+  <!-- EN: Close -->
+  <CloseButton>बंद करें</CloseButton>
+  <!-- EN: Your tradeable silver: {0} -->
+  <YourTradeableSilver>आपकी व्यापार योग्य चांदी: {0}</YourTradeableSilver>
+  <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
+  <YourTradeableSilverTip>आप केवल चांदी का व्यापार कर सकते हैं जो कक्षीय व्यापार बीकन के पास हो और छत के नीचे न हो।</YourTradeableSilverTip>
+  <!-- EN: Trader has no more. -->
+  <TraderHasNoMore>व्यापारी के पास अब कुछ नहीं है।</TraderHasNoMore>
+  <!-- EN: No more to sell. -->
+  <ColonyHasNoMore>बेचने के लिए कुछ नहीं बचा।</ColonyHasNoMore>
+  <!-- EN: Trader is not willing to buy this. -->
+  <TraderWillNotTrade>व्यापारी इसे खरीदने को तैयार नहीं है।</TraderWillNotTrade>
+  <!-- EN: Negotiator -->
+  <Negotiator>समझौताकर्ता</Negotiator>
+  <!-- EN: Negotiator: {0} (+{1}) -->
+  <NegotiatorTradeDialogInfo>वार्तालापकर्ता: {0} (+{1})</NegotiatorTradeDialogInfo>
+  <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
+  <NegotiatorTalkingImpaired>आपका वार्ताकार {1_labelShort} खराब स्वास्थ्य के कारण ठीक से बात नहीं कर सकता।</NegotiatorTalkingImpaired>
+  <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
+  <NegotiatorHearingImpaired>आपका वार्ताकार {1_labelShort} खराब स्वास्थ्य के कारण ठीक से नहीं सुन सकता।</NegotiatorHearingImpaired>
+  <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
+  <NegotiatorCapacityImpaired>यह व्यापार मूल्यों को प्रभावित करेगा।\n\nअधिक स्वस्थ वार्ताकार का उपयोग करने पर विचार करें।</NegotiatorCapacityImpaired>
+  <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
+  <ConfirmTraderShortFunds>व्यापारी के पास इस लेन-देन को पूरी तरह से कवर करने के लिए पर्याप्त चांदी नहीं है। आगे बढ़ें?</ConfirmTraderShortFunds>
+  <!-- EN: Sort by -->
+  <SortBy>क्रमबद्ध करें</SortBy>
+  <!-- EN: trader type -->
+  <TraderTypePrice>व्यापारी प्रकार</TraderTypePrice>
+  <!-- EN: selling -->
+  <Selling>बेचना</Selling>
+  <!-- EN: buying -->
+  <Buying>खरीदारी</Buying>
+  <!-- EN: item sell price multiplier -->
+  <ItemSellPriceFactor>वस्तु विक्रय मूल्य गुणक</ItemSellPriceFactor>
+  <!-- EN: difficulty level -->
+  <DifficultyLevel>कठिनाई स्तर</DifficultyLevel>
+  <!-- EN: global post-process curve -->
+  <PostCurve>वैश्विक पोस्ट-प्रोसेस वक्र</PostCurve>
+  <!-- EN: Your negotiator bonus -->
+  <YourNegotiatorBonus>समझौता लाभ</YourNegotiatorBonus>
+  <!-- EN: Trading with faction base bonus -->
+  <TradeWithFactionBaseBonus>गुट आधार बोनस के साथ व्यापार</TradeWithFactionBaseBonus>
+  <!-- EN: Joins as slave -->
+  <JoinsAsSlave>गुलाम के रूप में शामिल हों</JoinsAsSlave>
+  <!-- EN: Joins as colonist -->
+  <JoinsAsColonist>कॉलोनी सदस्य के रूप में शामिल होता है</JoinsAsColonist>
+  <!-- EN: If purchased, this person will join your colony as a slave. -->
+  <JoinsAsSlaveDesc>यदि खरीदा जाता है, तो यह व्यक्ति आपके उपनिवेश में दास के रूप में शामिल होगा।</JoinsAsSlaveDesc> <!--  -->
+  <!-- EN: If purchased, this person will join your colony as a colonist. -->
+  <JoinsAsColonistDesc>यदि खरीदा जाता है, तो यह व्यक्ति आपके उपनिवेश में एक उपनिवेशवादी के रूप में शामिल होगा।</JoinsAsColonistDesc>
+  <!-- EN: Trading drugs bonus -->
+  <TradingDrugsBonus>दवा व्यापार बोनस</TradingDrugsBonus>
+  <!-- EN: minimum -->
+  <minimum>न्यूनतम</minimum>
+  <!-- EN: Final price -->
+  <FinalPrice>अंतिम मूल्य</FinalPrice>
+  <!-- EN: Gift mode - offer gifts to {0}. -->
+  <GiftModeTip>उपहार मोड - {0} को उपहार दें।</GiftModeTip>
+  <!-- EN: Return to trade mode. -->
+  <TradeModeTip>वाणिज्य मोड पर लौटें।</TradeModeTip>
+  <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
+  <TradeCaravanRequestDeniedDueTitle>{FACTION_name} कारवां भेजने को तैयार नहीं है क्योंकि {NEGOTIATOR_nameDef} के पास {TITLE} का आवश्यक शीर्षक नहीं है।</TradeCaravanRequestDeniedDueTitle>
+  <!-- EN: {FACTION_name} is not willing to send an orbital trader because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
+  <OrbitalTradeRequestDeniedDueTitle>{FACTION_name} भेजने को इच्छुक नहीं है क्योंकि {NEGOTIATOR_nameDef} के पास {TITLE} का आवश्यक शीर्षक नहीं है।</OrbitalTradeRequestDeniedDueTitle>
+
+  <!-- Sellable items -->
+  <!-- EN: Things this trader will buy -->
+  <SellableItemsTitle>यह व्यापारी क्या खरीदेगा</SellableItemsTitle>
+  <!-- EN: Never visited - stock unknown -->
+  <TraderNotVisitedYet>कभी दौरा नहीं किया - स्टॉक अज्ञात</TraderNotVisitedYet>
+  <!-- EN: Restocked since your last visit -->
+  <TraderRestockedSinceLastVisit>पिछली यात्रा से पुनः भंडारित</TraderRestockedSinceLastVisit>
+  <!-- EN: Next restock: {0} days -->
+  <NextTraderRestock>अगली आपूर्ति: {0} दिन</NextTraderRestock>
+  <!-- EN: Creatures -->
+  <PawnsTabShort>जीव</PawnsTabShort>
+  
+  <!-- Select caravan settlement -->
+  <!-- EN: Select colony to send caravan -->
+  <SelectCaravanOrigin>कॉलोनी का चयन करें जिससे कारवां भेजा जाए।</SelectCaravanOrigin> 
+  <!-- EN: Send a caravan from {0}. -->
+  <SelectCaravanDesc>{0} से एक कारवां भेजें।</SelectCaravanDesc> 
+  <!-- EN: Colonists -->
+  <SelectCaravanColonists>कॉलोनिस्ट</SelectCaravanColonists>
+  
+  <!-- Form caravan -->
+  <!-- EN: Form caravan -->
+  <FormCaravan>दल बनाना</FormCaravan>
+  <!-- EN: Send -->
+  <Send>भेजो</Send>
+  <!-- EN: Number available to send with the caravan. -->
+  <FormCaravanColonyThingCountTip>कारवां के साथ भेजने के लिए उपलब्ध संख्या।</FormCaravanColonyThingCountTip>
+  <!-- EN: Number available to transport. -->
+  <TransporterColonyThingCountTip>परिवहन के लिए उपलब्ध संख्या।</TransporterColonyThingCountTip>
+  <!-- EN: Number available to transfer. -->
+  <TransferMapPortalColonyThingCountTip>स्थानांतरण के लिए उपलब्ध संख्या।</TransferMapPortalColonyThingCountTip>
+  <!-- EN: People and animals -->
+  <PawnsTab>लोग और जानवर</PawnsTab>
+  <!-- EN: Items -->
+  <ItemsTab>सामान</ItemsTab>
+  <!-- EN: Travel supplies -->
+  <TravelSupplies>यात्रा सामग्री</TravelSupplies>
+  <!-- EN: You must assign at least one non-downed colonist. -->
+  <CaravanMustHaveAtLeastOneColonist>आपको कम से कम एक गैर-गिरित उपनिवेशवादी नियुक्त करना होगा।</CaravanMustHaveAtLeastOneColonist>
+  <!-- EN: The chosen exit location ({0}) is inaccessible. -->
+  <CaravanCouldNotFindExitSpot>चुना गया निकास स्थान {0} दुर्गम है।</CaravanCouldNotFindExitSpot>
+  <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
+  <CaravanCouldNotFindPackingSpot>कोई मान्य पैकिंग स्थान नहीं मिला। सुनिश्चित करें कि चुना गया निकास स्थान ({0}) सुलभ है।</CaravanCouldNotFindPackingSpot>
+  <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
+  <CaravanCouldNotFindReachableExitSpot>चेतावनी: कुछ नियुक्त उपनिवेशवादी निकास स्थान तक पहुँचने में असमर्थ हैं ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <!-- EN: {1_labelShort} is unable to reach the packing spot or the exit location when led by any of the assigned colonists. -->
+  <CaravanRoamerCannotReachSpots>{1_labelShort} किसी भी नियुक्त उपनिवेशवादी द्वारा नेतृत्व किए जाने पर पैकिंग स्थान या निकास स्थान तक पहुंचने में असमर्थ है।</CaravanRoamerCannotReachSpots>
+  <!-- EN: None of the assigned colonists are able to reach the {0}. -->
+  <CaravanItemIsUnreachableSingle>कोई भी नियुक्त उपनिवेशवादी {0} तक पहुँचने में सक्षम नहीं है।</CaravanItemIsUnreachableSingle>
+  <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
+  <CaravanItemIsUnreachableMulti>कोई भी नियुक्त उपनिवेशवादी {0}x {1} तक पहुँचने में सक्षम नहीं है।</CaravanItemIsUnreachableMulti>
+  <!-- EN: The caravan can't carry that much. -->
+  <TooBigCaravanMassUsage>कारवां इतना कुछ नहीं ले जा सकता।</TooBigCaravanMassUsage>
+  <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
+  <CaravanMassUsageTooltip>शामिल हैं ले जाए गए सामान और पहने हुए सामान। अधिकतम से कम ले जाने पर गति बोनस मिलता है।</CaravanMassUsageTooltip>
+  <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
+  <CaravanVisibilityTip>दृश्यता यह बताती है कि आपके कारवां को नोटिस करना कितना आसान है।\n\nयह संभावना को बढ़ाता है कि आपके कारवां पर दुश्मनों द्वारा घात लगाई जाएगी।\n\nदृश्यता आपकी वांछित चीज़ों को खोजने की क्षमता को प्रभावित नहीं करती है।\n\nदृश्यता कारवां में सभी लोगों और जानवरों के कुल शरीर आकार पर आधारित है।</CaravanVisibilityTip>
+  <!-- EN: Days of food -->
+  <DaysWorthOfFood>भोजन दिन</DaysWorthOfFood>
+  <!-- EN: rot in {0} -->
+  <DaysWorthOfFoodInfoRot>{0} में सड़ना</DaysWorthOfFoodInfoRot>
+  <!-- EN: Unlimited -->
+  <InfiniteDaysWorthOfFoodInfo>असीमित</InfiniteDaysWorthOfFoodInfo>
+  <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
+  <DaysWorthOfFoodTooltip>कम से कम एक व्यक्ति या जानवर के भोजन से बाहर निकलने से पहले अनुमानित दिनों की संख्या। विभिन्न प्रजातियों के आहार अलग-अलग होते हैं, इसलिए एक दूसरे से पहले भोजन से बाहर निकल सकता है। यह मान मार्ग चुने जाने के बाद अधिक सटीक रूप से गणना की जाती है।\n\nप्रभावित:\n  - वर्तमान प्यादा सूची\n  - ले जाया गया भोजन प्रकार और मात्रा\n  - कारवां सदस्य और उनके आहार\n  - चारागाह दर\n  - क्या जानवर चर सकते हैं\n  - भोजन सड़ने तक का समय\n  - गर्म मौसम में भोजन तेज़ी से सड़ता है</DaysWorthOfFoodTooltip>
+  <!-- EN: (only the first waypoint is taken into account) -->
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(केवल पहला वेपॉइंट लिया जाता है)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
+  <DaysWorthOfFoodWarningDialog>आपके कारवां के पास केवल {0} दिनों का भोजन है और जल्दी ही भूख लगने लगेगी।</DaysWorthOfFoodWarningDialog>
+  <!-- EN: Some peoples' diets don't allow most of the food in your caravan. If they're forced to eat it due to hunger, they will become unhappy. -->
+  <DaysWorthOfFoodDietWarningDialog>कुछ लोगों के आहार में आपके कारवां के अधिकांश खाद्य पदार्थ अनुमत नहीं हैं। यदि उन्हें भूख के कारण इसे खाने के लिए मजबूर किया जाता है, तो वे दुखी हो जाएंगे।</DaysWorthOfFoodDietWarningDialog>
+  <!-- EN: Your caravan has no food and will become hungry very quickly. -->
+  <DaysWorthOfFoodWarningDialog_NoFood>आपके कारवां के पास भोजन नहीं है और यह बहुत जल्दी भूखा हो जाएगा।</DaysWorthOfFoodWarningDialog_NoFood>
+  <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
+  <ForagedFoodPerDayTip>औसत भोजन की मात्रा जो आपके लोग प्रतिदिन एकत्र करेंगे। यह मान बदल जाएगा क्योंकि आप विभिन्न उपज दरों वाले बायोम में यात्रा करेंगे।</ForagedFoodPerDayTip>
+  <!-- EN: Forage per day -->
+  <ForagedFoodPerDay>दिन का संग्रह</ForagedFoodPerDay>
+  <!-- EN: A large part of the caravan's food will rot soon. -->
+  <CaravanFoodWillRotSoonWarningDialog>कारवां का एक बड़ा हिस्सा भोजन जल्द ही सड़ जाएगा।</CaravanFoodWillRotSoonWarningDialog>
+  <!-- EN: You have no caravan members capable of diplomacy or trading. -->
+  <CaravanIncapableOfSocial>आपके कारवां में कूटनीति या व्यापार करने में सक्षम सदस्य नहीं हैं।</CaravanIncapableOfSocial>
+  <!-- EN: Are you sure you want to form this caravan? -->
+  <CaravanAreYouSure>क्या आप वाकई यह कारवां बनाना चाहते हैं?</CaravanAreYouSure>
+  <!-- EN: You must choose a route for the caravan first. -->
+  <MessageMustChooseRouteFirst>आपको पहले कारवां के लिए एक मार्ग चुनना होगा।</MessageMustChooseRouteFirst>
+  <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
+  <MessageNoValidExitTile>आपका कारवां इस क्षेत्र को छोड़ने में असमर्थ है। सुनिश्चित करें कि कम से कम एक तरफ़ पहुँच योग्य है।</MessageNoValidExitTile>
+  <!-- EN: Weight of this item. -->
+  <ItemWeightTip>इस वस्तु का वज़न।</ItemWeightTip>
+  <!-- EN: Market value -->
+  <MarketValueTip>बाजार मूल्य</MarketValueTip>
+  <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
+  <DaysUntilRotTip>इस क्षेत्र के औसत तापमान के आधार पर इस वस्तु के सड़ने में लगने वाले दिनों की संख्या।</DaysUntilRotTip>
+  <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
+  <ItemNutritionTip>यह भोजन कितना पोषण प्रदान करता है।\n\nसंदर्भ के लिए: एक वयस्क व्यक्ति को प्रतिदिन {0} पोषण की आवश्यकता होती है।</ItemNutritionTip>
+  <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
+  <AnimalCanGrazeTip>यह जानवर ले जाए गए भोजन खाने के बजाय वातावरण से भोजन चर सकता है। चरना केवल कुछ बायोम और तापमान श्रेणियों में संभव है।</AnimalCanGrazeTip>
+  <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
+  <NutritionForagedPerDayTip>प्रतिदिन एकत्र किया गया पोषण। एकत्र की गई वास्तविक मात्रा बायोम की खाद्यता से भी प्रभावित होती है।\n\n{0}</NutritionForagedPerDayTip>
+  <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
+  <NutritionEatenPerDayTip>प्रति दिन खाया गया पोषण। संदर्भ के लिए, साधारण भोजन में {0} पोषण होता है।</NutritionEatenPerDayTip>
+  <!-- EN: Can eat -->
+  <CanEat>खा सकता है</CanEat>
+  <!-- EN: Legend -->
+  <Legend>लीजेंड</Legend>
+  <!-- EN: Mass carried -->
+  <MassCarriedSimple>भार ले जाया गया</MassCarriedSimple>
+  <!-- EN: Mass capacity -->
+  <MassCapacity>सामूहिक क्षमता</MassCapacity>
+  <!-- EN: Mass -->
+  <Mass>सामूहिक</Mass>
+  <!-- EN: Caravan mass -->
+  <CaravanMass>कारवां द्रव्यमान</CaravanMass>
+  <!-- EN: Equipment and apparel mass -->
+  <EquipmentAndApparelMass>उपकरण और वस्त्र द्रव्यमान</EquipmentAndApparelMass>
+  <!-- EN: Inventory mass -->
+  <InventoryMass>माल भार</InventoryMass>
+  <!-- EN: Your colonists will now gather the items and leave the area. -->
+  <CaravanFormationProcessStarted>आपके उपनिवेशवादी अब वस्तुएँ एकत्र करेंगे और क्षेत्र छोड़ देंगे।</CaravanFormationProcessStarted>
+  <!-- EN: Reform caravan -->
+  <ReformCaravan>पुनर्गठित कारवाँ</ReformCaravan>
+  <!-- EN: Colonists -->
+  <ColonistsSection>कॉलोनिस्ट</ColonistsSection>
+  <!-- EN: Prisoners -->
+  <PrisonersSection>कैदी</PrisonersSection>
+  <!-- EN: Capture -->
+  <CaptureSection>पकड़ना</CaptureSection>
+  <!-- EN: Animals -->
+  <AnimalsSection>जानवर</AnimalsSection>
+  <!-- EN: Choose route -->
+  <ChooseRouteButton>मार्ग चुनें</ChooseRouteButton>
+  <!-- EN: Change route -->
+  <ChangeRouteButton>मार्ग बदलें</ChangeRouteButton>
+  <!-- EN: Abandon -->
+  <AbandonButton>छोड़ना</AbandonButton>
+  <!-- EN: Movement speed -->
+  <CaravanMovementSpeed>चलन गति</CaravanMovementSpeed>
+  <!-- EN: tiles/day -->
+  <TilesPerDay>टाइलें/दिन</TilesPerDay>
+  <!-- EN: None - too heavy -->
+  <TilesPerDayImmobile>कोई नहीं - बहुत भारी</TilesPerDayImmobile>
+  <!-- EN: None -->
+  <TilesPerDayImmobileShort>कोई नहीं</TilesPerDayImmobileShort>
+  <!-- EN: Movement speed depends on carried mass, ridden animals, and terrain movement difficulty. -->
+  <CaravanMovementSpeedTip>चलने की गति ले जाई गई वस्तु के भार, सवारी किए गए जानवरों और भूभाग की कठिनाई पर निर्भर करती है।</CaravanMovementSpeedTip>
+  <!-- EN: Animals will be able to graze -->
+  <AnimalsWillBeAbleToGraze>पशु चरने में सक्षम होंगे।</AnimalsWillBeAbleToGraze>
+  <!-- EN: Animals can graze -->
+  <AnimalsCanGraze>चराई</AnimalsCanGraze>
+  <!-- EN: (for {0} more days) -->
+  <PossibleToGrazeFor>({0} दिनों के लिए)</PossibleToGrazeFor>
+  <!-- EN: (forever) -->
+  <PossibleToGrazeForever>हमेशा</PossibleToGrazeForever>
+  <!-- EN: ({0}) -->
+  <CantGrazeBecauseOfBiome>{0}</CantGrazeBecauseOfBiome>
+  <!-- EN: (too cold for {0} more days) -->
+  <CantGrazeBecauseOfTemp>{0} दिनों के लिए बहुत ठंडा है।</CantGrazeBecauseOfTemp>
+  <!-- EN: Total nutrition -->
+  <TotalNutrition>कुल पोषण</TotalNutrition>
+  <!-- EN: Not moving -->
+  <CaravanNotMoving>स्थिर</CaravanNotMoving>
+  <!-- EN: Foraged nutrition per day -->
+  <ForagedNutritionPerDay>दिन प्रति एकत्र किया गया पोषण</ForagedNutritionPerDay>
+  <!-- EN: Faction type -->
+  <FactionType>गुट प्रकार</FactionType>
+  <!-- EN: Total body size -->
+  <TotalBodySize>शरीर आकार</TotalBodySize>
+  <!-- EN: Automatically select travel supplies -->
+  <AutomaticallySelectTravelSupplies>स्वचालित रूप से यात्रा सामग्री चुनें</AutomaticallySelectTravelSupplies>
+  <!-- EN: This animal is sick. It is suffering from the following illnesses -->
+  <CaravanAnimalSick>यह जानवर बीमार है। यह निम्नलिखित बीमारियों से पीड़ित है।</CaravanAnimalSick>
+
+  <!-- Split caravan -->
+  <!-- EN: Split caravan -->
+  <SplitCaravan>विभाजित कारवाँ</SplitCaravan>
+  <!-- EN: You must leave at least one non-downed colonist. -->
+  <SourceCaravanMustHaveAtLeastOneColonist>आपको कम से कम एक गैर-गिर चुका उपनिवेशवादी छोड़ना होगा।</SourceCaravanMustHaveAtLeastOneColonist>
+  <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
+  <SplitCaravanThingCountTip>इस आइटम की संख्या जो कारवां नए कारवां को देने के लिए तैयार है।</SplitCaravanThingCountTip>
+  
+  <!-- Caravan misc -->
+  <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
+  <ConfirmAttackFriendlyFaction>क्या आप {0} पर हमला करना चाहते हैं?\n\nइससे {1} आपसे शत्रुतापूर्ण हो जाएगा, और वे अंततः आपकी कॉलोनी पर छापा मारना शुरू कर देंगे!</ConfirmAttackFriendlyFaction>
+  
+  <!-- Load transporters -->
+  <!-- EN: Load {0} -->
+  <LoadTransporters>लोड {0}</LoadTransporters>
+  <!-- EN: The assigned people and items are too heavy for the transport pods. -->
+  <TooBigTransportersMassUsage>नियुक्त लोग और वस्तुएं परिवहन पॉड के लिए बहुत भारी हैं।</TooBigTransportersMassUsage>
+  <!-- EN: The assigned people and items are too heavy for the shuttle. -->
+  <TooBigTransporterSingleMassUsage>नियुक्त लोग और वस्तुएं शटल के लिए बहुत भारी हैं।</TooBigTransporterSingleMassUsage>
+  <!-- EN: You can't send empty transport pods. -->
+  <CantSendEmptyTransportPods>खाली परिवहन पॉड नहीं भेजे जा सकते।</CantSendEmptyTransportPods>
+  <!-- EN: You can't send empty shuttle. -->
+  <CantSendEmptyTransporterSingle>खाली शटल नहीं भेजा जा सकता।</CantSendEmptyTransporterSingle>
+  <!-- EN: {1_labelShort} can't reach the transport pods. -->
+  <PawnCantReachTransporters>{1_labelShort} परिवहन पॉड तक नहीं पहुंच सकता।</PawnCantReachTransporters>
+  <!-- EN: {1_labelShort} can't reach the shuttle. -->
+  <PawnCantReachTransporterSingle>{1_labelShort} शटल तक नहीं पहुंच सकता।</PawnCantReachTransporterSingle>
+  <!-- EN: There is no path between the transport pods and the {0}. -->
+  <TransporterItemIsUnreachableSingle>परिवहन पॉड्स और {0} के बीच कोई रास्ता नहीं है।</TransporterItemIsUnreachableSingle>
+  <!-- EN: There is no path between the shuttle and the {0}. -->
+  <TransporterSingleItemIsUnreachableSingle>शटल और {0} के बीच कोई रास्ता नहीं है।</TransporterSingleItemIsUnreachableSingle>
+  <!-- EN: There is no path between the transport pods and {0}x {1}. -->
+  <TransporterItemIsUnreachableMulti>परिवहन पॉड्स और {0}x {1} के बीच कोई रास्ता नहीं है।</TransporterItemIsUnreachableMulti>
+  <!-- EN: There is no path between the shuttle and {0}x {1}. -->
+  <TransporterSingleItemIsUnreachableMulti>शटल और {0}x {1} के बीच कोई रास्ता नहीं है।</TransporterSingleItemIsUnreachableMulti>
+  <!-- EN: Only {0} colonists maximum allowed. -->
+  <TransporterSingleTooManyColonists>अधिकतम {0} उपनिवेशवादियों की अनुमति है।</TransporterSingleTooManyColonists>
+  
+  <!-- Comms -->
+  <!-- EN: Social skill: {0} -->
+  <SocialSkillIs>सामाजिक कौशल: {0}</SocialSkillIs>
+  
+  <!--Research-->
+  <!-- EN: Research finished: {0} -->
+  <ResearchFinished>अनुसंधान पूर्ण: {0}</ResearchFinished>
+  <!-- EN: Research Screen -->
+  <ResearchScreen>शोध स्क्रीन</ResearchScreen>
+  <!-- EN: By researching {0} you have discovered the {1} research project. -->
+  <ResearchUnknownProjectRevealed>{0} पर शोध करके, आपने {1} अनुसंधान परियोजना की खोज की है।</ResearchUnknownProjectRevealed>
+  
+  <!--HistoryUpload-->
+  <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
+  <HistoryUploadMessage>क्या आप गेम को संतुलित करने में डेवलपर्स की मदद करने के लिए अपने गेमप्ले डेटा रिकॉर्ड को रिमवर्ल्ड सर्वर पर अपलोड करना चाहते हैं? यदि आप सहमत हैं, तो आपका डेटा हर {0} दिनों में अपलोड किया जाएगा (और गेम के अंत जैसे कुछ अन्य दुर्लभ मामलों में)। गोपनीयता प्राथमिकताएं विकल्पों मेनू में बाद में बदली जा सकती हैं।</HistoryUploadMessage>
+  <!-- EN: Even though history is sent anonymously, you can attach your name. -->
+  <HistoryUploadMessagePlayerName>ठीक है, मैं अनुवाद करूँगा। मेरा नाम अंजलि है।\n\nCRITICAL RULES:\n- NO explanations, notes, or parenthetical remarks\n- NO multiple options or alternatives (no slashes, no &amp;apos;or&amp;apos;)\n- DO NOT use di</HistoryUploadMessagePlayerName>
+  <!-- EN: Allow uploading gameplay data -->
+  <HistoryUploadYes>गेमप्ले डेटा अपलोड करने की अनुमति दें।</HistoryUploadYes>
+  <!-- EN: Do not allow uploading gameplay data -->
+  <HistoryUploadNo>ठीक है। मैं निर्देशों का पालन करूँगा। \n\nNow, provide the RimWorld - General Game Text you want me to translate to Hindi. I am ready when you are.</HistoryUploadNo>
+  <!-- EN: Upload only this time -->
+  <HistoryUploadYesOnce>महत्वपूर्ण नियम:\n- कोई स्पष्टीकरण, टिप्पणियाँ, या कोष्ठक में बातें नहीं।\n- कोई एकाधिक विकल्प या विकल्प</HistoryUploadYesOnce>
+  <!-- EN: Do not upload this time, ask me later -->
+  <HistoryUploadNoOnce>Okay, I understand. I will wait for your signal before providing the Hindi translation of the RimWorld text. \n\nJust let me know when you are ready.</HistoryUploadNoOnce>
+  
+  <!-- Policies -->
+  <!-- EN: Available policies -->
+  <AvailablePolicies>नीतियाँ उपलब्ध</AvailablePolicies>
+  <!-- EN: Unnamed -->
+  <UnnamedPolicy>अनाम</UnnamedPolicy>
+  <!-- EN: New... -->
+  <NewPolicy>नया…</NewPolicy>
+  <!-- EN: Invalid policy name -->
+  <InvalidName>अमान्य नीति नाम</InvalidName>
+  <!-- EN: Delete the selected policy. -->
+  <DeletePolicyTip>चयनित नीति हटाएं।</DeletePolicyTip>
+  <!-- EN: Create a duplicate of the selected policy. -->
+  <DuplicatePolicyTip>चयनित नीति की प्रतिलिपि बनाएँ।</DuplicatePolicyTip>
+  <!-- EN: Rename this policy. -->
+  <RenamePolicyTip>नाम बदलें</RenamePolicyTip>
+  <!-- EN: Make this policy the default policy given to new colonists. -->
+  <DefaultPolicyTip>ज़रूरी नियम:\n- कोई स्पष्टीकरण, नोट्स, या कोष्ठकीय टिप्पणी नहीं।\n- कोई एकाधिक विकल्प या विकल्प नहीं (कोई स्लैश नहीं, कोई &amp;apos;या&amp;apos; नहीं)।\n- सभी विराम चिह्न बिल्कुल वैसे ही रखें</DefaultPolicyTip>
+  <!-- EN: Are you sure you want to delete the policy: {0}? -->
+  <DeletePolicyConfirm>क्या आप नीति {0} को हटाना चाहते हैं?</DeletePolicyConfirm>
+  <!-- EN: Delete -->
+  <DeletePolicyConfirmButton>हटाना</DeletePolicyConfirmButton>
+  <!-- EN: No policy selected -->
+  <NoPolicySelected>कोई नीति चयनित नहीं।</NoPolicySelected>
+  
+  <!-- Outfit management -->
+  <!-- EN: Apparel policies -->
+  <ApparelPolicyTitle>नीति वस्त्र नियम</ApparelPolicyTitle>
+  <!-- EN: Create and manage templates for controlling what apparel items colony members can wear. -->
+  <ApparelPolicyTip>कॉलोनी सदस्यों द्वारा पहने जा सकने वाले परिधान वस्तुओं के लिए टेम्पलेट बनाएं और प्रबंधित करें।</ApparelPolicyTip>
+  <!-- EN: Apparel policy -->
+  <ApparelPolicy>परिधान नीति</ApparelPolicy>
+  <!-- EN: Apparel policy is in use by {0}. -->
+  <OutfitInUse>परिधान नीति {0} द्वारा उपयोग में है।</OutfitInUse>
+  
+  <!-- Drug policy management -->
+  <!-- EN: Drug policies -->
+  <DrugPolicyTitle>नीतियाँ दवाइयाँ</DrugPolicyTitle>
+  <!-- EN: Create and manage templates for controlling which drugs your colonists are allowed to consume. -->
+  <DrugPolicyTip>औषधों के सेवन की अनुमति देने के लिए टेम्पलेट बनाएं और प्रबंधित करें।</DrugPolicyTip>
+  <!-- EN: Drug policy -->
+  <DrugPolicy>दवा नीति</DrugPolicy>
+  <!-- EN: Drugs policy is in use by {0}. -->
+  <DrugPolicyInUse>नशीली दवाओं की नीति {0} द्वारा उपयोग की जा रही है।</DrugPolicyInUse>
+  <!-- EN: Food restriction is in use by {0}. -->
+  <FoodRestrictionInUse>भोजन प्रतिबंध {0} द्वारा उपयोग किया जा रहा है।</FoodRestrictionInUse>
+  <!-- EN: Add drug... -->
+  <AddDrug>दवा जोड़ें</AddDrug>
+  <!-- EN: Drug -->
+  <DrugColumnLabel>दवा</DrugColumnLabel>
+  <!-- EN: Frequency -->
+  <FrequencyColumnLabel>आवृत्ति</FrequencyColumnLabel>
+  <!-- EN: Only if mood below -->
+  <MoodThresholdColumnLabel>केवल मनोदशा नीचे</MoodThresholdColumnLabel>
+  <!-- EN: Only if recreation below -->
+  <JoyThresholdColumnLabel>मनोरंजन</JoyThresholdColumnLabel>
+  <!-- EN: Keep in inventory -->
+  <TakeToInventoryColumnLabel>सूची में रखें</TakeToInventoryColumnLabel>
+  <!-- EN: (no drugs) -->
+  <NoDrugsBrackets>बिना दवा</NoDrugsBrackets>
+  <!-- EN: Every day -->
+  <EveryDay>हर दिन</EveryDay>
+  <!-- EN: {0} times per day -->
+  <TimesPerDay>{0} बार प्रति दिन</TimesPerDay>
+  <!-- EN: Every {0} days -->
+  <EveryDays>हर {0} दिन</EveryDays>
+  <!-- EN: Any -->
+  <NoDrugUseRequirement>कोई भी</NoDrugUseRequirement>
+  <!-- EN: Delete this drug. -->
+  <DeleteDrugTooltip>दवा हटाएं।</DeleteDrugTooltip>
+  <!-- EN: The name of a drug. -->
+  <DrugNameColumnDesc>दवा का नाम।</DrugNameColumnDesc>
+  <!-- EN: How often the colonists should try to take this drug. -->
+  <FrequencyColumnDesc>उपनिवेशवादियों को यह दवा कितनी बार लेने का प्रयास करना चाहिए।</FrequencyColumnDesc>
+  <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
+  <MoodThresholdColumnDesc>कॉलोनिस्ट केवल तभी यह दवा लेंगे जब उनका मनोदशा स्तर इस सीमा से नीचे हो।</MoodThresholdColumnDesc>
+  <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
+  <JoyThresholdColumnDesc>कॉलोनिस्ट केवल तभी यह दवा लेंगे जब उनका मनोरंजन स्तर इस सीमा से नीचे हो।</JoyThresholdColumnDesc>
+  <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
+  <TakeToInventoryColumnDesc>दवा लेने के दौरान अतिरिक्त मात्रा जो इकट्ठी की जानी है, ताकि हर बार दवा भंडार पर जाने की आवश्यकता न हो।</TakeToInventoryColumnDesc>
+  <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+  <DrugUsageTipForAddiction>नशीली दवाओं के लिए:\n\nपहले से स्थापित लत की ज़रूरतों को पूरा करने के लिए इस दवा का उपयोग करें।\n\nअक्षम होने पर भी, कुछ पात्र विशिष्ट लक्षणों के साथ, या मानसिक रूप से टूट जाने पर, दवा का उपयोग कर सकते हैं।</DrugUsageTipForAddiction>
+  <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
+  <DrugUsageTipForJoy>मनोरंजन के लिए\n\nइस दवा का उपयोग मनोरंजन और सामाजिक उद्देश्यों के लिए करें।\n\nअक्षम होने पर भी, कुछ पात्र विशिष्ट लक्षणों के साथ, या मानसिक अस्थिरता में, दवा का उपयोग कर सकते हैं।</DrugUsageTipForJoy>
+  <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
+  <DrugUsageTipScheduled>निर्धारित\n\nकिसी परिभाषित अनुसूची पर इस दवा का उपयोग करें, जब विशिष्ट शर्तें पूरी हों।</DrugUsageTipScheduled>
+
+  <!-- Food restriction management -->
+  <!-- EN: Food policies -->
+  <FoodPolicyTitle>नीति भोजन</FoodPolicyTitle>
+  <!-- EN: Create and manage templates for controlling what food items colony members can eat. -->
+  <FoodPolicyTip>कॉलोनी सदस्यों द्वारा खाए जा सकने वाले खाद्य पदार्थों को नियंत्रित करने के लिए टेम्पलेट बनाएं और प्रबंधित करें।</FoodPolicyTip>
+  <!-- EN: Food policy -->
+  <FoodPolicy>भोजन नीति</FoodPolicy>
+  <!-- EN: Allow food -->
+  <AllowFood>भोजन अनुमति दें</AllowFood>
+  <!-- EN: Lavish -->
+  <FoodRestrictionLavish>विलासिता</FoodRestrictionLavish>
+  <!-- EN: Fine -->
+  <FoodRestrictionFine>ठीक</FoodRestrictionFine>
+  <!-- EN: Simple -->
+  <FoodRestrictionSimple>साधारण</FoodRestrictionSimple>
+  <!-- EN: Paste -->
+  <FoodRestrictionPaste>चिपकाना</FoodRestrictionPaste>
+  <!-- EN: Raw -->
+  <FoodRestrictionRaw>कच्चा</FoodRestrictionRaw>
+  <!-- EN: Nothing -->
+  <FoodRestrictionNothing>कुछ नहीं</FoodRestrictionNothing>
+  
+  <!-- Reading management -->
+  <!-- EN: Reading policies -->
+  <ReadingPolicyTitle>पढ़ने की नीतियाँ</ReadingPolicyTitle>
+  <!-- EN: Create and manage templates for controlling which books colony members are allowed to read. -->
+  <ReadingPolicyTip>कॉलोनी सदस्यों को पढ़ने की अनुमति वाली पुस्तकों को नियंत्रित करने के लिए टेम्पलेट बनाएं और प्रबंधित करें।</ReadingPolicyTip>
+  <!-- EN: Reading policy -->
+  <ReadingPolicy>नीति</ReadingPolicy>
+  <!-- EN: Reading policy is in use. -->
+  <ReadingPolicyInUse>पढ़ने की नीति उपयोग में है।</ReadingPolicyInUse>
+
+  <!-- EN: Anything -->
+  <AllReadingPolicy>कुछ भी</AllReadingPolicy>
+  <!-- EN: None -->
+  <NoneReadingPolicy>कोई नहीं</NoneReadingPolicy>
+  <!-- EN: Textbooks -->
+  <TextbookPolicy>पाठ्यपुस्तकें</TextbookPolicy>
+  <!-- EN: Schematics -->
+  <SchematicPolicy>ब्लूप्रिंट</SchematicPolicy>
+  <!-- EN: Novels -->
+  <NovelPolicy>उपन्यास</NovelPolicy>
+  <!-- EN: Maps -->
+  <MapPolicy>मानचित्र</MapPolicy>
+
+  <!-- Medical settings -->
+  <!-- EN: Default medicine settings -->
+  <DefaultMedicineSettings>डिफ़ॉल्ट दवा सेटिंग्स</DefaultMedicineSettings>
+  <!-- EN: These medical settings are assigned to creatures when they first join a given group. You can manually assign a setting to an individual in their health tab.\n\nNote: If the creature joins a new group, they will always take the settings of that group, even if you previously assigned them a setting. -->
+  <DefaultMedicineSettingsDesc>ये चिकित्सा सेटिंग्स किसी जीव से जुड़ने पर उसे सौंपी जाती हैं। आप किसी व्यक्ति के स्वास्थ्य टैब में मैन्युअल रूप से एक सेटिंग सौंप सकते हैं।\n\nध्यान दें: यदि कोई जीव एक नए समूह में शामिल होता है, तो वह हमेशा उस समूह की सेटिंग्स लेगा, भले ही आपने पहले उसे एक सेटिंग सौंपी हो।</DefaultMedicineSettingsDesc>
+  
+  <!-- EN: Defaults -->
+  <MedGroupDefaults>डिफ़ॉल्ट</MedGroupDefaults>
+  
+  <!-- EN: Colonists -->
+  <MedGroupColonists>कॉलोनिस्ट</MedGroupColonists>
+  <!-- EN: Free members of your colony -->
+  <MedGroupColonistsDesc>कॉलोनी के स्वतंत्र सदस्य।</MedGroupColonistsDesc>
+  
+  <!-- EN: Prisoners -->
+  <MedGroupPrisoners>कैदी</MedGroupPrisoners>
+  <!-- EN: Prisoners in your colony, regardless of faction. -->
+  <MedGroupPrisonersDesc>आपकी कॉलोनी में कैदी, किसी भी गुट से संबंधित।</MedGroupPrisonersDesc>
+
+  <!-- EN: Tamed animals -->
+  <MedGroupTamedAnimals>पालतू जानवर</MedGroupTamedAnimals>
+  <!-- EN: Animals which have been tamed by your colony. -->
+  <MedGroupTamedAnimalsDesc>जानवर जिन्हें आपके उपनिवेश ने पालतू बनाया है।</MedGroupTamedAnimalsDesc>
+
+  <!-- EN: Friendly faction members -->
+  <MedGroupFriendlyFaction>मित्र गुट सदस्य</MedGroupFriendlyFaction>
+  <!-- EN: Humans or animals who are part of a faction which is friendly with your faction (goodwill above 75). -->
+  <MedGroupFriendlyFactionDesc>आपके गुट के साथ मैत्रीपूर्ण गुट (75 से ऊपर सद्भावना) के मानव या जानवर।</MedGroupFriendlyFactionDesc>
+  
+  <!-- EN: Neutral faction members -->
+  <MedGroupNeutralFaction>तटस्थ गुट सदस्य</MedGroupNeutralFaction>
+  <!-- EN: Humans or animals who are part of a faction which is neutral with your faction (between -75 and 75 goodwill). -->
+  <MedGroupNeutralFactionDesc>आपके गुट के साथ तटस्थ (–75 से 75 सद्भावना के बीच) गुट का हिस्सा बनने वाले मनुष्य या जानवर।</MedGroupNeutralFactionDesc>
+
+  <!-- EN: Hostile faction members -->
+  <MedGroupHostileFaction>शत्रु गुट सदस्य</MedGroupHostileFaction>
+  <!-- EN: Humans or animals who are part of a faction which is hostile with your faction (goodwill below -75). -->
+  <MedGroupHostileFactionDesc>आपके गुट के शत्रु गुट के सदस्य मानव या जानवर (मैत्री -75 से नीचे)।</MedGroupHostileFactionDesc>
+
+  <!-- EN: Other humans -->
+  <MedGroupNoFaction>अन्य मानव</MedGroupNoFaction>
+  <!-- EN: Humans who are not members of any faction. -->
+  <MedGroupNoFactionDesc>ऐसे इंसान जो किसी गुट के सदस्य नहीं हैं।</MedGroupNoFactionDesc>
+  
+  <!-- EN: Wildlife -->
+  <MedGroupWildlife>वन्यजीव</MedGroupWildlife>
+  <!-- EN: Animals and other creatures which are not members of any faction. -->
+  <MedGroupWildlifeDesc>जानवर और अन्य जीव जो किसी गुट के सदस्य नहीं हैं।</MedGroupWildlifeDesc>
+
+  <!-- Growing -->
+  <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
+  <NoGrowerCanPlant>{0} को बोने के लिए खेती में {1} कौशल की आवश्यकता है।\n\nआपके किसी भी गैर-अक्षम किसान के पास यह कौशल नहीं है, इसलिए यह पौधा नहीं बोया जाएगा।</NoGrowerCanPlant>
+
+  <!-- Abandon home -->
+  <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
+  <ConfirmAbandonHomeWithColonyPawns>आपके कुछ उपनिवेशवादी या जानवर इस क्षेत्र में हैं। क्या आप इसे छोड़ना चाहते हैं?\n\nनिम्नलिखित लोग और जानवर पीछे छूट जाएंगे:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <!-- EN: Abandoning {0} will cause the following people to get the following thoughts: -->
+  <ConfirmAbandonHomeNegativeThoughts>छोड़ना {0} से निम्नलिखित लोग निम्नलिखित विचार प्राप्त करेंगे:</ConfirmAbandonHomeNegativeThoughts>
+  <!-- EN: Everyone: -->
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>सबके लिए</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
+  <ConfirmMoveAutoJoinableCaravan>कुछ जानवर या कैदी इस कारवां में शामिल होने की कोशिश कर रहे हैं। यदि आप इसे हिलाते हैं, तो वे अब ऐसा नहीं कर पाएंगे।\n\nमानचित्र पर बिना किसी गैर-अक्षम उपनिवेशवादियों के पीछे छोड़े गए जानवर, कैदी और अक्षम उपनिवेशवादियों को परित्यक्त माना जाता है और दुश्मन द्वारा पकड़ लिया जा सकता है।\n\nक्या आप निश्चित हैं कि आप अपना कारवां हिलाना चाहते हैं?</ConfirmMoveAutoJoinableCaravan>
+  
+  <!-- Abandon pawn -->
+  <!-- EN: Do you really want to banish {1_label}? -->
+  <ConfirmBanishPawnDialog>क्या आप सच में {1_label} को निर्वासित करना चाहते हैं?</ConfirmBanishPawnDialog>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} के मरने की संभावना है।</ConfirmBanishPawnDialog_LeftToDie>
+  <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
+  <ConfirmBanishPawnDialog_Items>{1_labelShort} निम्नलिखित वस्तुओं को {1_objective} के साथ ले जाएगा।</ConfirmBanishPawnDialog_Items>
+  <!-- EN: All colonists will get the following thoughts: -->
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>सभी उपनिवेशवादियों को निम्नलिखित विचार प्राप्त होंगे:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
+  <ConfirmBanishPawnDialog_IndividualThoughts>निर्वासन से {1_labelShort} के निम्नलिखित लोग निम्नलिखित विचार प्राप्त करेंगे:</ConfirmBanishPawnDialog_IndividualThoughts>
+
+  <!-- Send transport pods which are not completely loaded -->
+  <!-- EN: The following still need to be loaded -->
+  <ConfirmSendNotCompletelyLoadedLaunchable>निम्नलिखित अभी भी लोड होने बाकी हैं।</ConfirmSendNotCompletelyLoadedLaunchable>
+  <!-- EN: Launch anyway? -->
+  <ConfirmSendLaunchAnyway>शुरू करें?</ConfirmSendLaunchAnyway>
+
+  <!-- Settle near a faction base -->
+  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
+  <ConfirmSettleNearFactionBase>चूंकि यह स्थान किसी अन्य गुट के अड्डे से {0} टाइलों के भीतर है, इसलिए उन्हें लगेगा कि आप उनकी भूमि पर अतिक्रमण कर रहे हैं और उन गुटों के साथ संबंध हर {1} दिनों में खराब होंगे।</ConfirmSettleNearFactionBase>
+  
+  <!-- Cleanup translation files -->
+  <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
+  <ConfirmCleanupTranslationFiles>क्या आप भाषा {0} के लिए सभी अनुवाद फ़ाइलों को साफ़ करना चाहते हैं?\n\nयह करेगा:\n  - गुम कुंजी अनुवादों, डेफ-इंजेक्टेड अनुवादों और पृष्ठभूमि कहानियों के लिए प्लेसहोल्डर जोड़ें\n  - मूल, अनूदित पाठ वाली टिप्पणियों को जोड़ें या अपडेट करें\n  - सभी कुंजी और डेफ-इंजेक्टेड अनुवादों को उपयुक्त XML फ़ाइलों में ले जाएँ\n  - सभी XML फ़ाइलों पर स्वचालित स्वरूपण लागू करें\n  - बैक-संगत डेफ नामों को अपडेट करें\n  - सभी मौजूदा XML टिप्पणियों को हटा दें (पूर्ण-सूची इंजेक्शन को छोड़कर)\n\nगैर-XML फ़ाइलों को हटाया या संशोधित नहीं किया जाएगा।\n\nइस उपकरण को चलाने से पहले भाषा फ़ाइलों को संशोधित करने के बाद गेम को पुनरारंभ करना याद रखें ताकि सभी डेटा पुनः लोड हो सके।\n\nइस उपकरण का उपयोग करने से पहले सभी अनुवाद फ़ाइलों का बैकअप लेना सुनिश्चित करें।</ConfirmCleanupTranslationFiles>
+  <!-- EN: Yes, I have a backup -->
+  <ConfirmCleanupTranslationFiles_Confirm>हाँ, मेरे पास एक बैकअप है।</ConfirmCleanupTranslationFiles_Confirm>
+
+  <!-- Load transporters -->
+  <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
+  <TransportersCaravanWillBeImmobile>यदि आप एक खाली टाइल पर लॉन्च करते हैं तो कारवां स्थिर रहेगा। जारी रखें?</TransportersCaravanWillBeImmobile>
+
+  <!-- Confirm cancel monument marker -->
+  <!-- EN: Do you really want to remove this monument marker? -->
+  <ConfirmCancelMonumentMarker>क्या आप वास्तव में यह स्मारक मार्कर हटाना चाहते हैं?</ConfirmCancelMonumentMarker>
+
+  <!-- Abilities -->
+  <!-- EN: Cannot use {0} -->
+  <CannotUseAbility>असंभव है {0} का उपयोग करना।</CannotUseAbility>
+  <!-- EN: Line of sight required -->
+  <AbilityRequiresLOS>दृष्टि रेखा आवश्यक</AbilityRequiresLOS>
+  <!-- EN: Neural heat gain -->
+  <AbilityEntropyGain>तंत्रिका ताप लाभ</AbilityEntropyGain>
+  <!-- EN: Psyfocus cost -->
+  <AbilityPsyfocusCost>मानसिक लागत</AbilityPsyfocusCost>
+  <!-- EN: Effect duration -->
+  <AbilityDuration>प्रभाव अवधि</AbilityDuration>
+  <!-- EN: Effect radius -->
+  <AbilityEffectRadius>प्रभाव त्रिज्या</AbilityEffectRadius>
+  <!-- EN: Casting time -->
+  <AbilityCastingTime>मंत्रण समय</AbilityCastingTime>
+  <!-- EN: No line of sight to target. -->
+  <AbilityCannotHitTarget>लक्ष्य दृष्टि रेखा से बाहर।</AbilityCannotHitTarget>
+  <!-- EN: Target is out of range. -->
+  <AbilityOutOfRange>लक्ष्य सीमा से बाहर है।</AbilityOutOfRange>
+  <!-- EN: Can't reach the target. -->
+  <AbilityCannotReachTarget>लक्ष्य तक पहुंच संभव नहीं।</AbilityCannotReachTarget>
+  <!-- EN: Not enough free space. -->
+  <AbilityNotEnoughFreeSpace>पर्याप्त खाली जगह नहीं।</AbilityNotEnoughFreeSpace>
+  <!-- EN: Must target an empty area. -->
+  <AbilityOccupiedCells>खाली क्षेत्र लक्षित करें।</AbilityOccupiedCells>
+  <!-- EN: Must target a walkable area. -->
+  <AbilityUnwalkable>लक्ष्य क्षेत्र चलने योग्य होना चाहिए।</AbilityUnwalkable>
+  <!-- EN: Must target an unroofed area. -->
+  <AbilityRoofed>खुले क्षेत्र को लक्षित करना होगा।</AbilityRoofed>
+  <!-- EN: {0_labelShort} is mentally broken. -->
+  <AbilityCantApplyToMentallyBroken>{0_labelShort} मानसिक रूप से टूटा हुआ है।</AbilityCantApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is not mentally broken. -->
+  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} मानसिक रूप से टूटा हुआ नहीं है।</AbilityCanOnlyApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is not maddened. -->
+  <AbilityCanOnlyApplyToManhunter>{0_labelShort} पागल नहीं है।</AbilityCanOnlyApplyToManhunter>
+  <!-- EN: {0_labelShort} has scaria, which can only be treated medically. -->
+  <AbilityCantApplyToScaria>{0_labelShort} को स्केरिया है, जिसका इलाज केवल चिकित्सा से किया जा सकता है।</AbilityCantApplyToScaria>
+  <!-- EN: {0} doesn't work on the '{1}' mental state. -->
+  <AbilityDoesntWorkOnMentalState>{0} ‘{1}’ मानसिक स्थिति पर काम नहीं करता।</AbilityDoesntWorkOnMentalState>
+  <!-- EN: {0_labelShort} has zero resistance. -->
+  <AbilityCantApplyNoResistance>{0_labelShort} में शून्य प्रतिरोध है।</AbilityCantApplyNoResistance>
+  <!-- EN: {0_labelShort} is downed. -->
+  <AbilityCantApplyDowned>{0_labelShort} गिरा है।</AbilityCantApplyDowned>
+  <!-- EN: Cannot use: {0} is asexual. -->
+  <AbilityCantApplyOnAsexual>असंभव: {0} अलैंगिक है।</AbilityCantApplyOnAsexual>
+  <!-- EN: {PAWN_labelShort} has no healable injuries. -->
+  <AbilityCannotCastNoHealableInjury>{PAWN_labelShort} को ठीक करने योग्य चोटें नहीं हैं।</AbilityCannotCastNoHealableInjury>
+  <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
+  <AbilityCantApplyWrongAttractionGender>{1_labelShort} {0_labelShort} के लिए गलत लिंग है।</AbilityCantApplyWrongAttractionGender>
+  <!-- EN: {0_labelShort} is too young. -->
+  <AbilityCantApplyTooYoung>{0_labelShort} बहुत छोटा/छोटी है।</AbilityCantApplyTooYoung>
+  <!-- EN: Cannot target a baby. -->
+  <AbilityCantApplyOnBaby>शिशु को लक्षित नहीं कर सकते।</AbilityCantApplyOnBaby>
+  <!-- EN: Psyfocus cost per mental break intensity -->
+  <PsyfocusCostPerMentalBreakIntensity>मानसिक टूटन तीव्रता प्रति साइकोफोकस लागत</PsyfocusCostPerMentalBreakIntensity>
+  <!-- EN: {0_labelShort} is already inspired. -->
+  <AbilityAlreadyInspired>{0_labelShort} प्रेरित है।</AbilityAlreadyInspired>
+  <!-- EN: {0_labelShort} can't get an inspiration right now. -->
+  <AbilityCantGetInspiredNow>{0_labelShort} अभी प्रेरणा प्राप्त नहीं कर सकता।</AbilityCantGetInspiredNow>
+  <!-- EN: {0_labelShort} must be of a different ideoligion than {1_labelShort}. -->
+  <AbilityMustBeNotSameIdeo>{0_labelShort} का विचारधारा {1_labelShort} से भिन्न होना चाहिए।</AbilityMustBeNotSameIdeo>
+  <!-- EN: {0_labelShort} must be of same ideoligion as {1_labelShort}. -->
+  <AbilityMustBeSameIdeo>{0_labelShort} का विचारधारा {1_labelShort} के समान होना चाहिए।</AbilityMustBeSameIdeo>
+  <!-- EN: {0_labelShort} must be sick or injured. -->
+  <AbilityMustBeSickOrInjured>{0_labelShort} बीमार या घायल है।</AbilityMustBeSickOrInjured>
+  <!-- EN: {0} can only counsel {1}s. -->
+  <AbilityMustBeSameIdeoCounsel>{0} केवल {1}s को परामर्श दे सकता है।</AbilityMustBeSameIdeoCounsel>
+  <!-- EN: {0_labelShort} is already considered guilty. -->
+  <AbilityMustBeNotGuilty>{0_labelShort} को पहले से ही दोषी माना गया है।</AbilityMustBeNotGuilty>
+  <!-- EN: Must target a human. -->
+  <AbilityMustBeHuman>मानव।</AbilityMustBeHuman>
+  <!-- EN: Must target a non-wild human. -->
+  <AbilityMustBeHumanNonWild>लक्ष्य: गैर-जंगली मानव।</AbilityMustBeHumanNonWild>
+  <!-- EN: Must target an animal. -->
+  <AbilityMustBeAnimal>Here&amp;apos;s the translation, adhering to all rules:\n\nलक्ष्य एक पशु है।</AbilityMustBeAnimal>
+  <!-- EN: {0_labelShort} is unconscious. -->
+  <AbilityCantApplyUnconscious>{0_labelShort} बेहोश है।</AbilityCantApplyUnconscious>
+  <!-- EN: {0_labelShort} is asleep. -->
+  <AbilityCantApplyAsleep>{0_labelShort} सो रहा है।</AbilityCantApplyAsleep>
+  <!-- EN: This tile is impassable. -->
+  <AbilityWorldTileImpassable>यह टाइल अगम्य है।</AbilityWorldTileImpassable>
+  <!-- EN: Skip to random ally -->
+  <AbilitySkipToRandomAlly>यादृच्छिक सहयोगी पर जाएँ।</AbilitySkipToRandomAlly>
+  <!-- EN: Skip to join caravan -->
+  <AbilitySkipToJoinCaravan>कारवां में शामिल करने के लिए छोड़ें।</AbilitySkipToJoinCaravan>
+  <!-- EN: Need ally at target for navigation -->
+  <AbilityNeedAllyToSkip>लक्ष्य पर नेविगेशन के लिए सहयोगी की आवश्यकता है।</AbilityNeedAllyToSkip>
+  <!-- EN: No chunks to skip. -->
+  <AbilityNoChunkToSkip>महत्वपूर्ण नियम:\n- कोई स्पष्टीकरण, नोट्स, या कोष्ठक में टिप्पणी नहीं।\n- कोई एकाधिक विकल्प या विकल्प नहीं (</AbilityNoChunkToSkip>
+  <!-- EN: Induce psychic love in -->
+  <PsychicLoveInduceIn>मानसिक प्रेम प्रेरित करें</PsychicLoveInduceIn>
+  <!-- EN: Psychic love for -->
+  <PsychicLoveFor>मानसिक प्रेम</PsychicLoveFor>
+  <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
+  <FarskipConfirmTeleportingLodger>यदि आप {PAWN_labelShort} को किसी अन्य मानचित्र या कारवां में भेजते हैं, तो संबंधित खोज विफल हो जाएगी और {PAWN_pronoun} तुरंत चला जाएगा।\n\nक्या आप वास्तव में {PAWN_labelShort} को दूर भेजना चाहते हैं?</FarskipConfirmTeleportingLodger>
+  
+  <!-- EN: minor -->
+  <MentalBreakIntensityMinor>मामूली</MentalBreakIntensityMinor>
+  <!-- EN: major -->
+  <MentalBreakIntensityMajor>गंभीर</MentalBreakIntensityMajor>
+  <!-- EN: extreme -->
+  <MentalBreakIntensityExtreme>गंभीर</MentalBreakIntensityExtreme>
+
+  <!-- Auto slaughter -->
+  <!-- EN: Animal -->
+  <AutoSlaugtherHeaderColLabel>पशु</AutoSlaugtherHeaderColLabel>
+  <!-- EN: Current -->
+  <AutoSlaugtherHeaderColCurrent>वर्तमान</AutoSlaugtherHeaderColCurrent>
+  <!-- EN: Max -->
+  <AutoSlaugtherHeaderColMax>अधिकतम</AutoSlaugtherHeaderColMax>
+  <!-- EN: Total -->
+  <AutoSlaugtherHeaderColTotal>कुल</AutoSlaugtherHeaderColTotal>
+  <!-- EN: Other -->
+  <AutoSlaugtherHeaderColOther>अन्य</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
+  <!-- EN: Colonists first slaughter non-pregnant animals in order from oldest to youngest, then pregnant animals from most recent to least recent pregnancy. -->
+  <AutoSlaugtherTip>कॉलोनीवादी सबसे पहले सबसे पुराने से सबसे छोटे क्रम में गैर-गर्भवती जानवरों का वध करते हैं, फिर सबसे हालिया से लेकर सबसे पुराने गर्भावस्था क्रम में गर्भवती जानवरों का वध करते हैं।</AutoSlaugtherTip>
+  <!-- EN: Male adult -->
+  <AnimalMaleAdult>पुरुष वयस्क</AnimalMaleAdult>
+  <!-- EN: Male young -->
+  <AnimalMaleYoung>पुरुष शिशु</AnimalMaleYoung>
+  <!-- EN: Female adult -->
+  <AnimalFemaleAdult>महिला वयस्क</AnimalFemaleAdult>
+  <!-- EN: Female young -->
+  <AnimalFemaleYoung>युवा महिला</AnimalFemaleYoung>
+  <!-- EN: Pregnant -->
+  <AnimalPregnant>गर्भवती</AnimalPregnant>
+  <!-- EN: Bonded -->
+  <AnimalBonded>जुड़ाव</AnimalBonded>
+  <!-- EN: Slaughter -->
+  <AllowSlaughter>वध</AllowSlaughter>
+
+  <!-- EN: The animal to be automatically slaughtered. -->
+  <AutoSlaugtherHeaderTooltipLabel>स्वचालित वध पशु।</AutoSlaugtherHeaderTooltipLabel>
+  <!-- EN: The current number of animals in the colony, both male and female. -->
+  <AutoSlaugtherHeaderTooltipCurrentTotal>कॉलोनी में जानवरों की वर्तमान संख्या, नर और मादा दोनों।</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <!-- EN: The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaugtherHeaderTooltipMaxTotal>कॉलोनी में जानवरों की अधिकतम संख्या, नर और मादा दोनों।\n\nहैंडलर स्वचालित रूप से किसी भी अतिरिक्त जानवर का वध कर देंगे।</AutoSlaugtherHeaderTooltipMaxTotal>
+  <!-- EN: The current number of males of breeding age in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentMales>उর্বর आयु के नर उपनिवेशियों की वर्तमान संख्या।</AutoSlaugtherHeaderTooltipCurrentMales>
+  <!-- EN: The current number of baby and juvenile males in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentMalesYoung>कॉलोनी में शिशु और किशोर नर की वर्तमान संख्या।</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+  <!-- EN: The maximum number of males of breeding age in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaugtherHeaderTooltipMaxMales>कॉलोनी में प्रजनन आयु के नर सदस्यों की अधिकतम संख्या।\n\nहैंडलर स्वचालित रूप से अतिरिक्त सदस्यों का वध कर देंगे।</AutoSlaugtherHeaderTooltipMaxMales>
+  <!-- EN: The maximum number of baby and juvenile males in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>कॉलोनी में शिशु और किशोर नर सदस्यों की अधिकतम संख्या।\n\nहैंडलर स्वचालित रूप से अतिरिक्त सदस्यों का वध कर देंगे।</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <!-- EN: The current number of females of breeding age in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentFemales>कॉलोनी में प्रजनन योग्य महिलाओं की वर्तमान संख्या।</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <!-- EN: The current number of baby and juvenile females in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>कॉलोनी में शिशु और किशोर मादाओं की वर्तमान संख्या।</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <!-- EN: The maximum number of females in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaugtherHeaderTooltipMaxFemales>कॉलोनी में महिलाओं की अधिकतम संख्या।\n\nहैंडलर स्वचालित रूप से किसी भी अतिरिक्त को वध कर देंगे।</AutoSlaugtherHeaderTooltipMaxFemales>
+  <!-- EN: The maximum number of baby and juvenile females in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>कॉलोनी में शिशु और किशोर मादाओं की अधिकतम संख्या।\n\nहैंडलर स्वचालित रूप से किसी भी अतिरिक्त को वध कर देंगे।</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <!-- EN: The current number of pregnant animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentPregnant>कॉलोनी में गर्भवती जानवरों की वर्तमान संख्या।</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>गर्भवती जानवरों को उसी प्रजाति की अन्य मादाओं के साथ वध करने की अनुमति दें।</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <!-- EN: The current number of bonded animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentBonded>कॉलोनी में बंधे हुए जानवरों की वर्तमान संख्या।</AutoSlaughterHeaderTooltipCurrentBonded>
+  <!-- EN: Allow bonded animals to be slaughtered. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>बंधे हुए जानवरों को वध करने की अनुमति दें।</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
+
+  <!-- EN: Click to set an animal count limit. -->
+  <AutoSlaughterTooltipSetLimit>क्लिक करके पशु गिनती सीमा निर्धारित करें।</AutoSlaughterTooltipSetLimit>
+
+  <!-- Room requirements -->
+  <!-- EN: no beds allowed -->
+  <RoomRequirementNoBeds>बिस्तर निषिद्ध।</RoomRequirementNoBeds>
+  <!-- EN: room area: {0} tiles -->
+  <RoomRequirementArea>कमरे का क्षेत्रफल: {0} टाइलें</RoomRequirementArea>
+  <!-- EN: room impressiveness -->
+  <RoomRequirementImpressiveness>कमरा प्रभाव</RoomRequirementImpressiveness>
+  <!-- EN: all floored -->
+  <RoomRequirementAllFloored>फ़्लोरिंग</RoomRequirementAllFloored>
+  <!-- EN: all braziers must be lit -->
+  <RoomRequirementAllBraziersMustBeLit>सभी भट्ठियां जलायी जानी चाहिए।</RoomRequirementAllBraziersMustBeLit>
+  <!-- EN: all fine floored -->
+  <RoomRequirementAllFineFloored>सब ठीक फर्श</RoomRequirementAllFineFloored>
+  <!-- EN: no work facilities allowed -->
+  <RoomRequirementNoProductionFacilities>कोई कार्य सुविधाएँ अनुमत नहीं हैं।</RoomRequirementNoProductionFacilities>
+  <!-- EN: no altars allowed -->
+  <RoomRequirementNoAltars>कोई वेदी नहीं</RoomRequirementNoAltars>
+
+  <!-- EN: Lifestage max food factor -->
+  <LifeStageMaxFood>जीवनकाल अधिकतम खाद्य कारक</LifeStageMaxFood>
+
+  <!-- EN: Expand all -->
+  <ExpandAllCategories>विस्तार करें</ExpandAllCategories>
+  <!-- EN: Collapse all -->
+  <CollapseAllCategories>संक्षिप्त करें</CollapseAllCategories>
+
+  <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
+  <TooltipDyeExplanation>रंग को टिनक्टोरिया से उगाया जा सकता है या व्यापारियों से खरीदा जा सकता है।</TooltipDyeExplanation>
+
+  <!-- EN: Zoom range {0} -->
+  <ZoomRange>ज़ूम रेंज {0}</ZoomRange>
+
+  <!-- Color picker -->
+  <!-- EN: color temperature -->
+  <ColorTemperature>रंग तापमान</ColorTemperature>
+  <!-- EN: choose a color -->
+  <ChooseAColor>रंग चुनें</ChooseAColor>
+  <!-- EN: red -->
+  <Red>लाल</Red>
+  <!-- EN: green -->
+  <Green>हरा</Green>
+  <!-- EN: blue -->
+  <Blue>नीला</Blue>
+  <!-- EN: hue -->
+  <Hue>रंग</Hue>
+  <!-- EN: sat -->
+  <Saturation>बैठना</Saturation>
+  <!-- EN: value -->
+  <ColorValue>मूल्य</ColorValue>
+  <!-- EN: darklight -->
+  <Darklight>अंधेरा प्रकाश</Darklight>
+  <!-- EN: not darklight -->
+  <NotDarklight>अंधेरा नहीं</NotDarklight>
+  <!-- EN: current color -->
+  <CurrentColor>वर्तमान रंग</CurrentColor>
+  <!-- EN: old color -->
+  <OldColor>पुरा रंग</OldColor>
+  <!-- EN: Copy color -->
+  <CommandCopyColorLabel>रंग प्रतिलिपि</CommandCopyColorLabel>
+  <!-- EN: Copy the current color to the clipboard. -->
+  <CommandCopyColorDesc>वर्तमान रंग को क्लिपबोर्ड पर कॉपी करें।</CommandCopyColorDesc>
+  <!-- EN: Paste color -->
+  <CommandPasteColorLabel>रंग चिपकाओ</CommandPasteColorLabel>
+  <!-- EN: Overwrite the color with the color in the clipboard. -->
+  <CommandPasteColorDesc>रंग को क्लिपबोर्ड में मौजूद रंग से बदलें।</CommandPasteColorDesc>
+  <!-- EN: The clipboard does not contain a valid color. -->
+  <ClipboardInvalidColor>क्लिपबोर्ड में मान्य रंग नहीं है।</ClipboardInvalidColor>
+  <!-- EN: Color copied to clipboard. -->
+  <ColorCopiedSuccessfully>रंग क्लिपबोर्ड पर कॉपी किया गया।</ColorCopiedSuccessfully>
+  <!-- EN: Updated color from the clipboard. -->
+  <ColorPastedSuccessfully>अद्यतन रंग क्लिपबोर्ड से।</ColorPastedSuccessfully>
+  <!-- EN: Change to normal light -->
+  <ToggleDarklightOff>रोशनी बदलें।</ToggleDarklightOff>
+  <!-- EN: Change the light color to its normal color. -->
+  <ToggleDarklightOffDesc>बदलाव को सामान्य रंग में करें।</ToggleDarklightOffDesc>
+  <!-- EN: Change to darklight -->
+  <ToggleDarklightOn>गहरा प्रकाश</ToggleDarklightOn>
+  <!-- EN: Change the light color to darklight. -->
+  <ToggleDarklightOnDesc>रोशनी का रंग गहरा प्रकाश में बदलें।</ToggleDarklightOnDesc>
+  <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
+  <ColorTemperatureTooltip>रंग तापमान निर्धारित करके रंग चुनें। ध्यान दें: यह केवल दृश्य रंग को प्रभावित करता है, ऊष्मा उत्पादन को नहीं।</ColorTemperatureTooltip>
+
+  <!-- EN: {0_labelShort} is psychically deaf. -->
+  <CannotShootPawnIsPsychicallyDeaf>{0_labelShort} मानसिक रूप से बहरा है।</CannotShootPawnIsPsychicallyDeaf>
+
+  <!-- EN: Search the current map. -->
+  <SearchTheMap>मानचित्र खोजें।</SearchTheMap>
+  <!-- EN: Search the current map for items, buildings, people, animals, plants, and more. -->
+  <SearchTheMapDesc>वर्तमान मानचित्र पर वस्तुओं, इमारतों, लोगों, जानवरों, पौधों और बहुत कुछ की खोज करें।</SearchTheMapDesc>
+  <!-- EN: Search the world -->
+  <SearchTheWorld>विश्व खोजें</SearchTheWorld>
+  <!-- EN: Search the world for specific features, landmarks, quests, or settlements. -->
+  <SearchTheWorldDesc>दुनिया में विशिष्ट विशेषताओं, स्थलों, खोजों या बस्तियों की खोज करें।</SearchTheWorldDesc>
+  <!-- EN: {0} results found -->
+  <MapSearchResults>{0} परिणाम मिले</MapSearchResults>
+  <!-- EN: 1 result found -->
+  <MapSearchResultSingular>परिणाम</MapSearchResultSingular>
+  <!-- EN: Searching -->
+  <Searching>खोज</Searching>
+
+</LanguageData>

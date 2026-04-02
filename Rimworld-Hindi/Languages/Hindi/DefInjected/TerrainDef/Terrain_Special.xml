@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient concrete -->
+  <AncientConcrete.label>प्राचीन कंक्रीट</AncientConcrete.label>
+  <!-- EN: Ancient concrete flooring. -->
+  <AncientConcrete.description>प्राचीन कंक्रीट का फर्श।</AncientConcrete.description>
+  
+  <!-- EN: ancient tile -->
+  <AncientTile.label>प्राचीन टाइल</AncientTile.label>
+  <!-- EN: Ancient metal tiles. -->
+  <AncientTile.description>प्राचीन धातु की टाइलें।</AncientTile.description>
+  
+  <!-- EN: ancient wood floor -->
+  <AncientWoodPlankFloor.label>प्राचीन लकड़ी फर्श</AncientWoodPlankFloor.label>
+  
+  <!-- EN: underwall -->
+  <Underwall.label>दीवार तल</Underwall.label>
+  
+</LanguageData>

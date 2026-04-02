@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacked caravan -->
+  <AttackedCaravan.label>हमलावर कारवाँ</AttackedCaravan.label>
+  
+  <!-- EN: attacked settlement -->
+  <AttackedSettlement.label>हमला हुआ बस्ती</AttackedSettlement.label>
+  
+  <!-- EN: destroyed enemy base -->
+  <DestroyedEnemyBase.label>विनाशित शत्रु अड्डा</DestroyedEnemyBase.label>
+  
+  <!-- EN: settlement proximity -->
+  <SettlementProximity.label>बस्ती निकटता</SettlementProximity.label>
+  
+</LanguageData>

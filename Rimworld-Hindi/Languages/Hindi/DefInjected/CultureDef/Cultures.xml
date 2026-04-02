@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: astropolitan -->
+  <Astropolitan.label>अस्तropolिटन</Astropolitan.label>
+  <!-- EN: A broad collection of cultures common among frequent space travelers. -->
+  <Astropolitan.description>अंतरिक्ष यात्रियों के बीच आम संस्कृतियों का एक विस्तृत संग्रह।</Astropolitan.description>
+  
+  <!-- EN: corunan -->
+  <Corunan.label>कोरुनन</Corunan.label>
+  <!-- EN: An ancient culture common among rimworld tribes. -->
+  <Corunan.description>एक प्राचीन संस्कृति जो रिमवर्ल्ड जनजातियों में आम है।</Corunan.description>
+  
+  <!-- EN: kriminul -->
+  <Kriminul.label>क्रिमिनुल</Kriminul.label>
+  <!-- EN: A broad category describing the styles and practices of many pirate groups. -->
+  <Kriminul.description>समुद्री डाकुओं के कई समूहों की शैलियों और प्रथाओं का एक व्यापक वर्गीकरण।</Kriminul.description>
+  
+  <!-- EN: rustican -->
+  <Rustican.label>रूस्टिकन</Rustican.label>
+  <!-- EN: A hardy industrial culture common among rimworld outlanders. -->
+  <Rustican.description>एक मजबूत औद्योगिक संस्कृति जो रिमवर्ल्ड के बाहरी लोगों में आम है।</Rustican.description>
+  
+</LanguageData>

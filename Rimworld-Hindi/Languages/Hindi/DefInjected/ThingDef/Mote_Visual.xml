@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mote -->
+  <CracksShieldBreak.label>कण</CracksShieldBreak.label>
+  
+  <!-- EN: Mote -->
+  <FlashShieldBreak.label>कण</FlashShieldBreak.label>
+  
+  <!-- EN: Mote -->
+  <GroundCrackHuge.label>कण</GroundCrackHuge.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ActivatorCountdownGlow.label>कण</Mote_ActivatorCountdownGlow.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ActivatorProximityGlow.label>कण</Mote_ActivatorProximityGlow.label>
+  
+  <!-- EN: Mote -->
+  <Mote_AnimalWarcallDistortion.label>कण</Mote_AnimalWarcallDistortion.label>
+  
+  <!-- EN: Mote -->
+  <Mote_AnimalWarcallFlash.label>कण</Mote_AnimalWarcallFlash.label>
+  
+  <!-- EN: Mote -->
+  <Mote_Bombardment.label>कण</Mote_Bombardment.label>
+  
+  <!-- EN: Mote -->
+  <Mote_CocoonBreaking.label>कण</Mote_CocoonBreaking.label>
+  
+  <!-- EN: Mote -->
+  <Mote_CocoonDestroyedFlyingPiece.label>कण</Mote_CocoonDestroyedFlyingPiece.label>
+  
+  <!-- EN: Mote -->
+  <Mote_CocoonDestroyedFlyingSlime.label>कण</Mote_CocoonDestroyedFlyingSlime.label>
+  
+  <!-- EN: Mote -->
+  <Mote_CocoonDestroyedMist.label>कण</Mote_CocoonDestroyedMist.label>
+  
+  <!-- EN: Mote -->
+  <Mote_CookBit.label>कण</Mote_CookBit.label>
+  
+  <!-- EN: Mote -->
+  <Mote_FoodBitMeat.label>कण</Mote_FoodBitMeat.label>
+  
+  <!-- EN: Mote -->
+  <Mote_FoodBitVegetarian.label>कण</Mote_FoodBitVegetarian.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ForcedVisible.label>कण</Mote_ForcedVisible.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ForceJob.label>कण</Mote_ForceJob.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ForceJobMaintained.label>कण</Mote_ForceJobMaintained.label>
+  
+  <!-- EN: Mote -->
+  <Mote_GiantExplosion.label>कण</Mote_GiantExplosion.label>
+  
+  <!-- EN: Mote -->
+  <Mote_GiantExplosionInner.label>कण</Mote_GiantExplosionInner.label>
+  
+  <!-- EN: Mote -->
+  <Mote_Hacking.label>कण</Mote_Hacking.label>
+  
+  <!-- EN: Mote -->
+  <Mote_Leaf.label>कण</Mote_Leaf.label>
+  
+  <!-- EN: Mote -->
+  <Mote_PowerBeam.label>कण</Mote_PowerBeam.label>
+  
+  <!-- EN: Mote -->
+  <Mote_PowerCellBurning.label>कण</Mote_PowerCellBurning.label>
+  
+  <!-- EN: Mote -->
+  <Mote_PsychicConditionCauserEffect.label>कण</Mote_PsychicConditionCauserEffect.label>
+  
+  <!-- EN: Mote -->
+  <Mote_PsychicEmanatorEffect.label>कण</Mote_PsychicEmanatorEffect.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ResurrectAbility.label>कण</Mote_ResurrectAbility.label>
+  
+  <!-- EN: Mote -->
+  <Mote_ResurrectFlash.label>कण</Mote_ResurrectFlash.label>
+  
+  <!-- EN: Mote -->
+  <Mote_SparkThrownFastBright.label>कण</Mote_SparkThrownFastBright.label>
+  
+  <!-- EN: Mote -->
+  <Mote_StoneBit.label>कण</Mote_StoneBit.label>
+  
+  <!-- EN: Mote -->
+  <Mote_TerrorHalo.label>कण</Mote_TerrorHalo.label>
+  
+  <!-- EN: Mote -->
+  <Mote_VomitBit.label>कण</Mote_VomitBit.label>
+  
+</LanguageData>

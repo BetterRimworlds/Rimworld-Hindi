@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arrest success chance -->
+  <ArrestSuccessChance.label>गिरफ्तारी सफलता दर</ArrestSuccessChance.label>
+  <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
+  <ArrestSuccessChance.description>यह व्यक्ति लोगों को गिरफ्तार करने में कितना प्रभावी है। यह प्रभावित करता है कि यह व्यक्ति बिना प्रतिरोध के किसी को गिरफ्तार कर पाएगा या नहीं।</ArrestSuccessChance.description>
+  
+  <!-- EN: bond chance factor -->
+  <BondAnimalChanceFactor.label>बंधन संभावना गुणक</BondAnimalChanceFactor.label>
+  <!-- EN: A multiplier on the chance to bond with an animal when interacting with it. -->
+  <BondAnimalChanceFactor.description>जानवरों के साथ बातचीत करते समय बंधन बनाने की संभावना पर एक गुणक।</BondAnimalChanceFactor.description>
+  
+  <!-- EN: drug sell price improvement -->
+  <DrugSellPriceImprovement.label>दवा विक्रय मूल्य सुधार</DrugSellPriceImprovement.label>
+  <!-- EN: When this person sells non-medical drugs, prices are improved by this percentage. -->
+  <DrugSellPriceImprovement.description>जब यह व्यक्ति गैर-चिकित्सीय दवाएं बेचता है, तो कीमतों में इस प्रतिशत से सुधार होता है।</DrugSellPriceImprovement.description>
+  
+  <!-- EN: negotiation ability -->
+  <NegotiationAbility.label>वार्ता कौशल</NegotiationAbility.label>
+  <!-- EN: How effective this person is as a negotiator.\n\nThis affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
+  <NegotiationAbility.description>यह व्यक्ति वार्ताकार के रूप में कितना प्रभावी है।\n\nयह कैदी भर्ती की गति, उपहार देने पर गुट संबंधों पर प्रभाव और शांति वार्ता के परिणाम को प्रभावित करता है।</NegotiationAbility.description>
+  
+  <!-- EN: beauty -->
+  <PawnBeauty.label>सौंदर्य</PawnBeauty.label>
+  <!-- EN: How physically attractive this person is. This affects social interactions. -->
+  <PawnBeauty.description>यह व्यक्ति कितना शारीरिक रूप से आकर्षक है। यह सामाजिक बातचीत को प्रभावित करता है।</PawnBeauty.description>
+  
+  <!-- EN: social impact -->
+  <SocialImpact.label>सामाजिक प्रभाव</SocialImpact.label>
+  <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
+  <SocialImpact.description>किसी व्यक्ति की सामाजिक बातचीत से अन्य लोग कितने प्रभावित होते हैं, इसका गुणक।</SocialImpact.description>
+  
+  <!-- EN: tame animal chance -->
+  <TameAnimalChance.label>पालतू बनाने की संभावना</TameAnimalChance.label>
+  <!-- EN: The base chance this person will successfully tame an animal on any given attempt.\n\nThe actual chance is also affected by the animal's wildness.\nFailed tame attempt can induce animal attacks, especially for more vicious animals. -->
+  <TameAnimalChance.description>इस व्यक्ति द्वारा किसी भी प्रयास में सफलतापूर्वक किसी जानवर को पालने की मूल संभावना।\n\nवास्तविक संभावना जानवर की जंगलीपन से भी प्रभावित होती है। \nविफल पालने के प्रयास से जानवर के हमले हो सकते हैं, खासकर अधिक क्रूर जानवरों के लिए।</TameAnimalChance.description>
+  
+  <!-- EN: trade price improvement -->
+  <TradePriceImprovement.label>व्यापार मूल्य सुधार</TradePriceImprovement.label>
+  <!-- EN: When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
+  <TradePriceImprovement.description>जब यह व्यक्ति व्यापार वार्ताकार के रूप में कार्य करता है, तो खरीद और बिक्री की कीमतें इस प्रतिशत से बेहतर हो जाती हैं।</TradePriceImprovement.description>
+  
+  <!-- EN: train animal chance -->
+  <TrainAnimalChance.label>पशु प्रशिक्षण संभावना</TrainAnimalChance.label>
+  <!-- EN: The base chance this person will make progress training an animal on a given attempt.\n\nThe actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
+  <TrainAnimalChance.description>इस व्यक्ति द्वारा किसी जानवर को प्रशिक्षित करने के एक प्रयास में प्रगति करने की मूल संभावना।\n\nकिसी विशेष प्रयास की वास्तविक संभावना जानवर की जंगलीपन, प्रशिक्षक के साथ बंधन और इसी तरह की चीज़ों पर भी निर्भर करेगी।</TrainAnimalChance.description>
+  
+</LanguageData>

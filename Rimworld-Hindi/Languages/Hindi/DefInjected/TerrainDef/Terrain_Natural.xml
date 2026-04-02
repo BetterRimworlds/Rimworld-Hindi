@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stony soil -->
+  <Gravel.label>पथरीली मिट्टी</Gravel.label>
+  <!-- EN: gravel -->
+  <Gravel.tools.gravel.label>बजरी</Gravel.tools.gravel.label>
+  
+  <!-- EN: Ice -->
+  <Ice.label>बर्फ़</Ice.label>
+  
+  <!-- EN: marshy soil -->
+  <MarshyTerrain.label>दलदली मिट्टी</MarshyTerrain.label>
+  <!-- EN: mud -->
+  <MarshyTerrain.tools.mud.label>कीचड़</MarshyTerrain.tools.mud.label>
+  
+  <!-- EN: lichen-covered soil -->
+  <MossyTerrain.label>लाइकेन मिट्टी</MossyTerrain.label>
+  
+  <!-- EN: mud -->
+  <Mud.label>कीचड़</Mud.label>
+  <!-- EN: mud -->
+  <Mud.tools.mud.label>कीचड़</Mud.tools.mud.label>
+  
+  <!-- EN: riverbank -->
+  <Riverbank.label>नदी किनारा</Riverbank.label>
+  <!-- EN: dirt -->
+  <Riverbank.tools.dirt.label>मिट्टी</Riverbank.tools.dirt.label>
+  
+  <!-- EN: sand -->
+  <Sand.label>रेत</Sand.label>
+  <!-- EN: sand -->
+  <Sand.tools.sand.label>रेत</Sand.tools.sand.label>
+  
+  <!-- EN: soft sand -->
+  <SoftSand.label>नरम रेत</SoftSand.label>
+  <!-- EN: sand -->
+  <SoftSand.tools.sand.label>रेत</SoftSand.tools.sand.label>
+  
+  <!-- EN: soil -->
+  <Soil.label>मिट्टी</Soil.label>
+  <!-- EN: dirt -->
+  <Soil.tools.dirt.label>मिट्टी</Soil.tools.dirt.label>
+  
+  <!-- EN: rich soil -->
+  <SoilRich.label>उपजाऊ मिट्टी</SoilRich.label>
+  <!-- EN: dirt -->
+  <SoilRich.tools.dirt.label>मिट्टी</SoilRich.tools.dirt.label>
+  
+</LanguageData>

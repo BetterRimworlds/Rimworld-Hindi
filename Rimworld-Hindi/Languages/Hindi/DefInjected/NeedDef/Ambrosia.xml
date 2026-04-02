@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambrosia -->
+  <Chemical_Ambrosia.label>अम्ब्रोसिया</Chemical_Ambrosia.label>
+  <!-- EN: Because of an ambrosia addiction, this person needs to regularly consume ambrosia to avoid withdrawal symptoms. -->
+  <Chemical_Ambrosia.description>अमृत के नशे की लत के कारण, इस व्यक्ति को वापसी के लक्षणों से बचने के लिए नियमित रूप से अमृत का सेवन करने की आवश्यकता है।</Chemical_Ambrosia.description>
+  
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adult -->
+  <AnimalAdult.label>वयस्क</AnimalAdult.label>
+  
+  <!-- EN: baby -->
+  <AnimalBaby.label>शिशु</AnimalBaby.label>
+  
+  <!-- EN: baby -->
+  <AnimalBabyTiny.label>शिशु</AnimalBabyTiny.label>
+  
+  <!-- EN: juvenile -->
+  <AnimalJuvenile.label>किशोर</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
+  <EusocialInsectAdult.label>वयस्क</EusocialInsectAdult.label>
+  
+  <!-- EN: immature -->
+  <EusocialInsectJuvenile.label>अपरिपक्व</EusocialInsectJuvenile.label>
+  
+  <!-- EN: larva -->
+  <EusocialInsectLarva.label>लार्वा</EusocialInsectLarva.label>
+  
+  <!-- EN: adult -->
+  <HumanlikeAdult.label>वयस्क</HumanlikeAdult.label>
+  
+  <!-- EN: baby -->
+  <HumanlikeBaby.label>शिशु</HumanlikeBaby.label>
+  <!-- EN: Mood represents how happy or stressed someone is. Babies with low mood are more likely to cry, while babies with a high mood are more likely to giggle. -->
+  <HumanlikeBaby.customMoodTipString>मनोदशा दर्शाती है कि कोई व्यक्ति कितना खुश या तनावग्रस्त है। कम मनोदशा वाले शिशु रोने की अधिक संभावना रखते हैं, जबकि उच्च मनोदशा वाले शिशु खिलखिलाने की अधिक संभावना रखते हैं।</HumanlikeBaby.customMoodTipString>
+  
+  <!-- EN: child -->
+  <HumanlikeChild.label>बच्चा</HumanlikeChild.label>
+  
+  <!-- EN: teenager -->
+  <HumanlikeTeenager.label>किशोर</HumanlikeTeenager.label>
+  <!-- EN: teenage -->
+  <HumanlikeTeenager.adjective>किशोर</HumanlikeTeenager.adjective>
+  
+  <!-- EN: fully-formed -->
+  <MechanoidFullyFormed.label>पूर्ण रूप</MechanoidFullyFormed.label>
+  
+</LanguageData>

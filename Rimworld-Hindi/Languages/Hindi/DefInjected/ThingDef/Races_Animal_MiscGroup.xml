@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>अल्फाबीवर</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
+  <Alphabeaver.description>एक बड़ा बीवर जैसा जीव आनुवंशिक रूप से लकड़ी काटने के लिए मशीन जैसी कुशलता के साथ बनाया गया है। विशेष आहार की अनुपस्थिति में, ये जानवर उन्माद की स्थिति में प्रवेश करेंगे जो उन्हें पूरे पेड़ खाने के लिए प्रेरित करेगा, और परेशान होने पर हमला करने की संभावना है।</Alphabeaver.description>
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>बायां पंजा</Alphabeaver.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Alphabeaver.tools.left_claw.labelNoLocation>पंजे</Alphabeaver.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>दायां पंजा</Alphabeaver.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Alphabeaver.tools.right_claw.labelNoLocation>पंजे</Alphabeaver.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>सिर</Alphabeaver.tools.head.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>सांप</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>एक बड़ी शिकारी सांप। कोबरा उत्तेजित होने पर अत्यधिक आक्रामक हो सकते हैं, और उनके काटने से पीड़ित के शरीर में जहरीला विष प्रवेश करता है।</Cobra.description>
+  <!-- EN: cobra meat -->
+  <Cobra.race.meatLabel>सांप मांस</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>विष-दंत</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>सिर</Cobra.tools.head.label>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>थ्रम्बो</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>एक विशाल, सुंदर जीव जिसकी उत्पत्ति अज्ञात है। थ्रमबो स्वभाव से सौम्य होता है, लेकिन क्रोधित होने पर अत्यंत खतरनाक होता है। इसके लंबे फर असाधारण रूप से सुंदर हैं, लेकिन इसकी त्वचा क्षति के प्रति अविश्वसनीय रूप से प्रतिरोधी भी है। इसका तेज़ सींग बहुत ऊंची कीमत पर बिकता है।\n\nकहानियाँ कहती हैं कि एक बूढ़ा थ्रमबो ब्रह्मांड का सबसे बुद्धिमान जीव है - यह बस बोलने का चुनाव नहीं करता है।</Thrumbo.description>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>सिंग</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>बायां पाँव</Thrumbo.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Thrumbo.tools.left_foot.labelNoLocation>पैर</Thrumbo.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>दायां पाँव</Thrumbo.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Thrumbo.tools.right_foot.labelNoLocation>पैर</Thrumbo.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>सिर</Thrumbo.tools.head.label>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>कछुआ</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <Tortoise.description>यह भारी बख़्तरबंद भूमि-निवास करने वाला सरीसृप अपनी धीमी गति और आश्चर्यजनक रूप से क्रूर काटने के लिए जाना जाता है। अपने प्राकृतिक कवच के कारण, इसे मारना मुश्किल है और यह लंबे समय तक चलने वाली हाथापाई की लड़ाई में गंभीर क्षति पहुंचा सकता है।</Tortoise.description>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>चोंच</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>सिर</Tortoise.tools.head.label>
+  
+</LanguageData>

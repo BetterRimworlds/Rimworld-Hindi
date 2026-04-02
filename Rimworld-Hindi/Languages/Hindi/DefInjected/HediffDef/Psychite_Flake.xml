@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high on flake -->
+  <FlakeHigh.label>फ्लैक पर उच्च</FlakeHigh.label>
+  <!-- EN: Active flake in the bloodstream. Generates a euphoric, debilitating high. -->
+  <FlakeHigh.description>रक्तप्रवाह में सक्रिय परतियाँ। एक आनंददायक, दुर्बल करने वाला नशा उत्पन्न करती हैं।</FlakeHigh.description>
+  <!-- EN: a flake high -->
+  <FlakeHigh.labelNoun>फ्लेक का नशा</FlakeHigh.labelNoun>
+  
+</LanguageData>

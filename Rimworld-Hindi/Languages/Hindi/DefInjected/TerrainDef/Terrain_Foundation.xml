@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bridge -->
+  <Bridge.label>पुल</Bridge.label>
+  <!-- EN: A flat wooden surface on supportive beams which can be built over water. You can build light structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well. -->
+  <Bridge.description>पानी के ऊपर सहायक बीमों पर बना एक सपाट लकड़ी का सतह। पुलों पर हल्की संरचनाएं बनाई जा सकती हैं, लेकिन सावधानी बरतें—पुल नाजुक होते हैं। यदि पुल गिरता है, तो उस पर बनी इमारतें भी गिर जाएंगी।</Bridge.description>
+  
+</LanguageData>

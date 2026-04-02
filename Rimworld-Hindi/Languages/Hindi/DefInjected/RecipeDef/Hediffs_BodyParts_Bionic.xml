@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install bionic arm -->
+  <InstallBionicArm.label>बायोनिक हाथ स्थापित करें</InstallBionicArm.label>
+  <!-- EN: Install a bionic arm. -->
+  <InstallBionicArm.description>एक बायोनिक बांह स्थापित करें।</InstallBionicArm.description>
+  <!-- EN: Installing bionic arm. -->
+  <InstallBionicArm.jobString>बायोनिक हाथ स्थापित करना।</InstallBionicArm.jobString>
+  
+  <!-- EN: install bionic ear -->
+  <InstallBionicEar.label>बायोनिक कान स्थापित करें</InstallBionicEar.label>
+  <!-- EN: Install a bionic ear. -->
+  <InstallBionicEar.description>एक बायोनिक कान स्थापित करें।</InstallBionicEar.description>
+  <!-- EN: Installing bionic ear. -->
+  <InstallBionicEar.jobString>बायोनिक कान स्थापित करना।</InstallBionicEar.jobString>
+  
+  <!-- EN: install bionic eye -->
+  <InstallBionicEye.label>बायोनिक आँख स्थापित करें</InstallBionicEye.label>
+  <!-- EN: Install a bionic eye. -->
+  <InstallBionicEye.description>एक बायोनिक आँख स्थापित करें।</InstallBionicEye.description>
+  <!-- EN: Installing bionic eye. -->
+  <InstallBionicEye.jobString>बायोनिक आँख स्थापित करना।</InstallBionicEye.jobString>
+  
+  <!-- EN: install bionic heart -->
+  <InstallBionicHeart.label>बायोनिक हृदय स्थापित करें</InstallBionicHeart.label>
+  <!-- EN: Install a bionic heart. -->
+  <InstallBionicHeart.description>एक बायोनिक हृदय स्थापित करें।</InstallBionicHeart.description>
+  <!-- EN: Installing bionic heart. -->
+  <InstallBionicHeart.jobString>बायोनिक हृदय स्थापित करना।</InstallBionicHeart.jobString>
+  
+  <!-- EN: Install bionic jaw -->
+  <InstallBionicJaw.label>बायोनिक जबड़ा स्थापित करें</InstallBionicJaw.label>
+  <!-- EN: Install bionic jaw. -->
+  <InstallBionicJaw.description>बायोनिक जबड़ा स्थापित करें।</InstallBionicJaw.description>
+  <!-- EN: Installing bionic jaw. -->
+  <InstallBionicJaw.jobString>बायोनिक जबड़ा स्थापित करना।</InstallBionicJaw.jobString>
+  
+  <!-- EN: install bionic leg -->
+  <InstallBionicLeg.label>बायोनिक पैर स्थापित करें</InstallBionicLeg.label>
+  <!-- EN: Install a bionic leg. -->
+  <InstallBionicLeg.description>एक बायोनिक पैर स्थापित करें।</InstallBionicLeg.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicLeg.jobString>बायोनिक पैर स्थापित करना।</InstallBionicLeg.jobString>
+  
+  <!-- EN: install bionic spine -->
+  <InstallBionicSpine.label>बायोनिक रीढ़ स्थापना</InstallBionicSpine.label>
+  <!-- EN: Install a bionic spine. -->
+  <InstallBionicSpine.description>एक बायोनिक रीढ़ स्थापित करें।</InstallBionicSpine.description>
+  <!-- EN: Installing bionic spine. -->
+  <InstallBionicSpine.jobString>बायोनिक रीढ़ स्थापित करना।</InstallBionicSpine.jobString>
+  
+  <!-- EN: install bionic stomach -->
+  <InstallBionicStomach.label>बायोनिक पेट स्थापित करें</InstallBionicStomach.label>
+  <!-- EN: Install a bionic stomach. -->
+  <InstallBionicStomach.description>एक बायोनिक पेट स्थापित करें।</InstallBionicStomach.description>
+  <!-- EN: Installing bionic stomach. -->
+  <InstallBionicStomach.jobString>बायोनिक पेट स्थापित करना।</InstallBionicStomach.jobString>
+  
+  <!-- EN: install bionic tongue -->
+  <InstallBionicTongue.label>बायोनिक जीभ स्थापित करें</InstallBionicTongue.label>
+  <!-- EN: Install a bionic tongue. -->
+  <InstallBionicTongue.description>एक बायोनिक जीभ स्थापित करें।</InstallBionicTongue.description>
+  <!-- EN: Installing bionic tongue. -->
+  <InstallBionicTongue.jobString>बायोनिक जीभ स्थापित करना।</InstallBionicTongue.jobString>
+  
+  <!-- EN: install death acidifier -->
+  <InstallDeathAcidifier.label>मृत्यु अम्लीकरण</InstallDeathAcidifier.label>
+  <!-- EN: Install a death acidifier. -->
+  <InstallDeathAcidifier.description>मृत्यु अम्लीकरण स्थापित करें।</InstallDeathAcidifier.description>
+  <!-- EN: Installing death acidifier. -->
+  <InstallDeathAcidifier.jobString>मृत्यु अम्लीकरण स्थापित करना।</InstallDeathAcidifier.jobString>
+  
+</LanguageData>

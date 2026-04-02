@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: concrete -->
+  <Concrete.label>कंक्रीट</Concrete.label>
+  <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
+  <Concrete.description>मोटा कंक्रीट। यह सस्ता और बनाने में तेज़ है, लेकिन यह काफी बदसूरत भी है।</Concrete.description>
+  
+  <!-- EN: gold tile -->
+  <GoldTile.label>सोने की टाइल</GoldTile.label>
+  <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description>अतिशय विलासिता के लिए, सोने की टाइलों से बेहतर कुछ नहीं है। वे असाधारण रूप से महंगे हैं, असाधारण रूप से सुंदर हैं, और लोग सोचेंगे कि आप यदि वास्तव में उन पर रहते हैं तो आप असाधारण रूप से घमंडी हैं।</GoldTile.description>
+  
+  <!-- EN: steel tile -->
+  <MetalTile.label>इस्पात टाइल</MetalTile.label>
+  <!-- EN: Steel tiles, for that spaceship look. They are quick to clean and get a bonus to cleanliness for use in medical settings. -->
+  <MetalTile.description>स्टील टाइलें, जो अंतरिक्ष यान जैसा लुक देती हैं। ये जल्दी साफ होती हैं और चिकित्सा सेटिंग्स में उपयोग के लिए स्वच्छता में बोनस प्रदान करती हैं।</MetalTile.description>
+  
+  <!-- EN: paved tile -->
+  <PavedTile.label>पक्की टाइल</PavedTile.label>
+  <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description>कंक्रीट टाइलें। सस्ती हैं, लेकिन दिखावे के लिहाज़ से तटस्थ और बनाने में धीमी हैं।</PavedTile.description>
+  
+  <!-- EN: silver tile -->
+  <SilverTile.label>चाँदी की टाइल</SilverTile.label>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They are quick to clean and get a bonus to cleanliness. -->
+  <SilverTile.description>भव्य कमरों के लिए भविष्यवादी लेकिन शाही रूप के लिए, चांदी की टाइलें पूरी तरह से उपयुक्त हैं। वे जल्दी साफ हो जाती हैं और स्वच्छता में बोनस प्राप्त करती हैं।</SilverTile.description>
+  
+  <!-- EN: sterile tile -->
+  <SterileTile.label>बाँझ टाइल</SterileTile.label>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but quick to clean. -->
+  <SterileTile.description>विशेष स्वच्छता-बढ़ाने वाले गुणों वाली बाँझ टाइलें। अतिरिक्त-साफ़ कमरे अस्पतालों और अनुसंधान प्रयोगशालाओं में परिणामों को बेहतर बनाते हैं। यह टाइल बनाने में बहुत धीमी है, लेकिन साफ़ करने में तेज़ है।</SterileTile.description>
+  
+  <!-- EN: straw matting -->
+  <StrawMatting.label>पुआल चटाई</StrawMatting.label>
+  <!-- EN: Rough straw matting for use in animal barns. It is cheap and accepts very little filth. -->
+  <StrawMatting.description>पशुशालाओं में उपयोग के लिए खुरदरी पुआल की चटाई। यह सस्ती है और बहुत कम गंदगी स्वीकार करती है।</StrawMatting.description>
+  
+  <!-- EN: wood floor -->
+  <WoodPlankFloor.label>लकड़ी का फर्श</WoodPlankFloor.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description>लकड़ी की तख़्तों से बना फर्श एक गर्म, आरामदायक एहसास देता है। यह जल्दी बिछाया जा सकता है, लेकिन यह बहुत ज्वलनशील भी है।</WoodPlankFloor.description>
+  
+</LanguageData>

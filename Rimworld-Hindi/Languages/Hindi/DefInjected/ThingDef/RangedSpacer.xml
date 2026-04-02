@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charge lance shot -->
+  <Bullet_ChargeLance.label>चार्ज भाला गोली</Bullet_ChargeLance.label>
+  
+  <!-- EN: charge shot -->
+  <Bullet_ChargeRifle.label>चार्ज शॉट</Bullet_ChargeRifle.label>
+  
+  <!-- EN: charge lance -->
+  <Gun_ChargeLance.label>चार्ज भाला</Gun_ChargeLance.label>
+  <!-- EN: A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail. -->
+  <Gun_ChargeLance.description>एक स्पंदित-चार्ज रेल-सहायक भाला हथियार। यह त्वरण रेल से बाहर निकलने पर अस्थिर ऊर्जा से चार्ज करते हुए, एक ही शॉट उच्च वेग से चलाता है।</Gun_ChargeLance.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeLance.tools.barrel.label>बैरल</Gun_ChargeLance.tools.barrel.label>
+  <!-- EN: charge lance -->
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>चार्ज भाला</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge rifle -->
+  <Gun_ChargeRifle.label>चार्ज राइफल</Gun_ChargeRifle.label>
+  <!-- EN: A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <Gun_ChargeRifle.description>एक चार्ज-शॉट असॉल्ट राइफल। पल्स-चार्ज तकनीक प्रत्येक शॉट को बैरल से निकलने पर अस्थिर ऊर्जा से भर देती है। प्रभाव पर जारी होने वाली चार्ज की गई ऊर्जा क्षति को बहुत बढ़ा देती है।</Gun_ChargeRifle.description>
+  <!-- EN: stock -->
+  <Gun_ChargeRifle.tools.stock.label>भंडार</Gun_ChargeRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChargeRifle.tools.barrel.label>बैरल</Gun_ChargeRifle.tools.barrel.label>
+  <!-- EN: charge rifle -->
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>चार्ज राइफल</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

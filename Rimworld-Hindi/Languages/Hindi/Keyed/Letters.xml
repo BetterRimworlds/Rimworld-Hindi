@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+  <!-- EN: Jump to location -->
+  <JumpToLocation>स्थान पर जाएँ</JumpToLocation>
+  <!-- EN: Postpone -->
+  <PostponeLetter>स्थगित करें</PostponeLetter>
+  <!-- EN: Reject -->
+  <RejectLetter>अस्वीकार</RejectLetter>
+  <!-- EN: Read more -->
+  <ReadMore>और पढ़ें</ReadMore>
+  <!-- EN: You have {0} more letters -->
+  <MoreLetters>आपके पास {0} और पत्र हैं।</MoreLetters>
+
+  <!-- EN: Summer -->
+  <LetterLabelFirstSummerWarning>ग्रीष्म</LetterLabelFirstSummerWarning>
+  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nTo prepare for winter, buy, steal, or make some parkas, or you'll freeze when you step outside. -->
+  <FirstSummerWarning>ग्रीष्म शुरू हो गया है! लेकिन शीतकाल आ रहा है।\n\nआपकी खाद्य फसलें शीतकाल की ठंड में नहीं बढ़ेंगी। जीवित रहने के लिए पर्याप्त भोजन संग्रहित करना सुनिश्चित करें। आप भोजन को खराब होने से बचाने के लिए वाक-इन रेफ्रिजरेटर बना सकते हैं।\n\nशीतकाल की तैयारी के लिए, पार्का खरीदें, चुराएं, या बनाएं, अन्यथा आप बाहर कदम रखते ही जम जाएंगे।</FirstSummerWarning>
+
+  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
+  <LetterRelationsChange_Hostile>{0} के साथ संबंध पूरी तरह से टूट गए हैं। अब वे आपके प्रति शत्रुतापूर्ण हैं।</LetterRelationsChange_Hostile>  
+  <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
+  <LetterRelationsChange_HostileGoodwillDescription>वे आपकी कॉलोनी और कारवां पर समय-समय पर छापे मारेंगे, और आपके साथ व्यापार करने से इनकार कर देंगे। यदि आप संबंध सुधारना चाहते हैं, तो आप अभी भी कारवां या परिवहन पॉड का उपयोग करके उन्हें उपहार दे सकते हैं।\n\nयह इसलिए हुआ क्योंकि सद्भावना ({0}) {1} से नीचे गिर गई है। तटस्थ संबंध बहाल करने के लिए, सद्भावना को फिर से {2} तक पहुंचना होगा।</LetterRelationsChange_HostileGoodwillDescription>
+  <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
+  <LetterRelationsChange_HostileGoodwillDescription_NoGifting>वे आपकी कॉलोनी और कारवां पर समय-समय पर छापे मारेंगे, और आपके साथ व्यापार करने से इनकार कर देंगे।\n\nयह इसलिए हुआ क्योंकि सद्भावना ({0}) {1} से नीचे गिर गई है। तटस्थ संबंध बहाल करने के लिए, सद्भावना को फिर से {2} तक पहुंचना होगा।</LetterRelationsChange_HostileGoodwillDescription_NoGifting>
+
+  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
+  <LetterRelationsChange_NeutralFromHostile>{0} के साथ संबंध बेहतर हो गए हैं। अब वे आपको तटस्थ मानते हैं और अब आप पर हमला नहीं करेंगे।</LetterRelationsChange_NeutralFromHostile>
+  <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>यह इसलिए हुआ क्योंकि सद्भावना {1} {2} से ऊपर बढ़ गई है। यदि सद्भावना {3} से नीचे गिरती है, तो {0} फिर से शत्रुतापूर्ण हो जाएगा। यदि सद्भावना {4} से ऊपर बढ़ती है, तो वे आपके सहयोगी बन जाएंगे और आपके लिए लड़ेंगे।</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
+  <LetterRelationsChange_NeutralFromAlly>{0} के साथ संबंध ठंडे हो गए हैं। अब वे आपको सहयोगी के बजाय तटस्थ मानते हैं।</LetterRelationsChange_NeutralFromAlly>
+  <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>हालांकि वे अभी भी आपके साथ शांतिपूर्वक बातचीत करेंगे, वे अब खतरे में होने पर आपकी सहायता के लिए लड़ाकू नहीं भेजेंगे।\n\nयह इसलिए हुआ क्योंकि सद्भावना ({1}) {2} से नीचे गिर गई है। यदि सद्भावना {3} से नीचे गिरती है, तो {0} शत्रुतापूर्ण हो जाएगा। यदि सद्भावना {4} से ऊपर उठती है, तो वे फिर से सहयोगी बन जाएंगे।</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
+  <LetterRelationsChange_Ally>{0} के साथ संबंध बहुत घनिष्ठ हो गए हैं। अब वे आपको एक सहयोगी मानते हैं।</LetterRelationsChange_Ally>
+  <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
+  <LetterRelationsChange_AllyGoodwillDescription>मित्र कभी-कभी आपके दुश्मनों से लड़ने में मदद करने के लिए आएंगे जब आप पर हमला हो रहा हो। आप किसी भी समय, सद्भावना की कीमत पर, उनसे मदद के लिए भी बुला सकते हैं।\n\nआप मित्र बन गए हैं क्योंकि आपकी सद्भावना ({0}) {1} से ऊपर उठ गई है। यदि सद्भावना {2} से नीचे गिरती है, तो संबंध तटस्थ हो जाएंगे।</LetterRelationsChange_AllyGoodwillDescription>
+
+  <!-- EN: goodwill -->
+  <goodwill>सद्भावना</goodwill>
+  <!-- EN: Neutral -->
+  <Neutral>तटस्थ</Neutral>
+  <!-- EN: neutral -->
+  <NeutralLower>तटस्थ</NeutralLower>
+  <!-- EN: Death -->
+  <Death>मृत्यु</Death>
+
+  <!-- EN: A {1_label} has short-circuited due to precipitation and started a fire. -->
+  <ShortCircuitRain>एक {1_label} वर्षा के कारण शॉर्ट सर्किट हो गया और आग लग गई।</ShortCircuitRain>
+
+  <!-- EN: Area revealed -->
+  <LetterLabelAreaRevealed>क्षेत्र उजागर</LetterLabelAreaRevealed>
+  <!-- EN: A new area has been revealed. -->
+  <AreaRevealed>एक नया क्षेत्र उजागर हुआ है।</AreaRevealed>
+  <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
+  <AreaRevealedWithMechanoids>एक नया क्षेत्र उजागर हुआ है। इसमें प्राचीन, शत्रुतापूर्ण मैकेनॉइड्स हैं।</AreaRevealedWithMechanoids>
+
+  <!-- EN: A roof has collapsed because it was too far from any support. -->
+  <RoofCollapsed>छत गिर गई क्योंकि यह किसी भी सहारे से बहुत दूर थी।</RoofCollapsed>
+  <!-- EN: These things were crushed: -->
+  <TheseThingsCrushed>ये वस्तुएं कुचली गईं:</TheseThingsCrushed>
+  <!-- EN: Nothing was crushed. -->
+  <NothingCrushed>कुछ कुचला नहीं गया।</NothingCrushed>
+  <!-- EN: Roof collapse -->
+  <LetterLabelRoofCollapsed>छत गिरना</LetterLabelRoofCollapsed>
+
+  <!-- EN: {0} successfully recruited {1} ({2} chance). -->
+  <RecruitSuccess>{0} ने सफलतापूर्वक {1} की भर्ती की ({2} संभावना)।</RecruitSuccess>
+  <!-- EN: {0} failed to recruit {1} ({2} chance). -->
+  <RecruitFail>{0} {1} को भर्ती करने में विफल रहा ({2} संभावना)।</RecruitFail>
+
+  <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} {1} का है {RELATIVE_labelShort} का। यदि {PAWN_nameDef} मर जाता है, तो {RELATIVE_labelShort} को लंबे समय तक दुख होगा। हालाँकि, यदि आप {PAWN_nameDef} को बचाने में सफल होते हैं, तो {RELATIVE_labelShort} बहुत खुश होगा।</RelatedPawnInvolvedInQuest>
+
+  <!-- EN: Birthday -->
+  <LetterLabelBirthday>जन्मदिन</LetterLabelBirthday>
+  <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
+  <BirthdayChronological>आज {0} का कालानुक्रमिक जन्मदिन है! जैविक रूप से, {1} {3} वर्ष का है।\n\nकालानुक्रमिक रूप से, {1} अभी {2} वर्ष का हुआ।\n\nध्यान दें कि चूंकि लोग क्रायोस्लीप में रहते हुए बूढ़े नहीं होते हैं, इसलिए कालानुक्रमिक जन्मदिन जैविक जन्मदिन से अलग है।</BirthdayChronological>
+  <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
+  <LetterBirthdayBiological>{0_nameFull} ने {1} की जैविक आयु प्राप्त कर ली है।</LetterBirthdayBiological>
+  <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
+  <BirthdayBiologicalAgeInjuries>दुर्भाग्यवश, {0_nameFull} को उम्र बढ़ने के कारण निम्नलिखित रोग हो गए हैं।</BirthdayBiologicalAgeInjuries>
+
+  <!-- EN: Disease -->
+  <LetterLabelNewDisease>रोग</LetterLabelNewDisease>
+  <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
+  <NewDisease>{PAWN} को {1} से बीमारी हो गई है।\n\nएक मेडिकल बेड और एक डॉक्टर सुनिश्चित करें। सुनिश्चित करें कि {PAWN_definite} को उचित उपचार मिले और वह जितना संभव हो उतना समय बिस्तर पर बिताए।</NewDisease>
+  <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
+  <NewPartDisease>{PAWN} को {3} से बीमारी हो गई है। संक्रमण {PAWN_possessive} {1} में है।\n\nएक मेडिकल बेड और एक डॉक्टर सुनिश्चित करें। सुनिश्चित करें कि {PAWN_definite} को उचित उपचार मिले और वह जितना संभव हो उतना समय बिस्तर पर बिताए।</NewPartDisease>
+  <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
+  <NewDiseaseAnimal>{PAWN_labelShort} को एक बीमारी हो गई है: {1}</NewDiseaseAnimal>
+  <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
+  <NewPartDiseaseAnimal>{PAWN_labelShort} को एक बीमारी हो गई है: {3} उनके {1} में।</NewPartDiseaseAnimal>
+
+  <!-- EN: {0} was formerly part of your faction. -->
+  <PawnWasFormerlyColonist>{0} पहले आपके गुट का हिस्सा था।</PawnWasFormerlyColonist>
+  <!-- EN: You previously hosted {0}. -->
+  <PawnWasFormerlyLodger>आप पहले {0} की मेजबानी कर चुके हैं।</PawnWasFormerlyLodger>
+  <!-- EN: {1_labelShort} has these relationships with your colonists: -->
+  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} के आपके उपनिवेशवादियों के साथ ये संबंध हैं:</PawnHasTheseRelationshipsWithColonists>
+
+  <!-- EN: Ancient danger -->
+  <LetterLabelAncientShrineWarning>प्राचीन खतरा</LetterLabelAncientShrineWarning>
+  <!-- EN: As {PAWN_nameDef} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
+  <AncientShrineWarning>जैसे ही {PAWN_nameDef} प्राचीन दीवार के करीब आता है, एक आशंका की भावना {PAWN_objective} पर छा जाती है। {PAWN_pronoun} को यकीन नहीं है कि क्यों, लेकिन {PAWN_pronoun} को लगता है कि यह धूल भरी संरचना महान खतरे को छुपा सकती है।</AncientShrineWarning>
+
+  <!-- EN: We have struck {0}! -->
+  <StruckMineable>हमने {0} खोज निकाला!</StruckMineable>
+
+  <!-- EN: {0} revenge -->
+  <LetterLabelAnimalManhunterRevenge>{0} बदला</LetterLabelAnimalManhunterRevenge>
+  <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
+  <AnimalManhunterFromDamage>कोई हमला कर रहा है, चोट लगने के बाद!\n\nयह किसी भी मानवोइड का शिकार करेगा जिसे यह पहुँच सकता है। यह सो जाने पर शांत हो जाएगा।</AnimalManhunterFromDamage>
+  <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
+  <AnimalManhunterFromTaming>एक हमला कर रहा है क्योंकि पालतू बनाने का प्रयास विफल रहा!</AnimalManhunterFromTaming>
+  <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
+  <AnimalManhunterOthers>अन्य {1_kindBasePlural} भी क्रोधित हो गए हैं!</AnimalManhunterOthers>
+
+  <!-- EN: {1_labelShort} hit trap -->
+  <LetterFriendlyTrapSprungLabel>मार जाल</LetterFriendlyTrapSprungLabel>
+  <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
+  <LetterFriendlyTrapSprung>{1_labelShort} अनजाने में एक जाल में फंस गया और उसे नुकसान पहुंचा।</LetterFriendlyTrapSprung>
+
+  <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
+  <LetterHealthComplications>{PAWN_labelShort} को एक स्वास्थ्य स्थिति विकसित हुई है:\n\n  {1}\n\nइसका कारण बना:\n\n  {2}</LetterHealthComplications>
+  <!-- EN: {PAWN_labelShort}: {1} -->
+  <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
+  
+  <!-- EN: {PAWN_labelShort} has developed a health condition: {1}. -->
+  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} को एक स्वास्थ्य स्थिति विकसित हुई है: {1}.</LetterHediffFromRandomHediffGiver>
+  <!-- EN: {PAWN_labelShort}: {1} -->
+  <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
+
+  <!-- EN: {1} died: {0} -->
+  <LetterLeadersDeathLabel>{1} की मृत्यु: {0}</LetterLeadersDeathLabel>
+  <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {1} का {0}, मर गया।</LetterLeadersDeath>
+
+  <!-- EN: New {1}: {0} -->
+  <LetterLeaderChangedLabel>नया {1}: {0}</LetterLeaderChangedLabel>
+  <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
+  <LetterLeaderChanged>{OLDLEADER_nameFull} अब {0} का {1} नहीं है।</LetterLeaderChanged>
+
+  <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
+  <LetterNewLeader>नया {0} {NEWLEADER_nameFull} है।</LetterNewLeader>
+
+  <!-- EN: The final straw was: {0} -->
+  <FinalStraw>अंतिम तिनका था: {0}</FinalStraw>
+  <!-- EN: This happened because of poor mood. -->
+  <MentalStateReason_Mood>यह ख़राब मनोदशा के कारण हुआ।</MentalStateReason_Mood>
+  <!-- EN: This happened because of the trait: {0}. -->
+  <MentalStateReason_Trait>यह विशेषता {0} के कारण हुआ।</MentalStateReason_Trait>
+  <!-- EN: This happened because of: {0}. -->
+  <MentalStateReason_Hediff>यह {0} के कारण हुआ।</MentalStateReason_Hediff>
+  <!-- EN: This happened because of {0_definite}'s death. -->
+  <MentalStateReason_BondedHumanDeath>यह {0_definite} की मृत्यु के कारण हुआ।</MentalStateReason_BondedHumanDeath>
+  <!-- EN: The last event was -->
+  <LastFactionRelationsEvent>पिछली घटना थी</LastFactionRelationsEvent>
+
+  <!-- EN: View related quest -->
+  <ViewRelatedQuest>संबंधी खोज देखें</ViewRelatedQuest>
+  <!-- EN: View quest -->
+  <ViewQuest>क्वेस्ट देखें</ViewQuest>
+  <!-- EN: The last events in {PAWN_definite}'s life -->
+  <LastEventsInLife>{PAWN_definite} के जीवन की अंतिम घटनाएं</LastEventsInLife>
+
+  <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
+  <LetterInspirationBeginThanksToHighMoodPart>अच्छे मूड की वजह से, [PAWN_nameIndef] को प्रेरणा मिली है!</LetterInspirationBeginThanksToHighMoodPart>
+
+  <!-- Related pawns -->
+  <!-- EN: Relationship -->
+  <LetterLabelNoticedRelatedPawns>संबंध</LetterLabelNoticedRelatedPawns>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are: -->
+  <LetterRelatedPawnsRaidEnemy>आने वाले {1} समूह में आपके {0} या कैदियों के साथ संबंध रखने वाले लोग हैं।\n\nध्यान रखें कि वे संबंधित होने के बावजूद, उनकी खराब गुट संबंधों के कारण वे एक-दूसरे पर हमला करेंगे।\n\nये लोग हैं:</LetterRelatedPawnsRaidEnemy>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}: -->
+  <LetterRelatedPawnsRaidFriendly>आने वाले मित्रवत {1} समूह में आपके {0} या कैदियों के साथ संबंध रखने वाले लोग हैं:</LetterRelatedPawnsRaidFriendly>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
+  <LetterRelatedPawnsNeutralGroup>आने वाले समूह में आपके {0} या कैदियों के साथ संबंध रखने वाले लोग हैं:</LetterRelatedPawnsNeutralGroup>
+  <!-- EN: The orbital trader is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradeShip>कक्षा व्यापारी ऐसे लोगों को बेच रहा है जिनके आपके {0} या कैदियों के साथ संबंध हैं:</LetterRelatedPawnsTradeShip>
+  <!-- EN: The settlement is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradingWithSettlement>बस्ती उन लोगों को बेच रही है जिनके आपके {0} या कैदियों के साथ संबंध हैं:</LetterRelatedPawnsTradingWithSettlement>
+  <!-- EN: The caravan is selling people who have relationships with your {0} or prisoners: -->
+  <LetterRelatedPawnsTradingWithOtherCaravan>कारवां ऐसे लोगों को बेच रहा है जिनके आपके {0} या कैदियों के साथ संबंध हैं:</LetterRelatedPawnsTradingWithOtherCaravan>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the group: -->
+  <LetterRelatedPawnsGroupGeneric>समूह में आपके {0} या कैदियों के साथ संबंध रखने वाले लोग हैं:</LetterRelatedPawnsGroupGeneric>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in the area where your {0} have landed. -->
+  <LetterRelatedPawnsInMapWherePlayerLanded>आपके {0} या आसपास के कैदियों के साथ संबंध रखने वाले लोग हैं जहाँ आपके {0} उतरे हैं।</LetterRelatedPawnsInMapWherePlayerLanded>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in this settlement: -->
+  <LetterRelatedPawnsSettlement>इस बस्ती में ऐसे लोग हैं जिनके आपके {0} या कैदियों के साथ संबंध हैं:</LetterRelatedPawnsSettlement>
+  <!-- EN: There are people who have relationships with your {0} or prisoners in this area: -->
+  <LetterRelatedPawnsSite>इस क्षेत्र में ऐसे लोग हैं जिनके {0} या कैदियों के साथ संबंध हैं:</LetterRelatedPawnsSite>
+
+  <!-- EN: relationship -->
+  <RelationshipAppendedLetterSuffix>संबंध</RelationshipAppendedLetterSuffix>
+  <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} का किसी उपनिवेशवादी से संबंध है। वह {1} है {RELATIVE_labelShort} का।</RelationshipAppendedLetterTextColonist>
+  <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} का किसी एक बंदी के साथ संबंध है। वह {1} का {RELATIVE_labelShort} है।</RelationshipAppendedLetterTextPrisoner>
+
+  <!-- Attempt romance / propose interaction -->
+  <!-- EN: Affair -->
+  <LetterLabelAffair>प्रकरण</LetterLabelAffair>
+  <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
+  <LetterAffair>{PAWN1_labelShort}, {SPOUSE_labelShort} से विवाहित, ने {PAWN2_labelShort} के साथ संबंध शुरू कर दिया है।</LetterAffair>
+  <!-- EN: New lovers -->
+  <LetterLabelNewLovers>नए प्रेमी</LetterLabelNewLovers>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
+  <LetterNewLovers>{PAWN1_labelShort} और {PAWN2_labelShort} अब साथ में सोना चाहते हैं। एक डबल बेड आवंटित करने पर विचार करें।</LetterNewLovers>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
+  <LetterNoLongerLovers>{PAWN1_labelShort} और {PAWN2_labelShort} अब रिश्ते में नहीं हैं।</LetterNoLongerLovers>
+  <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} अपना उपनाम बदलकर अपना जन्म नाम कर देगा।</LetterNoLongerLovers_BackToBirthName>
+  <!-- EN: Breakup -->
+  <LetterLabelBreakup>विघटन</LetterLabelBreakup>
+  <!-- EN: Marriage is on! -->
+  <LetterLabelAcceptedProposal>विवाह हो रहा है!</LetterLabelAcceptedProposal>
+  <!-- EN: Rejected proposal -->
+  <LetterLabelRejectedProposal>अस्वीकृत प्रस्ताव</LetterLabelRejectedProposal>
+  <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
+  <LetterAcceptedProposal>आने वाले दिनों या चतुष्कोणों में, वे अपनी विवाह समारोह आयोजित करेंगे और सभी उपनिवेशवादियों को आमंत्रित करेंगे। समारोह कहाँ होता है, इसे नियंत्रित करने के लिए विवाह स्थल रखने पर विचार करें।</LetterAcceptedProposal>
+  <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
+  <LetterAcceptedProposal_NameChange>{PAWN_label} अपना अंतिम नाम बदलकर {1} कर देगा।</LetterAcceptedProposal_NameChange>
+  <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
+  <LetterRejectedProposal>{INITIATOR_nameFull} इससे नाखुश होगा।</LetterRejectedProposal>
+
+  <!-- Generalized letter labels -->
+  <!-- EN: Hostile: {0} -->
+  <LetterLabelRelationsChange_Hostile>शत्रुतापूर्ण: {0}</LetterLabelRelationsChange_Hostile>
+  <!-- EN: Allied: {0} -->
+  <LetterLabelRelationsChange_Ally>सहयोगी: {0}</LetterLabelRelationsChange_Ally>
+  <!-- EN: Enemy now neutral: {0} -->
+  <LetterLabelRelationsChange_NeutralFromHostile>शत्रु अब तटस्थ: {0}</LetterLabelRelationsChange_NeutralFromHostile>
+  <!-- EN: Ally now neutral: {0} -->
+  <LetterLabelRelationsChange_NeutralFromAlly>सहयोगी अब तटस्थ: {0}</LetterLabelRelationsChange_NeutralFromAlly>
+  <!-- EN: Zzztt... -->
+  <LetterLabelShortCircuit>खर्राटे</LetterLabelShortCircuit>
+
+  <!-- Bonded animals -->
+  <!-- EN: bonded -->
+  <LetterLabelSuffixBondedAnimalDied>जुड़ाव</LetterLabelSuffixBondedAnimalDied>
+  <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
+  <LetterPartBondedAnimalDied>{ANIMAL_definite} {HUMAN_labelShort} से जुड़ा था। यह {HUMAN_labelShort} के मनोदशा को प्रभावित करेगा।</LetterPartBondedAnimalDied>
+  <!-- EN: It will affect mood of the following people:\n\n{0} -->
+  <LetterPartBondedAnimalDiedMulti>निम्नलिखित लोगों के मनोदशा पर असर डालेगा:\n\n{0}</LetterPartBondedAnimalDiedMulti>
+
+  <!-- Prison break -->
+  <!-- EN: Prison break -->
+  <LetterLabelPrisonBreak>जेल तोड़</LetterLabelPrisonBreak>
+  <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
+  <LetterPrisonBreak>कैदियों ने भागने की कोशिश की है! किसी तरह उन्होंने दरवाज़े के ताले को हरा दिया है और वे बाहर निकलने की कोशिश कर रहे हैं। वे हथियार ढूंढ सकते हैं, लड़ सकते हैं या भागने की कोशिश कर सकते हैं। ये कैदी इसमें शामिल हैं:\n\n{0}\n\nकैदी अधिक संख्या में और स्वस्थ होने पर भागने का प्रयास करने की अधिक संभावना रखते हैं।</LetterPrisonBreak>
+
+  <!-- Newly addicted -->
+  <!-- EN: {0} addiction -->
+  <LetterLabelNewlyAddicted>{0} की लत</LetterLabelNewlyAddicted>
+  <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
+  <LetterNewlyAddicted>{PAWN_labelShort} को {1} की लत लग गई है।\n\n{PAWN_pronoun} को अब {1} की आवश्यकता है, जो {PAWN_possessive} नीड्स टैब पर दिखाई देगी। {PAWN_pronoun} अपनी आवश्यकता को पूरा करने के लिए स्वचालित रूप से दवा का सेवन करेगा। यदि {PAWN_pronoun} को कोई {1} नहीं मिल पाता है, तो {PAWN_pronoun} विदड्रॉल में चला जाएगा।</LetterNewlyAddicted>
+
+  <!-- Drug binge -->
+  <!-- EN: {0} binge -->
+  <LetterLabelDrugBinge>{0} अतिभोग</LetterLabelDrugBinge>
+  <!-- EN: {2_label} is binging on {1}. -->
+  <LetterDrugBinge>{2_label} {1} पर अत्यधिक सेवन कर रहा/रही है।</LetterDrugBinge>
+
+  <!-- Caravan destroyed -->
+  <!-- EN: Caravan destroyed -->
+  <LetterLabelAllCaravanColonistsDied>कारवां नष्ट</LetterLabelAllCaravanColonistsDied>
+  <!-- EN: All members of {0} have died. -->
+  <LetterAllCaravanColonistsDied>{0} के सभी सदस्य मर गए हैं।</LetterAllCaravanColonistsDied>
+
+  <!-- Caravan entered map -->
+  <!-- EN: Caravan arrived at {0_label} -->
+  <LetterLabelCaravanEnteredMap>कारवां {0_label} पर पहुंचा।</LetterLabelCaravanEnteredMap>
+  <!-- EN: {0} has arrived at {1_definite}. -->
+  <LetterCaravanEnteredMap>{0} {1_definite} पर आ गया है।</LetterCaravanEnteredMap>
+
+  <!-- Caravan entered enemy base -->
+  <!-- EN: Attack begun -->
+  <LetterLabelCaravanEnteredEnemyBase>हमला शुरू</LetterLabelCaravanEnteredEnemyBase>
+  <!-- EN: {0} has arrived at {1} and is ready to begin the attack. -->
+  <LetterCaravanEnteredEnemyBase>{0} {1} पर आ गया है और हमला शुरू करने के लिए तैयार है।</LetterCaravanEnteredEnemyBase>
+
+  <!-- Transport pods landed in enemy base -->
+  <!-- EN: Attack begun -->
+  <LetterLabelTransportPodsLandedInEnemyBase>हमला शुरू</LetterLabelTransportPodsLandedInEnemyBase>
+  <!-- EN: Your transport pods have arrived at {0}. -->
+  <LetterTransportPodsLandedInEnemyBase>आपके परिवहन पॉड {0} पर पहुँच गए हैं।</LetterTransportPodsLandedInEnemyBase>
+  <!-- EN: The shuttle has arrived at {0}. -->
+  <LetterShuttleLandedInEnemyBase>शटल {0} पर आ गया है।</LetterShuttleLandedInEnemyBase>
+
+  <!-- Faction base defeated -->
+  <!-- EN: Base destroyed -->
+  <LetterLabelFactionBaseDefeated>आधार नष्ट</LetterLabelFactionBaseDefeated>
+  <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
+  <LetterFactionBaseDefeated>शत्रु बस्ती {0} नष्ट हो गई है।\n\n{1} में, आपके कारवां पर शत्रुओं द्वारा हमला किया जाएगा। जब तक कारवां पुनर्गठित नहीं हो जाता और प्रस्थान नहीं कर लेता, वे कारवां पर हमला करने के लिए बल भेजना शुरू कर देंगे।</LetterFactionBaseDefeated>
+  <!-- EN: The enemy settlement {0} has been destroyed. -->
+  <LetterFactionBaseDefeatedNoRaids>शत्रु बस्ती {0} नष्ट हो गई है।</LetterFactionBaseDefeatedNoRaids>
+  <!-- EN: Since this was their last settlement, {0} has been defeated. -->
+  <LetterFactionBaseDefeated_FactionDestroyed>चूंकि यह उनकी अंतिम बस्ती थी, {0} हार गया।</LetterFactionBaseDefeated_FactionDestroyed>
+
+  <!-- Quest completed -->
+  <!-- EN: Quest completed -->
+  <LetterLabelDefeatAllEnemiesQuestCompleted>कार्य पूर्ण</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
+  <LetterDefeatAllEnemiesQuestCompleted>आपने दुश्मन के चौकी को हरा दिया है!\n\n{0} से भुगतान आ गया है, और गुट के संबंधों में {1} से सुधार हुआ है।</LetterDefeatAllEnemiesQuestCompleted>
+
+  <!-- Long-range mineral scanner -->
+  <!-- EN: Distant resource scanned -->
+  <LetterLabelFoundPreciousLump>दूर संसाधन खोजा गया।</LetterLabelFoundPreciousLump>
+  <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
+  <LetterFoundPreciousLump>दूरबीन खनिज स्कैनर का उपयोग करते हुए, {WORKER_labelShort} को दूर पर {0} का एक ढेर मिला है।\n\nदुर्भाग्यवश, यह ज्यादा देर तक नहीं टिकेगा - अगर हम {1} दिनों में नहीं करते हैं तो दूसरे इसे खोद लेंगे।\n\n{2}।</LetterFoundPreciousLump>
+
+  <!-- Ground penetrating scanner -->
+  <!-- EN: Scanned underground -->
+  <LetterLabelDeepScannerFoundLump>भूमि स्कैन</LetterLabelDeepScannerFoundLump>
+  <!-- EN: {FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner! -->
+  <LetterDeepScannerFoundLump>{FINDER_nameDef} ने भूमि-भेदन स्कैनर का उपयोग करके दबी हुई {0} की एक गांठ खोजी है!</LetterDeepScannerFoundLump>
+
+  <!-- Ambush -->
+  <!-- EN: Ambush -->
+  <LetterLabelAmbushInExistingMap>घात</LetterLabelAmbushInExistingMap>
+  <!-- EN: Your {0} have been ambushed! -->
+  <LetterAmbushInExistingMap>आपके {0} पर घात लगाकर हमला किया गया है!</LetterAmbushInExistingMap>
+
+  <!-- Peace talks -->
+  <!-- EN: Peace talks disaster -->
+  <LetterLabelPeaceTalks_Disaster>शांति वार्ता विफलता</LetterLabelPeaceTalks_Disaster>
+  <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
+  <LetterPeaceTalks_Disaster>बातचीत एक आपदा थी। प्रतिनिधि अपनी प्रारंभिक अभिवादन से आगे भी नहीं बढ़ पाए इससे पहले कि चर्चा अपमान और आरोपों में टूट गई।\n\nआपके कारवां के जल्दी रवाना होने के बाद, {0} {1} से मिल गया और हमला कर दिया!\n\n{1} के साथ संबंध: {2}।</LetterPeaceTalks_Disaster>
+  <!-- EN: Peace talks backfire -->
+  <LetterLabelPeaceTalks_Backfire>शांति वार्ता विफल</LetterLabelPeaceTalks_Backfire>
+  <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
+  <LetterPeaceTalks_Backfire>बातचीत उल्टी पड़ गई। कुछ सुखद बातें करने के बावजूद, प्रतिनिधियों ने ठोस मुद्दों पर कोई प्रगति नहीं की, और कई बयानों को अपमान समझा गया।\n\n{0} के साथ संबंध: {1}।</LetterPeaceTalks_Backfire>
+  <!-- EN: Peace talks flounder -->
+  <LetterLabelPeaceTalks_TalksFlounder>समझौता विफल</LetterLabelPeaceTalks_TalksFlounder>
+  <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
+  <LetterPeaceTalks_TalksFlounder>बातचीत विफल रही। प्रतिनिधियों ने स्पष्ट रूप से और बुनियादी सम्मान के साथ संवाद करने का प्रबंधन किया, लेकिन किसी भी वास्तविक मुद्दे पर प्रगति करने में असमर्थ रहे।\n\n{0} के साथ संबंध अपरिवर्तित हैं।</LetterPeaceTalks_TalksFlounder>
+  <!-- EN: Peace talks success -->
+  <LetterLabelPeaceTalks_Success>शांति वार्ता सफलता</LetterLabelPeaceTalks_Success>
+  <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->
+  <LetterPeaceTalks_Success>बातचीत सफल रही। प्रतिनिधियों ने कई महत्वपूर्ण मुद्दों पर नई आपसी समझ हासिल की।\n\n{0} के साथ संबंध {1} से बेहतर हुए हैं।</LetterPeaceTalks_Success>
+  <!-- EN: Peace talks triumph -->
+  <LetterLabelPeaceTalks_Triumph>शांति वार्ता सफल</LetterLabelPeaceTalks_Triumph>
+  <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
+  <LetterPeaceTalks_Triumph>बातचीत एक बड़ी सफलता थी! प्रतिनिधि व्यक्तिगत स्तर पर जल्दी जुड़ गए और दिन के सबसे कठिन मुद्दों पर एक-दूसरे के दृष्टिकोण को सचमुच समझने लगे।\n\n{0} के साथ संबंध {1} से सुधर गए हैं।\n\nआपके कारवां के प्रस्थान करते समय, {0} ने आपको एक उपहार दिया:\n\n{2}</LetterPeaceTalks_Triumph>
+  <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
+  <PeaceTalksSocialXPGain>{PAWN_labelShort}, आपका वार्ताकार, ने {1} सामाजिक अनुभव प्राप्त किया।</PeaceTalksSocialXPGain>
+
+  <!-- Run wild mental break -->
+  <!-- EN: {0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back. -->
+  <LetterRunWildMentalBreak>{0} सभ्यता से ऊब गया है।\n\n{PAWN_pronoun} ने महसूस किया कि जंगली जीव हमेशा स्वतंत्र होते हैं। इसलिए, {PAWN_pronoun} ने आपके गुट को छोड़ने और जानवरों के साथ रहने का फैसला किया है।\n\nआप {PAWN_objective} को वापस पाने के लिए उसे पालने या गिरफ्तार करने का प्रयास कर सकते हैं।</LetterRunWildMentalBreak>
+
+  <!-- Catatonic mental break -->
+  <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days. -->
+  <LetterCatatonicMentalBreak>{0} को पूरी तरह से मानसिक breakdown हुआ है और वह catatonic अवस्था में चला गया है। वह कुछ दिनों में ठीक हो जाएगा।</LetterCatatonicMentalBreak>
+
+  <!-- EN: Persona Core Offer -->
+  <LetterLabelAICoreOffer>व्यक्तित्व कोर प्रस्ताव</LetterLabelAICoreOffer>
+  <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
+  <LetterAICoreOffer>{PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested.</LetterAICoreOffer>
+
+  <!-- Crafting letters -->
+  <!-- EN: Legendary Work -->
+  <LetterCraftedLegendaryLabel>उत्कृष्ट कार्य</LetterCraftedLegendaryLabel>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort} ने {CRAFTED_labelShort} बनाया है।\n\nइस मूल्यवान कलाकृति की खबर दुनिया भर में फैलेगी।</LetterCraftedLegendaryMessage>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world. -->
+  <LetterCraftedLegendaryMessageArt>{WORKER_labelShort} ने एक {CRAFTED_labelShort} बनाया है।\n\n{0}\n\nइस मूल्यवान कलाकृति की खबर दुनिया भर में फैलेगी।</LetterCraftedLegendaryMessageArt>
+
+  <!-- EN: Masterwork -->
+  <LetterCraftedMasterworkLabel>उत्कृष्ट कृति</LetterCraftedMasterworkLabel>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
+  <LetterCraftedMasterworkMessage>{WORKER_labelShort} ने एक {CRAFTED_labelShort} बनाया।</LetterCraftedMasterworkMessage>
+  <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0} -->
+  <LetterCraftedMasterworkMessageArt>{WORKER_labelShort} ने एक {CRAFTED_labelShort} बनाया है।\n\n{0}</LetterCraftedMasterworkMessageArt>
+
+  <!-- Pawns lost because map closed -->
+  <!-- EN: Caravan lost -->
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>कारवां खो गया</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <!-- EN: Your caravan has been lost. The following people and animals have been lost with it -->
+  <LetterPawnsLostBecauseMapClosed_Caravan>आपका कारवां खो गया है। निम्नलिखित लोग और जानवर इसके साथ खो गए हैं।</LetterPawnsLostBecauseMapClosed_Caravan>
+  <!-- EN: Inhabitants abandoned -->
+  <LetterLabelPawnsLostBecauseMapClosed_Home>निवासियों का परित्याग</LetterLabelPawnsLostBecauseMapClosed_Home>
+  <!-- EN: The following people and animals have been abandoned -->
+  <LetterPawnsLostBecauseMapClosed_Home>निम्नलिखित लोग और जानवर त्याग दिए गए हैं।</LetterPawnsLostBecauseMapClosed_Home>
+
+  <!-- Hibernate complete -->
+  <!-- EN: Reactor ready -->
+  <LetterLabelHibernateComplete>रिएक्टर तैयार</LetterLabelHibernateComplete>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
+  <LetterHibernateComplete>(*नाम)चार्लोन व्हाइटस्टोन(/नाम) ने रिएक्टर के शीतनिद्रा पुनर्प्राप्ति क्रम को पूरा कर लिया है। रिएक्टर अब उड़ान के लिए शक्ति प्रदान करने के लिए तैयार है।</LetterHibernateComplete>
+  <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
+  <LetterHibernateCompleteStandalone>रिएक्टर का ऊर्जा सक्रियण क्रम पूरा हो गया है। यह अब उड़ान भरने के लिए ऊर्जा प्रदान करने के लिए तैयार है।</LetterHibernateCompleteStandalone>
+
+  <!-- Visitors gave gift -->
+  <!-- EN: Gift from {0} -->
+  <LetterLabelVisitorsGaveGift>{0} से उपहार</LetterLabelVisitorsGaveGift>
+  <!-- EN: {0} from {PAWN_factionName} have left a gift:\n\n{1} -->
+  <LetterVisitorsGaveGift>{0} {PAWN_factionName} से एक उपहार छोड़ गया:\n\n{1}</LetterVisitorsGaveGift>
+
+  <!-- Faction base proximity -->
+  <!-- EN: Faction base proximity -->
+  <LetterLabelFactionBaseProximity>गुट आधार निकटता</LetterLabelFactionBaseProximity>
+  <!-- EN: Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by: -->
+  <LetterFactionBaseProximity>क्योंकि आप अन्य गुटों के इतने करीब हैं, उन्हें लगता है कि आप उनके क्षेत्र में अतिक्रमण कर रहे हैं।\n\nपिछले चौथाई वर्ष में, गुट संबंधों में कमी आई है:</LetterFactionBaseProximity>
+
+  <!-- Caravans battlefield victory -->
+  <!-- EN: Caravan battle won -->
+  <LetterLabelCaravansBattlefieldVictory>कारवाँ युद्ध जीता।</LetterLabelCaravansBattlefieldVictory>
+  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
+  <LetterCaravansBattlefieldVictory>आपके कारवां ने लड़ाई जीत ली है।\n\nआप अब विश्व स्क्रीन पर युद्धक्षेत्र का चयन करके और &amp;quot;कारवां को पुनर्गठित करें&amp;quot; विकल्प चुनकर कारवां को पुनर्गठित कर सकते हैं।\n\nमैन्युअल रूप से वस्तुओं को इकट्ठा करने की कोई आवश्यकता नहीं है, पुनर्गठित कारवां उपकरण इसे तुरंत कर सकता है।\n\n{0} में, आपके कारवां पर दुश्मनों द्वारा हमला किया जाएगा। जब तक यह पुनर्गठित नहीं होता और प्रस्थान नहीं करता, तब तक वे कारवां पर हमला करने के लिए सेना भेजना शुरू कर देंगे।</LetterCaravansBattlefieldVictory>
+
+  <!-- Rescue quest -->
+  <!-- EN: Rescuee joins -->
+  <LetterLabelRescueQuestFinished>बचावार्थी जुड़ता है।</LetterLabelRescueQuestFinished>
+  <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group. -->
+  <LetterRescueQuestFinished>आपने {PAWN_nameDef} को बचाया है और वह आपके समूह में शामिल हो गया है।</LetterRescueQuestFinished>
+  <!-- EN: \n\nYou can now take {PAWN_objective} with you. To do so, open the World screen, select this site and choose the "Reform caravan" command. -->
+  <LetterRescueQuestFinishedCaravanExtra>आप {PAWN_objective} को अपने साथ ले जा सकते हैं। ऐसा करने के लिए, विश्व स्क्रीन खोलें, यह स्थल चुनें और &amp;quot;कारवां सुधारें&amp;quot; आदेश चुनें।</LetterRescueQuestFinishedCaravanExtra>
+
+  <!-- Predator hunting colonist -->
+  <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
+  <LetterLabelPredatorHuntingColonist>शिकार</LetterLabelPredatorHuntingColonist>
+  <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
+  <LetterPredatorHuntingColonist>{PREDATOR} {PREY_definite} का भोजन के लिए शिकार कर रहा है!</LetterPredatorHuntingColonist>
+
+  <!-- Disease -->
+  <!-- EN: {0} blocked {1} on -->
+  <LetterDisease_Blocked>{0} ने {1} को अवरुद्ध कर दिया है</LetterDisease_Blocked>
+  <!-- EN: Disease: {0} -->
+  <LetterLabelTraitDisease>रोग: {0}</LetterLabelTraitDisease>
+  <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
+  <LetterTraitDisease>{PAWN_label} को {1} से बीमारी हो गई है।\n\nएक मेडिकल बेड और एक डॉक्टर सुनिश्चित करें। सुनिश्चित करें कि {PAWN_pronoun} को उचित उपचार मिले और वह जितना संभव हो उतना समय बिस्तर पर बिताए।</LetterTraitDisease>
+
+  <!-- Quests -->
+  <!-- EN: Quest available: {0} -->
+  <LetterLabelQuestAvailableTitle>कार्य उपलब्ध: {0}</LetterLabelQuestAvailableTitle>
+  <!-- EN: Quest active: {0} -->
+  <LetterLabelQuestAutomaticallyAcceptedTitle>कार्य सक्रिय: {0}</LetterLabelQuestAutomaticallyAcceptedTitle>
+  <!-- EN: {DISCOVEREDFROM} a new quest. -->
+  <LetterNewQuest>{DISCOVEREDFROM} एक नया कार्य।</LetterNewQuest>
+  <!-- EN: A new quest is available. -->
+  <LetterNewQuestFromUnknown>एक नया कार्य उपलब्ध है।</LetterNewQuestFromUnknown>
+  <!-- EN: The quest is called '{0}'. -->
+  <LetterQuestIsNamed>क्वेस्ट का नाम {0} है।</LetterQuestIsNamed>
+  <!-- EN: It will expire in {0}. -->
+  <LetterQuestActiveNowTime>{0} में समाप्त हो जाएगा।</LetterQuestActiveNowTime>
+  <!-- EN: If you don't accept the quest within {0}, it will expire. -->
+  <LetterQuestRequiresAcceptance>यदि आप {0} के भीतर खोज स्वीकार नहीं करते हैं, तो वह समाप्त हो जाएगी।</LetterQuestRequiresAcceptance>
+  <!-- EN: While reading {BOOK_labelNoParenthesis}, {READER_nameDef} discovered -->
+  <QuestDiscoveredFromBook>पढ़ते समय {BOOK_labelNoParenthesis}, {READER_nameDef} ने खोजा।</QuestDiscoveredFromBook>
+  <!-- EN: While talking with the trader {TRADER_nameDef}, {NEGOTIATOR_nameDef} learned of -->
+  <QuestDiscoveredFromTrader>व्यापारी {TRADER_nameDef} से बात करते हुए, {NEGOTIATOR_nameDef} को पता चला कि</QuestDiscoveredFromTrader>
+  <!-- EN: To show {RECEIVER_possessive} gratitude for your charity, the beggar {RECEIVER_nameDef} shared a secret with {GIVER_nameDef}.\n\nYou have learned of -->
+  <QuestDiscoveredFromBeggar>अपनी दानशीलता के लिए {RECEIVER_possessive} आभार व्यक्त करने हेतु, भिखारी {RECEIVER_nameDef} ने {GIVER_nameDef} के साथ एक रहस्य साझा किया।\n\nआपने सीखा है कि</QuestDiscoveredFromBeggar>
+  <!-- EN: You have discovered -->
+  <QuestDiscoveredFromDebug>खोज हुई</QuestDiscoveredFromDebug>
+
+  <!-- Quest drop pods arrived -->
+  <!-- EN: Pods arrived -->
+  <LetterLabelQuestDropPodsArrived>पॉड आए</LetterLabelQuestDropPodsArrived>
+  <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
+  <LetterQuestDropPodsArrived>परिवहन पॉड निम्नलिखित सामग्री के साथ पहुंचे:\n\n{0}</LetterQuestDropPodsArrived>
+
+  <!-- Quest items added to caravan inventory -->
+  <!-- EN: {CARAVAN_label} received items -->
+  <LetterLabelQuestItemsAddedToCaravanInventory>कारवां ने वस्तुएं प्राप्त कीं।</LetterLabelQuestItemsAddedToCaravanInventory>
+  <!-- EN: {CARAVAN_label} has received the following items:\n\n{THINGS} -->
+  <LetterQuestItemsAddedToCaravanInventory>{CARAVAN_label} को निम्नलिखित वस्तुएं मिली हैं:\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
+
+  <!-- Refugee joins -->
+  <!-- EN: {PAWN_nameDef} joins -->
+  <LetterLabelRefugeeJoins>{PAWN_nameDef} शामिल होता है।</LetterLabelRefugeeJoins>
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony. -->
+  <LetterRefugeeJoins>एक {PAWN_title} जिसका नाम {PAWN_nameDef} है, आ गया है और वह कॉलोनी में शामिल हो रहा है।</LetterRefugeeJoins>
+  
+  <!-- Rescuee joins -->
+  <!-- EN: {PAWN_nameDef} joins -->
+  <LetterLabelRescueeJoins>{PAWN_nameDef} शामिल होता है।</LetterLabelRescueeJoins>
+  <!-- EN: {PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony. -->
+  <LetterRescueeJoins>{PAWN_nameDef} आभारी है कि आपने {PAWN_objective} को बचाया। {PAWN_pronoun} ने फैसला किया है कि {PAWN_pronoun} जाना छोड़कर यहीं रहना पसंद करेगा, और आपकी कॉलोनी में शामिल हो रहा है।</LetterRescueeJoins>
+
+  <!-- Pawns arrive and join -->
+  <!-- EN: People join -->
+  <LetterLabelPawnsArriveAndJoin>लोग शामिल हों</LetterLabelPawnsArriveAndJoin>
+  <!-- EN: The following people have arrived and joined the colony:\n\n{0} -->
+  <LetterPawnsArriveAndJoin>निम्नलिखित लोग आए हैं और कॉलोनी में शामिल हो गए हैं:\n\n{0}</LetterPawnsArriveAndJoin>
+
+  <!-- Pawns arrive -->
+  <!-- EN: People arrived -->
+  <LetterLabelPawnsArrive>लोग आए</LetterLabelPawnsArrive>
+  <!-- EN: The following people have arrived:\n\n{0} -->
+  <LetterPawnsArrive>निम्नलिखित लोग आए हैं:\n\n{0}</LetterPawnsArrive>
+
+  <!-- Pawn leaving -->
+  <!-- EN: {0} leaving -->
+  <LetterLabelPawnLeaving>{0} जा रहा है</LetterLabelPawnLeaving>
+  <!-- EN: {0} is leaving. -->
+  <LetterPawnLeaving>{0} जा रहा है।</LetterPawnLeaving>
+
+  <!-- Pawns leaving -->
+  <!-- EN: {0} leaving -->
+  <LetterLabelPawnsLeaving>जा रहा है</LetterLabelPawnsLeaving>
+  <!-- EN: {0} are leaving. -->
+  <LetterPawnsLeaving>{0} जा रहे हैं।</LetterPawnsLeaving>
+  
+  <!-- Colonist kidnapped -->
+  <!-- EN: {PAWN_nameDef} kidnapped -->
+  <LetterLabelPawnsKidnapped>पुरुष अगवा किया गया</LetterLabelPawnsKidnapped>
+  <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
+\nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
+  <LetterPawnsKidnapped>¡{PAWN_nameDef} ha sido secuestrad{PAWN_gender ? o : a} por la facción {FACTION_name}!\nSin embargo, no {PAWN_objective} perderás para siempre. Existe una oportunidad para rescatar{PAWN_objective} que podrá presentarse en los próximos días... o años.</LetterPawnsKidnapped>
+  
+  <!-- Techprints -->
+  <!-- EN: Techprint applied: {PROJECT_label} -->
+  <LetterTechprintAppliedLabel>तकनीकी ब्लूप्रिंट लागू: {PROJECT_label}</LetterTechprintAppliedLabel>
+  <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
+  <LetterTechprintAppliedPartIntro>तकनीकी ब्लूप्रिंट अनुसंधान परियोजना पर लागू किया गया है: {PROJECT_label}.</LetterTechprintAppliedPartIntro>
+  <!-- EN: You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
+  <LetterTechprintAppliedPartJustUnlocked>आपने परियोजना के तकनीकी ब्लूप्रिंट आवश्यकताओं को पूरा कर लिया है! आपके शोधकर्ता अब अनुसंधान बेंच पर प्रौद्योगिकी का उपयोग करने के तरीके पर शोध करना शुरू कर सकते हैं।</LetterTechprintAppliedPartJustUnlocked>
+  <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
+  <LetterTechprintAppliedPartNotUnlockedYet>इस परियोजना की तकनीकी ब्लूप्रिंट आवश्यकताएँ अभी तक पूरी नहीं हुई हैं। अब तक {0} तकनीकी ब्लूप्रिंट लागू किए गए हैं। परियोजना को कुल {1} की आवश्यकता है।</LetterTechprintAppliedPartNotUnlockedYet>
+  <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
+  <LetterTechprintAppliedPartAlreadyUnlocked>इस परियोजना की तकनीकी ब्लूप्रिंट आवश्यकताएँ पहले ही पूरी हो चुकी थीं। अतिरिक्त तकनीकी ब्लूप्रिंट ने {PROJECT_label} पर आपके अनुसंधान प्रयासों को आगे बढ़ाया। शेष अनुसंधान कार्य का आधा भाग, {0} अंक, पूरा हो गया है।</LetterTechprintAppliedPartAlreadyUnlocked>
+  <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
+  <LetterTechprintAppliedPartAlreadyResearched>यह परियोजना पहले से ही पूरी तरह से शोधित है, इसलिए तकनीकी ब्लूप्रिंट ने आपके ज्ञान को बिल्कुल भी आगे नहीं बढ़ाया।</LetterTechprintAppliedPartAlreadyResearched>
+  <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
+  <LetterTechprintAppliedPartExpAwarded>तकनीकी ब्लूप्रिंट लागू करके, {PAWN_labelShort} को {0} अनुभव {1} कौशल में प्राप्त हुआ।</LetterTechprintAppliedPartExpAwarded>
+  
+  <!-- Quest Completed -->
+  <!-- EN: Quest completed -->
+  <LetterQuestCompletedLabel>कार्य पूर्ण</LetterQuestCompletedLabel>
+  <!-- EN: Quest failed -->
+  <LetterQuestFailedLabel>कार्य विफल</LetterQuestFailedLabel>
+  <!-- EN: Quest concluded -->
+  <LetterQuestConcludedLabel>कार्य समाप्त</LetterQuestConcludedLabel>
+  <!-- EN: You have successfully completed the quest '{0}'! -->
+  <LetterQuestCompletedSuccess>आपने सफलतापूर्वक खोज ‘{0}’ पूरी कर ली है!</LetterQuestCompletedSuccess>
+  <!-- EN: You have failed the quest '{0}'. -->
+  <LetterQuestCompletedFail>आपने खोज ‘{0}’ में विफल रहे।</LetterQuestCompletedFail>
+  <!-- EN: You have concluded the quest '{0}'. -->
+  <LetterQuestCompletedConcluded>आपने खोज ‘{0}’ समाप्त कर ली है।</LetterQuestCompletedConcluded>
+
+  <!-- Bladelink -->
+  <!-- EN: Persona bond: {PAWN_labelShort} -->
+  <LetterBladelinkWeaponBondedLabel>व्यक्तिगत बंधन</LetterBladelinkWeaponBondedLabel>
+  <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
+\nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} ha establecido un vínculo con la Inteligencia Artificial de esta arma: {WEAPON_labelShort}.\nDe ahora en adelante, {WEAPON_labelShort} se negará a ser usada por nadie que no sea {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
+  
+  <!-- Mech cluster -->
+  <!-- EN: Mechanoids arrived -->
+  <LetterLabelMechClusterArrived>मेकैनॉइड्स आ गए</LetterLabelMechClusterArrived>
+  <!-- EN: Mechanoids have arrived. -->
+  <LetterMechClusterArrived>मेकैनॉइड्स आ गए हैं।</LetterMechClusterArrived>
+
+  <!-- EN: Caravan detected -->
+  <LetterLabelSiteCountdownStarted>कैरावान मिला</LetterLabelSiteCountdownStarted>
+  <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
+  <LetterTextSiteCountdownStarted>आपके कारवां का पता चल गया है। {0} में, {2} से {1} को सुदृढ़ करना क्षेत्र में आना शुरू हो जाएगा।\n\n{1} से बचने के लिए अपने कारवां को पुनर्गठित करें और आगे बढ़ना शुरू करें। उनके आगमन की उलटी गिनती वाला टाइमर अब दिखाई दे रहा है।</LetterTextSiteCountdownStarted>
+
+  <!-- EN: Unwavering prisoner -->
+  <LetterLabelUnrecruitablePawnCaptured>अटल कैदी</LetterLabelUnrecruitablePawnCaptured>
+  <!-- EN: {PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them. -->
+  <LetterTextUnrecruitablePawnCaptured>{PAWN_nameDef} अपने घर के प्रति अडिग रूप से वफादार है और पूरी तरह से भर्ती होने से इनकार कर देगा।\n\nआप किसी का अडिग वफादारी चयन करके देख सकते हैं।</LetterTextUnrecruitablePawnCaptured>
+  <!-- EN: enslave {PAWN_objective} -->
+  <OptionalEnslaveDesc>गुलाम बनाओ {PAWN_objective}</OptionalEnslaveDesc>
+
+  <!-- Lung rot -->
+  <!-- EN: {PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment. -->
+  <LetterTextLungRot>{PAWN} को {1} के कारण बीमारी हो गई है, जो सड़ती लाशों से निकलने वाली सड़ती दुर्गंध गैस के लंबे समय तक संपर्क में रहने के कारण हुई है।\n\nसुनिश्चित करें कि आपके पास एक मेडिकल बेड और एक डॉक्टर है। सुनिश्चित करें कि {PAWN_definite} को उचित उपचार मिले।</LetterTextLungRot>
+
+  <!-- Join Offer -->
+  <!-- EN: Join offer: {PAWN_nameDef} -->
+  <LetterJoinOfferLabel>जुड़ने का प्रस्ताव</LetterJoinOfferLabel>
+  <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
+  <LetterJoinOfferTitle>{PAWN_nameDef} आपके गुट में शामिल होना चाहता है।</LetterJoinOfferTitle>
+  <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
+  <LetterJoinOfferText>{PAWN_nameDef} मानता है कि {PAWN_pronoun} {MAP_definite} पर खुश है। {PAWN_pronoun} आपके साथ स्थायी रूप से शामिल होना चाहता है।</LetterJoinOfferText>
+  <!-- EN: Accept -->
+  <LetterJoinOfferAccept>स्वीकार करें</LetterJoinOfferAccept>
+
+  <!-- Speeches -->
+  <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
+  <LetterFinishedSpeech>{ORGANIZER_labelShort} ने भाषण समाप्त किया।</LetterFinishedSpeech>
+  <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
+  <LetterTerribleSpeech>यह सचमुच भयानक था – रुक-रुक कर चलने वाला, अजीब मज़ाकों और निराशाजनक कहानियों से भरा।</LetterTerribleSpeech>
+  <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
+  <LetterUninspiringSpeech>यह प्रेरणाहीन था - मौलिक नहीं, नीरस और जुनून की किसी भी भावना से रहित।</LetterUninspiringSpeech>
+  <!-- EN: It was encouraging and well-delivered. -->
+  <LetterEncouragingSpeech>यह उत्साहवर्धक और अच्छी तरह से प्रस्तुत किया गया था।</LetterEncouragingSpeech>
+  <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
+  <LetterInspirationalSpeech>यह असाधारण रूप से प्रेरक, तीव्रता और उद्देश्य से भरपूर था।</LetterInspirationalSpeech>
+  <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
+  <LetterSpeechInspiredListeners>ये लोग भाषण से विशेष रूप से प्रभावित हुए और अब प्रेरित हैं:</LetterSpeechInspiredListeners>
+  <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
+  <LetterSpeechInspiration>{SPEAKER_nameIndef} के अद्भुत भाषण के कारण, {PAWN_nameIndef} को प्रेरणा मिली है!</LetterSpeechInspiration>
+  <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
+  <LetterSpeechInterrupted>क्योंकि भाषण केवल {0} पूरा होने के बाद बाधित हो गया, इसलिए यह उतना प्रभावी नहीं था।</LetterSpeechInterrupted>
+  <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
+  <LetterSpeechCancelled>{0} का भाषण 50% पूरा होने से पहले ही रद्द कर दिया गया। इसका कोई प्रभाव नहीं पड़ा।</LetterSpeechCancelled>
+  <!-- EN: Speech cancelled -->
+  <LetterLabelSpeechCancelled>भाषण रद्द</LetterLabelSpeechCancelled>
+
+</LanguageData>

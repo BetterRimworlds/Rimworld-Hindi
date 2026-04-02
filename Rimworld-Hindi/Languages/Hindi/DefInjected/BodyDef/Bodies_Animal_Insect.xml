@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beetle-like -->
+  <BeetleLike.label>कीट-सदृश</BeetleLike.label>
+  <!-- EN: left elytra -->
+  <BeetleLike.corePart.parts.left_elytra.customLabel>बायां एलिट्रा</BeetleLike.corePart.parts.left_elytra.customLabel>
+  <!-- EN: right elytra -->
+  <BeetleLike.corePart.parts.right_elytra.customLabel>दाहिना पंख</BeetleLike.corePart.parts.right_elytra.customLabel>
+  <!-- EN: left eye -->
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>बायां नेत्र</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>दाहिना नेत्र</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <!-- EN: left antenna -->
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>बायां एंटीना</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <!-- EN: right antenna -->
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>दाहिना एंटीना</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <!-- EN: front left leg -->
+  <BeetleLike.corePart.parts.front_left_leg.customLabel>बायां अगला पैर</BeetleLike.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <BeetleLike.corePart.parts.front_right_leg.customLabel>सामने दायां पैर</BeetleLike.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: middle left leg -->
+  <BeetleLike.corePart.parts.middle_left_leg.customLabel>मध्य बायां पैर</BeetleLike.corePart.parts.middle_left_leg.customLabel>
+  <!-- EN: middle right leg -->
+  <BeetleLike.corePart.parts.middle_right_leg.customLabel>मध्य दायां पैर</BeetleLike.corePart.parts.middle_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <BeetleLike.corePart.parts.rear_left_leg.customLabel>पिछला बायां पैर</BeetleLike.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <BeetleLike.corePart.parts.rear_right_leg.customLabel>पिछला दायां पैर</BeetleLike.corePart.parts.rear_right_leg.customLabel>
+  
+  <!-- EN: beetle-like with claw -->
+  <BeetleLikeWithClaw.label>कीट-सदृश पंजा</BeetleLikeWithClaw.label>
+  <!-- EN: left elytra -->
+  <BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>बायां एलिट्रा</BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>
+  <!-- EN: right elytra -->
+  <BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>दाहिना पंख</BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>
+  <!-- EN: left eye -->
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>बायां नेत्र</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>दाहिना नेत्र</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <!-- EN: left antenna -->
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>बायां एंटीना</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <!-- EN: right antenna -->
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>दाहिना एंटीना</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <!-- EN: front left leg -->
+  <BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>बायां अगला पैर</BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>सामने दायां पैर</BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: middle left leg -->
+  <BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>मध्य बायां पैर</BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>
+  <!-- EN: middle right leg -->
+  <BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>मध्य दायां पैर</BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>पिछला बायां पैर</BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>पिछला दायां पैर</BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>
+  
+</LanguageData>

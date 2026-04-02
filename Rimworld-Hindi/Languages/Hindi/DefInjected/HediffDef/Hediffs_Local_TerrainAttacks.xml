@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dirt -->
+  <DirtInEyes.label>मिट्टी</DirtInEyes.label>
+  <!-- EN: Dirt in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <DirtInEyes.description>आँखों में धूल। इससे दृष्टि बाधित होती है, लेकिन कुछ ही क्षणों में इसे साफ किया जा सकता है।</DirtInEyes.description>
+  <!-- EN: blind -->
+  <DirtInEyes.battleStateLabel>अंधापन</DirtInEyes.battleStateLabel>
+  <!-- EN: dirt -->
+  <DirtInEyes.labelNoun>मिट्टी</DirtInEyes.labelNoun>
+  
+  <!-- EN: gravel -->
+  <GravelInEyes.label>बजरी</GravelInEyes.label>
+  <!-- EN: Gravel in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <GravelInEyes.description>आँखों में बजरी। यह दृष्टि को बाधित करता है, लेकिन कुछ ही क्षणों में साफ किया जा सकता है।</GravelInEyes.description>
+  <!-- EN: blind -->
+  <GravelInEyes.battleStateLabel>अंधापन</GravelInEyes.battleStateLabel>
+  <!-- EN: gravel -->
+  <GravelInEyes.labelNoun>ग्रेवल</GravelInEyes.labelNoun>
+  
+  <!-- EN: mud -->
+  <MudInEyes.label>कीचड़</MudInEyes.label>
+  <!-- EN: Mud in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <MudInEyes.description>आँखों में कीचड़। यह दृष्टि को बाधित करता है, लेकिन कुछ ही क्षणों में साफ किया जा सकता है।</MudInEyes.description>
+  <!-- EN: blind -->
+  <MudInEyes.battleStateLabel>अंधापन</MudInEyes.battleStateLabel>
+  <!-- EN: mud -->
+  <MudInEyes.labelNoun>कीचड़</MudInEyes.labelNoun>
+  
+  <!-- EN: sand -->
+  <SandInEyes.label>रेत</SandInEyes.label>
+  <!-- EN: Sand in the eyes. It impairs vision, but can be cleared within a few moments. -->
+  <SandInEyes.description>आँखों में रेत। यह दृष्टि को बाधित करता है, लेकिन कुछ ही क्षणों में साफ किया जा सकता है।</SandInEyes.description>
+  <!-- EN: blind -->
+  <SandInEyes.battleStateLabel>अंधापन</SandInEyes.battleStateLabel>
+  <!-- EN: sand -->
+  <SandInEyes.labelNoun>रेत</SandInEyes.labelNoun>
+  
+  <!-- EN: water -->
+  <WaterInEyes.label>पानी</WaterInEyes.label>
+  <!-- EN: Water in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <WaterInEyes.description>आँखों में पानी। यह दृष्टि को बाधित करता है, लेकिन कुछ ही क्षणों में ठीक हो सकता है।</WaterInEyes.description>
+  <!-- EN: blind -->
+  <WaterInEyes.battleStateLabel>अंधापन</WaterInEyes.battleStateLabel>
+  <!-- EN: water -->
+  <WaterInEyes.labelNoun>पानी</WaterInEyes.labelNoun>
+  
+</LanguageData>

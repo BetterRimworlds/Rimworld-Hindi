@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aurora -->
+  <Aurora.label>औरोरा</Aurora.label>
+  <!-- EN: Aurora -->
+  <Aurora.letterLabel>औरोरा</Aurora.letterLabel><!-- EN: Aurora -->
+  <Aurora.letterText>औरोरा</Aurora.letterText>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>ग्रहण</Eclipse.label>
+  <!-- EN: Eclipse -->
+  <Eclipse.letterLabel>ग्रहण</Eclipse.letterLabel><!-- EN: Eclipse -->
+  <Eclipse.letterText>ग्रहण</Eclipse.letterText>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>सौर ज्वाला</SolarFlare.label>
+  <!-- EN: Solar flare -->
+  <SolarFlare.letterLabel>सौर ज्वाला</SolarFlare.letterLabel><!-- EN: Solar flare -->
+  <SolarFlare.letterText>सौर ज्वाला</SolarFlare.letterText>
+  
+</LanguageData>

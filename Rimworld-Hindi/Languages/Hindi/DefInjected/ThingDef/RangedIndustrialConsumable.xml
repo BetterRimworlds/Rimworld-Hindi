@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: doomsday rocket -->
+  <Bullet_DoomsdayRocket.label>प्रलय रॉकेट</Bullet_DoomsdayRocket.label>
+  
+  <!-- EN: rocket -->
+  <Bullet_Rocket.label>रॉकेट</Bullet_Rocket.label>
+  
+  <!-- EN: doomsday rocket launcher -->
+  <Gun_DoomsdayRocket.label>विनाश रॉकेट लांचर</Gun_DoomsdayRocket.label>
+  <!-- EN: A single-use rocket launcher that fires a massive explosive projectile. Good against large groups of soft targets. Starts fires.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon. -->
+  <Gun_DoomsdayRocket.description>एक बार इस्तेमाल होने वाला रॉकेट लॉन्चर जो एक विशाल विस्फोटक प्रक्षेप्य दागता है। नरम लक्ष्यों के बड़े समूहों के खिलाफ अच्छा है। आग लगाता है।\n\nइसकी अनाड़ी प्रकृति, एकल-उपयोग सीमा और भारी विनाश के कारण, ऐसा कहा जाता है कि इस हथियार का उपयोग करने के लिए थोड़ा पागल होना आवश्यक है।</Gun_DoomsdayRocket.description>
+  <!-- EN: barrel -->
+  <Gun_DoomsdayRocket.tools.barrel.label>बैरल</Gun_DoomsdayRocket.tools.barrel.label>
+  <!-- EN: doomsday rocket launcher -->
+  <Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>प्रलय रॉकेट लांचर</Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>
+  
+  <!-- EN: triple rocket launcher -->
+  <Gun_TripleRocket.label>त्रिक रॉकेट लांचर</Gun_TripleRocket.label>
+  <!-- EN: A single-use rocket launcher that fires three large-bore explosive rockets. Good against small groups of tough targets.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon. -->
+  <Gun_TripleRocket.description>एक बार इस्तेमाल होने वाला रॉकेट लॉन्चर जो तीन बड़े-कैलिबर विस्फोटक रॉकेट दागता है। यह छोटे, मजबूत लक्ष्यों के समूहों के खिलाफ अच्छा है।\n\nइसकी अनाड़ी प्रकृति, एक बार इस्तेमाल की सीमा और इसके द्वारा होने वाले भारी विनाश के कारण, ऐसा कहा जाता है कि इस हथियार का उपयोग करने के लिए थोड़ा पागल होना आवश्यक है।</Gun_TripleRocket.description>
+  <!-- EN: barrel -->
+  <Gun_TripleRocket.tools.barrel.label>बैरल</Gun_TripleRocket.tools.barrel.label>
+  <!-- EN: triple rocket launcher -->
+  <Gun_TripleRocket.verbs.Verb_ShootOneUse.label>त्रिक रॉकेट लांचर</Gun_TripleRocket.verbs.Verb_ShootOneUse.label>
+  
+</LanguageData>

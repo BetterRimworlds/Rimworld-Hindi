@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: starting people -->
+  <ConfigPage_ConfigureStartingPawns.label>शुरुआती लोग</ConfigPage_ConfigureStartingPawns.label>
+  
+  <!-- EN: forced map -->
+  <ForcedMap.label>नक्शा बाध्य</ForcedMap.label>
+  
+  <!-- EN: planet layer type -->
+  <PlanetLayerFixed.label>ग्रह परत प्रकार</PlanetLayerFixed.label>
+  
+  <!-- EN: Player faction -->
+  <PlayerFaction.label>खिलाड़ी गुट</PlayerFaction.label>
+  
+  <!-- EN: arrival method -->
+  <PlayerPawnsArriveMethod.label>आगमन विधि</PlayerPawnsArriveMethod.label>
+  
+  <!-- EN: surface layer type -->
+  <SurfaceLayerFixed.label>सतह परत प्रकार</SurfaceLayerFixed.label>
+  
+</LanguageData>

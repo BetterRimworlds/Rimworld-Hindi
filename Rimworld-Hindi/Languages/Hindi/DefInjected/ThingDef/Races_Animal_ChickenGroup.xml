@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>मुर्गी</Chicken.label>
+  <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
+  <Chicken.description>सबसे पारंपरिक खेत पक्षी, मुर्गी को अंडे और मांस के लिए पाला जाता है। यह बहुत जल्दी बढ़ती है और अक्सर अंडे देती है।</Chicken.description>
+  <!-- EN: claws -->
+  <Chicken.tools.claws.label>पंजे</Chicken.tools.claws.label>
+  <!-- EN: beak -->
+  <Chicken.tools.beak.label>चोंच</Chicken.tools.beak.label>
+  <!-- EN: head -->
+  <Chicken.tools.head.label>सिर</Chicken.tools.head.label>
+  
+  <!-- EN: duck -->
+  <Duck.label>बतख</Duck.label>
+  <!-- EN: A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely. -->
+  <Duck.description>बतख एक बहुत ही आम प्रकार का खेत पक्षी है, जो जंगली में भी पाया जाता है, और स्वादिष्ट मांस के लिए पाला जाता है। यह जल्दी बढ़ता है लेकिन काफी कम अंडे देता है।</Duck.description>
+  <!-- EN: claws -->
+  <Duck.tools.claws.label>पंजे</Duck.tools.claws.label>
+  <!-- EN: beak -->
+  <Duck.tools.beak.label>चोंच</Duck.tools.beak.label>
+  <!-- EN: head -->
+  <Duck.tools.head.label>सिर</Duck.tools.head.label>
+  
+  <!-- EN: goose -->
+  <Goose.label>हंस</Goose.label>
+  <!-- EN: A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch. -->
+  <Goose.description>मनुष्यों द्वारा पोल्ट्री के लिए पाला जाने वाला एक पालतू पक्षी, जिसके अंडे और मांस लिए जाते हैं। यह बहुत बार अंडे देती है, हालाँकि उन्हें हैच होने में लंबा समय लगता है।</Goose.description>
+  <!-- EN: claws -->
+  <Goose.tools.claws.label>पंजे</Goose.tools.claws.label>
+  <!-- EN: beak -->
+  <Goose.tools.beak.label>चोंच</Goose.tools.beak.label>
+  <!-- EN: head -->
+  <Goose.tools.head.label>सिर</Goose.tools.head.label>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>टर्की</Turkey.label>
+  <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
+  <Turkey.description>एक छोटा, मोटा, उड़ने में असमर्थ पक्षी जो अपने हास्यपूर्ण ‘गलबल’ ध्वनि के लिए जाना जाता है। यह लंबे समय से पालतू बनाया गया है, लेकिन जंगली में भी रहता है।</Turkey.description>
+  <!-- EN: claws -->
+  <Turkey.tools.claws.label>पंजे</Turkey.tools.claws.label>
+  <!-- EN: beak -->
+  <Turkey.tools.beak.label>चोंच</Turkey.tools.beak.label>
+  <!-- EN: head -->
+  <Turkey.tools.head.label>सिर</Turkey.tools.head.label>
+  
+</LanguageData>

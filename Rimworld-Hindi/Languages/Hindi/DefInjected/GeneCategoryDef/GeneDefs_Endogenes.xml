@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cosmetic -->
+  <Cosmetic.label>सौंदर्यबोध</Cosmetic.label>
+  
+  <!-- EN: cosmetic - hair -->
+  <Cosmetic_Hair.label>सौंदर्य - बाल</Cosmetic_Hair.label>
+  
+  <!-- EN: cosmetic - skin -->
+  <Cosmetic_Skin.label>त्वचा</Cosmetic_Skin.label>
+  
+  <!-- EN: miscellaneous -->
+  <Miscellaneous.label>विविध</Miscellaneous.label>
+  
+</LanguageData>

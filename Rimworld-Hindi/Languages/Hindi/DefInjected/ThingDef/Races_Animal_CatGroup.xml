@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cat -->
+  <Cat.label>बिल्ली</Cat.label>
+  <!-- EN: One of mankind's first pets, the cat is a small mammal which hunts vermin. Known for their aloofness, cats are nevertheless popular companions because of their independence, calm disposition, and fine, pettable fur. -->
+  <Cat.description>मनुष्य के पहले पालतू जानवरों में से एक, बिल्ली एक छोटा स्तनपायी है जो कृंतक का शिकार करता है। अपनी दूरी बनाए रखने के लिए जानी जाने वाली बिल्लियाँ, फिर भी अपनी स्वतंत्रता, शांत स्वभाव और बढ़िया, सहलाने योग्य फर के कारण लोकप्रिय साथी हैं।</Cat.description>
+  <!-- EN: left claw -->
+  <Cat.tools.left_claw.label>बायां पंजा</Cat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Cat.tools.left_claw.labelNoLocation>पंजे</Cat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Cat.tools.right_claw.label>दायां पंजा</Cat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Cat.tools.right_claw.labelNoLocation>पंजे</Cat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Cat.tools.head.label>सिर</Cat.tools.head.label>
+  
+  <!-- EN: guinea pig -->
+  <GuineaPig.label>गिनी सूअर</GuineaPig.label>
+  <!-- EN: Neither a pig or a creature from Guinea, these little rodents are bred to be a household pet and a delicious dinner. -->
+  <GuineaPig.description>सुअर या गिनी से आने वाले जीव न होने के बावजूद, ये छोटे कृंतक पालतू जानवर और स्वादिष्ट भोजन के लिए पाले जाते हैं।</GuineaPig.description>
+  <!-- EN: left claw -->
+  <GuineaPig.tools.left_claw.label>बायां पंजा</GuineaPig.tools.left_claw.label>
+  <!-- EN: claw -->
+  <GuineaPig.tools.left_claw.labelNoLocation>पंजे</GuineaPig.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <GuineaPig.tools.right_claw.label>दायां पंजा</GuineaPig.tools.right_claw.label>
+  <!-- EN: claw -->
+  <GuineaPig.tools.right_claw.labelNoLocation>पंजे</GuineaPig.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <GuineaPig.tools.head.label>सिर</GuineaPig.tools.head.label>
+  
+  <!-- EN: husky -->
+  <Husky.label>हस्की</Husky.label>
+  <!-- EN: A large, energetic dog with a thick fur coat for remaining comfortable in arctic environments. -->
+  <Husky.description>एक बड़ा, ऊर्जावान कुत्ता, जिसके घने फर की परत बर्फीले वातावरण में आरामदायक रहने के लिए होती है।</Husky.description>
+  <!-- EN: left claw -->
+  <Husky.tools.left_claw.label>बायां पंजा</Husky.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Husky.tools.left_claw.labelNoLocation>पंजे</Husky.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Husky.tools.right_claw.label>दायां पंजा</Husky.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Husky.tools.right_claw.labelNoLocation>पंजे</Husky.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Husky.tools.head.label>सिर</Husky.tools.head.label>
+  
+  <!-- EN: labrador retriever -->
+  <LabradorRetriever.label>लेब्राडोर रिट्रीवर</LabradorRetriever.label>
+  <!-- EN: A very versatile, medium-sized dog. Originally bred to retrieve birds shot on the hunt, the lab is also an excellent guard dog, play pal, and family friend. -->
+  <LabradorRetriever.description>एक बहुत ही बहुमुखी, मध्यम आकार का कुत्ता। मूल रूप से शिकार पर मारी गई पक्षियों को लाने के लिए पाला गया, लैब एक उत्कृष्ट पहरेदार, खेलने का साथी और परिवार का मित्र भी है।</LabradorRetriever.description>
+  <!-- EN: left claw -->
+  <LabradorRetriever.tools.left_claw.label>बायां पंजा</LabradorRetriever.tools.left_claw.label>
+  <!-- EN: claw -->
+  <LabradorRetriever.tools.left_claw.labelNoLocation>पंजे</LabradorRetriever.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <LabradorRetriever.tools.right_claw.label>दायां पंजा</LabradorRetriever.tools.right_claw.label>
+  <!-- EN: claw -->
+  <LabradorRetriever.tools.right_claw.labelNoLocation>पंजे</LabradorRetriever.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <LabradorRetriever.tools.head.label>सिर</LabradorRetriever.tools.head.label>
+  
+  <!-- EN: monkey -->
+  <Monkey.label>बंदर</Monkey.label>
+  <!-- EN: A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
+  <Monkey.description>एक छोटा वानर, बंदर अपनी घुंघराली पूंछ का उपयोग शाखाओं को पकड़ने के लिए कर सकता है, जिससे उसके हाथ अन्य कार्य करने के लिए स्वतंत्र हो जाते हैं। बंदर स्वार्थी होते हैं लेकिन बुद्धिमान होते हैं, और उन्हें काफी जटिल कार्य करने के लिए प्रशिक्षित किया जा सकता है।</Monkey.description>
+  <!-- EN: left fist -->
+  <Monkey.tools.left_fist.label>बायां मुट्ठी</Monkey.tools.left_fist.label>
+  <!-- EN: fist -->
+  <Monkey.tools.left_fist.labelNoLocation>मुक्का</Monkey.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <Monkey.tools.right_fist.label>दायां मुट्ठी</Monkey.tools.right_fist.label>
+  <!-- EN: fist -->
+  <Monkey.tools.right_fist.labelNoLocation>मुक्का</Monkey.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <Monkey.tools.head.label>सिर</Monkey.tools.head.label>
+  
+  <!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.label>यॉर्कशायर टेरियर</YorkshireTerrier.label>
+  <!-- EN: A small, even-tempered dog. Originally bred to hunt rats, it later became a show and companionship animal. Some consider it useless, but the mood boost it gives by nuzzling can outweigh the cost of feeding it. -->
+  <YorkshireTerrier.description>एक छोटा, शांत स्वभाव का कुत्ता। मूल रूप से चूहों का शिकार करने के लिए पाला गया, यह बाद में प्रदर्शनी और संगति जानवर बन गया। कुछ इसे बेकार मानते हैं, लेकिन इसके द्वारा थपथपाने से मिलने वाला मनोबल वृद्धि इसके भोजन की लागत से अधिक हो सकती है।</YorkshireTerrier.description>
+  <!-- EN: left claw -->
+  <YorkshireTerrier.tools.left_claw.label>बायां पंजा</YorkshireTerrier.tools.left_claw.label>
+  <!-- EN: claw -->
+  <YorkshireTerrier.tools.left_claw.labelNoLocation>पंजे</YorkshireTerrier.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <YorkshireTerrier.tools.right_claw.label>दायां पंजा</YorkshireTerrier.tools.right_claw.label>
+  <!-- EN: claw -->
+  <YorkshireTerrier.tools.right_claw.labelNoLocation>पंजे</YorkshireTerrier.tools.right_claw.labelNoLocation>
+  <!-- EN: cute little teeth -->
+  <YorkshireTerrier.tools.cute_little_teeth.label>छोटे दांत</YorkshireTerrier.tools.cute_little_teeth.label>
+  <!-- EN: head -->
+  <YorkshireTerrier.tools.head.label>सिर</YorkshireTerrier.tools.head.label>
+  
+</LanguageData>

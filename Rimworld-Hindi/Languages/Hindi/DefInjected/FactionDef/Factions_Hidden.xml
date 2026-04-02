@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: neutral ancients -->
+  <Ancients.label>तटस्थ प्राचीन</Ancients.label>
+  <!-- EN: Ancients -->
+  <Ancients.fixedName>प्राचीन</Ancients.fixedName>
+  <!-- EN: leader -->
+  <Ancients.leaderTitle>नेता प्रमुख सत्ता</Ancients.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <Ancients.messageDefendersAttacking>प्राचीन सैनिक हमला कर रहे हैं।</Ancients.messageDefendersAttacking>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>प्राचीन</Ancients.pawnSingular>
+  <!-- EN: ancients -->
+  <Ancients.pawnsPlural>प्राचीन</Ancients.pawnsPlural>
+  
+  <!-- EN: hostile ancients -->
+  <AncientsHostile.label>शत्रु प्राचीन</AncientsHostile.label>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>प्राचीन</AncientsHostile.fixedName>
+  <!-- EN: leader -->
+  <AncientsHostile.leaderTitle>नेता प्रमुख व्यक्ति</AncientsHostile.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <AncientsHostile.messageDefendersAttacking>प्राचीन सैनिक हमला कर रहे हैं।</AncientsHostile.messageDefendersAttacking>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>प्राचीन</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>प्राचीन</AncientsHostile.pawnsPlural>
+  
+  <!-- EN: insect geneline -->
+  <Insect.label>कीट जीनलाइन</Insect.label>
+  <!-- EN: These giant insect-like creatures live underground and burrow up to attack when attracted by noise or pheromone signals. Originally from the planet Sorne, interstellar entrepreneurs managed to capture, genetically-modify, and vat-grow the insect colonies for use as weapons. It's not clear who placed Sorne insects on this planet, but they are here and as dangerous as ever. -->
+  <Insect.description>ये विशाल कीट जैसे जीव भूमिगत रहते हैं और शोर या फेरोमोन संकेतों से आकर्षित होने पर हमला करने के लिए खोदकर ऊपर आते हैं। मूल रूप से सोर्ने ग्रह से, अंतरतारकीय उद्यमियों ने इन कीट कॉलोनियों को पकड़ लिया, आनुवंशिक रूप से संशोधित किया, और उन्हें हथियारों के रूप में उपयोग के लिए वैट-ग्रो किया। यह स्पष्ट नहीं है कि सोर्ने के कीड़ों को इस ग्रह पर किसने रखा, लेकिन वे यहाँ हैं और हमेशा की तरह खतरनाक हैं।</Insect.description>
+  <!-- EN: Sorne Geneline -->
+  <Insect.fixedName>सोर्न जीनलाइन</Insect.fixedName>
+  <!-- EN: leader -->
+  <Insect.leaderTitle>नेता प्रमुख सत्ता</Insect.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Insect.messageDefendersAttacking>{0} से {1} आपके {2} पर हमला कर रहे हैं।</Insect.messageDefendersAttacking>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>कीट</Insect.pawnSingular>
+  <!-- EN: insects -->
+  <Insect.pawnsPlural>कीड़े</Insect.pawnsPlural>
+  
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>मैकेनॉयड छत्ता</Mechanoid.label>
+  <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
+  <Mechanoid.description>अज्ञात उत्पत्ति की घातक मशीनें। प्राचीन संरचनाओं में, धूल के टीलों के नीचे, या समुद्र की गहराई में छिपे, मैकेनॉइड्स हजारों वर्षों तक स्वयं को बनाए रख सकते हैं। मशीनों का यह समूह उद्देश्य में एकजुट प्रतीत होता है, लेकिन कार्रवाई में अच्छी तरह से समन्वित नहीं है। स्थानीय विद्वानों का मानना ​​है कि ये प्राचीन युद्ध से बचे हुए स्वायत्त हथियार हैं, जबकि आदिवासी किंवदंतियाँ उन्हें एक सोए हुए देवता के राक्षसी सेवक के रूप में वर्णित करती हैं।</Mechanoid.description><!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
+  <Mechanoid.fixedName>अज्ञात उत्पत्ति की घातक मशीनें। प्राचीन संरचनाओं में, धूल के टीलों के नीचे, या समुद्र की गहराई में छिपे, मैकेनॉइड हजारों वर्षों तक स्वयं-रखरखाव कर सकते हैं। मशीनों का यह समूह उद्देश्य में एकजुट प्रतीत होता है, लेकिन कार्रवाई में अच्छी तरह से समन्वित नहीं है। स्थानीय विद्वानों का मानना ​​है कि वे एक प्राचीन युद्ध से बचे स्वायत्त हथियार हैं, जबकि आदिवासी किंवदंतियाँ उन्हें एक सोए हुए देवता के राक्षसी सेवक के रूप में वर्णित करती हैं।</Mechanoid.fixedName>
+  <!-- EN: leader -->
+  <Mechanoid.leaderTitle>नेता प्रमुख व्यक्ति</Mechanoid.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Mechanoid.messageDefendersAttacking>{0} से {1} आपके {2} पर हमला कर रहे हैं।</Mechanoid.messageDefendersAttacking>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>मैकेनोइड</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>मैकेनॉइड्स</Mechanoid.pawnsPlural>
+  
+</LanguageData>

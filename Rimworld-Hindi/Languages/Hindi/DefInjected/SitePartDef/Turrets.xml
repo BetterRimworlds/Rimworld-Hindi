@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: turrets -->
+  <Turrets.label>बुर्ज</Turrets.label>
+  <!-- EN: A group of turrets. -->
+  <Turrets.description>टरेट का समूह।</Turrets.description>
+  <!-- EN: There are enemy turrets in this area. -->
+  <Turrets.arrivedLetter>इस क्षेत्र में शत्रु बुर्ज हैं।</Turrets.arrivedLetter>
+  
+</LanguageData>

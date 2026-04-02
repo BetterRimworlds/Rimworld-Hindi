@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic fox -->
+  <Fox_Arctic.label>ध्रुवीय लोमड़ी</Fox_Arctic.label>
+  <!-- EN: A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey. -->
+  <Fox_Arctic.description>एक छोटा शिकारी जो ठंडे वातावरण के लिए अनुकूलित है। यह आमतौर पर चूहों और वोल जैसे छोटे शिकार का शिकार करता है, कभी-कभी अपने शिकार तक पहुँचने के लिए एक मीटर बर्फ में खोदता है।</Fox_Arctic.description>
+  <!-- EN: left claw -->
+  <Fox_Arctic.tools.left_claw.label>बायां पंजा</Fox_Arctic.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Arctic.tools.left_claw.labelNoLocation>पंजे</Fox_Arctic.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Fox_Arctic.tools.right_claw.label>दायां पंजा</Fox_Arctic.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Arctic.tools.right_claw.labelNoLocation>पंजे</Fox_Arctic.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Fox_Arctic.tools.head.label>सिर</Fox_Arctic.tools.head.label>
+  
+  <!-- EN: fennec fox -->
+  <Fox_Fennec.label>फ़ेनक लोमड़ी</Fox_Fennec.label>
+  <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
+  <Fox_Fennec.description>एक छोटा लोमड़ी पृथ्वी के अफ्रीका महाद्वीप के उत्तरी भाग से उत्पन्न हुआ है। यह छोटे जीवों का शिकार करता है और गर्मी में खुद को ठंडा रखने के लिए बहुत बड़े कान हैं।</Fox_Fennec.description>
+  <!-- EN: fox meat -->
+  <Fox_Fennec.race.meatLabel>लोम मांस</Fox_Fennec.race.meatLabel>
+  <!-- EN: left claw -->
+  <Fox_Fennec.tools.left_claw.label>बायां पंजा</Fox_Fennec.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Fennec.tools.left_claw.labelNoLocation>पंजे</Fox_Fennec.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Fox_Fennec.tools.right_claw.label>दायां पंजा</Fox_Fennec.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Fennec.tools.right_claw.labelNoLocation>पंजे</Fox_Fennec.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Fox_Fennec.tools.head.label>सिर</Fox_Fennec.tools.head.label>
+  
+  <!-- EN: red fox -->
+  <Fox_Red.label>लाल लोमड़ी</Fox_Red.label>
+  <!-- EN: A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
+  <Fox_Red.description>एक छोटा एकाकी कुत्ता, जो समशीतोष्ण जलवायु में छोटे शिकार के लिए विकसित हुआ है। मुर्गी पालक लोमड़ियों से नफ़रत करते हैं क्योंकि वे मिनटों में पूरा बाड़ा नष्ट कर सकती हैं।</Fox_Red.description>
+  <!-- EN: left claw -->
+  <Fox_Red.tools.left_claw.label>बायां पंजा</Fox_Red.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Red.tools.left_claw.labelNoLocation>पंजे</Fox_Red.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Fox_Red.tools.right_claw.label>दायां पंजा</Fox_Red.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Red.tools.right_claw.labelNoLocation>पंजे</Fox_Red.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Fox_Red.tools.head.label>सिर</Fox_Red.tools.head.label>
+  
+  <!-- EN: arctic wolf -->
+  <Wolf_Arctic.label>ध्रुवीय भेड़िया</Wolf_Arctic.label>
+  <!-- EN: An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
+  <Wolf_Arctic.description>एक आर्कटिक भेड़िया, पुरानी पृथ्वी के भेड़ियों की एक किस्म। झुंड शिकारी होने के कारण, भेड़ियों का एक जटिल सामाजिक जीवन है और वे अत्यधिक बुद्धिमान होते हैं।</Wolf_Arctic.description>
+  <!-- EN: left claw -->
+  <Wolf_Arctic.tools.left_claw.label>बायां पंजा</Wolf_Arctic.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Arctic.tools.left_claw.labelNoLocation>पंजे</Wolf_Arctic.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Wolf_Arctic.tools.right_claw.label>दायां पंजा</Wolf_Arctic.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Arctic.tools.right_claw.labelNoLocation>पंजे</Wolf_Arctic.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Wolf_Arctic.tools.head.label>सिर</Wolf_Arctic.tools.head.label>
+  
+  <!-- EN: timber wolf -->
+  <Wolf_Timber.label>भेड़िया</Wolf_Timber.label>
+  <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
+  <Wolf_Timber.description>एक कठोर शिकारी जिसकी कई प्राचीन पृथ्वी संस्कृतियों द्वारा आशंका की जाती थी। झुंड शिकारी के रूप में, भेड़ियों का जटिल सामाजिक जीवन है और वे भयंकर रूप से बुद्धिमान हैं।</Wolf_Timber.description>
+  <!-- EN: wolf meat -->
+  <Wolf_Timber.race.meatLabel>भेड़िया मांस</Wolf_Timber.race.meatLabel>
+  <!-- EN: left claw -->
+  <Wolf_Timber.tools.left_claw.label>बायां पंजा</Wolf_Timber.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Timber.tools.left_claw.labelNoLocation>पंजे</Wolf_Timber.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Wolf_Timber.tools.right_claw.label>दायां पंजा</Wolf_Timber.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Timber.tools.right_claw.labelNoLocation>पंजे</Wolf_Timber.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Wolf_Timber.tools.head.label>सिर</Wolf_Timber.tools.head.label>
+  
+</LanguageData>

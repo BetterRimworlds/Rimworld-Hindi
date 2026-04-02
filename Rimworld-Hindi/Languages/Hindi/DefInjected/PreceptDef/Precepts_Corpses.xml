@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ugly -->
+  <Corpses_Ugly.label>भद्दा</Corpses_Ugly.label>
+  <!-- EN: The sight of a dead person is horrible. -->
+  <Corpses_Ugly.description>मृत व्यक्ति का दृश्य भयानक होता है।</Corpses_Ugly.description>
+  
+</LanguageData>

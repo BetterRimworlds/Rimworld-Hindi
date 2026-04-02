@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->isle [narrative_name]</li>
+    <li>terrain_word(p=4)->islands</li>
+    <li>terrain_word(p=3)->isles</li>
+    <li>terrain_word(p=3)->archipelago</li>
+    <li>terrain_word->reef</li>
+    <li>terrain_word->atoll</li>
+    <li>terrain_word->rocks</li>
+    <li>terrain_word->islets</li>
+    <li>terrain_word->points</li>
+    <li>terrain_word->chain</li>
+  -->
+  <NamerArchipelago.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->द्वीप [narrative_name]</li>
+    <li>terrain_word(p=4)->द्वीप</li>
+    <li>terrain_word(p=3)->द्वीप</li>
+    <li>terrain_word(p=3)->द्वीपसमूह</li>
+    <li>terrain_word->प्रवाल भित्ति</li>
+    <li>terrain_word->प्रवाल द्वीप</li>
+    <li>terrain_word->चट्टानें</li>
+    <li>terrain_word->छोटे द्वीप</li>
+    <li>terrain_word->बिंदु</li>
+    <li>terrain_word->श्रृंखला</li>
+  </NamerArchipelago.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=4)->shrubland</li>
+    <li>terrain_word(p=4)->scrubland</li>
+    <li>terrain_word(p=2)->plateau</li>
+    <li>terrain_word(p=2)->scrub</li>
+    <li>terrain_word->desert</li>
+    <li>terrain_word->bush</li>
+    <li>terrain_word->brush</li>
+    <li>terrain_word->barrens</li>
+  -->
+  <NamerAridShrubland.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->झाड़ीदार इलाका</li>
+    <li>terrain_word(p=4)->झाड़ीदार भूमि</li>
+    <li>terrain_word(p=2)->पठार</li>
+    <li>terrain_word(p=2)->झाड़ीदार भूमि</li>
+    <li>terrain_word->रेगिस्तान</li>
+    <li>terrain_word->झाड़ी</li>
+    <li>terrain_word->झाड़ी</li>
+    <li>terrain_word->बंजर भूमि</li>
+  </NamerAridShrubland.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->gulf of [narrative_name]</li>
+    <li>terrain_word(p=6)->bay</li>
+    <li>terrain_word->bight</li>
+    <li>terrain_word->gulf</li>
+    <li>terrain_word->anchorage</li>
+    <li>terrain_word->cove</li>
+  -->
+  <NamerBay.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->की खाड़ी [narrative_name]</li>
+    <li>terrain_word(p=6)->खाड़ी</li>
+    <li>terrain_word->खाड़ी</li>
+    <li>terrain_word->गल्फ़</li>
+    <li>terrain_word->लंगरगाह</li>
+    <li>terrain_word->गल्फ़</li>
+  </NamerBay.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=6)->forest</li>
+    <li>terrain_word(p=3)->taiga</li>
+    <li>terrain_word->grove</li>
+    <li>terrain_word->woodland</li>
+    <li>terrain_word->woods</li>
+    <li>terrain_word->tangle</li>
+    <li>terrain_word->thicket</li>
+  -->
+  <NamerBorealForest.rulePack.rulesStrings>
+    <li>terrain_word(p=6)->जंगल</li>
+    <li>terrain_word(p=3)->तैगा</li>
+    <li>terrain_word->टाइगा</li>
+    <li>terrain_word->वनभूमि</li>
+    <li>terrain_word->वनभूमि</li>
+    <li>terrain_word->जंगल</li>
+    <li>terrain_word->झुग्गीनुमा वनस्पति</li>
+  </NamerBorealForest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.4)->[desert_adjective] [narrative_name]</li>
+    <li>desert_adjective->flat</li>
+    <li>desert_adjective->white</li>
+    <li>desert_adjective->endless</li>
+    <li>desert_adjective->heartless</li>
+    <li>desert_adjective->parched</li>
+    <li>desert_adjective->dry</li>
+    <li>desert_adjective->long</li>
+    <li>desert_adjective->sunburned</li>
+    <li>desert_adjective->sunny</li>
+    <li>desert_adjective->dazzling</li>
+    <li>desert_adjective->hot</li>
+    <li>desert_adjective->sweaty</li>
+    <li>desert_adjective->sandy</li>
+    <li>desert_adjective->rocky</li>
+    <li>terrain_word(p=6)->desert</li>
+    <li>terrain_word->plateau</li>
+    <li>terrain_word->flats</li>
+    <li>terrain_word->basin</li>
+    <li>terrain_word->wastes</li>
+    <li>terrain_word->wasteland</li>
+    <li>terrain_word->barrens</li>
+  -->
+  <NamerDesert.rulePack.rulesStrings>
+    <li>r_name(p=0.4)->[narrative_name] [desert_adjective]</li>
+    <li>desert_adjective->समतल</li>
+    <li>desert_adjective->सफ़ेद</li>
+    <li>desert_adjective->अनंत</li>
+    <li>desert_adjective->निर्दयी</li>
+    <li>desert_adjective->सूखा हुआ</li>
+    <li>desert_adjective->सूखा</li>
+    <li>desert_adjective->मृतक का</li>
+    <li>desert_adjective->धूप से झुलसा हुआ</li>
+    <li>desert_adjective->धूप वाला</li>
+    <li>desert_adjective->चमकदार</li>
+    <li>desert_adjective->गर्म</li>
+    <li>desert_adjective->पसीने से तरबतर</li>
+    <li>desert_adjective->रेतीला</li>
+    <li>desert_adjective->चट्टानी</li>
+    <li>terrain_word(p=6)->रेगिस्तान</li>
+    <li>terrain_word->पठार</li>
+    <li>terrain_word->मैदान</li>
+    <li>terrain_word->बेसिन</li>
+    <li>terrain_word->बर्बाद भूमि</li>
+    <li>terrain_word->बंजर भूमि</li>
+    <li>terrain_word->बंजर भूमि</li>
+  </NamerDesert.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=6)->forest</li>
+    <li>terrain_word->grove</li>
+    <li>terrain_word->woodland</li>
+    <li>terrain_word->thicket</li>
+  -->
+  <NamerForest.rulePack.rulesStrings>
+    <li>terrain_word(p=6)->जंगल</li>
+    <li>terrain_word->उपवन</li>
+    <li>terrain_word->झाड़ीदार इलाका</li>
+    <li>terrain_word->झुग्गीनुमा वनस्पति</li>
+  </NamerForest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word->sheet</li>
+    <li>terrain_word->expanse</li>
+    <li>terrain_word(p=0.5)->reach</li>
+    <li>terrain_word(p=0.3)->field</li>
+    <li>terrain_word(p=0.3)->span</li>
+    <li>terrain_word(p=0.3)->field</li>
+    <li>terrain_word(p=0.3)->stretch</li>
+    <li>terrain_word(p=0.3)->tract</li>
+  -->
+  <NamerIceSheet.rulePack.rulesStrings>
+    <li>terrain_word->चदर</li>
+    <li>terrain_word->विस्तार</li>
+    <li>terrain_word(p=0.5)->पहुँच</li>
+    <li>terrain_word(p=0.3)->हिमनदी</li>
+    <li>terrain_word(p=0.3)->खाड़ी</li>
+    <li>terrain_word(p=0.3)->मैदान</li>
+    <li>terrain_word(p=0.3)->विस्तार</li>
+    <li>terrain_word(p=0.3)->स्थायी बर्फ</li>
+  </NamerIceSheet.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->isle [narrative_name]</li>
+    <li>terrain_word(p=4)->island</li>
+    <li>terrain_word(p=2)->isle</li>
+    <li>terrain_word->reef</li>
+    <li>terrain_word->atoll</li>
+    <li>terrain_word->rock</li>
+    <li>terrain_word->islet</li>
+    <li>terrain_word->point</li>
+  -->
+  <NamerIsland.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->द्वीप [narrative_name]</li>
+    <li>terrain_word(p=4)->द्वीप</li>
+    <li>terrain_word(p=2)->द्वीप</li>
+    <li>terrain_word->प्रवाल भित्ति</li>
+    <li>terrain_word->प्रवाल द्वीप</li>
+    <li>terrain_word->चट्टान</li>
+    <li>terrain_word->टिटहरी</li>
+    <li>terrain_word->नुकीला पत्थर</li>
+  </NamerIsland.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->lake [narrative_name]</li>
+    <li>terrain_word(p=6)->lake</li>
+    <li>terrain_word->pond</li>
+    <li>terrain_word->basin</li>
+    <li>terrain_word->reservoir</li>
+    <li>terrain_word(p=0.3)->puddle</li>
+    <li>terrain_word(p=0.3)->loch</li>
+  -->
+  <NamerLake.rulePack.rulesStrings>
+    <li>r_name->झील [narrative_name]</li>
+    <li>terrain_word(p=6)->झील</li>
+    <li>terrain_word->तालाब</li>
+    <li>terrain_word->झील</li>
+    <li>terrain_word->जलाशय</li>
+    <li>terrain_word->शिखरें</li>
+    <li>terrain_word(p=0.3)->चूहा/पानी का जमाव/दलदल</li>
+    <li>terrain_word(p=0.3)->झील</li>
+    <li>terrain_word(p=0.3)->झील</li>
+  </NamerLake.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->mount [narrative_name]</li>
+    <li>terrain_word(p=5)->mountains</li>
+    <li>terrain_word(p=2)->range</li>
+    <li>terrain_word->peaks</li>
+    <li>terrain_word->hills</li>
+    <li>terrain_word->cliffs</li>
+  -->
+  <NamerMountainRange.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->पर्वतमाला [narrative_name]</li>
+    <li>terrain_word(p=5)->पहाड़ें</li>
+    <li>terrain_word(p=2)->पर्वतमाला</li>
+    <li>terrain_word->पहाड़ियाँ</li>
+    <li>terrain_word->चट्टानें</li>
+    <li>terrain_word->विस्तार</li>
+  </NamerMountainRange.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.4)->[ocean_adjective] [narrative_name]</li>
+    <li>ocean_adjective->blue</li>
+    <li>ocean_adjective->white</li>
+    <li>ocean_adjective->gray</li>
+    <li>ocean_adjective->clear</li>
+    <li>ocean_adjective->windy</li>
+    <li>ocean_adjective->stormy</li>
+    <li>ocean_adjective->calm</li>
+    <li>ocean_adjective->broad</li>
+    <li>ocean_adjective->endless</li>
+    <li>ocean_adjective->flat</li>
+    <li>ocean_adjective->still</li>
+    <li>ocean_adjective->wavy</li>
+    <li>ocean_adjective->gentle</li>
+    <li>terrain_word(p=6)->ocean</li>
+    <li>terrain_word(p=3)->sea</li>
+    <li>terrain_word->expanse</li>
+  -->
+  <NamerOcean.rulePack.rulesStrings>
+    <li>r_name(p=0.4)->[narrative_name] [ocean_adjective]</li>
+    <li>ocean_adjective->नीला</li>
+    <li>ocean_adjective->सफ़ेद</li>
+    <li>ocean_adjective->धूसर</li>
+    <li>ocean_adjective->स्पष्ट</li>
+    <li>ocean_adjective->हवादार</li>
+    <li>ocean_adjective->तूफानी</li>
+    <li>ocean_adjective->शांत</li>
+    <li>ocean_adjective->चौड़ा</li>
+    <li>ocean_adjective->अनंत</li>
+    <li>ocean_adjective->समतल</li>
+    <li>ocean_adjective->शांत</li>
+    <li>ocean_adjective->उग्र</li>
+    <li>ocean_adjective->कोमल</li>
+    <li>terrain_word(p=6)->महासागर</li>
+    <li>terrain_word(p=3)->समुद्र</li>
+    <li>terrain_word->पर्वत</li>
+  </NamerOcean.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.2)->point [narrative_name]</li>
+    <li>r_name(p=0.2)->cape [narrative_name]</li>
+    <li>terrain_word(p=5)->peninsula</li>
+    <li>terrain_word(p=2)->point</li>
+    <li>terrain_word->cape</li>
+    <li>terrain_word->headland</li>
+    <li>terrain_word->horn</li>
+  -->
+  <NamerPeninsula.rulePack.rulesStrings>
+    <li>standardname(p=0.2)->बिंदु [narrative_name]</li>
+    <li>standardname(p=0.2)->केप [narrative_name]</li>
+    <li>terrain_word(p=5)->प्रायद्वीप</li>
+    <li>terrain_word(p=2)->प्रायद्वीप</li>
+    <li>terrain_word->पहाड़ी नुकीला भाग</li>
+    <li>terrain_word->सींग</li>
+    <li>terrain_word->लैगून</li>
+  </NamerPeninsula.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=6)->sea</li>
+    <li>terrain_word->lagoon</li>
+    <li>terrain_word->ocean</li>
+  -->
+  <NamerSea.rulePack.rulesStrings>
+    <li>standardname(p=0.1)->मार [narrative_name]</li>
+    <li>terrain_word(p=6)->समुद्र</li>
+    <li>terrain_word->महासागर</li>
+  </NamerSea.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.1)->fen [narrative_name]</li>
+    <li>r_name(p=0.3)->[swamp_adjective] [narrative_name]</li>
+    <li>swamp_adjective->wet</li>
+    <li>swamp_adjective->steamy</li>
+    <li>swamp_adjective->choking</li>
+    <li>swamp_adjective->rotten</li>
+    <li>swamp_adjective->rotting</li>
+    <li>swamp_adjective->overgrown</li>
+    <li>swamp_adjective->tangled</li>
+    <li>swamp_adjective->viny</li>
+    <li>swamp_adjective->thorny</li>
+    <li>terrain_word(p=6)->swamp</li>
+    <li>terrain_word->basin</li>
+    <li>terrain_word->wetlands</li>
+    <li>terrain_word->bayou</li>
+    <li>terrain_word->bog</li>
+    <li>terrain_word->marsh</li>
+    <li>terrain_word->fen</li>
+  -->
+  <NamerSwamp.rulePack.rulesStrings>
+    <li>standardname(p=0.1)->दलदल [narrative_name]</li>
+    <li>standardname(p=0.3)->[narrative_name] [swamp_adjective]</li>
+    <li>swamp_adjective->नम</li>
+    <li>swamp_adjective->भाप से भरा हुआ</li>
+    <li>swamp_adjective->दम घुटने वाला</li>
+    <li>swamp_adjective->सड़ा हुआ</li>
+    <li>swamp_adjective->सड़ता हुआ</li>
+    <li>swamp_adjective->हरी भरी</li>
+    <li>swamp_adjective->फँसा हुआ</li>
+    <li>swamp_adjective->बेल</li>
+    <li>swamp_adjective->काँटेदार</li>
+    <li>terrain_word(p=6)->दलदल</li>
+    <li>terrain_word->दलदल</li>
+    <li>terrain_word->दलदल</li>
+    <li>terrain_word->दलदल</li>
+    <li>terrain_word->दलदल</li>
+    <li>terrain_word->दलदल</li>
+    <li>terrain_word->दलदल</li>
+  </NamerSwamp.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name(p=0.3)->[rainforest_adjective] [narrative_name]</li>
+    <li>rainforest_adjective->wet</li>
+    <li>rainforest_adjective->steamy</li>
+    <li>rainforest_adjective->choking</li>
+    <li>rainforest_adjective->overgrown</li>
+    <li>rainforest_adjective->tangled</li>
+    <li>rainforest_adjective->viny</li>
+    <li>rainforest_adjective->thorny</li>
+    <li>terrain_word(p=6)->rainforest</li>
+    <li>terrain_word(p=3)->jungle</li>
+    <li>terrain_word->forest</li>
+    <li>terrain_word->grove</li>
+    <li>terrain_word->woodland</li>
+    <li>terrain_word->tangle</li>
+  -->
+  <NamerTropicalRainforest.rulePack.rulesStrings>
+    <li>standardname(p=0.3)->[narrative_name] [rainforest_adjective]</li>
+    <li>rainforest_adjective->गीला</li>
+    <li>rainforest_adjective->भाप से भरा हुआ</li>
+    <li>rainforest_adjective->घुट रहा है</li>
+    <li>rainforest_adjective->घनी हुई</li>
+    <li>rainforest_adjective->फँसा हुआ</li>
+    <li>rainforest_adjective->बेलबूटीदार</li>
+    <li>rainforest_adjective->काँटेदार</li>
+    <li>terrain_word(p=6)->जंगल</li>
+    <li>terrain_word(p=3)->जंगल</li>
+    <li>terrain_word->जंगल</li>
+    <li>terrain_word->झाड़ीदार इलाका</li>
+    <li>terrain_word->जंगल</li>
+    <li>terrain_word->जंगल</li>
+  </NamerTropicalRainforest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=4)->plateau</li>
+    <li>terrain_word(p=4)->barrens</li>
+    <li>terrain_word(p=2)->taiga</li>
+    <li>terrain_word->scrub</li>
+    <li>terrain_word->shrubland</li>
+    <li>terrain_word->scrubland</li>
+    <li>terrain_word->bush</li>
+    <li>terrain_word->brush</li>
+    <li>terrain_word->barrens</li>
+    <li>terrain_word->expanse</li>
+    <li>terrain_word->prairie</li>
+    <li>terrain_word->flats</li>
+  -->
+  <NamerTundra.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->पठार</li>
+    <li>terrain_word(p=4)->बंजर भूमि</li>
+    <li>terrain_word(p=2)->टाइगा</li>
+    <li>terrain_word->झाड़ीदार भूमि</li>
+    <li>terrain_word->झाड़ीदार भूमि</li>
+    <li>terrain_word->झाड़ीदार भूमि</li>
+    <li>terrain_word->झाड़ी</li>
+    <li>terrain_word->विस्तार</li>
+    <li>terrain_word->बंजर भूमि</li>
+    <li>terrain_word->विस्तार</li>
+    <li>terrain_word->मैदान</li>
+    <li>terrain_word->मैदान</li>
+  </NamerTundra.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->[narrative_name] [terrain_word]</li>
+    <li>r_name(p=0.05)->[storyname] [terrain_word]</li>
+    <li>narrative_name(p=12)->[WordTribal]</li>
+    <li>narrative_name(p=12)->[PlaceOutlander]</li>
+    <li>narrative_name->[Color][NaturalObject]</li>
+    <li>narrative_name->[AdjectiveNatural][BodyPart]</li>
+    <li>narrative_name->[Animal]</li>
+    <li>narrative_name->[Color]</li>
+    <li>narrative_name->[Color][Animal]</li>
+    <li>narrative_name->[AdjectiveNatural][Animal]</li>
+    <li>narrative_name->[Animal][BodyPart]</li>
+    <li>narrative_name->[Color] [Animal]</li>
+    <li>narrative_name->[AdjectiveNatural] [Animal]</li>
+    <li>narrative_name->[Animal] [BodyPart]</li>
+    <li>storyname(p=50)->[subject]'s [story_result]</li>
+    <li>storyname(p=2)->[subject]'s [BodyPart]</li>
+    <li>storyname->[subject]'s [Gore]</li>
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject->[Animal]</li>
+    <li>subject->[WordTribal]</li>
+    <li>subject->[PlaceOutlander]</li>
+    <li>story_result->folly</li>
+    <li>story_result->vice</li>
+    <li>story_result->lunacy</li>
+    <li>story_result->mistake</li>
+    <li>story_result->fault</li>
+    <li>story_result->misstep</li>
+    <li>story_result->delusion</li>
+    <li>story_result->joy</li>
+    <li>story_result->delight</li>
+    <li>story_result->wonder</li>
+    <li>story_result->pride</li>
+    <li>story_result->jewel</li>
+    <li>story_result->prize</li>
+    <li>story_result->bounty</li>
+    <li>story_result->honor</li>
+    <li>story_result->jackpot</li>
+    <li>story_result->trophy</li>
+    <li>story_result->conceit</li>
+    <li>story_result->arrogance</li>
+    <li>story_result->stand</li>
+    <li>story_result->loss</li>
+    <li>story_result->debt</li>
+    <li>story_result->collapse</li>
+    <li>story_result->destruction</li>
+    <li>story_result->cataclysm</li>
+    <li>story_result->ruin</li>
+    <li>story_result->ruination</li>
+    <li>story_result->undoing</li>
+    <li>story_result->downfall</li>
+    <li>story_result->end</li>
+    <li>story_result->retirement</li>
+    <li>story_result->achievement</li>
+    <li>story_result->finale</li>
+    <li>story_result->bluff</li>
+    <li>story_result->ruse</li>
+    <li>story_result->deception</li>
+    <li>story_result->facade</li>
+    <li>story_result->fraud</li>
+  -->
+  <WorldFeatureNamerCommon.rulePack.rulesStrings>
+    <li>r_name->[terrain_word] [narrative_name]</li>
+    <li>r_name(p=0.05)->[terrain_word] [storyname]</li>
+    <li>narrative_name(p=12)->[WordTribal_Cap]</li>
+    <li>narrative_name(p=12)->[PlaceOutlander]</li>
+    <li>narrative_name->[NaturalObject] [Color]</li>
+    <li>narrative_name->[NaturalObject_Fem] [Color_Fem]</li>
+    <li>narrative_name->वह [BodyPart] [AdjectiveNatural]</li>
+    <li>narrative_name->वह [BodyPartFem] [AdjectiveNaturalFem]</li>
+    <li>narrative_name->[AnimalAny]</li>
+    <li>narrative_name->[ColorAny]</li>
+    <li>narrative_name->वह [Animal] [Color]</li>
+    <li>narrative_name->वह [Animal_Fem] [Color_Fem]</li>
+    <li>narrative_name->[Animal] [AdjectiveNatural]</li>
+    <li>narrative_name->[Animal_Fem] [AdjectiveNaturalFem]</li>
+    <!-- Para animal y partes del cuerpo, pendiente crear dos archivos de partes del cuerpo de animales y dividirlos en aves y mamiferos 
+    <li>narrative_name->[Animal][BodyPart]</li> dejar en forma de comentario hasta hacer esos archivos -->
+    <li>narrative_name->वह [Animal] [Color]</li>
+    <li>narrative_name->वह [Animal_Fem] [Color_Fem]</li>
+    <li>narrative_name->[Animal] [AdjectiveNatural]</li>
+    <li>storyname(p=50)->[story_result] का / की / के [subject]</li>
+    <li>storyname(p=2)->[BodyPartAny] का/की/के [subject]</li>
+    <li>storyname->[Gore] का [subject]</li>
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject->[AnimalAny]</li>
+    <li>subject->[WordTribal_Cap]</li>
+    <li>subject->[PlaceOutlander]</li>
+    <li>story_result->मूर्खता</li>
+    <li>story_result->बुराई</li>
+    <li>story_result->पागलपन</li>
+    <li>story_result->त्रुटि</li>
+    <li>story_result->त्रुटि</li>
+    <li>story_result->गलत कदम</li>
+    <li>story_result->भ्रम</li>
+    <li>story_result->आनंद</li>
+    <li>story_result->आनंद</li>
+    <li>story_result->विस्मय</li>
+    <li>story_result->अभिमान</li>
+    <li>story_result->जवाहरात</li>
+    <li>story_result->पुरस्कार</li>
+    <li>story_result->इनाम</li>
+    <li>story_result->सम्मान</li>
+    <li>story_result->खजाना</li>
+    <li>story_result->पुरस्कार</li>
+    <li>story_result->अहंकार</li>
+    <li>story_result->अहंकार</li>
+    <li>story_result->रक्षा</li>
+    <li>story_result->हानि</li>
+    <li>story_result->कर्ज़</li>
+    <li>story_result->पतन</li>
+    <li>story_result->विनाश</li>
+    <li>story_result->सर्वनाश</li>
+    <li>story_result->खंडहर</li>
+    <li>story_result->विनाश</li>
+    <li>story_result->विनाश</li>
+    <li>story_result->गिरावट</li>
+    <li>story_result->अंतिम</li>
+    <li>story_result->सेवानिवृत्ति</li>
+    <li>story_result->उपलब्धि</li>
+    <li>story_result->अंतिम संस्कार</li>
+    <li>story_result->धोखाधड़ी</li>
+    <li>story_result->धोखाधड़ी</li>
+    <li>story_result->धोखा</li>
+    <li>story_result->मुखौटा</li>
+    <li>story_result->धोखाधड़ी</li>
+  </WorldFeatureNamerCommon.rulePack.rulesStrings>
+  
+</LanguageData>

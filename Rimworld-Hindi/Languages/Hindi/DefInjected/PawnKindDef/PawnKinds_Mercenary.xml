@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grenadier --><!-- EN: granadero -->
+  <Grenadier_Destructive.label>ग्रेनेडियर</Grenadier_Destructive.label><!-- EN: granadera -->
+  <Grenadier_Destructive.labelFemale>ग्रेनेडिएरा</Grenadier_Destructive.labelFemale><!-- EN: granadero -->
+  <Grenadier_Destructive.labelMale>ग्रेनेडिएरो</Grenadier_Destructive.labelMale><!-- EN: granaderos -->
+  <Grenadier_Destructive.labelPlural>ग्रेनेडिएरोस</Grenadier_Destructive.labelPlural>
+  
+  <!-- EN: EMP grenadier --><!-- EN: granadero de PEM -->
+  <Grenadier_EMP.label>पीईएम ग्रेनेडियर</Grenadier_EMP.label><!-- EN: granadera de PEM -->
+  <Grenadier_EMP.labelFemale>पीईएम ग्रेनेडियर</Grenadier_EMP.labelFemale><!-- EN: granadero de PEM -->
+  <Grenadier_EMP.labelMale>पेम ग्रेनेडियर</Grenadier_EMP.labelMale><!-- EN: granaderos de PEM -->
+  <Grenadier_EMP.labelPlural>पेम ग्रेनेडियर</Grenadier_EMP.labelPlural>
+  
+  <!-- EN: smoke grenadier --><!-- EN: granadero de humo -->
+  <Grenadier_Smoke.label>धुआँ ग्रेनेडियर</Grenadier_Smoke.label><!-- EN: granadera de humo -->
+  <Grenadier_Smoke.labelFemale>धुआँ ग्रेनेड</Grenadier_Smoke.labelFemale><!-- EN: granadero de humo -->
+  <Grenadier_Smoke.labelMale>स्मोक ग्रेनेडियर</Grenadier_Smoke.labelMale><!-- EN: granaderos de humo -->
+  <Grenadier_Smoke.labelPlural>स्मोक ग्रेनेडियर्स</Grenadier_Smoke.labelPlural>
+  
+  <!-- EN: elite mercenary --><!-- EN: mercenario de élite -->
+  <Mercenary_Elite.label>कुलीन भाड़े का सैनिक</Mercenary_Elite.label><!-- EN: mercenaria de élite -->
+  <Mercenary_Elite.labelFemale>कुलीन भाड़े की सैनिक</Mercenary_Elite.labelFemale><!-- EN: mercenario de élite -->
+  <Mercenary_Elite.labelMale>कुलीन भाड़े का सैनिक</Mercenary_Elite.labelMale>
+  <!-- EN: elite mercenaries --><!-- EN: mercenarios de élite -->
+  <Mercenary_Elite.labelPlural>कुलीन भाड़े के सैनिक</Mercenary_Elite.labelPlural>
+  
+  <!-- EN: elite mercenary --><!-- EN: mercenario de élite -->
+  <Mercenary_Elite_Acidifier.label>कुलीन भाड़े का सैनिक</Mercenary_Elite_Acidifier.label><!-- EN: mercenaria de élite -->
+  <Mercenary_Elite_Acidifier.labelFemale>कुलीन भाड़े की सैनिक</Mercenary_Elite_Acidifier.labelFemale><!-- EN: mercenario de élite -->
+  <Mercenary_Elite_Acidifier.labelMale>कुलीन भाड़े का सैनिक</Mercenary_Elite_Acidifier.labelMale>
+  <!-- EN: elite mercenaries --><!-- EN: mercenarios de élite -->
+  <Mercenary_Elite_Acidifier.labelPlural>कुलीन भाड़े के सैनिक</Mercenary_Elite_Acidifier.labelPlural>
+  
+  <!-- EN: mercenary gunner --><!-- EN: mercenario artillero -->
+  <Mercenary_Gunner.label>मर्सेनारियो आर्टिलिएरो</Mercenary_Gunner.label><!-- EN: mercenaria artillera -->
+  <Mercenary_Gunner.labelFemale>मर्सेनेरिया आर्टिलेरा</Mercenary_Gunner.labelFemale><!-- EN: mercenario artillero -->
+  <Mercenary_Gunner.labelMale>मर्सेनैरियो आर्टिलेरो</Mercenary_Gunner.labelMale><!-- EN: mercenarios artilleros -->
+  <Mercenary_Gunner.labelPlural>मर्सेनरियोस आर्टिलेरोस</Mercenary_Gunner.labelPlural>
+  
+  <!-- EN: mercenary gunner --><!-- EN: mercenario artillero -->
+  <Mercenary_Gunner_Acidifier.label>मर्सेनारियो आर्टिलिएरो</Mercenary_Gunner_Acidifier.label><!-- EN: mercenaria artillera -->
+  <Mercenary_Gunner_Acidifier.labelFemale>मर्सेनेरिया आर्टिलेरा</Mercenary_Gunner_Acidifier.labelFemale><!-- EN: mercenario artillero -->
+  <Mercenary_Gunner_Acidifier.labelMale>मर्सेनैरियो आर्टिलेरो</Mercenary_Gunner_Acidifier.labelMale><!-- EN: mercenarios artilleros -->
+  <Mercenary_Gunner_Acidifier.labelPlural>मर्सेनरियोस आर्टिलेरोस</Mercenary_Gunner_Acidifier.labelPlural>
+  
+  <!-- EN: heavy mercenary --><!-- EN: mercenario pesado -->
+  <Mercenary_Heavy.label>भारी भाड़े का सैनिक</Mercenary_Heavy.label><!-- EN: mercenaria pesada -->
+  <Mercenary_Heavy.labelFemale>मर्सेनेरिया पेसादा</Mercenary_Heavy.labelFemale><!-- EN: mercenario pesado -->
+  <Mercenary_Heavy.labelMale>मर्सेनैरियो पेसादो</Mercenary_Heavy.labelMale>
+  <!-- EN: heavy mercenaries --><!-- EN: mercenarios pesados -->
+  <Mercenary_Heavy.labelPlural>भारी भाड़े के सैनिक</Mercenary_Heavy.labelPlural>
+  
+  <!-- EN: mercenary slasher --><!-- EN: mercenario asesino -->
+  <Mercenary_Slasher.label>मर्सेनैरियो हत्यारा</Mercenary_Slasher.label><!-- EN: mercenaria asesina -->
+  <Mercenary_Slasher.labelFemale>मर्सेनेरिया हत्यारी</Mercenary_Slasher.labelFemale><!-- EN: mercenario asesino -->
+  <Mercenary_Slasher.labelMale>मर्सेनैरियो असैसिनो</Mercenary_Slasher.labelMale><!-- EN: mercenarios asesinos -->
+  <Mercenary_Slasher.labelPlural>मर्सेनरियो असैसिनो</Mercenary_Slasher.labelPlural>
+  
+  <!-- EN: mercenary slasher --><!-- EN: mercenario asesino -->
+  <Mercenary_Slasher_Acidifier.label>मर्सेनैरियो हत्यारा</Mercenary_Slasher_Acidifier.label><!-- EN: mercenaria asesina -->
+  <Mercenary_Slasher_Acidifier.labelFemale>मर्सेनेरिया हत्यारी</Mercenary_Slasher_Acidifier.labelFemale><!-- EN: mercenario asesino -->
+  <Mercenary_Slasher_Acidifier.labelMale>मर्सेनैरियो असैसिनो</Mercenary_Slasher_Acidifier.labelMale><!-- EN: mercenarios asesinos -->
+  <Mercenary_Slasher_Acidifier.labelPlural>मर्सेनरियो असैसिनो</Mercenary_Slasher_Acidifier.labelPlural>
+  
+  <!-- EN: mercenary sniper --><!-- EN: mercenario francotirador -->
+  <Mercenary_Sniper.label>मर्सेनैरियो फ्रैंकटायरर</Mercenary_Sniper.label><!-- EN: mercenaria francotiradora -->
+  <Mercenary_Sniper.labelFemale>मर्सेनेरिया शार्पशूटर</Mercenary_Sniper.labelFemale><!-- EN: mercenario francotirador -->
+  <Mercenary_Sniper.labelMale>मर्सेनैरियो फ्रैंकोटिरडोर</Mercenary_Sniper.labelMale><!-- EN: mercenarios francotiradores -->
+  <Mercenary_Sniper.labelPlural>मर्सेनारियो स्नाइपर</Mercenary_Sniper.labelPlural>
+  
+  <!-- EN: mercenary sniper --><!-- EN: mercenario francotirador -->
+  <Mercenary_Sniper_Acidifier.label>मर्सेनैरियो फ्रांकोटिरदोर</Mercenary_Sniper_Acidifier.label><!-- EN: mercenaria francotiradora -->
+  <Mercenary_Sniper_Acidifier.labelFemale>मर्सेनेरिया शार्पशूटर</Mercenary_Sniper_Acidifier.labelFemale><!-- EN: mercenario francotirador -->
+  <Mercenary_Sniper_Acidifier.labelMale>मर्सेनैरियो फ्रैंकोटिरडोर</Mercenary_Sniper_Acidifier.labelMale><!-- EN: mercenarios francotiradores -->
+  <Mercenary_Sniper_Acidifier.labelPlural>मर्सेनरियो स्नाइपर</Mercenary_Sniper_Acidifier.labelPlural>
+  
+  <!-- EN: boss --><!-- EN: jefe -->
+  <PirateBoss.label>प्रमुख</PirateBoss.label><!-- EN: jefa -->
+  <PirateBoss.labelFemale>प्रमुख महिला</PirateBoss.labelFemale>
+  <!-- EN: bosses --><!-- EN: jefes -->
+  <PirateBoss.labelPlural>जेफ़ेस</PirateBoss.labelPlural>
+  
+</LanguageData>

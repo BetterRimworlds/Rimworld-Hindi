@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: observed corpse -->
+  <ObservedLayingCorpse.label>देखा शव</ObservedLayingCorpse.label>
+  
+  <!-- EN: observed rotten corpse -->
+  <ObservedLayingRottingCorpse.label>सड़ा हुआ शव</ObservedLayingRottingCorpse.label>
+  
+</LanguageData>

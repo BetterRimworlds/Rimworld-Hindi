@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken --><!-- EN: pollo -->
+  <Chicken.label>पोलो</Chicken.label>
+  <!-- EN: hen --><!-- EN: gallina -->
+  <Chicken.labelFemale>मुर्गी</Chicken.labelFemale>
+  <!-- EN: rooster --><!-- EN: gallo -->
+  <Chicken.labelMale>रोस्टर</Chicken.labelMale><!-- EN: pollos -->
+  <Chicken.labelPlural>पोलोस</Chicken.labelPlural>
+  <!-- EN: chick --><!-- EN: polluelo -->
+  <Chicken.lifeStages.chick.label>पिल्ला</Chicken.lifeStages.chick.label><!-- EN: polla -->
+  <Chicken.lifeStages.cockerel.labelFemale>पोला</Chicken.lifeStages.cockerel.labelFemale>
+  <!-- EN: cockerel --><!-- EN: pollo -->
+  <Chicken.lifeStages.cockerel.labelMale>पोलो</Chicken.lifeStages.cockerel.labelMale><!-- EN: gallina -->
+  <Chicken.lifeStages.2.labelFemale>मुर्गी</Chicken.lifeStages.2.labelFemale><!-- EN: gallo -->
+  <Chicken.lifeStages.2.labelMale>रोस्टर</Chicken.lifeStages.2.labelMale>
+  
+  <!-- EN: duck --><!-- EN: pato -->
+  <Duck.label>पाटो</Duck.label><!-- EN: pata -->
+  <Duck.labelFemale>पठा</Duck.labelFemale><!-- EN: patas -->
+  <Duck.labelFemalePlural>पैटस</Duck.labelFemalePlural><!-- EN: pato -->
+  <Duck.labelMale>पाटो</Duck.labelMale><!-- EN: patos -->
+  <Duck.labelMalePlural>पातोस</Duck.labelMalePlural><!-- EN: patos -->
+  <Duck.labelPlural>पातोस</Duck.labelPlural>
+  <!-- EN: duckling --><!-- EN: polluelo de pato -->
+  <Duck.lifeStages.duckling.label>बतख का चूज़ा</Duck.lifeStages.duckling.label><!-- EN: polluela de pato -->
+  <Duck.lifeStages.duckling.labelFemale>बतख का चूज़ा</Duck.lifeStages.duckling.labelFemale><!-- EN: polluelas de pato -->
+  <Duck.lifeStages.duckling.labelFemalePlural>बतख के चूजे</Duck.lifeStages.duckling.labelFemalePlural><!-- EN: polluelo de pato -->
+  <Duck.lifeStages.duckling.labelMale>बतख का चूज़ा</Duck.lifeStages.duckling.labelMale><!-- EN: polluelos de pato -->
+  <Duck.lifeStages.duckling.labelMalePlural>बतख के चूजे</Duck.lifeStages.duckling.labelMalePlural><!-- EN: polluelos de pato -->
+  <Duck.lifeStages.duckling.labelPlural>बतख के चूजे</Duck.lifeStages.duckling.labelPlural><!-- EN: pato joven -->
+  <Duck.lifeStages.1.label>युवा पाटो</Duck.lifeStages.1.label><!-- EN: pata joven -->
+  <Duck.lifeStages.1.labelFemale>युवा पैटा</Duck.lifeStages.1.labelFemale><!-- EN: patas jóvenes -->
+  <Duck.lifeStages.1.labelFemalePlural>पाटास युवा</Duck.lifeStages.1.labelFemalePlural><!-- EN: pato joven -->
+  <Duck.lifeStages.1.labelMale>युवा पाटो</Duck.lifeStages.1.labelMale><!-- EN: patos jóvenes -->
+  <Duck.lifeStages.1.labelMalePlural>युवा पातोस</Duck.lifeStages.1.labelMalePlural><!-- EN: patos jóvenes -->
+  <Duck.lifeStages.1.labelPlural>युवा पातोस</Duck.lifeStages.1.labelPlural><!-- EN: pato -->
+  <Duck.lifeStages.2.label>पाटो</Duck.lifeStages.2.label><!-- EN: pata -->
+  <Duck.lifeStages.2.labelFemale>पता</Duck.lifeStages.2.labelFemale><!-- EN: pato -->
+  <Duck.lifeStages.2.labelFemalePlural>बत्तख</Duck.lifeStages.2.labelFemalePlural><!-- EN: pato -->
+  <Duck.lifeStages.2.labelMale>पाटो</Duck.lifeStages.2.labelMale><!-- EN: patos -->
+  <Duck.lifeStages.2.labelMalePlural>पातोस</Duck.lifeStages.2.labelMalePlural><!-- EN: patos -->
+  <Duck.lifeStages.2.labelPlural>पातोस</Duck.lifeStages.2.labelPlural>
+  
+  <!-- EN: goose --><!-- EN: ganso -->
+  <Goose.label>गैंसो</Goose.label><!-- EN: gansa -->
+  <Goose.labelFemale>गंसा</Goose.labelFemale>
+  <!-- EN: geese --><!-- EN: gansos -->
+  <Goose.labelPlural>गंसोस</Goose.labelPlural><!-- EN: cría de ganso -->
+  <Goose.lifeStages.0.label>गूस का बच्चा</Goose.lifeStages.0.label><!-- EN: cría de gansa -->
+  <Goose.lifeStages.0.labelFemale>गूस का बच्चा</Goose.lifeStages.0.labelFemale><!-- EN: crías de gansa -->
+  <Goose.lifeStages.0.labelFemalePlural>हंस की मादा चूज़ें</Goose.lifeStages.0.labelFemalePlural><!-- EN: crías de ganso -->
+  <Goose.lifeStages.0.labelPlural>गूस के चूजे</Goose.lifeStages.0.labelPlural><!-- EN: ganso joven -->
+  <Goose.lifeStages.1.label>गैंसो युवा</Goose.lifeStages.1.label><!-- EN: gansa joven -->
+  <Goose.lifeStages.1.labelFemale>गंसा युवा</Goose.lifeStages.1.labelFemale><!-- EN: gansas jóvenes -->
+  <Goose.lifeStages.1.labelFemalePlural>गंसस युवाएँ</Goose.lifeStages.1.labelFemalePlural><!-- EN: ganso joven -->
+  <Goose.lifeStages.1.labelMale>गैंसो युवा</Goose.lifeStages.1.labelMale><!-- EN: gansos jóvenes -->
+  <Goose.lifeStages.1.labelMalePlural>गंसोस यवांग</Goose.lifeStages.1.labelMalePlural><!-- EN: gansos jóvenes -->
+  <Goose.lifeStages.1.labelPlural>गंसोस युवा</Goose.lifeStages.1.labelPlural><!-- EN: ganso -->
+  <Goose.lifeStages.2.label>गैंसो</Goose.lifeStages.2.label><!-- EN: gansa -->
+  <Goose.lifeStages.2.labelFemale>गंसा</Goose.lifeStages.2.labelFemale><!-- EN: gansas -->
+  <Goose.lifeStages.2.labelFemalePlural>गंसस</Goose.lifeStages.2.labelFemalePlural><!-- EN: ganso -->
+  <Goose.lifeStages.2.labelMale>गैंसो</Goose.lifeStages.2.labelMale><!-- EN: gansos -->
+  <Goose.lifeStages.2.labelMalePlural>गैंसोस</Goose.lifeStages.2.labelMalePlural><!-- EN: gansos -->
+  <Goose.lifeStages.2.labelPlural>गंसोस</Goose.lifeStages.2.labelPlural>
+  
+  <!-- EN: turkey --><!-- EN: pavo -->
+  <Turkey.label>पावो</Turkey.label><!-- EN: pava -->
+  <Turkey.labelFemale>पावा</Turkey.labelFemale><!-- EN: pavas -->
+  <Turkey.labelFemalePlural>पावास</Turkey.labelFemalePlural><!-- EN: pavo -->
+  <Turkey.labelMale>पावो</Turkey.labelMale><!-- EN: pavos -->
+  <Turkey.labelMalePlural>पावोस</Turkey.labelMalePlural><!-- EN: pavos -->
+  <Turkey.labelPlural>पावोस</Turkey.labelPlural><!-- EN: cría de pavo -->
+  <Turkey.lifeStages.0.label>टर्की का चूज़ा</Turkey.lifeStages.0.label><!-- EN: cría de pava -->
+  <Turkey.lifeStages.0.labelFemale>पवा की चूज़ा</Turkey.lifeStages.0.labelFemale><!-- EN: crías de pava -->
+  <Turkey.lifeStages.0.labelFemalePlural>पवा चूज़े</Turkey.lifeStages.0.labelFemalePlural><!-- EN: crías de pavo -->
+  <Turkey.lifeStages.0.labelPlural>टर्की के चूजे</Turkey.lifeStages.0.labelPlural><!-- EN: pollipavo -->
+  <Turkey.lifeStages.1.label>पोलिपावो</Turkey.lifeStages.1.label><!-- EN: pollipava -->
+  <Turkey.lifeStages.1.labelFemale>पोलिपावा</Turkey.lifeStages.1.labelFemale><!-- EN: pollipavas -->
+  <Turkey.lifeStages.1.labelFemalePlural>पोलिपवावस</Turkey.lifeStages.1.labelFemalePlural><!-- EN: pollipavo -->
+  <Turkey.lifeStages.1.labelMale>पोलिपावो</Turkey.lifeStages.1.labelMale><!-- EN: pollipavos -->
+  <Turkey.lifeStages.1.labelMalePlural>पोलिपावोस</Turkey.lifeStages.1.labelMalePlural><!-- EN: pollipavos -->
+  <Turkey.lifeStages.1.labelPlural>पोलिपावोस</Turkey.lifeStages.1.labelPlural><!-- EN: pavo -->
+  <Turkey.lifeStages.2.label>पावो</Turkey.lifeStages.2.label><!-- EN: pava -->
+  <Turkey.lifeStages.2.labelFemale>पावा</Turkey.lifeStages.2.labelFemale><!-- EN: pavas -->
+  <Turkey.lifeStages.2.labelFemalePlural>पावास</Turkey.lifeStages.2.labelFemalePlural><!-- EN: pavo -->
+  <Turkey.lifeStages.2.labelMale>पावो</Turkey.lifeStages.2.labelMale><!-- EN: pavos -->
+  <Turkey.lifeStages.2.labelMalePlural>पावोस</Turkey.lifeStages.2.labelMalePlural><!-- EN: pavos -->
+  <Turkey.lifeStages.2.labelPlural>पावोस</Turkey.lifeStages.2.labelPlural>
+  
+</LanguageData>

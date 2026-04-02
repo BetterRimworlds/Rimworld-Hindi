@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: human -->
+  <Human.label>मानव</Human.label>
+  <!-- EN: left lung -->
+  <Human.corePart.parts.left_lung.customLabel>बायां फेफड़ा</Human.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Human.corePart.parts.right_lung.customLabel>दाहिना फेफड़ा</Human.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Human.corePart.parts.left_kidney.customLabel>बायां गुर्दा</Human.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Human.corePart.parts.right_kidney.customLabel>दाहिना गुर्दा</Human.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>बायां नेत्र</Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>दाहिना नेत्र</Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>बायां कान</Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>दाहिना कान</Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <Human.corePart.parts.left_shoulder.customLabel>बायां कंधा</Human.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left clavicle -->
+  <Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>बायाँ हंसुली</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <!-- EN: left arm -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>बायां हाथ</Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>बायां ह्यूमरस</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>बायाँ त्रिज्या</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>बायां हाथ</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>बायां अंगूठा</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>बायां अंगूठा</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>बायां मध्य उंगली</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>बायां तर्जनी अंगूठा</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>बायां अंगूठा</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Human.corePart.parts.right_shoulder.customLabel>दाहिना कंधा</Human.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right clavicle -->
+  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>दाहिना हंसुली</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <!-- EN: right arm -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>दाहिना हाथ</Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>दाहिना ह्यूमरस</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>दाहिना त्रिज्या</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>दाहिना हाथ</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>गुलाबी छोटी उंगली</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>दाहिना अंगूठा</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>मध्यमा उंगली</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>दाहिना तर्जनी अंगुली</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>दाहिना अंगूठा</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Human.corePart.parts.left_leg.customLabel>बायां पैर</Human.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <Human.corePart.parts.left_leg.parts.left_femur.customLabel>बायां फीमर</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>बायां टिबिया</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <Human.corePart.parts.left_leg.parts.left_foot.customLabel>बायां पैर</Human.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>बायां छोटा पैर का अंगूठा</Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>बायां चौथा पैर उंगली</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>बायां मध्य पैर की उंगली</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>बायां दूसरा पैर का अंगूठा</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>बायां बड़ा अंगूठा</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <Human.corePart.parts.right_leg.customLabel>दाहिना पैर</Human.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <Human.corePart.parts.right_leg.parts.right_femur.customLabel>दाहिना फीमर</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>दाहिना टिबिया</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <Human.corePart.parts.right_leg.parts.right_foot.customLabel>दायां पैर</Human.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>दाहिना पैर का अंगूठा</Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>दाहिना चौथा पैर की उंगली</Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>मध्य पैर का अंगूठा</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>दाहिना दूसरा पैर की उंगली</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>दाहिना बड़ा अंगूठा</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
+</LanguageData>

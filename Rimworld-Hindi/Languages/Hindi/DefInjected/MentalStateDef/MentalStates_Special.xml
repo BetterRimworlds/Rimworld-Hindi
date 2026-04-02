@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aggression judgement scramble -->
+  <BerserkMechanoid.label>क्रोध निर्णय गड़बड़ी</BerserkMechanoid.label>
+  <!-- EN: Aggression judgment scrambled -->
+  <BerserkMechanoid.baseInspectLine>क्रोध आकलन बिगाड़</BerserkMechanoid.baseInspectLine>
+  
+  <!-- EN: cocoon disturbed -->
+  <CocoonDisturbed.label>कोकून बाधित</CocoonDisturbed.label>
+  <!-- EN: Enraged: Cocoon disturbed -->
+  <CocoonDisturbed.baseInspectLine>क्रोधित: कोकून बाधित</CocoonDisturbed.baseInspectLine>
+  
+  <!-- EN: manhunter -->
+  <Manhunter.label>शिकारी</Manhunter.label>
+  <!-- EN: Maddened: Manhunter -->
+  <Manhunter.baseInspectLine>उन्मादी: शिकारी</Manhunter.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <Manhunter.beginLetter>{0} एक शिकारी बन गया!</Manhunter.beginLetter><!-- EN: {0} has become a manhunter! -->
+  <Manhunter.beginLetterLabel>{0} शिकारी बन गया!</Manhunter.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <Manhunter.recoveryMessage>{0} की रक्तपिपासु शिकार करने की इच्छा समाप्त हो गई है।</Manhunter.recoveryMessage>
+  
+  <!-- EN: manhunter -->
+  <ManhunterPermanent.label>शिकारी</ManhunterPermanent.label>
+  <!-- EN: Maddened: Manhunter -->
+  <ManhunterPermanent.baseInspectLine>उन्मादी: शिकारी</ManhunterPermanent.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <ManhunterPermanent.beginLetter>{0} एक शिकारी बन गया!</ManhunterPermanent.beginLetter><!-- EN: {0} has become a manhunter! -->
+  <ManhunterPermanent.beginLetterLabel>{0} शिकारी बन गया!</ManhunterPermanent.beginLetterLabel>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <ManhunterPermanent.recoveryMessage>{0} की रक्तपिपासु शिकार करने की इच्छा समाप्त हो गई है।</ManhunterPermanent.recoveryMessage>
+  
+  <!-- EN: panic fleeing -->
+  <PanicFlee.label>भगदड़</PanicFlee.label>
+  <!-- EN: Mental state: Fleeing in panic -->
+  <PanicFlee.baseInspectLine>मानसिक अवस्था: घबराहट में भागना</PanicFlee.baseInspectLine>
+  <!-- EN: {0} is fleeing in panic. -->
+  <PanicFlee.beginLetter>{0} डर के मारे भाग रहा/रही है।</PanicFlee.beginLetter>
+  <!-- EN: flee -->
+  <PanicFlee.beginLetterLabel>भागना</PanicFlee.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing in panic. -->
+  <PanicFlee.recoveryMessage>{0} अब दहशत में भागना बंद कर दिया है।</PanicFlee.recoveryMessage>
+  
+  <!-- EN: roaming -->
+  <Roaming.label>घूमना</Roaming.label>
+  <!-- EN: Mental state: Roaming -->
+  <Roaming.baseInspectLine>घूमना</Roaming.baseInspectLine>
+  
+  <!-- EN: social fighting -->
+  <SocialFighting.label>सामाजिक झगड़ा</SocialFighting.label>
+  <!-- EN: Mental state: Social fighting -->
+  <SocialFighting.baseInspectLine>मानसिक स्थिति: सामाजिक झगड़ा</SocialFighting.baseInspectLine>
+  
+  <!-- EN: confused wandering -->
+  <WanderConfused.label>भटकाव</WanderConfused.label>
+  <!-- EN: Mental state: Confused and wandering -->
+  <WanderConfused.baseInspectLine>मानसिक अवस्था: भ्रमित और भटकना</WanderConfused.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around confused. -->
+  <WanderConfused.beginLetter>{0} टूट गया है और भ्रमित होकर इधर-उधर घूम रहा है।</WanderConfused.beginLetter>
+  <!-- EN: confusion -->
+  <WanderConfused.beginLetterLabel>भ्रम</WanderConfused.beginLetterLabel>
+  <!-- EN: {0} is no longer confused. -->
+  <WanderConfused.recoveryMessage>{0} अब भ्रमित नहीं है।</WanderConfused.recoveryMessage>
+  
+</LanguageData>

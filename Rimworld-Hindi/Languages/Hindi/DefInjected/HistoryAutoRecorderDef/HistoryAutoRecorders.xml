@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recovery -->
+  <Adaptation.label>पुनर्प्राप्ति</Adaptation.label>
+  <!-- EN: {0} days -->
+  <Adaptation.valueFormat>{0} दिन</Adaptation.valueFormat>
+  
+  <!-- EN: mood -->
+  <ColonistMood.label>मनोदशा</ColonistMood.label>
+  
+  <!-- EN: free colonists -->
+  <FreeColonists.label>मुक्त उपनिवेशवादी</FreeColonists.label>
+  
+  <!-- EN: pop recovery -->
+  <PopAdaptation.label>जनसंख्या पुनर्प्राप्ति</PopAdaptation.label>
+  <!-- EN: {0} days -->
+  <PopAdaptation.valueFormat>{0} दिन</PopAdaptation.valueFormat>
+  
+  <!-- EN: pop intent x10 -->
+  <PopIntent.label>जनसंख्या इरादा x10</PopIntent.label>
+  <!-- EN: {0} days -->
+  <PopIntent.valueFormat>{0} दिन</PopIntent.valueFormat>
+  
+  <!-- EN: prisoners -->
+  <Prisoners.label>कैदी</Prisoners.label>
+  
+  <!-- EN: fun points /10 -->
+  <ThreatPoints.label>मज़ेदार अंक/10</ThreatPoints.label>
+  <!-- EN: {0} points -->
+  <ThreatPoints.valueFormat>{0} अंक</ThreatPoints.valueFormat>
+  
+  <!-- EN: wealth (buildings) -->
+  <Wealth_Buildings.label>संपत्ति (इमारतें)</Wealth_Buildings.label>
+  
+  <!-- EN: wealth (items) -->
+  <Wealth_Items.label>संपत्ति (वस्तुएँ)</Wealth_Items.label>
+  
+  <!-- EN: wealth (creatures) -->
+  <Wealth_Pawns.label>जीव-धन</Wealth_Pawns.label>
+  
+  <!-- EN: wealth (total) -->
+  <Wealth_Total.label>संपत्ति (कुल)</Wealth_Total.label>
+  
+</LanguageData>

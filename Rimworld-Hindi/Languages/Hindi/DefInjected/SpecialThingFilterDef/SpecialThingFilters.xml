@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: allow adult-only apparel -->
+  <AllowAdultOnlyApparel.label>वयस्क वस्त्र</AllowAdultOnlyApparel.label>
+  <!-- EN: Allow clothing that can only be worn by adults. -->
+  <AllowAdultOnlyApparel.description>केवल वयस्कों द्वारा पहने जा सकने वाले कपड़े अनुमति दें।</AllowAdultOnlyApparel.description>
+  
+  <!-- EN: allow biocoded apparel -->
+  <AllowBiocodedApparel.label>बायोकोडेड वस्त्र</AllowBiocodedApparel.label>
+  
+  <!-- EN: allow biocoded weapons -->
+  <AllowBiocodedWeapons.label>बायोकोडेड हथियार</AllowBiocodedWeapons.label>
+  
+  <!-- EN: animals -->
+  <AllowBookAnimals.label>पशु</AllowBookAnimals.label>
+  <!-- EN: Allow books which teach animal-related skills. -->
+  <AllowBookAnimals.description>जानवरों से संबंधित कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookAnimals.description>
+  
+  <!-- EN: artistic -->
+  <AllowBookArtistic.label>कलात्मक</AllowBookArtistic.label>
+  <!-- EN: Allow books which teach art skills. -->
+  <AllowBookArtistic.description>कला कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookArtistic.description>
+  
+  <!-- EN: construction -->
+  <AllowBookConstruction.label>निर्माण</AllowBookConstruction.label>
+  <!-- EN: Allow books which teach construction skills. -->
+  <AllowBookConstruction.description>निर्माण कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookConstruction.description>
+  
+  <!-- EN: cooking -->
+  <AllowBookCooking.label>खाना बनाना</AllowBookCooking.label>
+  <!-- EN: Allow books which teach cooking skills. -->
+  <AllowBookCooking.description>खाना पकाने के कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookCooking.description>
+  
+  <!-- EN: crafting -->
+  <AllowBookCrafting.label>बनाने का काम</AllowBookCrafting.label>
+  <!-- EN: Allow books which teach crafting skills. -->
+  <AllowBookCrafting.description>शिल्प कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookCrafting.description>
+  
+  <!-- EN: intellectual -->
+  <AllowBookIntellectual.label>बौद्धिक</AllowBookIntellectual.label>
+  <!-- EN: Allow books which teach intellectual skills. -->
+  <AllowBookIntellectual.description>बौद्धिक कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookIntellectual.description>
+  
+  <!-- EN: medical -->
+  <AllowBookMedicine.label>चिकित्सा</AllowBookMedicine.label>
+  <!-- EN: Allow books which teach medical skills. -->
+  <AllowBookMedicine.description>चिकित्सा कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookMedicine.description>
+  
+  <!-- EN: melee -->
+  <AllowBookMelee.label>नज़दीकी युद्ध</AllowBookMelee.label>
+  <!-- EN: Allow books which teach melee skills. -->
+  <AllowBookMelee.description>नज़दीकी युद्ध कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookMelee.description>
+  
+  <!-- EN: mining -->
+  <AllowBookMining.label>खनन</AllowBookMining.label>
+  <!-- EN: Allow books which teach mining skills. -->
+  <AllowBookMining.description>खदान कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookMining.description>
+  
+  <!-- EN: plants -->
+  <AllowBookPlants.label>पौधे</AllowBookPlants.label>
+  <!-- EN: Allow books which teach plant-related skills. -->
+  <AllowBookPlants.description>पौधों से संबंधित कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookPlants.description>
+  
+  <!-- EN: shooting -->
+  <AllowBookShooting.label>गोलीबारी</AllowBookShooting.label>
+  <!-- EN: Allow books which teach shooting skills. -->
+  <AllowBookShooting.description>शूटिंग कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookShooting.description>
+  
+  <!-- EN: social -->
+  <AllowBookSocial.label>सामाजिक</AllowBookSocial.label>
+  <!-- EN: Allow books which teach social skills. -->
+  <AllowBookSocial.description>सामाजिक कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookSocial.description>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableApparel.label>ज्वलनशील</AllowBurnableApparel.label>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableWeapons.label>ज्वलनशील</AllowBurnableWeapons.label>
+  
+  <!-- EN: allow child-only apparel -->
+  <AllowChildOnlyApparel.label>बालक वस्त्र</AllowChildOnlyApparel.label>
+  <!-- EN: Allow clothing that can only be worn by children. -->
+  <AllowChildOnlyApparel.description>बच्चों के लिए ही पहनने योग्य कपड़े अनुमति दें।</AllowChildOnlyApparel.description>
+  
+  <!-- EN: allow colonist corpses -->
+  <AllowCorpsesColonist.label>कॉलोनीस्ट लाशें अनुमति दें</AllowCorpsesColonist.label>
+  <!-- EN: Allow the dead bodies of colonists. -->
+  <AllowCorpsesColonist.description>कॉलोनिस्टों के मृत शरीरों की अनुमति दें।</AllowCorpsesColonist.description>
+  
+  <!-- EN: allow stranger corpses -->
+  <AllowCorpsesStranger.label>शव अनुमति</AllowCorpsesStranger.label>
+  <!-- EN: Allow the dead bodies of strangers and enemies. -->
+  <AllowCorpsesStranger.description>अजनबियों और दुश्मनों के मृत शरीरों की अनुमति दें।</AllowCorpsesStranger.description>
+  
+  <!-- EN: allow tainted apparel -->
+  <AllowDeadmansApparel.label>दूषित वस्त्र</AllowDeadmansApparel.label>
+  <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowDeadmansApparel.description>मृत शरीर पर पहने गए कपड़ों को पहनने की अनुमति दें। अधिकांश मनुष्य मृत शरीर से दूषित कपड़ों को परेशान करने वाला मानते हैं, और व्यापारी इसे स्वीकार नहीं करेंगे।</AllowDeadmansApparel.description>
+  
+  <!-- EN: allow females -->
+  <AllowFemaleGender.label>मादा अनुमति दें</AllowFemaleGender.label>
+  <!-- EN: Allow female individuals. -->
+  <AllowFemaleGender.description>उसका विवरण इस प्रकार है— वह एक कुशल उपनिवेशवादी है जो अपने अस्तित्व के लिए संघर्ष कर रही है… वह अपने साथियों की देखभाल करने और बस्ती को सुरक्षित रखने के लिए समर्पित है।</AllowFemaleGender.description>
+  
+  <!-- EN: allow fresh -->
+  <AllowFresh.label>ताज़ा अनुमति</AllowFresh.label>
+  <!-- EN: Allow organic things which haven't started to rot yet. -->
+  <AllowFresh.description>जैविक चीजें जो अभी तक सड़नी शुरू नहीं हुई हैं, अनुमति दें।</AllowFresh.description>
+  
+  <!-- EN: allow large corpses -->
+  <AllowLargeCorpses.label>बड़े शव</AllowLargeCorpses.label>
+  <!-- EN: Allow large, dead bodies. -->
+  <AllowLargeCorpses.description>बड़े, मृत शरीरों की अनुमति दें।</AllowLargeCorpses.description>
+  
+  <!-- EN: normal research -->
+  <AllowMainResearch.label>सामान्य अनुसंधान</AllowMainResearch.label>
+  <!-- EN: Allow books which advance research of normal research projects. -->
+  <AllowMainResearch.description>सामान्य अनुसंधान परियोजनाओं की प्रगति के लिए पुस्तकें अनुमति देती हैं।</AllowMainResearch.description>
+  
+  <!-- EN: allow males -->
+  <AllowMaleGender.label>पुरुषों की अनुमति</AllowMaleGender.label>
+  <!-- EN: Allow male individuals. -->
+  <AllowMaleGender.description>पुरुषों को अनुमति दें।</AllowMaleGender.description>
+  
+  <!-- EN: allow non-biocoded apparel -->
+  <AllowNonBiocodedApparel.label>गैर-बायोकोडेड वस्त्र</AllowNonBiocodedApparel.label>
+  
+  <!-- EN: allow non-biocoded weapons -->
+  <AllowNonBiocodedWeapons.label>गैर-बायोकोडेड हथियार</AllowNonBiocodedWeapons.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableApparel.label>अगैरज्वलनशील</AllowNonBurnableApparel.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableWeapons.label>अगैर ज्वलनशील</AllowNonBurnableWeapons.label>
+  
+  <!-- EN: allow clean apparel -->
+  <AllowNonDeadmansApparel.label>साफ वस्त्र</AllowNonDeadmansApparel.label>
+  <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowNonDeadmansApparel.description>लाश द्वारा कभी न पहने गए कपड़ों की अनुमति दें। अधिकांश मनुष्य लाश से दूषित कपड़ों को परेशान करने वाला मानते हैं, और व्यापारी इसे स्वीकार नहीं करेंगे।</AllowNonDeadmansApparel.description>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableApparel.label>गैर-पिघलने योग्य</AllowNonSmeltableApparel.label>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableWeapons.label>गैर-पिघलने योग्य</AllowNonSmeltableWeapons.label>
+  
+  <!-- EN: allow plant food -->
+  <AllowPlantFood.label>पौधों का भोजन</AllowPlantFood.label>
+  <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
+  <AllowPlantFood.description>अनुमति दें उन खाद्य पदार्थों को जो बिना काटे पौधों के समान गुणवत्ता वाले हैं, जैसे कि घास।</AllowPlantFood.description>
+  
+  <!-- EN: allow rotten -->
+  <AllowRotten.label>सड़न की अनुमति</AllowRotten.label>
+  <!-- EN: Allow organic things which have started to rot. -->
+  <AllowRotten.description>सड़ने शुरू हुई जैविक वस्तुओं की अनुमति दें।</AllowRotten.description>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltable.label>पिघलाने योग्य</AllowSmeltable.label>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltableApparel.label>पिघलाने योग्य</AllowSmeltableApparel.label>
+  
+  <!-- EN: allow unfinished -->
+  <AllowUnfinished.label>अधूरा</AllowUnfinished.label>
+  <!-- EN: Allow unfinished items. -->
+  <AllowUnfinished.description>अधूरी वस्तुओं की अनुमति दें।</AllowUnfinished.description>
+  
+</LanguageData>

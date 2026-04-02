@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: breach axe -->
+  <MeleeWeapon_BreachAxe.label>छेदन कुल्हाड़ी</MeleeWeapon_BreachAxe.label>
+  <!-- EN: A combined blade and tool-head attached to a sturdy haft. While slightly less effective than other weapons against human enemies, it excels at tearing down walls, doors, and other structures thanks to its integrated tool-head. -->
+  <MeleeWeapon_BreachAxe.description>एक मज़बूत दस्ता से जुड़ा हुआ ब्लेड और टूल-हेड का संयोजन। मानवीय दुश्मनों के ख़िलाफ़ अन्य हथियारों की तुलना में थोड़ा कम प्रभावी होने के बावजूद, यह एकीकृत टूल-हेड के कारण दीवारों, दरवाज़ों और अन्य संरचनाओं को तोड़ने में उत्कृष्ट है।</MeleeWeapon_BreachAxe.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_BreachAxe.tools.handle.label>संभालना</MeleeWeapon_BreachAxe.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_BreachAxe.tools.head.label>सिर</MeleeWeapon_BreachAxe.tools.head.label>
+  
+</LanguageData>

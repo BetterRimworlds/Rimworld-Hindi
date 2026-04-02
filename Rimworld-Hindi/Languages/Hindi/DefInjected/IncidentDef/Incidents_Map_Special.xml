@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wanderers join -->
+  <GameEndedWanderersJoin.label>आवारा शामिल हों</GameEndedWanderersJoin.label>
+  <!-- EN: Wanderers join -->
+  <GameEndedWanderersJoin.letterLabel>घुमंतू शामिल हों</GameEndedWanderersJoin.letterLabel>
+  <!-- EN: A few wanderers have stumbled across the remains of the colony and decided to stay.\n\nPerhaps they will be able to continue its story. -->
+  <GameEndedWanderersJoin.letterText>कुछ घुमंतू उपनिवेश के अवशेषों पर ठोकर खा गए हैं और रुकने का फैसला किया है।\n\nशायद वे इसकी कहानी जारी रख पाएंगे।</GameEndedWanderersJoin.letterText>
+  
+  <!-- EN: orbital trader arrival -->
+  <OrbitalTraderArrival.label>कक्षीय व्यापारी आगमन</OrbitalTraderArrival.label>
+  
+  <!-- EN: friendly raid -->
+  <RaidFriendly.label>दोस्ताना छापा</RaidFriendly.label>
+  
+  <!-- EN: ship chunk drop -->
+  <ShipChunkDrop.label>जहाज़ खंड गिरावट</ShipChunkDrop.label>
+  
+  <!-- EN: man in black -->
+  <StrangerInBlackJoin.label>काला आदमी</StrangerInBlackJoin.label>
+  <!-- EN: Man in black -->
+  <StrangerInBlackJoin.letterLabel>काला आदमी</StrangerInBlackJoin.letterLabel>
+  <!-- EN: Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts? -->
+  <StrangerInBlackJoin.letterText>{PAWN_gender ? संकट महसूस करते हुए, एक रहस्यमय [PAWN_kind] यहाँ आ गई है।\n\nक्या वह इन भागों में सब कुछ ठीक कर पाएगी? : संकट महसूस करते हुए, एक रहस्यमय [PAWN_kind] आ गया है।\n\nक्या वह इन भागों में सब कुछ ठीक कर पाएगा?}</StrangerInBlackJoin.letterText>
+  
+  <!-- EN: trader caravan arrival -->
+  <TraderCaravanArrival.label>व्यापारी कारवाँ आगमन</TraderCaravanArrival.label>
+  
+  <!-- EN: traveler group -->
+  <TravelerGroup.label>यात्री समूह</TravelerGroup.label>
+  
+  <!-- EN: visitor group -->
+  <VisitorGroup.label>विज़िटर समूह</VisitorGroup.label>
+  
+</LanguageData>

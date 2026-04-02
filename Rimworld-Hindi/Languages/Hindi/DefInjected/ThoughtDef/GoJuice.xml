@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high on go-juice -->
+  <GoJuiceHigh.stages.high_on_gojuice.label>गो-जूस पर उच्च</GoJuiceHigh.stages.high_on_gojuice.label>
+  <!-- EN: I feel pumped but steady. I am the bullet in flight, ready to cut through you. -->
+  <GoJuiceHigh.stages.high_on_gojuice.description>मैं उत्साहित लेकिन स्थिर महसूस करता/करती हूँ। मैं उड़ान में गोली हूँ, तुम्हें काटने के लिए तैयार।</GoJuiceHigh.stages.high_on_gojuice.description>
+  
+  <!-- EN: go-juice withdrawal -->
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>गो-जूस वापसी</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
+  <!-- EN: I'm all fuzzy and can't think straight. My limbs feel heavy, I'm tired and hungry, everything hurts. And why won't my eyes focus properly? -->
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>मैं सुन्न महसूस कर रहा हूँ और सीधे नहीं सोच पा रहा हूँ। मेरे अंग भारी लग रहे हैं, मैं थका हुआ और भूखा हूँ, सब कुछ दर्द कर रहा है। और मेरी आँखें ठीक से क्यों फोकस नहीं कर रही हैं?</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
+  
+</LanguageData>

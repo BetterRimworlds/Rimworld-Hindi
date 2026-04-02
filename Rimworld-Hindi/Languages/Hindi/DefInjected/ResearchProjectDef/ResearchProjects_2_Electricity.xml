@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: air conditioning -->
+  <AirConditioning.label>एयर कंडीशनिंग</AirConditioning.label>
+  <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
+  <AirConditioning.description>गर्म मौसम में लोगों को आरामदायक बनाने के लिए कूलर बनाएं, या खराब होने वाले सामान को स्टोर करने के लिए फ्रीजर बनाएं।</AirConditioning.description>
+  <!-- EN:
+    <li>subject->air conditioning</li>
+    <li>subject_story->visited the hottest town on the planet</li>
+    <li>subject_story->worked at the ice caps, in an interstellar warehouse kept near to absolute zero</li>
+    <li>subject_story->learned all about air conditioning and freezers, then returned home</li>
+    <li>subject_gerund->building air conditioning units</li>
+  -->
+  <AirConditioning.generalRules.rulesStrings>
+    <li>subject->एयर कंडीशनिंग</li>
+    <li>subject_def->एयर कंडीशनर से</li>
+    <li>subject_story->ग्रह पर सबसे गर्म शहर का दौरा किया</li>
+    <li>subject_story->उसने ध्रुवीय बर्फ की चोटियों पर काम किया, एक अंतरतारकीय गोदाम में जिसे पूर्ण शून्य के करीब रखा गया था।</li>
+    <li>subject_story->उसने एयर कंडीशनिंग और फ्रीजर के बारे में सब कुछ सीखा, फिर घर लौट आया।</li>
+    <li>subject_gerund->एयर कंडीशनिंग इकाइयाँ बनाना</li>
+  </AirConditioning.generalRules.rulesStrings>
+
+  <!-- EN: autodoor -->
+  <Autodoors.label>स्वचालित द्वार</Autodoors.label>
+  <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
+  <Autodoors.description>स्वचालित दरवाजे बनाएँ जो किसी के पास आने पर अपने आप खुल जाएँ, बिना किसी को धीमा किए।</Autodoors.description>
+  <!-- EN:
+    <li>subject->autodoors</li>
+    <li>subject->automatic doors</li>
+    <li>subject_story->was recruited by a robotics security firm, opening the door to a career as an automation tester</li>
+    <li>subject_story->prototyped unique models of autodoors</li>
+    <li>subject_story->worked very hard to ensure the doors made a satisfying 'hiss' when they opened or closed</li>
+    <li>subject_gerund->constructing autodoors</li>
+  -->
+  <Autodoors.generalRules.rulesStrings>
+    <li>subject->स्वचालित दरवाजे</li>
+    <li>subject_def->स्वचालित दरवाजों से</li>
+    <li>subject_story->उसे एक रोबोटिक सुरक्षा कंपनी द्वारा भर्ती किया गया था, जिसने ऑटोमेशन परीक्षक के रूप में करियर का रास्ता खोल दिया।</li>
+    <li>subject_story->स्वचालित दरवाजों के अद्वितीय मॉडल का प्रोटोटाइप बनाया।</li>
+    <li>subject_story->उसने यह सुनिश्चित करने के लिए बहुत मेहनत की कि दरवाज़े खुलने या बंद होने पर एक संतोषजनक "सिस" की आवाज़ करें।</li>
+    <li>subject_gerund->स्वचालित दरवाजे बनाना</li>
+  </Autodoors.generalRules.rulesStrings>
+
+  <!-- EN: battery -->
+  <Batteries.label>बैटरीज़</Batteries.label>
+  <!-- EN: Build batteries for storing electricity. -->
+  <Batteries.description>बिजली संग्रहीत करने के लिए बैटरी बनाएँ।</Batteries.description>
+  <!-- EN:
+    <li>subject->batteries</li>
+    <li>subject_story->discovered that an acid lake on the leaden shores of a deathworld worked as a natural battery</li>
+    <li>subject_story->was in charge of maintaining the life support if the colony lost power</li>
+    <li>subject_story->worked in the scrapworlds, repairing machines and batteries</li>
+    <li>subject_gerund->building batteries</li>
+  -->
+  <Batteries.generalRules.rulesStrings>
+    <li>subject->बैटरीज़</li>
+    <li>subject_def->बैटरीज़ से</li>
+    <li>subject_story->उसे पता चला कि एक मृत दुनिया के सीसे के किनारों पर एक अम्लीय झील एक प्राकृतिक बैटरी के रूप में काम कर रही थी।</li>
+    <li>subject_story->यदि कॉलोनी में बिजली चली जाती तो वह जीवन समर्थन बनाए रखने का प्रभारी था।</li>
+    <li>subject_story->उसने कबाड़ दुनिया में काम किया, मशीनें और बैटरियाँ ठीक कीं।</li>
+    <li>subject_gerund->बैटरी बनाना</li>
+  </Batteries.generalRules.rulesStrings>
+
+  <!-- EN: biofuel refining -->
+  <BiofuelRefining.label>बायोईंधन शोधनशालाएँ</BiofuelRefining.label>
+  <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
+  <BiofuelRefining.description>बायोईंधन बनाने के लिए रिफाइनरी का निर्माण करें, जैसे कि लकड़ी या खाद्य पदार्थों से जैविक पदार्थ।</BiofuelRefining.description>
+  <!-- EN:
+    <li>subject->biofuel</li>
+    <li>subject_story->was trapped when a generation ship lost power. [ANYPAWN_pronoun] used [ANYPAWN_possessive] knowledge of refining to turn human remains into biofuel and restart the engines</li>
+    <li>subject_story->used automated biorefineries to begin the long terraforming process on an iceworld</li>
+    <li>subject_story->started a distillery to make moonshine but, realizing it was undrinkable, sold it as chemfuel instead</li>
+    <li>subject_gerund->refining biofuel</li>
+  -->
+  <BiofuelRefining.generalRules.rulesStrings>
+    <li>subject->बायो ईंधन</li>
+    <li>subject_def->बायोईंधन का</li>
+    <li>subject_story->फँस गया{PAWN_gender ? o : a} जब एक पीढ़ीगत यान ने ऊर्जा खो दी। उसने अपनी शोधन की जानकारी का उपयोग मानव अवशेषों को जैव ईंधन में बदलने और इंजन को पुनः आरंभ करने के लिए किया</li>
+    <li>subject_story->उसने एक बर्फीली दुनिया के स्थलाकृति परिवर्तन की लंबी प्रक्रिया शुरू करने के लिए स्वचालित बायो-रिफाइनरियों का उपयोग किया।</li>
+    <li>subject_story->उसने घर में शराब बनाने के लिए एक आसवनशाला शुरू की, लेकिन यह महसूस करने पर कि यह पीने योग्य नहीं है, उसने इसे रासायनिक ईंधन के रूप में बेच दिया।</li>
+    <li>subject_gerund->बायोईंधन को परिष्कृत करना</li>
+  </BiofuelRefining.generalRules.rulesStrings>
+
+  <!-- EN: blowback operation -->
+  <BlowbackOperation.label>रिफ्लक्स क्रियाविधि</BlowbackOperation.label>
+  <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
+  <BlowbackOperation.description>सरल सेमी-ऑटोमैटिक और ऑटोमैटिक हथियार, जैसे ऑटोपिस्टल और मशीनगन बनाएं।</BlowbackOperation.description>
+  <!-- EN:
+    <li>subject->pistols</li>
+    <li>subject->blowback firearms</li>
+    <li>subject_story->utilized machine pistols in the trench fighting that overtook the planet</li>
+    <li>subject_story->sold low-powered autopistols to law enforcement in the orbitals</li>
+    <li>subject_story->crafted blowback-operated guns for near-sighted conscripts</li>
+    <li>subject_gerund->crafting blowback firearms</li>
+  -->
+  <BlowbackOperation.generalRules.rulesStrings>
+    <li>subject->बायोफ्यूल</li>
+    <li>subject->पिस्तौलें</li>
+    <li>subject_def->पिस्तौलों से</li>
+    <li>subject_def->हथियारों के झटके से</li>
+    <li>subject_story->उसने मशीन पिस्तौल का इस्तेमाल खाइयों की लड़ाई में किया जिसने ग्रह को तबाह कर दिया।</li>
+    <li>subject_story->कक्षाओं में कानून प्रवर्तन बलों को कम शक्ति वाली स्वचालित पिस्तौलें बेचीं।</li>
+    <li>subject_story->निकट दृष्टिदोष वाले रंगरूटों के लिए रिकॉइल संचालित हथियार बनाए।</li>
+    <li>subject_gerund->रिट्रोकशन हथियार बनाना</li>
+  </BlowbackOperation.generalRules.rulesStrings>
+
+  <!-- EN: advanced lights -->
+  <ColoredLights.label>उन्नत लाइटें</ColoredLights.label>
+  <!-- EN: Build powerful outdoors lights. Additionally, customize the color of electric lights and reduce their power consumption by half. This does not affect sun lamps. -->
+  <ColoredLights.description>मानक विद्युत लैंपों का रंग बदलें और उनकी ऊर्जा खपत को आधा कर दें। यह सौर लैंपों को प्रभावित नहीं करता है।</ColoredLights.description>
+  <!-- EN:
+    <li>subject->advanced lighting</li>
+    <li>subject_story->installed floodlights all around the prison world's many security perimeters</li>
+    <li>subject_story->made sure that the planet's dark side was well-lit</li>
+    <li>subject_story->moved into running concerts for interstellar troubadours, specializing in controlling the ship's massive lighting rigs</li>
+    <li>subject_gerund->building advanced lights</li>
+  -->
+  <ColoredLights.generalRules.rulesStrings>
+    <li>subject->ब्लोबैक आग्नेयास्त्र</li>
+    <li>subject_def->उन्नत रोशनी से</li>
+    <li>subject_story->उसने जेल दुनिया की कई सुरक्षा परिधियों के चारों ओर हर जगह फ्लडलाइट्स स्थापित कीं।</li>
+    <li>subject_story->उसने सुनिश्चित किया कि ग्रह का अंधेरा भाग अच्छी तरह से प्रकाशित था।</li>
+    <li>subject_story->अंतरतारकीय घुमंतुओं के लिए संगीत कार्यक्रम आयोजित करने में लग गया, और जहाज के विशाल प्रकाश व्यवस्था प्रणालियों को नियंत्रित करने में विशेषज्ञता हासिल की।</li>
+    <li>subject_gerund->उन्नत लाइटें बनाना</li>
+  </ColoredLights.generalRules.rulesStrings>
+
+  <!-- EN: electricity -->
+  <Electricity.label>बिजली</Electricity.label>
+  <!-- EN: Harness the power of electricity for a hundred different tasks. -->
+  <Electricity.description>सैकड़ों विभिन्न कार्यों के लिए विद्युत ऊर्जा का उपयोग करें।</Electricity.description>
+  <!-- EN: Your colony has harnessed the power which outsiders call "electricity". It has the potential to transform every aspect of your people's way of life.\n\nYou have now unlocked the Power tab in the Architect menu from which you may build electric generators, power conduits, and other mechanisms to control this new force. The Power tab also displays the electric grid which connects electric generators and appliances. -->
+  <Electricity.discoveredLetterText>तुम्हारे उपनिवेश ने वह शक्ति प्राप्त कर ली है जिसे बाहरी लोग "बिजली" कहते हैं। इसमें तुम्हारे उपनिवेश के जीवन जीने के हर पहलू को बदलने की क्षमता है।\n\nतुमने वास्तुकार मेनू में "बिजली" टैब अनलॉक कर लिया है, जहाँ से तुम बिजली जनरेटर, बिजली के संवाहक और इस नई शक्ति को नियंत्रित करने के अन्य तंत्र बना सकते हो। "बिजली" टैब बिजली जनरेटर और उपकरणों को जोड़ने वाले बिजली ग्रिड को भी दिखाता है।</Electricity.discoveredLetterText>
+  <!-- EN: About: Electricity -->
+  <Electricity.discoveredLetterTitle>बिजली</Electricity.discoveredLetterTitle>
+  <!-- EN:
+    <li>subject->electricity</li>
+    <li>subject_story->was struck by lighting and became determined to harness it</li>
+    <li>subject_story->created the first generator and lightbulb on a medieval world</li>
+    <li>subject_story->was executed on a feudal world for the blasphemy of creating light</li>
+    <li>subject_gerund->harnessing electricity</li>
+  -->
+  <Electricity.generalRules.rulesStrings>
+    <li>subject->विद्युत प्रकाश व्यवस्था</li>
+    <li>subject_def->बिजली का</li>
+    <li>subject_story->बिजली से मारा गया और उसे दोहन करने पर तुला रहा।</li>
+    <li>subject_story->मध्ययुगीन दुनिया में पहला जनरेटर और बल्ब बनाया।</li>
+    <li>subject_story->उसे एक सामंती दुनिया में प्रकाश बनाने के ईशनिंदा के लिए फाँसी दे दी गई।</li>
+    <li>subject_gerund->बिजली का उपयोग करना</li>
+  </Electricity.generalRules.rulesStrings>
+
+  <!-- EN: firefoam -->
+  <Firefoam.label>अग्निरोधी झाग</Firefoam.label>
+  <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
+  <Firefoam.description>अग्निरोधी फोम फैलाने वाले उपकरण बनाएँ, स्वचालित अग्निशमन यंत्र जो फैलती हुई आग के जवाब में अग्निरोधी फोम फैलाते हैं।</Firefoam.description>
+  <!-- EN:
+    <li>subject->firefoam poppers</li>
+    <li>subject->fire safety devices</li>
+    <li>subject_story->headed up an agency promulgating fire safety to the whole population</li>
+    <li>subject_story->became a firefighter</li>
+    <li>subject_story->was saved by the poppers when an oil fire spiraled out of control</li>
+    <li>subject_gerund->constructing firefoam poppers</li>
+    <li>subject_gerund->suppressing fires with poppers</li>
+  -->
+  <Firefoam.generalRules.rulesStrings>
+    <li>subject->फोम अग्निशामक उपकरण</li>
+    <li>subject->अग्निरोधी सुरक्षा उपकरण</li>
+    <li>subject_def->फोम अग्निशामक उपकरणों के</li>
+    <li>subject_def->अग्निशमन सुरक्षा उपकरणों के</li>
+    <li>subject_story->उसने एक ऐसी एजेंसी का नेतृत्व किया जो पूरी आबादी के लिए अग्नि सुरक्षा को बढ़ावा देती थी।</li>
+    <li>subject_story->अग्नि शामक बन गया।</li>
+    <li>subject_story->जब तेल की आग बेकाबू हो गई, तो उसे अग्निशामक फोम ने बचाया।</li>
+    <li>subject_gerund->अग्नि-फोम पोपर का निर्माण करना</li>
+    <li>subject_gerund->उपकरणों से आग बुझाना</li>
+  </Firefoam.generalRules.rulesStrings>
+
+  <!-- EN: flak armor -->
+  <FlakArmor.label>बुलेटप्रूफ कपड़े</FlakArmor.label>
+  <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
+  <FlakArmor.description>धातु कवच सिले हुए कपड़े बनाएँ ताकि गोलियों और विस्फोटों का प्रतिरोध किया जा सके। यह भारी कवच गति को थोड़ा धीमा कर देता है।</FlakArmor.description>
+  <!-- EN:
+    <li>subject->flak armor</li>
+    <li>subject_story->supplied flak armor to the militias that ran the cities</li>
+    <li>subject_story->learned to sew metal plates into clothing, to protect kin from the roving gangs</li>
+    <li>subject_story->survived a rifle bullet thanks to the metal plate sewn into the breast pocket</li>
+    <li>subject_gerund->crafting flak armor</li>
+  -->
+  <FlakArmor.generalRules.rulesStrings>
+    <li>subject->बुलेटप्रूफ कपड़े</li>
+    <li>subject_def->बुलेटप्रूफ कपड़ों का</li>
+    <li>subject_story->मिलिशिया को बुलेटप्रूफ कपड़े दिए जिन्होंने शहरों पर नियंत्रण रखा था।</li>
+    <li>subject_story->उसने भटकते गिरोहों से अपने रिश्तेदारों को बचाने के लिए कपड़ों में धातु की प्लेटें सिलना सीख लिया।</li>
+    <li>subject_story->छाती की जेब में सिले हुए धातु के प्लेट के कारण वह राइफल की गोली से बच गया।</li>
+    <li>subject_gerund->बुलेटप्रूफ कपड़े बनाना</li>
+  </FlakArmor.generalRules.rulesStrings>
+
+  <!-- EN: foam turret -->
+  <FoamTurret.label>फोम बुर्जटी</FoamTurret.label>
+  <!-- EN: Produce a turret which can be activated to spray fire-extinguishing foam. -->
+  <FoamTurret.description>एक बुर्ज बनाएं जिसे आग बुझाने वाले फोम का छिड़काव करने के लिए सक्रिय किया जा सके।</FoamTurret.description>
+  <!-- EN:
+    <li>subject->foam turrets</li>
+    <li>subject->fire suppression turrets</li>
+    <li>subject_story->redesigned gun turrets to put out fires, not create them</li>
+    <li>subject_story->incorporated heat sensors and foam ejectors into a standard turret chassis</li>
+    <li>subject_story->was praised after installing cheap foam turrets in public areas and saving many lives</li>
+    <li>subject_gerund->constructing fire suppression turrets</li>
+    <li>subject_gerund->suppressing fires with turrets</li>
+  -->
+  <FoamTurret.generalRules.rulesStrings>
+    <li>subject->अग्नि-शमन बुर्ज</li>
+    <li>subject->फोम बुर्ज</li>
+    <li>subject_def->फ़ोम टरेटों से</li>
+    <li>subject_def->अग्नि दमन बुर्ज के</li>
+    <li>subject_story->गनर टावरों को आग बुझाने के लिए फिर से डिज़ाइन किया गया, भड़काने के लिए नहीं।</li>
+    <li>subject_story->एक मानक बुर्ज चेसिस में हीट सेंसर और फोम इजेक्टर शामिल किए गए।</li>
+    <li>subject_story->सार्वजनिक क्षेत्रों में सस्ते फोम बुर्ज स्थापित करने और कई जान बचाने के बाद उसकी प्रशंसा की गई।</li>
+    <li>subject_gerund->अग्निशमन बुर्ज बनाना</li>
+    <li>subject_gerund->टरेट से आग बुझाना</li>
+  </FoamTurret.generalRules.rulesStrings>
+
+  <!-- EN: gas operation -->
+  <GasOperation.label>गैस संचालन</GasOperation.label>
+  <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
+  <GasOperation.description>चेन शॉटगन, एलएमजी और भारी एसएमजी जैसे उच्च-शक्ति वाले हथियार बनाएं।</GasOperation.description>
+  <!-- EN:
+    <li>subject->heavy weaponry</li>
+    <li>subject->high-power firearms</li>
+    <li>subject_story->equipped the special weapons squads of the tyrant's guard with light machine guns</li>
+    <li>subject_story->supplied several planetary armies with heavy firearms</li>
+    <li>subject_story->designed new types of high-power gun, still known today</li>
+    <li>subject_gerund->crafting heavy firearms</li>
+  -->
+  <GasOperation.generalRules.rulesStrings>
+    <li>subject->भारी हथियार</li>
+    <li>subject->भारी हथियार</li>
+    <li>subject_def->भारी हथियारों से</li>
+    <li>subject_def->उच्च क्षमता वाली आग्नेयास्त्रों से</li>
+    <li>subject_story->तिरान के गार्ड के विशेष हथियार दलों को हल्की मशीनगनों से लैस किया।</li>
+    <li>subject_story->कई ग्रहों की सेनाओं को भारी हथियार प्रदान किए।</li>
+    <li>subject_story->उसने उच्च क्षमता वाली नई प्रकार की बंदूकें डिज़ाइन कीं, जो आज भी जानी जाती हैं।</li>
+    <li>subject_gerund->भारी आग्नेयास्त्रों का निर्माण</li>
+  </GasOperation.generalRules.rulesStrings>
+
+  <!-- EN: geothermal power -->
+  <GeothermalPower.label>भूतापीय ऊर्जा</GeothermalPower.label>
+  <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
+  <GeothermalPower.description>भाप वाले गीजरों पर भूतापीय ऊर्जा संयंत्रों का निर्माण करें, ताकि निर्बाध बिजली आपूर्ति हो सके।</GeothermalPower.description>
+  <!-- EN:
+    <li>subject->geothermal power</li>
+    <li>subject_story->studied steam power and established geothermal plants throughout the region</li>
+    <li>subject_story->tapped the power of a dormant volcano to power the local grid</li>
+    <li>subject_story->argued with the local population who wanted to preserve the scenic geysers, not use them for power</li>
+    <li>subject_gerund->tapping geothermal energy</li>
+    <li>subject_gerund->building geothermal power plants</li>
+  -->
+  <GeothermalPower.generalRules.rulesStrings>
+    <li>subject->भूतापीय ऊर्जा</li>
+    <li>subject_def->भूतापीय ऊर्जा से</li>
+    <li>subject_story->उसने भाप की शक्ति का अध्ययन किया और पूरे क्षेत्र में भूतापीय संयंत्र स्थापित किए।</li>
+    <li>subject_story->एक निष्क्रिय ज्वालामुखी की ऊर्जा का उपयोग स्थानीय ग्रिड को शक्ति देने के लिए किया।</li>
+    <li>subject_story->उसने स्थानीय आबादी के साथ बहस की जो सुंदर गीजरों को संरक्षित करना चाहते थे, ऊर्जा उत्पादन के लिए उनका उपयोग नहीं करना चाहते थे।</li>
+    <li>subject_gerund->भूतापीय ऊर्जा का दोहन करना</li>
+    <li>subject_gerund->भूतापीय ऊर्जा संयंत्रों का निर्माण करना</li>
+  </GeothermalPower.generalRules.rulesStrings>
+
+  <!-- EN: gunsmithing -->
+  <Gunsmithing.label>हथियार बनाना</Gunsmithing.label>
+  <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
+  <Gunsmithing.description>मैन्युअल रूप से संचालित साधारण हथियार जैसे रिवाल्वर, पंप-एक्शन शॉटगन, बोल्ट-एक्शन राइफल और आग लगाने वाले लांचर बनाएँ।</Gunsmithing.description>
+  <!-- EN:
+    <li>subject->simple firearms</li>
+    <li>subject_story->built a unique 12-shot revolver and won shoot-out after shoot-out</li>
+    <li>subject_story->specialized in simple gunsmithing, providing shotguns and rifles for hunters</li>
+    <li>subject_story->set up as a gunsmith, achieving fame across the sector</li>
+    <li>subject_gerund->gunsmithing</li>
+    <li>subject_gerund->crafting firearms</li>
+  -->
+  <Gunsmithing.generalRules.rulesStrings>
+    <li>subject->सरल आग्नेयास्त्र</li>
+    <li>subject_def->सरल आग्नेयास्त्रों से</li>
+    <li>subject_story->उसने एक अनोखी 12-गोली की रिवॉल्वर बनाई और एक के बाद एक द्वंद्वयुद्ध जीता।</li>
+    <li>subject_story->उसने साधारण हथियार बनाने में विशेषज्ञता हासिल की, जिससे शिकारी लोगों को शॉटगन और राइफलें मिलीं।</li>
+    <li>subject_story->उसने एक बंदूक बनाने वाले के रूप में अपना व्यवसाय स्थापित किया, और पूरे क्षेत्र में प्रसिद्धि प्राप्त की।</li>
+    <li>subject_gerund->बंदूकें गढ़ना</li>
+    <li>subject_gerund->आग्नेयास्त्रों का निर्माण करना</li>
+  </Gunsmithing.generalRules.rulesStrings>
+
+  <!-- EN: gun turrets -->
+  <GunTurrets.label>बंदूक बुर्ज</GunTurrets.label>
+  <!-- EN: Produce simple automated gun turrets. -->
+  <GunTurrets.description>अपने उपनिवेश की रक्षा के लिए साधारण स्वचालित बंदूक बुर्ज बनाएं।</GunTurrets.description>
+  <!-- EN:
+    <li>subject->gun turrets</li>
+    <li>subject_story->worked on AI routines, to enable gun turrets to identify friends and foes</li>
+    <li>subject_story->designed a modular gun turret holster, capable of taking any weapon type</li>
+    <li>subject_story->disabled the enemy's turrets remotely, before leading the charge</li>
+    <li>subject_gerund->constructing automated gun turrets</li>
+  -->
+  <GunTurrets.generalRules.rulesStrings>
+    <li>subject->हथियारबंद बुर्जियाँ</li>
+    <li>subject_def->सशस्त्र बुर्जियों से</li>
+    <li>subject_story->उन्होंने कृत्रिम बुद्धिमत्ता की दिनचर्या पर काम किया, ताकि सशस्त्र बुर्ज मित्रों और शत्रुओं को पहचान सकें।</li>
+    <li>subject_story->उसने हथियारों के बुर्ज के लिए एक मॉड्यूलर होल्डर डिज़ाइन किया, जो किसी भी प्रकार के हथियार को स्वीकार करने में सक्षम है।</li>
+    <li>subject_story->उसने हमले का नेतृत्व करने से पहले दूर से दुश्मन की बुर्जें निष्क्रिय कर दीं।</li>
+    <li>subject_gerund->स्वचालित सशस्त्र बुर्ज बनाना</li>
+  </GunTurrets.generalRules.rulesStrings>
+
+  <!-- EN: hydroponics -->
+  <Hydroponics.label>हाइड्रोपोनिक्स</Hydroponics.label>
+  <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
+  <Hydroponics.description>बंद जगहों में फसलें उगाने के लिए हाइड्रोपोनिक कंटेनर बनाएं।</Hydroponics.description>
+  <!-- EN:
+    <li>subject->hydroponics</li>
+    <li>subject_story->joined a generation ship crew as their crop specialist</li>
+    <li>subject_story->established a hydroponics facility to feed the hungry</li>
+    <li>subject_story->traveled around, teaching artificial plant growth to new colonists</li>
+    <li>subject_gerund->building hydroponics</li>
+    <li>subject_gerund->growing plants indoors</li>
+  -->
+  <Hydroponics.generalRules.rulesStrings>
+    <li>subject->हाइड्रोपोनिक्स</li>
+    <li>subject_def->हाइड्रोपोनिक्स से</li>
+    <li>subject_story->वह एक पीढ़ीगत यान के चालक दल में फसल विशेषज्ञ के रूप में शामिल हो गया।</li>
+    <li>subject_story->भूखियों को खिलाने के लिए उसने एक हाइड्रोपोनिक सुविधा स्थापित की।</li>
+    <li>subject_story->नए उपनिवेशवादियों को कृत्रिम पौधों की वृद्धि सिखाते हुए यात्रा की।</li>
+    <li>subject_gerund->हाइड्रोपोनिक्स कंटेनर बनाना</li>
+    <li>subject_gerund->घर के अंदर पौधे उगाना</li>
+  </Hydroponics.generalRules.rulesStrings>
+
+  <!-- EN: IEDs -->
+  <IEDs.label>improvised विस्फोटक उपकरण</IEDs.label>
+  <!-- EN: Build improvised traps from any kind of mortar shell. -->
+  <IEDs.description>किसी भी प्रकार के मोर्टार शेल से तात्कालिक जाल बनाएँ।</IEDs.description>
+  <!-- EN:
+    <li>subject->improvised explosive traps</li>
+    <li>subject_story->disarmed the leftover shells of the war, sending them onto the new frontline as mines</li>
+    <li>subject_story->came under mortar fire, only surviving by crafting traps from the enemy's many dud shells</li>
+    <li>subject_story->advocated for the rights of small settlements, where unexploded munitions were a constant peril</li>
+    <li>subject_gerund->crafting improvised explosive traps</li>
+  -->
+  <IEDs.generalRules.rulesStrings>
+    <li>subject->improvised explosive traps</li>
+    <li>subject_def->improvised विस्फोटक जाल से</li>
+    <li>subject_story->उसने युद्ध के बचे हुए गोले निरस्त्र कर दिए, उन्हें खदानों में बदलकर नए मोर्चे पर भेज दिया।</li>
+    <li>subject_story->मोर्टार से हमला हुआ, और दुश्मन के कई बेकार शेल से जाल बनाकर ही वह बच पाया।</li>
+    <li>subject_story->उसने छोटे बस्तियों के अधिकारों की वकालत की, जहाँ बिना फटे गोला-बारूद एक निरंतर खतरा था।</li>
+    <li>subject_gerund->improvised विस्फोटक जाल बनाना</li>
+  </IEDs.generalRules.rulesStrings>
+
+  <!-- EN: machining -->
+  <Machining.label>मशीनीकरण</Machining.label>
+  <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
+  <Machining.description>बंदूकें, ग्रेनेड, बुलेटप्रूफ वेस्ट बनाने और संसाधनों के लिए मृत मैकेनोइड्स को नष्ट करने के लिए मशीनिंग टेबल बनाएं।</Machining.description>
+  <!-- EN:
+    <li>subject->machining</li>
+    <li>subject_story->gathered the remains of dead mechanoids and shredded them for resources</li>
+    <li>subject_story->quietly built an arsenal of self-made weapons in the basement of a suburban home</li>
+    <li>subject_story->built machining tables for many gunsmiths, despite being a pacifist</li>
+    <li>subject_gerund->building machining equipment</li>
+    <li>subject_gerund->machining</li>
+  -->
+  <Machining.generalRules.rulesStrings>
+    <li>subject->improvised विस्फोटक जाल</li>
+    <li>subject_def->मैकेनिकल से</li>
+    <li>subject_story->मृत मैकेनोइड्स के अवशेषों को इकट्ठा किया और संसाधन प्राप्त करने के लिए उन्हें अलग कर दिया।</li>
+    <li>subject_story->उसने चुपचाप एक उपनगरीय घर के बेसमेंट में अपने हाथों से बनाए गए हथियारों का एक शस्त्रागार बनाया।</li>
+    <li>subject_story->उसने कई बंदूक बनाने वालों के लिए मशीनिंग टेबल बनाए, भले ही वह एक शांतिवादी था।</li>
+    <li>subject_gerund->मशीनिंग उपकरण बनाना</li>
+    <li>subject_gerund->मशीनीकरण करना</li>
+  </Machining.generalRules.rulesStrings>
+
+  <!-- EN: mortars -->
+  <Mortars.label>तोपें</Mortars.label>
+  <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
+  <Mortars.description>दीर्घ दूरी तक प्रक्षेप्य दागने के लिए मोर्टार बनाएं, यहाँ तक कि दीवारों के ऊपर से भी।</Mortars.description>
+  <!-- EN:
+    <li>subject->artillery</li>
+    <li>subject->mortars</li>
+    <li>subject_story->was instrumental in the glasshouse siege that overthrew the town council</li>
+    <li>subject_story->developed a collapsible, lightweight mortar tube for the local police</li>
+    <li>subject_story->demolished the many derelict buildings from a distance, with explosive shells</li>
+    <li>subject_gerund->crafting mortars</li>
+    <li>subject_gerund->constructing simple artillery</li>
+  -->
+  <Mortars.generalRules.rulesStrings>
+    <li>subject->मशीनीकरण</li>
+    <li>subject->तोपें</li>
+    <li>subject_def->तोपखाने की</li>
+    <li>subject_def->मोर्टारों से</li>
+    <li>subject_story->ग्रीनहाउस की घेराबंदी में महत्वपूर्ण भूमिका निभाई जिसने नगर परिषद को उखाड़ फेंका।</li>
+    <li>subject_story->स्थानीय पुलिस के लिए एक फोल्डिंग, हल्के वजन की मोर्टार ट्यूब विकसित की।</li>
+    <li>subject_story->उसने विस्फोटक गोले से दूर से कई परित्यक्त इमारतों को ध्वस्त कर दिया।</li>
+    <li>subject_gerund->मोर्टार बनाना</li>
+    <li>subject_gerund->सरल तोपखाना बनाना</li>
+  </Mortars.generalRules.rulesStrings>
+
+  <!-- EN: nutrient paste -->
+  <NutrientPaste.label>पोषक तत्व का पेस्ट</NutrientPaste.label>
+  <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
+  <NutrientPaste.description>पोषक पेस्ट डिस्पेंसर बनाएँ जो कच्चे पोषक तत्वों से कुशलतापूर्वक खाद्य भोजन का उत्पादन करते हैं, और बिल्कुल भी श्रम की आवश्यकता नहीं होती है।</NutrientPaste.description>
+  <!-- EN:
+    <li>subject->nutrient paste</li>
+    <li>subject_story->worked in a factory canteen and devised nutrient paste as a way to avoid all labor</li>
+    <li>subject_story->lost [ANYPAWN_possessive] taste of smell to disease, so devised a cheap, flavorless nutrient paste</li>
+    <li>subject_story->advocated for the recycling of all organic matter into nutrient paste, even corpses</li>
+    <li>subject_gerund->building nutrient paste dispensers</li>
+  -->
+  <NutrientPaste.generalRules.rulesStrings>
+    <li>subject->तोपें</li>
+    <li>subject_def->पोषक पास्ता का</li>
+    <li>subject_story->उसने एक कारखाने की कैंटीन में काम किया और श्रम से बचने के तरीके के रूप में पौष्टिक पेस्ट की रचना की।</li>
+    <li>subject_story->किसी बीमारी से उसकी सूंघने की शक्ति चली गई, इसलिए उसने एक सस्ता, बेस्वाद पोषक पेस्ट बनाया।</li>
+    <li>subject_story->उसने सभी जैविक पदार्थों को पोषक पेस्ट में पुनर्चक्रित करने की वकालत की, यहाँ तक कि लाशों को भी।</li>
+    <li>subject_gerund->पोषक पेस्ट डिस्पेन्सर बनाना</li>
+  </NutrientPaste.generalRules.rulesStrings>
+
+  <!-- EN: packaged survival meal -->
+  <PackagedSurvivalMeal.label>उत्तरजीविता भोजन पैकेट</PackagedSurvivalMeal.label>
+  <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
+  <PackagedSurvivalMeal.description>पैकेज्ड सर्वाइवल भोजन का उत्पादन करें जो कभी खराब नहीं होता। यात्रा के लिए बढ़िया।</PackagedSurvivalMeal.description>
+  <!-- EN:
+    <li>subject->packaged survival meals</li>
+    <li>subject->non-perishable food</li>
+    <li>subject_story-> knew, when disaster struck, there were enough packaged meals to survive until rescuers arrived</li>
+    <li>subject_story->established a social kitchen, which donated survival meals to all outgoing vessels</li>
+    <li>subject_story->discovered survival meals in the mountains that were hundreds of years old</li>
+    <li>subject_gerund->preparing survival meals</li>
+  -->
+  <PackagedSurvivalMeal.generalRules.rulesStrings>
+    <li>subject->पोषक तत्व का पेस्ट</li>
+    <li>subject->पैकेज्ड सर्वाइवल मील</li>
+    <li>subject_def->उत्तरजीविता राशन से</li>
+    <li>subject_def->गैर-नाशपाती खाद्य पदार्थों में से</li>
+    <li>subject_story->मुझे पता था कि, जब कोई आपदा आती है, तो बचावकर्मी आने तक जीवित रहने के लिए पर्याप्त पैक किया हुआ भोजन होगा।</li>
+    <li>subject_story->उसने एक सामुदायिक रसोई स्थापित की जो सभी प्रस्थान करने वाले जहाजों को जीवित रहने के लिए भोजन दान करती थी।</li>
+    <li>subject_story->पहाड़ों में उत्तरजीविता राशन खोजे गए जो सैकड़ों साल पुराने थे।</li>
+    <li>subject_gerund->उत्तरजीविता भोजन तैयार करना</li>
+  </PackagedSurvivalMeal.generalRules.rulesStrings>
+
+  <!-- EN: prosthetics -->
+  <Prosthetics.label>कृत्रिम अंग</Prosthetics.label>
+  <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
+  <Prosthetics.description>खोए हुए अंगों को बदलने के लिए सस्ते कृत्रिम अंग बनाएँ। उन्हें लगाने के लिए एक कुशल डॉक्टर की आवश्यकता होती है।</Prosthetics.description>
+  <!-- EN:
+    <li>subject->prosthesis</li>
+    <li>subject_story->had a limb replaced with a prosthetic, to show how easy it was</li>
+    <li>subject_story->opened a prosthetics clinic</li>
+    <li>subject_story->began crafting bespoke fake limbs for the many war veterans in the area</li>
+    <li>subject_gerund->crafting prosthetics</li>
+  -->
+  <Prosthetics.generalRules.rulesStrings>
+    <li>subject->कृत्रिम अंग</li>
+    <li>subject_def->कृत्रिम अंगों के</li>
+    <li>subject_story->उसने एक अंग को प्रोस्थेटिक से बदलवा लिया ताकि यह दिखाया जा सके कि यह कितना आसान था।</li>
+    <li>subject_story->एक कृत्रिम अंग क्लिनिक खोला।</li>
+    <li>subject_story->उसने क्षेत्र के कई युद्ध दिग्गजों के लिए अनुकूलित कृत्रिम अंग बनाना शुरू कर दिया।</li>
+    <li>subject_gerund->कृत्रिम अंग बनाना</li>
+  </Prosthetics.generalRules.rulesStrings>
+
+  <!-- EN: smokepop packs -->
+  <SmokepopBelt.label>धुएँ के पैकेट</SmokepopBelt.label>
+  <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
+  <SmokepopBelt.description>धुएँ के पैकेट बनाएँ जो पहनने वाले को रक्षात्मक धुंध का पर्दा तैनात करने की अनुमति दें जब उस पर गोली चलाई जाए।</SmokepopBelt.description>
+  <!-- EN:
+    <li>subject->smokescreen</li>
+    <li>subject_story->worked as a hauler for bands, using smokepops for special effects</li>
+    <li>subject_story->established a defensive smokepop perimeter around the local towns, to keep the wildlife back</li>
+    <li>subject_story->used smokepop packs to train new firefighters, without the peril of actual fire</li>
+    <li>subject_gerund->building smokepop packs</li>
+    <li>subject_gerund->deploying smokescreens</li>
+  -->
+  <SmokepopBelt.generalRules.rulesStrings>
+    <li>subject->धुएँ के पर्दे</li>
+    <li>subject_def->धुएँ के परदों से</li>
+    <li>subject_story->उसने बैंड के लिए वाहक के रूप में काम किया, विशेष प्रभावों के लिए स्मोकपॉप का उपयोग किया।</li>
+    <li>subject_story->स्थानीय कस्बों के चारों ओर धुएँ के उपकरणों की एक रक्षात्मक परिधि स्थापित की, ताकि वन्यजीवों को दूर रखा जा सके।</li>
+    <li>subject_story->उसने नए अग्निशामकों को प्रशिक्षित करने के लिए स्मोकपोप का इस्तेमाल किया, बिना वास्तविक आग के खतरे के।</li>
+    <li>subject_gerund->धुएँ के बम बनाना</li>
+    <li>subject_gerund->धुआँ पर्दा तैनात करना</li>
+  </SmokepopBelt.generalRules.rulesStrings>
+
+  <!-- EN: solar panel -->
+  <SolarPanels.label>सौर पैनल</SolarPanels.label>
+  <!-- EN: Build solar panels for electricity generation. -->
+  <SolarPanels.description>सौर पैनलों का निर्माण करें ताकि सूर्य के प्रकाश का उपयोग करके बिजली उत्पन्न की जा सके।</SolarPanels.description>
+  <!-- EN:
+    <li>subject->solar panels</li>
+    <li>subject->solar energy</li>
+    <li>subject_story->established a multi-spectrum solar farm</li>
+    <li>subject_story->studied ways of maximizing the percentage of solar energy captured</li>
+    <li>subject_story->left on a sundiver to see a fly-by of a star's photosphere</li>
+    <li>subject_gerund->building solar panels</li>
+  -->
+  <SolarPanels.generalRules.rulesStrings>
+    <li>subject->सौर पैनल</li>
+    <li>subject->सौर ऊर्जा</li>
+    <li>subject_story->बहु-स्पेक्ट्रम सौर फार्म स्थापित किया</li>
+    <li>subject_story->उसने सौर ऊर्जा कैप्चर के प्रतिशत को अधिकतम करने के तरीकों का अध्ययन किया।</li>
+    <li>subject_story->एक तारे के प्रकाशमंडल को देखने के लिए वह सौर अंतरिक्ष यान पर रवाना हो गया।</li>
+    <li>subject_gerund->सौर पैनल बनाना</li>
+  </SolarPanels.generalRules.rulesStrings>
+
+  <!-- EN: sterile materials -->
+  <SterileMaterials.label>नसबंदी की हुई सामग्री</SterileMaterials.label>
+  <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
+  <SterileMaterials.description>चिकित्सा उपचार, अनुसंधान और रसोई के लिए सुरक्षित और अधिक प्रभावी स्वच्छ कक्ष बनाने के लिए बाँझ टाइलें बनाएँ।</SterileMaterials.description>
+  <!-- EN:
+    <li>subject->sterile surfaces</li>
+    <li>subject_story->prevented many deaths by insisting on effective, consistent sterilization of all equipment</li>
+    <li>subject_story->started a kibble kitchen which, uniquely for the system, was known to be free of food poisoning</li>
+    <li>subject_story->established a decorative tile factory, with a sideline in medical equipment and sterile tiles</li>
+    <li>subject_gerund->sterilizing surfaces</li>
+    <li>subject_gerund->constructing sterilized surfaces</li>
+  -->
+  <SterileMaterials.generalRules.rulesStrings>
+    <li>subject->सौर ऊर्जा</li>
+    <li>subject_def->बंजर सतहों से</li>
+    <li>subject_story->उसने प्रभावी और लगातार सभी चिकित्सा उपकरणों के निष्फलकरण पर जोर देकर कई मौतों को रोका।</li>
+    <li>subject_story->उसने एक किबल किचन शुरू किया जो, सिस्टम में अद्वितीय रूप से, खाद्य विषाक्तता से मुक्त होने के लिए जानी जाती थी।</li>
+    <li>subject_story->उसने सजावटी टाइलों का एक कारखाना स्थापित किया, जिसमें चिकित्सा उपकरण और बाँझ टाइलों की एक सहायक लाइन थी।</li>
+    <li>subject_gerund->सतहों को निष्फल करना</li>
+    <li>subject_gerund->नसबंदीकृत सतहों का निर्माण करना</li>
+  </SterileMaterials.generalRules.rulesStrings>
+
+  <!-- EN: tube television -->
+  <TubeTelevision.label>ट्यूब टेलीविजन</TubeTelevision.label>
+  <!-- EN: Produce tube televisions for recreational watching. -->
+  <TubeTelevision.description>ट्यूब टेलीविजन बनाने की अनुमति देता है ताकि मनोरंजन बढ़ सके।</TubeTelevision.description>
+  <!-- EN:
+    <li>subject->tube televisions</li>
+    <li>subject_story->designed a faux-retro television set that could pick up interstellar signals</li>
+    <li>subject_story->moved into broadcasting, producing programmes just for the archaic tube televisions</li>
+    <li>subject_story->ensured that everyone knew the dangers of cathode ray tubes</li>
+    <li>subject_gerund->producing tube televisions</li>
+  -->
+  <TubeTelevision.generalRules.rulesStrings>
+    <li>subject->कैथोड किरण टेलीविजन</li>
+    <li>subject_def->कैथोड रे ट्यूब टेलीविजन के</li>
+    <li>subject_story->उसने एक नकली रेट्रो टेलीविजन बनाया जो अंतरतारकीय संकेतों को पकड़ सकता था।</li>
+    <li>subject_story->उसने प्रसारण में प्रवेश किया, विशेष रूप से पुराने कैथोड रे ट्यूब टेलीविजन के लिए कार्यक्रम बनाए।</li>
+    <li>subject_story->उसने यह सुनिश्चित किया कि सभी को कैथोड रे ट्यूब के खतरों के बारे में पता हो।</li>
+    <li>subject_gerund->ट्यूब टेलीविजन का उत्पादन करना</li>
+  </TubeTelevision.generalRules.rulesStrings>
+
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>जल चक्की जनरेटर</WatermillGenerator.label>
+  <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
+  <WatermillGenerator.description>नदियों पर जलचक्की जनरेटर बनाकर लगातार बिजली की आपूर्ति उत्पन्न करें।</WatermillGenerator.description>
+  <!-- EN:
+    <li>subject->watermill generators</li>
+    <li>subject_story->watched twigs and leaves get pulled downstream and envisioned the power there</li>
+    <li>subject_story->hooked cabling up to an ancient flour mill on a feudalworld</li>
+    <li>subject_story->beached a paddle steamer on a ruinworld's shores and converted it into a watermill</li>
+    <li>subject_gerund->watermill generators</li>
+  -->
+  <WatermillGenerator.generalRules.rulesStrings>
+    <li>subject->जल चक्कियाँ</li>
+    <li>subject_def->जल चक्कियों के</li>
+    <li>subject_story->उसने देखा कि टहनियाँ और पत्तियाँ नदी के बहाव में बह रही हैं और उसने उस घटना से निकलने वाली ऊर्जा की कल्पना की।</li>
+    <li>subject_story->उसने एक सामंती दुनिया में एक प्राचीन आटा चक्की से केबल जोड़े।</li>
+    <li>subject_story->एक भाप से चलने वाला जहाज खंडहरों की दुनिया के तट पर टकरा गया और उसे जलचक्की में बदल दिया।</li>
+    <li>subject_gerund->जलचक्की जेनरेटर बनाना</li>
+  </WatermillGenerator.generalRules.rulesStrings>
+
+</LanguageData>

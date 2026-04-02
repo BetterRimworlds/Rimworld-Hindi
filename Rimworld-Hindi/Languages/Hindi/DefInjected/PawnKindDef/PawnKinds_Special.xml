@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: slave --><!-- EN: esclavo -->
+  <Slave.label>गुलाम</Slave.label><!-- EN: esclavos -->
+  <Slave.labelPlural>गुलाम</Slave.labelPlural>
+  
+  <!-- EN: stranger in black --><!-- EN: forastero de negro -->
+  <StrangerInBlack.label>ब्लैक आउटलायर</StrangerInBlack.label>
+  <!-- EN: woman in black --><!-- EN: mujer de negro -->
+  <StrangerInBlack.labelFemale>काली महिला</StrangerInBlack.labelFemale>
+  <!-- EN: man in black --><!-- EN: hombre de negro -->
+  <StrangerInBlack.labelMale>ब्लैक मैन</StrangerInBlack.labelMale>
+  <!-- EN: strangers in black --><!-- EN: forasteros de negro -->
+  <StrangerInBlack.labelPlural>फ़ोरस्तेरोस दे नेग्रो</StrangerInBlack.labelPlural>
+  
+  <!-- EN: wild man --><!-- EN: hombre salvaje -->
+  <WildMan.label>जंगली मानव</WildMan.label>
+  <!-- EN: wild woman --><!-- EN: mujer salvaje -->
+  <WildMan.labelFemale>जंगली महिला</WildMan.labelFemale>
+  <!-- EN: wild women --><!-- EN: mujeres salvajes -->
+  <WildMan.labelFemalePlural>जंगली मादा जीव</WildMan.labelFemalePlural>
+  <!-- EN: wild men --><!-- EN: hombres salvajes -->
+  <WildMan.labelPlural>जंगली पुरुष</WildMan.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal flap -->
+  <AnimalFlap.label>पशु द्वार</AnimalFlap.label>
+  <!-- EN: A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep. -->
+  <AnimalFlap.description>एक दरवाजे का ढांचा जो मोटे, एक दूसरे के ऊपर लगे कपड़े या चमड़े की पट्टियों से लटका हुआ है। यह जानवरों को गुजरने देता है जबकि तापमान को इन्सुलेट करता है। पशु फ्लैप का उपयोग आमतौर पर खलिहान के दरवाजों के रूप में किया जाता है ताकि बंद जानवरों को सोने के लिए आश्रय मिल सके।</AnimalFlap.description>
+  
+  <!-- EN: autodoor -->
+  <Autodoor.label>स्वचालित द्वार</Autodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <Autodoor.description>कमरे बांटता है। ऊर्जा से संचालित होने पर लोग बिना धीमे हुए दरवाजे से गुजर सकते हैं।</Autodoor.description>
+  
+  <!-- EN: column -->
+  <Column.label>स्तंभ</Column.label>
+  <!-- EN: A column capable of holding a roof. Does not block sight or movement and looks quite nice. -->
+  <Column.description>एक खंभा जो छत को सहारा दे सकता है। यह दृष्टि या गति को अवरुद्ध नहीं करता है और काफी सुंदर दिखता है।</Column.description>
+  
+  <!-- EN: door -->
+  <Door.label>दरवाज़ा</Door.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description>कमरे बांटता है। साधारण दरवाजों को हाथ से खोलना पड़ता है, जिससे लोगों की गति धीमी हो जाती है। गति में कमी दरवाज़े के पदार्थ पर निर्भर करती है।</Door.description>
+  
+  <!-- EN: fence -->
+  <Fence.label>बाड़</Fence.label>
+  <!-- EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside. -->
+  <Fence.description>जानवरों के कुछ प्रकारों के लिए बाड़े बनाने के लिए उपयोग किए जाने वाले क्रॉसबार से जुड़े खंभों से बना बाड़ा। कुछ जानवर बाड़ों को पार कर सकते हैं। शिकारी बाड़े के दूसरी तरफ के जीवों का शिकार नहीं करेंगे, लेकिन फिर भी अंदर घूम सकते हैं।</Fence.description>
+  
+  <!-- EN: fence gate -->
+  <FenceGate.label>बाड़ द्वार</FenceGate.label>
+  <!-- EN: A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates. -->
+  <FenceGate.description>साधारण खंभों और क्रॉसबार से बना एक द्वार। यह बाड़ की तरह कुछ जानवरों को रोकता है। हैंडलर इन द्वारों के माध्यम से जानवरों को पेन में अंदर और बाहर ले जा सकते हैं।</FenceGate.description>
+  
+  <!-- EN: ornate door -->
+  <OrnateDoor.label>सजावटी द्वार</OrnateDoor.label>
+  <!-- EN: Divides rooms. An intricately-carved door, decorated with gold. This large, heavy door requires adjacent walls to function. -->
+  <OrnateDoor.description>कमरों को विभाजित करता है। सोने से सजा हुआ, जटिल नक्काशीदार दरवाजा। इस बड़े, भारी दरवाजे को कार्य करने के लिए आसन्न दीवारों की आवश्यकता होती है।</OrnateDoor.description>
+  
+  <!-- EN: wall -->
+  <Wall.label>दीवार</Wall.label>
+  <!-- EN: An impassable wall. Capable of holding up a roof. -->
+  <Wall.description>एक अगम्य दीवार। छत को सहारा देने में सक्षम।</Wall.description>
+  
+</LanguageData>

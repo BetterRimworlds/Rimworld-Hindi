@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic insanity lance -->
+  <Apparel_PsychicInsanityLance.label>मानसिक उन्माद भाला</Apparel_PsychicInsanityLance.label>
+  <!-- EN: A limited-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving them into a berserk state. There is a risk of brain damage. It has a long range, but requires line of sight. -->
+  <Apparel_PsychicInsanityLance.description>यह एक सीमित-उपयोग वाला मानसिक प्रभावक है। यह लक्ष्य के मन को भयानक संवेदी विकृतियों से अभिभूत कर देता है, जिससे वे उन्मादी अवस्था में चले जाते हैं। मस्तिष्क क्षति का खतरा है। इसकी रेंज लंबी है, लेकिन सीधी दृश्य रेखा की आवश्यकता होती है।</Apparel_PsychicInsanityLance.description>
+  <!-- EN: charge -->
+  <Apparel_PsychicInsanityLance.comps.CompApparelReloadable.chargeNoun>चार्जिंग</Apparel_PsychicInsanityLance.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_PsychicInsanityLance.comps.CompApparelReloadable.cooldownGerund>ठंडा होना</Apparel_PsychicInsanityLance.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: psychic insanity lance -->
+  <Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>मानसिक उन्माद भाला</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>
+  <!-- EN: psychic insanity immune -->
+  <Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.invalidTargetPawn>मानसिक उन्माद प्रतिरक्षित</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.invalidTargetPawn>
+  
+  <!-- EN: psychic shock lance -->
+  <Apparel_PsychicShockLance.label>मानसिक आघात भाला</Apparel_PsychicShockLance.label>
+  <!-- EN: A limited-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. There is a risk of brain damage. It has a long range, but requires line of sight. -->
+  <Apparel_PsychicShockLance.description>यह एक सीमित-उपयोग वाला मानसिक प्रभावक है। यह लक्ष्य के मन को अराजक छवियों से झकझोर देता है, सुसंगत धारणा को अवरुद्ध कर देता है और उन्हें मानसिक आघात की स्थिति में डाल देता है। मस्तिष्क क्षति का जोखिम है। इसकी रेंज लंबी है, लेकिन सीधी दृश्य रेखा की आवश्यकता होती है।</Apparel_PsychicShockLance.description>
+  <!-- EN: charge -->
+  <Apparel_PsychicShockLance.comps.CompApparelReloadable.chargeNoun>चार्जिंग</Apparel_PsychicShockLance.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_PsychicShockLance.comps.CompApparelReloadable.cooldownGerund>ठंडा होना</Apparel_PsychicShockLance.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: psychic shock lance -->
+  <Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>मानसिक आघात भाला</Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>
+  <!-- EN: psychic shock immune -->
+  <Apparel_PsychicShockLance.verbs.psychic_shock_lance.invalidTargetPawn>मानसिक आघात प्रतिरोधी</Apparel_PsychicShockLance.verbs.psychic_shock_lance.invalidTargetPawn>
+  
+</LanguageData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: kibble -->
+  <Kibble.label>चारा</Kibble.label>
+  <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
+  <Kibble.description>मिश्रित मांस और पौधों के स्रोतों से बना पशु आहार। मनुष्य इसे खा सकते हैं, लेकिन उन्हें यह बिल्कुल भी पसंद नहीं आता।</Kibble.description>
+  
+  <!-- EN: fine meal -->
+  <MealFine.label>अच्छा भोजन</MealFine.label>
+  <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
+  <MealFine.description>विभिन्न सामग्रियों से सावधानीपूर्वक तैयार किया गया एक जटिल व्यंजन।</MealFine.description>
+  
+  <!-- EN: carnivore fine meal -->
+  <MealFine_Meat.label>मांसाहारी अच्छा भोजन</MealFine_Meat.label>
+  <!-- EN: A complex dish assembled with care from meat ingredients. -->
+  <MealFine_Meat.description>मांस सामग्री से सावधानीपूर्वक बनाया गया एक जटिल व्यंजन।</MealFine_Meat.description>
+  
+  <!-- EN: vegetarian fine meal -->
+  <MealFine_Veg.label>शाकाहारी अच्छा भोजन</MealFine_Veg.label>
+  <!-- EN: A complex dish assembled with care from vegetarian ingredients. -->
+  <MealFine_Veg.description>शाकाहारी सामग्री से सावधानीपूर्वक बनाया गया एक जटिल व्यंजन।</MealFine_Veg.description>
+  
+  <!-- EN: lavish meal -->
+  <MealLavish.label>शानदार भोजन</MealLavish.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish.description>पाककला की एक उत्कृष्ट कृति, यह भोजन शरीर, मन और आत्मा को पोषण देता है।</MealLavish.description>
+  
+  <!-- EN: carnivore lavish meal -->
+  <MealLavish_Meat.label>मांसाहारी शानदार भोजन</MealLavish_Meat.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish_Meat.description>पाककला की एक उत्कृष्ट कृति, यह भोजन शरीर, मन और आत्मा को पोषण देता है।</MealLavish_Meat.description>
+  
+  <!-- EN: vegetarian lavish meal -->
+  <MealLavish_Veg.label>शाकाहारी शानदार भोजन</MealLavish_Veg.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish_Veg.description>पाककला की एक उत्कृष्ट कृति, यह भोजन शरीर, मन और आत्मा को पोषण देता है।</MealLavish_Veg.description>
+  
+  <!-- EN: nutrient paste meal -->
+  <MealNutrientPaste.label>पोषक पेस्ट भोजन</MealNutrientPaste.label>
+  <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
+  <MealNutrientPaste.description>प्रोटीन, कार्बोहाइड्रेट और विटामिन, अमीनो एसिड और खनिजों का एक सिंथेटिक मिश्रण। शरीर को जो कुछ भी चाहिए, और पूरी तरह से घृणित।</MealNutrientPaste.description>
+  
+  <!-- EN: simple meal -->
+  <MealSimple.label>साधारण भोजन</MealSimple.label>
+  <!-- EN: A simple meal quickly cooked from one main ingredient. -->
+  <MealSimple.description>एक साधारण भोजन जो एक मुख्य सामग्री से जल्दी से बनाया जाता है।</MealSimple.description>
+  
+  <!-- EN: packaged survival meal -->
+  <MealSurvivalPack.label>तैयार भोजन</MealSurvivalPack.label>
+  <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
+  <MealSurvivalPack.description>उच्च गुणवत्ता वाला पैक किया हुआ भोजन, जो जीवित रहने की स्थितियों में उपयोग के लिए बनाया गया है। यह कभी खराब नहीं होता, लेकिन बाहर छोड़ने पर यह फिर भी खराब हो सकता है। यात्रा के लिए बहुत अच्छा है।</MealSurvivalPack.description>
+  
+  <!-- EN: pemmican -->
+  <Pemmican.label>पेमिकन</Pemmican.label>
+  <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
+  <Pemmican.description>वसा और वनस्पति भोजन का संरक्षित, मैश किया हुआ मिश्रण। स्वाद फीका है, लेकिन अप्रिय नहीं। यह प्रशीतन के बिना बहुत लंबे समय तक चलता है। यात्रा के लिए बढ़िया।</Pemmican.description>
+  
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>भालू</Bear_Grizzly.label>
+  <!-- EN: A huge omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Grizzly.description>एक विशाल सर्वाहारी स्तनपायी जो ठंडे जलवायु के लिए अनुकूलित है। भालुओं की मोटी चर्बी और फर उन्हें सर्दियों में गर्म रखते हैं।\n\nजबकि उनका सामान्य आहार मछली, जामुन, शहद और प्राप्त मांस से मिलकर बनता है, ग्रिजली अपनी विशाल शक्ति और घातक पंजे का उपयोग जीवित शिकार को मारने के लिए करने में सक्षम है। वे इतने भारी-भरकम जीवों के लिए आश्चर्यजनक रूप से तेज़ हैं।</Bear_Grizzly.description>
+  <!-- EN: bear meat -->
+  <Bear_Grizzly.race.meatLabel>भालू मांस</Bear_Grizzly.race.meatLabel>
+  <!-- EN: left claw -->
+  <Bear_Grizzly.tools.left_claw.label>बायां पंजा</Bear_Grizzly.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Bear_Grizzly.tools.left_claw.labelNoLocation>पंजे</Bear_Grizzly.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Bear_Grizzly.tools.right_claw.label>दायां पंजा</Bear_Grizzly.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Bear_Grizzly.tools.right_claw.labelNoLocation>पंजे</Bear_Grizzly.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Bear_Grizzly.tools.head.label>सिर</Bear_Grizzly.tools.head.label>
+  
+  <!-- EN: polar bear -->
+  <Bear_Polar.label>ध्रुवीय भालू</Bear_Polar.label>
+  <!-- EN: A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
+  <Bear_Polar.description>बर्फ़ीले वातावरण के लिए अनुकूलित एक विशाल सफेद भालू। इनकी मोटी चर्बी और फर सर्दियों में इन्हें गर्म रखते हैं।\n\nजबकि इनकी सामान्य आहार में मछली और बचा हुआ मांस शामिल होता है, ध्रुवीय भालू अपने विशाल बल और घातक पंजों का उपयोग जीवित शिकार को मारने के लिए भी कर सकता है। ये इतने भारी-भरकम जीवों के लिए आश्चर्यजनक रूप से तेज़ होते हैं।</Bear_Polar.description>
+  <!-- EN: left claw -->
+  <Bear_Polar.tools.left_claw.label>बायां पंजा</Bear_Polar.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Bear_Polar.tools.left_claw.labelNoLocation>पंजे</Bear_Polar.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Bear_Polar.tools.right_claw.label>दायां पंजा</Bear_Polar.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Bear_Polar.tools.right_claw.labelNoLocation>पंजे</Bear_Polar.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Bear_Polar.tools.head.label>सिर</Bear_Polar.tools.head.label>
+  
+</LanguageData>

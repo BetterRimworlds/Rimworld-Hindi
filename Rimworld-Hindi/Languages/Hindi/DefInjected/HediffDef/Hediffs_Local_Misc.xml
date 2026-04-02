@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageModerate.label>रासायनिक क्षति</ChemicalDamageModerate.label>
+  <!-- EN: Chemical damage at the cellular level. -->
+  <ChemicalDamageModerate.description>कोशिका स्तर पर रासायनिक क्षति।</ChemicalDamageModerate.description>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageSevere.label>रासायनिक क्षति</ChemicalDamageSevere.label>
+  <!-- EN: Chemical damage at the cellular level. -->
+  <ChemicalDamageSevere.description>कोशिका स्तर पर रासायनिक क्षति।</ChemicalDamageSevere.description>
+  
+  <!-- EN: cirrhosis -->
+  <Cirrhosis.label>सिरोसिस</Cirrhosis.label>
+  <!-- EN: A degenerative liver disease caused by excessive alcohol consumption. -->
+  <Cirrhosis.description>अत्यधिक शराब सेवन के कारण होने वाली एक अध:पतनशील यकृत बीमारी।</Cirrhosis.description>
+  
+  <!-- EN: resurrection psychosis -->
+  <ResurrectionPsychosis.label>पुनरुत्थान मनोविकृति</ResurrectionPsychosis.label>
+  <!-- EN: Chaotic thought patterns caused by the decoherence of resurrection mechanites. Resurrection psychosis progresses and eventually causes total psychosis and death.\n\nResurrected people require mechanites to rebuild their bodily functions at the cellular level. Mechanites always have a chance to lose coherence, and if they do, they wreak havoc in the central nervous system. The older the corpse, the more mechanite action is required to resurrect it, and the greater the chance of eventual decoherence. -->
+  <ResurrectionPsychosis.description>पुनरुत्थान मैकेनाइट्स के विखंडन के कारण अराजक विचार पैटर्न उत्पन्न होते हैं। पुनरुत्थान मनोविकृति बढ़ती है और अंततः पूर्ण मनोविकृति और मृत्यु का कारण बनती है।\n\nपुनरुत्थित व्यक्तियों को कोशिकीय स्तर पर अपने शारीरिक कार्यों का पुनर्निर्माण करने के लिए मैकेनाइट्स की आवश्यकता होती है। मैकेनाइट्स में हमेशा सामंजस्य खोने का खतरा होता है, और यदि ऐसा होता है, तो वे केंद्रीय तंत्रिका तंत्र में तबाही मचाते हैं। जितना पुराना शव होगा, उसे पुनर्जीवित करने के लिए उतने ही अधिक मैकेनाइट क्रिया की आवश्यकता होगी, और अंततः विखंडन की संभावना उतनी ही अधिक होगी।</ResurrectionPsychosis.description>
+  <!-- EN: {PAWN_nameDef} is suffering from a terminal case of resurrection psychosis, a condition caused by the decoherence of resurrection mechanites. The condition will slowly worsen, eventually resulting in death. -->
+  <ResurrectionPsychosis.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_gender ? {PAWN_nameDef} पुनरुत्थान मनोविकृति से पीड़ित है, जो पुनरुत्थान मैकेनाइट्स के असंगति के कारण होने वाली एक स्थिति है। यह स्थिति धीरे-धीरे बदतर होती जाएगी, अंततः मृत्यु का कारण बनेगी। : {PAWN_nameDef} पुनरुत्थान मनोविकृति से पीड़ित है, जो पुनरुत्थान मैकेनाइट्स के असंगति के कारण होने वाली स्थिति है। यह स्थिति धीरे-धीरे बदतर होती जाएगी, अंततः मृत्यु का कारण बनेगी।}</ResurrectionPsychosis.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <!-- EN: Chaotic thought patterns caused by after-effects of resurrection. Resurrection psychosis is progressive and eventually causes psychosis and death. -->
+  <ResurrectionPsychosis.descriptionShort>पुनरुत्थान के बाद प्रभावों के कारण अराजक विचार पैटर्न। पुनरुत्थान मनोविकृति प्रगतिशील है और अंततः मनोविकृति और मृत्यु का कारण बनती है।</ResurrectionPsychosis.descriptionShort>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-0.label>प्रारंभिक</ResurrectionPsychosis.stages.early-0.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-1.label>प्रारंभिक</ResurrectionPsychosis.stages.early-1.label>
+  <!-- EN: moderate -->
+  <ResurrectionPsychosis.stages.moderate.label>मध्यम</ResurrectionPsychosis.stages.moderate.label>
+  <!-- EN: advanced -->
+  <ResurrectionPsychosis.stages.advanced.label>उन्नत</ResurrectionPsychosis.stages.advanced.label>
+  <!-- EN: severe -->
+  <ResurrectionPsychosis.stages.severe.label>गंभीर</ResurrectionPsychosis.stages.severe.label>
+  <!-- EN: total -->
+  <ResurrectionPsychosis.stages.total.label>कुल</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: catatonic -->
+  <ResurrectionPsychosis.stages.catatonic.label>कैटैटोनिक</ResurrectionPsychosis.stages.catatonic.label>
+  
+  <!-- EN: scaria -->
+  <Scaria.label>स्केरिया</Scaria.label>
+  <!-- EN: An infectious disease which can drive humans and animals into a berserk rage. Scaria can be cured through a special medical operation, but the creature must first be downed in order to make it possible to operate. The disease poisons the flesh, so creatures killed with scaria often appear rotten after death and cannot be butchered for meat or leather. After scaria rage has begun, the creature will last several days before dying from exhaustion. Scaria-infected animals can't be tamed. -->
+  <Scaria.description>एक संक्रामक रोग जो मनुष्यों और जानवरों को उन्मादी क्रोध में धकेल सकता है। स्कैरिया का इलाज एक विशेष चिकित्सा ऑपरेशन से किया जा सकता है, लेकिन ऑपरेशन करने के लिए पहले जीव को निष्क्रिय करना आवश्यक है। यह रोग मांस को विषाक्त करता है, इसलिए स्कैरिया से मरने वाले जीव अक्सर मृत्यु के बाद सड़ जाते हैं और मांस या चमड़े के लिए उनका वध नहीं किया जा सकता है। स्कैरिया के क्रोध की शुरुआत के बाद, जीव थकान से मरने से पहले कई दिन तक जीवित रहेगा। स्कैरिया से संक्रमित जानवरों को पालतू नहीं बनाया जा सकता है।</Scaria.description>
+  <!-- EN: An infectious disease which can drive humans and animals into a berserk rage. Scaria-infected animals can't be tamed. -->
+  <Scaria.descriptionShort>एक संक्रामक रोग जो मनुष्यों और जानवरों को उन्मादी क्रोध में धकेल सकता है। स्कैरिया से संक्रमित जानवरों को पालतू नहीं बनाया जा सकता।</Scaria.descriptionShort>
+  <!-- EN: Scaria infected. -->
+  <Scaria.inspectString>स्कारिया संक्रमित।</Scaria.inspectString>
+  <!-- EN: Scaria sores -->
+  <Scaria.renderNodeProperties.0.debugLabel>स्केरिया घाव</Scaria.renderNodeProperties.0.debugLabel>
+  <!-- EN: Scaria sores -->
+  <Scaria.renderNodeProperties.1.debugLabel>स्केरिया घाव</Scaria.renderNodeProperties.1.debugLabel>
+  
+  <!-- EN: sterilized -->
+  <Sterilized.label>नसबंदीकृत</Sterilized.label>
+  <!-- EN: This creature's reproductive system has been permanently shut down. -->
+  <Sterilized.description>इस प्राणी का प्रजनन तंत्र स्थायी रूप से बंद हो गया है।</Sterilized.description>
+  
+  <!-- EN: trauma savant -->
+  <TraumaSavant.label>आघात विशेषज्ञ</TraumaSavant.label>
+  <!-- EN: An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak. -->
+  <TraumaSavant.description>मस्तिष्क को आघात लगने से उत्पन्न एक असाधारण स्थिति। चोट के जवाब में, मस्तिष्क ने कुछ क्षेत्रों में अत्यधिक क्षमता विकसित कर ली है, जबकि बोलने की क्षमता खो दी है।</TraumaSavant.description>
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>आघात</TraumaSavant.labelNoun>
+  
+</LanguageData>

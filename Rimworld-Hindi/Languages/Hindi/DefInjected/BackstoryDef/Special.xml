@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] is a child. The story of [PAWN_possessive] childhood is still being written. -->
+  <Child27.description>{PAWN_gender ? [PAWN_nameDef] एक बच्ची है। उसके बचपन की कहानी अभी लिखी जा रही है। : [PAWN_nameDef] एक बच्चा है। उसके बचपन की कहानी अभी लिखी जा रही है।}</Child27.description>
+  <!-- EN: child -->
+  <Child27.title>बच्चा</Child27.title>
+  <Child27.titleFemale>बालिका</Child27.titleFemale>
+  <!-- EN: child -->
+  <Child27.titleShort>बच्चा</Child27.titleShort>
+  <Child27.titleShortFemale>बालिका</Child27.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] is a child. The story of [PAWN_possessive] childhood is still being written. -->
+  <ChildTribal.description>{PAWN_gender ? [PAWN_nameDef] एक बच्ची है। उसके बचपन की कहानी अभी लिखी जा रही है। : [PAWN_nameDef] एक बच्चा है। उसके बचपन की कहानी अभी लिखी जा रही है।}</ChildTribal.description>
+  <!-- EN: child -->
+  <ChildTribal.title>बच्चा</ChildTribal.title>
+  <ChildTribal.titleFemale>बालिका</ChildTribal.titleFemale>
+  <!-- EN: child -->
+  <ChildTribal.titleShort>बच्चा बालक</ChildTribal.titleShort>
+  <ChildTribal.titleShortFemale>बालिका</ChildTribal.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] became an adult in our colony. [PAWN_possessive] story is still being written. -->
+  <Colonist97.description>{PAWN_gender ? [PAWN_nameDef] हमारी कॉलोनी में वयस्क बनीं। उसकी कहानी अभी लिखी जा रही है। : [PAWN_nameDef] हमारी कॉलोनी में वयस्क बन गया। उसकी कहानी अभी लिखी जा रही है।}</Colonist97.description>
+  <!-- EN: colonist -->
+  <Colonist97.title>उपनिवेशवादी</Colonist97.title>
+  <!-- EN: colonist -->
+  <Colonist97.titleShort>कॉलोनीवादी</Colonist97.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in our colony. -->
+  <ColonyChild59.description>{PAWN_gender ? [PAWN_nameDef] हमारी कॉलोनी में पली-बढ़ी। : [PAWN_nameDef] हमारे उपनिवेश में पला-बढ़ा।}</ColonyChild59.description>
+  <!-- EN: colony child -->
+  <ColonyChild59.title>कॉलोनी का बच्चा</ColonyChild59.title>
+  <ColonyChild59.titleFemale>कॉलोनी की बच्ची</ColonyChild59.titleFemale>
+  <!-- EN: colonist -->
+  <ColonyChild59.titleShort>{PAWN_gender ? उपनिवेश की बच्ची : उपनिवेश का बच्चा}</ColonyChild59.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] is a baby. [PAWN_possessive] life revolves around milk and naps. -->
+  <Newborn79.description>[PAWN_nameDef] एक शिशु है। उसका जीवन दूध और झपकी के इर्द-गिर्द घूमता है।</Newborn79.description>
+  <!-- EN: newborn -->
+  <Newborn79.title>नवजात शिशु</Newborn79.title>
+  <Newborn79.titleFemale>नवजात शिशु</Newborn79.titleFemale>
+  <!-- EN: newborn -->
+  <Newborn79.titleShort>नवजात शिशु</Newborn79.titleShort>
+  <Newborn79.titleShortFemale>नवजात शिशु</Newborn79.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in our tribe. -->
+  <TribeChild19.description>{PAWN_gender ? [PAWN_nameDef] हमारी जनजाति में पली-बढ़ी। : [PAWN_nameDef] हमारे कबीले में पला-बढ़ा।}</TribeChild19.description>
+  <!-- EN: tribe child -->
+  <TribeChild19.title>जनजातीय बालक</TribeChild19.title>
+  <TribeChild19.titleFemale>जनजातीय बालिका</TribeChild19.titleFemale>
+  <!-- EN: tribal -->
+  <TribeChild19.titleShort>{PAWN_gender ? जनजाति की बच्ची : जनजाति का बच्चा}</TribeChild19.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] became an adult in our tribe. [PAWN_possessive] story is still being written. -->
+  <TribeMember57.description>{PAWN_gender ? [PAWN_nameDef] हमारी जनजाति में वयस्क बनी। उसकी कहानी अभी लिखी जा रही है। : [PAWN_nameDef] हमारे कबीले में वयस्क हुआ। उसकी कहानी अभी लिखी जा रही है।}</TribeMember57.description>
+  <!-- EN: tribe member -->
+  <TribeMember57.title>जनजातीय सदस्य</TribeMember57.title>
+  <!-- EN: tribal -->
+  <TribeMember57.titleShort>{PAWN_gender ? जनजाति की सदस्य : जनजाति का सदस्य}</TribeMember57.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood in a growth vat. -->
+  <VatgrownChild11.description>[PAWN_nameDef] ने अपना बचपन ज्यादातर एक विकास पात्र में बिताया।</VatgrownChild11.description>
+  <!-- EN: vatgrown child -->
+  <VatgrownChild11.title>कृत्रिम रूप से उगाया गया बालक</VatgrownChild11.title>
+  <VatgrownChild11.titleFemale>कृत्रिम रूप से पली बच्ची</VatgrownChild11.titleFemale>
+  <!-- EN: child -->
+  <VatgrownChild11.titleShort>बच्चा बालक</VatgrownChild11.titleShort>
+  <VatgrownChild11.titleShortFemale>बालिका</VatgrownChild11.titleShortFemale>
+  
+</LanguageData>

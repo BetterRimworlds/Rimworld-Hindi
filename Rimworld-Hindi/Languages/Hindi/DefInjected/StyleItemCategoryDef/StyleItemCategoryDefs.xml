@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cannibal -->
+  <Cannibal.label>मानवभक्षी</Cannibal.label>
+  
+  <!-- EN: minimal -->
+  <Minimal.label>न्यूनतम</Minimal.label>
+  
+  <!-- EN: misc -->
+  <Misc.label>विविध</Misc.label>
+  
+  <!-- EN: moustache -->
+  <Moustache.label>मूंछें</Moustache.label>
+  
+  <!-- EN: punk -->
+  <Punk.label>पंक</Punk.label>
+  
+  <!-- EN: royal -->
+  <Royal.label>शाही</Royal.label>
+  
+  <!-- EN: rural -->
+  <Rural.label>ग्रामीण</Rural.label>
+  
+  <!-- EN: soldier -->
+  <Soldier.label>सैनिक</Soldier.label>
+  
+  <!-- EN: tribal -->
+  <Tribal.label>जनजातीय</Tribal.label>
+  
+  <!-- EN: urban -->
+  <Urban.label>शहरी</Urban.label>
+  
+</LanguageData>

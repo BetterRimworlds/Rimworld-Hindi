@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: thump bomb -->
+  <Bullet_ThumpCannon.label>धक्का बम</Bullet_ThumpCannon.label>
+  
+  <!-- EN: thump cannon -->
+  <Gun_ThumpCannon.label>धक्का तोप</Gun_ThumpCannon.label>
+  <!-- EN: A breaching explosive launcher used by mechanoids. It fires a concussion bomb that is extremely effective against walls and structures, but does much less damage to small targets. -->
+  <Gun_ThumpCannon.description>मेकैनॉइड्स द्वारा इस्तेमाल किया जाने वाला एक दीवार तोड़ने वाला विस्फोटक लॉन्चर। यह एक झटके वाला बम दागता है जो दीवारों और संरचनाओं के खिलाफ बेहद प्रभावी है, लेकिन छोटे लक्ष्यों को बहुत कम नुकसान पहुंचाता है।</Gun_ThumpCannon.description>
+  <!-- EN: barrel -->
+  <Gun_ThumpCannon.tools.barrel.label>बैरल</Gun_ThumpCannon.tools.barrel.label>
+  <!-- EN: thump cannon -->
+  <Gun_ThumpCannon.verbs.Verb_Shoot.label>धक्का तोप</Gun_ThumpCannon.verbs.Verb_Shoot.label>
+  
+</LanguageData>

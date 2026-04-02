@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacked building -->
+  <AttackedBuilding.label>हमला किया गया भवन</AttackedBuilding.label>
+  
+  <!-- EN: debug event -->
+  <DebugGoodwill.label>डीबग घटना</DebugGoodwill.label>
+  
+  <!-- EN: laborers missed shuttle -->
+  <LaborersMissedShuttle.label>श्रमजीवी छूटे हुए शटल</LaborersMissedShuttle.label>
+  
+  <!-- EN: tendency to move toward natural goodwill -->
+  <ReachNaturalGoodwill.label>प्राकृतिक सद्भावना प्रवृत्ति</ReachNaturalGoodwill.label>
+  
+  <!-- EN: ritual done -->
+  <RitualDone.label>अनुष्ठान पूर्ण</RitualDone.label>
+  
+  <!-- EN: shuttle destroyed -->
+  <ShuttleDestroyed.label>शटल नष्ट</ShuttleDestroyed.label>
+  
+  <!-- EN: used forbidden thing -->
+  <UsedForbiddenThing.label>निषिद्ध वस्तु का उपयोग</UsedForbiddenThing.label>
+  
+  <!-- EN: used harmful ability -->
+  <UsedHarmfulAbility.label>हानिकारक क्षमता का उपयोग</UsedHarmfulAbility.label>
+  
+</LanguageData>

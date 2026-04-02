@@ -1,0 +1,692 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
+    <li>Direction->Words/Adjectives/CompassDirections</li>
+    <li>Letter->WordParts/CapitalLetters</li>
+    <li>SylE->WordParts/Syllables_English</li>
+    <li>SylG->WordParts/Syllables_Galician</li>
+    <li>SylB->WordParts/Syllables_Byzantinian</li>
+    <li>SylP->WordParts/Syllables_Pig</li>
+    <li>Color->Words/Nouns/Colors</li>
+    <li>ColorBadass->Words/Nouns/Colors_Badass</li>
+    <li>Vegetable->Words/Nouns/Vegetables</li>
+    <li>Game->Words/Nouns/Games</li>
+    <li>Animal->Words/Nouns/Animals</li>
+    <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
+    <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
+    <li>Weapon->Words/Nouns/Weapons</li>
+    <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
+    <li>NaturalObject->Words/Nouns/NaturalObject</li>
+    <li>TreeType->Words/Nouns/TreeTypes</li>
+    <li>PersonJob->Words/Nouns/People_Jobs</li>
+    <li>PersonFamily->Words/Nouns/People_Family</li>
+    <li>PersonAlly->Words/Nouns/People_Allies</li>
+    <li>PersonBadass->Words/Nouns/People_Badass</li>
+    <li>Enemy->Words/Nouns/Enemies</li>
+    <li>Apparel->Words/Nouns/Apparel</li>
+    <li>Gore->Words/Nouns/Gore</li>
+    <li>Mechanoid->Words/Nouns/Mechanoid</li>
+    <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
+    <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
+    <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
+    <li>Community->Words/Nouns/Communities</li>
+    <li>BodyPart->Words/Nouns/Bodyparts</li>
+    <li>AdjectiveLarge->Words/Adjectives/Large</li>
+    <li>AdjectiveBadass->Words/Adjectives/Badass</li>
+    <li>AdjectiveAngsty->Words/Adjectives/Angsty</li>
+    <li>AdjectiveFriendly->Words/Adjectives/Friendly</li>
+    <li>AdjectiveNatural->Words/Adjectives/Natural</li>
+    <li>VerbFriendly->Words/Verbs/Friendly</li>
+    <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
+  -->
+  <GlobalUtility.rulePack.rulesFiles>
+    <!-- Donde se usan generalmente estos archivos-->
+    <!-- Adjetivos:-->
+    <li>AdjectiveAngsty->Words/Adjectives/Angsty</li>
+    <li>AdjectiveAngsty_Fem->Words/Adjectives/Angsty_Fem</li>
+    <li>AdjectiveBadass->Words/Adjectives/Badass</li>
+    <li>AdjectiveBadass_Fem->Words/Adjectives/Badass_Fem</li>
+    <li>AdjectiveBadass_Plural->Words/Adjectives/Badass_Plural</li>
+    <li>AdjectiveFriendly->Words/Adjectives/Friendly</li>
+    <li>AdjectiveFriendly_Fem->Words/Adjectives/Friendly_Fem</li>
+    <li>AdjectiveLarge->Words/Adjectives/Large</li>
+    <li>AdjectiveLarge_Fem->Words/Adjectives/Large_Fem</li>
+    <li>AdjectiveNatural->Words/Adjectives/Natural</li>
+    <li>AdjectiveNaturalFem->Words/Adjectives/Natural_Fem</li>
+    <!-- Animales:-->
+    <li>Animal->Words/Nouns/Animals</li>
+    <li>Animal_Cap->Words/Nouns/Animals_Cap</li>
+    <li>Animal_Fem->Words/Nouns/Animals_Fem</li>
+    <li>Animal_FemCap->Words/Nouns/Animals_FemCap</li>
+    <li>Animal_FemPlural->Words/Nouns/Animals_FemPlural</li>
+    <li>Animal_Plural->Words/Nouns/Animals_Plural</li>
+    <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
+    <li>AnimalBadass_Cap->Words/Nouns/Animals_BadassCap</li>
+    <li>AnimalBadass_Fem->Words/Nouns/Animal_Badass_Fem</li>
+    <li>AnimalBadass_FemCap->Words/Nouns/Animal_Badass_FemCap</li>
+    <li>AnimalBadass_FemPlural->Words/Nouns/Animal_Badass_FemPlural</li>
+    <li>AnimalBadass_Plural->Words/Nouns/Animal_Badass_Plural</li>
+    <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
+    <li>AnimalGroup_Fem->Words/Nouns/AnimalGroups_Fem</li>
+    <!--Vestimenta:-->
+    <li>Apparel->Words/Nouns/Apparel</li>
+    <li>Apparel_Fem->Words/Nouns/Apparel_Fem</li>
+    <!--Arte:-->
+    <li>Artwork->Words/Nouns/Artworks</li>
+    <li>Artwork_Fem->Words/Nouns/Artworks_Fem</li>
+    <!--Partes del Cuerpo:-->
+    <li>BodyPart->Words/Nouns/Bodyparts</li>
+    <li>BodyPart_Fem->Words/Nouns/Bodyparts_Fem</li>
+    <li>BodyPart_Human->Words/Nouns/Bodyparts_Human</li>
+    <!--Negocios:-->
+    <li>BusinessType->Words/Nouns/BusinessTypes</li>
+    <li>BusinessType_Cap->Words/Nouns/BusinessTypes_Cap</li>
+    <li>BusinessType_Fem->Words/Nouns/BusinessTypes_Fem</li>
+    <li>BusinessType_FemCap->Words/Nouns/BusinessTypes_FemCap</li>
+    <li>BusinessType_Plural->Words/Nouns/BusinessTypes_Plural</li>
+    <li>BusinessType_FemPlural->Words/Nouns/BusinessTypes_FemPlural</li>
+    <li>BusinessType_PluralCap->Words/Nouns/BusinessTypes_PluralCap</li>
+    <!--Colores:-->
+    <li>Color->Words/Nouns/Colors</li>
+    <li>Color_Cap->Words/Nouns/Colors_Cap</li>
+    <li>Color_Plural->Words/Nouns/Colors_Plural</li>
+    <li>ColorBadass->Words/Nouns/Colors_Badass</li>
+    <li>ColorBadass_Fem->Words/Nouns/Colors_BadassFem</li>
+    <li>Color_Fem->Words/Nouns/Colors_Fem</li>
+    <li>Color_FemCap->Words/Nouns/Colors_FemCap</li>
+    <!--Comunidades:-->
+    <li>Community->Words/Nouns/Communities</li>
+    <li>Community_Fem->Words/Nouns/Communities_Fem</li>
+    <!--Conceptos:-->
+    <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
+    <li>ConceptAngsty_Fem->Words/Nouns/Concepts_AngstyFem</li>
+    <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
+    <li>ConceptBadass_Fem->Words/Nouns/Concepts_BadassFem</li>
+    <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
+    <li>ConceptPositive_Fem->Words/Nouns/Concepts_PositiveFem</li>
+    <!--Direcciones:-->
+    <li>Direction->Words/Adjectives/CompassDirections</li>
+    <!--Enemigos:-->
+    <li>Enemy->Words/Nouns/Enemies</li>
+    <li>Enemy_Fem->Words/Nouns/Enemies_Fem</li>
+    <!--Juegos:-->
+    <li>Game->Words/Nouns/Games</li>
+    <li>Game_Fem->Words/Nouns/Games_Fem</li>
+    <li>Game_FemPlural->Words/Nouns/Games_FemPlural</li>
+    <li>Game_Plural->Words/Nouns/Games_Plural</li>
+    <!--Dantesco: Se usa en RulePack_Art_ImagesTales-->
+    <li>Gore->Words/Nouns/Gore</li>
+    <li>GoreMech->Words/Nouns/Gore_Mech</li>
+    <li>GoreMechPl->Words/Nouns/Gore_MechPlural</li>
+    <li>Gore_Plural->Words/Nouns/Gore_Plural</li>
+    <!--Nombre de Grupos:-->
+    <li>GroupName->Words/Nouns/GroupNames</li>
+    <!--Números Romanos:-->
+    <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
+    <!--Letras:-->
+    <li>Letter->WordParts/CapitalLetters</li>
+    <!--Mecanoides:-->
+    <li>Mechanoid->Words/Nouns/Mechanoid</li>
+    <li>Mechanoid_Fem->Words/Nouns/Mechanoid_Fem</li>
+    <li>Mechanoid_FemPl->Words/Nouns/Mechanoid_FemPlural</li>
+    <li>Mechanoid_Plural->Words/Nouns/Mechanoid_Plural</li>
+    <!--Objetos naturales:-->
+    <li>NaturalObject->Words/Nouns/NaturalObject</li>
+    <li>NaturalObject_Fem->Words/Nouns/NaturalObject_Fem</li>
+    <!--Caracteristicas Personales:-->
+    <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
+    <li>PersonalCharacteristic_Fem->Words/Nouns/PersonalCharacteristics_fem</li>
+    <!--Tipos de Personajes:-->
+    <li>PersonAlly->Words/Nouns/People_Allies</li>
+    <li>PersonBadass->Words/Nouns/People_Badass</li>
+    <li>PersonBadass_Fem->Words/Nouns/People_Badass_Fem</li>
+    <li>PersonFamily->Words/Nouns/People_Family</li>
+    <li>PersonFamily_Fem->Words/Nouns/People_Family_Fem</li>
+    <!--Tipos de Trabajos:-->
+    <li>PersonJob->Words/Nouns/People_Jobs</li>
+    <li>PersonJob_Plural->Words/Nouns/People_Jobs_Plural</li>
+    <li>PersonJob_Fem->Words/Nouns/People_JobsFem</li>
+    <!--Tipos de uniones modernas:-->
+    <li>PoliticalUnionOutlander->Words/Nouns/PoliticalUnions_Outlander</li>
+    <!--Tipos de uniones de tribus:-->
+    <li>PoliticalUnionTribal->Words/Nouns/PoliticalUnions_Tribal</li>
+    <!--Sílabas:-->
+    <li>SylB->WordParts/Syllables_Byzantinian</li>
+    <li>SylB_Cap->WordParts/Syllables_Byzantinian_Cap</li>
+    <li>SylE->WordParts/Syllables_English</li>
+    <li>SylE_Cap->WordParts/Syllables_English_Cap</li>
+    <li>SylG->WordParts/Syllables_Galician</li>
+    <li>SylG_Cap->WordParts/Syllables_Galician_Cap</li>
+    <li>SylP->WordParts/Syllables_Pig</li>
+    <!--Nombre de los biomas:-->
+    <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
+    <li>TerrainFeature_Fem->Words/Nouns/TerrainFeatures_Fem</li>
+    <li>TerrainFeature_Pl->Words/Nouns/TerrainFeatures_Plural</li>
+    <li>TerrainFeature_PlFem->Words/Nouns/TerrainFeatures_PluralFem</li>
+    <!--Nombre de los árboles:-->
+    <li>TreeType->Words/Nouns/TreeTypes</li>
+    <li>TreeType_Fem->Words/Nouns/TreeTypes_Fem</li>
+    <!--Nombre para los tribales-->
+    <li>TribalFirstName->Words/Foreign/TribalsFirstName</li>
+    <li>TribalLastName->Words/Foreign/TribalsLastName</li>
+    <!--Nombre para las tribus en mayúscula:-->
+    <li>WordTribal_Cap->Words/Foreign/Tribal_Cap</li>
+    <li>WordTribal_Name->Words/Foreign/Tribal_Names</li>
+    <li>WordTribal_NameCap->Words/Foreign/Tribal_NamesCap</li>
+    <!--Nombre de vegetales:-->
+    <li>Vegetable->Words/Nouns/Vegetables</li>
+    <li>Vegetable_Fem->Words/Nouns/Vegetables_Fem</li>
+    <!--Nombre de verbos amistosos:-->
+    <li>VerbFriendly->Words/Verbs/Friendly</li>
+    <li>VerbFriendly_Fem->Words/Verbs/Friendly_Fem</li>
+    <!--Armas:-->
+    <li>Weapon->Words/Nouns/Weapons</li>
+    <li>WeaponVarPl->Words/Nouns/WeaponsVar</li>
+    <li>WeaponCac->Words/Nouns/Weapons_Cac</li>
+    <li>WeaponCac_Fem->Words/Nouns/Weapons_CacFem</li>
+    <li>WeaponCac_Plural->Words/Nouns/Weapons_CacPlural</li>
+    <li>WeaponCac_FemPlural->Words/Nouns/Weapons_CacFemPlural</li>
+    <li>Weapon_Fem->Words/Nouns/Weapons_Fem</li>
+    <li>Weapon_FemPlural->Words/Nouns/Weapons_FemPlural</li>
+    <li>Weapon_Plural->Words/Nouns/Weapons_Plural</li>
+    <!--Armas:WeaponLongRange-->
+    <li>Weapon_Ranged->Words/Nouns/Weapons_Ranged</li>
+  </GlobalUtility.rulePack.rulesFiles>
+  <!-- EN:
+    <li>Trans->of</li>
+    <li>Trans->for</li>
+    <li>Trans->by</li>
+    <li>Trans->with</li>
+    <li>Character(p=6)->[PersonJob]</li>
+    <li>Character(p=4)->[Animal]</li>
+    <li>Character(p=3)->[Enemy]</li>
+    <li>Character->[Mechanoid]</li>
+    <li>Quantity_adjphrase->two</li>
+    <li>Quantity_adjphrase->three</li>
+    <li>Quantity_adjphrase->four</li>
+    <li>Quantity_adjphrase->five</li>
+    <li>Quantity_adjphrase->six</li>
+    <li>Quantity_adjphrase->seven</li>
+    <li>Quantity_adjphrase->eight</li>
+    <li>Quantity_adjphrase->nine</li>
+    <li>Quantity_adjphrase->ten</li>
+    <li>Quantity_adjphrase->several</li>
+    <li>Quantity_adjphrase->a group of</li>
+    <li>Quantity_adjphrase->a large group of</li>
+    <li>Quantity_adjphrase->dozens of</li>
+    <li>Quantity_adjphrase->hundreds of</li>
+    <li>Quantity_adjphrase->a thousand</li>
+    <li>Quantity_adjphrase->thousands of</li>
+    <li>Shape->triangle</li>
+    <li>Shape->square</li>
+    <li>Shape->rectangle</li>
+    <li>Shape->cone</li>
+    <li>Shape->line</li>
+    <li>Shape->heart</li>
+    <li>Shape->star</li>
+    <li>Shape->circle</li>
+    <li>Shape->ellipse</li>
+    <li>AdjectiveAny->[AdjectiveBadass]</li>
+    <li>AdjectiveAny->[AdjectiveAngsty]</li>
+    <li>AdjectiveAny->[AdjectiveFriendly]</li>
+    <li>AdjectiveAny->[AdjectiveNatural]</li>
+    <li>ConceptAny->[ConceptPositive]</li>
+    <li>ConceptAny->[ConceptBadass]</li>
+    <li>ConceptAny->[ConceptAngsty]</li>
+    <li>PersonalCharacteristic(p=0.15)->genitals</li>
+    <li>PersonalCharacteristic(p=0.15)->pubic hair</li>
+    <li>PersonalCharacteristic(p=0.15)->body hair</li>
+    <li>PersonalCharacteristic(p=0.15)->toilet habits</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual prowess</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual preferences</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
+  -->
+  <GlobalUtility.rulePack.rulesStrings>
+    <!--Reglas Especiales-->
+    <!--asker-->
+    <li>asker_o_a(asker_gender!=Female)->या</li>
+    <li>asker_o_a(asker_gender==Female)->एक</li>
+    <li>asker_e_a(asker_gender!=Female)->और</li>
+    <li>asker_e_a(asker_gender==Female)->एक</li>
+    <li>asker_x_a(asker_gender!=Female)-></li>
+    <li>asker_x_a(asker_gender==Female)->एक</li>
+    <li>asker_a(asker_gender!=Female)->एक</li>
+    <li>asker_a(asker_gender==Female)->एक</li>
+    <li>asker_aCap(asker_gender!=Female)->एक</li>
+    <li>asker_aCap(asker_gender==Female)->एक</li>
+    <li>asker_TheCap(asker_gender!=Female)->वह</li>
+    <li>asker_TheCap(asker_gender==Female)->वह</li>
+    <li>asker_The(asker_gender!=Female)->का</li>
+    <li>asker_The(asker_gender==Female)->का / की / के (depending on gender and case)</li>
+    <li>asker_a_al(asker_gender!=Female)->को</li>
+    <li>asker_a_al(asker_gender==Female)->को</li>
+    <li>titleHeir_o_a(titleHeir_gender==Male)->या</li>
+    <li>titleHeir_o_a(titleHeir_gender==Female)->एक</li>
+    <li>titleHeir_o_a(titleHeir_gender==None)->या</li>
+    <li>titleHeirDef(titleHeir_gender==Male)->का</li>
+    <li>titleHeirDef(titleHeir_gender==Female)->का / की / के (depending on gender and case)</li>
+    <li>titleHeirDef(titleHeir_gender==None)->का</li>
+    <!--INITIATOR-->
+    <li>INITIATOR_o_a(INITIATOR_gender!=Female)->या</li>
+    <li>INITIATOR_o_a(INITIATOR_gender==Female)->एक</li>
+    <!--PRISONER-->
+    <li>PRISONER_o_a(PRISONER_gender!=Female)->या</li>
+    <li>PRISONER_o_a(PRISONER_gender==Female)->एक</li>
+    <!--PATIENT-->
+    <li>PATIENT_o_a(PATIENT_gender!=Female)->या</li>
+    <li>PATIENT_o_a(PATIENT_gender==Female)->एक</li>
+    <!--RECIPIENT-->
+    <li>RECIPIENT_o_a(RECIPIENT_gender!=Female)->या</li>
+    <li>RECIPIENT_o_a(RECIPIENT_gender==Female)->एक</li>
+    <!--INITIATOR-->
+    <li>INITIATOR_o_a(INITIATOR_gender!=Female)->या</li>
+    <li>INITIATOR_o_a(INITIATOR_gender==Female)->एक</li>
+    <!--refugee-->
+    <li>refugee_o_a(refugee_gender!=Female)->या</li>
+    <li>refugee_o_a(refugee_gender==Female)->एक</li>
+    <li>refugee_ununa(refugee_gender!=Female)->एक</li>
+    <li>refugee_ununa(refugee_gender==Female)->एक</li>
+    <!--joiner-->
+    <li>joiner_a(joiner_gender!=Female)->एक</li>
+    <li>joiner_a(joiner_gender==Female)->एक</li>
+    <li>joiner_A(joiner_gender!=Female)->एक</li>
+    <li>joiner_A(joiner_gender==Female)->एक</li>
+    <li>joiner_o_a(joiner_gender!=Female)->या</li>
+    <li>joiner_o_a(joiner_gender==Female)->एक</li>
+    <!-- regla especial para la misión JoinerTheat-->
+    <li>joiner_especial(joiner_gender!=Female)->बेटी</li>
+    <li>joiner_especial(joiner_gender==Female)->बेटा</li>
+    <!--lodgers-->
+    <li>o_a(lodgers0_gender==Female)->एक</li>
+    <li>o_a(lodgers0_gender!=Female)->या</li>
+    <li>e_a(lodgers0_gender==Female)->एक</li>
+    <li>e_a(lodgers0_gender!=Female)->और</li>
+    <li>arrived(lodgerCount==1)->पहुँचा</li>
+    <li>arrived(lodgerCount>=2)->पहुँचे</li>
+    <li>Un_Cap(lodgers0_gender==Female)->एक</li>
+    <li>Un_Cap(lodgers0_gender!=Female)->एक</li>
+    <li>un_una(lodgers0_gender==Female)->एक</li>
+    <li>un_una(lodgers0_gender!=Female)->एक</li>
+    <li>insults(lodgers0_gender==Female)->निंदक को</li>
+    <li>insults(lodgers0_gender!=Female)->निंदक को</li>
+    <li>arrived(lodgerCount==1)->पहुँचा</li>
+    <li>arrived(lodgerCount>=2)->पहुँचे</li>
+    <li>willStay(lodgerCount==1)->रह जाएगा</li>
+    <li>willStay(lodgerCount>=2)->रहेंगे</li>
+    <li>last(lodgers0_gender==Male)->अंतिम</li>
+    <li>last(lodgers0_gender!=Male)->अंतिम</li>
+    <li>lodgersLeave(lodgersCount==1)->छोड़ देगा</li>
+    <li>lodgersLeave(lodgersCount>=2)->छोड़ देंगे</li>
+    <li>lodgersella(lodgers0_gender==Male)->का</li>
+    <li>lodgersella(lodgers0_gender!=Male)->का / की / के (depending on gender and case)</li>
+    <li>lodgersellaCap(lodgers0_gender==Male)->वह</li>
+    <li>lodgersellaCap(lodgers0_gender!=Male)->वह</li>
+    <li>HadSingOrPlural(lodgerCount==1)->मेरे पास था</li>
+    <li>HadSingOrPlural(lodgerCount>=2)->उनके पास था</li>
+    <li>hostedSingOrPlural(lodgers0_gender==Male,lodgerCount==1)->आश्रित</li>
+    <li>hostedSingOrPlural(lodgers0_gender!=Male,lodgerCount==1)->आवासित</li>
+    <li>hostedSingOrPlural(lodgerCount>=2)->आश्रित</li>
+    <!-- EnemyFaction -->
+    <li>el_la(enemyFaction_leader==Male)->का</li>
+    <li>el_la(enemyFaction_leader!=Male)->का / की / के (depending on gender and case)</li>
+    <li>factionOpponentun_una(factionOpponent==Male)->एक</li>
+    <li>factionOpponentun_una(factionOpponent!=Male)->एक</li>
+    <!--Quest Hospitality -->
+    <li>arrived(lodgerCount==1)->पहुँचा</li>
+    <li>arrived(lodgerCount>=2)->पहुँचे</li>
+    <!--Scrip_LongRangeMineralScanner-->
+    <li>targetMineable_labelVar(targetMineable==MineableGold)->सोने की खदान</li>
+    <li>targetMineable_labelVar(targetMineable==MineableSilver)->चाँदी की खदान</li>
+    <li>targetMineable_labelVar(targetMineable==MineableSteel)->इस्पात की नस</li>
+    <li>targetMineable_labelVar(targetMineable==MineablePlasteel)->प्लास्टिस्‍टील नस</li>
+    <li>targetMineable_labelVar(targetMineable==MineableComponentsIndustrial)->मशीनरी की संकुचित नसें</li>
+    <li>targetMineable_labelVar(targetMineable==MineableUranium)->यूरेनियम खदान</li>
+    <li>targetMineable_labelVar(targetMineable==MineableJade)->जेड नस</li>
+    <li>targetMineable_labelVar(p=0.00000000001)->[targetMineable_label]</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableGold)->सोना</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableSilver)->चाँदी</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableSteel)->इस्पात</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineablePlasteel)->प्लास्टिस्‍टील</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableComponentsIndustrial)->संकुचित मशीनरी</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableUranium)->यूरेनियम</li>
+    <li>targetMineableThing_labelVar(targetMineable==MineableJade)->जेड</li>
+    <li>targetMineableThing_labelVar(p=0.00000000001)->[targetMineableThing_label]</li>
+    <!-- Scrip Uitlity helpers -->
+    <li>helpersSent(helpersCount==1,helpers0_gender!=Female)->भेजा गया</li>
+    <li>helpersSent(helpersCount==1,helpers0_gender==Female)->भेजा गया</li>
+    <li>helpersSent(helpersCount>=2)->भेजे गए</li>
+    <li>helpersArrived(helpersCount==1)->आ गया है</li>
+    <li>helpersArrived(helpersCount>=2)->पहुँचे</li>
+    <li>helpersLeaving(helpersCount==1)->चला जाता है</li>
+    <li>helpersLeaving(helpersCount>=2)->चले जाते हैं</li>
+    <li>helpersTheCap(helpersCount==1,helpers0_gender!=Female)->वह</li>
+    <li>helpersTheCap(helpersCount==1,helpers0_gender==Female)->वह</li>
+    <li>helpersTheCap(helpersCount>=2)->वे</li>
+    <li>helpersSpent(helpersCount==1)->गुजर गया</li>
+    <li>helpersSpent(helpersCount>=2)->गुज़र गए</li>
+    <!-- ShuttleCrash-->
+    <li>crashedLanded(civilians_count==1)->टूट गया</li>
+    <li>crashedLanded(civilians_count>=2)->टक्कर मारी</li>
+    <li>thesePeople(civilians_count==1)->यह व्यक्ति</li>
+    <li>thesePeople(civilians_count>=2)->ये लोग</li>
+    <!-- beggar -->
+    <li>beggars_o_a(beggars0_gender==Male)->या</li>
+    <li>beggars_o_a(beggars0_gender!=Male)->एक</li>
+    <li>beggars_e_a(beggars0_gender==Male)->और</li>
+    <li>beggars_e_a(beggars0_gender!=Male)->एक</li>
+    <!-- founder -->
+    <li>founder_o_a(founder_gender==Male)->या</li>
+    <li>founder_o_a(founder_gender!=Male)->एक</li>
+    <li>founder_Heroe(founder_gender==Male)->एक नायक</li>
+    <li>founder_Heroe(founder_gender!=Male)->एक नायिका</li>
+    <!-- pilgrim -->
+    <li>childGender(pawns0==Male)->एक बच्चा</li>
+    <li>childGender(pawns0!=Male)->एक लड़की</li>
+    <li>siendo(pilgrimCount==1,pawns0==Male)->सम्मानित किया जाए</li>
+    <li>siendo(pilgrimCount==1,pawns0!=Male)->सम्मानित हो</li>
+    <li>siendo(pilgrimCount>=2)->सम्मानित किए जाएं</li>
+    <li>mayOffers(pilgrimCount==1)->शकता था</li>
+    <li>mayOffers(pilgrimCount>=2)->शक्ते थे</li>
+    <!--Tales Jobs-->
+    <!-- PAWN-->
+    <li>PAWN_o_a(PAWN_gender!=Female)->या</li>
+    <li>PAWN_o_a(PAWN_gender==Female)->एक</li>
+    <li>pawn_o_a(pawn_gender!=Female)->या</li>
+    <li>pawn_o_a(pawn_gender==Female)->एक</li>
+    <!-- SURGEON-->
+    <li>SURGEON_o_a(SURGEON_gender!=Female)->या</li>
+    <li>SURGEON_o_a(SURGEON_gender==Female)->एक</li>
+    <!-- VICTIM-->
+    <li>VICTIM_o_a(VICTIM_gender!=Female)->या</li>
+    <li>VICTIM_o_a(VICTIM_gender==Female)->एक</li>
+    <!-- KILLER-->
+    <li>KILLER_o_a(KILLER_gender!=Female)->या</li>
+    <li>KILLER_o_a(KILLER_gender==Female)->एक</li>
+    <!-- JOINER-->
+    <li>JOINERTales_o_a(JOINER_gender!=Female)->या</li>
+    <li>JOINERTales_o_a(JOINER_gender==Female)->एक</li>
+    <!--TRAINER-->
+    <li>TRAINER_o_a(TRAINER_gender!=Female)->या</li>
+    <li>TRAINER_o_a(TRAINER_gender==Female)->एक</li>
+    <!--SLEEPER-->
+    <li>SLEEPER_o_a(SLEEPER_gender!=Female)->या</li>
+    <li>SLEEPER_o_a(SLEEPER_gender==Female)->एक</li>
+    <!--ATTENDER-->
+    <li>ATTENDER_o_a(ATTENDER_gender!=Female)->या</li>
+    <li>ATTENDER_o_a(ATTENDER_gender==Female)->एक</li>
+    <!--SENDER-->
+    <li>un_una_sender(ATTENDER_gender!=Female)->एक</li>
+    <li>un_una_sender(ATTENDER_gender==Female)->एक</li>
+    <!-- Book_Descriptions -->
+    <!--ANYPAWN -->
+    <li>ANYPAWN_o_a(ANYPAWN_gender!=Female)->या</li>
+    <li>ANYPAWN_o_a(ANYPAWN_gender==Female)->एक</li>
+    <!--Reglas Normales-->
+    <li>TransOf->का / की / के / से</li>
+    <li>Trans->का</li>
+    <li>Trans->के लिए</li>
+    <li>Trans->द्वारा</li>
+    <li>AdjectiveAny->[AdjectiveBadass]</li>
+    <li>AdjectiveAny->[AdjectiveAngsty]</li>
+    <li>AdjectiveAny->[AdjectiveFriendly]</li>
+    <li>AdjectiveAny->[AdjectiveNatural]</li>
+    <li>AnimalBadassAny->[AnimalBadass]</li>
+    <li>AnimalBadassAny->[AnimalBadass_Fem]</li>
+    <li>AnimalBadassAny_Cap->[AnimalBadass_Cap]</li>
+    <li>AnimalBadassAny_Cap->[AnimalBadass_FemCap]</li>
+    <li>AnimalBadassDefCap->वह [AnimalBadass]</li>
+    <li>AnimalBadassDefCap->वह [AnimalBadass_Fem]</li>
+    <li>AnimalBadassAnyPl->[AnimalBadass_Plural]</li>
+    <li>AnimalBadassAnyPl->[AnimalBadass_FemPlural]</li>
+    <li>AnimalAny->[Animal]</li>
+    <li>AnimalAny->[Animal_Fem]</li>
+    <li>AnimalAnyPl->[Animal_Plural]</li>
+    <li>AnimalAnyPl->[Animal_FemPlural]</li>
+    <li>AnimalIndef->एक [Animal]</li>
+    <li>AnimalIndef->एक [Animal_Fem]</li>
+    <li>AnimalGroupIndef->एक [AnimalGroup]</li>
+    <li>AnimalGroupIndef->एक [AnimalGroup_Fem]</li>
+    <li>ApparelAny->[Apparel]</li>
+    <li>ApparelAny->[Apparel_Fem]</li>
+    <li>ApparelIndef->एक [Apparel]</li>
+    <li>ApparelIndef->एक [Apparel_Fem]</li>
+    <li>BusinessTypeAny->[BusinessType]</li>
+    <li>BusinessTypeAny->[BusinessType_Fem]</li>
+    <li>BusinessTypeAny_def->वह [BusinessType]</li>
+    <li>BusinessTypeAny_def->वह [BusinessType_Fem]</li>
+    <li>BusinessTypeAny_def->वे [BusinessType_Plural]</li>
+    <li>BusinessTypeAny_def->वे [BusinessType_FemPlural]</li>
+    <li>BusinessTypeAny_def_Cap->वह [BusinessType_Cap]</li>
+    <li>BusinessTypeAny_def_Cap->वह [BusinessType_FemCap]</li>
+    <li>BodyPartAny->[BodyPart]</li>
+    <li>BodyPartAny->[BodyPart_Fem]</li>
+    <li>ColorAny->[Color]</li>
+    <li>ColorAny->[Color_Fem]</li>
+    <li>ColorAny_Cap->[Color_Cap]</li>
+    <li>ColorAny_Cap->[Color_FemCap]</li>
+    <li>ConceptAny->[ConceptPositive]</li>
+    <li>ConceptAny->[ConceptBadass]</li>
+    <li>ConceptAny->[ConceptAngsty]</li>
+    <li>ConceptAny_Fem->[ConceptPositive_Fem]</li>
+    <li>ConceptAny_Fem->[ConceptBadass_Fem]</li>
+    <li>ConceptAny_Fem->[ConceptAngsty_Fem]</li>
+    <li>ConceptAnyDef->वह [ConceptAny]</li>
+    <li>ConceptAnyDef->वह [ConceptAny_Fem]</li>
+    <li>ConceptAnyFull->[ConceptAny]</li>
+    <li>ConceptAnyFull->[ConceptAny_Fem]</li>
+    <li>CommunityIndefCap->एक [Community_Fem]</li>
+    <li>CommunityIndefCap->एक [Community]</li>
+    <li>Character(p=6)->[PersonJob]</li>
+    <li>Character_Plural(p=6)->[PersonJob_Plural]</li>
+    <li>Character_Fem(p=6)->[PersonJob_Fem]</li>
+    <li>Character(p=4)->[Animal]</li>
+    <li>Character_Plural(p=4)->[Animal_Plural]</li>
+    <li>Character_Fem(p=4)->[Animal_Fem]</li>
+    <li>Character(p=3)->[Enemy]</li>
+    <li>Character_Plural(p=3)->[Enemy]शत्रु</li>
+    <li>Character->[Mechanoid]</li>
+    <li>Character_Human->[PersonJob]</li>
+    <li>Character_Human->[Enemy]</li>
+    <li>CharacterEnemyPlural(p=2)->[Animal_Plural]</li>
+    <li>CharacterEnemyPlural->[Animal_FemPlural]</li>
+    <li>CharacterEnemyPlural(p=3)->[Enemy]शत्रु</li>
+    <li>CharacterEnemyPlural(p=2)->[Mechanoid]मैकेनॉइड्स</li>
+    <li>CharacterIndef(p=6)->एक [PersonJob]</li>
+    <li>CharacterIndef(p=6)->एक [PersonJob_Fem]</li>
+    <li>CharacterIndef(p=4)->एक [Animal]</li>
+    <li>CharacterIndef(p=4)->एक [Animal_Fem]</li>
+    <li>CharacterIndef(p=3)->एक [Enemy]</li>
+    <li>CharacterIndef->एक [Mechanoid]</li>
+    <li>CharacterIndefMas(p=6)->एक [PersonJob]</li>
+    <li>CharacterIndefMas(p=4)->एक [Animal]</li>
+    <li>CharacterIndefMas(p=3)->एक [Enemy]</li>
+    <li>CharacterIndefMas->एक [Mechanoid]</li>
+    <li>CharacterIndefFem(p=6)->एक [PersonJob_Fem]</li>
+    <li>CharacterIndefFem(p=4)->एक [Animal_Fem]</li>
+    <li>CommunityIndef->एक [Community]</li>
+    <li>CommunityIndef->एक [Community_Fem]</li>
+    <li>CommunityDef->वह [Community]</li>
+    <li>CommunityDef->को [Community_Fem]</li>
+    <li>CommunityAny->[Community]</li>
+    <li>CommunityAny->[Community_Fem]</li>
+    <li>GameAny->[Game]</li>
+    <li>GameAny->[Game_Fem]</li>
+    <li>GameAny->[Game_Plural]</li>
+    <li>GameAny->[Game_FemPlural]</li>
+    <li>EnemyIndef->एक [Enemy]</li>
+    <li>EnemyIndef->एक [Enemy_Fem]</li>
+    <li>PersonJobIndef->एक [PersonJob]</li>
+    <li>PersonJobIndef->एक [PersonJob_Fem]</li>
+    <li>GameDef->वह [Game]</li>
+    <li>GameDef->वह [Game_Fem]</li>
+    <li>NaturalObjectDef->एक [NaturalObject]</li>
+    <li>NaturalObjectDef->एक [NaturalObject_Fem]</li>
+    <li>MechanoidAnyPl->[Mechanoid_FemPl]</li>
+    <li>MechanoidAnyPl->[Mechanoid_Plural]</li>
+    <li>Quantity_adjphrase->दो</li>
+    <li>Quantity_adjphrase->तीन</li>
+    <li>Quantity_adjphrase->चार</li>
+    <li>Quantity_adjphrase->पांच</li>
+    <li>Quantity_adjphrase->छह</li>
+    <li>Quantity_adjphrase->सात</li>
+    <li>Quantity_adjphrase->आठ</li>
+    <li>Quantity_adjphrase->नौ</li>
+    <li>Quantity_adjphrase->दस</li>
+    <li>Quantity_adjphrase->कई</li>
+    <li>Quantity_adjphrase->एक समूह के</li>
+    <li>Quantity_adjphrase->एक विशाल समूह</li>
+    <li>Quantity_adjphrase->दर्जनों</li>
+    <li>Quantity_adjphrase->सैकड़ों</li>
+    <li>Quantity_adjphrase->हज़ार</li>
+    <li>Quantity_adjphrase->हज़ारों</li>
+    <li>Shape->त्रिभुज</li>
+    <li>Shape->वर्ग</li>
+    <li>Shape->आयत</li>
+    <li>Shape->शंकु</li>
+    <li>Shape_Fem->पंक्ति</li>
+    <li>Shape_Var->दिल</li>
+    <li>Shape_VarPl->दिल</li>
+    <li>Shape_Fem->तारा</li>
+    <li>Shape->वृत्त</li>
+    <li>Shape->हृदय</li>
+    <li>ShapeDef->एक [Shape]</li>
+    <li>ShapeDef->एक [Shape_Var]</li>
+    <li>ShapeDef->एक [Shape_Fem]</li>
+    <li>ShapeAny->[Shape]</li>
+    <li>ShapeAny->[Shape_Fem]]</li>
+    <li>Shape_Plural->[ShapeAny]आकार</li>
+    <li>Shape_Plural->[Shape_VarPl]</li>
+    <li>PersonJobAny->[PersonJob]</li>
+    <li>PersonJobAny->[PersonJob_Fem]</li>
+    <li>PersonIndef->एक [PersonJob]</li>
+    <li>PersonIndef->एक [PersonJob_Fem]</li>
+    <li>PersonFamilyAny->[PersonFamily]</li>
+    <li>PersonFamilyAny->[PersonFamily_Fem]</li>
+    <li>PersonFamilyAal->को [PersonFamily]</li>
+    <li>PersonFamilyAal->को [PersonFamily_Fem]</li>
+    <li>PersonFamilyDef->का / की / के [PersonFamily]</li>
+    <li>PersonFamilyDef->की [PersonFamily_Fem]</li>
+    <li>PersonalCharacteristic(p=0.15)->जननांग</li>
+    <li>PersonalCharacteristic(p=0.15)->जांघ का बाल</li>
+    <li>PersonalCharacteristic(p=0.15)->शरीर के बाल</li>
+    <li>PersonalCharacteristic(p=0.15)->शौचालय की आदतें</li>
+    <li>PersonalCharacteristic(p=0.15)->यौन क्षमता</li>
+    <li>PersonalCharacteristic(p=0.15)->यौन प्राथमिकताएँ</li>
+    <li>PersonalCharacteristic_Fem(p=0.15)->यौन अनुभव</li>
+    <li>PersonalCharacteristicDef->वह [PersonalCharacteristic]</li>
+    <li>PersonalCharacteristicDef->वह [PersonalCharacteristic_Fem]</li>
+    <li>TerrainFeatureAny->[TerrainFeature]</li>
+    <li>TerrainFeatureAny->[TerrainFeature_Fem]</li>
+    <li>TerrainFeatureIndef->एक [TerrainFeature]</li>
+    <li>TerrainFeatureIndef->एक [TerrainFeature_Fem]</li>
+    <li>TerrainFeatureIndefCap->एक [TerrainFeature]</li>
+    <li>TerrainFeatureIndefCap->एक [TerrainFeature_Fem]</li>
+    <li>TerrainFeaturePlAny->[TerrainFeature_Pl]</li>
+    <li>TerrainFeaturePlAny->[TerrainFeature_PlFem]</li>
+    <li>TreeTypeAny->[TreeType]</li>
+    <li>TreeTypeAny->[TreeType_Fem]</li>
+    <li>TreeTypeIndef->एक [TreeType]</li>
+    <li>TreeTypeIndef->एक [TreeType_Fem]</li>
+    <li>VegetableAny->[Vegetable]</li>
+    <li>VegetableAny->[Vegetable_Fem]</li>
+    <li>VegetableDef->वह [Vegetable]</li>
+    <li>VegetableDef->वह [Vegetable_Fem]</li>
+    <li>VegetableIndef->एक [Vegetable]</li>
+    <li>VegetableIndef->एक [Vegetable_Fem]</li>
+    <li>WeaponAny->[Weapon]</li>
+    <li>WeaponAny->[Weapon_Fem]</li>
+    <li>WeaponAnyPl->[Weapon_Plural]</li>
+    <li>WeaponAnyPl->[Weapon_FemPlural]</li>
+    <li>WeaponIndef->एक [Weapon]</li>
+    <li>WeaponIndef->एक [Weapon_Fem]</li>
+    <li>WeaponCacIndef->एक [WeaponCac]</li>
+    <li>WeaponCacIndef->एक [WeaponCac_Fem]</li>
+    <li>WeaponCacAnyPl->[WeaponCac_Plural]</li>
+    <li>WeaponCacAnyPl->[WeaponCac_FemPlural]</li>
+    <li>WeaponCacAnyIndefPl->कुछ [WeaponCac_Plural]</li>
+    <li>WeaponCacAnyIndefPl->कुछ [WeaponCac_FemPlural]</li>
+  </GlobalUtility.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>TalkTopicAny->[TalkTopicLight]</li>
+    <li>TalkTopicAny->[TalkTopicHeavy]</li>
+    <li>TalkTopicHeavy->[talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->the link between [talktopicheavyfile] and [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->the connection between [talktopicheavyfile] and [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->the relationship between [talktopicheavyfile] and [talktopicheavyfile]</li>
+    <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
+    <li>TalkTopicLight->[Vegetable]s</li>
+    <li>TalkTopicLight->eating [Vegetable]s</li>
+    <li>TalkTopicLight->cooking with [Vegetable]s</li>
+    <li>TalkTopicLight->[Game]</li>
+    <li>TalkTopicLight->playing [Game]</li>
+    <li>TalkTopicLight->practicing [Game]</li>
+    <li>TalkTopicLight->learning [Game]</li>
+    <li>TalkTopicLight->[Animal]s</li>
+    <li>TalkTopicLight->training [Animal]s</li>
+    <li>TalkTopicLight->taming [Animal]s</li>
+    <li>TalkTopicLight->fighting [Animal]s</li>
+    <li>TalkTopicLight->crazy [Animal]s</li>
+    <li>TalkTopicLight->[Weapon]s</li>
+    <li>TalkTopicLight->using [Weapon]s</li>
+    <li>TalkTopicLight->practicing with [Weapon]s</li>
+    <li>TalkTopicLight->[TerrainFeature]s</li>
+    <li>TalkTopicLight->[NaturalObject]s</li>
+    <li>TalkTopicLight->[TreeType] trees</li>
+    <li>TalkTopicLight->[PersonJob]s</li>
+    <li>TalkTopicLight->friendly [PersonJob]s</li>
+    <li>TalkTopicLight->hostile [PersonJob]s</li>
+    <li>TalkTopicLight->[Enemy]s</li>
+    <li>TalkTopicLight->fighting [Enemy]s</li>
+    <li>TalkTopicLight->[Apparel]s</li>
+    <li>TalkTopicLight->wearing [Apparel]s</li>
+    <li>TalkTopicLight->making [Apparel]s</li>
+    <li>talktopicheavyfile(p=0.15)->sex</li>
+    <li>talktopicheavyfile(p=0.15)->seduction</li>
+    <li>talktopicheavyfile(p=0.15)->animal sexuality</li>
+    <li>talktopicheavyfile(p=0.15)->sexual fetishes</li>
+  -->
+  <TalkTopicsUtility.rulePack.rulesStrings>
+    <li>TalkTopicAny->[TalkTopicLight]</li>
+    <li>TalkTopicAny->[TalkTopicHeavy]</li>
+    <li>TalkTopicHeavy->[talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->के बीच संबंध [talktopicheavyfile] और [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->के बीच संबंध [talktopicheavyfile] और [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->के बीच संबंध [talktopicheavyfile] और [talktopicheavyfile]</li>
+    <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
+    <li>TalkTopicLight->[VegetableAny]सब्जियाँ</li>
+    <li>TalkTopicLight->खाना [VegetableAny]एस</li>
+    <li>TalkTopicLight->पकाना [VegetableAny]स</li>
+    <li>TalkTopicLight->[GameAny]</li>
+    <li>TalkTopicLight->खेलना [GameAny]</li>
+    <li>TalkTopicLight->अभ्यास करना [GameAny]</li>
+    <li>TalkTopicLight->सीखना [GameAny]</li>
+    <li>TalkTopicLight->[AnimalAnyPl]</li>
+    <li>TalkTopicLight->प्रशिक्षित करना [AnimalAnyPl]</li>
+    <li>TalkTopicLight->पालतू बनाना [AnimalAnyPl] [AnimalAnyPl]</li>
+    <li>TalkTopicLight->[पशु किसी भी बहुवचन] से लड़ना [AnimalAnyPl]</li>
+    <li>TalkTopicLight->[Animal_Plural] पागल</li>
+    <li>TalkTopicLight->[Animal_FemPlural] पागल</li>
+    <li>TalkTopicLight->[WeaponAnyPl]</li>
+    <li>TalkTopicLight->[हथियारकिसी भी] का अभ्यास करना [WeaponAnyPl]</li>
+    <li>TalkTopicLight->अभ्यास करना [WeaponAnyPl]</li>
+    <li>TalkTopicLight->[TerrainFeatureAny]स</li>
+    <li>TalkTopicLight->[NaturalObject][प्राकृतिकवस्तु]s</li>
+    <li>TalkTopicLight->[TreeTypeAny]स</li>
+    <li>TalkTopicLight->[PersonJobAny]दोस्त [व्यक्ति_व्यवसाय]</li>
+    <li>TalkTopicLight->[PersonJobAny]दोस्ताना [व्यक्तिकार्यकोई भी]</li>
+    <li>TalkTopicLight->[PersonJobAny]शत्रु</li>
+    <li>TalkTopicLight->[Enemy][दुश्मन] से लड़ रहे हैं</li>
+    <li>TalkTopicLight->से लड़ना [Enemy]स</li>
+    <li>TalkTopicLight->[Apparel][वस्त्र] पहने हुए</li>
+    <li>TalkTopicLight->बनाना [Apparel]एस</li>
+    <li>TalkTopicLight->बनाना [Apparel]एस</li>
+    <li>talktopicheavyfile(p=0.15)->लिंग</li>
+    <li>talktopicheavyfile(p=0.15)->प्रलोभन</li>
+    <li>talktopicheavyfile(p=0.15)->पशु कामुकता</li>
+    <li>talktopicheavyfile(p=0.15)->यौन फ़ेटिश</li>
+  </TalkTopicsUtility.rulePack.rulesStrings>
+  
+</LanguageData>

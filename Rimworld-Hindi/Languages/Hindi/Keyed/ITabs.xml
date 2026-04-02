@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <!-- EN: Bills -->
+  <TabBills>आदेश</TabBills>
+  <!-- EN: Growing -->
+  <TabGrowing>खेती</TabGrowing>
+  <!-- EN: Bio -->
+  <TabCharacter>जीवनी</TabCharacter>
+  <!-- EN: Training -->
+  <TabTraining>प्रशिक्षण</TabTraining>
+  <!-- EN: Prisoner -->
+  <TabPrisoner>कैदी</TabPrisoner>
+  <!-- EN: Guest -->
+  <TabGuest>मेहमान</TabGuest>
+  <!-- EN: Gear -->
+  <TabGear>उपकरण</TabGear>
+  <!-- EN: Needs -->
+  <TabNeeds>ज़रूरतें</TabNeeds>
+  <!-- EN: Storage -->
+  <TabStorage>भंडारण</TabStorage>
+  <!-- EN: Shells -->
+  <TabShells>गोले</TabShells>
+  <!-- EN: Health -->
+  <TabHealth>स्वास्थ्य</TabHealth>
+  <!-- EN: Race -->
+  <TabRace>वंश</TabRace>
+  <!-- EN: Basics -->
+  <TabBasics>बुनियादी बातें</TabBasics>
+  <!-- EN: Stats -->
+  <TabStats>आंकड़े</TabStats>
+  <!-- EN: Records -->
+  <TabRecords>रिकॉर्ड</TabRecords>
+  <!-- EN: Art -->
+  <TabArt>कला</TabArt>
+  <!-- EN: Social -->
+  <TabSocial>सामाजिक</TabSocial>
+  <!-- EN: Log -->
+  <TabLog>रिकॉर्ड</TabLog>
+  <!-- EN: Animals -->
+  <TabPenAnimals>जानवर</TabPenAnimals>
+  <!-- EN: Food -->
+  <TabPenFood>भोजन</TabPenFood>
+  <!-- EN: Auto-cut -->
+  <TabPenAutoCut>स्वचालित कटाई</TabPenAutoCut>
+  <!-- EN: Caravan -->
+  <TabFormingCaravan>कारवाँ</TabFormingCaravan>
+  <!-- EN: Contents -->
+  <TabTransporterContents>सामग्री</TabTransporterContents>
+  <!-- EN: Travel -->
+  <TabMapPortalContents>यात्रा</TabMapPortalContents>
+  <!-- EN: Contents -->
+  <TabCasketContents>सामग्री</TabCasketContents>
+  <!-- EN: Details -->
+  <TabBookContents>विवरण</TabBookContents>
+  <!-- EN: Study -->
+  <TabStudyNotesContents>अध्ययन</TabStudyNotesContents>
+  <!-- EN: Auto-cut -->
+  <TabWindTurbineAutoCut>स्वचालित कटाई</TabWindTurbineAutoCut>
+  
+  <!-- Bills tab  -->
+  <!-- EN: Add bill -->
+  <AddBill>बिल जोड़ें</AddBill>
+  <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
+  <RecipeRequiresSkills>रेसिपी {0} को नीचे दिए गए कौशल की आवश्यकता है। आपके किसी भी उपनिवेशवादी के पास ये कौशल नहीं हैं, इसलिए कोई भी यह बिल नहीं करेगा।</RecipeRequiresSkills>
+  <!-- EN: Min skill -->
+  <MinimumSkill>न्यूनतम कौशल</MinimumSkill>
+  <!-- EN: SUSPENDED -->
+  <SuspendedCaps>निलंबित</SuspendedCaps>
+  <!-- EN: Worker: {1_labelShort} -->
+  <BoundWorkerIs>कर्मचारी: {1_labelShort}</BoundWorkerIs>
+  <!-- EN: Plant -->
+  <PlantVerb>पौधा लगाना</PlantVerb>
+  <!-- EN: Copied bill cannot be pasted here -->
+  <ClipboardBillNotAvailableHere>ठीक है, मैं समझ गया। मुझे बस अनुवाद करने दीजिए। मुझे टेक्स्ट प्रदान करें। \n\n(Okay, I understand. Just give me the text to translate.)</ClipboardBillNotAvailableHere>
+  <!-- EN: Move up -->
+  <ReorderBillUpTip>ऊपर खिसकाओ</ReorderBillUpTip>
+  <!-- EN: Move down -->
+  <ReorderBillDownTip>नीचे खिसके</ReorderBillDownTip>
+  <!-- EN: Delete -->
+  <DeleteBillTip>हटाना</DeleteBillTip>
+  <!-- EN: Copy to the clipboard -->
+  <CopyBillTip>क्लिपबोर्ड पर कॉपी करें</CopyBillTip>
+  <!-- EN: Suspend -->
+  <SuspendBillTip>निलंबन</SuspendBillTip>
+  <!-- EN: Paste -->
+  <PasteBillTip>चिपकाना</PasteBillTip>
+  <!-- EN: can't add more -->
+  <PasteBillTip_LimitReached>अधिक नहीं जोड़ सकते</PasteBillTip_LimitReached>
+  <!-- EN: Finishes in -->
+  <FinishesIn>समाप्त होने में</FinishesIn>
+
+  <!-- Guest/prisoner tab -->
+  <!-- EN: Resistance -->
+  <RecruitmentResistance>विरोध</RecruitmentResistance>
+  <!-- EN: How much doubt this prisoner has about joining your faction. When this reaches zero, they can be recruited. -->
+  <RecruitmentResistanceDesc>इस कैदी को आपके गुट में शामिल होने को लेकर कितना संदेह है। जब यह शून्य पर पहुँच जाएगा, तो उन्हें भर्ती किया जा सकता है।</RecruitmentResistanceDesc>
+  <!-- EN: {0} base resistance -->
+  <RecruitmentResistanceFromPawnKind>{0} आधार प्रतिरोध</RecruitmentResistanceFromPawnKind>
+  <!-- EN: Relations gain on release -->
+  <PrisonerReleasePotentialRelationGains>रिश्तों में सुधार जारी है</PrisonerReleasePotentialRelationGains>
+  <!-- EN: The faction goodwill you will get from the prisoner's faction if you release them. This is affected by the prisoner's identity, health, and mental condition. -->
+  <PrisonerReleaseRelationGainsDesc>कैदी को रिहा करने पर आपको उनके गुट से मिलने वाली सद्भावना, जो कैदी की पहचान, स्वास्थ्य और मानसिक स्थिति से प्रभावित होती है।</PrisonerReleaseRelationGainsDesc>
+  <!-- EN: Prison break interval -->
+  <PrisonBreakMTBDays>कारावास अंतराल</PrisonBreakMTBDays>
+  <!-- EN: The average days awake between prison breaks. This is affected by mood, mobility, the number of prison doors, and time since the last prison break.\n\nNote that this does not include time spent asleep. -->
+  <PrisonBreakMTBDaysDescription>कैद से भागने के बीच जागने के औसत दिन। यह मनोदशा, गतिशीलता, जेल के दरवाजों की संख्या और पिछली कैद से भागने के बाद के समय से प्रभावित होता है।\n\nध्यान दें कि इसमें नींद में बिताया गया समय शामिल नहीं है।</PrisonBreakMTBDaysDescription>
+  <!-- EN: Never -->
+  <Never>कभी नहीं</Never>
+  <!-- EN: Not while asleep -->
+  <NotWhileAsleep>सोते समय नहीं</NotWhileAsleep>
+  <!-- EN: Breaking out now -->
+  <CurrentlyPrisonBreaking>भागना</CurrentlyPrisonBreaking>
+  <!-- EN: Door count -->
+  <FactorForDoorCount>दरवाजों की संख्या</FactorForDoorCount>
+  <!-- EN: Movement -->
+  <FactorForMovement>गतिविधि</FactorForMovement>
+  <!-- EN: Slave price -->
+  <SlavePrice>गुलाम मूल्य</SlavePrice>
+  <!-- EN: The base market value of this slave if sold. -->
+  <SlavePriceDescription>यदि बेचा जाए तो इस गुलाम का आधार बाज़ार मूल्य।</SlavePriceDescription>
+  <!-- EN: Gets food -->
+  <GetsFood>भोजन प्राप्त करें</GetsFood>
+  <!-- EN: Doctors care -->
+  <DoctorsCare>चिकित्सा देखभाल</DoctorsCare>
+  <!-- EN: Gets medicine -->
+  <GetsMedicine>दवा प्राप्त करता है</GetsMedicine>
+  <!-- EN: Try to recruit -->
+  <ShouldTryToRecruit>भर्ती करें</ShouldTryToRecruit>
+  <!-- EN: Considered guilty (expires in {0}) -->
+  <ConsideredGuilty>दोषी ठहराया गया ({0} में समाप्त)</ConsideredGuilty>
+  <!-- EN: Considered guilty -->
+  <ConsideredGuiltyNoTimer>दोषी ठहराया गया</ConsideredGuiltyNoTimer>
+  <!-- EN: Last resistance reduction -->
+  <LastRecruitment>अंतिम प्रतिरोध कमी</LastRecruitment>
+  <!-- EN: How much {0_nameDef}'s resistance was reduced by {1} when {0_pronoun} was last recruited. -->
+  <LastRecruitmentDescription>{0_nameDef} की प्रतिरोधक क्षमता {1} द्वारा कम कर दी गई थी जब {0_pronoun} को पिछली बार भर्ती किया गया था।</LastRecruitmentDescription>
+  <!-- EN: Opinion of recruiter -->
+  <OpinionOfRecruiter>भर्तीकर्ता राय</OpinionOfRecruiter>
+  <!-- EN: Recruiter negotiation ability -->
+  <RecruiterNegotiationAbility>भर्तीकर्ता क्षमता</RecruiterNegotiationAbility>
+  <!-- EN: Unwavering loyalty -->
+  <NonRecruitable>अटल वफ़ादारी</NonRecruitable>
+  <!-- EN: This prisoner is so unwaveringly loyal to their home that they refuse to be recruited entirely. -->
+  <NonRecruitableTip>यह कैदी अपने घर के प्रति इतना अडिग वफादार है कि वे पूरी तरह से भर्ती होने से इनकार करते हैं।</NonRecruitableTip>
+  <!-- EN: What type of medicine can be given to this prisoner. -->
+  <MedicineQualityDescriptionPrisoner>इस कैदी को किस प्रकार की दवा दी जा सकती है।</MedicineQualityDescriptionPrisoner>
+
+
+
+
+  <!-- Medical - general -->
+  <!-- EN: Move speed -->
+  <MoveSpeed>चलने की गति</MoveSpeed>
+  <!-- EN: Efficiency -->
+  <Efficiency>दक्षता</Efficiency>
+  <!-- EN: Part efficiency -->
+  <PartEfficiency>भाग दक्षता</PartEfficiency>
+  <!-- EN: Body part efficiency -->
+  <BodyPartEfficiency>शरीर दक्षता</BodyPartEfficiency>
+  <!-- EN: Gone -->
+  <MissingBodyPart>चला गया</MissingBodyPart>
+  <!-- EN: Destroyed -->
+  <DestroyedBodyPart>ध्वस्त</DestroyedBodyPart>
+  <!-- EN: Shattered -->
+  <ShatteredBodyPart>टूटा हुआ</ShatteredBodyPart>
+  <!-- EN: Removed -->
+  <RemovedBodyPart>हटाया गया</RemovedBodyPart>
+  <!-- EN: Healthy -->
+  <Healthy>स्वस्थ</Healthy>
+  <!-- EN: In pain -->
+  <InPain>दर्द</InPain>
+  <!-- EN: Pain -->
+  <PainLevel>दर्द</PainLevel>
+  <!-- EN: Injured -->
+  <Injured>घायल</Injured>
+  <!-- EN: untended injury -->
+  <UntendedInjury>अनदेखी चोट</UntendedInjury>
+  <!-- EN: no health conditions -->
+  <NoHealthConditions>कोई स्वास्थ्य स्थितियाँ नहीं</NoHealthConditions>
+  <!-- EN: Whole body -->
+  <WholeBody>संपूर्ण शरीर</WholeBody>
+  <!-- EN: Data processing -->
+  <DataProcessing>डेटा प्रसंस्करण</DataProcessing>
+  <!-- EN: Communication -->
+  <Communication>संचार</Communication>
+  <!-- EN: Affects -->
+  <Affects>प्रभावित करता है</Affects>
+  <!-- EN: Bleeding -->
+  <BleedingRate>खून बहना</BleedingRate>
+  <!-- EN: death in {0} -->
+  <TimeToDeath>{0} में मृत्यु</TimeToDeath>
+  <!-- EN: no immediate danger -->
+  <WontBleedOutSoon>कोई तत्काल खतरा नहीं</WontBleedOutSoon>
+  <!-- EN: Overview -->
+  <HealthOverview>परिचय</HealthOverview>
+  <!-- EN: Operations -->
+  <MedicalOperationsShort>संचालन</MedicalOperationsShort>
+  <!-- EN: Modifications -->
+  <MedicalOperationsMechanoidsShort>संशोधन</MedicalOperationsMechanoidsShort>
+  <!-- EN: Medical operations -->
+  <MedicalOperations>शल्य चिकित्सा</MedicalOperations>
+  <!-- EN: amputate -->
+  <Amputate>काटना</Amputate>
+  <!-- EN: harvest -->
+  <HarvestOrgan>कटाई</HarvestOrgan>
+  <!-- EN: remove -->
+  <RemoveOrgan>हटाना</RemoveOrgan>
+  <!-- EN: memory -->
+  <MemoryLower>स्मृति</MemoryLower>
+  <!-- EN: social interactions -->
+  <SocialInteractionsLower>सामाजिक व्यवहार</SocialInteractionsLower>
+  <!-- EN: Hunger rate -->
+  <HungerRate>भूख दर</HungerRate>
+  <!-- EN: Food consumption -->
+  <FoodConsumption>भोजन खपत</FoodConsumption>
+  <!-- EN: Tiredness -->
+  <Tiredness>थकान</Tiredness>
+  <!-- EN: Pain -->
+  <PainFactor>दर्द</PainFactor>
+  <!-- EN: Prevents infection -->
+  <PreventsInfection>संक्रमण रोध</PreventsInfection>
+  <!-- EN: Allow self-tend -->
+  <AllowSelfTend>स्व-देखभाल</AllowSelfTend>
+  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+  <AllowSelfTendTip>{0} में स्व-देखभाल सक्षम होने पर, वे मौके पर ही सामान्य दक्षता के {1} पर स्वचालित रूप से अपनी देखभाल करेंगे।</AllowSelfTendTip>
+  <!-- EN: death in {0} -->
+  <DeathIn>{0} में मृत्यु</DeathIn>
+  <!-- EN: Allow medicine -->
+  <AllowMedicine>दवा की अनुमति दें</AllowMedicine>
+  <!-- EN: What type of medicine can be given to this person. -->
+  <MedicineQualityDescription>इस व्यक्ति को किस प्रकार की दवा दी जा सकती है।</MedicineQualityDescription>
+  <!-- EN: What type of food can be given to this person. -->
+  <FoodRestrictionDescription>इस व्यक्ति को किस प्रकार का भोजन दिया जा सकता है।</FoodRestrictionDescription>
+
+  <!-- Medical - Body and activities condition -->
+  <!-- EN: None -->
+  <None>कोई नहीं</None>
+  <!-- EN: Very poor -->
+  <VeryPoor>बहुत खराब</VeryPoor>
+  <!-- EN: Poor -->
+  <Poor>खराब</Poor>
+  <!-- EN: Weakened -->
+  <Weakened>कमज़ोर</Weakened>
+  <!-- EN: OK -->
+  <GoodCondition>GAME TEXT: Crafting\n\nHINDI: बनाना</GoodCondition>
+  <!-- EN: Enhanced -->
+  <Enhanced>बढ़ा हुआ</Enhanced>
+  <!-- EN: Seriously impaired -->
+  <SeriouslyImpaired>गंभीर अक्षमता</SeriouslyImpaired>
+  <!-- EN: Impaired -->
+  <Impaired>क्षतिग्रस्त</Impaired>
+  <!-- EN: Slightly impaired -->
+  <SlightlyImpaired>कमज़ोर</SlightlyImpaired>
+  <!-- EN: None -->
+  <NoPain>कोई नहीं</NoPain>
+  <!-- EN: Little -->
+  <LittlePain>छोटा</LittlePain>
+  <!-- EN: Medium -->
+  <MediumPain>मध्यम</MediumPain>
+  <!-- EN: Severe -->
+  <SeverePain>गंभीर</SeverePain>
+  <!-- EN: Extreme -->
+  <ExtremePain>गंभीर</ExtremePain>
+
+  <!-- Training tab -->
+  <!-- EN: Trainability -->
+  <Trainability>प्रशिक्षण क्षमता</Trainability>
+  <!-- EN: Requires {0} trainability. -->
+  <CannotTrainNotSmartEnough>{0} प्रशिक्षण की आवश्यकता है।</CannotTrainNotSmartEnough>
+  <!-- EN: {0} is too small to train this. -->
+  <CannotTrainTooSmall>{0} प्रशिक्षित करने के लिए बहुत छोटा है।</CannotTrainTooSmall>
+
+  <!-- EN: Prerequisite needed: {0} -->
+  <TrainingNeedsPrerequisite>आवश्यकता: {0}</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <!-- EN: Kidnapped -->
+  <Kidnapped>अपहृत</Kidnapped>
+  <!-- EN: Lent to {FACTION_name}, returns in {1} -->
+  <Lent>{FACTION_name} को उधार दिया गया, {1} में वापस आएगा।</Lent>
+  <!-- EN: Missing -->
+  <Missing>लापता</Missing>
+  <!-- EN: slave -->
+  <Slave>गुलाम</Slave>
+  <!-- EN: Faction leader -->
+  <FactionLeader>गुट नेता</FactionLeader>
+  <!-- EN: Opinion of {0} -->
+  <OpinionOf>{0} पर राय</OpinionOf>
+  <!-- EN: {0}'s opinion of me -->
+  <SomeonesOpinionOfMe>{0} का मेरे बारे में मत</SomeonesOpinionOfMe>
+  <!-- EN: I'm dead -->
+  <IAmDead>मृत्यु</IAmDead>
+  <!-- EN: I'm a psychopath -->
+  <IAmPsychopath>मानसिक स्थिति</IAmPsychopath>
+  
+  <!-- Gear tab -->
+  <!-- EN: Overall armor -->
+  <OverallArmor>कुल कवच</OverallArmor>
+  <!-- EN: Mass carried: {0} / {1} kg -->
+  <MassCarried>वजन ले जाया गया: {0} / {1} किग्रा</MassCarried>
+  <!-- EN: Comfortable temperature range -->
+  <ComfyTemperatureRange>आरामदायक तापमान सीमा</ComfyTemperatureRange>
+  <!-- EN: Blunt -->
+  <ArmorBlunt>मोठा</ArmorBlunt>
+  <!-- EN: Sharp -->
+  <ArmorSharp>तेज़</ArmorSharp>
+  <!-- EN: Heat -->
+  <ArmorHeat>गर्मी</ArmorHeat>
+  
+  <!-- Log tab -->
+  <!-- EN: Show all -->
+  <ShowAll>दिखाएँ सब</ShowAll>
+  <!-- EN: Show combat -->
+  <ShowCombat>युद्ध दिखाएँ</ShowCombat>
+  <!-- EN: Show social -->
+  <ShowSocial>सामाजिक दिखाएँ</ShowSocial>
+  <!-- EN: no recent entries -->
+  <NoRecentEntries>कोई हालिया प्रविष्टियाँ नहीं</NoRecentEntries>
+  <!-- EN: Copy log to the clipboard. -->
+  <CopyLogTip>लॉग को क्लिपबोर्ड पर कॉपी करें।</CopyLogTip>
+
+  <!-- Forming caravan tab -->
+  <!-- EN: Gathering animals -->
+  <FormingCaravanStatus_GatheringAnimals>पशु संग्रह</FormingCaravanStatus_GatheringAnimals>
+  <!-- EN: Gathering animals (waiting) -->
+  <FormingCaravanStatus_GatheringAnimals_Pause>पशु संग्रह</FormingCaravanStatus_GatheringAnimals_Pause>
+  <!-- EN: Gathering items -->
+  <FormingCaravanStatus_GatheringItems>सामग्री संग्रह</FormingCaravanStatus_GatheringItems>
+  <!-- EN: Gathering items (waiting) -->
+  <FormingCaravanStatus_GatheringItems_Pause>इकट्ठा करना</FormingCaravanStatus_GatheringItems_Pause>
+  <!-- EN: Gathering downed people -->
+  <FormingCaravanStatus_GatheringDownedPawns>गिरफ्तार लोग</FormingCaravanStatus_GatheringDownedPawns>
+  <!-- EN: Gathering downed people (waiting) -->
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>गिरते हुए लोगों को इकट्ठा करना (प्रतीक्षा)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <!-- EN: Leaving -->
+  <FormingCaravanStatus_Leaving>छोड़ना</FormingCaravanStatus_Leaving>
+  <!-- EN: Leaving (waiting) -->
+  <FormingCaravanStatus_Leaving_Pause>प्रस्थान</FormingCaravanStatus_Leaving_Pause>
+  <!-- EN: Waiting -->
+  <FormingCaravanStatus_Waiting>प्रतीक्षा</FormingCaravanStatus_Waiting>
+  <!-- EN: Members -->
+  <CaravanMembers>सदस्य</CaravanMembers>
+  <!-- EN: Animals -->
+  <CaravanAnimals>जानवर</CaravanAnimals>
+  <!-- EN: To load -->
+  <ItemsToLoad>लादना</ItemsToLoad>
+  <!-- EN: Loaded -->
+  <LoadedItems>लोड किया गया</LoadedItems>
+  <!-- EN: pack animals -->
+  <PackAnimalsCountLower>बोझा जानवर</PackAnimalsCountLower>
+  <!-- EN: mentally broken -->
+  <InMentalStateCountLower>मानसिक रूप से टूटा हुआ</InMentalStateCountLower>
+
+  <!-- Transporter contents -->
+  <!-- EN: Remove {{0}}x {0} -->
+  <RemoveSliderText>हटाएँ {0}x {0}</RemoveSliderText>
+  <!-- EN: Contained items -->
+  <ContainedItems>सामग्री</ContainedItems>
+  <!-- EN: Do you really want to remove {0}? -->
+  <ConfirmRemoveItemDialog>क्या आप सच में {0} को हटाना चाहते हैं?</ConfirmRemoveItemDialog>
+  
+  <!-- Quests tab -->
+  <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't receive notifications about dismissed quests. -->
+  <DismissQuest>इस खोज को खारिज करें और इसे ऐतिहासिक टैब में ले जाएँ।\n\nइस खोज को किसी भी समय अन-खारिज किया जा सकता है। इसके प्रभाव और समाप्ति समय सामान्य रूप से जारी रहेंगे। आपको खारिज की गई खोजों के बारे में सूचनाएँ प्राप्त नहीं होंगी।</DismissQuest>
+  <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
+  <UnDismissQuest>इस खोज को रद्द करें।\n\nयह खोज उपलब्ध या सक्रिय टैब पर वापस आ जाएगी, और सूचनाएं फिर से सक्षम हो जाएंगी।</UnDismissQuest>
+  <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
+  <QuestDismissed>यह खोज खारिज होने के कारण यहाँ है।\n\nयह समाप्त होने तक पुनः-स्वीकार की जा सकती है।</QuestDismissed>
+  <!-- EN: Delete this quest and remove it from the quest list forever. -->
+  <DeleteQuest>इस खोज को हटाएं और इसे हमेशा के लिए खोज सूची से निकाल दें।</DeleteQuest>
+
+  <!-- Animal pen food tab -->
+  <!-- EN: enclose the pen marker to calculate food information -->
+  <PenFoodTab_NotEnclosed>पेन मार्कर को घेरें भोजन जानकारी की गणना करने के लिए।</PenFoodTab_NotEnclosed>
+
+  <!-- EN: Nutrition stockpiled -->
+  <PenFoodTab_StockpileTotal>पोषण भंडारित</PenFoodTab_StockpileTotal>
+  <!-- EN: The total nutrition of stockpiled food in the pen. -->
+  <PenFoodTab_StockpileTotalDescription>कल के बाड़े में जमा भोजन का कुल पोषण।</PenFoodTab_StockpileTotalDescription>
+  <!-- EN: Days to stockpile exhaustion -->
+  <PenFoodTab_StockpileEmptyDays>स्टॉकपाइल थकावट के दिन</PenFoodTab_StockpileEmptyDays>
+  <!-- EN: Nutrition consumption exceeds nutrition growth rate in this pen. The animals will eventually eat all the stockpiled food and starve. -->
+  <PenFoodTab_StockpileEmptyDaysDescription>इस पेन में पोषण की खपत पोषण वृद्धि दर से अधिक है। जानवर अंततः जमा किए गए सभी भोजन को खा जाएंगे और भूखे मर जाएंगे।</PenFoodTab_StockpileEmptyDaysDescription>
+
+  <!-- EN: Animal type -->
+  <PenFoodTab_AnimalType>पशु प्रकार</PenFoodTab_AnimalType>
+  <!-- EN: Count -->
+  <PenFoodTab_Count>गिनती</PenFoodTab_Count>
+  <!-- EN: Today -->
+  <PenFoodTab_CurrentDay>आज</PenFoodTab_CurrentDay>
+  <!-- EN: nutrition -->
+  <PenFoodTab_Nutrition_Unit>पोषण</PenFoodTab_Nutrition_Unit>
+  <!-- EN: per day -->
+  <PenFoodTab_NutritionPerDay_Unit>प्रति दिन</PenFoodTab_NutritionPerDay_Unit>
+  <!-- EN: Force display animal... -->
+  <PenFoodTab_AddAnimal>जानवर दिखाओ</PenFoodTab_AddAnimal>
+
+  <!-- EN: Nutrition growth -->
+  <PenFoodTab_NaturalNutritionGrowthRate>पोषण वृद्धि</PenFoodTab_NaturalNutritionGrowthRate>
+  <!-- EN: Growth per season -->
+  <PenFoodTab_GrowthPerSeason>मौसम वृद्धि</PenFoodTab_GrowthPerSeason>
+  <!-- EN: Nutrition consumption -->
+  <PenFoodTab_TotalNutritionConsumptionRate>पोषण ग्रहण</PenFoodTab_TotalNutritionConsumptionRate>
+  <!-- EN: The average nutrition provided by edible plants in this pen. -->
+  <PenFoodTab_NaturalNutritionGrowthRateDescription>इस बाड़े में खाद्य पौधों द्वारा प्रदान किया गया औसत पोषण।</PenFoodTab_NaturalNutritionGrowthRateDescription>
+  <!-- EN: The nutrition needed by animals currently in this pen.\n\nTo get more food, expand the pen to cover more wild plant growth, or deliver stockpiled food like haygrass to the pen. -->
+  <PenFoodTab_NutritionConsumptionDescription>इस बाड़े में मौजूद जानवरों को आवश्यक पोषण।\n\nअधिक भोजन प्राप्त करने के लिए, बाड़े का विस्तार करें ताकि अधिक जंगली वनस्पति आड़ में आ सके, या बाड़े में हेग्रास जैसे जमा किए गए भोजन की आपूर्ति करें।</PenFoodTab_NutritionConsumptionDescription>
+  <!-- EN: Note: Plant growth rate varies due to seasons, weather, theft by wild animals, and other factors. These calculations are approximations. -->
+  <PenFoodTab_NaturalNutritionGrowthRateSeasonal>पौधों की वृद्धि दर मौसम, मौसम, जंगली जानवरों द्वारा चोरी और अन्य कारकों के कारण भिन्न होती है। ये गणनाएँ अनुमान हैं।</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
+
+  <!-- EN: Total consumption -->
+  <PenFoodTab_NutritionConsumedPerDay_ColumLabel>कुल खपत</PenFoodTab_NutritionConsumedPerDay_ColumLabel>
+  <!-- EN: The total nutrition that will be consumed each day by each type of animal in this pen. -->
+  <PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>पशुओं के इस बाड़े में प्रत्येक प्रकार के पशु द्वारा प्रतिदिन उपभोग की जाने वाली कुल पोषण मात्रा।</PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>
+  <!-- EN: Daily consumption per {ANIMALDEF_label} -->
+  <PenFoodTab_NutritionConsumedPerDay>दैनिक खपत प्रति {ANIMALDEF_label}</PenFoodTab_NutritionConsumedPerDay>
+  <!-- EN: each {CONSUMEDAMOUNT} -->
+  <PenFoodTab_NutritionConsumedEachAnimalLabel>प्रत्येक {CONSUMEDAMOUNT}</PenFoodTab_NutritionConsumedEachAnimalLabel>
+  <!-- EN: Count that could be supported with no other animals in the pen -->
+  <PenFoodTab_AnimalTypeAnimalCapacity>गिनती जो बिना अन्य जानवरों के बाड़े में समर्थ हो सकती है।</PenFoodTab_AnimalTypeAnimalCapacity>
+
+  <!-- EN: Edible now -->
+  <PenFoodTab_EdibleNow>खाने योग्य अब</PenFoodTab_EdibleNow>
+
+  <!-- EN: Auto-cut plants in pen -->
+  <PenAutoCut_EnabledCheckbox>पेन में स्वचालित रूप से पौधे काटें।</PenAutoCut_EnabledCheckbox>
+  <!-- EN: Automatically mark certain inedible plants to be cut. This makes room for edible plants to grow, which your animals can then eat.\n\nThis auto-designation happens periodically and only applies to certain plants.\n\nThis only works when the pen is enclosed. -->
+  <PenAutoCut_EnabledCheckboxTip>स्वचालित रूप से कुछ अखाद्य पौधों को काटने का निशान लगाएं। इससे खाद्य पौधों को बढ़ने की जगह मिलेगी, जिसे आपके जानवर खा सकते हैं।\n\nयह स्वचालित पदनाम समय-समय पर होता है और केवल कुछ पौधों पर लागू होता है।\n\nयह केवल तभी काम करता है जब पेन घिरा हुआ हो।</PenAutoCut_EnabledCheckboxTip>
+
+  <!-- EN: Pen is not enclosed -->
+  <AutocutUnenclosedPen>कलम संलग्न नहीं है।</AutocutUnenclosedPen>
+  <!-- EN: Pen is not enclosed now, so auto-cut won't occur. -->
+  <AutocutUnenclosedPenTip>कलम अब बंद नहीं है, इसलिए स्वतः कट नहीं होगा।</AutocutUnenclosedPenTip>
+
+  <!-- EN: Auto-cut blocking plants -->
+  <WindTurbineAutoCut_EnabledCheckbox>स्वचालित कटाई</WindTurbineAutoCut_EnabledCheckbox>
+  
+  <!-- Study tab  -->
+  <!-- EN: Study progress -->
+  <StudyNotesTab_StudyProgress>अध्ययन प्रगति</StudyNotesTab_StudyProgress>
+  <!-- EN: Ongoing -->
+  <StudyNotesTab_StudyProgressOngoing>चल रहा है</StudyNotesTab_StudyProgressOngoing>
+  <!-- EN: Completed -->
+  <StudyNotesTab_StudyProgressCompleted>पूरा हुआ</StudyNotesTab_StudyProgressCompleted>
+  <!-- EN: Toggle study -->
+  <StudyNotesTab_ToggleStudy>अध्ययन चालू/बंद करें</StudyNotesTab_ToggleStudy>
+  <!-- EN: No discoveries yet -->
+  <StudyNotesTab_NoDiscoveries>कोई खोज नहीं</StudyNotesTab_NoDiscoveries>
+
+</LanguageData>

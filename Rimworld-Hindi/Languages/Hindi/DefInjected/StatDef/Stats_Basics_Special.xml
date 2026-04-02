@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cleaning time multiplier -->
+  <CleaningTimeFactor.label>सफाई समय गुणक</CleaningTimeFactor.label>
+  <!-- EN: A multiplier on how long it takes to clean filth from this surface. -->
+  <CleaningTimeFactor.description>इस सतह से गंदगी साफ करने में लगने वाले समय पर एक गुणक।</CleaningTimeFactor.description>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeedFactor.label>निर्माण गति</ConstructionSpeedFactor.label>
+  <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast. -->
+  <ConstructionSpeedFactor.description>इस सामग्री से बनी इमारतों के निर्माण की गति इस मान से गुणा की जाती है।\n\nकुछ सामग्री, जैसे पत्थर, बनाने में धीमी होती हैं, जबकि अन्य, जैसे लकड़ी, तेज़ होती हैं।</ConstructionSpeedFactor.description>
+  <!-- EN: construction speed (material factor) -->
+  <ConstructionSpeedFactor.labelForFullStatList>निर्माण गति (सामग्री कारक)</ConstructionSpeedFactor.labelForFullStatList>
+  
+  <!-- EN: filth multiplier -->
+  <FilthMultiplier.label>गंदगी गुणक</FilthMultiplier.label>
+  <!-- EN: How susceptible this surface is to filth. If this is less than 100%, some of the filth deposited here will disappear on contact. This only applies to organic filth. -->
+  <FilthMultiplier.description>यह सतह गंदगी के प्रति कितनी संवेदनशील है। यदि यह 100% से कम है, तो यहां जमा हुई कुछ गंदगी संपर्क पर गायब हो जाएगी। यह केवल जैविक गंदगी पर लागू होता है।</FilthMultiplier.description>
+  
+  <!-- EN: medical potency -->
+  <MedicalPotency.label>चिकित्सा शक्ति</MedicalPotency.label>
+  <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery.\n\nHigher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery.\nMedical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
+  <MedicalPotency.description>घावों और बीमारियों का इलाज करने, या सर्जरी करने में यह कितना प्रभावी है।\n\nउच्च चिकित्सा क्षमता इलाज की गुणवत्ता में सुधार करती है, और सर्जरी के दौरान सफलता की संभावना पर एक गुणक के रूप में कार्य करती है। चिकित्सा क्षमता चिकित्सा परिणामों में कई कारकों में से केवल एक है, जिसमें चिकित्सक की क्षमता, उपकरण, स्वच्छता और भाग्य शामिल हैं।</MedicalPotency.description>
+  
+  <!-- EN: medical tend quality maximum -->
+  <MedicalQualityMax.label>चिकित्सा गुणवत्ता अधिकतम</MedicalQualityMax.label>
+  <!-- EN: The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
+  <MedicalQualityMax.description>इसको उपयोग करते समय प्राप्त की जा सकने वाली अधिकतम चिकित्सा देखभाल गुणवत्ता।\n\nबेहतर देखभाल गुणवत्ता कुशल चिकित्सकों को घावों का बेहतर और अधिक विश्वसनीय तरीके से उपचार करने की अनुमति देती है।</MedicalQualityMax.description>
+  
+  <!-- EN: meditation psyfocus bonus -->
+  <MeditationFocusStrength.label>ध्यान मानसिक लाभ</MeditationFocusStrength.label>
+  <!-- EN: The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating. -->
+  <MeditationFocusStrength.description>ध्यान के दौरान इस वस्तु पर ध्यान केंद्रित करने से किसी व्यक्ति को मिलने वाली अतिरिक्त साइफोक्स की मात्रा, उनके ध्यान साइफोक्स लाभ की अपनी मूल दर के अतिरिक्त।\n\nकुछ वस्तुओं के लिए, यह संख्या परिवेश और ध्यान करने वाले व्यक्ति के आधार पर बदल सकती है।</MeditationFocusStrength.description>
+  <!-- EN: {0} / day -->
+  <MeditationFocusStrength.formatString>{0} / दिन</MeditationFocusStrength.formatString>
+  <!-- EN: {0} / day -->
+  <MeditationFocusStrength.formatStringUnfinalized>{0} / दिन</MeditationFocusStrength.formatStringUnfinalized>
+  
+  <!-- EN: neural heat limit offset -->
+  <PsychicEntropyMaxOffset.label>तंत्रिका ताप सीमा अंतर</PsychicEntropyMaxOffset.label>
+  <!-- EN: An offset applied to the user's neural heat limit. -->
+  <PsychicEntropyMaxOffset.description>उपयोगकर्ता की तंत्रिका ताप सीमा पर लागू एक बदलाव।</PsychicEntropyMaxOffset.description>
+  
+  <!-- EN: neural heat recovery rate offset -->
+  <PsychicEntropyRecoveryRateOffset.label>तंत्रिका ऊष्मा पुनःप्राप्ति दर ऑफसेट</PsychicEntropyRecoveryRateOffset.label>
+  <!-- EN: An offset applied to the user's neural heat recovery rate. -->
+  <PsychicEntropyRecoveryRateOffset.description>उपयोगकर्ता की तंत्रिका ताप पुनर्प्राप्ति दर पर लागू एक बदलाव।</PsychicEntropyRecoveryRateOffset.description>
+  <!-- EN: {0}/s -->
+  <PsychicEntropyRecoveryRateOffset.formatString>{0} प्रति सेकंड</PsychicEntropyRecoveryRateOffset.formatString>
+  
+  <!-- EN: psychic sensitivity factor -->
+  <PsychicSensitivityFactor.label>मानसिक संवेदनशीलता गुणक</PsychicSensitivityFactor.label>
+  <!-- EN: A factor applied to the user's psychic sensitivity. -->
+  <PsychicSensitivityFactor.description>उपयोगकर्ता की मानसिक संवेदनशीलता पर लागू एक कारक।</PsychicSensitivityFactor.description>
+  
+  <!-- EN: psychic sensitivity offset -->
+  <PsychicSensitivityOffset.label>मानसिक संवेदनशीलता अंतर</PsychicSensitivityOffset.label>
+  <!-- EN: An offset applied to the user's psychic sensitivity. -->
+  <PsychicSensitivityOffset.description>उपयोगकर्ता की मानसिक संवेदनशीलता पर लागू एक बदलाव।</PsychicSensitivityOffset.description>
+  
+</LanguageData>

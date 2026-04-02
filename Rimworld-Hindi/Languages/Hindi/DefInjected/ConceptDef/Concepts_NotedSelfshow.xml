@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Alerts -->
+  <Alerts.label>अलर्ट</Alerts.label>
+  <!-- EN: The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts. -->
+  <Alerts.helpText>स्क्रीन के दाहिने किनारे पर अलर्ट आपको उन मुद्दों के बारे में बताते हैं जिन पर ध्यान देने की आवश्यकता है।\n\nअलर्ट पर नज़र रखें।</Alerts.helpText>
+  
+  <!-- EN: Allowed areas -->
+  <AllowedAreas.label>अनुमत क्षेत्र</AllowedAreas.label>
+  <!-- EN: Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the SCHEDULE tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab. -->
+  <AllowedAreas.helpText>कॉलोनीवादी और कॉलोनी जानवर अनुमत क्षेत्रों को सौंपे जा सकते हैं। यह उन्हें उनके अनुमत क्षेत्र के बाहर गंतव्य लेने से रोकता है।\n\nइसका उपयोग, उदाहरण के लिए, कॉलोनीवादियों को बाहर जाने से रोकने के लिए किया जा सकता है।\n\nआप कई अनुमत क्षेत्र बना सकते हैं और उन्हें अलग-अलग कॉलोनीवादियों और जानवरों को सौंप सकते हैं।\n\nअनुमत क्षेत्रों को SCHEDULE टैब में बनाएं, हटाएं और सौंपें।\n\nआर्किटेक्ट टैब में EXPAND ALLOWED AREA और CLEAR ALLOWED AREA डिज़ाइनेटर्स का उपयोग करके मानचित्र पर अनुमत क्षेत्र चित्रित करें।</AllowedAreas.helpText>
+  
+  <!-- EN: Animal taming -->
+  <AnimalTaming.label>पशु प्रशिक्षण</AnimalTaming.label>
+  <!-- EN: You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts. -->
+  <AnimalTaming.helpText>आप उपनिवेशवादियों को पालतू बनाने के लिए एक जंगली जानवर को पालने के लिए TAME डिज़ाइनेटर सौंप सकते हैं।\n\nउपनिवेशवादी जानवर को भोजन देंगे और उसे पालने का प्रयास करेंगे।\n\nसावधान रहें: कुछ जानवर पालतू बनाने के असफल प्रयासों पर हिंसक रूप से प्रतिक्रिया कर सकते हैं।</AnimalTaming.helpText>
+  
+  <!-- EN: Animal training -->
+  <AnimalTraining.label>पशु प्रशिक्षण</AnimalTraining.label>
+  <!-- EN: You can assign a tame animal to be trained in specific skills on its TRAINING tab or on the ANIMALS tab.\n\nAnimals can't be trained continuously; they need time between training sessions. -->
+  <AnimalTraining.helpText>पालतू जानवर को विशिष्ट कौशल में प्रशिक्षित करने के लिए उसके TRAINING टैब या ANIMALS टैब पर नियुक्त किया जा सकता है।\n\nजानवरों को लगातार प्रशिक्षित नहीं किया जा सकता; उन्हें प्रशिक्षण सत्रों के बीच समय की आवश्यकता होती है।</AnimalTraining.helpText>
+  
+  <!-- EN: Camera dolly -->
+  <CameraDolly.label>कैमरा डॉली</CameraDolly.label>
+  <!-- EN: Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys. -->
+  <CameraDolly.helpText>कैमरा को क्लिक और ड्रैग करके माउस बटन 3 (मध्य बटन) या {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} कुंजियों से चलाएं।</CameraDolly.helpText>
+  <!-- EN: Move the camera by using the D-pad. -->
+  <CameraDolly.helpTextController>डी-पैड का उपयोग करके कैमरा चलाएं।</CameraDolly.helpTextController>
+  
+  <!-- EN: Camera zoom -->
+  <CameraZoom.label>कैमरा ज़ूम</CameraZoom.label>
+  <!-- EN: Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys. -->
+  <CameraZoom.helpText>माउस व्हील या {Key:MapZoom_In} और {Key:MapZoom_Out} कुंजियों से ज़ूम इन और आउट करें।</CameraZoom.helpText>
+  <!-- EN: Zoom in and out with {Key:MapZoom_In} and {Key:MapZoom_Out}. -->
+  <CameraZoom.helpTextController>{Key:MapZoom_In} और {Key:MapZoom_Out} से ज़ूम इन और आउट करें।</CameraZoom.helpTextController>
+  
+  <!-- EN: Clicking messages -->
+  <ClickingMessages.label>क्लिक संदेश</ClickingMessages.label>
+  <!-- EN: You can click on the notifications in the top-left of the screen to instantly center the camera on their subject. -->
+  <ClickingMessages.helpText>आप स्क्रीन के ऊपरी-बाएँ कोने में सूचनाओं पर क्लिक करके तुरंत कैमरे को उनके विषय पर केंद्रित कर सकते हैं।</ClickingMessages.helpText>
+  
+  <!-- EN: Cover and shooting -->
+  <CoverAndShooting.label>कवर और शूटिंग</CoverAndShooting.label>
+  <!-- EN: The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree. -->
+  <CoverAndShooting.helpText>रेंज्ड युद्ध में करने योग्य सबसे महत्वपूर्ण चीज़ कवर का उपयोग करना है।\n\nकवर केवल तभी काम करता है जब आपका उपनिवेशवादी इसे छू रहा हो, और यह आपके उपनिवेशवादी और दुश्मन के बीच में हो।\n\nआप उपनिवेशवादियों को दीवार के कोनों के पीछे भी रख सकते हैं। वे गोली चलाने के लिए बाहर झुकेंगे।\n\nलगभग हर चीज़ का उपयोग कवर के रूप में किया जा सकता है, लेकिन कुछ चीज़ें दूसरों से बेहतर होती हैं। पेड़ के पीछे छिपना कुछ नहीं से बेहतर है, लेकिन रेत के बोरे के पीछे छिपना पेड़ का उपयोग करने से बेहतर है।</CoverAndShooting.helpText>
+  
+  <!-- EN: Item deterioration -->
+  <Deterioration.label>वस्तु क्षरण</Deterioration.label>
+  <!-- EN: Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room. -->
+  <Deterioration.helpText>बाहर रखी वस्तुएँ धीरे-धीरे खराब हो जाएँगी।\n\nयदि आप वस्तुओं को दीर्घकालिक रूप से संग्रहीत करना चाहते हैं, तो उन्हें छत वाले कमरे में रखें।</Deterioration.helpText>
+  
+  <!-- EN: Equipping weapons -->
+  <EquippingWeapons.label>हथियार लैस करना</EquippingWeapons.label>
+  <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip. -->
+  <EquippingWeapons.helpText>आपके उपनिवेशवादी कुछ हथियारों के साथ पहुंचे। उन्हें लैस करें!\n\nप्रत्येक उपनिवेशवादी का चयन करें और जिस हथियार से लैस करना चाहते हैं उस पर राइट-क्लिक करें।</EquippingWeapons.helpText>
+  <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and press the left trigger on the weapon you want them to equip. -->
+  <EquippingWeapons.helpTextController>आपके उपनिवेशवादी कुछ हथियारों के साथ पहुंचे। उन्हें लैस करें!\n\nप्रत्येक उपनिवेशवादी का चयन करें और जिस हथियार से लैस करना चाहते हैं, उस पर बायां ट्रिगर दबाएं।</EquippingWeapons.helpTextController>
+  
+  <!-- EN: Fire preparation -->
+  <FirePreparation.label>अग्नि तैयारी</FirePreparation.label>
+  <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.\n\nThese design elements can help reduce the damage from fires:\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
+  <FirePreparation.helpText>आग आसानी से एक कॉलोनी को जला सकती है। उन्हें हराने के लिए, आपको उनके होने से पहले तैयारी करनी चाहिए।\n\nये डिज़ाइन तत्व आग से होने वाले नुकसान को कम करने में मदद कर सकते हैं:\n\n1. एक सुपर-भवन बनाने के बजाय, अलग-अलग भवनों का निर्माण करें जिनके बीच जगह हो।\n\n2. कम ज्वलनशील सामग्री का उपयोग करें। लकड़ी सस्ती और तेज़ है - लेकिन बहुत ज्वलनशील है।\n\n3. अपने आधार की ओर आने वाली जंगल की आग को रोकने के लिए फायरब्रेक बनाएं। 3 या 4 सेल चौड़ी कंक्रीट की पट्टी आमतौर पर आगे बढ़ती आग को रोक देगी।</FirePreparation.helpText>
+  
+  <!-- EN: Forbid and allow -->
+  <Forbidding.label>निषेध और अनुमति</Forbidding.label>
+  <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it. -->
+  <Forbidding.helpText>कॉलोनीवासी उन वस्तुओं के साथ बातचीत नहीं करेंगे जिन्हें निषेधित चिह्नित किया गया है।\n\nनिषिद्ध वस्तुओं से एक छोटा लाल X जुड़ा होता है। एक निषिद्ध वस्तु का चयन करें और नीचे दिए गए नियंत्रणों का उपयोग करके अनुमति दें।</Forbidding.helpText>
+  
+  <!-- EN: Forbidding doors -->
+  <ForbiddingDoors.label>निषिद्ध द्वार</ForbiddingDoors.label>
+  <!-- EN: You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway. -->
+  <ForbiddingDoors.helpText>आप दरवाज़ों को मना कर सकते हैं ताकि उपनिवेशवादी और पालतू जानवर उनसे न गुज़रें।\n\nध्यान रखें कि यह दरवाज़ा ताला नहीं है। दरवाज़े हमेशा बंद रहते हैं, इसलिए दुश्मन आसानी से नहीं निकल सकते। मना करना बस आपके उपनिवेशवादियों को दरवाज़े का उपयोग न करने का निर्देश देता है। जो उपनिवेशवादी पागल हो रहे हैं वे फिर भी दरवाज़े का उपयोग कर सकते हैं।</ForbiddingDoors.helpText>
+  
+  <!-- EN: Forming caravans -->
+  <FormCaravan.label>कारवां गठन</FormCaravan.label>
+  <!-- EN: You can form a caravan to send groups of people traveling across the planet!\n\nIn the WORLD tab, select your home base and click the "form caravan" button. -->
+  <FormCaravan.helpText>आप ग्रह पर लोगों के समूहों को यात्रा भेजने के लिए एक कारवां बना सकते हैं!\n\nWORLD टैब में, अपने होम बेस का चयन करें और &amp;quot;कारवां बनाएं&amp;quot; बटन पर क्लिक करें।</FormCaravan.helpText>
+  
+  <!-- EN: Friendly fire safety -->
+  <FriendlyFireSafety.label>मित्रवत आग सुरक्षा</FriendlyFireSafety.label>
+  <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over their friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
+  <FriendlyFireSafety.helpText>मित्रवत आग कभी नहीं होती यदि निशानेबाज अपने सहयोगी के करीब हो।\n\nउदाहरण के लिए, आप एक तलवार चलाने वाले उपनिवेशवादी को सीधे एक बंदूक चलाने वाले के सामने सुरक्षित रूप से रख सकते हैं। निशानेबाज अपने मित्र के कंधे के ऊपर गोली चलाएगा।\n\nयह दूर और हाथापाई सेनानियों को संयोजित करने का एक अच्छा तरीका है।</FriendlyFireSafety.helpText>
+  
+  <!-- EN: Getting more traders -->
+  <GettingMoreTraders.label>अधिक व्यापारी</GettingMoreTraders.label>
+  <!-- EN: More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console. -->
+  <GettingMoreTraders.helpText>अधिक गुटों के साथ गठबंधन होने पर अधिक व्यापारी कारवां आपसे मिलने आएंगे।\n\nयदि आपके कोई सहयोगी नहीं हैं, तो कोई भी कारवां कभी नहीं आएगा!\n\nआप संचार कंसोल पर उन्हें बुलाकर सहयोगियों को व्यापार कारवां भेजने के लिए भुगतान भी कर सकते हैं।</GettingMoreTraders.helpText>
+  
+  <!-- EN: Growing zones -->
+  <GrowingFood.label>खेती क्षेत्र</GrowingFood.label>
+  <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
+  <GrowingFood.helpText>भोजन उगाने के लिए, आर्किटेक्ट मेनू का उपयोग करके GROWING ZONES रखें।\n\nइन्हें केवल उपजाऊ भूमि पर रखा जा सकता है।</GrowingFood.helpText>
+  
+  <!-- EN: History tab -->
+  <HistoryTab.label>इतिहास टैब</HistoryTab.label>
+  <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
+  <HistoryTab.helpText>आप स्क्रीन के नीचे HISTORY टैब में समय के साथ अपनी कॉलोनी के भाग्य का रिकॉर्ड देख सकते हैं।</HistoryTab.helpText>
+  
+  <!-- EN: Home area -->
+  <HomeArea.label>गृह क्षेत्र</HomeArea.label>
+  <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
+  <HomeArea.helpText>गृह क्षेत्र आपके उपनिवेशवादियों को बताता है कि किस क्षेत्र को साफ करना है और आग बुझानी है।\n\nआर्किटेक्ट मेनू के अंतर्गत ज़ोन श्रेणी के साथ गृह क्षेत्र परिभाषित करें।</HomeArea.helpText>
+  
+  <!-- EN: Hostility response modes -->
+  <HostilityResponse.label>शत्रुता प्रतिक्रिया मोड</HostilityResponse.label>
+  <!-- EN: You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu. -->
+  <HostilityResponse.helpText>आप उपनिवेशवादियों को शिकारी जानवरों जैसे खतरों का स्वचालित रूप से जवाब देने का तरीका कॉन्फ़िगर कर सकते हैं।\n\nASSIGN मेनू में FLEE, ATTACK और IGNORE मोड में से चुनें।</HostilityResponse.helpText>
+  
+  <!-- EN: Info card -->
+  <InfoCard.label>जानकारी कार्ड</InfoCard.label>
+  <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
+  <InfoCard.helpText>जानकारी कार्ड किसी भी वस्तु, व्यक्ति या निर्माण के बारे में विस्तृत आंकड़े दिखाता है।\n\nकिसी व्यक्ति या वस्तु का चयन करें और निरीक्षण फलक पर &amp;apos;i&amp;apos; बटन से उनका जानकारी कार्ड खोलें।</InfoCard.helpText>
+  
+  <!-- EN: Manual work priorities -->
+  <ManualWorkPriorities.label>मैनुअल कार्य प्राथमिकताएँ</ManualWorkPriorities.label>
+  <!-- EN: One of the most important parts of RimWorld is choosing good work settings for your colonists.\n\nPoor work settings can leave essential work unfinished for a long time while colonists waste time on unimportant tasks.\n\nTo give more control over what work colonists do, you can use the Manual Priorities mode in the WORK tab.\n\nIn this mode, each colonist has a priority number for each work type. Colonists will do priority 1 work from left to right, then priority 2 work from left to right, and so on.\n\nIntelligent use of these setting is essential for a large, well-automated colony. -->
+  <ManualWorkPriorities.helpText>RimWorld का सबसे महत्वपूर्ण हिस्सा आपके उपनिवेशवादियों के लिए अच्छे कार्य सेटिंग चुनना है।\n\nखराब कार्य सेटिंग आवश्यक कार्य को लंबे समय तक अधूरा छोड़ सकती है जबकि उपनिवेशवादी महत्वहीन कार्यों पर समय बर्बाद करते हैं।\n\nउपनिवेशवादियों द्वारा किए जाने वाले कार्यों पर अधिक नियंत्रण देने के लिए, आप WORK टैब में मैनुअल प्राथमिकताएं मोड का उपयोग कर सकते हैं।\n\nइस मोड में, प्रत्येक उपनिवेशवादी के पास प्रत्येक कार्य प्रकार के लिए एक प्राथमिकता संख्या होती है। उपनिवेशवादी प्राथमिकता  कार्य बाएं से दाएं, फिर प्राथमिकता  कार्य बाएं से दाएं, और इसी तरह करेंगे।\n\nइन सेटिंग का बुद्धिमानी से उपयोग एक बड़े, अच्छी तरह से स्वचालित उपनिवेश के लिए आवश्यक है।</ManualWorkPriorities.helpText>
+  
+  <!-- EN: Medical operations -->
+  <MedicalOperations.label>चिकित्सा संचालन</MedicalOperations.label>
+  <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
+  <MedicalOperations.helpText>चिकित्सा ऑपरेशन निर्दिष्ट करने के लिए, जैसे अंग कटाई या कृत्रिम अंग स्थापना, किसी उपनिवेशवादी का स्वास्थ्य टैब खोलें, फिर संचालन उप-टैब पर स्विच करें।</MedicalOperations.helpText>
+  
+  <!-- EN: Mining -->
+  <Mining.label>खनन</Mining.label>
+  <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
+  <Mining.helpText>आप आर्किटेक्ट मेनू खोलकर और ORDERS टैब चुनकर खनन के लिए स्थान निर्दिष्ट कर सकते हैं।\n\nकुछ खनन योग्य ब्लॉक STEEL, GOLD, PLASTEEL, और अन्य उपयोगी सामग्री उत्पन्न करते हैं।</Mining.helpText>
+  
+  <!-- EN: Outfits -->
+  <Outfits.label>पोशाकें</Outfits.label>
+  <!-- EN: Colonists will automatically try to wear the newest, highest-quality apparel they can.\n\nYou don't need to manually assign each piece of apparel to colonists (though you can, if you wish).\n\nTo assign colonists restrictions on how to dress, open the ASSIGN tab, use the "Manage apparel policies" dialog box to design a new outfit, and then assign the outfit to colonists. -->
+  <Outfits.helpText>कॉलोनिस्ट स्वचालित रूप से नवीनतम, उच्चतम-गुणवत्ता वाले परिधान पहनने का प्रयास करेंगे।\n\nआपको प्रत्येक परिधान को मैन्युअल रूप से कोलोनिस्ट को असाइन करने की आवश्यकता नहीं है (हालांकि, यदि आप चाहें तो कर सकते हैं)।\n\nकॉलोनिस्ट को ड्रेसिंग पर प्रतिबंध असाइन करने के लिए, ASSIGN टैब खोलें, एक नया पोशाक डिज़ाइन करने के लिए &amp;quot;परिधान नीतियों का प्रबंधन करें&amp;quot; संवाद बॉक्स का उपयोग करें, और फिर पोशाक को कोलोनिस्ट को असाइन करें।</Outfits.helpText>
+  
+  <!-- EN: Pausing -->
+  <Pause.label>रोकना</Pause.label>
+  <!-- EN: Hit {Key:TogglePause} to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit {Key:TogglePause}! -->
+  <Pause.helpText>{Key:TogglePause} कुंजी दबाकर गेम को रोकें या अनरोकें।\n\nगेम को रोककर आप आदेश दे सकते हैं।\n\nइसे याद रखें - यदि स्थिति तनावपूर्ण हो जाती है, तो बस {Key:TogglePause} कुंजी दबाएं!</Pause.helpText>
+  
+  <!-- EN: Shot accuracy tooltip -->
+  <ShotAccuracyTooltip.label>शूट सटीकता टूलटिप</ShotAccuracyTooltip.label>
+  <!-- EN: You can see the exact calculations behind the accuracy of any shot.\n\nTo do so, select the shooter, then rest the mouse over the target. The tooltip will show the chance to hit, and a breakdown of the contribution of various to-hit chance multipliers. -->
+  <ShotAccuracyTooltip.helpText>आप किसी भी शॉट की सटीकता के पीछे की गणना देख सकते हैं।\n\nऐसा करने के लिए, शूटर का चयन करें, फिर माउस को लक्ष्य पर टिकाएं। टूलटिप हिट करने की संभावना और विभिन्न हिट संभावना गुणकों के योगदान का विवरण दिखाएगा।</ShotAccuracyTooltip.helpText>
+  
+  <!-- EN: Spoilage and freezers -->
+  <SpoilageAndFreezers.label>क्षति और फ्रीज़र</SpoilageAndFreezers.label>
+  <!-- EN: Most foodstuffs will spoil after a relatively short time.\n\nTo prevent this, you can build a walk-in freezer.\n\nTo build a freezer, construct a closed room, and put one or two coolers into the wall. Set the coolers to a negative target temperature.\n\nFrozen foods won't ever spoil. -->
+  <SpoilageAndFreezers.helpText>अधिकांश खाद्य पदार्थ थोड़े समय बाद खराब हो जाएंगे।\n\nइसे रोकने के लिए, आप एक वॉक-इन फ्रीज़र बना सकते हैं।\n\nफ्रीज़र बनाने के लिए, एक बंद कमरा बनाएं, और दीवार में एक या दो कूलर लगाएं। कूलर को नकारात्मक लक्ष्य तापमान पर सेट करें।\n\nजमे हुए खाद्य पदार्थ कभी खराब नहीं होंगे।</SpoilageAndFreezers.helpText>
+  
+  <!-- EN: Stockpiles -->
+  <Stockpiles.label>भंडारण ढेर</Stockpiles.label>
+  <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
+  <Stockpiles.helpText>आपके उपनिवेशवादियों को वस्तुओं को संग्रहीत करने के लिए कहीं जगह चाहिए। उनके लिए एक STOCKPILE नामित करें।\n\nइसे निचले-बाएँ में ARCHITECT मेनू के ZONES अनुभाग में खोजें।</Stockpiles.helpText>
+  
+  <!-- EN: Storage tab -->
+  <StorageTab.label>भंडारण टैब</StorageTab.label>
+  <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
+  <StorageTab.helpText>आप स्टॉकपाइल और भंडारण इमारतों को चुनकर और नीचे-बाएँ निरीक्षक फलक के ऊपर STORAGE TAB खोलकर कॉन्फ़िगर कर सकते हैं।\n\nएक स्टॉकपाइल के भंडारण टैब में, आप विशिष्ट वस्तुओं को अनुमति देने या अस्वीकार करने के लिए श्रेणियों का विस्तार कर सकते हैं। श्रेणी नामों के बाईं ओर त्रिभुजों पर क्लिक करें।\n\nआप भंडारण की PRIORITY बदल सकते हैं। उपनिवेशक पहले उच्च-प्राथमिकता वाले भंडारण को भरेंगे, और निम्न से उच्च प्राथमिकता में वस्तुओं को स्थानांतरित करेंगे।</StorageTab.helpText>
+  
+  <!-- EN: Tile inspector -->
+  <TileInspector.label>टाइल निरीक्षक</TileInspector.label>
+  <!-- EN: You can inspect the details of a tile by holding {Key:ShowCellInspector}. This displays the contents of a tile, room information, beauty information, and more. -->
+  <TileInspector.helpText>आप {Key:ShowCellInspector} दबाकर एक टाइल का विवरण देख सकते हैं। यह एक टाइल की सामग्री, कमरे की जानकारी, सौंदर्य जानकारी और बहुत कुछ प्रदर्शित करता है।</TileInspector.helpText>
+  
+  <!-- EN: Time assignments -->
+  <TimeAssignments.label>समय असाइनमेंट</TimeAssignments.label>
+  <!-- EN: You can modify what time of day colonists should do different activities using the SCHEDULE tab. -->
+  <TimeAssignments.helpText>आप शेड्यूल टैब का उपयोग करके उपनिवेशवादियों को अलग-अलग गतिविधियों के लिए दिन के अलग-अलग समय संशोधित कर सकते हैं।</TimeAssignments.helpText>
+  
+  <!-- EN: Time controls -->
+  <TimeControls.label>समय नियंत्रण</TimeControls.label>
+  <!-- EN: You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
+  <TimeControls.helpText>आप समय तेज़ कर सकते हैं।\n\n{Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, और {Key:TimeSpeed_Superfast} कुंजियों से, या नीचे दाईं ओर समय नियंत्रणों से समय को नियंत्रित करने का प्रयास करें।</TimeControls.helpText>
+  <!-- EN: You can speed up time.\n\nTry controlling time with {Key:TimeSpeed_Faster} and {Key:TimeSpeed_Slower}, or with the time controls in the bottom right. -->
+  <TimeControls.helpTextController>आप समय तेज़ कर सकते हैं।\n\n{Key:TimeSpeed_Faster} और {Key:TimeSpeed_Slower} से समय नियंत्रित करने का प्रयास करें, या नीचे दाईं ओर समय नियंत्रणों से।</TimeControls.helpTextController>
+  
+  <!-- EN: Work settings -->
+  <WorkTab.label>कार्य सेटिंग</WorkTab.label>
+  <!-- EN: You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done. -->
+  <WorkTab.helpText>आप स्क्रीन के निचले बाएं कोने में स्थित WORK टैब में प्रत्येक उपनिवेशवादी की कार्य सेटिंग निर्धारित कर सकते हैं।\n\nवे हमेशा उच्चतम प्राथमिकता वाला कार्य करेंगे जो वे ढूंढ सकते हैं।\n\nयदि किसी कार्य प्रकार को किसी को भी सौंपा नहीं गया है, या यदि वे उच्च प्राथमिकता वाले कार्यों में व्यस्त हैं, तो यह कभी भी पूरा नहीं होगा।</WorkTab.helpText>
+  
+</LanguageData>

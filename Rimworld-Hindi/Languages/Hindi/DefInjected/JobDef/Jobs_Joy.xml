@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: building snowman. -->
+  <BuildSnowman.reportString>स्नोमैन बनाना।</BuildSnowman.reportString>
+  
+  <!-- EN: going for a walk. -->
+  <GoForWalk.reportString>चलने जा रहा/रही हूँ।</GoForWalk.reportString>
+  
+  <!-- EN: meditating. -->
+  <Meditate.reportString>ध्यानस्थ।</Meditate.reportString>
+  
+  <!-- EN: playing billiards. -->
+  <Play_Billiards.reportString>बिलियर्ड्स खेलना</Play_Billiards.reportString>
+  
+  <!-- EN: playing chess. -->
+  <Play_Chess.reportString>शतरंज खेलें</Play_Chess.reportString>
+  
+  <!-- EN: playing the game of Ur. -->
+  <Play_GameOfUr.reportString>उर का खेल खेलना।</Play_GameOfUr.reportString>
+  
+  <!-- EN: playing hoopstone. -->
+  <Play_Hoopstone.reportString>हूपस्टोन खेल रहे हैं</Play_Hoopstone.reportString>
+  
+  <!-- EN: playing horseshoes. -->
+  <Play_Horseshoes.reportString>हॉर्सशू खेलना</Play_Horseshoes.reportString>
+  
+  <!-- EN: playing TargetA. -->
+  <Play_MusicalInstrument.reportString>लक्ष्य कार्य</Play_MusicalInstrument.reportString>
+  
+  <!-- EN: playing poker. -->
+  <Play_Poker.reportString>पोकर खेलें</Play_Poker.reportString>
+  
+  <!-- EN: praying. -->
+  <Pray.reportString>प्रार्थना कर रहा है।</Pray.reportString>
+  
+  <!-- EN: skygazing. -->
+  <Skygaze.reportString>आकाश अवलोकन</Skygaze.reportString>
+  
+  <!-- EN: relaxing socially. -->
+  <SocialRelax.reportString>सामाजिक रूप से आराम।</SocialRelax.reportString>
+  
+  <!-- EN: using telescope. -->
+  <UseTelescope.reportString>दूरबीन का उपयोग कर रहा है।</UseTelescope.reportString>
+  
+  <!-- EN: viewing art. -->
+  <ViewArt.reportString>कला देखना।</ViewArt.reportString>
+  
+  <!-- EN: visiting grave. -->
+  <VisitGrave.reportString>क़ब्र पर जाना।</VisitGrave.reportString>
+  
+  <!-- EN: cheering up patient TargetA. -->
+  <VisitSickPawn.reportString>मरीज़ टारगेटए को उत्साहित करना।</VisitSickPawn.reportString>
+  
+  <!-- EN: watching television. -->
+  <WatchTelevision.reportString>टेलीविजन देखना।</WatchTelevision.reportString>
+  
+</LanguageData>

@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Autosaving -->
+  <Autosaving>स्वचालित सहेजना</Autosaving>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
+  <GameStartDialog>तीनों आप अपनी क्रायोस्लीप शवपेटिकाओं में सायरन और धातु फटने की आवाज़ के साथ जागते हैं। आप मुश्किल से ही भागने वाले पॉड तक पहुँच पाते हैं, इससे पहले कि जहाज फट जाए।\n\nकुछ समय बाद, आप इस अज्ञात रिमवर्ल्ड पर उतरते हैं।\n\nजैसे-जैसे टुकड़े-टुकड़े हुए स्टारशिप के टुकड़े आपके चारों ओर गिरते हैं, आप जीवित रहने की योजना बनाना शुरू करते हैं।</GameStartDialog>
+  <!-- EN: Colony -->
+  <Colony>कॉलोनी</Colony>
+  <!-- EN: You can only change language from the options screen on the main menu. -->
+  <ChangeLanguageFromMainMenu>मुख्य मेनू के विकल्प स्क्रीन से ही भाषा बदली जा सकती है।</ChangeLanguageFromMainMenu>
+  <!-- EN: and -->
+  <AndLower>और</AndLower>
+  <!-- EN: disabled -->
+  <DisabledLower>अक्षम</DisabledLower>
+
+  <!-- EN: Version {0} -->
+  <VersionIndicator>संस्करण {0}</VersionIndicator>
+  <!-- EN: Game version -->
+  <GameVersionIndicator>खेल संस्करण</GameVersionIndicator>
+  <!-- EN: development build -->
+  <DevelopmentBuildLower>विकास निर्माण</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
+  <CompiledOn>संकलित {0}</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
+  <LoggedIntoSteamAs>स्टीम में {0} के रूप में लॉग इन किया गया</LoggedIntoSteamAs>
+  
+  <!-- ToCommaList() -->
+  <!-- EN: {0} and {1} -->
+  <ToCommaListAnd>{0} और {1}</ToCommaListAnd>
+  <!-- EN: {0} or {1} -->
+  <ToCommaListOr>{0} या {1}</ToCommaListOr>
+  
+  <!-- General-use words -->
+  <!-- EN: Yes -->
+  <Yes>नियम।</Yes>
+  <!-- EN: No -->
+  <No>नहीं</No>
+  <!-- EN: No {0} -->
+  <NoSubject>कोई नहीं {0}</NoSubject>
+  <!-- EN: new -->
+  <New>नया</New>
+  <!-- EN: Gender -->
+  <Gender>लिंग</Gender>
+  <!-- EN: Sex -->
+  <Sex>लिंग</Sex>
+  <!-- EN: min -->
+  <min>खनन</min>
+  <!-- EN: max -->
+  <max>अधिकतम</max>
+  <!-- EN: chance -->
+  <chance>संभावना</chance>
+  <!-- EN: context -->
+  <context>नियम।</context>
+  <!-- EN: multiplier -->
+  <multiplier>गुणक</multiplier>
+  <!-- EN: damage -->
+  <damage>क्षति</damage>
+  <!-- EN: radius -->
+  <radius>त्रिज्या</radius>
+  <!-- EN: expired -->
+  <expired>समाप्त</expired>
+  <!-- EN: duration (days) -->
+  <durationDays>अवधि (दिन)</durationDays>
+  <!-- EN: interval (days) -->
+  <intervalDays>अंतराल (दिन)</intervalDays>
+  <!-- EN: delay (days) -->
+  <delayDays>विलंब (दिन)</delayDays>
+  <!-- EN: repeat -->
+  <repeat>दोहराएँ</repeat>
+  <!-- EN: default -->
+  <default>पूर्वनिर्धारित</default>
+  <!-- EN: distance -->
+  <distance>दूरी</distance>
+  <!-- EN: YES -->
+  <YesUppercase>हाँ</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>नहीं</NoUppercase>
+  <!-- EN: kg -->
+  <kg>किलोग्राम</kg>
+  <!-- EN: Day -->
+  <Day>दिन</Day>
+  <!-- EN: day -->
+  <day>दिन</day>
+  <!-- EN: Default -->
+  <Default>डिफ़ॉल्ट</Default>
+  <!-- EN: Average -->
+  <Average>औसत</Average>
+  <!-- EN: Cause -->
+  <Cause>कारण</Cause>
+  <!-- EN: etc -->
+  <Etc>etc → आदि</Etc>
+  <!-- EN: ${0} -->
+  <MoneyFormat>${0}</MoneyFormat>
+  <!-- EN: Factors -->
+  <Factors>कारक</Factors>
+  <!-- EN: Uses -->
+  <Uses>उपयोग</Uses>
+  <!-- EN: Translation -->
+  <Translation>गंभीर नियम</Translation>
+  <!-- EN: min(days) -->
+  <minDays>न्यूनतम(दिन)</minDays>
+  <!-- EN: max(days) -->
+  <maxDays>अधिकतम दिन</maxDays>
+  <!-- EN: Processing -->
+  <Processing>संसाधन</Processing>
+  <!-- EN: Inspect -->
+  <Inspect>निरीक्षण</Inspect>
+  <!-- EN: Edit -->
+  <Edit>संपादित करें</Edit>
+
+  <!-- Content generation-->
+  
+  <!-- EN: {0} meat -->
+  <MeatLabel>{0} मांस</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
+  <MeatDesc>कच्चा कटा हुआ मांस। इसे भोजन में पकाया जा सकता है, या कच्चा खाया जा सकता है।</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>कच्चा कटा हुआ मांस। यदि आवश्यक हो, तो इसे भोजन में पकाया जा सकता है, या कच्चा भी खाया जा सकता है। अत्यंत अप्रिय।</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>कच्चा, कटा हुआ मांस। इसे भोजन में पकाया जा सकता है या कच्चा खाया जा सकता है, हालाँकि अधिकांश मनुष्य इस विचार को पसंद नहीं करते।</MeatHumanDesc>
+
+  <!-- EN: techprint ({PROJECT_label}) -->
+  <TechprintLabel>तकनीकी ब्लूप्रिंट ({PROJECT_label})</TechprintLabel>
+  <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
+\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
+\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
+  <TechprintDesc>Datos sobre la tecnología "{PROJECT_label}".\nLa forma física de los tecnoplanos va desde trozos de papel con diagramas, hasta avanzadas máquinas de aprendizaje autónomas. Independientemente de su forma, juegan el mismo papel: darle a tus investigadores la confianza de que una idea es factible, y una aproximación a los diseños utilizados por sociedades más avanzadas.\n\nTus investigadores necesitan el conocimiento fundamental dado por estos tecnoplanos para saber cómo enfrentarse a una nueva tecnología. Solo cuando tengas suficientes datos tus investigadores sabrán como usar dicha tecnología en tu situación particular.\n\nAplicar tecnoplanos a proyectos en curso proporciona la mitad del progreso restante. Además, usar tecnoplanos le da un empujón intelectual a tus investigadores, incluso con tecnologías ya conocidas.</TechprintDesc>
+  <!-- EN: Unlocks -->
+  <Unlocks>अनलॉक</Unlocks>
+
+  <!-- EN: {0} corpse -->
+  <CorpseLabel>{0} लाश</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
+  <CorpseDesc>किसी {0} का मृत शरीर।</CorpseDesc>
+  <!-- EN: {1_label} (dead) -->
+  <DeadLabel>मृत</DeadLabel>
+
+  <!-- EN: rough {0} -->
+  <RoughStoneTerrainLabel>खुरदरा {0}</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
+  <RoughStoneTerrainDesc>खुरदरा, प्राकृतिक {0} मैदान।</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
+  <RoughHewnStoneTerrainLabel>कच्चा {0}</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
+  <RoughHewnStoneTerrainDesc>लगभग कटा हुआ प्राकृतिक {0} फर्श।</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
+  <SmoothStoneTerrainLabel>चिकना {0}</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
+  <SmoothStoneTerrainDesc>चिकना प्राकृतिक {0} फर्श।</SmoothStoneTerrainDesc>
+
+  <!-- EN: (blueprint) -->
+  <BlueprintLabelExtra>ब्लूप्रिंट</BlueprintLabelExtra>
+  <!-- EN: (building) -->
+  <FrameLabelExtra>निर्माण</FrameLabelExtra>
+
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>अनाबद्ध</FactionUnaffiliated>
+
+  <!-- EN: Continue anyway? -->
+  <StillWishContinue>जारी रखें?</StillWishContinue>
+  
+  <!-- EN: ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah -->
+  <BabyTalk>These appear to be babbling sounds. A short UI label reflecting this, adhering to the rules, would be:\n\n**बड़बड़ाहट** (Barbarahat) - meaning &amp;quot;babbling&amp;quot; or &amp;quot;muttering&amp;quot;. \n\nIt&amp;apos;s concise and fits the context of nonsensical sounds.</BabyTalk>
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <SomeonesRoom>{PAWN_labelShort} का {1}</SomeonesRoom>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
+  <CouplesRoom>{PAWN1_labelShort} और {PAWN2_labelShort} का {2}</CouplesRoom>
+  
+  <!-- EN: Important for this type of room. -->
+  <StatRelatesToCurrentRoom>महत्वपूर्ण इस प्रकार के कमरे के लिए।</StatRelatesToCurrentRoom>
+  
+  <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
+  <DeepResourceRemaining>{COUNT} {RESOURCE_label} यहाँ भूमिगत।</DeepResourceRemaining>
+  
+  <!-- EN: (various) -->
+  <VariousLabel>विवरण</VariousLabel>
+
+  <!-- History events -->
+  <!-- EN: Colonist died -->
+  <ColonistDied>कॉलोनीवासी की मृत्यु हुई।</ColonistDied>
+  
+  <!-- Rotation -->
+  <!-- EN: North -->
+  <North>उत्तर</North>
+  <!-- EN: South -->
+  <South>दक्षिण</South>
+  <!-- EN: West -->
+  <West>पश्चिम</West>
+  <!-- EN: East -->
+  <East>पूर्व</East>
+
+  <!-- EN: applying techprint ({0}) -->
+  <ApplyingTechprint>तकनीकी ब्लूप्रिंट ({0}) लागू करना</ApplyingTechprint>
+
+  <!-- Apparel Looks -->
+  <!-- EN: variant of -->
+  <VariantOf>भिन्नता</VariantOf>
+  
+  <!-- Familial relationships -->
+  <!-- EN: born to {0} -->
+  <BornOfParents>{0} से जन्म</BornOfParents>
+  <!-- EN: unknown parents -->
+  <ParentsUnknown>अज्ञात माता-पिता</ParentsUnknown>
+  
+  <!-- Legal status -->
+  <!-- EN: colonist -->
+  <Colonist>कॉलोनीवादी</Colonist>
+
+</LanguageData>

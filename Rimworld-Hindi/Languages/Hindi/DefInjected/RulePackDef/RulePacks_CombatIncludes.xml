@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>scraped_present->glancing</li>
+    <li>scraped_present->bouncing</li>
+    <li>scraped_present->grazing</li>
+    <li>scraped_present->caroming</li>
+    <li>scraped_present->skipping</li>
+    <li>scraped_present->skating</li>
+    <li>scraped_past->glanced</li>
+    <li>scraped_past->bounced</li>
+    <li>scraped_past->grazed</li>
+    <li>scraped_past->caromed</li>
+    <li>scraped_past->skipped</li>
+    <li>scraped_past->skated</li>
+  -->
+  <Combat_DeflectIncludes.rulePack.rulesStrings>
+    <li>scraped_present->छूते हुए और फिसलते हुए</li>
+    <li>scraped_present->छलांग लगाते हुए</li>
+    <li>scraped_present->चराई कर रहा है</li>
+    <li>scraped_present->टकराकर उछलते हुए</li>
+    <li>scraped_present->कूदना</li>
+    <li>scraped_present->स्केटिंग करते हुए</li>
+    <li>scraped_past->उसने मारा और हट गया।</li>
+    <li>scraped_past->छटक गया</li>
+    <li>scraped_past->खरोंच दिया है</li>
+    <li>scraped_past->छिटक गया</li>
+    <li>scraped_past->छोड़ दिया है</li>
+    <li>scraped_past->फिसल गया है</li>
+  </Combat_DeflectIncludes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite]</li>
+    <li>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite] with [implement]</li>
+    <li>action->[INITIATOR_definite] [tried] to use [implement] to [damaged_inf] [RECIPIENT_definite]</li>
+    <li>action->[INITIATOR_definite] swung [INITIATOR_possessive] [WEAPON_label] at [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite] with [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] with [implement]</li>
+    <li>towardsat->towards</li>
+    <li>towardsat->at</li>
+    <li>verb_genericattack->swung</li>
+    <li>verb_genericattack->flailed</li>
+    <li>verb_genericattack->thrashed</li>
+    <li>tried->tried</li>
+    <li>tried->attempted</li>
+  -->
+  <Combat_FailIncludes.rulePack.rulesStrings>
+    <li>action->[INITIATOR_definite] [tried] [damaged_inf] एक [RECIPIENT_definite]</li>
+    <li>action->[INITIATOR_definite] [tried] [damaged_inf] को [RECIPIENT_definite] से [implement]</li>
+    <li>action->[INITIATOR_definite] [tried] उपयोग करने के लिए [implement] के लिए [damaged_inf] को [RECIPIENT_definite]</li>
+    <li>action->[INITIATOR_definite] झूल दिया [WEAPON_label]को छूते हुए [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] के साथ [verb_genericattack] [towardsat] [RECIPIENT_definite] साथ [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] ने [verb_genericattack] [towardsat] [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] के साथ [verb_genericattack] के साथ [implement]</li>
+    <li>towardsat->की ओर</li>
+    <li>towardsat->के आसपास</li>
+    <li>verb_genericattack->घुमाया</li>
+    <li>verb_genericattack->फड़फड़ाया</li>
+    <li>verb_genericattack->पीटा हुआ</li>
+    <li>tried->कोशिश की</li>
+    <li>tried->प्रयास किया</li>
+  </Combat_FailIncludes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist]</li>
+    <li>result(p=0.2)->[damaged_present] [RECIPIENT_possessive] [targetlist] and [flavortext_consequence]</li>
+    <li>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [strikeAdv]</li>
+    <li>strikeAdv->painfully</li>
+    <li>strikeAdv->horribly</li>
+    <li>strikeAdv->savagely</li>
+    <li>strikeAdv->viciously</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->leaving a disgusting wound</li>
+    <li>flavortext_consequence->leaving a horrific wound</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent]</li>
+    <li>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</li>
+  -->
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+    <li>result(p=1)->[damaged_present] का/की/के [targetlist]</li>
+    <li>result(p=0.2)->[damaged_present] उसका [targetlist] और [flavortext_consequence]</li>
+    <li>result(p=0.1)->[damaged_present] उसका [targetlist] [strikeAdv]</li>
+    <li>strikeAdv->दर्दनाक रूप से</li>
+    <li>strikeAdv->भयानक रूप से</li>
+    <li>strikeAdv->बर्बरतापूर्वक</li>
+    <li>strikeAdv->निर्दयतापूर्वक</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->उसे एक घिनौना घाव दे रहा है।</li>
+    <li>flavortext_consequence->उसे एक भयानक घाव दे रहा है।</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->कर रहा है[RECIPIENT_objective] [wince] [painevent]</li>
+    <li>flavortext_consequence(p=0.2)->संतुलन बिगाड़कर[RECIPIENT_objective]</li>
+  </Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[action], [result].</li>
+    <li>r_logentry(priority=-10)->[action].</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->a [WEAPON_label]'s [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->a [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[INITIATOR_possessive] [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [TOOL_label]</li>
+    <li>targetlist(recipient_part_count==1)->[recipient_part0_label]</li>
+    <li>targetlist(recipient_part_count==2)->[recipient_part0_label] and [recipient_part1_label]</li>
+    <li>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], and [recipient_part2_label]</li>
+    <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], and [recipient_part3_label]</li>
+    <li>damaged_present(deflected!=True)->wounding</li>
+    <li>damaged_present(deflected!=True)->injuring</li>
+    <li>destroyed(p=0.5)->destroyed</li>
+    <li>destroyed(p=0.5)->demolished</li>
+    <li>destroyed(p=0.5)->ruined</li>
+    <li>destroyed(p=0.5)->wrecked</li>
+    <li>wince(RECIPIENT_flesh==Normal)->wince</li>
+    <li>wince(RECIPIENT_flesh==Normal)->grimace</li>
+    <li>wince(RECIPIENT_flesh==Normal)->cringe</li>
+    <li>wince(RECIPIENT_flesh==Normal)->groan</li>
+    <li>wince(RECIPIENT_flesh!=Mechanoid)->scream</li>
+    <li>wince(RECIPIENT_flesh!=Mechanoid)->shout</li>
+    <li>wince->recoil</li>
+    <li>wince->stumble</li>
+    <li>painstate->in</li>
+    <li>painstate->with</li>
+    <li>painstate->from the</li>
+    <li>painevent(RECIPIENT_flesh!=Mechanoid)->[painstate] pain</li>
+    <li>painevent(RECIPIENT_flesh!=Mechanoid)->[painstate] agony</li>
+    <li>painevent(RECIPIENT_flesh==Normal)->with misery</li>
+    <li>painevent->from the injury</li>
+    <li>painevent->from the wound</li>
+    <li>to->to</li>
+    <li>to->into</li>
+  -->
+  <Combat_MeleeIncludes.rulePack.rulesStrings>
+    <li>r_logentry->[action], [result]।</li>
+    <li>r_logentry(priority=-10)->[action][क्रिया].</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[TOOL_definite] उसके [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->उसका [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[TOOL_definite] का [WEAPON_indefinite]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->[WEAPON_indefinite]</li>
+    <li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->उसका [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[TOOL_definite] उसका [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->उसका [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->उसका [TOOL_label]</li>
+    <li>targetlist(recipient_part_count==1)->[recipient_part0_label]</li>
+    <li>targetlist(recipient_part_count==2)->[recipient_part0_label] और [recipient_part1_label]</li>
+    <li>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], और [recipient_part2_label]</li>
+    <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label]और [recipient_part3_label]</li>
+    <li>damaged_present(deflected!=True)->घायल करते हुए</li>
+    <li>damaged_present(deflected!=True)->घायल करते हुए</li>
+    <li>destroyed(p=0.5)->ध्वस्त</li>
+    <li>destroyed(p=0.5)->ध्वस्त किया गया</li>
+    <li>destroyed(p=0.5)->बर्बाद</li>
+    <li>destroyed(p=0.5)->ध्वस्त</li>
+    <li>wince(RECIPIENT_flesh==Normal)->सिकुड़ना</li>
+    <li>wince(RECIPIENT_flesh==Normal)->मुँह बनाना</li>
+    <li>wince(RECIPIENT_flesh==Normal)->सिकुड़ना</li>
+    <li>wince(RECIPIENT_flesh==Normal)->कराहना</li>
+    <li>wince(RECIPIENT_flesh!=Mechanoid)->चीखना</li>
+    <li>wince(RECIPIENT_flesh!=Mechanoid)->चीखना</li>
+    <li>wince->पीछे हटना</li>
+    <li>wince->ठोकर खाना</li>
+    <li>painstate->में</li>
+    <li>painstate->के साथ</li>
+    <li>painstate->से</li>
+    <li>painstate1->के साथ</li>
+    <li>painstate1->की</li>
+    <li>painstate1->का / की / के / से</li>
+    <li>painevent(RECIPIENT_flesh!=Mechanoid)->[painstate] दर्द</li>
+    <li>painevent(RECIPIENT_flesh!=Mechanoid)->[painstate1] यातना</li>
+    <li>painevent(RECIPIENT_flesh==Normal)->दुखपूर्वक</li>
+    <li>painevent->दर्द से</li>
+    <li>painevent->घाव से</li>
+    <li>to->को</li>
+    <li>to->में</li>
+  </Combat_MeleeIncludes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>skillDescMelee->[wielding] [INITIATOR_possessive] [WEAPON_label] [skillAdv]</li>
+    <li>skillDescMelee->[using] [implement] [skillAdv]</li>
+    <li>wielding(p=4)->wielding</li>
+    <li>wielding(p=3)->using</li>
+    <li>wielding(p=2)->handling</li>
+    <li>wielding->brandishing</li>
+    <li>wielding->manipulating</li>
+    <li>using(p=4)->using</li>
+    <li>using->driving</li>
+    <li>using->thrusting</li>
+    <li>using->utilizing</li>
+    <li>using->moving</li>
+    <li>skillAdv(INITIATOR_skill<=3)->incompetently</li>
+    <li>skillAdv(INITIATOR_skill<=3)->ineptly</li>
+    <li>skillAdv(INITIATOR_skill<=3)->wildly</li>
+    <li>skillAdv(INITIATOR_skill<=3)->randomly</li>
+    <li>skillAdv(INITIATOR_skill<=3)->flailingly</li>
+    <li>skillAdv(INITIATOR_skill<=4)->awkwardly</li>
+    <li>skillAdv(INITIATOR_skill<=4)->clumsily</li>
+    <li>skillAdv(INITIATOR_skill<=5)->fearfully</li>
+    <li>skillAdv(INITIATOR_skill<=5)->falteringly</li>
+    <li>skillAdv(INITIATOR_skill<=5)->foolishly</li>
+    <li>skillAdv(INITIATOR_skill<=6)->hesitantly</li>
+    <li>skillAdv(INITIATOR_skill<=6)->reluctantly</li>
+    <li>skillAdv(INITIATOR_skill<=6)->slowly</li>
+    <li>skillAdv(INITIATOR_skill<=6)->tentatively</li>
+    <li>skillAdv(INITIATOR_skill<=6)->inexpertly</li>
+    <li>skillAdv(INITIATOR_skill<=6)->amateurishly</li>
+    <li>skillAdv(INITIATOR_skill<=6)->timidly</li>
+    <li>skillAdv(INITIATOR_skill<=8)->enthusiastically</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill<=10)->proficiently</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill<=10)->competently</li>
+    <li>skillAdv(INITIATOR_skill>=8)->professionally</li>
+    <li>skillAdv(INITIATOR_skill>=8)->deftly</li>
+    <li>skillAdv(INITIATOR_skill>=8)->aptly</li>
+    <li>skillAdv(INITIATOR_skill>=8)->cleverly</li>
+    <li>skillAdv(INITIATOR_skill>=8)->dexterously</li>
+    <li>skillAdv(INITIATOR_skill>=8)->skillfully</li>
+    <li>skillAdv(INITIATOR_skill>=10)->adeptly</li>
+    <li>skillAdv(INITIATOR_skill>=10)->slickly</li>
+    <li>skillAdv(INITIATOR_skill>=12)->expertly</li>
+    <li>skillAdv(INITIATOR_skill>=12)->precisely</li>
+    <li>skillAdv(INITIATOR_skill>=14)->masterfully</li>
+    <li>skillAdv(INITIATOR_skill>=16)->artistically</li>
+    <li>skillAdv(INITIATOR_skill>=16)->gracefully</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->mechanically</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->robotically</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->directly</li>
+  -->
+  <Combat_SkillIncludes.rulePack.rulesStrings>
+    <li>skillDescMelee->[wielding] उसका [WEAPON_label] [skillAdv]</li>
+    <li>skillDescMelee->[using] [implement] [skillAdv]</li>
+    <li>wielding(p=4)->हथियार चला रहा</li>
+    <li>wielding(p=3)->उपयोग करके</li>
+    <li>wielding(p=2)->संभालते हुए</li>
+    <li>wielding->हथियार लहराते हुए</li>
+    <li>wielding->मैनिपुलेट करते हुए</li>
+    <li>using(p=4)->उपयोग करके</li>
+    <li>using->चला रहा है</li>
+    <li>using->धक्का देना</li>
+    <li>using->उपयोग करते हुए</li>
+    <li>using->चल रहा है</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->अक्षम रूप से</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->अकुशलतापूर्वक</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->जंगली ढंग से</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->यादृच्छिक रूप से</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->बेचैनी से</li>
+    <li>skillAdv(INITIATOR_skill&lt;=4)->अकुशलता से</li>
+    <li>skillAdv(INITIATOR_skill&lt;=4)->मूर्खतापूर्वक</li>
+    <li>skillAdv(INITIATOR_skill&lt;=5)->डर से</li>
+    <li>skillAdv(INITIATOR_skill&lt;=5)->अनिश्चित रूप से</li>
+    <li>skillAdv(INITIATOR_skill&lt;=5)->बेवकूफी से</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->हिचकिचाते हुए</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->अनिच्छा से</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->धीरे-धीरे</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->अस्थायी रूप से</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->अकुशलतापूर्वक</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->शौक से</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->डरते-डरते</li>
+    <li>skillAdv(INITIATOR_skill&lt;=8)->उत्साहपूर्वक</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->कुशलतापूर्वक</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->सक्षम रूप से</li>
+    <li>skillAdv(INITIATOR_skill>=8)->पेशेवर ढंग से</li>
+    <li>skillAdv(INITIATOR_skill>=8)->निपुणता से</li>
+    <li>skillAdv(INITIATOR_skill>=8)->उचित रूप से</li>
+    <li>skillAdv(INITIATOR_skill>=8)->चालाकी से</li>
+    <li>skillAdv(INITIATOR_skill>=8)->कुशलतापूर्वक</li>
+    <li>skillAdv(INITIATOR_skill>=8)->कुशलतापूर्वक</li>
+    <li>skillAdv(INITIATOR_skill>=10)->निपुणतापूर्वक</li>
+    <li>skillAdv(INITIATOR_skill>=10)->कुशलतापूर्वक</li>
+    <li>skillAdv(INITIATOR_skill>=12)->निपुणतापूर्वक</li>
+    <li>skillAdv(INITIATOR_skill>=12)->सटीकता से</li>
+    <li>skillAdv(INITIATOR_skill>=14)->मास्टरफ़ुली ढंग से</li>
+    <li>skillAdv(INITIATOR_skill>=16)->कलात्मक रूप से</li>
+    <li>skillAdv(INITIATOR_skill>=16)->अनुग्रहपूर्वक</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->यांत्रिक रूप से</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->यांत्रिक रूप से</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->सीधे तौर पर</li>
+  </Combat_SkillIncludes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] and [recipient_part_destroyed1_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], and [recipient_part_destroyed2_label]</li>
+    <li>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], and [recipient_part_destroyed3_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] and [recipient_part_damaged1_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], and [recipient_part_damaged2_label]</li>
+    <li>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], and [recipient_part_damaged3_label]</li>
+  -->
+  <Combat_WoundIncludes.rulePack.rulesStrings>
+    <!--definidos-->
+    <li>destroyed_targetsDef(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_definite]</li>
+    <li>destroyed_targetsDef(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_definite] और [recipient_part_destroyed1_definite]</li>
+    <li>destroyed_targetsDef(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_definite], [recipient_part_destroyed1_definite], और [recipient_part_destroyed2_definite]</li>
+    <li>destroyed_targetsDef->[recipient_part_destroyed0_definite], [recipient_part_destroyed1_definite], [recipient_part_destroyed2_definite], और [recipient_part_destroyed3_definite]</li>
+    <li>damaged_targetsDef(recipient_part_damaged_count==1)->[recipient_part_damaged0_definite]</li>
+    <li>damaged_targetsDef(recipient_part_damaged_count==2)->[recipient_part_damaged0_definite] और [recipient_part_damaged1_definite]</li>
+    <li>damaged_targetsDef(recipient_part_damaged_count==3)->[recipient_part_damaged0_definite], [recipient_part_damaged1_definite], और [recipient_part_damaged2_definite]</li>
+    <li>damaged_targetsDef->[recipient_part_damaged0_label], [recipient_part_damaged1_definite], [recipient_part_damaged2_definite], और [recipient_part_damaged3_definite]</li>
+    <!--Definido para combat Ranged-->
+    <li>destroyed_targetsDef1(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_definite]</li>
+    <li>destroyed_targetsDef2(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_definite] और [recipient_part_destroyed1_definite]</li>
+    <li>destroyed_targetsDef2(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_definite], [recipient_part_destroyed1_definite], और [recipient_part_destroyed2_definite]</li>
+    <li>destroyed_targetsDef2->[recipient_part_destroyed0_definite], [recipient_part_destroyed1_definite], [recipient_part_destroyed2_definite], और [recipient_part_destroyed3_definite]</li>
+    <li>damaged_targetsDef1(recipient_part_damaged_count==1)->[recipient_part_damaged0_definite]</li>
+    <li>damaged_targetsDef2(recipient_part_damaged_count==2)->[recipient_part_damaged0_definite] और [recipient_part_damaged1_definite]</li>
+    <li>damaged_targetsDef2(recipient_part_damaged_count==3)->[recipient_part_damaged0_definite], [recipient_part_damaged1_definite], और [recipient_part_damaged2_definite]</li>
+    <li>damaged_targetsDef2->[recipient_part_damaged0_label], [recipient_part_damaged1_definite], [recipient_part_damaged2_definite], और [recipient_part_damaged3_definite]</li>
+    <!--Sin definir-->
+    <li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] और [recipient_part_destroyed1_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], और [recipient_part_destroyed2_label]</li>
+    <li>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label]और [recipient_part_destroyed3_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] और [recipient_part_damaged1_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], और [recipient_part_damaged2_label]</li>
+    <li>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label]और [recipient_part_damaged3_label]</li>
+  </Combat_WoundIncludes.rulePack.rulesStrings>
+  
+</LanguageData>

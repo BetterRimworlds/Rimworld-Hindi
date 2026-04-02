@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby camp have been raiding their caravans. The camp is controlled by [siteFaction_name].\n\n[asker_nameDef] is asking us to destroy the camp, which means eliminating all enemies and turrets. [asker_label] says that [sitePart0_description].</li>
+  -->
+  <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] का [asker_faction_name], हमें एक संदेश भेजा है। स्पष्ट रूप से, [siteFaction_pawnsPlural] एक निकटवर्ती शिविर में बसे हुए उनके कारवां पर हमला कर रहे हैं। शिविर पर नियंत्रण है [siteFaction_name]।\n\n[asker_nameDef] हमें शिविर को नष्ट करने के लिए कह रहा है, जिसका अर्थ है सभी दुश्मनों और बुर्ज को खत्म करना। [asker_label] कहता है कि [sitePart0_description]।</li>
+  </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [bandit] [camp]</li>
+    <li>questName->[bandit] [camp]</li>
+    <li>questName->[asker_nameDef] and the [camp]</li>
+    <li>camp->Camp</li>
+    <li>camp->Outpost</li>
+    <li>camp->Lair</li>
+    <li>camp->Encampment</li>
+    <li>bandit->Bandit</li>
+    <li>bandit->Raider</li>
+    <li>bandit->Outlaw</li>
+    <li>bandit->Desperado</li>
+    <li>bandit->Fugitive</li>
+    <li>bandit->Marauder</li>
+    <li>bandit->Robber</li>
+    <li>bandit->Brigand</li>
+  -->
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+    <li>questName->[camp] के [bandit]</li>
+    <li>questName->[camp_indef] का [bandit]</li>
+    <li>questName->[asker_nameDef] और [camp_def]</li>
+    <li>camp->शिविर</li>
+    <li>camp->चौकी</li>
+    <li>camp->गुफा</li>
+    <li>camp->शिविर</li>
+    <li>camp_def->शिविर</li>
+    <li>camp_def->चौकी</li>
+    <li>camp_def->ठिकाना</li>
+    <li>camp_def->शिविर</li>
+    <li>camp_indef->एक शिविर</li>
+    <li>camp_indef->एक चौकी</li>
+    <li>camp_indef->एक ठिकाना</li>
+    <li>camp_indef->एक शिविर</li>
+    <li>bandit->डाकू</li>
+    <li>bandit->लूटere</li>
+    <li>bandit->बाहरी डाकू</li>
+    <li>bandit->अपराधी</li>
+    <li>bandit->भगोड़े</li>
+    <li>bandit->लुटेरे</li>
+    <li>bandit->चोर</li>
+    <li>bandit->डाकू</li>
+  </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>मिशन समाप्त हो गया: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>डाकुओं के शिविर ने डेरा समेटा और आगे बढ़ गया। मिशन [resolvedQuestName] समाप्त हो गया।</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>मिशन विफल: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
+  <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>खोजे जाने के बाद, डाकू शिविर ने अपना सामान समेटा और चला गया। मिशन [resolvedQuestName] समाप्त हो गया।</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <!-- EN: Payment arrived -->
+  <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>भुगतान आ गया है।</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
+  <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>तुमने डाकुओं के शिविर को हरा दिया है!\n\nगुट की मदद करने के लिए भुगतान [asker_faction_name] आ गया है।</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
+  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>इन उपनिवेशवादियों ने खोज के विजय में भाग लिया [resolvedQuestName]. [asker_definite] जानना चाहता है कि किसे मिलना चाहिए [royalFavorReward_amount] का [asker_faction_royalFavorLabel] इस सेवा के लिए।</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+  <friendlyNameNative>हिंदी</friendlyNameNative>
+  <friendlyNameEnglish>Hindi</friendlyNameEnglish>
+<!--  <languageWorkerClass>BetterRimworlds.LanguageWorker_Hindi</languageWorkerClass>-->
+  <canBeTiny>false</canBeTiny>
+  <credits>
+     <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Autonomo AI, FZCO</creditee>
+    </li>
+  </credits>
+</LanguageInfo>

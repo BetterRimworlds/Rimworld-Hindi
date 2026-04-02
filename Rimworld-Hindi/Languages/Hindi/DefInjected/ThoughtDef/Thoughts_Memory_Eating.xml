@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate corpse -->
+  <AteCorpse.stages.ate_corpse.label>खाया शव</AteCorpse.stages.ate_corpse.label>
+  <!-- EN: I had to eat the flesh of a dead creature without even butchering or cooking it. -->
+  <AteCorpse.stages.ate_corpse.description>मुझे एक मृत प्राणी का मांस कच्चा खाने पर मजबूर होना पड़ा।</AteCorpse.stages.ate_corpse.description>
+  
+  <!-- EN: ate fine meal -->
+  <AteFineMeal.stages.ate_fine_meal.label>अच्छा भोजन खाया</AteFineMeal.stages.ate_fine_meal.label>
+  <!-- EN: I ate a really tasty fine meal. Yum! -->
+  <AteFineMeal.stages.ate_fine_meal.description>मैंने एक बहुत ही स्वादिष्ट अच्छा भोजन खाया। यम!</AteFineMeal.stages.ate_fine_meal.description>
+  
+  <!-- EN: cooked cannibalism -->
+  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>पका हुआ नरभक्षण</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>
+  <!-- EN: I ate a meal made from the meat of another human. This is horrible. -->
+  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>मैंने किसी अन्य इंसान के मांस से बना भोजन खाया। यह भयानक है।</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>
+  
+  <!-- EN: cooked cannibalism -->
+  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>पका हुआ नरभक्षण</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>
+  <!-- EN: I ate a meal made from the meat of another human. So pleasurable. If only I had some fava beans and a nice chianti. -->
+  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>मैंने किसी अन्य इंसान के मांस से बना भोजन खाया। बहुत आनंददायक। काश मेरे पास कुछ फ़ावा बीन्स और एक अच्छी कियांति होती।</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>
+  
+  <!-- EN: raw cannibalism -->
+  <AteHumanlikeMeatDirect.stages.raw_cannibalism.label>मानवभक्षण</AteHumanlikeMeatDirect.stages.raw_cannibalism.label>
+  <!-- EN: I ate the meat of another human, raw, like an animal. This is a nightmare. -->
+  <AteHumanlikeMeatDirect.stages.raw_cannibalism.description>मैंने किसी अन्य इंसान का मांस कच्चा खाया, जैसे कोई जानवर। यह एक दुःस्वप्न है।</AteHumanlikeMeatDirect.stages.raw_cannibalism.description>
+  
+  <!-- EN: raw cannibalism -->
+  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>कच्चा नरभक्षण</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>
+  <!-- EN: I ate the meat of another human, raw, like an animal. It was so... succulent. -->
+  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>मैंने एक अन्य इंसान का मांस कच्चा खाया, जैसे कोई जानवर। यह इतना… रसीला था।</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>
+  
+  <!-- EN: ate cooked insect meat -->
+  <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>पका कीट मांस</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>
+  <!-- EN: I ate a meal cooked from gray, slimy insect meat. The seasoning partly covered the taste, but there were glands and fluid pockets in there that I can't identify. -->
+  <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>मैंने धूसर, चिपचिपी कीट के मांस से बना भोजन किया। मसाले ने आंशिक रूप से स्वाद को ढक दिया, लेकिन उसमें ग्रंथियां और तरल जेबें थीं जिन्हें मैं पहचान नहीं पाया।</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>
+  
+  <!-- EN: ate insect meat -->
+  <AteInsectMeatDirect.stages.ate_insect_meat.label>कीट मांस</AteInsectMeatDirect.stages.ate_insect_meat.label>
+  <!-- EN: I ate some gray, slimy insect meat. It was, possibly, the most disgusting thing I've ever tasted. -->
+  <AteInsectMeatDirect.stages.ate_insect_meat.description>मैंने कुछ धूसर, चिपचिपी कीट का मांस खाया। यह, शायद, सबसे घृणित चीज़ थी जिसका मैंने कभी स्वाद लिया है।</AteInsectMeatDirect.stages.ate_insect_meat.description>
+  
+  <!-- EN: ate kibble -->
+  <AteKibble.stages.ate_kibble.label>चारा खाया</AteKibble.stages.ate_kibble.label>
+  <!-- EN: I had to eat animal kibble. It's like I don't get to be human any more. -->
+  <AteKibble.stages.ate_kibble.description>मुझे पशु आहार खाना पड़ा। ऐसा लगता है कि अब मैं इंसान नहीं रह गया/रही गई।</AteKibble.stages.ate_kibble.description>
+  
+  <!-- EN: ate lavish meal -->
+  <AteLavishMeal.stages.ate_lavish_meal.label>शानदार भोजन किया</AteLavishMeal.stages.ate_lavish_meal.label>
+  <!-- EN: That lavish meal was amazing. It nourished my body and my soul. -->
+  <AteLavishMeal.stages.ate_lavish_meal.description>वह शानदार भोजन अद्भुत था। इसने मेरे शरीर और मेरी आत्मा दोनों को पोषण दिया।</AteLavishMeal.stages.ate_lavish_meal.description>
+  
+  <!-- EN: ate raw food -->
+  <AteRawFood.stages.ate_raw_food.label>कच्चा भोजन खाया</AteRawFood.stages.ate_raw_food.label>
+  <!-- EN: I had to eat raw food. We should be cooking that kind of food before eating it. We're not animals. -->
+  <AteRawFood.stages.ate_raw_food.description>मुझे कच्चा भोजन खाना पड़ा। हमें उस तरह के भोजन को खाने से पहले पकाना चाहिए। हम जानवर नहीं हैं।</AteRawFood.stages.ate_raw_food.description>
+  
+  <!-- EN: ate rotten food -->
+  <AteRottenFood.stages.ate_rotten_food.label>गला हुआ भोजन</AteRottenFood.stages.ate_rotten_food.label>
+  <!-- EN: I ate some disgusting, putrid food. It was melting in my mouth - but not in a good way. -->
+  <AteRottenFood.stages.ate_rotten_food.description>मैंने कुछ घृणित, सड़ा हुआ भोजन खाया। यह मेरे मुँह में पिघल रहा था—लेकिन अच्छे तरीके से नहीं।</AteRottenFood.stages.ate_rotten_food.description>
+  
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archer --><!-- EN: arquero -->
+  <Tribal_Archer.label>आर्केरो</Tribal_Archer.label><!-- EN: arquera -->
+  <Tribal_Archer.labelFemale>धनुर्धरणी</Tribal_Archer.labelFemale><!-- EN: arqueros -->
+  <Tribal_Archer.labelPlural>आर्केरोस</Tribal_Archer.labelPlural>
+  
+  <!-- EN: berserker --><!-- EN: bersérker -->
+  <Tribal_Berserker.label>बर्सेर्कर</Tribal_Berserker.label><!-- EN: bersérker -->
+  <Tribal_Berserker.labelPlural>बर्सेर्कर</Tribal_Berserker.labelPlural>
+  
+  <!-- EN: berserker chief --><!-- EN: jefe bersérker -->
+  <Tribal_ChiefMelee.label>जेफ़े बर्सेरकर</Tribal_ChiefMelee.label><!-- EN: jefa bersérker -->
+  <Tribal_ChiefMelee.labelFemale>जेफ़ा बर्सेर्कर</Tribal_ChiefMelee.labelFemale><!-- EN: jefes bersérker -->
+  <Tribal_ChiefMelee.labelPlural>जेफ़ेस बर्सेरकर</Tribal_ChiefMelee.labelPlural>
+  
+  <!-- EN: archer chief --><!-- EN: jefe arquero -->
+  <Tribal_ChiefRanged.label>प्रमुख तीरंदाज</Tribal_ChiefRanged.label><!-- EN: jefa arquera -->
+  <Tribal_ChiefRanged.labelFemale>प्रमुख तीरंदाज महिला</Tribal_ChiefRanged.labelFemale><!-- EN: jefes arqueros -->
+  <Tribal_ChiefRanged.labelPlural>जेफ़ेस आर्चर</Tribal_ChiefRanged.labelPlural>
+  
+  <!-- EN: heavy archer --><!-- EN: arquero pesado -->
+  <Tribal_HeavyArcher.label>भारी तीरंदाज</Tribal_HeavyArcher.label><!-- EN: arquera pesada -->
+  <Tribal_HeavyArcher.labelFemale>धनुर्धर भारी</Tribal_HeavyArcher.labelFemale><!-- EN: arqueros pesados -->
+  <Tribal_HeavyArcher.labelPlural>भारी तीरंदाज</Tribal_HeavyArcher.labelPlural>
+  
+  <!-- EN: hunter --><!-- EN: cazador -->
+  <Tribal_Hunter.label>शिकारी</Tribal_Hunter.label><!-- EN: cazadora -->
+  <Tribal_Hunter.labelFemale>शिकारी</Tribal_Hunter.labelFemale><!-- EN: cazadores -->
+  <Tribal_Hunter.labelPlural>काज़ाडोरस</Tribal_Hunter.labelPlural>
+  
+  <!-- EN: penitent --><!-- EN: penitente -->
+  <Tribal_Penitent.label>पेनिटेंटे</Tribal_Penitent.label><!-- EN: penitentes -->
+  <Tribal_Penitent.labelPlural>पेनिटेंटेस</Tribal_Penitent.labelPlural>
+  
+  <!-- EN: trader --><!-- EN: comerciante -->
+  <Tribal_Trader.label>व्यापारी</Tribal_Trader.label><!-- EN: comerciantes -->
+  <Tribal_Trader.labelPlural>व्यापारियों</Tribal_Trader.labelPlural>
+  
+  <!-- EN: warrior --><!-- EN: guerrero -->
+  <Tribal_Warrior.label>योद्धा</Tribal_Warrior.label><!-- EN: guerrera -->
+  <Tribal_Warrior.labelFemale>योद्धा महिला</Tribal_Warrior.labelFemale><!-- EN: guerreros -->
+  <Tribal_Warrior.labelPlural>योद्धा</Tribal_Warrior.labelPlural>
+  
+</LanguageData>

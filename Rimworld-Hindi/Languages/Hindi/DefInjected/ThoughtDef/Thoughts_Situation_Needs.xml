@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical want -->
+  <DrugDesireFascination.stages.chemical_want.label>रासायनिक चाहत</DrugDesireFascination.stages.chemical_want.label>
+  <!-- EN: I'm fascinated by drugs. I want to experience them more. -->
+  <DrugDesireFascination.stages.chemical_want.description>मुझे नशीले पदार्थों में दिलचस्पी है। मैं उन्हें और अनुभव करना चाहता/चाहती हूँ।</DrugDesireFascination.stages.chemical_want.description>
+  <!-- EN: chemical hunger -->
+  <DrugDesireFascination.stages.chemical_hunger.label>रासायनिक भूख</DrugDesireFascination.stages.chemical_hunger.label>
+  <!-- EN: I'm fascinated by drugs. I want to experience them a lot harder. -->
+  <DrugDesireFascination.stages.chemical_hunger.description>मुझे नशीले पदार्थों में दिलचस्पी है। मैं उनका अनुभव और भी गहराई से करना चाहता/चाहती हूँ।</DrugDesireFascination.stages.chemical_hunger.description>
+  <!-- EN: chemical starvation -->
+  <DrugDesireFascination.stages.chemical_starvation.label>रासायनिक अभाव</DrugDesireFascination.stages.chemical_starvation.label>
+  <!-- EN: I'm fascinated by drugs. I want them! More intensity! -->
+  <DrugDesireFascination.stages.chemical_starvation.description>मुझे नशीले पदार्थों से बहुत आकर्षण है। मैं उन्हें चाहता हूँ! और भी तीव्रता!</DrugDesireFascination.stages.chemical_starvation.description>
+  
+  <!-- EN: chemical comfort -->
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.label>रासायनिक आराम</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
+  <!-- EN: I'm fascinated by drugs, and I love satisfying my desires. -->
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.description>मुझे नशीले पदार्थों में दिलचस्पी है, और अपनी इच्छाओं को पूरा करना पसंद है।</DrugDesireFascinationSatisfied.stages.chemical_comfort.description>
+  <!-- EN: chemical satisfaction -->
+  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>रासायनिक संतुष्टि</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
+  <!-- EN: I'm fascinated by drugs, and I am fully satisfied with my drug consumption. -->
+  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>मुझे नशीले पदार्थों से बहुत आकर्षण है, और मैं अपनी नशीली पदार्थ की खपत से पूरी तरह संतुष्ट हूँ।</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>
+  
+  <!-- EN: chemical want -->
+  <DrugDesireInterest.stages.chemical_want.label>रासायनिक चाह</DrugDesireInterest.stages.chemical_want.label>
+  <!-- EN: I'm interested in drugs. I want to try more. -->
+  <DrugDesireInterest.stages.chemical_want.description>मुझे नशीले पदार्थों में दिलचस्पी है। मैं और आज़माना चाहता/चाहती हूँ।</DrugDesireInterest.stages.chemical_want.description>
+  <!-- EN: chemical hunger -->
+  <DrugDesireInterest.stages.chemical_hunger.label>रासायनिक भूख</DrugDesireInterest.stages.chemical_hunger.label>
+  <!-- EN: I'm interested in drugs. I want to experience a lot more. -->
+  <DrugDesireInterest.stages.chemical_hunger.description>मुझे नशीले पदार्थों में दिलचस्पी है। मैं बहुत अधिक अनुभव करना चाहता हूँ।</DrugDesireInterest.stages.chemical_hunger.description>
+  <!-- EN: chemical starvation -->
+  <DrugDesireInterest.stages.chemical_starvation.label>रासायनिक अभाव</DrugDesireInterest.stages.chemical_starvation.label>
+  <!-- EN: I'm interested in drugs. I want to consume drugs really badly. -->
+  <DrugDesireInterest.stages.chemical_starvation.description>मुझे नशीले पदार्थों में दिलचस्पी है। मैं वास्तव में नशीले पदार्थों का सेवन करना चाहता/चाहती हूँ।</DrugDesireInterest.stages.chemical_starvation.description>
+  
+  <!-- EN: chemical comfort -->
+  <DrugDesireInterestSatisfied.stages.chemical_comfort.label>रासायनिक आराम</DrugDesireInterestSatisfied.stages.chemical_comfort.label>
+  <!-- EN: I'm interested in drugs. I enjoyed satisfying my desire. -->
+  <DrugDesireInterestSatisfied.stages.chemical_comfort.description>मुझे नशीले पदार्थों में रुचि है। मैंने अपनी इच्छा को पूरा करने का आनंद लिया।</DrugDesireInterestSatisfied.stages.chemical_comfort.description>
+  <!-- EN: chemical satisfaction -->
+  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>रासायनिक संतुष्टि</DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>
+  <!-- EN: I'm interested in drugs. I am really satisfied with all the drugs I've gotten recently. -->
+  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>मुझे नशीले पदार्थों में दिलचस्पी है। हाल ही में मुझे जो भी नशीले पदार्थ मिले हैं, मैं उनसे बहुत संतुष्ट हूँ।</DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>
+  
+  <!-- EN: hideous environment -->
+  <NeedBeauty.stages.hideous_environment.label>भयानक परिवेश</NeedBeauty.stages.hideous_environment.label>
+  <!-- EN: This place is unbearably grotesque. I can't look at this any more. -->
+  <NeedBeauty.stages.hideous_environment.description>यह स्थान असहनीय रूप से भयानक है। मैं इसे और नहीं देख सकता/सकती।</NeedBeauty.stages.hideous_environment.description>
+  <!-- EN: ugly environment -->
+  <NeedBeauty.stages.ugly_environment.label>बदसुरत वातावरण</NeedBeauty.stages.ugly_environment.label>
+  <!-- EN: This place is really ugly. I wish I didn't have to look at this any more. -->
+  <NeedBeauty.stages.ugly_environment.description>यह जगह बहुत बदसूरत है। मैं चाहता/चाहती हूं कि मुझे इसे और न देखना पड़े।</NeedBeauty.stages.ugly_environment.description>
+  <!-- EN: unsightly environment -->
+  <NeedBeauty.stages.unsightly_environment.label>असुविधाजनक परिवेश</NeedBeauty.stages.unsightly_environment.label>
+  <!-- EN: This place is kind of unsightly. I wish I didn't have to look at all this. -->
+  <NeedBeauty.stages.unsightly_environment.description>यह जगह थोड़ी बदसूरत है। मैं चाहता/चाहती हूँ कि मुझे यह सब न देखना पड़े।</NeedBeauty.stages.unsightly_environment.description>
+  <!-- EN: pretty environment -->
+  <NeedBeauty.stages.pretty_environment.label>सुंदर परिवेश</NeedBeauty.stages.pretty_environment.label>
+  <!-- EN: This place looks nice. -->
+  <NeedBeauty.stages.pretty_environment.description>यह जगह अच्छी लग रही है।</NeedBeauty.stages.pretty_environment.description>
+  <!-- EN: beautiful environment -->
+  <NeedBeauty.stages.beautiful_environment.label>सुंदर परिवेश</NeedBeauty.stages.beautiful_environment.label>
+  <!-- EN: I really like this place. It's beautiful. -->
+  <NeedBeauty.stages.beautiful_environment.description>मुझे यह जगह बहुत पसंद है। यह सुंदर है।</NeedBeauty.stages.beautiful_environment.description>
+  <!-- EN: gorgeous environment -->
+  <NeedBeauty.stages.gorgeous_environment.label>सुंदर परिवेश</NeedBeauty.stages.gorgeous_environment.label>
+  <!-- EN: This place is beautiful. It lifts me up and makes me love life. -->
+  <NeedBeauty.stages.gorgeous_environment.description>यह जगह सुंदर है। यह मुझे उत्साहित करता है और जीवन से प्यार करने लगता है।</NeedBeauty.stages.gorgeous_environment.description>
+  
+  <!-- EN: uncomfortable -->
+  <NeedComfort.stages.uncomfortable.label>असुविधा</NeedComfort.stages.uncomfortable.label>
+  <!-- EN: I've been kind of uncomfortable recently. We need to get something soft to sit on around here. -->
+  <NeedComfort.stages.uncomfortable.description>मुझे हाल ही में थोड़ा असहज महसूस हो रहा है। हमें यहाँ बैठने के लिए कुछ नरम चीज़ की ज़रूरत है।</NeedComfort.stages.uncomfortable.description>
+  <!-- EN: comfortable -->
+  <NeedComfort.stages.comfortable.label>आराम</NeedComfort.stages.comfortable.label>
+  <!-- EN: I've been comfortable recently. -->
+  <NeedComfort.stages.comfortable.description>मुझे हाल ही में आराम महसूस हुआ है।</NeedComfort.stages.comfortable.description>
+  <!-- EN: quite comfortable -->
+  <NeedComfort.stages.quite_comfortable.label>बिल्कुल सहज</NeedComfort.stages.quite_comfortable.label>
+  <!-- EN: I've been very comfortable recently. -->
+  <NeedComfort.stages.quite_comfortable.description>मुझे हाल ही में बहुत आराम महसूस हुआ है।</NeedComfort.stages.quite_comfortable.description>
+  <!-- EN: extremely comfortable -->
+  <NeedComfort.stages.extremely_comfortable.label>अत्यधिक आरामदायक</NeedComfort.stages.extremely_comfortable.label>
+  <!-- EN: I've been extremely comfortable recently. This place is so cushy! -->
+  <NeedComfort.stages.extremely_comfortable.description>मुझे हाल ही में बहुत आराम मिला है। यह जगह इतनी आरामदायक है!</NeedComfort.stages.extremely_comfortable.description>
+  <!-- EN: luxuriantly comfortable -->
+  <NeedComfort.stages.luxuriantly_comfortable.label>अति आरामदायक</NeedComfort.stages.luxuriantly_comfortable.label>
+  <!-- EN: I am resting on clouds of heaven. -->
+  <NeedComfort.stages.luxuriantly_comfortable.description>मैं स्वर्ग के बादलों पर विश्राम कर रहा/रही हूँ।</NeedComfort.stages.luxuriantly_comfortable.description>
+  
+  <!-- EN: hungry -->
+  <NeedFood.stages.hungry.label>भूख</NeedFood.stages.hungry.label>
+  <!-- EN: I'm really hungry. -->
+  <NeedFood.stages.hungry.description>मुझे बहुत भूख लग रही है।</NeedFood.stages.hungry.description>
+  <!-- EN: ravenously hungry -->
+  <NeedFood.stages.ravenously_hungry.label>बेहद भूखा</NeedFood.stages.ravenously_hungry.label>
+  <!-- EN: These hunger pangs are hard to ignore. -->
+  <NeedFood.stages.ravenously_hungry.description>ये भूख की पीड़ाएं अनदेखी करना मुश्किल हैं।</NeedFood.stages.ravenously_hungry.description>
+  <!-- EN: malnourished -->
+  <NeedFood.stages.malnourished.label>कुपोषित</NeedFood.stages.malnourished.label>
+  <!-- EN: It's been so long since I ate. I'm all fuzzy and it's hard to focus. My body is starting to waste away. -->
+  <NeedFood.stages.malnourished.description>लंबे समय से मैंने कुछ नहीं खाया है। मैं धुंधला महसूस कर रहा हूँ और ध्यान केंद्रित करना मुश्किल हो रहा है। मेरा शरीर क्षीण होने लगा है।</NeedFood.stages.malnourished.description>
+  <!-- EN: badly malnourished -->
+  <NeedFood.stages.badly_malnourished.label>गंभीर कुपोषण</NeedFood.stages.badly_malnourished.label>
+  <!-- EN: I can feel my body wasting away. My stomach hurts like never before. -->
+  <NeedFood.stages.badly_malnourished.description>शरीर क्षीण हो रहा है। पेट में पहले कभी न हुआ दर्द हो रहा है।</NeedFood.stages.badly_malnourished.description>
+  <!-- EN: starving -->
+  <NeedFood.stages.starving.label>भूखा</NeedFood.stages.starving.label>
+  <!-- EN: I can barely think about anything but food. My skin is stretching over my bones. Am I going to die? -->
+  <NeedFood.stages.starving.description>मैं मुश्किल से किसी चीज़ के बारे में सोच पा रहा हूँ सिवाय भोजन के। मेरी त्वचा मेरी हड्डियों पर खिंच रही है। क्या मैं मरने वाला हूँ?</NeedFood.stages.starving.description>
+  <!-- EN: advanced starvation -->
+  <NeedFood.stages.advanced_starvation.label>गंभीर भूख</NeedFood.stages.advanced_starvation.label>
+  <!-- EN: I can barely move or think about anything but food. My stomach hurts like never before. I feel like I'm going to pass out. -->
+  <NeedFood.stages.advanced_starvation.description>मैं मुश्किल से हिल पा रहा हूँ या खाने के अलावा किसी चीज़ के बारे में सोच पा रहा हूँ। मेरा पेट पहले कभी इतना नहीं दुखी था। मुझे लग रहा है कि मैं बेहोश हो जाऊंगा।</NeedFood.stages.advanced_starvation.description>
+  <!-- EN: extreme starvation -->
+  <NeedFood.stages.extreme_starvation.label>गंभीर भुखमरी</NeedFood.stages.extreme_starvation.label>
+  <!-- EN: Food... food... anything... please... -->
+  <NeedFood.stages.extreme_starvation.description>खाना… खाना… कुछ भी… कृपया…</NeedFood.stages.extreme_starvation.description>
+  
+  <!-- EN: just outdoors -->
+  <NeedIndoors.stages.just_outdoors.label>बाहर</NeedIndoors.stages.just_outdoors.label>
+  <!-- EN: I shouldn't be outdoors. -->
+  <NeedIndoors.stages.just_outdoors.description>मुझे बाहर नहीं रहना चाहिए।</NeedIndoors.stages.just_outdoors.description>
+  <!-- EN: outdoors -->
+  <NeedIndoors.stages.outdoors.label>बाहर</NeedIndoors.stages.outdoors.label>
+  <!-- EN: I've been outside too much recently. -->
+  <NeedIndoors.stages.outdoors.description>मैं हाल ही में बहुत ज़्यादा बाहर रहा/रही हूँ।</NeedIndoors.stages.outdoors.description>
+  <!-- EN: long outdoors -->
+  <NeedIndoors.stages.long_outdoors.label>बाहरी लम्बा</NeedIndoors.stages.long_outdoors.label>
+  <!-- EN: Being outside so much is wrong for me. -->
+  <NeedIndoors.stages.long_outdoors.description>बाहर इतना समय बिताना मेरे लिए सही नहीं है।</NeedIndoors.stages.long_outdoors.description>
+  <!-- EN: very long outdoors -->
+  <NeedIndoors.stages.very_long_outdoors.label>लंबा बाहर</NeedIndoors.stages.very_long_outdoors.label>
+  <!-- EN: I've been outside way too much recently. This open space is so disturbing. -->
+  <NeedIndoors.stages.very_long_outdoors.description>मैं हाल ही में बहुत ज़्यादा बाहर रहा हूँ। यह खुली जगह बहुत परेशान करने वाली है।</NeedIndoors.stages.very_long_outdoors.description>
+  <!-- EN: brutal outdoors -->
+  <NeedIndoors.stages.brutal_outdoors.label>कठोर बाहरी</NeedIndoors.stages.brutal_outdoors.label>
+  <!-- EN: These open spaces are driving me insane! -->
+  <NeedIndoors.stages.brutal_outdoors.description>ये खुली जगहें मुझे पागल कर रही हैं!</NeedIndoors.stages.brutal_outdoors.description>
+  
+  <!-- EN: recreation-starved -->
+  <NeedJoy.stages.recreationstarved.label>मनोरंजनहीनता</NeedJoy.stages.recreationstarved.label>
+  <!-- EN: It's been so long since I did anything for fun on my own time. -->
+  <NeedJoy.stages.recreationstarved.description>अपनी मर्जी से मनोरंजन के लिए कुछ करने में बहुत समय हो गया है।</NeedJoy.stages.recreationstarved.description>
+  <!-- EN: recreation-deprived -->
+  <NeedJoy.stages.recreationdeprived.label>मनोरंजनहीन</NeedJoy.stages.recreationdeprived.label>
+  <!-- EN: We need more variation in recreation activities, and I need time to enjoy them. This place is really dull. -->
+  <NeedJoy.stages.recreationdeprived.description>हमें मनोरंजन गतिविधियों में अधिक विविधता की आवश्यकता है, और मुझे उनका आनंद लेने के लिए समय चाहिए। यह जगह वास्तव में नीरस है।</NeedJoy.stages.recreationdeprived.description>
+  <!-- EN: recreation unfulfilled -->
+  <NeedJoy.stages.recreation_unfulfilled.label>मनोरंजन अपूर्ण</NeedJoy.stages.recreation_unfulfilled.label>
+  <!-- EN: We need more variation in the recreation activities, and I need time to enjoy them. -->
+  <NeedJoy.stages.recreation_unfulfilled.description>हमें मनोरंजन गतिविधियों में अधिक विविधता चाहिए, और मुझे उनका आनंद लेने के लिए समय चाहिए।</NeedJoy.stages.recreation_unfulfilled.description>
+  <!-- EN: recreation satisfied -->
+  <NeedJoy.stages.recreation_satisfied.label>मनोरंजन संतुष्ट</NeedJoy.stages.recreation_satisfied.label>
+  <!-- EN: I've been having a great time doing various things I like to do. -->
+  <NeedJoy.stages.recreation_satisfied.description>मुझे अपनी पसंद की विभिन्न गतिविधियाँ करने में बहुत आनंद आ रहा है।</NeedJoy.stages.recreation_satisfied.description>
+  <!-- EN: recreation fully satisfied -->
+  <NeedJoy.stages.recreation_fully_satisfied.label>मनोरंजन पूर्ण</NeedJoy.stages.recreation_fully_satisfied.label>
+  <!-- EN: I've been enjoying myself so much, I love it! -->
+  <NeedJoy.stages.recreation_fully_satisfied.description>मुझे बहुत आनंद आ रहा है, यह मुझे पसंद है!</NeedJoy.stages.recreation_fully_satisfied.description>
+  
+  <!-- EN: entombed underground -->
+  <NeedOutdoors.stages.entombed_underground.label>भूमिगत दफन</NeedOutdoors.stages.entombed_underground.label>
+  <!-- EN: I've been underground too long. I feel like the weight of this mountain is crushing me. I need to see the sky and feel the wind. -->
+  <NeedOutdoors.stages.entombed_underground.description>मैं बहुत समय से भूमिगत हूँ। मुझे ऐसा लग रहा है जैसे इस पर्वत का भार मुझे कुचल रहा है। मुझे आकाश देखना और हवा महसूस करना आवश्यक है।</NeedOutdoors.stages.entombed_underground.description>
+  <!-- EN: trapped underground -->
+  <NeedOutdoors.stages.trapped_underground.label>भूमिगत फँसना</NeedOutdoors.stages.trapped_underground.label>
+  <!-- EN: How long have I been underground? I need to get out in the fresh air and spend some time under the sky. -->
+  <NeedOutdoors.stages.trapped_underground.description>मैं कितनी देर से भूमिगत हूँ? मुझे ताज़ी हवा में बाहर निकलकर आकाश के नीचे कुछ समय बिताना है।</NeedOutdoors.stages.trapped_underground.description>
+  <!-- EN: cabin fever -->
+  <NeedOutdoors.stages.cabin_fever.label>कैद तनाव</NeedOutdoors.stages.cabin_fever.label>
+  <!-- EN: I've spent so long indoors I feel like the roof is pressing in. I need to get out and see the sky. -->
+  <NeedOutdoors.stages.cabin_fever.description>मैं इतने लंबे समय से घर के अंदर रहा हूँ कि मुझे ऐसा लग रहा है जैसे छत मुझ पर आ रही है। मुझे बाहर निकलकर आसमान देखने की ज़रूरत है।</NeedOutdoors.stages.cabin_fever.description>
+  <!-- EN: trapped indoors -->
+  <NeedOutdoors.stages.trapped_indoors.label>अंदर फँसना</NeedOutdoors.stages.trapped_indoors.label>
+  <!-- EN: It's been too long since I've seen the sky. -->
+  <NeedOutdoors.stages.trapped_indoors.description>आसमान देखने में बहुत समय हो गया है।</NeedOutdoors.stages.trapped_indoors.description>
+  <!-- EN: stuck indoors -->
+  <NeedOutdoors.stages.stuck_indoors.label>घर में फँसे</NeedOutdoors.stages.stuck_indoors.label>
+  <!-- EN: I'd like to go outside and get some fresh air. -->
+  <NeedOutdoors.stages.stuck_indoors.description>बाहर जाकर ताज़ी हवा लेना चाहता हूँ।</NeedOutdoors.stages.stuck_indoors.description>
+  
+  <!-- EN: drowsy -->
+  <NeedRest.stages.drowsy.label>सुस्ती</NeedRest.stages.drowsy.label>
+  <!-- EN: I haven't slept in a while. It's hard to keep focus. -->
+  <NeedRest.stages.drowsy.description>काफ़ी समय से नींद नहीं आई है। ध्यान केंद्रित करना मुश्किल है।</NeedRest.stages.drowsy.description>
+  <!-- EN: tired -->
+  <NeedRest.stages.tired.label>थकान</NeedRest.stages.tired.label>
+  <!-- EN: I'm so tired. I just want to lay down and rest for a few minutes... -->
+  <NeedRest.stages.tired.description>मैं बहुत थका हुआ/थकी हुई हूँ। बस कुछ मिनटों के लिए लेटकर आराम करना चाहता/चाहती हूँ…</NeedRest.stages.tired.description>
+  <!-- EN: exhausted -->
+  <NeedRest.stages.exhausted.label>थकावट</NeedRest.stages.exhausted.label>
+  <!-- EN: I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep... -->
+  <NeedRest.stages.exhausted.description>मैं इतना थका हुआ हूँ कि मुश्किल से खड़ा रह पा रहा हूँ। मेरी पलकों पर मानो सीसे के वजन रखे हैं। मुझे सोने दो…</NeedRest.stages.exhausted.description>
+  
+  <!-- EN: confined interior -->
+  <NeedRoomSize.stages.confined_interior.label>सीमित अंदरूनी भाग</NeedRoomSize.stages.confined_interior.label>
+  <!-- EN: This space is so tiny. I feel like a rat in a cage. -->
+  <NeedRoomSize.stages.confined_interior.description>यह जगह बहुत छोटी है। मुझे लगता है जैसे मैं पिंजरे में एक चूहा हूँ।</NeedRoomSize.stages.confined_interior.description>
+  <!-- EN: cramped interior -->
+  <NeedRoomSize.stages.cramped_interior.label>संकुचित आंतरिक</NeedRoomSize.stages.cramped_interior.label>
+  <!-- EN: This room is too small. I wish I had more space to move around and breathe. -->
+  <NeedRoomSize.stages.cramped_interior.description>यह कमरा बहुत छोटा है। काश मेरे पास घूमने और सांस लेने के लिए अधिक जगह होती।</NeedRoomSize.stages.cramped_interior.description>
+  <!-- EN: spacious interior -->
+  <NeedRoomSize.stages.spacious_interior.label>विस्तृत आंतरिक</NeedRoomSize.stages.spacious_interior.label>
+  <!-- EN: This room is so expansive, I feel free. -->
+  <NeedRoomSize.stages.spacious_interior.description>यह कमरा इतना विशाल है, मुझे आज़ाद महसूस होता है।</NeedRoomSize.stages.spacious_interior.description>
+  
+</LanguageData>

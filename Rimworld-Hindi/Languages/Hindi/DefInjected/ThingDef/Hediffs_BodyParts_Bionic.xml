@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic arm -->
+  <BionicArm.label>बायोनिक हाथ</BionicArm.label>
+  <!-- EN: An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
+  <BionicArm.description>एक उन्नत कृत्रिम भुजा। शांत मिनी-सर्वोज़ अत्यधिक शक्ति प्रदान करते हैं, जबकि बायोज़ेल तंत्रिका-लिंक उत्कृष्ट नियंत्रण प्रदान करता है। एक जाली-धूल उपचार प्रणाली इसे क्षति से उबरने देती है। यह लगभग हर तरह से एक जैविक भुजा से बेहतर है।</BionicArm.description>
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>बायोनिक कान</BionicEar.label>
+  <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
+  <BionicEar.description>एक उन्नत कृत्रिम कान प्रत्यारोपण। अदृश्य त्वचीय माइक्रोफोन ध्वनि को पकड़ते हैं और इसे एक बायो जेल तंत्रिका इंटरफेस में प्रेषित करते हैं जो सीधे श्रवण तंत्रिका से जुड़ता है। यह बिल्ली को देखने से पहले सुनने के लिए पर्याप्त संवेदनशील है, तेज शोर से क्षतिग्रस्त नहीं हो सकता है, और स्वचालित रूप से शोर वाले वातावरण में सार्थक ध्वनियों को चुनने के लिए खुद को ट्यून करता है।</BionicEar.description>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>बायोनिक आँख</BionicEye.label>
+  <!-- EN: An advanced artificial eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
+  <BionicEye.description>एक उन्नत कृत्रिम आंख। इसके बायो जेल तंत्रिका-लिंक, आंतरिक संकेत पूर्व-संसाधक और विस्तृत-स्पेक्ट्रम सेंसर के साथ, यह लगभग हर तरह से एक जैविक आंख से बेहतर है। एक जाली-धूल उपचार प्रणाली इसे क्षति से उबरने देती है।</BionicEye.description>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>बायोनिक हृदय</BionicHeart.label>
+  <!-- EN: An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
+  <BionicHeart.description>यह एक उन्नत कृत्रिम हृदय है। इसमें यथार्थवादी धड़कन के लिए सिंथेटिक मांसपेशी फाइबर हैं, साथ ही उच्च तनाव के दौरान तीव्र परिसंचरण के लिए एक उच्च-प्रवाह पंप भी है। यह लगभग हर तरह से जैविक हृदय से बेहतर है।</BionicHeart.description>
+  
+  <!-- EN: bionic jaw -->
+  <BionicJaw.label>बायोनिक जबड़ा</BionicJaw.label>
+  <!-- EN: An artificial jaw replacement. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion. -->
+  <BionicJaw.description>एक कृत्रिम जबड़ा प्रतिस्थापन। जैवसंश्लेषित हड्डी से बना, प्लास्टील दांत प्रतिस्थापनों और गति की पूरी श्रृंखला के लिए सूक्ष्म सर्वोमोटर के एक सेट के साथ।</BionicJaw.description>
+  
+  <!-- EN: bionic leg -->
+  <BionicLeg.label>बायोनिक पैर</BionicLeg.label>
+  <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
+  <BionicLeg.description>एक उन्नत कृत्रिम पैर। इसके बायो जेल तंत्रिका-संबंध, शक्तिशाली मिनी-सर्वो, और जाली-धूल उपचार प्रणाली के साथ, यह लगभग हर तरह से एक जैविक पैर से बेहतर है।</BionicLeg.description>
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>बायोनिक रीढ़</BionicSpine.label>
+  <!-- EN: An advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
+  <BionicSpine.description>एक उन्नत कृत्रिम रीढ़ की हड्डी। एक बायो जेल तंत्रिका गुच्छन एक आर्टिकुलेटेड प्लास्टील कोर से नीचे की ओर जाती है, जो एक जाली-धूल उपचार प्रणाली से घिरी होती है। यह एक जैविक रीढ़ की हड्डी के प्रदर्शन से मेल खाती है।</BionicSpine.description>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>बायोनिक पेट</BionicStomach.label>
+  <!-- EN: An advanced artificial stomach with sensors and chemical synthesizers that efficiently digest nearly any energy-bearing foodstuff. A person with this has a much lower chance of getting food poisoning, and is immune to some stomach diseases. An integrated lattice-dust healing system automatically repairs any damage to the artificial organ. It is better than a biological stomach in almost every way. -->
+  <BionicStomach.description>एक उन्नत कृत्रिम पेट जिसमें संवेदक और रासायनिक संश्लेषक होते हैं जो लगभग किसी भी ऊर्जा-वाहक खाद्य पदार्थ को कुशलतापूर्वक पचाते हैं। इस पेट वाले व्यक्ति को खाद्य विषाक्तता होने की संभावना बहुत कम होती है, और यह कुछ पेट रोगों से प्रतिरक्षित होता है। एक एकीकृत जाली-धूल उपचार प्रणाली स्वचालित रूप से कृत्रिम अंग को किसी भी क्षति की मरम्मत करती है। यह लगभग हर तरह से एक जैविक पेट से बेहतर है।</BionicStomach.description>
+  
+  <!-- EN: bionic tongue -->
+  <BionicTongue.label>बायोनिक जीभ</BionicTongue.label>
+  <!-- EN: An artificial tongue replacement. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
+  <BionicTongue.description>एक कृत्रिम जीभ प्रतिस्थापन। सिंथेटिक चिकनी रेशों से बनी और एक न्यूरोजेल इंटरफेस के माध्यम से जुड़ी, यह बोलने, खाने और स्वाद लेने में एक प्राकृतिक जीभ के प्रदर्शन से मेल खा सकती है।</BionicTongue.description>
+  
+  <!-- EN: death acidifier -->
+  <DeathAcidifier.label>मृत करने वाला अम्ल</DeathAcidifier.label>
+  <!-- EN: A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
+  <DeathAcidifier.description>एक छाती प्रत्यारोपण जो दुश्मन द्वारा पकड़े गए उपकरणों के उपयोग को रोकने के लिए है। उपयोगकर्ता की मृत्यु पर, यह शक्तिशाली रसायन जारी करता है जो उपयोगकर्ता के शरीर के संपर्क में आने वाले उपकरणों को घोल देता है। यह दूसरों को नुकसान नहीं पहुंचाता।</DeathAcidifier.description>
+  
+</LanguageData>

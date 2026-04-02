@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bonded animal {0} died -->
+  <BondedAnimalDied.stages.bonded_animal_died.label>बंधुआ जानवर {0} मरा</BondedAnimalDied.stages.bonded_animal_died.label>
+  <!-- EN: Such a tender, unique animal. This universe is evil! -->
+  <BondedAnimalDied.stages.bonded_animal_died.description>यह इतना कोमल, अद्वितीय जानवर है। यह ब्रह्मांड दुष्ट है!</BondedAnimalDied.stages.bonded_animal_died.description>
+  
+  <!-- EN: colonist died -->
+  <KnowColonistDied.stages.colonist_died.label>कॉलोनीवासी की मृत्यु</KnowColonistDied.stages.colonist_died.label>
+  <!-- EN: One of our people died. We should be able to take care of our people. -->
+  <KnowColonistDied.stages.colonist_died.description>हमारे लोगों में से एक की मृत्यु हो गई। हमें अपने लोगों की देखभाल करने में सक्षम होना चाहिए।</KnowColonistDied.stages.colonist_died.description>
+  
+  <!-- EN: justified execution of colonist -->
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>कॉलोनीवादी का न्यायसंगत निष्पादन</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
+  <!-- EN: A guilty colonist was executed. It was justified, but still sad. -->
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>एक दोषी उपनिवेशवादी को फांसी दी गई। यह उचित था, लेकिन फिर भी दुखद था।</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
+  <!-- EN: colonist euthanized -->
+  <KnowColonistExecuted.stages.colonist_euthanized.label>कॉलोनीस्ट इच्छामृत्यु</KnowColonistExecuted.stages.colonist_euthanized.label>
+  <!-- EN: A colonist was euthanized. It was humane, but still sad. -->
+  <KnowColonistExecuted.stages.colonist_euthanized.description>एक उपनिवेशवादी को इच्छामृत्यु दी गई। यह मानवीय था, लेकिन फिर भी दुखद था।</KnowColonistExecuted.stages.colonist_euthanized.description>
+  <!-- EN: colonist executed -->
+  <KnowColonistExecuted.stages.colonist_executed.label>कॉलोनीवादी निष्पादित</KnowColonistExecuted.stages.colonist_executed.label>
+  <!-- EN: A colonist was killed in cold blood. It seemed a bit evil. -->
+  <KnowColonistExecuted.stages.colonist_executed.description>एक उपनिवेशवादी की निर्ममता से हत्या कर दी गई। यह थोड़ा दुष्ट लग रहा था।</KnowColonistExecuted.stages.colonist_executed.description>
+  <!-- EN: colonist organ-harvested -->
+  <KnowColonistExecuted.stages.colonist_organharvested.label>कॉलोनीस्ट अंग-काटा गया</KnowColonistExecuted.stages.colonist_organharvested.label>
+  <!-- EN: A colonist died because someone took body parts from them. It's horrible. -->
+  <KnowColonistExecuted.stages.colonist_organharvested.description>एक उपनिवेशवादी की मृत्यु हो गई क्योंकि किसी ने उनके शरीर के अंग ले लिए। यह भयानक है।</KnowColonistExecuted.stages.colonist_organharvested.description>
+  <!-- EN: colonist ripscanned -->
+  <KnowColonistExecuted.stages.colonist_ripscanned.label>कॉलोनी स्कैन किया गया</KnowColonistExecuted.stages.colonist_ripscanned.label>
+  <!-- EN: A colonist died in our ripscanner. Their brain was burned up to feed the machine. It's horrible. -->
+  <KnowColonistExecuted.stages.colonist_ripscanned.description>एक उपनिवेशवादी हमारी रिपस्कैनर में मर गया। मशीन को चलाने के लिए उनका मस्तिष्क जला दिया गया। यह भयानक है।</KnowColonistExecuted.stages.colonist_ripscanned.description>
+  
+  <!-- EN: justified execution -->
+  <KnowGuestExecuted.stages.justified_execution.label>न्यायपूर्ण निष्पादन</KnowGuestExecuted.stages.justified_execution.label>
+  <!-- EN: A guilty prisoner or guest was executed. It was justified, but still sad. -->
+  <KnowGuestExecuted.stages.justified_execution.description>एक दोषी कैदी या अतिथि को मार दिया गया। यह उचित था, लेकिन फिर भी दुखद था।</KnowGuestExecuted.stages.justified_execution.description>
+  <!-- EN: someone was euthanized -->
+  <KnowGuestExecuted.stages.someone_was_euthanized.label>मृत्यु</KnowGuestExecuted.stages.someone_was_euthanized.label>
+  <!-- EN: A prisoner or guest was euthanized. It was humane, but still sad. -->
+  <KnowGuestExecuted.stages.someone_was_euthanized.description>एक कैदी या अतिथि को इच्छामृत्यु दी गई। यह मानवीय था, लेकिन फिर भी दुखद था।</KnowGuestExecuted.stages.someone_was_euthanized.description>
+  <!-- EN: someone was executed -->
+  <KnowGuestExecuted.stages.someone_was_executed.label>फांसी</KnowGuestExecuted.stages.someone_was_executed.label>
+  <!-- EN: A prisoner or guest was killed in cold blood. It seemed a bit evil. -->
+  <KnowGuestExecuted.stages.someone_was_executed.description>किसी कैदी या मेहमान की निर्ममता से हत्या कर दी गई। यह थोड़ा दुष्ट लग रहा था।</KnowGuestExecuted.stages.someone_was_executed.description>
+  <!-- EN: someone was organ-murdered -->
+  <KnowGuestExecuted.stages.someone_was_organmurdered.label>अंग-हत्या</KnowGuestExecuted.stages.someone_was_organmurdered.label>
+  <!-- EN: A prisoner or guest died because the colony took body parts from them. It's horrible. -->
+  <KnowGuestExecuted.stages.someone_was_organmurdered.description>एक कैदी या अतिथि की मृत्यु हो गई क्योंकि कॉलोनी ने उनसे शरीर के अंग ले लिए। यह भयानक है।</KnowGuestExecuted.stages.someone_was_organmurdered.description>
+  <!-- EN: someone was ripscanned -->
+  <KnowGuestExecuted.stages.someone_was_ripscanned.label>स्कैन किया गया</KnowGuestExecuted.stages.someone_was_ripscanned.label>
+  <!-- EN: A prisoner died in our ripscanner. Their brain was burned up to feed the machine. It's horrible. -->
+  <KnowGuestExecuted.stages.someone_was_ripscanned.description>एक कैदी हमारी रिपस्कैनर में मर गया। मशीन को चलाने के लिए उनका मस्तिष्क जला दिया गया। यह भयानक है।</KnowGuestExecuted.stages.someone_was_ripscanned.description>
+  
+  <!-- EN: innocent prisoner died -->
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>निर्दोष कैदी की मृत्यु</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
+  <!-- EN: One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism. -->
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>हमारे एक कैदी की मृत्यु हो गई, भले ही वे हानिरहित थे। हमें अपने कैदियों की देखभाल करने में सक्षम होना चाहिए। यदि हम उन्हें मरवाना चाहते थे, तो हम कम से कम एक व्यवस्थित निष्पादन कर सकते थे बजाय उस बर्बरता की अनुमति देने के।</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
+  
+  <!-- EN: my aunt {0} died -->
+  <MyAuntDied.stages.my_aunt_died.label>मेरी चाची {0} का निधन</MyAuntDied.stages.my_aunt_died.label>
+  <!-- EN: My aunt died. -->
+  <MyAuntDied.stages.my_aunt_died.description>मेरी चाची का निधन हो गया।</MyAuntDied.stages.my_aunt_died.description>
+  
+  <!-- EN: my brother {0} died -->
+  <MyBrotherDied.stages.my_brother_died.label>भाई {0} की मृत्यु</MyBrotherDied.stages.my_brother_died.label>
+  <!-- EN: My brother died. My own flesh and blood... -->
+  <MyBrotherDied.stages.my_brother_died.description>मेरे भाई का निधन हो गया। मेरा अपना लहू और मांस…</MyBrotherDied.stages.my_brother_died.description>
+  
+  <!-- EN: my cousin {0} died -->
+  <MyCousinDied.stages.my_cousin_died.label>चाचा/चाची का {0} निधन हुआ</MyCousinDied.stages.my_cousin_died.label>
+  <!-- EN: My cousin died. My own flesh and blood... -->
+  <MyCousinDied.stages.my_cousin_died.description>मेरे चचेरे भाई की मृत्यु हो गई। मेरा अपना लहू और मांस…</MyCousinDied.stages.my_cousin_died.description>
+  
+  <!-- EN: my daughter {0} died -->
+  <MyDaughterDied.stages.my_daughter_died.label>मेरी बेटी {0} मर गई</MyDaughterDied.stages.my_daughter_died.label>
+  <!-- EN: My daughter is dead. My own flesh and blood... -->
+  <MyDaughterDied.stages.my_daughter_died.description>मेरी बेटी मर गई है। मेरा अपना खून और मांस…</MyDaughterDied.stages.my_daughter_died.description>
+  
+  <!-- EN: my father {0} died -->
+  <MyFatherDied.stages.my_father_died.label>मेरे पिता {0} का निधन</MyFatherDied.stages.my_father_died.label>
+  <!-- EN: My father died. He's gone forever. -->
+  <MyFatherDied.stages.my_father_died.description>मेरे पिता का निधन हो गया। वे हमेशा के लिए चले गए।</MyFatherDied.stages.my_father_died.description>
+  
+  <!-- EN: my fiance {0} died -->
+  <MyFianceDied.stages.my_fiance_died.label>मेरा मंगेतर {0} मर गया</MyFianceDied.stages.my_fiance_died.label>
+  <!-- EN: My fiance died. Such a man... my future is gone. -->
+  <MyFianceDied.stages.my_fiance_died.description>मेरे मंगेतर का निधन हो गया। ऐसा व्यक्ति… मेरा भविष्य चला गया।</MyFianceDied.stages.my_fiance_died.description>
+  
+  <!-- EN: my fiancée {0} died -->
+  <MyFianceeDied.stages.my_fiance_died.label>मेरी मंगेतर {0} की मृत्यु हो गई</MyFianceeDied.stages.my_fiance_died.label>
+  <!-- EN: My fiancée died. Such a woman... my future is gone. -->
+  <MyFianceeDied.stages.my_fiance_died.description>मेरी मंगेतर की मृत्यु हो गई। ऐसी महिला… मेरा भविष्य चला गया।</MyFianceeDied.stages.my_fiance_died.description>
+  
+  <!-- EN: my grandchild {0} died -->
+  <MyGrandchildDied.stages.my_grandchild_died.label>पोते/पोती {0} की मृत्यु</MyGrandchildDied.stages.my_grandchild_died.label>
+  <!-- EN: My grandchild died. My own flesh and blood... -->
+  <MyGrandchildDied.stages.my_grandchild_died.description>मेरे पोते/पोती का निधन हो गया। मेरा अपना खून का खून…</MyGrandchildDied.stages.my_grandchild_died.description>
+  
+  <!-- EN: my grandparent {0} died -->
+  <MyGrandparentDied.stages.my_grandparent_died.label>दादा-दादी {0} का निधन</MyGrandparentDied.stages.my_grandparent_died.label>
+  <!-- EN: My grandparent died. -->
+  <MyGrandparentDied.stages.my_grandparent_died.description>मेरे दादा-दादी का निधन हो गया।</MyGrandparentDied.stages.my_grandparent_died.description>
+  
+  <!-- EN: my half-sibling {0} died -->
+  <MyHalfSiblingDied.stages.my_halfsibling_died.label>मेरा आधा भाई/बहन {0} मर गया</MyHalfSiblingDied.stages.my_halfsibling_died.label>
+  <!-- EN: My half-sibling died. My own flesh and blood... -->
+  <MyHalfSiblingDied.stages.my_halfsibling_died.description>मेरे आधे भाई/बहन का निधन हो गया। मेरा अपना लहू और मांस…</MyHalfSiblingDied.stages.my_halfsibling_died.description>
+  
+  <!-- EN: my husband {0} died -->
+  <MyHusbandDied.stages.my_husband_died.label>पति {0} की मृत्यु हो गई</MyHusbandDied.stages.my_husband_died.label>
+  <!-- EN: My husband is dead. I am alone. -->
+  <MyHusbandDied.stages.my_husband_died.description>मेरे पति का निधन हो गया है। मैं अकेला/अकेली हूँ।</MyHusbandDied.stages.my_husband_died.description>
+  
+  <!-- EN: my kin {0} died -->
+  <MyKinDied.stages.my_kin_died.label>मेरे रिश्तेदार {0} की मृत्यु हुई</MyKinDied.stages.my_kin_died.label>
+  <!-- EN: My kin died. -->
+  <MyKinDied.stages.my_kin_died.description>मेरे रिश्तेदार की मृत्यु हो गई।</MyKinDied.stages.my_kin_died.description>
+  
+  <!-- EN: my lover {0} died -->
+  <MyLoverDied.stages.my_lover_died.label>प्रियजन {0} का निधन</MyLoverDied.stages.my_lover_died.label>
+  <!-- EN: My lover died. I am so alone. -->
+  <MyLoverDied.stages.my_lover_died.description>मेरे प्रियजन का निधन हो गया। मैं बहुत अकेला/अकेली हूँ।</MyLoverDied.stages.my_lover_died.description>
+  
+  <!-- EN: my mother {0} died -->
+  <MyMotherDied.stages.my_mother_died.label>माँ {0} का निधन</MyMotherDied.stages.my_mother_died.label>
+  <!-- EN: My mother died. She's gone forever. -->
+  <MyMotherDied.stages.my_mother_died.description>मेरी माँ का निधन हो गया। वे हमेशा के लिए चली गईं।</MyMotherDied.stages.my_mother_died.description>
+  
+  <!-- EN: my nephew {0} died -->
+  <MyNephewDied.stages.my_nephew_died.label>भतीजा {0} की मृत्यु हुई</MyNephewDied.stages.my_nephew_died.label>
+  <!-- EN: My nephew died. Such a wonderful child. -->
+  <MyNephewDied.stages.my_nephew_died.description>मेरे भतीजे का निधन हो गया। कितना अद्भुत बच्चा था।</MyNephewDied.stages.my_nephew_died.description>
+  
+  <!-- EN: my niece {0} died -->
+  <MyNieceDied.stages.my_niece_died.label>मेरी भतीजी {0} की मृत्यु हो गई</MyNieceDied.stages.my_niece_died.label>
+  <!-- EN: My niece died. Such a wonderful child. -->
+  <MyNieceDied.stages.my_niece_died.description>मेरी भतीजी का निधन हो गया। कितनी शानदार बच्ची थी।</MyNieceDied.stages.my_niece_died.description>
+  
+  <!-- EN: my sister {0} died -->
+  <MySisterDied.stages.my_sister_died.label>मेरी बहन {0} मर गई</MySisterDied.stages.my_sister_died.label>
+  <!-- EN: My sister died. My own flesh and blood... -->
+  <MySisterDied.stages.my_sister_died.description>मेरी बहन का निधन हो गया। मेरा अपना लहू और मांस…</MySisterDied.stages.my_sister_died.description>
+  
+  <!-- EN: my son {0} died -->
+  <MySonDied.stages.my_son_died.label>मेरा बेटा {0} मर गया</MySonDied.stages.my_son_died.label>
+  <!-- EN: My son is dead. My own flesh and blood... -->
+  <MySonDied.stages.my_son_died.description>मेरा बेटा मर गया। मेरा अपना मांस और रक्त…</MySonDied.stages.my_son_died.description>
+  
+  <!-- EN: my uncle {0} died -->
+  <MyUncleDied.stages.my_uncle_died.label>चाचा {0} का निधन</MyUncleDied.stages.my_uncle_died.label>
+  <!-- EN: My uncle died. -->
+  <MyUncleDied.stages.my_uncle_died.description>मेरे चाचा का निधन हो गया।</MyUncleDied.stages.my_uncle_died.description>
+  
+  <!-- EN: my wife {0} died -->
+  <MyWifeDied.stages.my_wife_died.label>पत्नी {0} का निधन</MyWifeDied.stages.my_wife_died.label>
+  <!-- EN: My wife is dead. I am alone. -->
+  <MyWifeDied.stages.my_wife_died.description>मेरी पत्नी का निधन हो गया है। मैं अकेला/अकेली हूँ।</MyWifeDied.stages.my_wife_died.description>
+  
+  <!-- EN: my rival {0} died -->
+  <PawnWithBadOpinionDied.stages.my_rival_died.label>मेरा प्रतिद्वंद्वी {0} मर गया</PawnWithBadOpinionDied.stages.my_rival_died.label>
+  <!-- EN: Serves them right. At least there's some justice in this world. -->
+  <PawnWithBadOpinionDied.stages.my_rival_died.description>यह उचित है। कम से कम इस दुनिया में कुछ न्याय तो है।</PawnWithBadOpinionDied.stages.my_rival_died.description>
+  
+  <!-- EN: my friend {0} died -->
+  <PawnWithGoodOpinionDied.stages.my_friend_died.label>दोस्त {0} की मृत्यु</PawnWithGoodOpinionDied.stages.my_friend_died.label>
+  <!-- EN: Such a wonderful person, gone forever. The universe gets darker every day. -->
+  <PawnWithGoodOpinionDied.stages.my_friend_died.description>कितना अद्भुत इंसान था, हमेशा के लिए चला गया। हर दिन ब्रह्मांड और भी अंधकारमय होता जाता है।</PawnWithGoodOpinionDied.stages.my_friend_died.description>
+  
+</LanguageData>

@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>die(SUBJECT_flesh!=Mechanoid,p=2)->die</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->perish</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->expire</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->shut down</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->stop functioning</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->lose power</li>
+    <li>died(SUBJECT_flesh!=Mechanoid,p=2)->died</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->perished</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->expired</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->shut down</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->stopped functioning</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->lost power</li>
+  -->
+  <Transition_Died.rulePack.rulesStrings>
+    <li>die(SUBJECT_flesh!=Mechanoid,p=2)->मरे</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->मृत हो जाए</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->समाप्त हो जाए</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->बंद हो जाए</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->काम करना बंद कर दो।</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->बिजली खो दे</li>
+    <li>died(SUBJECT_flesh!=Mechanoid,p=2)->मर गया</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->परलोक सिधार गया</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->मृत हो गया है</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->बंद हो गया</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->काम करना बंद कर दिया</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->बिजली चली गई।</li>
+  </Transition_Died.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>die(p=3)->explode [flavor]</li>
+    <li>die(p=3)->explode [flavorsuffix]</li>
+    <li>die->detonate [flavor]</li>
+    <li>die->detonate [flavorsuffix]</li>
+    <li>die->burst [flavor]</li>
+    <li>die->burst [flavorsuffix]</li>
+    <li>died(p=3)->exploded [flavor]</li>
+    <li>died->detonated [flavor]</li>
+    <li>died->burst [flavor]</li>
+    <li>flavor(p=0.2)->in a chemical [fireball]</li>
+    <li>flavor->in a [Color] [fireball]</li>
+    <li>flavor->in a [AdjectiveLarge] [fireball]</li>
+    <li>flavor(p=4)->in a [fireball]</li>
+    <li>flavor(p=4)-></li>
+    <li>flavorsuffix->, scattering [pieces] [everywhere]</li>
+    <li>flavorsuffix(SUBJECT_flesh!=Mechanoid,p=2)->, scattering [Gore] [everywhere]</li>
+    <li>flavorsuffix(SUBJECT_flesh!=Mechanoid)->, leaving a small pile of [Gore]</li>
+    <li>flavorsuffix->, leaving a small crater</li>
+    <li>flavorsuffix(p=4)-></li>
+    <li>fireball(p=3)->fireball</li>
+    <li>fireball->flameball</li>
+    <li>fireball->shockwave</li>
+    <li>fireball->conflagration</li>
+    <li>pieces->pieces</li>
+    <li>pieces->fragments</li>
+    <li>everywhere->everywhere</li>
+    <li>everywhere->far and wide</li>
+  -->
+  <Transition_DiedExplosive.rulePack.rulesStrings>
+    <li>die(p=3)->विस्फोटित करें [flavor]</li>
+    <li>die(p=3)->विस्फोट करना [flavorsuffix]</li>
+    <li>die->विस्फोटित करें [flavor]</li>
+    <li>die->विस्फोट करें [flavorsuffix]</li>
+    <li>die->फट गया [flavor]</li>
+    <li>die->फट गया [flavorsuffix]</li>
+    <li>died(p=3)->फट गया [flavor]</li>
+    <li>died->विस्फोटित हुआ [flavor]</li>
+    <li>died->फूट गया [flavor]</li>
+    <li>flavor(p=0.2)->एक रासायनिक में [fireball] रसायन</li>
+    <li>flavor->एक [fireball] [Color_Fem]</li>
+    <li>flavor->एक [fireball] [AdjectiveLarge_Fem]</li>
+    <li>flavor(p=4)-></li>
+    <li>flavor(p=4)->एक [fireball]</li>
+    <li>flavorsuffix(p=4)-></li>
+    <li>flavorsuffix->बिखेरते हुए [pieces] [everywhere]</li>
+    <li>flavorsuffix(subject_flesh!=Mechanoid,p=2)->, बिखेरते हुए [GoreMech]स [everywhere]</li>
+    <li>flavorsuffix(subject_flesh!=Mechanoid,p=2)->फैलाते हुए [GoreMechPl] [everywhere]</li>
+    <li>flavorsuffix(subject_flesh!=Mechanoid)->, ढेर सारा छोड़ कर [GoreMech]स</li>
+    <li>flavorsuffix(subject_flesh!=Mechanoid)->, ढेर सारा [GoreMechPl] छोड़ते हुए [GoreMechPl]</li>
+    <li>flavorsuffix->, एक छोटा सा गड्ढा छोड़ते हुए</li>
+    <li>fireball(p=3)->अग्नि गोला</li>
+    <li>fireball->अग्नि गोला</li>
+    <li>fireball->आघात तरंग</li>
+    <li>fireball->अग्निस्तंभ</li>
+    <li>pieces->टुकड़े</li>
+    <li>pieces->टुकड़े</li>
+    <li>everywhere->हर जगह</li>
+    <li>everywhere->दूर-दूर तक</li>
+  </Transition_DiedExplosive.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [die].</li>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty] caused [SUBJECT_definite] to [die].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNoun] [flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_definite] [died].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [flavorsuffix].</li>
+  -->
+  <Transition_DiedInclude.rulePack.rulesStrings>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] कारण बना [SUBJECT_definite] [die]।</li>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty] कारण बना [SUBJECT_definite] [die]।</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNoun] [flavorsuffix][विषय_निश्चित] [मृत] [दुएटॉ] [दोषीअंतर_लेबलसंज्ञा] [स्वादप्रत्यय]।</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNounPretty] [flavorsuffix][विषय_निश्चित] [मृत] [दुएटॉ] [दोषीभेद_लेबलसंज्ञासुंदर] [स्वादप्रत्यय]।</li>
+    <li>r_logentry->[SUBJECT_definite] [died][विषय_निश्चित] मर गया।</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [flavorsuffix][विषय_निश्चित] [मर गया] [स्वाद-प्रत्यय]।</li>
+  </Transition_DiedInclude.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] caused [SUBJECT_definite] to [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] made [SUBJECT_definite] [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] made [SUBJECT_definite] [collapsemeta].</li>
+    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNoun].</li>
+    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNounPretty].</li>
+    <li>r_logentry(p=0.1)->[SUBJECT_definite] [collapsedmeta].</li>
+    <li>collapse->collapse</li>
+    <li>collapse->drop</li>
+    <li>collapse(SUBJECT_flesh!=Mechanoid)->crumple</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->crash</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->lock up</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->lose main power</li>
+    <li>collapsed->collapsed</li>
+    <li>collapsed->dropped</li>
+    <li>collapsed(SUBJECT_flesh!=Mechanoid)->crumpled</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->crashed</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->locked up</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->lost main power</li>
+    <li>helplessly->helplessly</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->unconscious</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->weakly</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->feebly</li>
+    <li>helplessly(SUBJECT_flesh==Mechanoid)->uncontrollably</li>
+    <li>collapsemeta->[collapse]</li>
+    <li>collapsemeta(p=0.5)->[collapse] [helplessly]</li>
+    <li>collapsedmeta->[collapsed]</li>
+    <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
+  -->
+  <Transition_Downed.rulePack.rulesStrings>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] कारण बना [SUBJECT_definite] [collapsemeta]को</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] कारण बना [SUBJECT_definite] [collapsemeta]को</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] किया [SUBJECT_definite] [collapsemeta]।</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] किया [SUBJECT_definite] [collapsemeta]।</li>
+    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNoun][विषय_निश्चित] [संकुचितमेटा] [कारणवश] [दोषीअंतर_लेबलसंज्ञा].</li>
+    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNounPretty][विषय_निश्चित] [संकुचितमेटा] [कारणवश] [दोषीअंतर_लेबलसंज्ञासुंदर]।</li>
+    <li>r_logentry(p=0.1)->[SUBJECT_definite] [collapsedmeta][विषय_निश्चित] [ढह गया मेटा].</li>
+    <li>collapse->पतन</li>
+    <li>collapse->गिरे</li>
+    <li>collapse(SUBJECT_flesh!=Mechanoid)->गिर जाए</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->टूटना</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->बंद हो जाए</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->मुख्य शक्ति खो दे</li>
+    <li>collapsed->टूट गया</li>
+    <li>collapsed->गिरा</li>
+    <li>collapsed(SUBJECT_flesh!=Mechanoid)->गिर गया</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->टूट गया</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->बंद हो गया</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->मुख्य शक्ति खो गई</li>
+    <li>helplessly->बेबस होकर</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->बेहोश</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->कमज़ोरी से</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid,p=2)->अनियंत्रित रूप से</li>
+    <li>helplessly(SUBJECT_flesh==Mechanoid)->अनियंत्रित रूप से</li>
+    <li>collapsemeta->[collapse]</li>
+    <li>collapsemeta(p=0.5)->[collapse] [helplessly]</li>
+    <li>collapsedmeta->[collapsed]</li>
+    <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
+  </Transition_Downed.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>duetoa->due to</li>
+    <li>duetoa(p=0.5)->because of</li>
+    <li>duetoa(p=0.5)->thanks to</li>
+  -->
+  <Transition_Include.rulePack.rulesStrings>
+    <li>duetoa->के कारण</li>
+    <li>duetoa(p=0.5)->के कारण</li>
+    <li>duetoa(p=0.5)->की वजह से</li>
+  </Transition_Include.rulePack.rulesStrings>
+  
+</LanguageData>

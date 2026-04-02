@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: EMP grenade -->
+  <Proj_GrenadeEMP.label>ईएमपी ग्रेनेड</Proj_GrenadeEMP.label>
+  
+  <!-- EN: frag grenade -->
+  <Proj_GrenadeFrag.label>खंड बम</Proj_GrenadeFrag.label>
+  
+  <!-- EN: molotov cocktail -->
+  <Proj_GrenadeMolotov.label>मोलोटोव कॉकटेल</Proj_GrenadeMolotov.label>
+  
+  <!-- EN: EMP grenades -->
+  <Weapon_GrenadeEMP.label>ईएमपी ग्रेनेड</Weapon_GrenadeEMP.label>
+  <!-- EN: Electromagnetic pulse grenades damaging to electronic equipment. -->
+  <Weapon_GrenadeEMP.description>विद्युतचुंबकीय स्पंदक ग्रेनेड इलेक्ट्रॉनिक उपकरणों को नुकसान पहुंचाते हैं।</Weapon_GrenadeEMP.description>
+  <!-- EN: throw EMP grenade -->
+  <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>ईएमपी ग्रेनेड फेंको</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
+  
+  <!-- EN: frag grenades -->
+  <Weapon_GrenadeFrag.label>खंडित ग्रेनेड</Weapon_GrenadeFrag.label>
+  <!-- EN: Old-school fragmentation grenades. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+  <Weapon_GrenadeFrag.description>पुरानी शैली के खंडित करने वाले ग्रेनेड। इन्हें कम दूरी पर फेंका जा सकता है, जहाँ ये फटेंगे और आसपास की किसी भी चीज़ और किसी भी व्यक्ति को नुकसान पहुंचाएंगे।</Weapon_GrenadeFrag.description>
+  <!-- EN: throw frag grenade -->
+  <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>ग्रेनेड फेंकना</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
+  
+  <!-- EN: molotov cocktails -->
+  <Weapon_GrenadeMolotov.label>मोलोटोव कॉकटेल</Weapon_GrenadeMolotov.label>
+  <!-- EN: Glass bottles filled with flammable liquid, with a burning cloth in the neck. A favorite weapon of hooligans and desperate warriors from rim to rim. -->
+  <Weapon_GrenadeMolotov.description>कांच की बोतलों में ज्वलनशील तरल भरा है, और गर्दन में जलता हुआ कपड़ा डाला गया है। यह किनारों से किनारों तक उपद्रवियों और हताश योद्धाओं का पसंदीदा हथियार है।</Weapon_GrenadeMolotov.description>
+  <!-- EN: throw molotov -->
+  <Weapon_GrenadeMolotov.verbs.throw_molotov.label>मोलोटोव फेंकना</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
+  
+</LanguageData>

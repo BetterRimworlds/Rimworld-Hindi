@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- WITab titles -->
+  <!-- EN: Terrain -->
+  <TabTerrain>भूभाग</TabTerrain>
+  <!-- EN: Planet -->
+  <TabPlanet>ग्रह</TabPlanet>
+  <!-- EN: Feeding -->
+  <TabCaravanFeeding>खिलाना</TabCaravanFeeding>
+  <!-- EN: Social -->
+  <TabCaravanSocial>सामाजिक</TabCaravanSocial>
+  <!-- EN: Health -->
+  <TabCaravanHealth>स्वास्थ्य</TabCaravanHealth>
+  <!-- EN: Needs -->
+  <TabCaravanNeeds>ज़रूरतें</TabCaravanNeeds>
+  <!-- EN: Gear -->
+  <TabCaravanGear>उपकरण</TabCaravanGear>
+  <!-- EN: Items -->
+  <TabCaravanItems>सामान</TabCaravanItems>
+  
+  <!-- Misc -->
+  <!-- EN: Abandon {{0}}x {0} -->
+  <AbandonSliderText>छोड़ें {0}x {0}</AbandonSliderText>
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
+  <ConfirmAbandonItemDialog>क्या आप सच में {0} को त्यागना चाहते हैं?\n\nत्याग दी गई वस्तुएं गायब हो जाती हैं और कभी भी पुनर्प्राप्त नहीं की जा सकतीं।</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon -->
+  <AbandonTip>छोड़ना</AbandonTip>
+  <!-- EN: Banish -->
+  <BanishTip>निष्कासन</BanishTip>
+  <!-- EN: Abandon specific count -->
+  <AbandonSpecificCountTip>छोड़ना गिनती</AbandonSpecificCountTip>
+  <!-- EN: Abandon (all) -->
+  <AbandonAllTip>छोड़ना</AbandonAllTip>
+  <!-- EN: Abandoned items vanish and can never be recovered. -->
+  <AbandonItemTipExtraText>छोड़ी गई वस्तुएं गायब हो जाती हैं और कभी नहीं मिल सकतीं।</AbandonItemTipExtraText>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <BanishTipWillDie>{1_labelShort} के मरने की संभावना है।</BanishTipWillDie>
+  
+  <!-- Caravan inspect -->
+  <!-- EN: Colonists -->
+  <CaravanColonists>कॉलोनिस्ट</CaravanColonists>
+  <!-- EN: Prisoners and animals -->
+  <CaravanPrisonersAndAnimals>कैदी और जानवर</CaravanPrisonersAndAnimals>
+  <!-- EN: Inventory -->
+  <CaravanItems>सूची</CaravanItems>
+  <!-- EN: Click to open a tab with more details. -->
+  <OpenSpecificTabButtonTip>क्लिक करके अधिक विवरणों वाला टैब खोलें।</OpenSpecificTabButtonTip>
+  <!-- EN: Prisoners -->
+  <CaravanPrisoners>कैदी</CaravanPrisoners>
+  <!-- EN: Equippable items -->
+  <CaravanWeaponsAndApparel>उपकरण</CaravanWeaponsAndApparel>
+  <!-- EN: None capable -->
+  <NoneCapable>अयोग्य</NoneCapable>
+  <!-- EN: Caravan not moving -->
+  <GainingJoyBecauseCaravanNotMoving>कैरावैन नहीं चल रहा</GainingJoyBecauseCaravanNotMoving>
+  
+  <!-- Caravan gear -->
+  <!-- EN: Drag to rearrange. -->
+  <DragToRearrange>पुनर्व्यवस्थित करें।</DragToRearrange>
+
+  <!-- Caravan items -->
+  <!-- EN: Assign drug policies -->
+  <AssignDrugPolicies>दवा नीतियाँ</AssignDrugPolicies>
+
+  <!-- Caravan health -->
+  <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
+  <BeCarriedIfSickTip>क्या इस व्यक्ति या जानवर को बीमार होने पर अन्य कारवां सदस्यों द्वारा ले जाया जाना चाहिए।\n\nले जाए गए कारवां सदस्य आराम कर सकते हैं भले ही कारवां चल रहा हो, लेकिन वे इसे धीमा कर देते हैं।</BeCarriedIfSickTip>
+  
+  <!-- Planet -->
+  <!-- EN: Seed -->
+  <PlanetSeed>बीज</PlanetSeed>
+  <!-- EN: Coverage -->
+  <PlanetCoverageShort>कवरेज</PlanetCoverageShort>
+
+</LanguageData>

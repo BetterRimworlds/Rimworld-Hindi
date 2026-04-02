@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
+  <Blacksmith72.description>{PAWN_gender ? लोहार के रूप में, [PAWN_nameDef] ने अपनी उत्कृष्ट गुणवत्ता वाली कारीगरी के लिए ख्याति प्राप्त की। उसने जो तलवारें जाली थीं, उनका उपयोग करने में भी वह अच्छी थी। : एक मध्ययुगीन दुनिया में एक लोहार के रूप में, [PAWN_nameDef] ने अपने काम की उच्च गुणवत्ता के लिए प्रतिष्ठा प्राप्त की। वह जो तलवारें बनाईं, उनका उपयोग करने में भी वह बुरा नहीं था।}</Blacksmith72.description>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.title>लोहार</Blacksmith72.title>
+  <Blacksmith72.titleFemale>लोहार महिला</Blacksmith72.titleFemale>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.titleShort>लोहार</Blacksmith72.titleShort>
+  <Blacksmith72.titleShortFemale>लोहार महिला</Blacksmith72.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price. -->
+  <Herbalist54.description>{PAWN_gender ? [PAWN_nameDef] एक गाँव के पास जंगल में रहती थी। हालाँकि गाँव के कई लोग उससे डरते थे, बीमार ग्रामीण उसके बगीचे में उगाई जाने वाली जड़ी-बूटियों से बने मरहम और पट्टियाँ खरीदने के लिए उसके पास आते थे। वह उनकी मदद करके खुश थी—एक कीमत पर। : [PAWN_nameDef] एक गाँव के पास जंगल में रहता था। हालाँकि गाँव के कई लोग उससे डरते थे, बीमार ग्रामीण उसके बगीचे में उगाए गए जड़ी-बूटियों से बनी मलहम और पट्टियाँ खरीदने के लिए उसके पास आते थे। वह उनकी मदद करने में खुश था—एक कीमत पर।}</Herbalist54.description>
+  <!-- EN: herbalist -->
+  <Herbalist54.title>जड़ी-बूटीवाला</Herbalist54.title>
+  <Herbalist54.titleFemale>वनस्पति विज्ञानी</Herbalist54.titleFemale>
+  <!-- EN: herbalist -->
+  <Herbalist54.titleShort>जड़ी-बूटी विशेषज्ञ</Herbalist54.titleShort>
+  <Herbalist54.titleShortFemale>वनस्पति विज्ञानी महिला</Herbalist54.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
+  <MedievalDoctor40.description>{PAWN_gender ? चिकित्सक [PAWN_nameDef] ने एक मध्ययुगीन ग्रह पर डॉक्टर के रूप में काम किया। वह दृढ़ता से मानती हैं कि अधिकांश बीमारियों का इलाज थोड़ी रक्तस्राव से किया जा सकता है।\n\nवह एक कुशल एनेस्थेटिस्ट भी थीं, जिन्होंने एक विशेष तकनीक विकसित की जिसमें सिर पर ज़ोरदार प्रहार शामिल था। : [PAWN_nameDef] एक मध्ययुगीन ग्रह पर डॉक्टर के रूप में काम करता था। वह दृढ़ता से मानता है कि अधिकांश बीमारियों का इलाज थोड़ी रक्तस्राव से किया जा सकता है।\n\nवह एक कुशल एनेस्थेटिस्ट भी था, जिसने एक विशेष तकनीक विकसित की जिसमें सिर पर ज़ोरदार प्रहार शामिल था।}</MedievalDoctor40.description>
+  <!-- EN: medieval doctor -->
+  <MedievalDoctor40.title>मध्ययुगीन चिकित्सक</MedievalDoctor40.title>
+  <MedievalDoctor40.titleFemale>मध्ययुगीन चिकित्सक</MedievalDoctor40.titleFemale>
+  <!-- EN: quack -->
+  <MedievalDoctor40.titleShort>बत्तख़ का शोर</MedievalDoctor40.titleShort>
+  <MedievalDoctor40.titleShortFemale>बत्तखिनी</MedievalDoctor40.titleShortFemale>
+  
+  <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life can leave one  incapable of participating in technology-driven activities. -->
+  <MedievalFarmOaf58.description>खेती करना, निराई करना, बैलगाड़ी चलाना, ठेलागाड़ी धकेलना। खाइयाँ खोदना, बीज बोना, फसल का अनुमान लगाना।\n\nमध्ययुगीन स्तर के किसान सामान्य अर्थों में शिक्षित नहीं होते हैं, लेकिन उन्हें बिना तकनीक के पौधे उगाने के बारे में बहुत कुछ पता होता है। हालाँकि, ऐसा जीवन जीने से कोई तकनीक-संचालित गतिविधियों में भाग लेने में असमर्थ हो सकता है।</MedievalFarmOaf58.description>
+  <!-- EN: medieval farm oaf -->
+  <MedievalFarmOaf58.title>मध्ययुगीन किसान मूर्ख</MedievalFarmOaf58.title>
+  <MedievalFarmOaf58.titleFemale>मध्ययुगीन किसान महिला</MedievalFarmOaf58.titleFemale>
+  <!-- EN: oaf -->
+  <MedievalFarmOaf58.titleShort>मूर्ख, बलवान व्यक्ति</MedievalFarmOaf58.titleShort>
+  <MedievalFarmOaf58.titleShortFemale>मूर्ख महिला</MedievalFarmOaf58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a lord on a pre-industrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a tool once during that entire time. Now, [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
+  <MedievalLord57.description>{PAWN_gender ? [PAWN_nameDef] एक पूर्व-औद्योगिक ग्रह पर एक शासिका थीं। वह पार्टियों में जाती थीं, अधीनस्थों का प्रबंधन करती थीं, और तलवारबाजी भी सीखी।\n\nउनके कोमल हाथों ने उस पूरे समय में कभी कोई उपकरण नहीं पकड़ा। अब, वह शारीरिक श्रम को अपने से नीचे मानती हैं। : [PAWN_nameDef] एक पूर्व-औद्योगिक ग्रह पर एक स्वामी था। वह पार्टियों में जाता था, अधीनस्थों का प्रबंधन करता था, और तलवारबाजी भी सीखी।\n\nउसके कोमल हाथों ने उस पूरे समय के दौरान कभी भी कोई उपकरण नहीं पकड़ा। अब, वह शारीरिक श्रम को अपने से नीचे मानता है।}</MedievalLord57.description>
+  <!-- EN: medieval lord -->
+  <MedievalLord57.title>मध्यकालीन स्वामी</MedievalLord57.title>
+  <!-- EN: noble -->
+  <MedievalLord57.titleShort>कुलीन</MedievalLord57.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world and [PAWN_pronoun] could always be found telling stories or singing songs.\n\nThe roads were dangerous, so [PAWN_pronoun] is capable of protecting [PAWN_objective]self. However, [PAWN_pronoun] would always move on when there was hard labour to be done. -->
+  <MedievalMinstrel95.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुगीन दुनिया में घूमती-फिरती मनोरंजनकर्ता थीं और उन्हें हमेशा कहानियाँ सुनाते या गाने गाते हुए पाया जा सकता था।\n\nरास्ते खतरनाक थे, इसलिए वह अपनी रक्षा करने में सक्षम है। हालाँकि, जब भी कोई कठिन काम करने की बात आती थी, तो वह हमेशा आगे बढ़ जाती थीं। : [PAWN_nameDef] एक मध्ययुगीन दुनिया में एक यात्रा करने वाला मनोरंजनकर्ता था और उसे हमेशा कहानियाँ सुनाते या गाने गाते हुए पाया जा सकता था।\n\nसड़कें खतरनाक थीं, इसलिए वह अपनी रक्षा करने में सक्षम है। हालाँकि, जब भी कोई कठिन काम करने की बात आती थी, तो वह हमेशा आगे बढ़ जाता था।}</MedievalMinstrel95.description>
+  <!-- EN: medieval minstrel -->
+  <MedievalMinstrel95.title>मध्यकालीन गायक</MedievalMinstrel95.title>
+  <MedievalMinstrel95.titleFemale>मध्यकालीन गायिका</MedievalMinstrel95.titleFemale>
+  <!-- EN: minstrel -->
+  <MedievalMinstrel95.titleShort>गायक, भाट, मनोरंजनकर्ता</MedievalMinstrel95.titleShort>
+  <MedievalMinstrel95.titleShortFemale>गायन करने वाली महिला</MedievalMinstrel95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] had collected. -->
+  <MedievalSailor97.description>{PAWN_gender ? समुद्री जीवविज्ञानी [PAWN_nameDef] ने लकड़ी के जहाज पर समुद्रों का पता लगाया, विदेशी स्थानों से पौधे और पशु नमूने खोजे, और कभी-कभी समुद्री लुटेरों से बचाव किया। उसने समुद्र को इतना प्यार किया कि उसने भूमि पर केवल न्यूनतम काम करने से इनकार कर दिया, सिवाय उन खजानों को बेचने के जिन्हें उसने एकत्र किया था। : [PAWN_nameDef] ने लकड़ी के जहाज पर समुद्रों का पता लगाया, विदेशी स्थानों से पौधे और पशु नमूने खोजे, और कभी-कभी समुद्री लुटेरों से बचाव किया। उसने समुद्र को इतना प्यार किया कि उसने भूमि पर न्यूनतम काम करने से इनकार कर दिया, सिवाय उन खजानों को बेचने के जिन्हें उसने इकट्ठा किया था।}</MedievalSailor97.description>
+  <!-- EN: medieval sailor -->
+  <MedievalSailor97.title>मध्यकालीन नाविक</MedievalSailor97.title>
+  <MedievalSailor97.titleFemale>मध्यकालीन नाविक</MedievalSailor97.titleFemale>
+  <!-- EN: sailor -->
+  <MedievalSailor97.titleShort>नाविक</MedievalSailor97.titleShort>
+  <MedievalSailor97.titleShortFemale>नाविक़ा</MedievalSailor97.titleShortFemale>
+  
+  <!-- EN: On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. [PAWN_nameDef] was that somebody. -->
+  <MessageCarrier77.description>{PAWN_gender ? मध्ययुगीन दुनिया में, संदेश भेजने का सबसे तेज़ तरीका किसी को घोड़े पर सौंपना और उम्मीद करना था कि वह यात्रा से बच जाए। [PAWN_nameDef] वही व्यक्ति थी। : मध्ययुगीन दुनिया में, संदेश भेजने का सबसे तेज़ तरीका किसी को घोड़े पर सौंपना और उम्मीद करना था कि वह यात्रा से बच जाए। [PAWN_nameDef] वही व्यक्ति था।}</MessageCarrier77.description>
+  <!-- EN: message carrier -->
+  <MessageCarrier77.title>संदेशवाहक</MessageCarrier77.title>
+  <MessageCarrier77.titleFemale>संदेश वाहक</MessageCarrier77.titleFemale>
+  <!-- EN: messenger -->
+  <MessageCarrier77.titleShort>संदेशवाहक</MessageCarrier77.titleShort>
+  <MessageCarrier77.titleShortFemale>संदेशवाहक महिला</MessageCarrier77.titleShortFemale>
+  
+  <!-- EN: As the food taster for a medieval king, [PAWN_nameDef] sampled any dish served at the royal table. [PAWN_pronoun] lived a decadent lifestyle at court, growing fat and doing very little real work. -->
+  <Taster16.description>{PAWN_gender ? मध्यकालीन राजा के लिए भोजन चखने वाली, [PAWN_nameDef] ने शाही मेज पर परोसे गए किसी भी व्यंजन का नमूना लिया। उसने दरबार में एक विलासितापूर्ण जीवन जीया, मोटी हो गई और बहुत कम वास्तविक काम किया। : मध्ययुगीन राजा के भोजन परीक्षक के रूप में, [PAWN_nameDef] ने शाही मेज पर परोसे गए किसी भी व्यंजन का नमूना लिया। वह दरबार में एक विलासितापूर्ण जीवन व्यतीत करता था, मोटा होता गया और बहुत कम वास्तविक काम करता था।}</Taster16.description>
+  <!-- EN: taster -->
+  <Taster16.title>स्वाद परीक्षक</Taster16.title>
+  <Taster16.titleFemale>स्वाद-परीक्षक</Taster16.titleFemale>
+  <!-- EN: taster -->
+  <Taster16.titleShort>स्वाद परीक्षक</Taster16.titleShort>
+  <Taster16.titleShortFemale>स्वाद-परीक्षक महिला</Taster16.titleShortFemale>
+  
+</LanguageData>

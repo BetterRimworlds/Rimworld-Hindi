@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anchor -->
+  <Anchor.label>एंकर</Anchor.label>
+  
+  <!-- EN: curly -->
+  <BeardCurly.label>घुंघराले</BeardCurly.label>
+  
+  <!-- EN: boxed -->
+  <Boxed.label>बॉक्सबद्ध</Boxed.label>
+  
+  <!-- EN: braided -->
+  <Braided.label>चोटीदार</Braided.label>
+  
+  <!-- EN: bushy -->
+  <Bushy.label>घना</Bushy.label>
+  
+  <!-- EN: bushy styled -->
+  <BushyStyled.label>घना स्टाइल</BushyStyled.label>
+  
+  <!-- EN: circle -->
+  <Circle.label>वृत्त</Circle.label>
+  
+  <!-- EN: classy -->
+  <Classy.label>क्लासी</Classy.label>
+  
+  <!-- EN: curtain -->
+  <Curtain.label>पर्दा</Curtain.label>
+  
+  <!-- EN: ducktail -->
+  <Ducktail.label>बत्तख पूंछ</Ducktail.label>
+  
+  <!-- EN: fork -->
+  <Fork.label>फोर्क</Fork.label>
+  
+  <!-- EN: french -->
+  <French.label>फ्रेंच</French.label>
+  
+  <!-- EN: full -->
+  <Full.label>पूर्ण</Full.label>
+  
+  <!-- EN: goatee -->
+  <Goatee.label>दाढ़ी का नुकीला भाग</Goatee.label>
+  
+  <!-- EN: lincoln -->
+  <Lincoln.label>लिंकन</Lincoln.label>
+  
+  <!-- EN: long dutch -->
+  <LongDutch.label>लंबा डच</LongDutch.label>
+  
+  <!-- EN: machete -->
+  <Machete.label>मचेते</Machete.label>
+  
+  <!-- EN: moustache -->
+  <Moustache.label>मूंछें</Moustache.label>
+  
+  <!-- EN: mutton chops -->
+  <MuttonChops.label>मेमने की ठोड़ी</MuttonChops.label>
+  
+  <!-- EN: no beard -->
+  <NoBeard.label>बिना दाढ़ी</NoBeard.label>
+  
+  <!-- EN: norse -->
+  <Norse.label>नॉर्स</Norse.label>
+  
+  <!-- EN: old dutch -->
+  <OldDutch.label>पुराना डच</OldDutch.label>
+  
+  <!-- EN: seer -->
+  <Seer.label>दूरदर्शी</Seer.label>
+  
+  <!-- EN: side whiskers -->
+  <SideWhiskers.label>साइड व्हिस्कर्स</SideWhiskers.label>
+  
+  <!-- EN: soul patch -->
+  <SoulPatch.label>सोल पैच</SoulPatch.label>
+  
+  <!-- EN: stache and chops -->
+  <StacheAndChops.label>मूंछें और दाढ़ी</StacheAndChops.label>
+  
+  <!-- EN: stubble -->
+  <Stubble.label>दाढ़ी का रोयाँ</Stubble.label>
+  
+  <!-- EN: tri-braid -->
+  <TriBraid.label>त्रि-चोटी</TriBraid.label>
+  
+  <!-- EN: urist -->
+  <Urist.label>यूरिस्ट</Urist.label>
+  
+  <!-- EN: VanDyke -->
+  <VanDyke.label>वैंडाइक</VanDyke.label>
+  
+  <!-- EN: wizard -->
+  <Wizard.label>विज़ार्ड</Wizard.label>
+  
+</LanguageData>

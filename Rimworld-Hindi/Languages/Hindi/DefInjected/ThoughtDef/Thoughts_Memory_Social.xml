@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: botched my surgery -->
+  <BotchedMySurgery.stages.botched_my_surgery.label>सर्जरी विफल</BotchedMySurgery.stages.botched_my_surgery.label>
+  
+  <!-- EN: broke up with me -->
+  <BrokeUpWithMe.stages.broke_up_with_me.label>विच्छेद</BrokeUpWithMe.stages.broke_up_with_me.label>
+  
+  <!-- EN: broken up with by {0} -->
+  <BrokeUpWithMeMood.stages.broken_up_with_by.label>{0} से टूटा हुआ</BrokeUpWithMeMood.stages.broken_up_with_by.label>
+  <!-- EN: I was just dumped like a load of garbage. -->
+  <BrokeUpWithMeMood.stages.broken_up_with_by.description>मुझे कचरे के ढेर की तरह त्याग दिया गया।</BrokeUpWithMeMood.stages.broken_up_with_by.description>
+  
+  <!-- EN: cheated on me -->
+  <CheatedOnMe.stages.cheated_on_me.label>विश्वासघात</CheatedOnMe.stages.cheated_on_me.label>
+  
+  <!-- EN: cheated on by {0} -->
+  <CheatedOnMeMood.stages.cheated_on_by.label>धोखा {0} द्वारा</CheatedOnMeMood.stages.cheated_on_by.label>
+  <!-- EN: How could someone cheat on me! -->
+  <CheatedOnMeMood.stages.cheated_on_by.description>कोई मुझसे धोखे कैसे कर सकता है!</CheatedOnMeMood.stages.cheated_on_by.description>
+  
+  <!-- EN: chitchat -->
+  <Chitchat.stages.chitchat.label>गपशप</Chitchat.stages.chitchat.label>
+  
+  <!-- EN: crashed together -->
+  <CrashedTogether.stages.crashed_together.label>टक्कर</CrashedTogether.stages.crashed_together.label>
+  
+  <!-- EN: deep talk -->
+  <DeepTalk.stages.deep_talk.label>गहरी बातचीत</DeepTalk.stages.deep_talk.label>
+  
+  <!-- EN: divorced me -->
+  <DivorcedMe.stages.divorced_me.label>तलाक दिया</DivorcedMe.stages.divorced_me.label>
+  
+  <!-- EN: divorced by {0} -->
+  <DivorcedMeMood.stages.divorced_by.label>{0} से तलाक</DivorcedMeMood.stages.divorced_by.label>
+  <!-- EN: We made a commitment, and they just tore it apart. -->
+  <DivorcedMeMood.stages.divorced_by.description>हमने एक प्रतिबद्धता की, और उन्होंने उसे पूरी तरह से नष्ट कर दिया।</DivorcedMeMood.stages.divorced_by.description>
+  
+  <!-- EN: failed to romance me -->
+  <FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>रोमांस विफल</FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>
+  
+  <!-- EN: had to rebuff {0} -->
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>{0} से बचाव</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>
+  <!-- EN: Someone I don't like tried to romance me. -->
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>मुझे किसी ऐसे व्यक्ति ने प्रेम संबंध बनाने की कोशिश की, जिसे मैं पसंद नहीं करता।</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>
+  
+  <!-- EN: forced me to take drugs -->
+  <ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>नशीली दवाओं का सेवन</ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>
+  
+  <!-- EN: forced to take drugs -->
+  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>दवा दबाव</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>
+  <!-- EN: I'm a teetotaler; I would never take drugs by choice. But I was forced! I feel unclean. -->
+  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>मैं पूर्ण निषेधी हूँ; मैं कभी भी स्वेच्छा से नशीले पदार्थ नहीं लूंगा। लेकिन मुझे मजबूर किया गया! मुझे अशुद्ध महसूस हो रहा है।</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>
+  
+  <!-- EN: forced me to take luciferium -->
+  <ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>लूसिफेरियम लेने को मजबूर किया</ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>
+  
+  <!-- EN: forced to take luciferium -->
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>लूसिफेरियम लेने को मजबूर</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>
+  <!-- EN: I'm a body purist; I would never take luciferium by choice. But I was forced! I feel unclean. -->
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>मैं शरीर शुद्धतावादी हूँ; मैं कभी भी स्वेच्छा से ल्यूसिफ़ेरियम नहीं लूंगा। लेकिन मुझे मजबूर किया गया! मैं अशुद्ध महसूस करता हूँ।</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>
+  
+  <!-- EN: got some lovin' -->
+  <GotSomeLovin.stages.got_some_lovin.label>प्यार</GotSomeLovin.stages.got_some_lovin.label>
+  <!-- EN: There's nothing like a tumble between the sheets to lift the mood. -->
+  <GotSomeLovin.stages.got_some_lovin.description>बिस्तर पर उछल-कूद करने से मनोदशा बेहतर होती है।</GotSomeLovin.stages.got_some_lovin.description>
+  
+  <!-- EN: angering fight -->
+  <HadAngeringFight.stages.angering_fight.label>गुस्सा लड़ाई</HadAngeringFight.stages.angering_fight.label>
+  
+  <!-- EN: cathartic fight -->
+  <HadCatharticFight.stages.cathartic_fight.label>विमोचन लड़ाई</HadCatharticFight.stages.cathartic_fight.label>
+  
+  <!-- EN: harmed me -->
+  <HarmedMe.stages.harmed_me.label>नुकसान</HarmedMe.stages.harmed_me.label>
+  
+  <!-- EN: honeymoon phase -->
+  <HoneymoonPhase.stages.honeymoon_phase.label>शहद काल</HoneymoonPhase.stages.honeymoon_phase.label>
+  
+  <!-- EN: insulted -->
+  <Insulted.stages.insulted.label>अपमानित</Insulted.stages.insulted.label>
+  
+  <!-- EN: insulted -->
+  <InsultedMood.stages.insulted.label>अपमानित</InsultedMood.stages.insulted.label>
+  <!-- EN: I've been directly insulted! What an awful person! -->
+  <InsultedMood.stages.insulted.description>मुझे सीधे तौर पर अपमानित किया गया है! कितना भयानक इंसान है!</InsultedMood.stages.insulted.description>
+  
+  <!-- EN: I rejected their proposal -->
+  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>प्रस्ताव अस्वीकृत</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
+  
+  <!-- EN: killed my bonded animal -->
+  <KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>बंधुआ पशु मृत्यु</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
+  
+  <!-- EN: killed my brother -->
+  <KilledMyBrother.stages.killed_my_brother.label>भाई की मृत्यु</KilledMyBrother.stages.killed_my_brother.label>
+  
+  <!-- EN: killed my daughter -->
+  <KilledMyDaughter.stages.killed_my_daughter.label>बेटी की मृत्यु</KilledMyDaughter.stages.killed_my_daughter.label>
+  
+  <!-- EN: killed my father -->
+  <KilledMyFather.stages.killed_my_father.label>पिता की मृत्यु</KilledMyFather.stages.killed_my_father.label>
+  
+  <!-- EN: killed my fiance -->
+  <KilledMyFiance.stages.killed_my_fiance.label>मंगेतर की मृत्यु</KilledMyFiance.stages.killed_my_fiance.label>
+  
+  <!-- EN: killed my friend -->
+  <KilledMyFriend.stages.killed_my_friend.label>मित्र हत्या</KilledMyFriend.stages.killed_my_friend.label>
+  
+  <!-- EN: killed my kin -->
+  <KilledMyKin.stages.killed_my_kin.label>रिश्तेदार की मौत</KilledMyKin.stages.killed_my_kin.label>
+  
+  <!-- EN: killed my lover -->
+  <KilledMyLover.stages.killed_my_lover.label>प्रेमी का वध</KilledMyLover.stages.killed_my_lover.label>
+  
+  <!-- EN: killed my mother -->
+  <KilledMyMother.stages.killed_my_mother.label>मातृ हत्या</KilledMyMother.stages.killed_my_mother.label>
+  
+  <!-- EN: killed my rival -->
+  <KilledMyRival.stages.killed_my_rival.label>प्रतिद्वंद्वी हत्या</KilledMyRival.stages.killed_my_rival.label>
+  
+  <!-- EN: killed my sister -->
+  <KilledMySister.stages.killed_my_sister.label>बहन की हत्या</KilledMySister.stages.killed_my_sister.label>
+  
+  <!-- EN: killed my son -->
+  <KilledMySon.stages.killed_my_son.label>पुत्र की मृत्यु</KilledMySon.stages.killed_my_son.label>
+  
+  <!-- EN: killed my spouse -->
+  <KilledMySpouse.stages.killed_my_spouse.label>जीवनसाथी की मृत्यु</KilledMySpouse.stages.killed_my_spouse.label>
+  
+  <!-- EN: kind words -->
+  <KindWords.stages.kind_words.label>सहानुभूतिपूर्ण बातें</KindWords.stages.kind_words.label>
+  
+  <!-- EN: kind words -->
+  <KindWordsMood.stages.kind_words.label>सहानुभूतिपूर्ण बातें</KindWordsMood.stages.kind_words.label>
+  <!-- EN: I've been bestowed with kind words! What a nice person! -->
+  <KindWordsMood.stages.kind_words.description>मुझे दयालु शब्द मिले हैं! कितना अच्छा इंसान है!</KindWordsMood.stages.kind_words.description>
+  
+  <!-- EN: rapport built -->
+  <RapportBuilt.stages.rapport_built.label>संबंध निर्माण</RapportBuilt.stages.rapport_built.label>
+  
+  <!-- EN: rebuffed me -->
+  <RebuffedMyRomanceAttempt.stages.rebuffed_me.label>तिरस्कार</RebuffedMyRomanceAttempt.stages.rebuffed_me.label>
+  
+  <!-- EN: rebuffed by {0} -->
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>{0} द्वारा ठुकराया गया</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>
+  <!-- EN: I attempted to create a romance, but I got the cold shoulder. Feels bad man. -->
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>मैंने रोमांस बनाने की कोशिश की, लेकिन मुझे ठुकरा दिया गया। बुरा लग रहा है।</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>
+  
+  <!-- EN: recruited me -->
+  <RecruitedMe.stages.recruited_me.label>भर्ती किया</RecruitedMe.stages.recruited_me.label>
+  
+  <!-- EN: rejected my proposal -->
+  <RejectedMyProposal.stages.rejected_my_proposal.label>प्रस्ताव अस्वीकृत</RejectedMyProposal.stages.rejected_my_proposal.label>
+  
+  <!-- EN: my proposal was rejected by {0} -->
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>मेरी प्रस्तावना {0} द्वारा अस्वीकृत की गई।</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>
+  <!-- EN: I thought we were meant to marry. But I was just shot down. -->
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>मुझे लगा था कि हम विवाह करेंगे। लेकिन मुझे अस्वीकार कर दिया गया।</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>
+  
+  <!-- EN: rescued me -->
+  <RescuedMe.stages.rescued_me.label>बचाव</RescuedMe.stages.rescued_me.label>
+  
+  <!-- EN: rescued me -->
+  <RescuedMeByOfferingHelp.stages.rescued_me.label>बचाव</RescuedMeByOfferingHelp.stages.rescued_me.label>
+  <!-- EN: I was rescued by someone! I almost thought I was done for back there. I'm so thankful. -->
+  <RescuedMeByOfferingHelp.stages.rescued_me.description>मुझे किसी ने बचाया! मुझे तो लगा था कि मैं वहीं खत्म हो जाऊंगा। मैं बहुत आभारी हूँ।</RescuedMeByOfferingHelp.stages.rescued_me.description>
+  
+  <!-- EN: slighted -->
+  <Slighted.stages.slighted.label>अपमान</Slighted.stages.slighted.label>
+  
+  <!-- EN: bonded animal given away -->
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.label>जुड़ा पशु दान</SoldMyBondedAnimal.stages.bonded_animal_given_away.label>
+  <!-- EN: My special bonded animal was given away! -->
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.description>मेरे विशेष बंधित जानवर को दे दिया गया!</SoldMyBondedAnimal.stages.bonded_animal_given_away.description>
+  <!-- EN: gave away my bonded animal -->
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>बंधे हुए जानवर का दान कर दिया।</SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>
+  
+  <!-- EN: bonded animal given away -->
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>जुड़ा पशु दान</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>
+  <!-- EN: My special bonded animal was given away! -->
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>मेरे विशेष बंधित जानवर को दे दिया गया!</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>
+  <!-- EN: gave away my bonded animal -->
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>बंधे हुए जानवर का दान कर दिया।</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>
+  
+  <!-- EN: loved one sold -->
+  <SoldMyLovedOne.stages.loved_one_sold.label>प्रिय बेचा गया</SoldMyLovedOne.stages.loved_one_sold.label>
+  <!-- EN: Someone I love was sold to a trader like a piece of meat! -->
+  <SoldMyLovedOne.stages.loved_one_sold.description>मेरे प्रियजन को मांस के एक टुकड़े की तरह व्यापारी को बेच दिया गया!</SoldMyLovedOne.stages.loved_one_sold.description>
+  <!-- EN: sold my loved one -->
+  <SoldMyLovedOne.stages.loved_one_sold.labelSocial>प्रियजन की बिक्री</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
+  
+</LanguageData>

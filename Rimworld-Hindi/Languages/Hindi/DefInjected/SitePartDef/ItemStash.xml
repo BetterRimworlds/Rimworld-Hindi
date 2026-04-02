@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: item stash -->
+  <ItemStash.label>वस्तु भंडार</ItemStash.label>
+  <!-- EN: A stash of valuable items. -->
+  <ItemStash.description>कीमती वस्तुओं का ढेर।</ItemStash.description>
+  
+</LanguageData>

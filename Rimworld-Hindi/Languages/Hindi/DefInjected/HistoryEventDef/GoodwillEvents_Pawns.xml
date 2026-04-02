@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacked member -->
+  <AttackedMember.label>हमला किया सदस्य</AttackedMember.label>
+  
+  <!-- EN: tended to member -->
+  <FriendlyExitedMapTended.label>सदस्य की देखभाल</FriendlyExitedMapTended.label>
+  
+  <!-- EN: guilty prisoner died -->
+  <GuiltyPrisonerDied.label>दोषी कैदी की मृत्यु</GuiltyPrisonerDied.label>
+  
+  <!-- EN: innocent prisoner died -->
+  <InnocentPrisonerDied.label>निर्दोष कैदी की मृत्यु</InnocentPrisonerDied.label>
+  
+  <!-- EN: member captured -->
+  <MemberCaptured.label>सदस्य बंदी</MemberCaptured.label>
+  
+  <!-- EN: member crushed -->
+  <MemberCrushed.label>सदस्य कुचल दिया गया</MemberCrushed.label>
+  
+  <!-- EN: member exited map healthy -->
+  <MemberExitedMapHealthy.label>सदस्य मानचित्र से स्वस्थ निकला</MemberExitedMapHealthy.label>
+  
+  <!-- EN: member killed -->
+  <MemberKilled.label>सदस्य मारा गया</MemberKilled.label>
+  
+  <!-- EN: member died -->
+  <MemberNeutrallyDied.label>सदस्य मृत्यु</MemberNeutrallyDied.label>
+  
+  <!-- EN: member sold -->
+  <MemberSold.label>सदस्य बेचा गया</MemberSold.label>
+  
+  <!-- EN: member stripped -->
+  <MemberStripped.label>सदस्य निष्कासित</MemberStripped.label>
+  
+  <!-- EN: harmful surgery on member -->
+  <PerformedHarmfulSurgery.label>सदस्य पर हानिकारक सर्जरी</PerformedHarmfulSurgery.label>
+  
+  <!-- EN: prisoner died -->
+  <PrisonerDied.label>कैदी की मृत्यु</PrisonerDied.label>
+  
+  <!-- EN: harmed member -->
+  <UsedHarmfulItem.label>घायल सदस्य</UsedHarmfulItem.label>
+  
+  <!-- EN: member's xenogerm absorbed -->
+  <XenogermAbsorbed.label>सदस्य का ज़ेनो-जर्म अवशोषित</XenogermAbsorbed.label>
+  
+</LanguageData>

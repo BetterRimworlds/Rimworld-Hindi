@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_logentry(p=0.5)->[INITIATOR_definite] [damaged_past] [atMaybe] [RECIPIENT_definite] in the [recipient_part0_label] [deflected_result].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [skillAdvMaybe] [damaged_past] [atMaybe] [RECIPIENT_definite] with [implement] [deflected_result].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [skillAdvMaybe] [damaged_past] [atMaybe] [RECIPIENT_definite] [deflected_result].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite], [skillDescMelee], [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label] [deflected_result].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [damaged_inf] from [implement] [deflected_result].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite] [skillAdvMaybe] used [implement] to [damaged_inf] [RECIPIENT_definite] [deflected_result].</li>
+    <li>skillAdvMaybe-></li>
+    <li>skillAdvMaybe->[skillAdv]</li>
+    <li>atMaybe-></li>
+    <li>atMaybe->at</li>
+    <li>deflected_result->, but the [TOOL_label] [deflected] off [harmlessly_opt]</li>
+    <li>deflected_result->, [deflecting] off [RECIPIENT_possessive] armor [harmlessly_opt]</li>
+    <li>harmlessly_opt(p=4)-></li>
+    <li>harmlessly_opt->[harmlessly]</li>
+    <li>harmlessly->harmlessly</li>
+    <li>harmlessly->uselessly</li>
+    <li>deflected->deflected</li>
+    <li>deflected->scraped</li>
+    <li>deflected->slid</li>
+    <li>deflected->grazed</li>
+    <li>deflected->bounced</li>
+    <li>deflected->glanced</li>
+    <li>deflecting->deflecting</li>
+    <li>deflecting->scraping</li>
+    <li>deflecting->sliding</li>
+    <li>deflecting->grazing</li>
+    <li>deflecting->bouncing</li>
+    <li>deflecting->glancing</li>
+  -->
+  <Combat_Deflect.rulePack.rulesStrings>
+    <li>r_logentry(p=0.5)->[INITIATOR_definite] में [damaged_past] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} में [recipient_part0_definite] [deflected_result]।</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [skillAdvMaybe] के साथ [damaged_past] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} साथ [implement] [deflected_result]।</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [skillAdvMaybe] है [damaged_past] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [deflected_result]।</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite] [skillDescMelee], है [damaged_past] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} में [recipient_part0_definite] [deflected_result]में</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite] मारा {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} से [damaged_inf][RECIPIENT_objective] के साथ [implement] [deflected_result]।</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite] [skillAdvMaybe] इस्तेमाल किया [implement] के लिए [damaged_inf] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} [deflected_result]।</li>
+    <li>skillAdvMaybe-></li>
+    <li>skillAdvMaybe->[skillAdv]</li>
+    <li>deflected_result->, लेकिन [TOOL_definite] [deflected] [harmlessly_opt]</li>
+    <li>deflected_result->, [deflecting] उसके कवच पर [harmlessly_opt]</li>
+    <li>harmlessly_opt(p=4)-></li>
+    <li>harmlessly_opt->[harmlessly]</li>
+    <li>harmlessly->हानिरहित ढंग से</li>
+    <li>harmlessly->व्यर्थ में</li>
+    <li>deflected->विक्षेपित हुआ</li>
+    <li>deflected->खुरचा</li>
+    <li>deflected->फिसल गया</li>
+    <li>deflected->छू गया</li>
+    <li>deflected->उछल गया</li>
+    <li>deflected->उसने देखा</li>
+    <li>deflecting->विक्षेपित करते हुए</li>
+    <li>deflecting->खुरच रहा है</li>
+    <li>deflecting->खिसकाते हुए</li>
+    <li>deflecting->चराई करते हुए</li>
+    <li>deflecting->छलांग लगाते हुए</li>
+    <li>deflecting->झलकते हुए</li>
+  </Combat_Deflect.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry(p=0.5)->[RECIPIENT_definite] [skillAdvMaybe] dodged [INITIATOR_definite]'s [damaged_inf] from [implement].</li>
+    <li>r_logentry(p=0.5)->[RECIPIENT_definite] [skillAdvMaybe] dodged [INITIATOR_definite]'s [damaged_inf].</li>
+    <li>skillAdvMaybe-></li>
+    <li>skillAdvMaybe->[skillAdv]</li>
+    <li>result->but [RECIPIENT_definite] leapt out of the way</li>
+    <li>result->but was deceived by [RECIPIENT_definite]'s feint</li>
+    <li>result->but the attack was cleverly avoided</li>
+  -->
+  <Combat_Dodge.rulePack.rulesStrings>
+    <li>r_logentry(p=0.5)->[RECIPIENT_definite] [skillAdvMaybe] टाल दिया [INITIATOR_definite] को दे सका [damaged_inf] से [implement]।</li>
+    <li>r_logentry(p=0.5)->[RECIPIENT_definite] [skillAdvMaybe] टाल दिया [INITIATOR_definite] को दे सका [damaged_inf]।</li>
+    <li>skillAdvMaybe-></li>
+    <li>skillAdvMaybe->[skillAdv]</li>
+    <li>result->लेकिन [RECIPIENT_definite] रास्ते से कूद गया</li>
+    <li>result->लेकिन [RECIPIENT_definite] के धोखे में आ गया। {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "}</li>
+    <li>result->लेकिन हमला स्पष्ट रूप से टल गया।</li>
+  </Combat_Dodge.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry(p=1.0)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label] [strikeAdv].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label], [flavortext_consequence].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite], [skillDescMelee], [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite], [skillDescMelee], [strikeAdv] [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [destroyed_suffix].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] with [implement].</li>
+    <li>r_logentry(p=1,recipient_part_count==0)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] with [implement].</li>
+    <li>r_logentry(p=0.4,recipient_part_count==0)->[INITIATOR_definite] [skillAdv] [damaged_past] [RECIPIENT_definite] with [implement].</li>
+    <li>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [RECIPIENT_possessive] [destroyed_targets]</li>
+    <li>result(p=1,recipient_part_destroyed_count==0)->[damaged_present] [RECIPIENT_possessive] [damaged_targets]</li>
+    <li>result(p=1)->[destroyed_present] [RECIPIENT_possessive] [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets]</li>
+    <li>action(p=1.0)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] with [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite], [skillDescMelee], [damaged_past] [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [damaged_inf] from [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_definite], [skillDescMelee], hit [RECIPIENT_definite] with a [damaged_inf] from [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] used [implement] to [damaged_inf] [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] used [implement] [skillAdv] to [damaged_inf] [RECIPIENT_definite]</li>
+  -->
+  <Combat_Hit.rulePack.rulesStrings>
+    <li>r_logentry(p=1.0)->[INITIATOR_definite] में [damaged_past] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} में [recipient_part0_definite]।</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] में [damaged_past] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} में [recipient_part0_definite] [strikeAdv]।</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] में [damaged_past] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} में [recipient_part0_definite], [flavortext_consequence]।</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite], [skillDescMelee], है [damaged_past] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} में [recipient_part0_definite]।</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite], [skillDescMelee], है [damaged_past] [strikeAdv] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} में [recipient_part0_definite]।</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] का [destroyed_past] [destroyed_targetsDef] {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "}।</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] का [destroyed_past] [destroyed_targetsDef] {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} [destroyed_suffix]।</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] का [destroyed_past] [destroyed_targetsDef] {replace: de [RECIPIENT_definite]; "de &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>del "} के साथ [implement]।</li>
+    <li>r_logentry(p=1,recipient_part_count==0)->[INITIATOR_definite] के साथ [damaged_past] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} साथ [implement]।</li>
+    <li>r_logentry(p=0.4,recipient_part_count==0)->[INITIATOR_definite] [skillAdv] के साथ [damaged_past] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} साथ [implement]।</li>
+    <li>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [RECIPIENT_possessive] [destroyed_targets]</li>
+    <li>result(p=1,recipient_part_destroyed_count==0)->[damaged_present] [RECIPIENT_possessive] [damaged_targets]</li>
+    <li>result(p=1)->[destroyed_present] और [RECIPIENT_possessive] [destroyed_targets] तथा [damaged_present] [RECIPIENT_possessive] [damaged_targets]</li>
+    <li>action(p=1.0)->[INITIATOR_definite] के साथ [damaged_past] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} साथ [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] हैं [damaged_past] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "}</li>
+    <li>action(p=0.3)->[INITIATOR_definite], [skillDescMelee], है [damaged_past] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "}</li>
+    <li>action(p=0.3)->[INITIATOR_definite] मारा {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} के साथ [damaged_inf][RECIPIENT_objective] से [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_definite], [skillDescMelee], मारा {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} के साथ [damaged_inf][RECIPIENT_objective] से [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] इस्तेमाल किया [implement] के लिए [damaged_inf] को [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] इस्तेमाल किया [implement] [skillAdv] के लिए [damaged_inf] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "}</li>
+  </Combat_Hit.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry(p=0.3)->[RECIPIENT_definite] avoided [INITIATOR_definite]'s [WEAPON_label] [damaged_inf].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] missed [RECIPIENT_definite] with a [damaged_inf] from [implement].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [failtype] while trying to [damaged_inf] [RECIPIENT_definite] with [implement].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [failtype] while trying to [damaged_inf] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] tried [skillAdvMaybe] to [damaged_inf] [RECIPIENT_definite], but [failtype].</li>
+    <li>skillAdvMaybe-></li>
+    <li>skillAdvMaybe->[skillAdv]</li>
+    <li>failtype(p=5)->missed</li>
+    <li>failtype->stumbled</li>
+    <li>failtype->tripped</li>
+    <li>failtype->flailed</li>
+    <li>failtype->floundered</li>
+    <li>result(p=4)->but missed</li>
+    <li>result->but hit only air</li>
+    <li>result->but the swing went wide</li>
+    <li>result->but stumbled at the last second</li>
+    <li>result(INITIATOR_flesh!=Mechanoid)->but hesitated at the last second</li>
+  -->
+  <Combat_Miss.rulePack.rulesStrings>
+    <li>r_logentry(p=0.3)->[RECIPIENT_definite] रोका [WEAPON_definite] का [INITIATOR_definite] को चोट लग सके [damaged_inf]।</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] चूक गया {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} और नहीं कर पाया [damaged_inf][RECIPIENT_objective] से [implement]।</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [failtype] कोशिश करते समय [damaged_inf] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "} के साथ [implement]।</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] [failtype] कोशिश करते समय [damaged_inf] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "}।</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite] कोशिश की [damaged_inf] [skillAdvMaybe] {replace: a [RECIPIENT_definite]; "a &lt;color=#D09B61FF>el "-"&lt;color=#D09B61FF>al "}, लेकिन [failtype]।</li>
+    <li>skillAdvMaybe-></li>
+    <li>skillAdvMaybe->[skillAdv]</li>
+    <li>failtype(p=5)->चूक गया</li>
+    <li>failtype->डगमगाया</li>
+    <li>failtype->ठोकर खा गया</li>
+    <li>failtype->फड़फड़ाया</li>
+    <li>failtype->फिसल गया</li>
+    <li>result(p=4)->लेकिन चूक गया</li>
+    <li>result->लेकिन उसने सिर्फ हवा को मारा।</li>
+    <li>result->लेकिन झूलना व्यापक हो गया।</li>
+    <li>result->लेकिन अंतिम क्षण में ठोकर खा गया।</li>
+    <li>result(INITIATOR_flesh!=Mechanoid)->लेकिन अंतिम क्षण में हिचकिचाया।</li>
+  </Combat_Miss.rulePack.rulesStrings>
+  
+</LanguageData>

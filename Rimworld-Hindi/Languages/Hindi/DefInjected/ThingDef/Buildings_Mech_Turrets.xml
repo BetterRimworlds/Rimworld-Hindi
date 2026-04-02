@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: auto-mortar -->
+  <Artillery_AutoMortar.label>स्वचालित तोप</Artillery_AutoMortar.label>
+  <!-- EN: auto-mortar -->
+  <Artillery_AutoMortar.verbs.Verb_Shoot.label>स्वचालित तोप</Artillery_AutoMortar.verbs.Verb_Shoot.label>
+  
+  <!-- EN: light charge blaster -->
+  <Gun_ChargeBlasterHeavyTurret.label>प्रकाश आवेश ब्लास्टर</Gun_ChargeBlasterHeavyTurret.label>
+  <!-- EN: A pulse-charged rapid-fire blaster for area fire. -->
+  <Gun_ChargeBlasterHeavyTurret.description>एक क्षेत्र में तेज़ी से आग लगाने वाला, ऊर्जा से संचालित तेज़-फायर ब्लास्टर।</Gun_ChargeBlasterHeavyTurret.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeBlasterHeavyTurret.tools.barrel.label>बैरल</Gun_ChargeBlasterHeavyTurret.tools.barrel.label>
+  <!-- EN: light charge blaster -->
+  <Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>प्रकाश आवेश ब्लास्टर</Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannonTurret.label>अग्नि तोप</Gun_InfernoCannonTurret.label>
+  <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
+  <Gun_InfernoCannonTurret.description>एक ज्वलनशील-गोली लघु तोप उपकरण। यह एक बड़ा ज्वलनशील युद्धशीर्ष प्रक्षेपित करता है।</Gun_InfernoCannonTurret.description>
+  <!-- EN: barrel -->
+  <Gun_InfernoCannonTurret.tools.barrel.label>बैरल</Gun_InfernoCannonTurret.tools.barrel.label>
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>अग्नि तोप</Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: auto charge turret -->
+  <Turret_AutoChargeBlaster.label>स्वचालित चार्ज तोप</Turret_AutoChargeBlaster.label>
+  <!-- EN: A self-powered turret mounted with a charge blaster. It cannot sense targets at very short ranges. -->
+  <Turret_AutoChargeBlaster.description>एक स्व-संचालित तोप जो चार्ज ब्लास्टर से लैस है। यह बहुत कम दूरी पर लक्ष्यों को महसूस नहीं कर सकता।</Turret_AutoChargeBlaster.description>
+  
+  <!-- EN: auto inferno turret -->
+  <Turret_AutoInferno.label>स्वचालित नरक तोप</Turret_AutoInferno.label>
+  <!-- EN: A self-powered turret mounted with an inferno cannon. It cannot sense targets at very short ranges. -->
+  <Turret_AutoInferno.description>स्व-संचालित तोप, एक नरक तोप से लैस है। यह बहुत कम दूरी पर लक्ष्यों को महसूस नहीं कर सकता।</Turret_AutoInferno.description>
+  
+  <!-- EN: auto mortar -->
+  <Turret_AutoMortar.label>स्वचालित तोप</Turret_AutoMortar.label>
+  <!-- EN: A self-powered, self-loading, automatic mortar. It can hit targets at any distance, over walls, but is quite inaccurate. -->
+  <Turret_AutoMortar.description>यह एक स्व-संचालित, स्व-लोडिंग, स्वचालित मोर्टार है। यह दीवारों के ऊपर से किसी भी दूरी पर लक्ष्यों पर प्रहार कर सकता है, लेकिन यह काफी अविश्वसनीय है।</Turret_AutoMortar.description>
+  
+</LanguageData>

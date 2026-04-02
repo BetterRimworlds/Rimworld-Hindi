@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[faction_leader_nameFull], [faction_leaderTitle] of [faction_name], has sent us a message. [faction_leader_pronoun] wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.[extraLeaderPart][favorRewardDetails]</li>
+    <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nSuccessful peace talks can earn your negotiator a small amount of personal [faction_royalFavorLabel] with [faction_name].</li>
+    <li>favorRewardDetails-></li>
+    <li>extraLeaderPart(priority=1)->\n\n[leaderRoleEffect].[leaderPawnInfo]</li>
+    <li>extraLeaderPart-></li>
+    <li>leaderRoleEffect->Other factions will respect you more if you send your leader to handle the negotiations</li>
+    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)-> [playerFaction_leaderTitle] [playerFaction_leader_nameFull] will get a bonus to the chance of a successful outcome.</li>
+    <li>leaderPawnInfo-></li>
+  -->
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+    <li>questDescription->[faction_leader_nameFull], [faction_leaderTitle] का [faction_name], हमें एक संदेश भेजा है। [faction_leader_pronoun] हमारे साथ पास के एक स्थान पर बात करना चाहता है।\n\nयह उनके गुट के साथ संबंधों को सुधारने और उपहार प्राप्त करने का एक शानदार अवसर हो सकता है, लेकिन सावधान रहें - एक खराब वार्ताकार अच्छे से ज़्यादा नुकसान पहुंचा सकता है और उन्हें क्रोधित भी कर सकता है।[extraLeaderPart][favorRewardDetails]</li>
+    <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nसफल शांति वार्ता आपके वार्ताकार को थोड़ी मात्रा में [faction_royalFavorLabel] गुट के साथ [faction_name]।</li>
+    <li>favorRewardDetails-></li>
+    <li>extraLeaderPart-></li>
+    <li>extraLeaderPart(priority=1)->\n\n[leaderRoleEffect][लीडररोलइफेक्ट].[लीडरपॉनजानकारी][leaderPawnInfo]</li>
+    <li>leaderRoleEffect->अन्य गुट आपका अधिक सम्मान करेंगे यदि आप अपने नेता को बातचीत संभालने के लिए भेजते हैं।</li>
+    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)->[playerFaction_leaderTitle] [playerFaction_leader_nameFull] एक सफल परिणाम की संभावना में बोनस प्राप्त करेगा।</li>
+    <li>leaderPawnInfo-></li>
+  </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[faction_leader_nameDef]'s [peaceTalks]</li>
+    <li>questName->[peaceTalks] with [faction_leader_nameDef]</li>
+    <li>questName->The [peaceTalks]</li>
+    <li>questName->[peaceTalks]</li>
+    <li>peaceTalks->Peace Talks</li>
+    <li>peaceTalks->Diplomacy</li>
+    <li>peaceTalks->Meeting</li>
+  -->
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+    <li>questName->[peaceTalks_mas] का [faction_leader_nameDef]</li>
+    <li>questName->[peaceTalks_neu] के साथ [faction_leader_nameDef]</li>
+    <li>questName->वह [peaceTalks_fem]</li>
+    <li>questName->वे [peaceTalks_pl]</li>
+    <li>questName->[peaceTalks_neu]</li>
+    <li>peaceTalks_mas->शांति वार्ताएं</li>
+    <li>peaceTalks_neu->शांति वार्ताएं</li>
+    <li>peaceTalks_pl->शांति वार्ताएँ</li>
+    <li>peaceTalks_neu->कूटनीति</li>
+    <li>peaceTalks_neu->सभा</li>
+    <li>peaceTalks_fem->कूटनीति</li>
+    <li>peaceTalks_fem->सभा</li>
+  </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>मिशन समाप्त हो गया: [resolvedQuestName]</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The offer of peace talks with [faction_name] has expired. You have failed the quest [resolvedQuestName]. -->
+  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>गुट के साथ शांति वार्ता का प्रस्ताव [faction_name] समाप्त हो गया है। आपने खोज विफल कर दी है [resolvedQuestName]।</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

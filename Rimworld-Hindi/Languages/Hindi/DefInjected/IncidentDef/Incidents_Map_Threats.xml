@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mass animal insanity -->
+  <AnimalInsanityMass.label>सामूहिक पशु उन्माद</AnimalInsanityMass.label>
+  
+  <!-- EN: single animal insanity -->
+  <AnimalInsanitySingle.label>एकल पशु पागलपन</AnimalInsanitySingle.label>
+  
+  <!-- EN: deep drill infestation -->
+  <DeepDrillInfestation.label>गहरा ड्रिल संक्रमण</DeepDrillInfestation.label>
+  <!-- EN: Too deep: Infestation -->
+  <DeepDrillInfestation.letterLabel>गहरा संक्रमण</DeepDrillInfestation.letterLabel>
+  <!-- EN: Vibrations from your deep drills have angered some underground insects. Now they're tunneling upwards to seek revenge!\n\nBeware - the insects have been angered and will try to destroy your base. -->
+  <DeepDrillInfestation.letterText>गहरी ड्रिलिंग से होने वाले कंपन से कुछ भूमिगत कीड़े क्रोधित हो गए हैं। अब वे बदला लेने के लिए ऊपर की ओर सुरंग बना रहे हैं!\n\nसावधान रहें - कीड़े क्रोधित हो गए हैं और आपके आधार को नष्ट करने का प्रयास करेंगे।</DeepDrillInfestation.letterText>
+  
+  <!-- EN: ship part crash (defoliator) -->
+  <DefoliatorShipPartCrash.label>जहाज़ भाग दुर्घटना (पर्णनाशक)</DefoliatorShipPartCrash.label>
+  <!-- EN: Defoliator ship -->
+  <DefoliatorShipPartCrash.letterLabel>डीफ़ोलिएटर जहाज़</DefoliatorShipPartCrash.letterLabel>
+  <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nIts mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
+  <DefoliatorShipPartCrash.letterText>एक प्राचीन जहाज़ का बड़ा टुकड़ा पास में दुर्घटनाग्रस्त हो गया है।\n\nइसका रहस्यमय प्रभाव इसके चारों ओर एक विस्तारित वृत्त में सभी पौधों को मार देगा।\n\nइसे जल्द से जल्द नष्ट कर दें। लेकिन सावधान रहें - यह शायद अपनी रक्षा करेगा।</DefoliatorShipPartCrash.letterText>
+  
+  <!-- EN: infestation -->
+  <Infestation.label>कीट संक्रमण</Infestation.label>
+  <!-- EN: Infestation -->
+  <Infestation.letterLabel>कीट संक्रमण</Infestation.letterLabel>
+  <!-- EN: Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home. -->
+  <Infestation.letterText>विशाल कीड़े आपकी ओर सुरंग बना रहे हैं! वे कुछ ही सेकंड में टूट पड़ेंगे और छत्ते लगाएंगे।\n\nछत्ते अधिक कीड़े और अधिक छत्ते उत्पन्न करेंगे।\n\nयदि आप नहीं चाहते कि कीड़े पूरे क्षेत्र में फैल जाएं, तो छत्तों को नष्ट कर दें। लेकिन सावधान रहें - कीड़े अपने घर की रक्षा करेंगे।</Infestation.letterText>
+  
+  <!-- EN: manhunter pack -->
+  <ManhunterPack.label>मानशिकारी झुंड</ManhunterPack.label>
+  
+  <!-- EN: ship part crash (psychic) -->
+  <PsychicEmanatorShipPartCrash.label>जहाज़ भाग दुर्घटना (मानसिक)</PsychicEmanatorShipPartCrash.label>
+  <!-- EN: Psychic ship -->
+  <PsychicEmanatorShipPartCrash.letterLabel>मानसिक जहाज़</PsychicEmanatorShipPartCrash.letterLabel>
+  <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard machine persona with psychic projection ability. And this persona is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
+  <PsychicEmanatorShipPartCrash.letterText>एक प्राचीन जहाज़ का बड़ा टुकड़ा पास में दुर्घटनाग्रस्त हो गया है।\n\nआपके उपनिवेशवादी इसे अपने मन के पीछे महसूस कर सकते हैं, जो अकल्पनीय कृत्यों के लिए उकसा रहा है। इसमें निश्चित रूप से एक ऑनबोर्ड मशीन व्यक्तित्व है जिसमें मानसिक प्रक्षेपण क्षमता है। और यह व्यक्तित्व अनुकूल नहीं है।\n\nइसे जल्द से जल्द नष्ट कर दें। लेकिन सावधान रहें - यह शायद अपनी रक्षा करेगा।</PsychicEmanatorShipPartCrash.letterText>
+  
+  <!-- EN: enemy raid -->
+  <RaidEnemy.label>शत्रु हमला</RaidEnemy.label>
+  
+</LanguageData>

@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Art.label>Arte</Art.label>
+  <!-- EN: Create beautiful works of art from raw materials. -->
+  <Art.description>कच्चे माल से सुंदर कलाकृतियाँ बनाएँ।</Art.description>
+  <!-- EN: art -->
+  <Art.gerundLabel>कला</Art.gerundLabel>
+  <!-- EN: art -->
+  <Art.labelShort>कला</Art.labelShort>
+  <!-- EN: Artist -->
+  <Art.pawnLabel>कलाकार</Art.pawnLabel>
+  <!-- EN: Do art at -->
+  <Art.verb>कला कार्य</Art.verb><!-- EN: Do art at -->
+  
+  <BasicWorker.label>कला करो</BasicWorker.label>
+  <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
+  <BasicWorker.description>अकुशल और आसान कार्य। कैदियों को रिहा करें और मशीनों पर स्विच फ़्लिक करें।</BasicWorker.description>
+  <!-- EN: basic tasks -->
+  <BasicWorker.gerundLabel>मूल कार्य</BasicWorker.gerundLabel>
+  <!-- EN: basic -->
+  <BasicWorker.labelShort>मूल</BasicWorker.labelShort>
+  <!-- EN: Worker -->
+  <BasicWorker.pawnLabel>श्रमिक</BasicWorker.pawnLabel>
+  <!-- EN: Deal with -->
+  <BasicWorker.verb>व्यवहार</BasicWorker.verb><!-- EN: Deal with -->
+  
+  <Cleaning.label>व्यवहार</Cleaning.label>
+  <!-- EN: Clear snow, pollution and clean the floor in the home area. -->
+  <Cleaning.description>बर्फ़ साफ़ करना, प्रदूषण कम करना और घर के क्षेत्र में फ़र्श साफ़ करना।</Cleaning.description>
+  <!-- EN: cleaning -->
+  <Cleaning.gerundLabel>सफाई</Cleaning.gerundLabel>
+  <!-- EN: clean -->
+  <Cleaning.labelShort>साफसफाई</Cleaning.labelShort>
+  <!-- EN: Cleaner -->
+  <Cleaning.pawnLabel>सफाईकर्मी</Cleaning.pawnLabel>
+  <!-- EN: Clean -->
+  <Cleaning.verb>साफसफाई</Cleaning.verb><!-- EN: Clean -->
+  
+  <Construction.label>साफ़-सफाई</Construction.label>
+  <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
+  <Construction.description>नियत वस्तुओं का निर्माण करें, और क्षतिग्रस्त या टूटी हुई इमारतों की मरम्मत करें।</Construction.description>
+  <!-- EN: constructing -->
+  <Construction.gerundLabel>निर्माण</Construction.gerundLabel>
+  <!-- EN: construct -->
+  <Construction.labelShort>निर्माण</Construction.labelShort>
+  <!-- EN: Constructor -->
+  <Construction.pawnLabel>निर्माण</Construction.pawnLabel>
+  <!-- EN: Construct -->
+  <Construction.verb>निर्माण</Construction.verb><!-- EN: Construct -->
+  
+  <Cooking.label>निर्माण</Cooking.label>
+  <!-- EN: Prepare meals and butcher meat. -->
+  <Cooking.description>भोजन तैयार करना और मांस काटना।</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.gerundLabel>खाना बनाना</Cooking.gerundLabel>
+  <!-- EN: cook -->
+  <Cooking.labelShort>पकाना</Cooking.labelShort>
+  <!-- EN: Cook -->
+  <Cooking.pawnLabel>पकाना</Cooking.pawnLabel>
+  <!-- EN: Cook -->
+  <Cooking.verb>पकाना</Cooking.verb><!-- EN: Cook -->
+  
+  <Crafting.label>पाककर्ता</Crafting.label>
+  <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
+  <Crafting.description>कार्यस्थलों पर सामान्य अकुशल श्रम करें। इसमें पत्थर काटना, धातु गलाने और अन्य कार्य शामिल हैं।</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.gerundLabel>बनाने का काम</Crafting.gerundLabel>
+  <!-- EN: craft -->
+  <Crafting.labelShort>बनाना</Crafting.labelShort>
+  <!-- EN: Crafter -->
+  <Crafting.pawnLabel>शिल्पकार</Crafting.pawnLabel>
+  <!-- EN: Craft at -->
+  <Crafting.verb>बनाना</Crafting.verb><!-- EN: Craft at -->
+  
+  <Doctor.label>बनाएँ</Doctor.label>
+  <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
+  <Doctor.description>बीमारों का इलाज करें, उन्हें भोजन लाएँ, उनका मनोबल बढ़ाएँ, और निर्धारित सर्जरी करें। डॉक्टर उपनिवेशवादियों और कैदियों दोनों की देखभाल करेंगे।</Doctor.description>
+  <!-- EN: doctoring -->
+  <Doctor.gerundLabel>चिकित्सा</Doctor.gerundLabel>
+  <!-- EN: doctor -->
+  <Doctor.labelShort>चिकित्सक</Doctor.labelShort>
+  <!-- EN: Doctor -->
+  <Doctor.pawnLabel>चिकित्सक</Doctor.pawnLabel>
+  <!-- EN: Care for -->
+  <Doctor.verb>देखभाल</Doctor.verb><!-- EN: Care for -->
+  
+  <Firefighter.label>देखभाल</Firefighter.label>
+  <!-- EN: Extinguish fires in the colony. -->
+  <Firefighter.description>कॉलोनी में आग बुझाना।</Firefighter.description>
+  <!-- EN: firefighting -->
+  <Firefighter.gerundLabel>अग्निशमन</Firefighter.gerundLabel>
+  <!-- EN: firefight -->
+  <Firefighter.labelShort>गोलीबारी</Firefighter.labelShort>
+  <!-- EN: Firefighter -->
+  <Firefighter.pawnLabel>अग्निशमन</Firefighter.pawnLabel>
+  <!-- EN: Extinguish -->
+  <Firefighter.verb>बुझाना</Firefighter.verb><!-- EN: Extinguish -->
+  
+  <Growing.label>बुझाना</Growing.label>
+  <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
+  <Growing.description>बीज बोना, फसल काटना, और जंगली पौधे एकत्र करना।</Growing.description>
+  <!-- EN: growing -->
+  <Growing.gerundLabel>खेती</Growing.gerundLabel>
+  <!-- EN: grow -->
+  <Growing.labelShort>खेती</Growing.labelShort>
+  <!-- EN: Grower -->
+  <Growing.pawnLabel>खेती</Growing.pawnLabel>
+  <!-- EN: Grow -->
+  <Growing.verb>खेती</Growing.verb><!-- EN: Grow -->
+  
+  <Handling.label>खेती</Handling.label>
+  <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
+  <Handling.description>पालतू बनाना, प्रशिक्षित करना, संसाधनों का संग्रह करना और जानवरों का वध करना।</Handling.description>
+  <!-- EN: handling -->
+  <Handling.gerundLabel>व्यवहार</Handling.gerundLabel>
+  <!-- EN: handle -->
+  <Handling.labelShort>संभालना</Handling.labelShort>
+  <!-- EN: Handler -->
+  <Handling.pawnLabel>देखभालकर्ता</Handling.pawnLabel>
+  <!-- EN: Handle -->
+  <Handling.verb>संभालना</Handling.verb><!-- EN: Handle -->
+  
+  <Hauling.label>हैंडल</Hauling.label>
+  <!-- EN: Carry things to where they need to be. -->
+  <Hauling.description>ज़रूरी चीज़ों को उनकी जगह पर ले जाना।</Hauling.description>
+  <!-- EN: hauling -->
+  <Hauling.gerundLabel>ढोना</Hauling.gerundLabel>
+  <!-- EN: haul -->
+  <Hauling.labelShort>ले जाना</Hauling.labelShort>
+  <!-- EN: Hauler -->
+  <Hauling.pawnLabel>वाहक</Hauling.pawnLabel>
+  <!-- EN: Haul -->
+  <Hauling.verb>ले जाना</Hauling.verb><!-- EN: Haul -->
+  
+  <Hunting.label>सामान ढोना</Hunting.label>
+  <!-- EN: Kill animals which are designated to be hunted. -->
+  <Hunting.description>शिकार के लिए नामित जानवरों को मारें।</Hunting.description>
+  <!-- EN: hunting -->
+  <Hunting.gerundLabel>शिकार</Hunting.gerundLabel>
+  <!-- EN: hunt -->
+  <Hunting.labelShort>शिकार</Hunting.labelShort>
+  <!-- EN: Hunter -->
+  <Hunting.pawnLabel>शिकारी</Hunting.pawnLabel>
+  <!-- EN: Hunt -->
+  <Hunting.verb>शिकार</Hunting.verb><!-- EN: Hunt -->
+  
+  <Mining.label>शिकार</Mining.label>
+  <!-- EN: Digging and drilling. -->
+  <Mining.description>खोदना और ड्रिलिंग।</Mining.description>
+  <!-- EN: mining -->
+  <Mining.gerundLabel>खनन</Mining.gerundLabel>
+  <!-- EN: mine -->
+  <Mining.labelShort>खनन</Mining.labelShort>
+  <!-- EN: Miner -->
+  <Mining.pawnLabel>खनन</Mining.pawnLabel>
+  <!-- EN: Mine -->
+  <Mining.verb>खनन</Mining.verb><!-- EN: Mine -->
+  
+  <Patient.label>खनन</Patient.label>
+  <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
+  <Patient.description>गंभीर स्वास्थ्य स्थिति होने पर इलाज के लिए चिकित्सा बिस्तर पर जाएं।</Patient.description>
+  <!-- EN: patienting -->
+  <Patient.gerundLabel>धैर्य</Patient.gerundLabel>
+  <!-- EN: patient -->
+  <Patient.labelShort>रोगी</Patient.labelShort>
+  <!-- EN: Patient -->
+  <Patient.pawnLabel>मरीज़</Patient.pawnLabel>
+  <!-- EN: Become patient -->
+  <Patient.verb>धैर्य</Patient.verb><!-- EN: Become patient -->
+  
+  <PatientBedRest.label>धैर्य बनें</PatientBedRest.label>
+  <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
+  <PatientBedRest.description>बिस्तर पर आराम करके गैर-जानलेवा चिकित्सा समस्याओं से ठीक होना।</PatientBedRest.description>
+  <!-- EN: resting in bed -->
+  <PatientBedRest.gerundLabel>बिस्तर पर आराम</PatientBedRest.gerundLabel>
+  <!-- EN: bed rest -->
+  <PatientBedRest.labelShort>बिस्तर आराम</PatientBedRest.labelShort>
+  <!-- EN: Bed rester -->
+  <PatientBedRest.pawnLabel>बिस्तर पर आराम</PatientBedRest.pawnLabel>
+  <!-- EN: Become patient -->
+  <PatientBedRest.verb>धैर्य</PatientBedRest.verb><!-- EN: Become patient -->
+  
+  <PlantCutting.label>धैर्य बनें</PlantCutting.label>
+  <!-- EN: Cut or harvest plants as designated. -->
+  <PlantCutting.description>निर्दिष्ट पौधों को काटें या फसल लें।</PlantCutting.description>
+  <!-- EN: plant cutting -->
+  <PlantCutting.gerundLabel>पौधा कटाई</PlantCutting.gerundLabel>
+  <!-- EN: plant cut -->
+  <PlantCutting.labelShort>पौधा काटें</PlantCutting.labelShort>
+  <!-- EN: Plant cutter -->
+  <PlantCutting.pawnLabel>पौधा काटने वाला</PlantCutting.pawnLabel>
+  <!-- EN: Cut -->
+  <PlantCutting.verb>काटना</PlantCutting.verb><!-- EN: Cut -->
+  
+  <Research.label>काटना</Research.label>
+  <!-- EN: Perform research work. -->
+  <Research.description>अनुसंधान कार्य करना।</Research.description>
+  <!-- EN: researching -->
+  <Research.gerundLabel>अनुसंधान</Research.gerundLabel>
+  <!-- EN: research -->
+  <Research.labelShort>अन्वेषण</Research.labelShort>
+  <!-- EN: Researcher -->
+  <Research.pawnLabel>शोधकर्ता</Research.pawnLabel>
+  <!-- EN: Research at -->
+  <Research.verb>अनुसंधान पर</Research.verb><!-- EN: Research at -->
+  
+  <Smithing.label>अनुसंधान पर</Smithing.label>
+  <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. Also repair mechanoids, if the colonist is a mechanitor. -->
+  <Smithing.description>कच्चे माल से हथियार और उपकरण बनाएं, चाहे लोहार के रूप में या मशीनिंग द्वारा। यदि उपनिवेशवादी एक मैकेनिस्टर है, तो मैकेनॉइड्स की मरम्मत भी करें।</Smithing.description>
+  <!-- EN: smithing -->
+  <Smithing.gerundLabel>लोहारगिरी</Smithing.gerundLabel>
+  <!-- EN: smith -->
+  <Smithing.labelShort>लोहारगिरी</Smithing.labelShort>
+  <!-- EN: Smith -->
+  <Smithing.pawnLabel>लोहारगिरी</Smithing.pawnLabel>
+  <!-- EN: Smith at -->
+  <Smithing.verb>लोहार कार्य</Smithing.verb><!-- EN: Smith at -->
+  
+  <Tailoring.label>लोहार पर</Tailoring.label>
+  <!-- EN: Create apparel from raw materials. -->
+  <Tailoring.description>कच्चे माल से परिधान बनाएँ।</Tailoring.description>
+  <!-- EN: tailoring -->
+  <Tailoring.gerundLabel>सिलाई</Tailoring.gerundLabel>
+  <!-- EN: tailor -->
+  <Tailoring.labelShort>सिलाई</Tailoring.labelShort>
+  <!-- EN: Tailor -->
+  <Tailoring.pawnLabel>सिलाई</Tailoring.pawnLabel>
+  <!-- EN: Tailor at -->
+  <Tailoring.verb>सिलाई</Tailoring.verb><!-- EN: Tailor at -->
+  
+  <Warden.label>दर्जी पर</Warden.label>
+  <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
+  <Warden.description>कैदियों का प्रबंधन करें, उन्हें भोजन खिलाएं, उनसे बातचीत करें और उन्हें भर्ती करें।</Warden.description>
+  <!-- EN: wardening -->
+  <Warden.gerundLabel>कैदी प्रबंधन</Warden.gerundLabel>
+  <!-- EN: warden -->
+  <Warden.labelShort>कोठरीपाल</Warden.labelShort>
+  <!-- EN: Warden -->
+  <Warden.pawnLabel>रक्षक</Warden.pawnLabel>
+  <!-- EN: Handle -->
+  <Warden.verb>संभालना</Warden.verb>
+  
+</LanguageData>

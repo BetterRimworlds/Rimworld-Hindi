@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: denture -->
+  <Denture.label>कृत्रिम दांत</Denture.label>
+  <!-- EN: An installed denture. Allows for some basic functionality like eating and talking. -->
+  <Denture.description>स्थापित दंत प्रत्यारोपण। खाने और बोलने जैसी कुछ बुनियादी कार्यक्षमता की अनुमति देता है।</Denture.description>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>कृत्रिम दांत</Denture.labelNoun>
+  
+  <!-- EN: peg leg -->
+  <PegLeg.label>लकड़ी का पैर</PegLeg.label>
+  <!-- EN: An installed peg leg. Allows the user to walk again, albeit not very well. -->
+  <PegLeg.description>एक स्थापित पेग पैर। उपयोगकर्ता को फिर से चलने की अनुमति देता है, हालांकि बहुत अच्छी तरह से नहीं।</PegLeg.description>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>लकड़ी का पैर</PegLeg.labelNoun>
+  
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>लकड़ी का पैर</WoodenFoot.label>
+  <!-- EN: An installed wooden foot. Restores some stability to the user, but without finer motor skills. -->
+  <WoodenFoot.description>एक स्थापित लकड़ी का पैर। उपयोगकर्ता को कुछ स्थिरता बहाल करता है, लेकिन सूक्ष्म मोटर कौशल के बिना।</WoodenFoot.description>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>लकड़ी का पैर</WoodenFoot.labelNoun>
+  
+  <!-- EN: wooden hand -->
+  <WoodenHand.label>लकड़ी का हाथ</WoodenHand.label>
+  <!-- EN: An installed wooden hand. Better than a stump, but not by much. -->
+  <WoodenHand.description>एक स्थापित लकड़ी का हाथ। एक लट्ठे से बेहतर, लेकिन बहुत अधिक नहीं।</WoodenHand.description>
+  <!-- EN: a wooden hand -->
+  <WoodenHand.labelNoun>लकड़ी का हाथ</WoodenHand.labelNoun>
+  
+</LanguageData>

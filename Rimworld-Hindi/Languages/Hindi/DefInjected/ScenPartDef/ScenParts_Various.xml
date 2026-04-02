@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: create incident -->
+  <CreateIncident.label>घटना निर्माण</CreateIncident.label>
+  
+  <!-- EN: create quest -->
+  <CreateQuest.label>कार्य निर्माण</CreateQuest.label>
+  
+  <!-- EN: disable incident -->
+  <DisableIncident.label>घटना अक्षम करें</DisableIncident.label>
+  
+  <!-- EN: disable quest -->
+  <DisableQuest.label>क्वेस्ट अक्षम करें</DisableQuest.label>
+  
+  <!-- EN: forced health condition -->
+  <ForcedHediff.label>स्वास्थ्य स्थिति</ForcedHediff.label>
+  
+  <!-- EN: forced trait -->
+  <ForcedTrait.label>विशिष्ट गुण</ForcedTrait.label>
+  
+  <!-- EN: planetkiller weapon incoming -->
+  <GameCondition_Planetkiller.label>ग्रह-विनाशक हथियार</GameCondition_Planetkiller.label>
+  
+  <!-- EN: game start dialog -->
+  <GameStartDialog.label>खेल आरंभ संवाद</GameStartDialog.label>
+  
+  <!-- EN: naked -->
+  <Naked.label>नग्न</Naked.label>
+  
+  <!-- EN: no possessions -->
+  <NoPossessions.label>कोई स्वामित्व नहीं</NoPossessions.label>
+  
+  <!-- EN: characters explode on death -->
+  <OnPawnDeathExplode.label>मृत्यु पर विस्फोट</OnPawnDeathExplode.label>
+  
+  <!-- EN: allowed age range -->
+  <PawnFilter_Age.label>उम्र सीमा</PawnFilter_Age.label>
+  
+  <!-- EN: permanent game condition -->
+  <PermanentGameCondition.label>स्थायी खेल स्थिति</PermanentGameCondition.label>
+  
+  <!-- EN: planet layer type -->
+  <PlanetLayer.label>ग्रह परत प्रकार</PlanetLayer.label>
+  
+  <!-- EN: disallow building -->
+  <Rule_DisallowBuilding.label>निर्माण निषेध</Rule_DisallowBuilding.label>
+  
+  <!-- EN: cannot hunt -->
+  <Rule_DisallowDesignator_Hunt.label>शिकार अक्षम</Rule_DisallowDesignator_Hunt.label>
+  <!-- EN: Cannot hunt. -->
+  <Rule_DisallowDesignator_Hunt.description>शिकार करने में असमर्थ।</Rule_DisallowDesignator_Hunt.description>
+  
+  <!-- EN: cannot mine -->
+  <Rule_DisallowDesignator_Mine.label>खनन संभव नहीं</Rule_DisallowDesignator_Mine.label>
+  <!-- EN: Cannot mine. -->
+  <Rule_DisallowDesignator_Mine.description>खनन संभव नहीं है।</Rule_DisallowDesignator_Mine.description>
+  
+  <!-- EN: cannot tame -->
+  <Rule_DisallowDesignator_Tame.label>पालतू नहीं</Rule_DisallowDesignator_Tame.label>
+  <!-- EN: Cannot tame animals. -->
+  <Rule_DisallowDesignator_Tame.description>जानवरों को पालना संभव नहीं है।</Rule_DisallowDesignator_Tame.description>
+  
+  <!-- EN: cannot sow -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>बीज बोना संभव नहीं</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <!-- EN: Cannot sow plants on the ground. -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>ज़मीन पर पौधे बोना संभव नहीं है।</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  
+  <!-- EN: scattered randomly -->
+  <ScatterThingsAnywhere.label>यादृच्छिक फैलाव</ScatterThingsAnywhere.label>
+  
+  <!-- EN: start near -->
+  <ScatterThingsNearPlayerStart.label>शुरुआत पास</ScatterThingsNearPlayerStart.label>
+  
+  <!-- EN: set need level -->
+  <SetNeedLevel.label>आवश्यकता स्तर</SetNeedLevel.label>
+  
+  <!-- EN: start with animal(s) -->
+  <StartingAnimal.label>पशु</StartingAnimal.label>
+  
+  <!-- EN: start with research -->
+  <StartingResearch.label>अनुसंधान</StartingResearch.label>
+  
+  <!-- EN: start with -->
+  <StartingThing_Defined.label>शुरुआत</StartingThing_Defined.label>
+  
+  <!-- EN: stat multiplier -->
+  <StatFactor.label>गुणक</StatFactor.label>
+  
+</LanguageData>

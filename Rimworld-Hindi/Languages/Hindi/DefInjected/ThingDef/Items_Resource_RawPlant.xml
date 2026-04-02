@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hay -->
+  <Hay.label>भूसा</Hay.label>
+  <!-- EN: Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans. -->
+  <Hay.description>पोषक तत्वों से भरपूर घास और कोंपलें, काटी और भंडारण के लिए संकुचित की गईं। हे (Hay) अच्छा पशु चारा है, लेकिन मनुष्यों के लिए खाने योग्य नहीं है।</Hay.description>
+  
+  <!-- EN: psychoid leaves -->
+  <PsychoidLeaves.label>साइकोइड पत्ते</PsychoidLeaves.label>
+  <!-- EN: Raw cut leaves of a psychoid plant. Can be refined into various form of the stimulant drug psychite. -->
+  <PsychoidLeaves.description>मनोवैज्ञानिक पौधे की कच्ची कटी पत्तियां। इसे विभिन्न रूपों में उत्तेजक दवा साइकाइट में परिष्कृत किया जा सकता है।</PsychoidLeaves.description>
+  
+  <!-- EN: agave fruit -->
+  <RawAgave.label>अगावे फल</RawAgave.label>
+  <!-- EN: Raw agave fruit. -->
+  <RawAgave.description>कच्चा एगेव फल।</RawAgave.description>
+  
+  <!-- EN: berries -->
+  <RawBerries.label>बेरी</RawBerries.label>
+  <!-- EN: Assorted berries. Nice to eat, even when raw. -->
+  <RawBerries.description>विभिन्न जामुन। कच्चा होने पर भी खाने में अच्छा लगता है।</RawBerries.description>
+  
+  <!-- EN: corn -->
+  <RawCorn.label>मक्का</RawCorn.label>
+  <!-- EN: Raw corn. -->
+  <RawCorn.description>कच्चा मक्का।</RawCorn.description>
+  
+  <!-- EN: raw fungus -->
+  <RawFungus.label>कच्चा कवक</RawFungus.label>
+  <!-- EN: Raw fungus. -->
+  <RawFungus.description>कच्चा कवक।</RawFungus.description>
+  
+  <!-- EN: hops -->
+  <RawHops.label>हॉप्स</RawHops.label>
+  <!-- EN: Raw hops. A flavoring and preserving agent that is necessary for making beer. -->
+  <RawHops.description>कच्चे हॉप्स। यह एक स्वादिष्ट बनाने और संरक्षित करने वाला एजेंट है जो बीयर बनाने के लिए आवश्यक है।</RawHops.description>
+  
+  <!-- EN: potatoes -->
+  <RawPotatoes.label>आलू</RawPotatoes.label>
+  <!-- EN: Raw potatoes. -->
+  <RawPotatoes.description>कच्चे आलू।</RawPotatoes.description>
+  
+  <!-- EN: rice -->
+  <RawRice.label>चावल</RawRice.label>
+  <!-- EN: Raw rice. -->
+  <RawRice.description>कच्चा चावल।</RawRice.description>
+  
+  <!-- EN: smokeleaf leaves -->
+  <SmokeleafLeaves.label>स्मोकलीफ पत्तियाँ</SmokeleafLeaves.label>
+  <!-- EN: Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joints at a crafting spot. -->
+  <SmokeleafLeaves.description>स्मोकलीफ पौधे की कच्ची कटी पत्तियाँ। इन्हें क्राफ्टिंग स्पॉट पर धूम्रपान करने योग्य जोड़ में रोल किया जा सकता है।</SmokeleafLeaves.description>
+  
+</LanguageData>

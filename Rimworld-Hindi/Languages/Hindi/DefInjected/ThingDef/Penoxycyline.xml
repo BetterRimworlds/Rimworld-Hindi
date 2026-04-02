@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: penoxycyline -->
+  <Penoxycyline.label>पेनोक्सीसाइक्लिन</Penoxycyline.label>
+  <!-- EN: A drug for preventing infections before they take hold. Blocks malaria, sleeping sickness, plague. Must be taken every five days to remain effective.\n\nThis drug only prevents new infections. It does not cure existing infections - even those that are not yet discovered. -->
+  <Penoxycyline.description>एक दवा जो संक्रमण को पकड़ने से पहले रोकने के लिए है। मलेरिया, नींद की बीमारी, प्लेग को रोकता है। प्रभावी रहने के लिए हर पांच दिन में लेना ज़रूरी है।\n\nयह दवा केवल नए संक्रमणों को रोकती है। यह मौजूदा संक्रमणों का इलाज नहीं करती—भले ही वे अभी तक खोजे न गए हों।</Penoxycyline.description>
+  <!-- EN: Take {0} -->
+  <Penoxycyline.ingestible.ingestCommandString>{0} लें</Penoxycyline.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <Penoxycyline.ingestible.ingestReportString>ले रहा {0}</Penoxycyline.ingestible.ingestReportString>
+  
+</LanguageData>

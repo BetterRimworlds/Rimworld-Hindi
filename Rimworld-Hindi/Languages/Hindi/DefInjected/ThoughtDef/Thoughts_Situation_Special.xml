@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beautiful aurora -->
+  <Aurora.stages.beautiful_aurora.label>सुंदर आभा</Aurora.stages.beautiful_aurora.label>
+  <!-- EN: The view is amazing. -->
+  <Aurora.stages.beautiful_aurora.description>दृश्य अद्भुत है।</Aurora.stages.beautiful_aurora.description>
+  
+  <!-- EN: colonist left unburied -->
+  <ColonistLeftUnburied.stages.colonist_left_unburied.label>अधोदित उपनिवेशवादी</ColonistLeftUnburied.stages.colonist_left_unburied.label>
+  <!-- EN: One of us died and we're just leaving them lying in the open. Nobody should be left like that. People deserve a decent burial. -->
+  <ColonistLeftUnburied.stages.colonist_left_unburied.description>हममें से किसी की मृत्यु हो गई है और हम उन्हें खुले में ही छोड़ रहे हैं। किसी को भी इस तरह नहीं छोड़ा जाना चाहिए। लोगों को एक सभ्य अंतिम संस्कार का अधिकार है।</ColonistLeftUnburied.stages.colonist_left_unburied.description>
+  
+  <!-- EN: minor passion for my work -->
+  <DoingPassionateWork.stages.minor_passion_for_my_work.label>कार्य अनुराग</DoingPassionateWork.stages.minor_passion_for_my_work.label>
+  <!-- EN: I enjoy my work. -->
+  <DoingPassionateWork.stages.minor_passion_for_my_work.description>मुझे अपने काम में आनंद आता है।</DoingPassionateWork.stages.minor_passion_for_my_work.description>
+  <!-- EN: burning passion for my work -->
+  <DoingPassionateWork.stages.burning_passion_for_my_work.label>कार्य उत्साह</DoingPassionateWork.stages.burning_passion_for_my_work.label>
+  <!-- EN: I love my work. I could do this all day, every day. -->
+  <DoingPassionateWork.stages.burning_passion_for_my_work.description>मुझे अपना काम पसंद है। मैं इसे हर दिन, लगातार कर सकता हूँ।</DoingPassionateWork.stages.burning_passion_for_my_work.description>
+  
+  <!-- EN: joywire -->
+  <Joywire.stages.joywire.label>आनंद तार</Joywire.stages.joywire.label>
+  <!-- EN: It feels amazing. -->
+  <Joywire.stages.joywire.description>यह अद्भुत महसूस होता है।</Joywire.stages.joywire.description>
+  
+  <!-- EN: missing tongue -->
+  <MissingTongue.stages.missing_tongue.label>जीभ का अभाव</MissingTongue.stages.missing_tongue.label>
+  <!-- EN: I am missing my tongue. It is so frustrating not being able to speak! -->
+  <MissingTongue.stages.missing_tongue.description>mujhe meri zubaan nahin hai. bolne mein asahayogita bahut pareshan karne wali hai!</MissingTongue.stages.missing_tongue.description>
+  
+  <!-- EN: naked -->
+  <Naked.stages.naked.label>नग्नता</Naked.stages.naked.label>
+  <!-- EN: I'm naked. This is humiliating. -->
+  <Naked.stages.naked.description>मैं नग्न हूँ। यह अपमानजनक है।</Naked.stages.naked.description>
+  
+  <!-- EN: minor pain -->
+  <Pain.stages.minor_pain.label>हल्का दर्द</Pain.stages.minor_pain.label>
+  <!-- EN: Ow... That hurts. -->
+  <Pain.stages.minor_pain.description>ओह… यह दर्द कर रहा है।</Pain.stages.minor_pain.description>
+  <!-- EN: serious pain -->
+  <Pain.stages.serious_pain.label>गंभीर दर्द</Pain.stages.serious_pain.label>
+  <!-- EN: Ughhh... When will it end? -->
+  <Pain.stages.serious_pain.description>उफ़… यह कब ख़त्म होगा?</Pain.stages.serious_pain.description>
+  <!-- EN: intense pain -->
+  <Pain.stages.intense_pain.label>तीव्र दर्द</Pain.stages.intense_pain.label>
+  <!-- EN: Make it stop... make it stop... make it stop... -->
+  <Pain.stages.intense_pain.description>इसे रोकें… इसे रोकें… इसे रोकें…</Pain.stages.intense_pain.description>
+  <!-- EN: mind-shattering pain -->
+  <Pain.stages.mindshattering_pain.label>मानसिक पीड़ा</Pain.stages.mindshattering_pain.label>
+  <!-- EN: AAAAAHHH! -->
+  <Pain.stages.mindshattering_pain.description>आह!</Pain.stages.mindshattering_pain.description>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicDrone.stages.psychic_soothe.label>मानसिक शांति</PsychicDrone.stages.psychic_soothe.label>
+  <!-- EN: It's like a calming voice at the back of my mind, soothing me, settling my nerves. -->
+  <PsychicDrone.stages.psychic_soothe.description>यह मेरे मन के पीछे की शांत आवाज की तरह है, जो मुझे शांत कर रही है और मेरी घबराहट कम कर रही है।</PsychicDrone.stages.psychic_soothe.description>
+  <!-- EN: low psychic drone -->
+  <PsychicDrone.stages.low_psychic_drone.label>मानसिक गूंज</PsychicDrone.stages.low_psychic_drone.label>
+  <!-- EN: It's like a scratching at the back of my mind. A voice, whispering. I can only make out a few words, and I don't like them. -->
+  <PsychicDrone.stages.low_psychic_drone.description>यह मेरे मन के पीछे किसी खरोंच जैसा है। एक आवाज़, फुसफुसा रही है। मैं केवल कुछ शब्द समझ पा रहा हूँ, और वे मुझे पसंद नहीं हैं।</PsychicDrone.stages.low_psychic_drone.description>
+  <!-- EN: moderate psychic drone -->
+  <PsychicDrone.stages.moderate_psychic_drone.label>मानसिक गुंजन</PsychicDrone.stages.moderate_psychic_drone.label>
+  <!-- EN: I feel like someone is always just out of sight, speaking to me. The voice changes but the message doesn't. I'm supposed to hurt people. Make it go away! -->
+  <PsychicDrone.stages.moderate_psychic_drone.description>मुझे ऐसा लगता है जैसे कोई हमेशा नज़रों से ओझल रहता है, मुझसे बात कर रहा है। आवाज़ बदलती है लेकिन संदेश नहीं बदलता। मुझे लोगों को चोट पहुंचाने के लिए कहा जा रहा है। इसे दूर करो!</PsychicDrone.stages.moderate_psychic_drone.description>
+  <!-- EN: high psychic drone -->
+  <PsychicDrone.stages.high_psychic_drone.label>उच्च मानसिक ड्रोन</PsychicDrone.stages.high_psychic_drone.label>
+  <!-- EN: The voice is unbearably loud. It's hard to concentrate. I find myself talking back to it, yelling at it. But it just keeps shouting! -->
+  <PsychicDrone.stages.high_psychic_drone.description>आवाज़ असहनीय रूप से तेज़ है। ध्यान केंद्रित करना मुश्किल है। मैं खुद को उससे बात करते हुए, उस पर चिल्लाते हुए पाता/पाती हूँ। लेकिन वह बस लगातार चिल्लाता/चिल्लाती रहती है!</PsychicDrone.stages.high_psychic_drone.description>
+  <!-- EN: extreme psychic drone -->
+  <PsychicDrone.stages.extreme_psychic_drone.label>मानसिक ड्रोन</PsychicDrone.stages.extreme_psychic_drone.label>
+  <!-- EN: My heart pounds and I'm sweating. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare... -->
+  <PsychicDrone.stages.extreme_psychic_drone.description>दिल तेज़ी से धड़क रहा है और मैं पसीना बहा रहा हूँ। मैं बस चोट और पीड़ा और मेरे चारों ओर इन दुश्मनों के बारे में सोच रहा हूँ। वे मेरा दुःस्वप्न हैं, मेरा दुःस्वप्न, मेरा दुःस्वप्न…</PsychicDrone.stages.extreme_psychic_drone.description>
+  
+  <!-- EN: psychic emanator soothe -->
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>मानसिक शांति</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
+  <!-- EN: The psychic emanator makes me feel strange, but also very relaxed. -->
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>साइकिक एमनेटर मुझे अजीब महसूस कराता है, लेकिन साथ ही बहुत शांत भी।</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
+  
+  <!-- EN: rot stink -->
+  <RotStink.stages.rot_stink.label>सड़न दुर्गंध</RotStink.stages.rot_stink.label>
+  <!-- EN: A rotten stink invades my nostrils and sticks to my skin. It makes me sick. -->
+  <RotStink.stages.rot_stink.description>एक सड़ी बदबू मेरी नाक में घुस जाती है और मेरी त्वचा से चिपक जाती है। यह मुझे बीमार कर देती है।</RotStink.stages.rot_stink.description>
+  <!-- EN: awful rot stink -->
+  <RotStink.stages.awful_rot_stink.label>भयानक दुर्गंध</RotStink.stages.awful_rot_stink.label>
+  <!-- EN: The stench of rot is so thick I almost feel like I'm swimming in it. I can hardly breathe in this filth! -->
+  <RotStink.stages.awful_rot_stink.description>सड़न की दुर्गंध इतनी तीव्र है कि मुझे लगता है जैसे मैं इसमें तैर रहा हूँ। इस गंदगी में सांस लेना मुश्किल है!</RotStink.stages.awful_rot_stink.description>
+  
+  <!-- EN: rot stink lingering -->
+  <RotStinkLingering.stages.rot_stink_lingering.label>सड़न दुर्गंध अवशेष</RotStinkLingering.stages.rot_stink_lingering.label>
+  <!-- EN: That rot stink was horrible - and it feels like it's still stuck to me. -->
+  <RotStinkLingering.stages.rot_stink_lingering.description>सड़न की दुर्गंध भयानक थी—और ऐसा लगता है कि यह अभी भी मुझ पर चिपकी हुई है।</RotStinkLingering.stages.rot_stink_lingering.description>
+  
+  <!-- EN: sharing bed -->
+  <SharedBed.stages.sharing_bed.label>बिस्तर साझा</SharedBed.stages.sharing_bed.label>
+  <!-- EN: I have to share a bed with someone who I don't particularly want to. -->
+  <SharedBed.stages.sharing_bed.description>मुझे किसी ऐसे व्यक्ति के साथ बिस्तर साझा करना पड़ रहा है जिससे मैं विशेष रूप से सहज नहीं हूँ।</SharedBed.stages.sharing_bed.description>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.stages.toxic_fallout.label>विषाक्त विकिरण</ToxicFallout.stages.toxic_fallout.label>
+  <!-- EN: Sickly yellow toxic flakes drift around me like snow. The air burns my skin, throat, and lungs everywhere it touches. -->
+  <ToxicFallout.stages.toxic_fallout.description>बीमार पीली जहरीली परतें मेरे चारों ओर बर्फ की तरह बह रही हैं। हवा मेरी त्वचा, गले और फेफड़ों को हर जगह जला रही है जहां वह छूती है।</ToxicFallout.stages.toxic_fallout.description>
+  
+</LanguageData>

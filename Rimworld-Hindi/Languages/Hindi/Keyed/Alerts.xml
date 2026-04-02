@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Click to jump to problem -->
+  <ClickToJumpToProblem>क्लिक करके समस्या पर जाएँ।</ClickToJumpToProblem>
+
+  <!-- EN: Minor break risk -->
+  <BreakRiskMinor>जोखिम: मामूली विराम</BreakRiskMinor>
+  <!-- EN: Major break risk -->
+  <BreakRiskMajor>गंभीर खतरा</BreakRiskMajor>
+  <!-- EN: Extreme break risk -->
+  <BreakRiskExtreme>गंभीर खतरा</BreakRiskExtreme>
+  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n{0} -->
+  <BreakRiskMinorDesc>ये उपनिवेशवादी खराब मनोदशा में हैं और किसी भी समय मामूली मानसिक ब्रेक ले सकते हैं:\n{0}</BreakRiskMinorDesc>
+  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n{0} -->
+  <BreakRiskMajorDesc>ये उपनिवेशवादी बहुत ही खराब मनोदशा में हैं और किसी भी समय एक बड़ा मानसिक ब्रेक ले सकते हैं:\n{0}</BreakRiskMajorDesc>
+  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n{0} -->
+  <BreakRiskExtremeDesc>ये उपनिवेशवादी गंभीर रूप से तनावग्रस्त हैं और किसी भी क्षण एक चरम (और संभवतः हिंसक) मानसिक टूटन का अनुभव कर सकते हैं:\n{0}</BreakRiskExtremeDesc>
+  <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
+  <BreakRiskDescEnding>इन उपनिवेशवादियों के आवश्यकताओं टैब की जाँच करें कि उन्हें क्या परेशान कर रहा है।\n\nउपनिवेशवादियों को बेहतर महसूस कराने के लिए, आप स्वादिष्ट भोजन बना सकते हैं, उन्हें प्रतिदिन अधिक मनोरंजन के घंटे और बेहतर मनोरंजन वस्तुएँ दे सकते हैं, उन्हें सुंदर वातावरण में रख सकते हैं, उन्हें पीने और धूम्रपान करने दे सकते हैं, और बहुत कुछ कर सकते हैं।</BreakRiskDescEnding>
+
+  <!-- EN: Colonist needs rescue -->
+  <ColonistNeedsRescue>कॉलोनीवादी को बचाव चाहिए।</ColonistNeedsRescue>
+  <!-- EN: Colonists need rescue -->
+  <ColonistsNeedRescue>बस्तियों को बचाव चाहिए।</ColonistsNeedRescue>
+  <!-- EN: These colonists are incapacitated on the ground:\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
+  <ColonistsNeedRescueDesc>ये उपनिवेशक ज़मीन पर अक्षम हैं:\n{0}\nउन्हें बचाने और उन्हें बिस्तर पर वापस ले जाने के लिए एक अन्य उपनिवेशक भेजें।\n\n(बचाने के लिए, एक अन्य उपनिवेशक का चयन करें, फिर पीड़ित पर राइट-क्लिक करें और बचाव का चयन करें।)</ColonistsNeedRescueDesc>
+  <!-- EN: These colonists are incapacitated on the ground:\n{0}\n\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
+  <ColonistsNeedRescueDescController>ये उपनिवेशक ज़मीन पर अक्षम हैं:\n{0}\n\nउन्हें बचाने और उन्हें बिस्तर पर वापस ले जाने के लिए एक और उपनिवेशक भेजें।\n\n(बचाने के लिए, एक और उपनिवेशक चुनें, फिर पीड़ित पर बाएँ ट्रिगर बटन दबाएँ और बचाव चुनें।)</ColonistsNeedRescueDescController>
+
+  <!-- EN: Need defenses -->
+  <NeedDefenses>रक्षा की जरूरत</NeedDefenses>
+  <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
+  <NeedDefensesDesc>आप यहाँ कुछ समय से हैं और संभवतः देखे जा चुके हैं। समुद्री डाकू छापे जल्द ही शुरू होंगे।\n\nआपको रेत के बोरे या जाल जैसे बचावों की तैयारी करनी चाहिए।</NeedDefensesDesc>
+
+  <!-- EN: Need doctor -->
+  <NeedDoctor>डॉक्टर की जरूरत</NeedDoctor>
+  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n{0}\n\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
+  <NeedDoctorDesc>इन उपनिवेशवादियों को चिकित्सा देखभाल की आवश्यकता है, लेकिन आपके पास कोई भी स्वस्थ उपनिवेशवादी डॉक्टर के रूप में नियुक्त नहीं है।\n{0}\n\nकिसी स्वस्थ उपनिवेशवादी को डॉक्टर कार्य प्रकार में नियुक्त करें। यदि अनुपचारित छोड़ दिया जाए, तो घाव ठीक से नहीं भर सकते हैं और स्थायी हो सकते हैं।</NeedDoctorDesc>
+
+  <!-- EN: Need miner -->
+  <NeedMiner>खनिक चाहिए</NeedMiner>
+  <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
+  <NeedMinerDesc>आपने कुछ चट्टानों को खनन के लिए निर्दिष्ट किया है, लेकिन किसी भी उपनिवेशवादी के पास खनन कार्य प्रकार नहीं है।\n\nकिसी उपनिवेशवादी को खनन कार्य प्रकार असाइन करें।</NeedMinerDesc>
+
+  <!-- EN: Need warden -->
+  <NeedWarden>कोठरीपाल</NeedWarden>
+  <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
+  <NeedWardenDesc>आपके पास एक कैदी है, लेकिन किसी भी उपनिवेशवादी में वार्डन कार्य प्रकार नहीं है।\n\nकिसी उपनिवेशवादी को वार्डन कार्य प्रकार असाइन करें।</NeedWardenDesc>
+
+  <!-- EN: Low food -->
+  <LowFood>कम भोजन</LowFood>
+  <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
+  <LowFoodDesc>आपके पास भोजन बहुत कम है।\n\n    भंडारण में भोजन की पूर्ण बार: {0}\n    भोजन प्राप्त करने वाले उपनिवेशवादी और कैदी: {1}\n    भंडारण में भोजन के दिनों की संख्या: {2}\n\nकुछ भोजन उगाएँ, खरीदें, ढूँढें या मारें।</LowFoodDesc>
+
+  <!-- EN: Low medicine -->
+  <LowMedicine>कम दवा</LowMedicine>
+  <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
+  <LowMedicineDesc>भंडारण में आपके पास केवल {0} दवाएँ बची हैं।\n\nव्यापारियों से और दवाएँ खरीदें।</LowMedicineDesc>
+  <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
+  <NoMedicineDesc>आपके भंडारण में अब कोई दवा नहीं बची है।\n\nव्यापारियों से अधिक दवा खरीदें।</NoMedicineDesc>
+  
+  <!-- EN: Need colonist beds -->
+  <NeedColonistBeds>कॉलोनिस्ट बिस्तर चाहिए</NeedColonistBeds>
+  <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
+  <NeedColonistBedsDesc>आपके उपनिवेशवादियों की संख्या उपनिवेशवादी बिस्तरों से अधिक है। किसी को सोने की जगह नहीं मिलेगी।\n\nअधिक बिस्तर बनाएं, या किसी कैदी के बिस्तर को उपनिवेशवादी बिस्तर में बदलें।\n\nयदि आपके पास संसाधन नहीं हैं, तो सोने के स्थान मुफ्त हैं और तुरंत लगाए जा सकते हैं।</NeedColonistBedsDesc>
+  
+  <!-- EN: Colonist left unburied -->
+  <AlertColonistLeftUnburied>शव दफनाया नहीं गया।</AlertColonistLeftUnburied>
+  <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
+  <AlertColonistLeftUnburiedDesc>एक उपनिवेशवादी को दफनाया नहीं गया है।\n\nइससे आपके उपनिवेशवादियों के मनोदशा पर नकारात्मक प्रभाव पड़ सकता है।</AlertColonistLeftUnburiedDesc>
+
+  <!-- EN: Tattered apparel -->
+  <AlertTatteredApparel>फटा वस्त्र</AlertTatteredApparel>
+  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n{0}\n\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
+  <AlertTatteredApparelDesc>ये उपनिवेशवादी फटे हुए कपड़े पहने हुए हैं, जिससे वे दुखी हो रहे हैं:\n{0}\n\nउन्हें ऐसे कपड़े दिलाएं जो इतने खराब क्षतिग्रस्त न हों।\n\nआप क्राफ्टिंग स्पॉट या टेलरिंग टेबल पर कपड़े सिल सकते हैं, या व्यापारियों से खरीद सकते हैं।</AlertTatteredApparelDesc>
+
+  <!-- EN: Unhappy nudity -->
+  <AlertUnhappyNudity>असंतोषजनक नग्नता</AlertUnhappyNudity>
+  <!-- EN: These colonists are nude and not happy about it:\n{0}\n\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
+  <AlertUnhappyNudityDesc>ये उपनिवेशवादी नग्न हैं और इससे खुश नहीं हैं:\n{0}\n\nउन्हें कुछ कपड़े दिलाएँ।\n\nआप क्राफ्टिंग स्पॉट या टेलरिंग टेबल पर पोशाक बना सकते हैं, या व्यापारियों से खरीद सकते हैं।</AlertUnhappyNudityDesc>
+
+  <!-- EN: Starvation -->
+  <Starvation>भूख</Starvation>
+  <!-- EN: These colonists are starving:\n{0}\n\nGet them some food. -->
+  <StarvationDesc>ये उपनिवेशवादी भूखे मर रहे हैं:\n{0}\n\nउन्हें कुछ भोजन दिलाएँ।</StarvationDesc>
+
+  <!-- EN: Animal starvation -->
+  <StarvationAnimals>पशु भूख</StarvationAnimals>
+  <!-- EN: These colony animals are starving:\n{0}\n\nGet them some food. -->
+  <StarvationAnimalsDesc>इन कॉलोनी जानवरों को भूख लग रही है:\n{0}\n\nउन्हें कुछ भोजन दिलाएं।</StarvationAnimalsDesc>
+
+  <!-- EN: Exhaustion -->
+  <Exhaustion>थकान</Exhaustion>
+  <!-- EN: These colonists are exhausted and need rest:\n{0}\n\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
+  <ExhaustionDesc>ये उपनिवेशवादी थके हुए हैं और उन्हें आराम की ज़रूरत है:\n{0}\n\nउन्हें आराम करने दें। उन्हें उपनिवेशवादियों के उपयोग के लिए चिह्नित एक बिस्तर की आवश्यकता होगी। साथ ही, सुनिश्चित करें कि उन्हें मसौदा नहीं बनाया गया है।</ExhaustionDesc>
+
+  <!-- EN: Need food hopper -->
+  <NeedFoodHopper>भोजन हॉपर चाहिए</NeedFoodHopper>
+  <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
+  <NeedFoodHopperDesc>आपके पास एक पोषक तत्व डिस्पेंसर है जिसके बगल में कोई हॉपर नहीं है।\n\nकाम करने के लिए, पेस्ट डिस्पेंसर को कच्चा भोजन से भरे एक आसन्न हॉपर से खींचना चाहिए।\n\nडिस्पेंसर के बगल में एक हॉपर बनाएं।</NeedFoodHopperDesc>
+
+  <!-- EN: Need meal source -->
+  <NeedMealSource>भोजन स्रोत</NeedMealSource>
+  <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
+  <NeedMealSourceDesc>कच्चे भोजन से उचित भोजन तैयार करने का आपके पास कोई तरीका नहीं है।\n\nएक स्टोव, कैम्पफ़ायर या पोषक वितरक बनाएँ।\n\n(यह जेल की कोठरी में नहीं हो सकता, अन्यथा उपनिवेशवादी इसका उपयोग नहीं कर सकते।)</NeedMealSourceDesc>
+
+  <!-- EN: Need recreation variety -->
+  <NeedJoySource>मनोरंजन विविधता</NeedJoySource>
+  <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
+  <NeedJoySourceDesc>{0} मनोरंजन के प्रकार ही {1} में उपलब्ध हैं, लेकिन वर्तमान अपेक्षा स्तर ({2}) पर, उपनिवेशवादियों को संतुष्ट रहने के लिए {3} विभिन्न प्रकार के मनोरंजन की आवश्यकता है। एक नया, भिन्न प्रकार का मनोरंजन प्रदान करके मनोरंजन में विविधता लाएँ।\n\n{4}\n\n{5}\n\nध्यान दें: आप 'i' बटन से एक्सेस किए जा सकने वाले किसी भी आइटम के आँकड़ों के पृष्ठ पर मनोरंजन के प्रकार की जाँच कर सकते हैं।</NeedJoySourceDesc>
+  <!-- EN: Available recreation types -->
+  <AvailableRecreationTypes>मनोरंजन प्रकार</AvailableRecreationTypes>
+  <!-- EN: Missing recreation types -->
+  <MissingRecreationTypes>मनोरंजन प्रकार गुम</MissingRecreationTypes>
+  <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
+  <CurrentExpectationsAndRecreation>वर्तमान अपेक्षाओं ({0}) के अनुसार, प्रत्येक सहनशीलता जागते रहने पर प्रतिदिन {1} से घटती है। {2} मनोरंजन प्रकारों की अनुशंसा की जाती है।</CurrentExpectationsAndRecreation>
+  <!-- EN: bored -->
+  <bored>उबाऊ</bored>
+
+  <!-- EN: Boredom -->
+  <Boredom>उबाऊपन</Boredom>
+  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n{2} -->
+  <BoredomDesc>ये लोग मनोरंजन की आवश्यकता में हैं या मनोरंजन के लिए नियुक्त हैं, लेकिन मनोरंजन के हर उपलब्ध स्रोत से ऊब गए हैं:\n\n{0}\n\nउन्हें मनोरंजन की अधिक विविधता प्रदान करें।\n\n{PAWN_labelShort} के लिए वर्तमान में उपलब्ध मनोरंजन के प्रकार:\n{2}</BoredomDesc>
+
+  <!-- EN: Need batteries -->
+  <NeedBatteries>बैटरी चाहिए</NeedBatteries>
+  <!-- EN: You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms. -->
+  <NeedBatteriesDesc>आपके पास सौर या पवन जनरेटर है, लेकिन बैटरी नहीं हैं। जब भी सूरज ढल जाएगा या हवा शांत हो जाएगी, आप बिजली खो देंगे।</NeedBatteriesDesc>
+  <!-- EN: Build a battery or two to guarantee sustained power. -->
+  <NeedBatteriesResearchedDesc>बैटरी बनाएँ या दो ताकि लगातार बिजली सुनिश्चित हो सके।</NeedBatteriesResearchedDesc>
+  <!-- EN: Research batteries and build a couple to guarantee sustained power. -->
+  <NeedBatteriesNotResearchedDesc>बैटरी पर शोध करें और निरंतर बिजली सुनिश्चित करने के लिए कुछ बनाएं।</NeedBatteriesNotResearchedDesc>
+
+  <!-- EN: Brawler has ranged weapon -->
+  <BrawlerHasRangedWeapon>मुक्केबाज के पास दूरस्थ हथियार है।</BrawlerHasRangedWeapon>
+  <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
+  <BrawlerHasRangedWeaponDesc>आपके उपनिवेशवादियों में से एक के पास ब्रॉलर व्यक्तित्व गुण है, लेकिन वे एक लंबी दूरी का हथियार ले जा रहे हैं। इससे वे बहुत दुखी होंगे।</BrawlerHasRangedWeaponDesc>
+
+  <!-- EN: Shield user has ranged weapon -->
+  <ShieldUserHasRangedWeapon>ढाल उपयोगकर्ता के पास दूरस्थ हथियार है।</ShieldUserHasRangedWeapon>
+  <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
+  <ShieldUserHasRangedWeaponDesc>आपके एक उपनिवेशवादी के पास शील्ड बेल्ट है और वे एक दूरी से चलने वाला हथियार ले जा रहे हैं। वे शील्ड के माध्यम से अपना हथियार नहीं चला पाएंगे (सिर्फ उन लक्ष्यों पर जो पहले से ही उनसे छू रहे हैं)।</ShieldUserHasRangedWeaponDesc>
+
+  <!-- EN: Need research project -->
+  <NeedResearchProject>शोध परियोजना</NeedResearchProject>
+  <!-- EN: You have the equipment to do research but have not selected a project.\n\n(Click to open the research menu.) -->
+  <NeedResearchProjectDesc>आपके पास अनुसंधान करने के लिए उपकरण हैं लेकिन आपने कोई परियोजना नहीं चुनी है।\n\n(अनुसंधान मेनू खोलने के लिए क्लिक करें।)</NeedResearchProjectDesc>
+
+  <!-- EN: 1 colonist idle -->
+  <ColonistIdle>1 उपनिवेशक निष्क्रिय</ColonistIdle>
+  <!-- EN: {0} colonists idle -->
+  <ColonistsIdle>{0} उपनिवेशवादी निष्क्रिय हैं</ColonistsIdle>
+  <!-- EN: These colonists are wandering idly:\n{0}\n\nYou should probably find them something productive to do. -->
+  <ColonistsIdleDesc>ये उपनिवेशवादी निष्क्रिय रूप से भटक रहे हैं:\n{0}\n\nआपको शायद उन्हें कुछ उत्पादक करने के लिए खोजना चाहिए।</ColonistsIdleDesc>
+  
+  <!-- EN: Caravan idle -->
+  <CaravanIdle>कैरावैन निष्क्रिय</CaravanIdle>
+  <!-- EN: These caravans are waiting for you to set their next destination:\n{0} -->
+  <CaravanIdleDesc>ये कारवां आपके अगले गंतव्य निर्धारित करने का इंतज़ार कर रहे हैं:\n{0}</CaravanIdleDesc>
+
+  <!-- EN: Medical treatment needed -->
+  <ColonistNeedsTreatment>चिकित्सा आवश्यक</ColonistNeedsTreatment>
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDesc>इन लोगों को चिकित्सा उपचार की आवश्यकता है। इसके बिना, वे अपनी चोटों से मर सकते हैं, या उनकी चोटें स्थायी हो सकती हैं।\n{0}\n\nउन्हें चिकित्सा बिस्तर पर भेजकर उनका इलाज करें।\n\n(सबसे पहले, चिकित्सा बिस्तर का चयन करके और उसे चिकित्सा बिस्तर में बदलकर चिकित्सा बिस्तर निर्दिष्ट करें। फिर, घायल व्यक्ति का चयन करें और उसे रोगी बनाने के लिए चिकित्सा बिस्तर पर राइट-क्लिक करें।)</ColonistNeedsTreatmentDesc>
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDescController>इन लोगों को चिकित्सा उपचार की आवश्यकता है। इसके बिना, वे अपनी चोटों से मर सकते हैं, या उनकी चोटें स्थायी हो सकती हैं।\n{0}\n\nउन्हें चिकित्सा बिस्तर पर भेजकर उनका इलाज करें।\n\n(सबसे पहले, चिकित्सा बिस्तर का चयन करके और उसे चिकित्सा बिस्तर में बदलकर चिकित्सा बिस्तर निर्दिष्ट करें। फिर, घायल व्यक्ति का चयन करें और उन्हें रोगी बनाने के लिए चिकित्सा बिस्तर पर बाईं ट्रिगर बटन दबाएं।)</ColonistNeedsTreatmentDescController>
+
+  <!-- EN: Hypothermia -->
+  <AlertHypothermia>ठंड लगना</AlertHypothermia>
+  <!-- EN: These colonists are suffering from hypothermia:\n{0}\n\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
+  <AlertHypothermiaDesc>ये उपनिवेशवादी हाइपोथर्मिया से पीड़ित हैं:\n{0}\n\nसुनिश्चित करें कि उनके कपड़े मौसम के अनुकूल हैं और इनडोर स्थान ठीक से गर्म हैं।</AlertHypothermiaDesc>
+  
+  <!-- EN: {0} patients await medical operation -->
+  <PatientsAwaitingMedicalOperation>{0} मरीज़ चिकित्सा ऑपरेशन का इंतज़ार कर रहे हैं।</PatientsAwaitingMedicalOperation>
+  <!-- EN: These patients await medical operation:\n{0}\n\nMake sure you have all necessary medical tools and a free doctor available. -->
+  <PatientsAwaitingMedicalOperationDesc>इन रोगियों का चिकित्सा ऑपरेशन का इंतजार है:\n{0}\n\nसुनिश्चित करें कि आपके पास सभी आवश्यक चिकित्सा उपकरण और एक खाली डॉक्टर उपलब्ध है।</PatientsAwaitingMedicalOperationDesc>
+
+  <!-- EN: Fire! -->
+  <FireInHomeArea>आग!</FireInHomeArea>
+  <!-- EN: There is a fire in the home area. -->
+  <FireInHomeAreaDesc>घर के क्षेत्र में आग लगी है।</FireInHomeAreaDesc>
+
+  <!-- EN: Medical emergency -->
+  <PawnsWithLifeThreateningDisease>चिकित्सा आपातकाल</PawnsWithLifeThreateningDisease>
+  <!-- EN: People are at risk of death because of severe illness:\n{0}\n\nMake sure that they get the best medical care possible. -->
+  <PawnsWithLifeThreateningDiseaseDesc>लोग गंभीर बीमारी के कारण मृत्यु के खतरे में हैं:\n{0}\n\nसुनिश्चित करें कि उन्हें सर्वोत्तम संभव चिकित्सा देखभाल मिले।</PawnsWithLifeThreateningDiseaseDesc>
+  <!-- EN: People are at risk for death because of severe illness:\n{0}\n\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>लोग गंभीर बीमारी के कारण मृत्यु के खतरे में हैं:\n{0}\n\nयदि संभव हो, तो उपनिवेशवादियों को जीवित रखने के लिए संक्रमित अंगों को काटने या बदलने पर विचार करें।</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <!-- EN: Billiards needs space -->
+  <BilliardsNeedsSpace>बिलियर्ड्स को जगह चाहिए</BilliardsNeedsSpace>
+  <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
+  <BilliardsNeedsSpaceDesc>आपके बिलियर्ड्स टेबल में से एक ऐसी बाधा के बगल में है जो उपनिवेशवादियों को इसका उपयोग करने से रोकेगी।\n\nबिल्लियर्ड्स टेबल को उपयोग करने योग्य होने के लिए सभी तरफ से स्पष्ट जगह की आवश्यकता होती है।</BilliardsNeedsSpaceDesc>
+
+  <!-- EN: Chess table needs chairs -->
+  <ChessTablesNeedChairs>शतरंज की मेज को कुर्सियों की आवश्यकता है।</ChessTablesNeedChairs>
+  <!-- EN: One of your chess tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the chess table. Up to two people can use a chess table at once. -->
+  <ChessTablesNeedChairsDesc>आपके शतरंज तालिकाओं में से एक के आस-पास कोई आसन्न कुर्सियाँ नहीं हैं।\n\nशतरंज तालिका का उपयोग करने के लिए आसन्न कुर्सियाँ या स्टूल बनाएँ। एक बार में दो लोग शतरंज तालिका का उपयोग कर सकते हैं।</ChessTablesNeedChairsDesc>
+
+  <!-- EN: Poker table needs chairs -->
+  <PokerTablesNeedChairs>पोकर टेबल को कुर्सियों की आवश्यकता है।</PokerTablesNeedChairs>
+  <!-- EN: One of your poker tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the poker table. Up to eight people can use a poker table at once. -->
+  <PokerTablesNeedChairsDesc>आपके पोकर टेबल में आस-पास कोई कुर्सी नहीं है।\n\nपोकर टेबल का उपयोग करने के लिए आस-पास कुर्सियाँ या स्टूल बनाएँ। एक पोकर टेबल पर एक बार में अधिकतम आठ लोग उपयोग कर सकते हैं।</PokerTablesNeedChairsDesc>
+
+  <!-- EN: Hunter has shield and ranged weapon -->
+  <HunterHasShieldAndRangedWeapon>शिकारी के पास ढाल और दूरस्थ हथियार है।</HunterHasShieldAndRangedWeapon>
+  <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
+  <HunterHasShieldAndRangedWeaponDesc>आपके शिकारी में से एक दूरी से वार करने वाले हथियार का उपयोग कर रहा है और एक ढाल बेल्ट पहने हुए है जो दूरी पर गोली चलाने से रोकता है।\n\nजब तक ढाल नहीं हटाई जाती, तब तक वे शिकार नहीं कर पाएंगे।</HunterHasShieldAndRangedWeaponDesc>
+
+  <!-- EN: Need warm clothes -->
+  <NeedWarmClothes>गर्म कपड़े चाहिए।</NeedWarmClothes>
+  <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
+  <NeedWarmClothesDesc1>कम से कम {0} उपनिवेशवादी ठंडी ऋतु आने पर गर्म कपड़े से वंचित रहेंगे।</NeedWarmClothesDesc1>
+  <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
+  <NeedWarmClothesDesc1All>सर्दी आने पर आपके सभी उपनिवेशवादियों के पास गर्म कपड़े नहीं होंगे।</NeedWarmClothesDesc1All>
+  <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
+  <NeedWarmClothesDesc2>बाहरी तापमान {0} तक पहुँचने वाला है।\n\nआप सिलाई बेंच पर गर्म कपड़े सिल सकते हैं, या व्यापारियों से खरीद सकते हैं।</NeedWarmClothesDesc2>
+
+  <!-- EN: Immobile caravan -->
+  <ImmobileCaravan>स्थिर कारवाँ</ImmobileCaravan>
+  <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
+  <ImmobileCaravanDesc>आपके कारवां में अत्यधिक सामान होने के कारण यह स्थिर है।\n\nआप आइटम टैब में कुछ वस्तुओं को त्यागकर कारवां को फिर से गतिशील बना सकते हैं।</ImmobileCaravanDesc>
+
+  <!-- EN: Building unusable due to roof -->
+  <BuildingCantBeUsedRoofed>छत के कारण इमारत अनुपयोगी</BuildingCantBeUsedRoofed>
+  <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
+  <BuildingCantBeUsedRoofedDesc>एक या अधिक इमारतें केवल बिना छत के उपयोग की जा सकती हैं, लेकिन उस पर छत है। छत हटाने तक इमारतें अनुपयोगी रहेंगी।</BuildingCantBeUsedRoofedDesc>
+
+  <!-- EN: Heatstroke -->
+  <AlertHeatstroke>गरमी का दौरा</AlertHeatstroke>
+  <!-- EN: The following people are suffering from heatstroke:\n{0}\n\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
+  <AlertHeatstrokeDesc>निम्नलिखित लोग हीटस्ट्रोक से पीड़ित हैं:\n{0}\n\nइन्हें ठंडी जगह पर ले जाएं। आप पैसिव कूलर या इलेक्ट्रिकल कूलर से कमरों को ठंडा कर सकते हैं। यदि बाहरी दुनिया से दरवाजे से अलग किया जाए तो गहरी भूमिगत जगहें भी स्वाभाविक रूप से ठंडी होती हैं।</AlertHeatstrokeDesc>
+
+  <!-- EN: Guest unhappy -->
+  <QuestPartMoodBelowThreshold>अतिथि असंतुष्ट</QuestPartMoodBelowThreshold>
+  <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n{1} -->
+  <QuestPartMoodBelowThresholdDesc>क्वेस्ट {0} को यह आवश्यक है कि आप इस व्यक्ति को अच्छे मूड में रखें। हालाँकि, उनका मूड खराब है। उन्हें बेहतर महसूस कराने के लिए कुछ कार्रवाई करें:\n{1}</QuestPartMoodBelowThresholdDesc>
+  
+  <!-- EN: Shuttle leaving in {0} -->
+  <QuestPartShuttleLeaveDelay>शटल {0} में रवाना हो रहा है।</QuestPartShuttleLeaveDelay>
+  <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
+  <QuestPartShuttleLeaveDelayDesc>शटल {1} में रवाना हो जाएगा। खोज {0} के लिए आपको शटल के रवाना होने से पहले निम्नलिखित लोगों या वस्तुओं को शटल पर लोड करने की आवश्यकता है:\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <!-- EN: The shuttle will leave in {0}. -->
+  <QuestPartShuttleLeaveDelayDescHidden>शटल {0} में रवाना होगा।</QuestPartShuttleLeaveDelayDescHidden>
+
+  <!-- EN: Shuttle arriving in {0} -->
+  <QuestPartShuttleArriveDelay>शटल {0} में आ रहा है।</QuestPartShuttleArriveDelay>
+  <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
+  <QuestPartShuttleArriveDelayDesc>एक शटल {1} में पहुंचेगा। खोज {0} के लिए आपको शटल के रवाना होने से पहले निम्नलिखित लोगों या वस्तुओं को उस पर लादने की आवश्यकता है:\n{2}</QuestPartShuttleArriveDelayDesc>
+  <!-- EN: A shuttle will arrive in {0}. -->
+  <QuestPartShuttleArriveDelayDescHidden>एक शटल {0} में पहुंचेगा।</QuestPartShuttleArriveDelayDescHidden>
+
+  <!-- EN: Monument will be destroyed -->
+  <DisallowedBuildingInsideMonument>स्मारक नष्ट हो जाएगा।</DisallowedBuildingInsideMonument>
+  <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
+  <DisallowedBuildingInsideMonumentDesc>आपने अपने स्मारकों में से एक के अंदर एक निषिद्ध इमारत बनाई है। {0} में स्मारक नष्ट माना जाएगा।</DisallowedBuildingInsideMonumentDesc>
+
+  <!-- EN: Countdown activator {0} -->
+  <ActivatorCountdown>काउंटडाउन सक्रियक {0}</ActivatorCountdown>
+  <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
+  <ActivatorCountdownDesc>एक उलटी गिनती सक्रियक टिक रहा है, जो आस-पास के मेकैनॉइड्स को जगाने की तैयारी कर रहा है।</ActivatorCountdownDesc>
+  <!-- EN: {0} countdown activators -->
+  <ActivatorCountdownMultiple>{0} सक्रियक गिनती</ActivatorCountdownMultiple>
+  <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
+  <ActivatorCountdownDescMultiple>{0} काउंटडाउन एक्टिवेटर टिक रहे हैं, जो आस-पास के मेकैनॉइड्स को जगाने की तैयारी कर रहे हैं।</ActivatorCountdownDescMultiple>
+
+  <!-- EN: Quest expires in {0} -->
+  <QuestExpiresSoon>क्वेस्ट {0} में समाप्त होगी।</QuestExpiresSoon>
+  <!-- EN: The quest '{0}' will expire in {1}. -->
+  <QuestExpiresSoonDesc>क्वेस्ट &amp;apos;{0}&amp;apos; {1} में समाप्त हो जाएगी।</QuestExpiresSoonDesc>
+
+  <!-- EN: Animal filth -->
+  <AlertAnimalFilth>जानवर की गंदगी</AlertAnimalFilth>
+  <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
+  <AlertAnimalFilthDesc>एक गंदा करने वाला जानवर साफ फर्श के अंदर है।\n\nजानवर सामान्य फर्श पर घूमते समय बहुत अधिक गंदगी पैदा करते हैं। गंदगी पैदा करने वाले जानवरों को बाहर रखें, या पुआल की चटाई पर रखें जहाँ वे बहुत कम गंदगी पैदा करेंगे।\n\nआप &amp;apos;i&amp;apos; बटन पर क्लिक करके किसी जानवर की गंदगी उत्पादन दर को उसके आँकड़ों में देख सकते हैं।\n\nये जानवर समस्या हैं:\n{0}</AlertAnimalFilthDesc>
+
+  <!-- EN: Pen needed -->
+  <AlertAnimalPenNeeded>कलम आवश्यक</AlertAnimalPenNeeded>
+  <!-- EN: Some of your tame animals are roamers. If not kept in a pen or roped to a caravan hitching spot, they will wander away. -->
+  <AlertAnimalPenNeededDesc>आपके कुछ पालतू जानवर घूमने वाले हैं। यदि उन्हें बाड़े में नहीं रखा जाता है या कारवां जोड़ बिंदु से नहीं बांधा जाता है, तो वे भटक जाएंगे।</AlertAnimalPenNeededDesc>
+  <!-- EN: You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type. -->
+  <AlertAnimalPenNeededNoHandlers>आपके पास जानवरों को पेन तक ले जाने के लिए कोई हैंडलर नहीं है।\n\nहैंडलिंग कार्य प्रकार में एक उपनिवेशवादी को असाइन करें।</AlertAnimalPenNeededNoHandlers>
+  <!-- EN: Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals. -->
+  <AlertAnimalPenNeededDescExplanation>पशु बाड़ा बनाने के लिए, बाड़े मार्कर को बाड़े, अवरोधक या दीवार वाले क्षेत्र के भीतर बनाएं। पशु मार्कर का चयन करें ताकि यह पता चल सके कि यह किन जानवरों को स्वीकार करता है और इसका बाड़ा कितने जानवरों का समर्थन कर सकता है।\n\nआपके पशु पालक स्वचालित रूप से जानवरों को उनके निर्दिष्ट बाड़े में लाएंगे।\n\nबाड़े में जानवरों को प्रवेश करने के लिए एक द्वार या फाटक की आवश्यकता होती है।</AlertAnimalPenNeededDescExplanation>
+  
+  <!-- EN: Pen not enclosed -->
+  <AlertAnimalPenNotEnclosed>कलम बंद नहीं</AlertAnimalPenNotEnclosed>
+  <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
+  <AlertAnimalPenNotEnclosedDesc>एक पशु बाड़े का निशान घेरा हुआ नहीं है।\n\nजानवरों को भटकने से रोकने के लिए बाड़े को बाड़, अवरोध, द्वार, दीवारें, या दरवाजों से घेरें।\n\nयदि आपके पास केवल बिना घेरे वाले बाड़े के निशान हैं, तो आपके हैंडलर अभी भी भटकते जानवरों को वापस घर ले जा सकते हैं - लेकिन यह तब-तब दोहराया जाना चाहिए जब जानवर फिर से भटक जाएं।</AlertAnimalPenNotEnclosedDesc>
+
+  <!-- EN: {ANIMAL_labelShort} in animal pen -->
+  <AlertPredatorInAnimalPen>पशु बाड़े में {ANIMAL_labelShort}</AlertPredatorInAnimalPen>
+  <!-- EN: A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves. -->
+  <AlertPredatorInAnimalPenDesc>एक शिकारी {ANIMAL_labelShort} पशु बाड़े में भटक आया है।\n\nयह आपके जानवरों का शिकार करने का निर्णय ले सकता है।\n\nआप इसे मार सकते हैं, या प्रतीक्षा कर सकते हैं और उम्मीद कर सकते हैं कि यह चला जाए।</AlertPredatorInAnimalPenDesc>
+
+  <!-- EN: Animal wandering away -->
+  <AlertAnimalIsRoaming>जानवर भटकना</AlertAnimalIsRoaming>
+  <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n{0} -->
+  <AlertAnimalIsRoamingDesc>आपके कुछ पालतू जानवर घूमने वाले हैं और भटकना शुरू कर दिया है। यदि वे मानचित्र के किनारे तक पहुँचते हैं, तो वे अंततः चले जाएँगे।\n\nयदि आपके पास एक बंद पशु बाड़ा है, तो आपके पशुपालक जानवर को वापस ला सकते हैं। पशु बाड़े में जानवर नहीं भटकेंगे।\n\nनिम्नलिखित जानवर भटक रहे हैं:\n{0}</AlertAnimalIsRoamingDesc>
+
+  <!-- EN: Hungry pen animals -->
+  <AlertPennedAnimalHungry>भूखे पशु</AlertPennedAnimalHungry>
+  <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n{0} -->
+  <AlertPennedAnimalHungryDesc>आपके कुछ बंदी जानवर भूखे हैं।\n\nअधिक जानकारी देखने के लिए एक पेन मार्कर चुनें और फूड टैब का उपयोग करें।\n\nघास खाने वाले जानवरों को पर्याप्त घास प्रदान करने के लिए एक बड़े पेन की आवश्यकता हो सकती है। अन्य जानवरों को हेग्रास या इसी तरह के भोजन के साथ एक स्टॉकपाइल का उपयोग करके आपूर्ति करने की आवश्यकता हो सकती है।\n\nनिम्नलिखित बंदी जानवर भूखे हैं:\n{0}</AlertPennedAnimalHungryDesc>
+
+  <!-- EN: Hungry hitched animal -->
+  <AlertHitchedAnimalHungryNoFood>भूखा बंधा पशु</AlertHitchedAnimalHungryNoFood>
+  <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n{0} -->
+  <AlertHitchedAnimalHungryNoFoodDesc>कुछ जानवर जो बांधने वाली जगहों से बंधे हैं, भूखे हैं। उनके पहुँच में उपयुक्त भोजन उपलब्ध न भी हो।\n\nउन्हें भोजन लाएँ, या बांधने वाली जगह हटा दें ताकि वे स्वयं भोजन ढूँढ सकें।\n\nनिम्नलिखित बंधे हुए जानवर भूखे हैं:\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
+
+  <!-- EN: Raids arriving in {0} -->
+  <AlertTimedRaidsArrivingIn>{0} में छापे आ रहे हैं।</AlertTimedRaidsArrivingIn>
+  <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
+  <AlertTimedRaidsArrivingInDesc>दुश्मन निम्नलिखित स्थानों की ओर आकर्षित हुए हैं और जल्द ही बड़ी संख्या में आने लगेंगे।\n\n{0}</AlertTimedRaidsArrivingInDesc>
+  <!-- EN: Arriving at {0} in {1} -->
+  <AlertTimedRaidsArrivingAt>{0} में {1} पर आ रहा है</AlertTimedRaidsArrivingAt>
+
+  <!-- EN: Faction will become hostile if you stay -->
+  <FactionWillBecomeHostileIfNotLeavingWithin>यदि आप रुके तो गुट शत्रुतापूर्ण हो जाएगा।</FactionWillBecomeHostileIfNotLeavingWithin>
+  <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n{0} -->
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>ये गुट शत्रुतापूर्ण हो जाएंगे यदि आप उनके बस्ती या चौकी पर अधिक समय तक रुकते हैं:\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+
+  <!-- EN: {0} trees dying -->
+  <AlertMinifiedTreeAboutToDie>{0} पेड़ मर रहे हैं</AlertMinifiedTreeAboutToDie>
+  <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
+  <AlertMinifiedTreeAboutToDieDesc>{0} से निकाले गए पेड़ एक दिन से भी कम समय में मर जाएंगे। इससे कुछ उपनिवेशवादियों को उनकी मान्यताओं के कारण दुख होगा।\n\nआप इन पेड़ों को फिर से लगाकर इसे रोक सकते हैं।</AlertMinifiedTreeAboutToDieDesc>
+
+  <!-- EN: Need research bench -->
+  <NeedResearchBench>अनुसंधान बेंच</NeedResearchBench>
+  <!-- EN: You have an active research project '{0}'. This project requires you to build {1}. -->
+  <NeedResearchBenchDesc>आपके पास एक सक्रिय अनुसंधान परियोजना ‘{0}’ है। इस परियोजना के लिए आपको {1} बनाने की आवश्यकता है।</NeedResearchBenchDesc>
+  
+</LanguageData>

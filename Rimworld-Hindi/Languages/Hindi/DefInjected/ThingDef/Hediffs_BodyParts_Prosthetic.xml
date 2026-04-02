@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>कोक्लीयर इम्प्लांट</CochlearImplant.label>
+  <!-- EN: An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
+  <CochlearImplant.description>एक प्रत्यारोपण जो सामान्य श्रवण को प्रतिस्थापित करता है। एक बाहरी माइक्रोफ़ोन आंतरिक कान की श्रवण संवेदी नसों के चारों ओर लिपटे इलेक्ट्रोड तक ध्वनि संकेत प्रसारित करता है। इलेक्ट्रोड ध्वनि के अनुसार नसों को उत्तेजित करते हैं, जिससे श्रवण की अनुभूति होती है। यह प्राकृतिक कान जितना अच्छा नहीं है, लेकिन बहरे होने से बहुत बेहतर है।</CochlearImplant.description>
+  
+  <!-- EN: joywire -->
+  <Joywire.label>आनंद तार</Joywire.label>
+  <!-- EN: A brain implant that stimulates the brain's pleasure centers. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures. -->
+  <Joywire.description>एक मस्तिष्क प्रत्यारोपण जो मस्तिष्क के आनंद केंद्रों को उत्तेजित करता है। हालाँकि यह उपयोगकर्ता के मनोदशा में नाटकीय रूप से सुधार करता है, खुशी की यह चादर वास्तविक चीज़ों पर ध्यान केंद्रित करना मुश्किल बना देती है। आनंद तार कई दुनियाओं पर अवैध हैं, और पूरी संस्कृतियों को नष्ट करने के लिए जाने जाते हैं।</Joywire.description>
+  
+  <!-- EN: painstopper -->
+  <Painstopper.label>दर्द निवारक</Painstopper.label>
+  <!-- EN: A brain implant which inhibits nociception, or pain sensation. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily. -->
+  <Painstopper.description>एक मस्तिष्क प्रत्यारोपण जो नोसिसेप्शन, या दर्द संवेदना को रोकता है। हालांकि यह उपयोगकर्ता को अधिक करने की अनुमति देता है, यह पता चला है कि दर्द का एक उद्देश्य होता है। जब आप इसे महसूस नहीं करते हैं, तो आप बहुत आसानी से गंभीर रूप से घायल हो सकते हैं।</Painstopper.description>
+  
+  <!-- EN: power claw -->
+  <PowerClaw.label>शक्ति पंजा</PowerClaw.label>
+  <!-- EN: A combat-oriented hand replacement consisting of a mechanical hand with a hooked claw on each finger. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted, making it as useful as a natural hand for non-combat tasks, however its overall ungainliness slows down movement slightly. -->
+  <PowerClaw.description>यह एक युद्ध-उन्मुख हाथ प्रतिस्थापन है जिसमें प्रत्येक उंगली पर एक हुक वाला पंजा लगा हुआ यांत्रिक हाथ शामिल है। यह गहरा काटता है, और इतना मजबूत है कि एक हाथ अंडे को कुचलने की तरह खोपड़ी को कुचल सकता है। पंजे वापस लिए जा सकते हैं, जिससे यह गैर-लड़ाकू कार्यों के लिए एक प्राकृतिक हाथ जितना उपयोगी हो जाता है, हालांकि इसकी समग्र अनाड़ी गति को थोड़ा धीमा कर देती है।</PowerClaw.description>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>कृत्रिम अंग भुजा</SimpleProstheticArm.label>
+  <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
+  <SimpleProstheticArm.description>एक बांह का कृत्रिम अंग। यद्यपि इसमें तंत्रिका इंटरफेस का अभाव है, आंतरिक जोड़ों की जटिल व्यवस्था इसे प्राकृतिक गति की काफी हद तक नकल करने देती है। फिर भी, यह वास्तविक बांह से हीन है।</SimpleProstheticArm.description>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>कृत्रिम अंग हृदय</SimpleProstheticHeart.label>
+  <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
+  <SimpleProstheticHeart.description>एक हृदय कृत्रिम अंग। इसमें एक विद्युत मोटर होती है जो पूरे शरीर में रक्त को सुचारू रूप से पंप करती है। उपयोगकर्ता अक्सर थकान की शिकायत करते हैं, लेकिन यह विकल्प से बेहतर है।</SimpleProstheticHeart.description>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>कृत्रिम अंग पैर</SimpleProstheticLeg.label>
+  <!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
+  <SimpleProstheticLeg.description>एक पैर का कृत्रिम अंग। यद्यपि इसमें तंत्रिका इंटरफेस का अभाव है, आंतरिक जोड़ों की इसकी जटिल व्यवस्था इसे प्राकृतिक गति की काफी हद तक नकल करने देती है। फिर भी, यह एक असली पैर से हीन है।</SimpleProstheticLeg.description>
+  
+</LanguageData>

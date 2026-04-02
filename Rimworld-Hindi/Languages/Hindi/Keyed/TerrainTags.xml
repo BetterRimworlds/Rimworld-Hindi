@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: water and marsh -->
+  <TerrainTagWater>पानी और दलदल</TerrainTagWater>
+  <!-- EN: river -->
+  <TerrainTagRiver>नदी</TerrainTagRiver>
+  <!-- EN: ocean -->
+  <TerrainTagOcean>समुद्र</TerrainTagOcean>
+  <!-- EN: ice -->
+  <TerrainTagIce>बर्फ़</TerrainTagIce>
+  <!-- EN: fine floor -->
+  <TerrainTagFineFloor>बारीक फर्श</TerrainTagFineFloor>
+  <!-- EN: soil -->
+  <TerrainTagSoil>मिट्टी</TerrainTagSoil>
+  <!-- EN: road -->
+  <TerrainTagRoad>सड़क</TerrainTagRoad>
+  <!-- EN: floor -->
+  <TerrainTagFloor>फर्श</TerrainTagFloor>
+  <!-- EN: substructure -->
+  <TerrainTagSubstructure>उपसंरचना</TerrainTagSubstructure>
+  <!-- EN: insect -->
+  <TerrainTagInsect>कीट</TerrainTagInsect>
+
+</LanguageData>

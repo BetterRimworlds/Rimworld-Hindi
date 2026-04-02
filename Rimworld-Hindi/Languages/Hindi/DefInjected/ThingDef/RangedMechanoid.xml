@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charge blaster shot -->
+  <Bullet_ChargeBlasterHeavy.label>चार्ज ब्लास्टर शॉट</Bullet_ChargeBlasterHeavy.label>
+  
+  <!-- EN: inferno cannon shell -->
+  <Bullet_InfernoCannon.label>तोप गोला</Bullet_InfernoCannon.label>
+  
+  <!-- EN: needle shot -->
+  <Bullet_NeedleGun.label>सुई का टीका</Bullet_NeedleGun.label>
+  
+  <!-- EN: heavy charge blaster -->
+  <Gun_ChargeBlasterHeavy.label>भारी आवेश ब्लास्टर</Gun_ChargeBlasterHeavy.label>
+  <!-- EN: A pulse-charged rapid-fire blaster for area suppressive fire. Heavy cooling allows long, deadly bursts. -->
+  <Gun_ChargeBlasterHeavy.description>एक स्पंदित-चार्ज तीव्र-अग्नि ब्लास्टर क्षेत्र दमनकारी आग के लिए। भारी शीतलन लंबी, घातक झड़कों की अनुमति देता है।</Gun_ChargeBlasterHeavy.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeBlasterHeavy.tools.barrel.label>बैरल</Gun_ChargeBlasterHeavy.tools.barrel.label>
+  <!-- EN: heavy charge blaster -->
+  <Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>भारी आवेश ब्लास्टर</Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>
+  
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannon.label>अग्नि तोप</Gun_InfernoCannon.label>
+  <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
+  <Gun_InfernoCannon.description>एक ज्वलनशील-गोली लघु तोप उपकरण। यह एक बड़ा ज्वलनशील युद्धशीर्ष प्रक्षेपित करता है।</Gun_InfernoCannon.description>
+  <!-- EN: barrel -->
+  <Gun_InfernoCannon.tools.barrel.label>बैरल</Gun_InfernoCannon.tools.barrel.label>
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannon.verbs.Verb_Shoot.label>अग्नि तोप</Gun_InfernoCannon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: needle gun -->
+  <Gun_Needle.label>सुई बंदूक</Gun_Needle.label>
+  <!-- EN: A long-range weapon used by mechanoids. Named after its needle-like projectiles, it fires single shots with great accuracy. While it does less damage than charge weapons, it can reach over very long distances. -->
+  <Gun_Needle.description>मेकैनॉइड्स द्वारा इस्तेमाल किया जाने वाला एक लंबी दूरी का हथियार। इसकी सुई जैसी प्रक्षेप्य वस्तुओं के नाम पर, यह बहुत सटीकता के साथ एकल शॉट चलाता है। चार्ज हथियारों की तुलना में यह कम नुकसान पहुंचाता है, लेकिन यह बहुत लंबी दूरी तक पहुंच सकता है।</Gun_Needle.description>
+  <!-- EN: barrel -->
+  <Gun_Needle.tools.barrel.label>बैरल</Gun_Needle.tools.barrel.label>
+  <!-- EN: needle gun -->
+  <Gun_Needle.verbs.Verb_Shoot.label>सुई बंदूक</Gun_Needle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

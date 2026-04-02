@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpaca --><!-- EN: alpaca -->
+  <Alpaca.label>अल्पाका</Alpaca.label><!-- EN: alpacas -->
+  <Alpaca.labelPlural>अल्पाका</Alpaca.labelPlural><!-- EN: cría de alpaca -->
+  <Alpaca.lifeStages.0.label>अल्पाका का बच्चा</Alpaca.lifeStages.0.label><!-- EN: crías de alpaca -->
+  <Alpaca.lifeStages.0.labelPlural>अल्पाका के बच्चे</Alpaca.lifeStages.0.labelPlural><!-- EN: alpaca joven -->
+  <Alpaca.lifeStages.1.label>अल्पाका युवा</Alpaca.lifeStages.1.label><!-- EN: alpacas jóvenes -->
+  <Alpaca.lifeStages.1.labelPlural>अल्पका युवा</Alpaca.lifeStages.1.labelPlural><!-- EN: alpaca -->
+  <Alpaca.lifeStages.2.label>अल्पाका</Alpaca.lifeStages.2.label><!-- EN: alpacas -->
+  <Alpaca.lifeStages.2.labelPlural>अल्पाकास</Alpaca.lifeStages.2.labelPlural>
+  
+  <!-- EN: capybara --><!-- EN: capibara -->
+  <Capybara.label>कैपिबारा</Capybara.label><!-- EN: capibaras -->
+  <Capybara.labelPlural>कैपिबारास</Capybara.labelPlural><!-- EN: cría de capibara -->
+  <Capybara.lifeStages.0.label>कैपिबारा का बच्चा</Capybara.lifeStages.0.label><!-- EN: crías de capibara -->
+  <Capybara.lifeStages.0.labelPlural>कैपिबारा के बच्चे</Capybara.lifeStages.0.labelPlural><!-- EN: capibara joven -->
+  <Capybara.lifeStages.1.label>कैपिबारा युवा</Capybara.lifeStages.1.label><!-- EN: capibaras jóvenes -->
+  <Capybara.lifeStages.1.labelPlural>कैपिबारा युवा</Capybara.lifeStages.1.labelPlural><!-- EN: capibara -->
+  <Capybara.lifeStages.2.label>कैपिबारा</Capybara.lifeStages.2.label><!-- EN: capibaras -->
+  <Capybara.lifeStages.2.labelPlural>कैपिबारास</Capybara.lifeStages.2.labelPlural>
+  
+  <!-- EN: megasloth --><!-- EN: megaperezoso -->
+  <Megasloth.label>मेगापेरेज़ोसो</Megasloth.label><!-- EN: megaperezosos -->
+  <Megasloth.labelPlural>मेगापेरेज़ोसोस</Megasloth.labelPlural><!-- EN: cría de megaperezoso -->
+  <Megasloth.lifeStages.0.label>मेगापरेजसो का बच्चा</Megasloth.lifeStages.0.label><!-- EN: cría de megaperezoso -->
+  <Megasloth.lifeStages.0.labelFemale>मेगापरेजसो का बच्चा</Megasloth.lifeStages.0.labelFemale><!-- EN: crías de megaperezoso -->
+  <Megasloth.lifeStages.0.labelFemalePlural>मेगापेरेज़ो की शावकें</Megasloth.lifeStages.0.labelFemalePlural><!-- EN: crías de megaperezoso -->
+  <Megasloth.lifeStages.0.labelPlural>मेगापरेजसो के बच्चे</Megasloth.lifeStages.0.labelPlural><!-- EN: megaperezoso joven -->
+  <Megasloth.lifeStages.1.label>मेगापेरेज़ोसो युवा</Megasloth.lifeStages.1.label><!-- EN: megaperezosos jóvenes -->
+  <Megasloth.lifeStages.1.labelPlural>मेगापेरेज़ोसोज़ युवा</Megasloth.lifeStages.1.labelPlural><!-- EN: megaperezoso -->
+  <Megasloth.lifeStages.2.label>मेगापेरेज़ोसो</Megasloth.lifeStages.2.label><!-- EN: megaperezosos -->
+  <Megasloth.lifeStages.2.labelPlural>मेगापेरेज़ोसोस</Megasloth.lifeStages.2.labelPlural>
+  
+  <!-- EN: sheep --><!-- EN: oveja -->
+  <Sheep.label>भेड़</Sheep.label>
+  <!-- EN: ewe --><!-- EN: oveja -->
+  <Sheep.labelFemale>भेड़ (bhed)</Sheep.labelFemale><!-- EN: ovejas -->
+  <Sheep.labelFemalePlural>भेड़ें (bheden)</Sheep.labelFemalePlural>
+  <!-- EN: ram --><!-- EN: carnero -->
+  <Sheep.labelMale>कारनेरो</Sheep.labelMale><!-- EN: carneros -->
+  <Sheep.labelMalePlural>कारनेरोस</Sheep.labelMalePlural>
+  <!-- EN: sheep --><!-- EN: ovejas -->
+  <Sheep.labelPlural>ओवेजास</Sheep.labelPlural>
+  <!-- EN: lamb --><!-- EN: cordero -->
+  <Sheep.lifeStages.lamb.label>कॉर्डेरो</Sheep.lifeStages.lamb.label><!-- EN: cordera -->
+  <Sheep.lifeStages.lamb.labelFemale>भेड़ियाँ (bhediyan)</Sheep.lifeStages.lamb.labelFemale><!-- EN: corderas -->
+  <Sheep.lifeStages.lamb.labelFemalePlural>कोर्डेरास</Sheep.lifeStages.lamb.labelFemalePlural><!-- EN: cordero -->
+  <Sheep.lifeStages.lamb.labelMale>कोर्डेरो</Sheep.lifeStages.lamb.labelMale><!-- EN: corderos -->
+  <Sheep.lifeStages.lamb.labelMalePlural>कोर्डेरोस</Sheep.lifeStages.lamb.labelMalePlural>
+  <!-- EN: lambs --><!-- EN: corderos -->
+  <Sheep.lifeStages.lamb.labelPlural>कोर्डेरोस</Sheep.lifeStages.lamb.labelPlural><!-- EN: oveja joven -->
+  <Sheep.lifeStages.1.label>युवा भेड़</Sheep.lifeStages.1.label><!-- EN: oveja joven -->
+  <Sheep.lifeStages.1.labelFemale>युवा भेड़ (yuva bhed)</Sheep.lifeStages.1.labelFemale><!-- EN: ovejas jóvenes -->
+  <Sheep.lifeStages.1.labelFemalePlural>युवा भेड़ें</Sheep.lifeStages.1.labelFemalePlural><!-- EN: carnero joven -->
+  <Sheep.lifeStages.1.labelMale>कारनेरो युवा</Sheep.lifeStages.1.labelMale><!-- EN: carneros jóvenes -->
+  <Sheep.lifeStages.1.labelMalePlural>कारनेरोस युंगस</Sheep.lifeStages.1.labelMalePlural><!-- EN: ovejas jóvenes -->
+  <Sheep.lifeStages.1.labelPlural>युवा ओवेजास</Sheep.lifeStages.1.labelPlural><!-- EN: oveja -->
+  <Sheep.lifeStages.2.label>भेड़</Sheep.lifeStages.2.label><!-- EN: oveja -->
+  <Sheep.lifeStages.2.labelFemale>भेड़ (bhed)</Sheep.lifeStages.2.labelFemale><!-- EN: ovejas -->
+  <Sheep.lifeStages.2.labelFemalePlural>भेड़ें (bheden)</Sheep.lifeStages.2.labelFemalePlural><!-- EN: carnero -->
+  <Sheep.lifeStages.2.labelMale>कारनेरो</Sheep.lifeStages.2.labelMale><!-- EN: carneros -->
+  <Sheep.lifeStages.2.labelMalePlural>कैरनेरोस</Sheep.lifeStages.2.labelMalePlural><!-- EN: ovejas -->
+  <Sheep.lifeStages.2.labelPlural>ओवेजास</Sheep.lifeStages.2.labelPlural>
+  
+</LanguageData>

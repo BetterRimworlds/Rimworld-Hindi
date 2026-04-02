@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sky-high expectations -->
+  <Expectations.stages.skyhigh_expectations.label>अत्यधिक अपेक्षाएँ</Expectations.stages.skyhigh_expectations.label>
+  <!-- EN: I should be made very comfortable here. -->
+  <Expectations.stages.skyhigh_expectations.description>मुझे यहाँ बहुत आरामदायक बनाया जाना चाहिए।</Expectations.stages.skyhigh_expectations.description>
+  <!-- EN: high expectations -->
+  <Expectations.stages.high_expectations.label>उच्च अपेक्षाएँ</Expectations.stages.high_expectations.label>
+  <!-- EN: There's no reason I shouldn't have the things I want. -->
+  <Expectations.stages.high_expectations.description>मुझे अपनी चाहत की चीज़ें न मिलने का कोई कारण नहीं है।</Expectations.stages.high_expectations.description>
+  <!-- EN: moderate expectations -->
+  <Expectations.stages.moderate_expectations.label>उम्मीदें कम करें</Expectations.stages.moderate_expectations.label>
+  <!-- EN: I can't expect to be totally pampered. -->
+  <Expectations.stages.moderate_expectations.description>मैं पूरी तरह से लाड़-प्यार की उम्मीद नहीं कर सकता/सकती।</Expectations.stages.moderate_expectations.description>
+  <!-- EN: low expectations -->
+  <Expectations.stages.low_expectations.label>कम अपेक्षाएँ</Expectations.stages.low_expectations.label>
+  <!-- EN: I can't expect great comforts. -->
+  <Expectations.stages.low_expectations.description>मुझे बड़ी आराम की उम्मीद नहीं है।</Expectations.stages.low_expectations.description>
+  <!-- EN: very low expectations -->
+  <Expectations.stages.very_low_expectations.label>अपेक्षाएँ बहुत कम</Expectations.stages.very_low_expectations.label>
+  <!-- EN: I need to keep myself strong to survive. -->
+  <Expectations.stages.very_low_expectations.description>मुझे जीवित रहने के लिए मजबूत बने रहना है।</Expectations.stages.very_low_expectations.description>
+  <!-- EN: extremely low expectations -->
+  <Expectations.stages.extremely_low_expectations.label>अपेक्षाएँ बहुत कम</Expectations.stages.extremely_low_expectations.label>
+  <!-- EN: I'd better steel myself to survive. -->
+  <Expectations.stages.extremely_low_expectations.description>मुझे जीवित रहने के लिए खुद को मजबूत करना बेहतर होगा।</Expectations.stages.extremely_low_expectations.description>
+  <!-- EN: noble expectations -->
+  <Expectations.stages.noble_expectations.label>उन्नत अपेक्षाएँ</Expectations.stages.noble_expectations.label>
+  <!-- EN: I am above the little people and should be made happy every moment. -->
+  <Expectations.stages.noble_expectations.description>मुझे छोटे लोगों से ऊपर माना जाता है और हर पल खुश किया जाना चाहिए।</Expectations.stages.noble_expectations.description>
+  <!-- EN: royal expectations -->
+  <Expectations.stages.royal_expectations.label>शाही अपेक्षाएं</Expectations.stages.royal_expectations.label>
+  <!-- EN: My majesty... I can hardly believe it myself. A moment's discomfort is below me. -->
+  <Expectations.stages.royal_expectations.description>महाराज/महाराणी… मुझे खुद भी विश्वास नहीं हो रहा। क्षणिक परेशानी मेरी शान के नीचे है।</Expectations.stages.royal_expectations.description>
+  <!-- EN: elite expectations -->
+  <Expectations.stages.elite_expectations.label>उच्च अपेक्षाएँ</Expectations.stages.elite_expectations.label>
+  <!-- EN: I shouldn't have to endure any inconveniences that distract me from my important role. -->
+  <Expectations.stages.elite_expectations.description>मुझे किसी भी असुविधा को सहन नहीं करना चाहिए जो मुझे मेरी महत्वपूर्ण भूमिका से विचलित करे।</Expectations.stages.elite_expectations.description>
+  <!-- EN: supreme expectations -->
+  <Expectations.stages.supreme_expectations.label>उच्च अपेक्षाएँ</Expectations.stages.supreme_expectations.label>
+  <!-- EN: My importance here is uncontested, so my comfort must be a critical priority for my people. -->
+  <Expectations.stages.supreme_expectations.description>मेरी यहां की अहमियत निर्विवाद है, इसलिए मेरा आराम मेरे लोगों के लिए एक महत्वपूर्ण प्राथमिकता होनी चाहिए।</Expectations.stages.supreme_expectations.description>
+  
+</LanguageData>

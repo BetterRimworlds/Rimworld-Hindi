@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burn apparel -->
+  <BurnApparel.label>जलाना वस्त्र</BurnApparel.label>
+  <!-- EN: Burn unwanted apparel to completely destroy it. -->
+  <BurnApparel.description>अनावश्यक वस्त्रों को पूरी तरह नष्ट करने के लिए जलाएं।</BurnApparel.description>
+  <!-- EN: Burning apparel. -->
+  <BurnApparel.jobString>कपड़ों को जलाना।</BurnApparel.jobString>
+  
+  <!-- EN: burn drugs -->
+  <BurnDrugs.label>दवा जलाना</BurnDrugs.label>
+  <!-- EN: Burn unwanted drugs to completely destroy them. -->
+  <BurnDrugs.description>अवांछित दवाइयों को पूरी तरह नष्ट करने के लिए जलाएं।</BurnDrugs.description>
+  <!-- EN: Burning drugs. -->
+  <BurnDrugs.jobString>दवाइयाँ जलाना।</BurnDrugs.jobString>
+  
+  <!-- EN: burn weapon -->
+  <BurnWeapon.label>जलाने वाला हथियार</BurnWeapon.label>
+  <!-- EN: Burn unwanted weapon to completely destroy it. -->
+  <BurnWeapon.description>हथियार को पूरी तरह नष्ट करने के लिए जलाएं।</BurnWeapon.description>
+  <!-- EN: Burning weapon. -->
+  <BurnWeapon.jobString>हथियार जलाना।</BurnWeapon.jobString>
+  
+  <!-- EN: cremate corpse -->
+  <CremateCorpse.label>शव दाह</CremateCorpse.label>
+  <!-- EN: Cremate a corpse to completely destroy it. -->
+  <CremateCorpse.description>शरीर को पूरी तरह नष्ट करने के लिए उसका दाह संस्कार करें।</CremateCorpse.description>
+  <!-- EN: Cremating. -->
+  <CremateCorpse.jobString>दाहन।</CremateCorpse.jobString>
+  
+</LanguageData>

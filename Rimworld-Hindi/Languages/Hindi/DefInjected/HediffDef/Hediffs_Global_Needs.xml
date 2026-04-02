@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: malnutrition -->
+  <Malnutrition.label>कुपोषण</Malnutrition.label>
+  <!-- EN: Abnormally low body fat and weight, typically caused by lack of food. Malnutrition is always very unpleasant, but its initial effects are mild. Without food, though, a malnourished creature will waste away, losing muscle mass and capacities. Malnutrition ends with death. Upon re-feeding malnutrition naturally recovers over time. Malnourished creatures have larger appetites than normal. -->
+  <Malnutrition.description>शरीर में असामान्य रूप से कम वसा और वजन, आमतौर पर भोजन की कमी के कारण होता है। कुपोषण हमेशा अप्रिय होता है, लेकिन इसके शुरुआती प्रभाव हल्के होते हैं। भोजन के बिना, एक कुपोषित प्राणी कमजोर हो जाएगा, मांसपेशी द्रव्यमान और क्षमताएं खो देगा। कुपोषण मृत्यु के साथ समाप्त होता है। पुनः पोषण पर, कुपोषण समय के साथ स्वाभाविक रूप से ठीक हो जाता है। कुपोषित प्राणियों की भूख सामान्य से अधिक होती है।</Malnutrition.description>
+  <!-- EN: trivial -->
+  <Malnutrition.stages.trivial.label>मामूली</Malnutrition.stages.trivial.label>
+  <!-- EN: minor -->
+  <Malnutrition.stages.minor.label>मामूली</Malnutrition.stages.minor.label>
+  <!-- EN: moderate -->
+  <Malnutrition.stages.moderate.label>मध्यम</Malnutrition.stages.moderate.label>
+  <!-- EN: severe -->
+  <Malnutrition.stages.severe.label>गंभीर</Malnutrition.stages.severe.label>
+  <!-- EN: extreme -->
+  <Malnutrition.stages.extreme.label>गंभीर</Malnutrition.stages.extreme.label>
+  
+</LanguageData>

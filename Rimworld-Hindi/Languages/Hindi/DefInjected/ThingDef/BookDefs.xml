@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: novel -->
+  <Novel.label>उपन्यास</Novel.label>
+  <!-- EN: A book containing fictional or true stories for the pleasure and edification of the reader. -->
+  <Novel.description>एक पुस्तक जिसमें पाठक के आनंद और ज्ञान के लिए काल्पनिक या वास्तविक कहानियाँ शामिल हैं।</Novel.description>
+  
+  <!-- EN: schematic -->
+  <Schematic.label>आरेख</Schematic.label>
+  <!-- EN: A book which describes technology and methods for using it. Reading schematics can help unlock new technologies. -->
+  <Schematic.description>एक पुस्तक जो प्रौद्योगिकी और इसके उपयोग की विधियों का वर्णन करती है। योजनाओं को पढ़ना नई तकनीकों को अनलॉक करने में मदद कर सकता है।</Schematic.description>
+  
+  <!-- EN: textbook -->
+  <TextBook.label>पाठ्यपुस्तक</TextBook.label>
+  <!-- EN: A book which focuses on teaching skills. -->
+  <TextBook.description>एक पुस्तक जो कौशल सिखाने पर केंद्रित है।</TextBook.description>
+  
+</LanguageData>

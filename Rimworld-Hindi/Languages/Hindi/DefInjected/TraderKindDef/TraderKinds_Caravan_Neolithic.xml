@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bulk goods trader -->
+  <Caravan_Neolithic_BulkGoods.label>थोक माल व्यापारी</Caravan_Neolithic_BulkGoods.label>
+  
+  <!-- EN: shaman merchant -->
+  <Caravan_Neolithic_ShamanMerchant.label>शमन व्यापारी</Caravan_Neolithic_ShamanMerchant.label>
+  
+  <!-- EN: slaver -->
+  <Caravan_Neolithic_Slaver.label>गुलाम</Caravan_Neolithic_Slaver.label>
+  
+  <!-- EN: war merchant -->
+  <Caravan_Neolithic_WarMerchant.label>युद्ध व्यापारी</Caravan_Neolithic_WarMerchant.label>
+  
+</LanguageData>

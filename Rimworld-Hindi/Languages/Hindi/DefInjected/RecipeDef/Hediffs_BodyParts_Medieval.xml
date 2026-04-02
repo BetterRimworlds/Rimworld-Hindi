@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install denture -->
+  <InstallDenture.label>डेंटचर स्थापना</InstallDenture.label>
+  <!-- EN: Install a denture. -->
+  <InstallDenture.description>दांतों का कृत्रिम सेट स्थापित करें।</InstallDenture.description>
+  <!-- EN: Installing denture. -->
+  <InstallDenture.jobString>डेंटचर लगाना।</InstallDenture.jobString>
+  
+  <!-- EN: install peg leg -->
+  <InstallPegLeg.label>कृत्रिम पैर</InstallPegLeg.label>
+  <!-- EN: Install a peg leg. -->
+  <InstallPegLeg.description>कृत्रिम पैर स्थापित करें।</InstallPegLeg.description>
+  <!-- EN: Installing peg leg. -->
+  <InstallPegLeg.jobString>कृत्रिम पैर लगाना।</InstallPegLeg.jobString>
+  
+  <!-- EN: install wooden foot -->
+  <InstallWoodenFoot.label>लकड़ी का पाँव लगाना</InstallWoodenFoot.label>
+  <!-- EN: Install a wooden foot. -->
+  <InstallWoodenFoot.description>लकड़ी का पैर स्थापित करें।</InstallWoodenFoot.description>
+  <!-- EN: Installing wooden foot. -->
+  <InstallWoodenFoot.jobString>लकड़ी का पैर लगाना।</InstallWoodenFoot.jobString>
+  
+  <!-- EN: install wooden hand -->
+  <InstallWoodenHand.label>लकड़ी हाथ लगाना</InstallWoodenHand.label>
+  <!-- EN: Install a wooden hand. -->
+  <InstallWoodenHand.description>एक लकड़ी का हाथ स्थापित करें।</InstallWoodenHand.description>
+  <!-- EN: Installing wooden hand. -->
+  <InstallWoodenHand.jobString>लकड़ी का हाथ लगाना।</InstallWoodenHand.jobString>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lump of precious resources -->
+  <PreciousLump.label>कीमती संसाधन का ढेर</PreciousLump.label>
+  <!-- EN: A mineable lump of precious resources. -->
+  <PreciousLump.description>एक मूल्यवान संसाधन का खनन योग्य ढेर।</PreciousLump.description>
+  <!-- EN: Hostile activity detected. -->
+  <PreciousLump.mainPartAllThreatsLabel>शत्रुतापूर्ण गतिविधि का पता चला।</PreciousLump.mainPartAllThreatsLabel>
+  
+</LanguageData>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>कोक्लिअर इम्प्लांट</CochlearImplant.label>
+  <!-- EN: An installed cochlear implant. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
+  <CochlearImplant.description>स्थापित कॉक्लिअर इम्प्लांट। एक बाहरी माइक्रोफ़ोन आंतरिक कान की श्रवण संवेदी नसों के चारों ओर लिपटे इलेक्ट्रोड तक ध्वनि संकेत प्रसारित करता है। इलेक्ट्रोड ध्वनि के अनुसार नसों को उत्तेजित करते हैं, जिससे सुनने की अनुभूति होती है। यह प्राकृतिक कान जितना अच्छा नहीं है, लेकिन बहरे होने से बहुत बेहतर है।</CochlearImplant.description>
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>एक कोक्लिअर इम्प्लांट</CochlearImplant.labelNoun>
+  
+  <!-- EN: joywire -->
+  <Joywire.label>जॉयवायर</Joywire.label>
+  <!-- EN: An installed joywire implant. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures. -->
+  <Joywire.description>एक स्थापित जॉयवायर प्रत्यारोपण। हालाँकि यह उपयोगकर्ता के मनोदशा में नाटकीय रूप से सुधार करता है, लेकिन खुशी की चादर वास्तविक किसी भी चीज़ पर ध्यान केंद्रित करना मुश्किल बना देती है। जॉयवायर कई दुनियाओं पर अवैध हैं, और पूरी संस्कृतियों को नष्ट करने के लिए जाने जाते हैं।</Joywire.description>
+  <!-- EN: a joywire -->
+  <Joywire.labelNoun>जॉयवायर</Joywire.labelNoun>
+  
+  <!-- EN: painstopper -->
+  <Painstopper.label>दर्द निवारक</Painstopper.label>
+  <!-- EN: An installed painstopper implant. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily. -->
+  <Painstopper.description>एक स्थापित दर्द निवारक प्रत्यारोपण। यह उपयोगकर्ता को अधिक कार्य करने की अनुमति देता है, लेकिन पता चला है कि दर्द का एक उद्देश्य होता है। जब आप इसे महसूस नहीं करते हैं, तो आप बहुत आसानी से गंभीर रूप से घायल हो सकते हैं।</Painstopper.description>
+  <!-- EN: a painstopper -->
+  <Painstopper.labelNoun>दर्द निवारक</Painstopper.labelNoun>
+  
+  <!-- EN: power claw -->
+  <PowerClaw.label>पावर पंजा</PowerClaw.label>
+  <!-- EN: An installed power claw consisting of a mechanical hand with a hooked claw on each finger. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted, making it as useful as a natural hand for non-combat tasks, however its overall ungainliness slows down movement slightly. -->
+  <PowerClaw.description>स्थापित पावर पंजा एक यांत्रिक हाथ से बना होता है जिसमें प्रत्येक उंगली पर एक हुक वाला पंजा लगा होता है। यह गहरा काटता है, और इतना मजबूत है कि एक हाथ अंडे को कुचलने की तरह खोपड़ी को कुचल सकता है। पंजे वापस लिए जा सकते हैं, जिससे यह गैर-लड़ाकू कार्यों के लिए एक प्राकृतिक हाथ जितना उपयोगी हो जाता है, हालाँकि इसकी समग्र अनाड़ीपन गति को थोड़ा धीमा कर देता है।</PowerClaw.description>
+  <!-- EN: claw -->
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>पंजा</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <!-- EN: a power claw -->
+  <PowerClaw.labelNoun>पावर पंजा</PowerClaw.labelNoun>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>कृत्रिम बांह</SimpleProstheticArm.label>
+  <!-- EN: An installed prosthetic arm. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
+  <SimpleProstheticArm.description>एक स्थापित कृत्रिम हाथ। भले ही इसमें तंत्रिका इंटरफ़ेस का अभाव है, इसके आंतरिक जोड़ों की जटिल व्यवस्था इसे स्वाभाविक गति की काफी हद तक नकल करने की अनुमति देती है। फिर भी, यह एक असली हाथ से हीन है।</SimpleProstheticArm.description>
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>मुट्ठी</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>कृत्रिम बांह</SimpleProstheticArm.labelNoun>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>कृत्रिम हृदय</SimpleProstheticHeart.label>
+  <!-- EN: An installed prosthetic heart. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
+  <SimpleProstheticHeart.description>स्थापित कृत्रिम हृदय। इसमें एक इलेक्ट्रिक मोटर होती है जो रक्त को शरीर में सुचारू रूप से पंप करती है। उपयोगकर्ता अक्सर थकान की शिकायत करते हैं, लेकिन यह विकल्प से बेहतर है।</SimpleProstheticHeart.description>
+  <!-- EN: a prosthetic heart -->
+  <SimpleProstheticHeart.labelNoun>कृत्रिम हृदय</SimpleProstheticHeart.labelNoun>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>कृत्रिम पैर</SimpleProstheticLeg.label>
+  <!-- EN: An installed prosthetic leg. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
+  <SimpleProstheticLeg.description>एक स्थापित कृत्रिम पैर। हालाँकि इसमें तंत्रिका इंटरफ़ेस का अभाव है, आंतरिक जोड़ों की इसकी जटिल व्यवस्था इसे प्राकृतिक गति की काफी हद तक नकल करने की अनुमति देती है। फिर भी, यह एक असली पैर से हीन है।</SimpleProstheticLeg.description>
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>कृत्रिम पैर</SimpleProstheticLeg.labelNoun>
+  
+</LanguageData>

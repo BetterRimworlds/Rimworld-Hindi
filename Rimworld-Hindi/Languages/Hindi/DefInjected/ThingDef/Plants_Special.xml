@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burned stump -->
+  <BurnedTree.label>जली हुई जड़</BurnedTree.label>
+  <!-- EN: A burned tree stump. It's ugly and yields very little usable wood. -->
+  <BurnedTree.description>एक जला हुआ पेड़ का ठूंठ। यह बदसूरत है और बहुत कम उपयोगी लकड़ी देता है।</BurnedTree.description>
+  
+  <!-- EN: chopped stump -->
+  <ChoppedStump.label>कटा तना</ChoppedStump.label>
+  <!-- EN: A stump left behind after a tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <ChoppedStump.description>एक पेड़ काटे जाने के बाद बचा हुआ लट्ठ। लट्ठ को निकाला जा सकता है, लेकिन इससे बहुत कम उपयोगी लकड़ी मिलती है। बाहर छोड़ दिए जाने पर, लट्ठ समय के साथ खराब हो जाएगा।</ChoppedStump.description>
+  
+  <!-- EN: dye -->
+  <Dye.label>रंगना</Dye.label>
+  <!-- EN: Dye extracted from a tinctoria plant. It can be used to change the color of walls, buildings, and more. -->
+  <Dye.description>टिंक्टोरिया पौधे से निकाला गया रंग। इसका उपयोग दीवारों, इमारतों और अन्य चीज़ों का रंग बदलने के लिए किया जा सकता है।</Dye.description>
+  
+  <!-- EN: ambrosia bush -->
+  <Plant_Ambrosia.label>अमृत झाड़ी</Plant_Ambrosia.label>
+  <!-- EN: A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods. -->
+  <Plant_Ambrosia.description>एक दुर्लभ जंगली झाड़ी जो अमृत फल देती है। अमृत फल स्वादिष्ट होता है और नशीले मूड बूस्ट का उत्पादन करता है। अमृत की खेती नहीं की जा सकती, जो जंगली अमृत के बागों को बहुत मूल्यवान बनाता है।\n\nइसकी दुर्लभता, सुंदरता और वांछनीयता के कारण ही अमृत का नाम प्राचीन ग्रीक देवताओं के भोजन के नाम पर रखा गया था।</Plant_Ambrosia.description>
+  
+  <!-- EN: timbershroom -->
+  <Plant_Timbershroom.label>लकड़ी मशरूम</Plant_Timbershroom.label>
+  <!-- EN: A tall brown mushroom with a long stem. When harvested, it yields a wood-like substance. -->
+  <Plant_Timbershroom.description>एक लंबा भूरा मशरूम जिसका डंठल लंबा है। कटाई करने पर, यह लकड़ी जैसा पदार्थ देता है।</Plant_Timbershroom.description>
+  
+  <!-- EN: tinctoria -->
+  <Plant_Tinctoria.label>टिंक्टोरिया</Plant_Tinctoria.label>
+  <!-- EN: A genetically-engineered flower-like crop which secretes a self-altering dye. Tinctoria dye can be coaxed into different colors and used to change the color of walls, buildings, and more. -->
+  <Plant_Tinctoria.description>एक आनुवंशिक रूप से संशोधित फूल जैसा फसल जो स्वयं बदलने वाला रंग स्रावित करता है। टिनक्टोरिया रंग को विभिन्न रंगों में बदला जा सकता है और दीवारों, इमारतों और अन्य चीजों के रंग को बदलने के लिए इस्तेमाल किया जा सकता है।</Plant_Tinctoria.description>
+  
+  <!-- EN: smashed stump -->
+  <SmashedStump.label>टूटा हुआ लट्ठ</SmashedStump.label>
+  <!-- EN: The remnants of a tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <SmashedStump.description>पेड़ के नष्ट होने के अवशेष। यह भद्दा है। लट्ठ को निकाला जा सकता है लेकिन इससे बहुत कम उपयोगी लकड़ी मिलती है। बाहर छोड़ दिया जाए तो लट्ठ समय के साथ खराब हो जाएगा।</SmashedStump.description>
+  
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cure scaria -->
+  <CureScaria.label>स्कारिया उपचार</CureScaria.label>
+  <!-- EN: This special medical operation cures scaria. -->
+  <CureScaria.description>यह विशेष चिकित्सा प्रक्रिया स्केरिया का इलाज करती है।</CureScaria.description>
+  <!-- EN: Curing scaria. -->
+  <CureScaria.jobString>स्कारिया का इलाज।</CureScaria.jobString>
+  <!-- EN: {0} has successfully cured {1}'s scaria. -->
+  <CureScaria.successfullyRemovedHediffMessage>{0} ने सफलतापूर्वक {1} के स्केरिया का इलाज किया।</CureScaria.successfullyRemovedHediffMessage>
+  
+  <!-- EN: sterilize -->
+  <Sterilize.label>नसबंदी</Sterilize.label>
+  <!-- EN: Sterilize a creature so it can no longer reproduce. -->
+  <Sterilize.description>किसी जीव को बंध्या बनाइए ताकि वह अब प्रजनन न कर सके।</Sterilize.description>
+  <!-- EN: sterilizing TargetA. -->
+  <Sterilize.jobString>TargetA को निष्कीटण।</Sterilize.jobString>
+  <!-- EN: {0} has successfully sterilized {1}. -->
+  <Sterilize.successfullyRemovedHediffMessage>{0} ने सफलतापूर्वक {1} को निष्फल कर दिया।</Sterilize.successfullyRemovedHediffMessage>
+  
+</LanguageData>

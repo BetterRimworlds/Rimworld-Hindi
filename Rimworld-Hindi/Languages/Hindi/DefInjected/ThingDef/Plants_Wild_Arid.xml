@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: agave -->
+  <Plant_Agave.label>अगवे</Plant_Agave.label>
+  <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
+  <Plant_Agave.description>एक बड़े पत्ते वाला रेगिस्तानी पौधा जिसके फूल और डंठल खाने योग्य हैं।</Plant_Agave.description>
+  
+  <!-- EN: pincushion cactus -->
+  <Plant_PincushionCactus.label>पिनकुशन कैक्टस</Plant_PincushionCactus.label>
+  <!-- EN: A short cactus. It is so named because it resembles a pincushion. -->
+  <Plant_PincushionCactus.description>एक छोटा कैक्टस। इसे पिनकुशन जैसा दिखने के कारण इस नाम से जाना जाता है।</Plant_PincushionCactus.description>
+  
+  <!-- EN: saguaro cactus -->
+  <Plant_SaguaroCactus.label>साग्वारो कैक्टस</Plant_SaguaroCactus.label>
+  <!-- EN: A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood. -->
+  <Plant_SaguaroCactus.description>एक बड़ा कैक्टस शुष्क पृथ्वी के वातावरण में पाया जाता है। यद्यपि यह पेड़ नहीं है, फिर भी यह रेशेदार सामग्री की थोड़ी मात्रा देता है जिसका उपयोग लकड़ी की तरह किया जा सकता है।</Plant_SaguaroCactus.description>
+  
+  <!-- EN: drago tree -->
+  <Plant_TreeDrago.label>ड्रैगो वृक्ष</Plant_TreeDrago.label>
+  <!-- EN: A hardy desert tree topped with thick, pointed leaves. -->
+  <Plant_TreeDrago.description>एक मजबूत रेगिस्तानी वृक्ष, जिसके ऊपर मोटे, नुकीले पत्ते हैं।</Plant_TreeDrago.description>
+  
+</LanguageData>

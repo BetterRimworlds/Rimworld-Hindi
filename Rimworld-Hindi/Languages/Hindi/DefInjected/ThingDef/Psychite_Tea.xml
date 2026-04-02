@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychite tea -->
+  <PsychiteTea.label>मानसिक चाय</PsychiteTea.label>
+  <!-- EN: A fragrant tea infused with leaves of the psychoid plant. Drinking it induces a subtle psychite euphoria. This tea is easy to produce at cooking facilities, but can produce psychite addiction if consumed too often.\n\nMany tribes use psychoid tea, both as a daily energizer and as part of social and religious rituals. -->
+  <PsychiteTea.description>साइकोइड पौधे की पत्तियों से युक्त एक सुगंधित चाय। इसे पीने से सूक्ष्म साइकोइट उत्साह उत्पन्न होता है। यह चाय खाना पकाने की सुविधाओं पर आसानी से बनाई जा सकती है, लेकिन यदि बहुत अधिक मात्रा में सेवन किया जाए तो साइकोइट की लत लग सकती है।\n\nकई जनजातियाँ साइकोइड चाय का उपयोग करती हैं, दोनों दैनिक ऊर्जावर्धक के रूप में और सामाजिक और धार्मिक अनुष्ठानों के हिस्से के रूप में।</PsychiteTea.description>
+  <!-- EN: Drink {0} -->
+  <PsychiteTea.ingestible.ingestCommandString>पीना {0}</PsychiteTea.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <PsychiteTea.ingestible.ingestReportString>पीना {0}।</PsychiteTea.ingestible.ingestReportString>
+  
+</LanguageData>

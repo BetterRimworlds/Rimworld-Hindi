@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abandoned camp -->
+  <AbandonedCamp.label>छोड़ा शिविर</AbandonedCamp.label>
+  <!-- EN: An abandoned camp. -->
+  <AbandonedCamp.description>एक परित्यक्त शिविर।</AbandonedCamp.description>
+  
+  <!-- EN: abandoned settlement -->
+  <AbandonedSettlement.label>छोड़ा हुआ ठिकाना</AbandonedSettlement.label>
+  <!-- EN: An abandoned settlement. -->
+  <AbandonedSettlement.description>एक परित्यक्त बस्ती।</AbandonedSettlement.description>
+  
+  <!-- EN: attacked caravan -->
+  <AttackedNonPlayerCaravan.label>हमलावर कारवाँ</AttackedNonPlayerCaravan.label>
+  <!-- EN: A caravan under attack. -->
+  <AttackedNonPlayerCaravan.description>एक कारवां पर हमला हो रहा है।</AttackedNonPlayerCaravan.description>
+  
+  <!-- EN: camp -->
+  <Camp.label>शिविर</Camp.label>
+  <!-- EN: A caravan has set up camp here temporarily. -->
+  <Camp.description>एक कारवां ने यहाँ अस्थायी रूप से शिविर लगाया है।</Camp.description>
+  
+  <!-- EN: caravan -->
+  <Caravan.label>कारवाँ</Caravan.label>
+  <!-- EN: A group of traveling people. -->
+  <Caravan.description>यात्रा करने वाले लोगों का एक समूह।</Caravan.description>
+  
+  <!-- EN: destroyed settlement -->
+  <DestroyedSettlement.label>विनाशित बस्ती</DestroyedSettlement.label>
+  <!-- EN: A destroyed settlement. -->
+  <DestroyedSettlement.description>एक नष्ट बस्ती।</DestroyedSettlement.description>
+  
+  <!-- EN: landed ship -->
+  <EscapeShip.label>उतरा जहाज</EscapeShip.label>
+  <!-- EN: The location of a hidden ship which can help you escape the planet. -->
+  <EscapeShip.description>ग्रह से भागने में मदद करने वाले छिपे हुए जहाज का स्थान।</EscapeShip.description>
+  
+  <!-- EN: peace talks -->
+  <PeaceTalks.label>शांति वार्ता</PeaceTalks.label>
+  <!-- EN: A site designated for peace talks. -->
+  <PeaceTalks.description>एक शांति वार्ता के लिए निर्धारित स्थान।</PeaceTalks.description>
+  
+  <!-- EN: pocket map -->
+  <PocketMap.label>हाथ का नक्शा</PocketMap.label>
+  
+  <!-- EN: waypoint -->
+  <RoutePlannerWaypoint.label>मार्ग बिंदु</RoutePlannerWaypoint.label>
+  <!-- EN: A temporary waypoint. -->
+  <RoutePlannerWaypoint.description>एक अस्थायी मार्गदर्शक बिंदु।</RoutePlannerWaypoint.description>
+  
+  <!-- EN: settlement -->
+  <Settlement.label>बस्ती</Settlement.label>
+  <!-- EN: A base of one of the factions. -->
+  <Settlement.description>किसी गुट का आधार।</Settlement.description>
+  
+  <!-- EN: site -->
+  <Site.label>स्थल</Site.label>
+  
+  <!-- EN: transport pods -->
+  <TravellingTransporters.label>परिवहन पॉड</TravellingTransporters.label>
+  <!-- EN: Transport pods in flight. -->
+  <TravellingTransporters.description>उड़ान में परिवहन पॉड।</TravellingTransporters.description>
+  
+</LanguageData>

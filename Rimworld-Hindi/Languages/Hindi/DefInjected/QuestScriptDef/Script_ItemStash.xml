@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->We've intercepted messages about a collection of valuable items worth [itemStashContentsValue] not far from [map_definite]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a collection of valuable items worth [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</li>
+  -->
+  <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->हमने कुछ संदेशों को रोका है जो आपको रुचिकर हो सकने वाले वस्तुओं के संग्रह के बारे में हैं जिनकी कीमत है [itemStashContentsValue] से बहुत दूर नहीं [map_definite]. संग्रह में शामिल हैं\n\n[itemStashContents]\n\nऐसा लगता है कि [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] का [asker_faction_name], हमें मूल्यवान वस्तुओं के एक संग्रह के बारे में सूचित किया है जिसकी कीमत [itemStashContentsValue] हमसे बहुत दूर नहीं है। संग्रह में शामिल हैं:\n\n[itemStashContents]\n\n[asker_label] कहता है कि [allSitePartsDescriptionsExceptFirst]</li>
+  </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(priority=1)->[asker_nameDef]'s [stash] of [treasure]</li>
+    <li>questName->[stash] of [treasure]</li>
+    <li>stash->Stash</li>
+    <li>stash->Cache</li>
+    <li>stash->Collection</li>
+    <li>stash->Shack</li>
+    <li>treasure->Treasure</li>
+    <li>treasure->Valuables</li>
+    <li>treasure->Fortune</li>
+    <li>treasure->Goodies</li>
+    <li>treasure->Supplies</li>
+  -->
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings>
+    <li>questName(priority=1)->का [stash] [treasure] का [asker_nameDef]</li>
+    <li>questName->का [stash] [treasure]</li>
+    <li>stash->संचय</li>
+    <li>stash->छिपाने का स्थान</li>
+    <li>stash->संग्रह</li>
+    <li>stash->झोपड़ी</li>
+    <li>treasure->खजाने का</li>
+    <li>treasure->माल का</li>
+    <li>treasure->भाग्य का</li>
+    <li>treasure->सामान की</li>
+    <li>treasure->सामग्रियों का</li>
+  </OpportunitySite_ItemStash.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>मिशन समाप्त हो गया: [resolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>बाधित संचार इंगित करते हैं कि वस्तु का भंडार दूसरों द्वारा दावा किया गया है। मिशन [resolvedQuestName] समाप्त हो गया है।</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

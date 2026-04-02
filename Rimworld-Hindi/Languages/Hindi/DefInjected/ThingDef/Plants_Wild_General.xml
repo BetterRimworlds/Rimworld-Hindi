@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brambles -->
+  <Plant_Brambles.label>काँटेदार झाड़ियाँ</Plant_Brambles.label>
+  <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
+  <Plant_Brambles.description>जंगले, कांटेदार, लकड़ी की शाखाएँ पत्तियों से ढकी हुई हैं। झाड़ियाँ गुच्छों में उगती हैं, और उन पर चलने वाले किसी भी व्यक्ति को धीमा कर देती हैं।</Plant_Brambles.description>
+  
+  <!-- EN: bush -->
+  <Plant_Bush.label>झाड़ी</Plant_Bush.label>
+  <!-- EN: A short shrub. Does not typically talk. -->
+  <Plant_Bush.description>एक छोटा झाड़ी। आमतौर पर बात नहीं करता।</Plant_Bush.description>
+  
+  <!-- EN: grass -->
+  <Plant_Grass.label>घास</Plant_Grass.label>
+  <!-- EN: Wild grass. Grows anywhere there is a little light and minimally fertile ground. -->
+  <Plant_Grass.description>जंगली घास। थोड़ी रोशनी और कम उपजाऊ जमीन होने पर कहीं भी उगती है।</Plant_Grass.description>
+  
+  <!-- EN: wild healroot -->
+  <Plant_HealrootWild.label>जंगली उपचारमूल</Plant_HealrootWild.label>
+  <!-- EN: A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is hardier than domesticated healroot, but too difficult to cultivate. It is prized by tribespeople in colder climates. -->
+  <Plant_HealrootWild.description>धीरे-धीरे बढ़ने वाला पौधा जो कटाई पर औषधीय जड़ी-बूटी देता है।\n\nयह जंगली हीलरूट की नस्ल घरेलू हीलरूट से अधिक मजबूत है, लेकिन इसकी खेती करना बहुत मुश्किल है। यह ठंडे जलवायु में रहने वाले जनजातीय लोगों द्वारा पसंद किया जाता है।</Plant_HealrootWild.description>
+  
+  <!-- EN: tall grass -->
+  <Plant_TallGrass.label>ऊँची घास</Plant_TallGrass.label>
+  <!-- EN: Wild tall grass. Slows down anyone moving over it. -->
+  <Plant_TallGrass.description>जंगली ऊंची घास। इससे गुजरने वाले किसी भी व्यक्ति की गति धीमी हो जाती है।</Plant_TallGrass.description>
+  
+</LanguageData>

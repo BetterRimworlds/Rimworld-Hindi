@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make granite blocks -->
+  <Make_StoneBlocksGranite.label>ग्रेनाइट खंडक</Make_StoneBlocksGranite.label>
+  <!-- EN: Cuts granite chunks into usable blocks. -->
+  <Make_StoneBlocksGranite.description>चट्टानों को उपयोगी खंडों में काटने की प्रक्रिया।</Make_StoneBlocksGranite.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksGranite.jobString>चट्टान के टुकड़ों को काटना।</Make_StoneBlocksGranite.jobString>
+  
+  <!-- EN: make limestone blocks -->
+  <Make_StoneBlocksLimestone.label>चूना पत्थर ब्लॉक</Make_StoneBlocksLimestone.label>
+  <!-- EN: Cuts limestone chunks into usable blocks. -->
+  <Make_StoneBlocksLimestone.description>चूना पत्थर के टुकड़ों को उपयोगी ब्लॉकों में काटता है।</Make_StoneBlocksLimestone.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksLimestone.jobString>चट्टान के टुकड़ों को काटना।</Make_StoneBlocksLimestone.jobString>
+  
+  <!-- EN: make marble blocks -->
+  <Make_StoneBlocksMarble.label>मार्बल ब्लॉक बनाना</Make_StoneBlocksMarble.label>
+  <!-- EN: Cuts marble chunks into usable blocks. -->
+  <Make_StoneBlocksMarble.description>संगमरमर के टुकड़ों को उपयोगी ब्लॉकों में काटना।</Make_StoneBlocksMarble.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksMarble.jobString>चट्टानों को काटना।</Make_StoneBlocksMarble.jobString>
+  
+  <!-- EN: make sandstone blocks -->
+  <Make_StoneBlocksSandstone.label>रेत पत्थर खंड</Make_StoneBlocksSandstone.label>
+  <!-- EN: Cuts sandstone chunks into usable blocks. -->
+  <Make_StoneBlocksSandstone.description>रेत के टुकड़ों को उपयोगी ब्लॉकों में काटना।</Make_StoneBlocksSandstone.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksSandstone.jobString>चट्टान के टुकड़ों को काटना।</Make_StoneBlocksSandstone.jobString>
+  
+  <!-- EN: make slate blocks -->
+  <Make_StoneBlocksSlate.label>स्लेट ब्लॉक बनाना</Make_StoneBlocksSlate.label>
+  <!-- EN: Cuts slate chunks into usable blocks. -->
+  <Make_StoneBlocksSlate.description>पट्टिका के टुकड़ों को उपयोगी ब्लॉकों में काटना।</Make_StoneBlocksSlate.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksSlate.jobString>चट्टान के टुकड़ों को काटना।</Make_StoneBlocksSlate.jobString>
+  
+</LanguageData>

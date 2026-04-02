@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heart -->
+  <Heart.label>हृदय</Heart.label>
+  
+  <!-- EN: kidney -->
+  <Kidney.label>गुर्दा</Kidney.label>
+  
+  <!-- EN: liver -->
+  <Liver.label>यकृत</Liver.label>
+  
+  <!-- EN: lung -->
+  <Lung.label>फेफड़ा</Lung.label>
+  
+  <!-- EN: stomach -->
+  <Stomach.label>पेट</Stomach.label>
+  
+</LanguageData>

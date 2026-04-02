@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cassandra Classic -->
+  <Cassandra.label>कैसेंड्रा क्लासिक</Cassandra.label>
+  <!-- EN: Cassandra creates story events on a classic increasing curve of challenge and tension. She'll push you with dangerous events, then give breathing room, then come back to push once more. -->
+  <Cassandra.description>कैसेंड्रा चुनौती और तनाव की एक क्लासिक बढ़ती वक्र पर कहानी की घटनाओं का निर्माण करती है। यह खतरनाक घटनाओं से आपको धकेलेगी, फिर राहत देगी, फिर एक बार फिर धकेलने आएगी।</Cassandra.description>
+  
+  <!-- EN: Phoebe Chillax -->
+  <Phoebe.label>फ़ोबी चिल्लैक्स</Phoebe.label>
+  <!-- EN: Phoebe gives lots of time between disasters to build your colony. But beware - at high difficulties, she'll hit as hard as anyone. -->
+  <Phoebe.description>फ़ोएबी उपनिवेश बनाने के लिए आपदाओं के बीच काफ़ी समय देती है। लेकिन सावधान रहें—उच्च कठिनाई स्तरों पर, वह किसी भी व्यक्ति की तरह ही प्रहार करेगी।</Phoebe.description>
+  
+  <!-- EN: Randy Random -->
+  <Randy.label>यादृच्छिक रैंडी</Randy.label>
+  <!-- EN: Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.\n\nWarning: Since Randy is truly random, he will sometimes send extremely difficult or unfair groups of events at you. It makes for high drama - and unavoidable sacrifices. -->
+  <Randy.description>रैंडी नियमों का पालन नहीं करता। यह यादृच्छिक घटनाएं उत्पन्न करेगा, और इसे इस बात की परवाह नहीं है कि वे विजय या पूर्ण निराशा की कहानी बनाती हैं। यह इसके लिए सब नाटक है।\n\nचेतावनी: चूंकि रैंडी वास्तव में यादृच्छिक है, इसलिए यह कभी-कभी आपको बेहद कठिन या अनुचित घटनाओं का समूह भेजेगा। यह उच्च नाटक—और अपरिहार्य बलिदानों की ओर ले जाता है।</Randy.description>
+  
+  <!-- EN: Tutor Hidden -->
+  <Tutor.label>शिक्षक गुप्त</Tutor.label>
+  
+</LanguageData>

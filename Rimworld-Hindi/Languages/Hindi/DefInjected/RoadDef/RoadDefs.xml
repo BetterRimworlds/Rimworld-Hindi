@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient asphalt highway -->
+  <AncientAsphaltHighway.label>प्राचीन डामर मार्ग</AncientAsphaltHighway.label>
+  
+  <!-- EN: ancient asphalt road -->
+  <AncientAsphaltRoad.label>प्राचीन डामर मार्ग</AncientAsphaltRoad.label>
+  
+  <!-- EN: dirt path -->
+  <DirtPath.label>मिट्टी का रास्ता</DirtPath.label>
+  
+  <!-- EN: dirt road -->
+  <DirtRoad.label>मिट्टी मार्ग</DirtRoad.label>
+  
+  <!-- EN: stone road -->
+  <StoneRoad.label>पत्थर मार्ग</StoneRoad.label>
+  
+</LanguageData>

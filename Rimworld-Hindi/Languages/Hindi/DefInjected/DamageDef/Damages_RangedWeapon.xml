@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arrow -->
+  <Arrow.label>तीर</Arrow.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
+  <Arrow.deathMessage>{0} को एक तीर से मार डाला गया है।</Arrow.deathMessage>
+  
+  <!-- EN: arrow -->
+  <ArrowHighVelocity.label>तीर</ArrowHighVelocity.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
+  <ArrowHighVelocity.deathMessage>{0} को एक तीर से मार डाला गया है।</ArrowHighVelocity.deathMessage>
+  
+  <!-- EN: bullet -->
+  <Bullet.label>बुलेट</Bullet.label>
+  <!-- EN: {0} has been shot to death. -->
+  <Bullet.deathMessage>{0} को गोली मारकर मार दिया गया है।</Bullet.deathMessage>
+  
+  <!-- EN: stab -->
+  <RangedStab.label>घातक वार</RangedStab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <RangedStab.deathMessage>{0} को चाकू मार कर मार डाला गया है।</RangedStab.deathMessage>
+  
+</LanguageData>

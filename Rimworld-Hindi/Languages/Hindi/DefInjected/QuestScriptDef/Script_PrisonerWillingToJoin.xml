@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->A prisoner being held by [siteFaction_name] has managed to steal a radio and call you!\n\n[prisoner_nameDef] is being held at a camp near [map_definite][underArmedGuard]. Rescue [prisoner_objective], and [prisoner_pronoun] will join your colony. [prisoner_pronoun] is a [prisoner_age]-year-old [prisoner_title]. [prisoner_pronoun] says that [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\nIf you miss this opportunity, you may never hear from [prisoner_nameDef] again.</li>
+    <li>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</li>
+    <li>formerColonistInfo-></li>
+    <li>underArmedGuard(allowViolentQuests==true,priority=1)-> under armed guard</li>
+    <li>underArmedGuard-></li>
+  -->
+  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+    <li>questDescription(prisoner_gender!=Female)->एक कैदी जिसे गुट द्वारा रखा गया है [siteFaction_name] उसने एक रेडियो चुराने और तुम्हें बुलाने में सफलता प्राप्त की!\n\n[prisoner_nameDef] एक शिविर में पास में रखा गया है [map_definite][underArmedGuard]उसे बचाओ और वह तुम्हारे उपनिवेश में शामिल हो जाएगा। [prisoner_pronoun] है [prisoner_titleIndef] का [prisoner_age] वर्ष का है। वह कहता है कि [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\nयदि तुम इस अवसर को खो देते हो, तो शायद तुम कभी भी उससे फिर से खबर न पाओ [prisoner_nameDef]।</li>
+    <li>questDescription(prisoner_gender==Female)->एक कैदी जिसे गुट ने बंधक बनाया है [siteFaction_name] उसने एक रेडियो चुराने और तुम्हें बुलाने में सफलता प्राप्त की है!\n\n[prisoner_nameDef] वह पास के एक शिविर में बंधक है [map_definite][underArmedGuard]उसे बचाओ और वह तुम्हारे उपनिवेश में शामिल हो जाएगी। [prisoner_pronoun] है [prisoner_titleIndef] की [prisoner_age] वर्ष की उम्र है। वह कहती है कि [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\nयदि तुम इस अवसर को खो देते हो, तो शायद तुम कभी भी उससे फिर से खबर न पाओ [prisoner_nameDef]।</li>
+    <li>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</li>
+    <li>formerColonistInfo-></li>
+    <li>underArmedGuard(allowViolentQuests==true,priority=1)->हथियारबंद गार्डों द्वारा संरक्षित</li>
+    <li>underArmedGuard-></li>
+  </OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[prisoner_nameDef]'s Salvation</li>
+    <li>questName->[prisoner_nameDef]'s Rescue</li>
+    <li>questName->[prisoner_nameDef]'s Breakout</li>
+    <li>questName->Rescuing [prisoner_nameDef]</li>
+    <li>questName->Saving [prisoner_nameDef]</li>
+    <li>questName->Breaking [prisoner_nameDef] Out</li>
+  -->
+  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+    <li>questName->[prisoner_nameDef] की मुक्ति [prisoner_nameDef]</li>
+    <li>questName->[prisoner_nameDef] की मुक्ति [prisoner_nameDef]</li>
+    <li>questName->[prisoner_nameDef] का पलायन [prisoner_nameDef]</li>
+    <li>questName->[prisoner_nameDef] को बचा रहा हूँ [prisoner_nameDef]</li>
+    <li>questName->[prisoner_nameDef] को बचा रहा हूँ [prisoner_nameDef]</li>
+    <li>questName->[prisoner_nameDef] का भागना [prisoner_nameDef]</li>
+  </OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: club -->
+  <MeleeWeapon_Club.label>क्लब</MeleeWeapon_Club.label>
+  <!-- EN: A shaped stick, heavy at one end, for bashing enemies to death. This weapon is so old it's part of human biology. Evolutionary biologists say that a major reason humans can tilt our wrists side-to-side (instead of just forward-and-back like other primates) is to be able to better swing a club. -->
+  <MeleeWeapon_Club.description>एक आकारित छड़ी, जिसका एक सिरा भारी होता है, दुश्मनों को मारने के लिए। यह हथियार इतना पुराना है कि यह मानव जीव विज्ञान का हिस्सा है। विकासवादी जीवविज्ञानी कहते हैं कि एक प्रमुख कारण कि मनुष्य अपनी कलाई को अगल-बगल झुका सकता है (अन्य प्राइमेट्स की तरह केवल आगे-पीछे नहीं) एक क्लब को बेहतर ढंग से घुमाने में सक्षम होना है।</MeleeWeapon_Club.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Club.tools.handle.label>संभालना</MeleeWeapon_Club.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Club.tools.head.label>सिर</MeleeWeapon_Club.tools.head.label>
+  
+  <!-- EN: ikwa -->
+  <MeleeWeapon_Ikwa.label>इकवा</MeleeWeapon_Ikwa.label>
+  <!-- EN: A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust. -->
+  <MeleeWeapon_Ikwa.description>एक छोटा भाला-हैंडल लंबे ब्लेडेड पॉइंट से जुड़ा है, जिसे त्वरित थ्रस्ट के साथ महत्वपूर्ण अंगों में चलाने के लिए डिज़ाइन किया गया है।</MeleeWeapon_Ikwa.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Ikwa.tools.handle.label>संभालना</MeleeWeapon_Ikwa.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Ikwa.tools.head.label>सिर</MeleeWeapon_Ikwa.tools.head.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Ikwa.tools.edge.label>किनारा</MeleeWeapon_Ikwa.tools.edge.label>
+  
+  <!-- EN: knife -->
+  <MeleeWeapon_Knife.label>चाकू</MeleeWeapon_Knife.label>
+  <!-- EN: One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting. -->
+  <MeleeWeapon_Knife.description>मानवता की सबसे पुरानी निर्मित वस्तुओं में से एक। चाकू ने कई रूप धारण किए हैं, लेकिन अवधारणा हमेशा समान रही है: पकड़ने के लिए एक हैंडल और काटने के लिए एक तेज किनारा।</MeleeWeapon_Knife.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Knife.tools.handle.label>संभालना</MeleeWeapon_Knife.tools.handle.label>
+  <!-- EN: blade -->
+  <MeleeWeapon_Knife.tools.blade.label>चाकू</MeleeWeapon_Knife.tools.blade.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Knife.tools.point.label>बिंदु</MeleeWeapon_Knife.tools.point.label>
+  
+  <!-- EN: spear -->
+  <MeleeWeapon_Spear.label>भाला</MeleeWeapon_Spear.label>
+  <!-- EN: A polearm tipped with a sharp point for stabbing opponents. -->
+  <MeleeWeapon_Spear.description>एक नुकीली नोक से युक्त भाला, जो विरोधियों को मारने के लिए इस्तेमाल होता है।</MeleeWeapon_Spear.description>
+  <!-- EN: shaft -->
+  <MeleeWeapon_Spear.tools.shaft.label>शाफ्ट</MeleeWeapon_Spear.tools.shaft.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Spear.tools.point.label>बिंदु</MeleeWeapon_Spear.tools.point.label>
+  
+</LanguageData>

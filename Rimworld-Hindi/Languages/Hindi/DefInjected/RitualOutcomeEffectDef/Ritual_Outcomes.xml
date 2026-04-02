@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AttendedSpeech.description>अनुष्ठान की गुणवत्ता के आधार पर, प्रतिभागियों को {MOODDAYS} दिनों तक {MINMOOD} और {MAXMOOD} के बीच मनोदशा प्राप्त होगी।</AttendedSpeech.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <AttendedSpeech.comps.0.label>सदस्य का सामाजिक प्रभाव</AttendedSpeech.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <AttendedSpeech.comps.0.labelAbstract>सामाजिक प्रभाव</AttendedSpeech.comps.0.labelAbstract>
+  <!-- EN: participant count -->
+  <AttendedSpeech.comps.1.label>उपस्थित संख्या</AttendedSpeech.comps.1.label>
+  <!-- EN: room impressiveness -->
+  <AttendedSpeech.comps.2.label>कक्ष भव्यता</AttendedSpeech.comps.2.label>
+  <!-- EN: Terrible -->
+  <AttendedSpeech.outcomeChances.0.label>भयानक</AttendedSpeech.outcomeChances.0.label>
+  <!-- EN: Uninspiring -->
+  <AttendedSpeech.outcomeChances.1.label>निराशाजनक</AttendedSpeech.outcomeChances.1.label>
+  <!-- EN: Encouraging -->
+  <AttendedSpeech.outcomeChances.2.label>प्रोत्साहन</AttendedSpeech.outcomeChances.2.label>
+  <!-- EN: Inspirational -->
+  <AttendedSpeech.outcomeChances.3.label>प्रेरणा</AttendedSpeech.outcomeChances.3.label>
+  
+</LanguageData>

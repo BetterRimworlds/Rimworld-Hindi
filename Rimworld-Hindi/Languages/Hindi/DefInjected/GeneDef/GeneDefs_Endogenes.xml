@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blonde hair -->
+  <Hair_Blonde.label>सुनहरे बाल</Hair_Blonde.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_Blonde.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_Blonde.description>
+  
+  <!-- EN: red hair -->
+  <Hair_BrightRed.label>लाल बाल</Hair_BrightRed.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_BrightRed.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_BrightRed.description>
+  
+  <!-- EN: dark-black hair -->
+  <Hair_DarkBlack.label>गहरा काला बाल</Hair_DarkBlack.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_DarkBlack.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_DarkBlack.description>
+  
+  <!-- EN: brown hair -->
+  <Hair_DarkBrown.label>भूरे बाल</Hair_DarkBrown.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_DarkBrown.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_DarkBrown.description>
+  
+  <!-- EN: dark-reddish hair -->
+  <Hair_DarkReddish.label>गहरा-लाल बाल</Hair_DarkReddish.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_DarkReddish.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_DarkReddish.description>
+  
+  <!-- EN: dark-brown hair -->
+  <Hair_DarkSaturatedReddish.label>गहरा भूरा बाल</Hair_DarkSaturatedReddish.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_DarkSaturatedReddish.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_DarkSaturatedReddish.description>
+  
+  <!-- EN: gray hair -->
+  <Hair_Gray.label>धूसर बाल</Hair_Gray.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_Gray.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_Gray.description>
+  
+  <!-- EN: ink-black hair -->
+  <Hair_InkBlack.label>स्याह बाल</Hair_InkBlack.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_InkBlack.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_InkBlack.description>
+  
+  <!-- EN: blue hair -->
+  <Hair_LightBlue.label>नीली बाल</Hair_LightBlue.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightBlue.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_LightBlue.description>
+  
+  <!-- EN: green hair -->
+  <Hair_LightGreen.label>हरा बाल</Hair_LightGreen.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightGreen.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_LightGreen.description>
+  
+  <!-- EN: orange hair -->
+  <Hair_LightOrange.label>नारंगी बाल</Hair_LightOrange.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightOrange.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_LightOrange.description>
+  
+  <!-- EN: purple hair -->
+  <Hair_LightPurple.label>बैंगनी बाल</Hair_LightPurple.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightPurple.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_LightPurple.description>
+  
+  <!-- EN: teal hair -->
+  <Hair_LightTeal.label>टील बाल</Hair_LightTeal.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightTeal.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_LightTeal.description>
+  
+  <!-- EN: mid-black hair -->
+  <Hair_MidBlack.label>मध्य-काला बाल</Hair_MidBlack.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_MidBlack.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_MidBlack.description>
+  
+  <!-- EN: pink hair -->
+  <Hair_Pink.label>गुलाबी बाल</Hair_Pink.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_Pink.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_Pink.description>
+  
+  <!-- EN: reddish-brown hair -->
+  <Hair_ReddishBrown.label>लाल-भूरा बाल</Hair_ReddishBrown.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_ReddishBrown.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_ReddishBrown.description>
+  
+  <!-- EN: sandy-blonde hair -->
+  <Hair_SandyBlonde.label>रेतीला-सुनहरा बाल</Hair_SandyBlonde.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_SandyBlonde.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_SandyBlonde.description>
+  
+  <!-- EN: snow-white hair -->
+  <Hair_SnowWhite.label>बर्फीला-सफ़ेद बाल</Hair_SnowWhite.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_SnowWhite.description>इस जीन के वाहकों के बाल एक विशेष रंग के होते हैं। कई बाल रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Hair_SnowWhite.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin1.label>त्वचा रंग</Skin_Melanin1.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin1.description>इस जीन के वाहकों की त्वचा का एक विशेष रंग होता है। कई त्वचा रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Skin_Melanin1.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin2.label>त्वचा रंग</Skin_Melanin2.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin2.description>इस जीन के वाहकों की त्वचा का एक विशेष रंग होता है। कई त्वचा रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Skin_Melanin2.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin3.label>त्वचा रंग</Skin_Melanin3.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin3.description>इस जीन के वाहकों की त्वचा का एक विशेष रंग होता है। कई त्वचा रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Skin_Melanin3.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin4.label>त्वचा रंग</Skin_Melanin4.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin4.description>इस जीन के वाहकों की त्वचा का एक विशेष रंग होता है। कई त्वचा रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Skin_Melanin4.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin5.label>त्वचा रंग</Skin_Melanin5.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin5.description>इस जीन के वाहकों की त्वचा का एक विशेष रंग होता है। कई त्वचा रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Skin_Melanin5.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin6.label>त्वचा रंग</Skin_Melanin6.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin6.description>इस जीन के वाहकों की त्वचा का एक विशेष रंग होता है। कई त्वचा रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Skin_Melanin6.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin7.label>त्वचा रंग</Skin_Melanin7.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin7.description>इस जीन के वाहकों की त्वचा का एक विशेष रंग होता है। कई त्वचा रंग जीनों के साथ, एक को यादृच्छिक रूप से चुना जाता है।</Skin_Melanin7.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin8.label>त्वचा रंग</Skin_Melanin8.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin8.description>इस जीन के वाहकों की त्वचा का एक विशेष रंग होता है। कई त्वचा रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Skin_Melanin8.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin9.label>त्वचा रंग</Skin_Melanin9.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin9.description>इस जीन के वाहकों की त्वचा का एक विशेष रंग होता है। कई त्वचा रंग जीन होने पर, एक को यादृच्छिक रूप से चुना जाता है।</Skin_Melanin9.description>
+  
+</LanguageData>

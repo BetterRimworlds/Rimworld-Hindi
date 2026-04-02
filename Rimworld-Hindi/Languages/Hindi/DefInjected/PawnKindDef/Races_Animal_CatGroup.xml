@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cat --><!-- EN: gato -->
+  <Cat.label>गैटो</Cat.label><!-- EN: gata -->
+  <Cat.labelFemale>गता</Cat.labelFemale><!-- EN: gatas -->
+  <Cat.labelFemalePlural>गैटस</Cat.labelFemalePlural><!-- EN: gato -->
+  <Cat.labelMale>गैटो</Cat.labelMale><!-- EN: gatos -->
+  <Cat.labelMalePlural>गैटोस</Cat.labelMalePlural><!-- EN: gatos -->
+  <Cat.labelPlural>गैटोस</Cat.labelPlural>
+  <!-- EN: kitten --><!-- EN: cachorro de gato -->
+  <Cat.lifeStages.kitten.label>बिल्ली का पिल्ला</Cat.lifeStages.kitten.label><!-- EN: cachorros de gato -->
+  <Cat.lifeStages.kitten.labelPlural>बिल्ली के पिल्ले</Cat.lifeStages.kitten.labelPlural><!-- EN: gato joven -->
+  <Cat.lifeStages.1.label>गैटो युवा</Cat.lifeStages.1.label><!-- EN: gata joven -->
+  <Cat.lifeStages.1.labelFemale>गता युवती</Cat.lifeStages.1.labelFemale><!-- EN: gatas jóvenes -->
+  <Cat.lifeStages.1.labelFemalePlural>गतास युवतीं (gataas yuvatiṁ)</Cat.lifeStages.1.labelFemalePlural><!-- EN: gato joven -->
+  <Cat.lifeStages.1.labelMale>गैटो युवा</Cat.lifeStages.1.labelMale><!-- EN: gatos jóvenes -->
+  <Cat.lifeStages.1.labelMalePlural>गैटोस युवा</Cat.lifeStages.1.labelMalePlural><!-- EN: gatos jóvenes -->
+  <Cat.lifeStages.1.labelPlural>युवा गातोस</Cat.lifeStages.1.labelPlural><!-- EN: gato -->
+  <Cat.lifeStages.2.label>गैटो</Cat.lifeStages.2.label><!-- EN: gata -->
+  <Cat.lifeStages.2.labelFemale>गता</Cat.lifeStages.2.labelFemale><!-- EN: gatas -->
+  <Cat.lifeStages.2.labelFemalePlural>गैटस</Cat.lifeStages.2.labelFemalePlural><!-- EN: gato -->
+  <Cat.lifeStages.2.labelMale>गैटो</Cat.lifeStages.2.labelMale><!-- EN: gatos -->
+  <Cat.lifeStages.2.labelMalePlural>गैटोस</Cat.lifeStages.2.labelMalePlural><!-- EN: gatos -->
+  <Cat.lifeStages.2.labelPlural>गैटोस</Cat.lifeStages.2.labelPlural>
+  
+  <!-- EN: guinea pig --><!-- EN: cobaya -->
+  <GuineaPig.label>कोबाया</GuineaPig.label><!-- EN: cobayas -->
+  <GuineaPig.labelPlural>कोबायास</GuineaPig.labelPlural><!-- EN: cría de cobaya -->
+  <GuineaPig.lifeStages.0.label>कोबाया का बच्चा</GuineaPig.lifeStages.0.label><!-- EN: crías de cobaya -->
+  <GuineaPig.lifeStages.0.labelPlural>कोबाया चूजे</GuineaPig.lifeStages.0.labelPlural><!-- EN: cobaya joven -->
+  <GuineaPig.lifeStages.1.label>कोबाया युवा</GuineaPig.lifeStages.1.label><!-- EN: cobayas jóvenes -->
+  <GuineaPig.lifeStages.1.labelPlural>कोबायास युवा</GuineaPig.lifeStages.1.labelPlural><!-- EN: cobaya -->
+  <GuineaPig.lifeStages.2.label>कोबाया</GuineaPig.lifeStages.2.label><!-- EN: cobayas -->
+  <GuineaPig.lifeStages.2.labelPlural>कोबायास</GuineaPig.lifeStages.2.labelPlural>
+  
+  <!-- EN: husky --><!-- EN: husky -->
+  <Husky.label>हस्की</Husky.label>
+  <!-- EN: huskies --><!-- EN: huskies -->
+  <Husky.labelPlural>हस्कीज़</Husky.labelPlural>
+  <!-- EN: husky puppy --><!-- EN: cachorro de husky -->
+  <Husky.lifeStages.husky_puppy.label>हस्की पिल्ला</Husky.lifeStages.husky_puppy.label>
+  <!-- EN: husky puppies --><!-- EN: cachorros de husky -->
+  <Husky.lifeStages.husky_puppy.labelPlural>हस्की पिल्ले</Husky.lifeStages.husky_puppy.labelPlural><!-- EN: husky joven -->
+  <Husky.lifeStages.1.label>हस्की युवा</Husky.lifeStages.1.label><!-- EN: huskies jóvenes -->
+  <Husky.lifeStages.1.labelPlural>हस्की पिल्ले</Husky.lifeStages.1.labelPlural><!-- EN: husky -->
+  <Husky.lifeStages.2.label>हस्की</Husky.lifeStages.2.label><!-- EN: huskies -->
+  <Husky.lifeStages.2.labelPlural>हस्कीज़</Husky.lifeStages.2.labelPlural>
+  
+  <!-- EN: labrador retriever --><!-- EN: labrador retriever -->
+  <LabradorRetriever.label>लैब्राडोर रिट्रीवर</LabradorRetriever.label><!-- EN: labradores retriever -->
+  <LabradorRetriever.labelPlural>लेब्राडोर रिट्रीवर</LabradorRetriever.labelPlural>
+  <!-- EN: labrador puppy --><!-- EN: cachorro de labrador -->
+  <LabradorRetriever.lifeStages.labrador_puppy.label>लैब्राडोर पिल्ला</LabradorRetriever.lifeStages.labrador_puppy.label>
+  <!-- EN: labrador puppies --><!-- EN: cachorros de labrador -->
+  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>लैब्राडोर पिल्ले</LabradorRetriever.lifeStages.labrador_puppy.labelPlural><!-- EN: labrador joven -->
+  <LabradorRetriever.lifeStages.1.label>लैब्राडोर युवा</LabradorRetriever.lifeStages.1.label><!-- EN: labradores retriever jóvenes -->
+  <LabradorRetriever.lifeStages.1.labelPlural>लैब्राडोर रिट्रीवर युवा</LabradorRetriever.lifeStages.1.labelPlural><!-- EN: labrador retriever -->
+  <LabradorRetriever.lifeStages.2.label>लैब्राडोर रिट्रीवर</LabradorRetriever.lifeStages.2.label><!-- EN: labradores retriever -->
+  <LabradorRetriever.lifeStages.2.labelPlural>लेब्राडोर रिट्रीवर</LabradorRetriever.lifeStages.2.labelPlural>
+  
+  <!-- EN: monkey --><!-- EN: mono -->
+  <Monkey.label>मोनो</Monkey.label><!-- EN: mona -->
+  <Monkey.labelFemale>मोना</Monkey.labelFemale><!-- EN: monas -->
+  <Monkey.labelFemalePlural>मोनस</Monkey.labelFemalePlural><!-- EN: mono -->
+  <Monkey.labelMale>मोनो</Monkey.labelMale><!-- EN: monos -->
+  <Monkey.labelMalePlural>मोनोस</Monkey.labelMalePlural><!-- EN: monos -->
+  <Monkey.labelPlural>मोनोस</Monkey.labelPlural><!-- EN: cría de mono -->
+  <Monkey.lifeStages.0.label>बंदर का बच्चा</Monkey.lifeStages.0.label><!-- EN: cría de mona -->
+  <Monkey.lifeStages.0.labelFemale>मोंना की बच्ची</Monkey.lifeStages.0.labelFemale><!-- EN: crías de mona -->
+  <Monkey.lifeStages.0.labelFemalePlural>बंदर की शावकें</Monkey.lifeStages.0.labelFemalePlural><!-- EN: crías de mono -->
+  <Monkey.lifeStages.0.labelPlural>बंदर के बच्चे</Monkey.lifeStages.0.labelPlural><!-- EN: mono joven -->
+  <Monkey.lifeStages.1.label>मोनो युवा</Monkey.lifeStages.1.label><!-- EN: mona joven -->
+  <Monkey.lifeStages.1.labelFemale>मोनै युवा</Monkey.lifeStages.1.labelFemale><!-- EN: monas jóvenes -->
+  <Monkey.lifeStages.1.labelFemalePlural>युवा मोनास</Monkey.lifeStages.1.labelFemalePlural><!-- EN: mono joven -->
+  <Monkey.lifeStages.1.labelMale>मोनो युवा</Monkey.lifeStages.1.labelMale><!-- EN: monos jóvenes -->
+  <Monkey.lifeStages.1.labelMalePlural>मोनोस युवा</Monkey.lifeStages.1.labelMalePlural><!-- EN: monos jóvenes -->
+  <Monkey.lifeStages.1.labelPlural>मोनोस युवा</Monkey.lifeStages.1.labelPlural><!-- EN: mono -->
+  <Monkey.lifeStages.2.label>मोनो</Monkey.lifeStages.2.label><!-- EN: mona -->
+  <Monkey.lifeStages.2.labelFemale>मोना</Monkey.lifeStages.2.labelFemale><!-- EN: monas -->
+  <Monkey.lifeStages.2.labelFemalePlural>मोनस</Monkey.lifeStages.2.labelFemalePlural><!-- EN: mono -->
+  <Monkey.lifeStages.2.labelMale>मोनो</Monkey.lifeStages.2.labelMale><!-- EN: monos -->
+  <Monkey.lifeStages.2.labelMalePlural>मोनोस</Monkey.lifeStages.2.labelMalePlural><!-- EN: monos -->
+  <Monkey.lifeStages.2.labelPlural>मोनोस</Monkey.lifeStages.2.labelPlural>
+  
+  <!-- EN: yorkshire terrier --><!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.label>यॉर्कशायर टेरियर</YorkshireTerrier.label><!-- EN: yorkshire terriers -->
+  <YorkshireTerrier.labelPlural>यॉर्कशायर टेरियर्स</YorkshireTerrier.labelPlural>
+  <!-- EN: yorkshire terrier puppy --><!-- EN: cachorro de terrier -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>टेरियर पिल्ला</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
+  <!-- EN: yorkshire terrier puppies --><!-- EN: cachorros de terrier -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>टेरियर पिल्ले</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural><!-- EN: yorkshire terrier joven -->
+  <YorkshireTerrier.lifeStages.1.label>यॉर्कशायर टेरियर युवा</YorkshireTerrier.lifeStages.1.label><!-- EN: yorkshire terrier jóvenes -->
+  <YorkshireTerrier.lifeStages.1.labelPlural>यॉर्कशायर टेरियर युवा</YorkshireTerrier.lifeStages.1.labelPlural><!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.lifeStages.2.label>यॉर्कशायर टेरियर</YorkshireTerrier.lifeStages.2.label><!-- EN: yorkshire terriers -->
+  <YorkshireTerrier.lifeStages.2.labelPlural>यॉर्कशायर टेरियर्स</YorkshireTerrier.lifeStages.2.labelPlural>
+  
+</LanguageData>

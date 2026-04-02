@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Children are presumed innocent, which makes them excellent spies. [PAWN_nameDef] was trained in the art of infiltration when [PAWN_pronoun] was just a small child.\n\n[PAWN_possessive] years undercover gave [PAWN_objective] experience with social manipulation and lying, but [PAWN_pronoun] never had a normal education. -->
+  <ChildSpy47.description>{PAWN_gender ? बच्चे निर्दोष माने जाते हैं, जो उन्हें उत्कृष्ट जासूस बनाता है। [PAWN_nameDef] को बचपन में ही घुसपैठ की कला में प्रशिक्षित किया गया था।\n\nउसके वर्षों के गुप्तचर जीवन ने उसे सामाजिक हेरफेर और झूठ बोलने का अनुभव दिया, लेकिन उसे कभी भी सामान्य शिक्षा नहीं मिल पाई। : छोटे बच्चे निर्दोष माने जाते हैं, जो उन्हें उत्कृष्ट जासूस बनाता है। [PAWN_nameDef] को बचपन में ही घुसपैठ की कला में प्रशिक्षित किया गया था।\n\nउसके वर्षों के गुप्तचर जीवन ने उसे सामाजिक हेरफेर और झूठ बोलने का अनुभव दिया, लेकिन उसे कभी भी सामान्य शिक्षा नहीं मिल पाई।}</ChildSpy47.description>
+  <!-- EN: child spy -->
+  <ChildSpy47.title>बाल जासूस</ChildSpy47.title>
+  <ChildSpy47.titleFemale>बाल जासूस</ChildSpy47.titleFemale>
+  <!-- EN: spy -->
+  <ChildSpy47.titleShort>जासूस</ChildSpy47.titleShort>
+  <ChildSpy47.titleShortFemale>जासूस</ChildSpy47.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a child actor in films and TV shows. [PAWN_possessive] fame put [PAWN_objective] in contact with many different kinds of people, but also tended to get in the way of [PAWN_possessive] education. -->
+  <ChildStar74.description>{PAWN_gender ? [PAWN_nameDef] अपनी गृह दुनिया में एक बाल कलाकार के रूप में फिल्मों और टीवी शो में अपनी प्रसिद्धि के लिए जानी जाती थी। उसकी प्रसिद्धि ने उसे कई अलग-अलग प्रकार के लोगों के संपर्क में ला दिया, लेकिन इसने उसकी शिक्षा में अक्सर बाधा डाली। : [PAWN_nameDef] अपने गृह ग्रह पर एक बाल कलाकार के रूप में फिल्मों और टीवी शो में प्रसिद्ध थे। उनकी प्रसिद्धि ने उन्हें कई अलग-अलग प्रकार के लोगों के संपर्क में लाया, लेकिन इसने उनकी शिक्षा में अक्सर बाधा डाली।}</ChildStar74.description>
+  <!-- EN: child star -->
+  <ChildStar74.title>बाल कलाकार</ChildStar74.title>
+  <ChildStar74.titleFemale>बाल कलाकार</ChildStar74.titleFemale>
+  <!-- EN: star -->
+  <ChildStar74.titleShort>तारा</ChildStar74.titleShort>
+  <ChildStar74.titleShortFemale>तारा</ChildStar74.titleShortFemale>
+  
+  <!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn't wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
+  <ComaChild93.description>{PAWN_gender ? एक बचपन की दुर्घटना ने [PAWN_nameDef] को कोमा में डाल दिया। वह अपनी किशोरावस्था के अंत तक नहीं जागी। वर्षों की निष्क्रियता से उसका शरीर कभी ठीक नहीं हुआ, लेकिन लोग उसकी कहानी सुनकर उस पर दया करते हैं। : एक बचपन की दुर्घटना ने [PAWN_nameDef] को कोमा में डाल दिया। वह अपनी किशोरावस्था के अंत तक नहीं जागा। वर्षों की निष्क्रियता से उसका शरीर कभी ठीक नहीं हुआ, लेकिन लोग उसकी कहानी सुनकर उस पर दया करते हैं।}</ComaChild93.description>
+  <!-- EN: coma child -->
+  <ComaChild93.title>कोमा बालक</ComaChild93.title>
+  <ComaChild93.titleFemale>कोमा बालिका</ComaChild93.titleFemale>
+  <!-- EN: coma child -->
+  <ComaChild93.titleShort>कोमा बालक</ComaChild93.titleShort>
+  <ComaChild93.titleShortFemale>कोमा बालिका</ComaChild93.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born into a powerful cult which shunned advanced technology and believed that all illness could be cured by cleansing the soul through sacred art.\n\nAfter [PAWN_possessive] first glimpse of the outside world, [PAWN_pronoun] decided to run away. -->
+  <CultChild3.description>{PAWN_gender ? [PAWN_nameDef] एक शक्तिशाली पंथ में जन्मी थी जिसने उन्नत तकनीक को तिरस्कृत किया और माना कि सभी बीमारियों का इलाज पवित्र कला के माध्यम से आत्मा को शुद्ध करके किया जा सकता है।\n\nबाहरी दुनिया की अपनी पहली झलक देखने के बाद, उसने भागने का फैसला किया। : [PAWN_nameDef] एक शक्तिशाली पंथ में पैदा हुआ था जिसने उन्नत तकनीक को तिरस्कार किया और माना कि सभी बीमारियों का इलाज पवित्र कला के माध्यम से आत्मा को शुद्ध करके किया जा सकता है।\n\nबाहरी दुनिया की अपनी पहली झलक देखने के बाद, उसने भागने का फैसला किया।}</CultChild3.description>
+  <!-- EN: cult child -->
+  <CultChild3.title>पंथ का बालक</CultChild3.title>
+  <CultChild3.titleFemale>पंथ की बच्ची</CultChild3.titleFemale>
+  <!-- EN: cult kid -->
+  <CultChild3.titleShort>पंथ का बच्चा</CultChild3.titleShort>
+  <CultChild3.titleShortFemale>पंथ की बच्ची</CultChild3.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up with a laundry list of phobias and neuroses. [PAWN_pronoun] feared, among other things, doctors and foodborne pathogens.\n\nAs a result, [PAWN_pronoun] learned to cook and care for [PAWN_objective]self, but many of [PAWN_possessive] fears dog [PAWN_objective] in adulthood. -->
+  <FrightenedChild43.description>{PAWN_gender ? [PAWN_nameDef] कई तरह के भय और मनोविकारों के साथ पली-बढ़ी। उसे डॉक्टरों और खाद्य जनित रोगजनकों से डर लगता था।\n\nइसके परिणामस्वरूप, उसने खाना बनाना और अपना ख्याल रखना सीखा, लेकिन आज भी उसके कई डर उसका पीछा करते हैं। : [PAWN_nameDef] कई तरह के फोबिया और न्यूरोसिस के साथ बड़ा हुआ। वह डॉक्टरों और खाद्य जनित रोगजनकों से डरता था।\n\nइसके परिणामस्वरूप, उसने खाना बनाना और अपना ख्याल रखना सीखा, लेकिन अब भी उसके कई डर उसका पीछा करते हैं।}</FrightenedChild43.description>
+  <!-- EN: frightened child -->
+  <FrightenedChild43.title>डरपोक बालक</FrightenedChild43.title>
+  <FrightenedChild43.titleFemale>डरपोक बच्ची</FrightenedChild43.titleFemale>
+  <!-- EN: scared -->
+  <FrightenedChild43.titleShort>डरपोक</FrightenedChild43.titleShort>
+  <FrightenedChild43.titleShortFemale>डरपोक</FrightenedChild43.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born during a catastrophic war in which both sides used incendiary weapons. [PAWN_pronoun] grew up helping [PAWN_possessive] parents in an infirmary, treating the cascade of horrific burns from the battlefields. [PAWN_pronoun] was left with a lifelong fear of fire. -->
+  <MedicalAssistant12.description>{PAWN_gender ? [PAWN_nameDef] का जन्म एक विनाशकारी युद्ध के दौरान हुआ, जिसमें दोनों पक्षों ने ज्वलनशील हथियारों का इस्तेमाल किया। वह युद्धक्षेत्रों से आने वाले भयानक जलने के घावों का इलाज करने के लिए अपने माता-पिता की एक इन्फिर्मरी में मदद करती हुई बड़ी हुई। उसे जीवन भर आग से डर रही। : [PAWN_nameDef] का जन्म एक विनाशकारी युद्ध के दौरान हुआ, जिसमें दोनों पक्षों ने ज्वलनशील हथियारों का इस्तेमाल किया। वह युद्धक्षेत्रों से आने वाले भयानक जलने के घावों का इलाज करने के लिए अपने माता-पिता को एक इन्फिर्मरी में मदद करते हुए बड़ा हुआ। उसे जीवन भर आग से डर रहा।}</MedicalAssistant12.description>
+  <!-- EN: medical assistant -->
+  <MedicalAssistant12.title>चिकित्सा सहायक</MedicalAssistant12.title>
+  <!-- EN: medic -->
+  <MedicalAssistant12.titleShort>चिकित्सक</MedicalAssistant12.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] had a talent for playing musical instruments and singing. [PAWN_pronoun] was given expert training and loved to perform in recitals and concerts, though the lavish praise [PAWN_pronoun] received made [PAWN_objective] a little self-obsessed. -->
+  <MusicalKid86.description>{PAWN_gender ? बचपन में ही [PAWN_nameDef] को संगीत वाद्ययंत्र बजाने और गाने की प्रतिभा थी। उसे विशेषज्ञ प्रशिक्षण दिया गया था और वह रिसिटल व संगीत समारोहों में प्रदर्शन करना पसंद करती थी, हालांकि उसे मिली बहुतायत प्रशंसा ने उसे थोड़ा आत्म-केंद्रित बना दिया। : बचपन में ही [PAWN_nameDef] को संगीत वाद्ययंत्र बजाने और गाने की प्रतिभा थी। उसे विशेषज्ञ प्रशिक्षण दिया गया था और वह रिसिटल व संगीत समारोहों में प्रदर्शन करना पसंद करता था, हालांकि उसे मिली बहुतायत प्रशंसा ने उसे थोड़ा आत्म-केंद्रित बना दिया।}</MusicalKid86.description>
+  <!-- EN: musical kid -->
+  <MusicalKid86.title>संगीत प्रतिभा बालक</MusicalKid86.title>
+  <MusicalKid86.titleFemale>संगीत प्रतिभा बालिका</MusicalKid86.titleFemale>
+  <!-- EN: musician -->
+  <MusicalKid86.titleShort>संगीतकार</MusicalKid86.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was greatly affected by a traumatic event early in [PAWN_possessive] life. For many years [PAWN_pronoun] refused to speak to people, preferring instead to play with [PAWN_possessive] household's numerous pets. -->
+  <Mute34.description>[PAWN_nameDef] के जीवन के आरंभ में एक आघातक घटना ने उसे गहरा प्रभावित किया। कई वर्षों तक उसने लोगों से बात करने से इनकार कर दिया और बजाय इसके अपने घर के कई पालतू जानवरों के साथ खेलना पसंद किया।</Mute34.description>
+  <!-- EN: mute -->
+  <Mute34.title>मूक</Mute34.title>
+  <Mute34.titleFemale>मूक</Mute34.titleFemale>
+  <!-- EN: mute -->
+  <Mute34.titleShort>मूक</Mute34.titleShort>
+  <Mute34.titleShortFemale>मूक</Mute34.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was raised in an illegal underground organ farm. [PAWN_possessive] body was used to grow organic implants for wounded mercenaries. Though [PAWN_possessive] upbringing has left [PAWN_objective] haunted, it has also given [PAWN_objective] a unique understanding of human biology. -->
+  <OrganFarm67.description>{PAWN_gender ? [PAWN_nameDef] को एक अवैध भूमिगत अंग फार्म में पाला गया था। उसके शरीर का उपयोग घायल भाड़े के सैनिकों के लिए जैविक प्रत्यारोपण उगाने के लिए किया गया था। हालांकि उसकी परवरिश ने उसे परेशान कर दिया है, इसने उसे मानव जीव विज्ञान की एक अनूठी समझ भी दी है। : [PAWN_nameDef] एक अवैध भूमिगत अंग फार्म में पला-बढ़ा। उसके शरीर का उपयोग घायल भाड़े के सैनिकों के लिए जैविक प्रत्यारोपण उगाने के लिए किया गया था। हालांकि उसकी परवरिश ने उसे परेशान कर दिया है, इसने उसे मानव जीव विज्ञान की एक अनूठी समझ भी दी है।}</OrganFarm67.description>
+  <!-- EN: organ farm -->
+  <OrganFarm67.title>अंग खेत</OrganFarm67.title>
+  <OrganFarm67.titleFemale>अंग खेत</OrganFarm67.titleFemale>
+  <!-- EN: organ farm -->
+  <OrganFarm67.titleShort>अंग खेत</OrganFarm67.titleShort>
+  <OrganFarm67.titleShortFemale>अंग दात्री महिला</OrganFarm67.titleShortFemale>
+  
+  <!-- EN: From an early age, [PAWN_nameDef] had an unhealthy fascination with fire. [PAWN_pronoun] would set refuse heaps ablaze and become so entranced by the flames [PAWN_pronoun] would absent-mindedly burn [PAWN_objective]self.\n\nOne day while playing with matches, [PAWN_pronoun] carelessly burned down [PAWN_possessive] home. -->
+  <Pyromaniac18.description>{PAWN_gender ? छोटी उम्र से ही, [PAWN_nameDef] को आग से अस्वस्थ लगाव था। वह कचरे के ढेर में आग लगाती थी और लौ में इतनी मग्न हो जाती थी कि अनजाने में खुद को जला लेती थी।\n\nएक दिन माचिस से खेलते समय, उसने लापरवाही से अपना घर जला दिया। : बचपन से ही, [PAWN_nameDef] को आग से अस्वस्थ लगाव था। वह कचरे के ढेर में आग लगाता था और लौ में इतना मग्न हो जाता था कि अनजाने में खुद को जला लेता था।\n\nएक दिन माचिस से खेलते समय, उसने लापरवाही से अपना घर जला दिया।}</Pyromaniac18.description>
+  <!-- EN: pyromaniac -->
+  <Pyromaniac18.title>अग्निपिपासु</Pyromaniac18.title>
+  <Pyromaniac18.titleFemale>अग्निपिपासु महिला</Pyromaniac18.titleFemale>
+  <!-- EN: pyro -->
+  <Pyromaniac18.titleShort>अग्नि-प्रेमी</Pyromaniac18.titleShort>
+  <Pyromaniac18.titleShortFemale>अग्नि-प्रेमी महिला</Pyromaniac18.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s mother was often ill, and it fell to [PAWN_objective] to run the store which was their only source of income. [PAWN_pronoun] learned a little about the exotic artifacts which [PAWN_pronoun] sold, and a lot about the art of the deal. -->
+  <ShopKid36.description>{PAWN_gender ? [PAWN_nameDef] की माँ अक्सर बीमार रहती थीं, और उनकी एकमात्र आय का स्रोत, दुकान चलाने की ज़िम्मेदारी उस पर आ गई। उसने उन विदेशी कलाकृतियों के बारे में थोड़ा सीखा जिन्हें वह बेचती थी, और सौदेबाजी की कला के बारे में बहुत कुछ सीखा। : [PAWN_nameDef] की माँ अक्सर बीमार रहती थीं, और उनकी एकमात्र आय का स्रोत, दुकान चलाने की जिम्मेदारी उस पर आ गई। उसने उन विदेशी कलाकृतियों के बारे में थोड़ा सीखा जिन्हें वह बेचता था, और सौदेबाजी की कला के बारे में बहुत कुछ सीखा।}</ShopKid36.description>
+  <!-- EN: shop kid -->
+  <ShopKid36.title>दुकान का लड़का</ShopKid36.title>
+  <ShopKid36.titleFemale>दुकान की बच्ची</ShopKid36.titleFemale>
+  <!-- EN: shopkid -->
+  <ShopKid36.titleShort>दुकान का लड़का</ShopKid36.titleShort>
+  <ShopKid36.titleShortFemale>दुकान की बच्ची</ShopKid36.titleShortFemale>
+  
+  <!-- EN: As a child, [PAWN_nameDef] suffered from a rare disease. Quarantined in a hospital, [PAWN_pronoun] had minimal human contact and got little physical exercise. In the sterile hospital environment, however, [PAWN_pronoun] became very familiar with science and medicine. -->
+  <SicklyChild55.description>{PAWN_gender ? एक बच्चे के रूप में, [PAWN_nameDef] एक दुर्लभ बीमारी से पीड़ित थी। एक अस्पताल में संगरोध में रहने के कारण, उसका मनुष्यों से बहुत कम संपर्क था और उसे बहुत कम शारीरिक व्यायाम मिला। हालाँकि, बाँझ अस्पताल के वातावरण में, वह विज्ञान और चिकित्सा से बहुत अच्छी तरह परिचित हो गई। : एक बच्चे के रूप में, [PAWN_nameDef] एक दुर्लभ बीमारी से पीड़ित था। एक अस्पताल में संगरोध में रहने के कारण, उसका मनुष्यों से बहुत कम संपर्क था और उसे बहुत कम शारीरिक व्यायाम मिला। हालाँकि, बाँझ अस्पताल के वातावरण में, वह विज्ञान और चिकित्सा से बहुत परिचित हो गया।}</SicklyChild55.description>
+  <!-- EN: sickly child -->
+  <SicklyChild55.title>बीमार बालक</SicklyChild55.title>
+  <SicklyChild55.titleFemale>बीमार बच्ची</SicklyChild55.titleFemale>
+  <!-- EN: patient -->
+  <SicklyChild55.titleShort>{PAWN_gender ? धैर्यवान रोगी महिला : धैर्यवान रोगी}</SicklyChild55.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] was addicted to reading. [PAWN_pronoun] would spend all day in [PAWN_possessive] local library with [PAWN_possessive] nose in a book. When budget cuts forced the library to close, [PAWN_nameDef] was distraught. [PAWN_pronoun] decided to fill the gap by writing [PAWN_possessive] own stories instead. -->
+  <StoryWriter67.description>{PAWN_gender ? एक बच्चे के रूप में, [PAWN_nameDef] को पढ़ने की लत लग गई थी। वह अपना सारा दिन अपनी स्थानीय पुस्तकालय में अपनी नाक किताब में लगाए रखती थी। जब बजट में कटौती के कारण पुस्तकालय को बंद करना पड़ा, तो [PAWN_nameDef] बहुत दुखी हो गई। उसने इस अंतर को भरने के लिए अपनी कहानियाँ खुद लिखने का फैसला किया। : एक बच्चे के रूप में, [PAWN_nameDef] पुस्तकों का आदी था। वह अपना सारा दिन अपनी स्थानीय पुस्तकालय में अपनी नाक एक पुस्तक में लगाए रखता था। जब बजट में कटौती के कारण पुस्तकालय को बंद करना पड़ा, तो [PAWN_nameDef] बहुत दुखी हो गया। उसने इस अंतर को भरने के लिए अपनी खुद की कहानियाँ लिखने का फैसला किया।}</StoryWriter67.description>
+  <!-- EN: story writer -->
+  <StoryWriter67.title>कहानीकार</StoryWriter67.title>
+  <StoryWriter67.titleFemale>कहानी लेखिका</StoryWriter67.titleFemale>
+  <!-- EN: writer -->
+  <StoryWriter67.titleShort>लेखक</StoryWriter67.titleShort>
+  <StoryWriter67.titleShortFemale>लेखिका</StoryWriter67.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] wasn't made as a person, but as an instrument of destruction. Grown in a bioweapons facility and taught combat during [PAWN_possessive] accelerated growth, [PAWN_nameDef] still has a proclivity for combat of all kinds and an aversion to human contact. -->
+  <VatgrownSoldier8.description>{PAWN_gender ? [PAWN_nameDef] को व्यक्ति के रूप में नहीं बनाया गया, बल्कि विनाश के एक उपकरण के रूप में बनाया गया। एक जैव-हथियार सुविधा में विकसित और उसकी त्वरित वृद्धि के दौरान युद्ध सिखाया गया, [PAWN_nameDef] को अभी भी हर तरह की लड़ाई का शौक है और वह मानवीय संपर्क से दूर रहती है। : [PAWN_nameDef] को व्यक्ति के रूप में नहीं बनाया गया, बल्कि विनाश के एक उपकरण के रूप में बनाया गया। एक जैव हथियार सुविधा में उगाया गया और उसकी त्वरित वृद्धि के दौरान युद्ध सिखाया गया, [PAWN_nameDef] में अभी भी हर तरह की लड़ाई का शौक और मानवीय संपर्क से घृणा है।}</VatgrownSoldier8.description>
+  <!-- EN: vatgrown soldier -->
+  <VatgrownSoldier8.title>कृत्रिम सैनिक</VatgrownSoldier8.title>
+  <!-- EN: vatgrown -->
+  <VatgrownSoldier8.titleShort>{PAWN_gender ? कृत्रिम रूप से उगाई गई : कृत्रिम रूप से उगाया गया}</VatgrownSoldier8.titleShort>
+  
+  <!-- EN: War broke out in [PAWN_nameDef]'s home when [PAWN_pronoun] was a baby. [PAWN_possessive] parents fled with [PAWN_objective], seeking safety wherever they could find it. [PAWN_nameDef]'s earliest memories are of being taught how to defend [PAWN_objective]self.\n\nThe violence and destruction [PAWN_pronoun] witnessed left [PAWN_objective] scarred for life. -->
+  <WarRefugee51.description>{PAWN_gender ? उसकी जन्म के समय ही [PAWN_nameDef] के घर में युद्ध छिड़ गया। उसके माता-पिता उसे लेकर भाग गए, जहाँ भी उन्हें सुरक्षा मिल सके, वहीं शरण लेते रहे। [PAWN_nameDef] की शुरुआती यादें उसे आत्मरक्षा करना सिखाने की हैं।\n\nउसने जो हिंसा और विनाश देखा, उसने उसे जीवन भर के लिए घायल कर दिया। : जब [PAWN_nameDef] शिशु था, तब उसके घर में युद्ध छिड़ गया। उसके माता-पिता उसे लेकर भाग गए, जहाँ भी उन्हें सुरक्षा मिल सके, उसकी तलाश करने लगे। [PAWN_nameDef] की शुरुआती यादें उसे आत्मरक्षा करना सिखाने की हैं।\n\nउसने जो हिंसा और विनाश देखा, उसने उसे जीवन भर के लिए घायल कर दिया।}</WarRefugee51.description>
+  <!-- EN: war refugee -->
+  <WarRefugee51.title>युद्ध शरणार्थी</WarRefugee51.title>
+  <WarRefugee51.titleFemale>युद्ध शरणार्थी महिला</WarRefugee51.titleFemale>
+  <!-- EN: refugee -->
+  <WarRefugee51.titleShort>शरणार्थी पुरुष</WarRefugee51.titleShort>
+  <WarRefugee51.titleShortFemale>शरणार्थी महिला</WarRefugee51.titleShortFemale>
+  
+</LanguageData>

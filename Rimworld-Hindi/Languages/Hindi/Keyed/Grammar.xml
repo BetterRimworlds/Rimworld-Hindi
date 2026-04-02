@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: a -->
+  <IndefiniteArticle>एक</IndefiniteArticle>
+  <!-- EN: the -->
+  <DefiniteArticle>यह</DefiniteArticle>
+  <!-- EN: a {0} -->
+  <IndefiniteForm>एक {0}</IndefiniteForm>
+  <!-- EN: the {0} -->
+  <DefiniteForm>{0}</DefiniteForm>
+
+  <!-- EN: its -->
+  <Proits>इसके</Proits>
+  <!-- EN: his -->
+  <Prohis>उसका</Prohis>
+  <!-- EN: her -->
+  <Proher>उसका</Proher>
+  <!-- EN: Its -->
+  <ProitsCap>इसका</ProitsCap>
+  <!-- EN: His -->
+  <ProhisCap>उसका</ProhisCap>
+  <!-- EN: Her -->
+  <ProherCap>स्त्री</ProherCap>
+
+  <!-- EN: it -->
+  <ProitObj>यह</ProitObj>
+  <!-- EN: him -->
+  <ProhimObj>उसे</ProhimObj>
+  <!-- EN: her -->
+  <ProherObj>उसका</ProherObj>
+  <!-- EN: It -->
+  <ProitObjCap>यह</ProitObjCap>
+  <!-- EN: Him -->
+  <ProhimObjCap>उसका</ProhimObjCap>
+  <!-- EN: Her -->
+  <ProherObjCap>स्त्री</ProherObjCap>
+
+  <!-- EN: he -->
+  <Prohe>वह</Prohe>
+  <!-- EN: she -->
+  <Proshe>वह</Proshe>
+  <!-- EN: it -->
+  <Proit>यह</Proit>
+  <!-- EN: He -->
+  <ProheCap>वह</ProheCap>
+  <!-- EN: She -->
+  <ProsheCap>वह</ProsheCap>
+  <!-- EN: It -->
+  <ProitCap>यह</ProitCap>
+
+  <!-- EN: man -->
+  <ProHeNoun>पुरुष</ProHeNoun>
+  <!-- EN: woman -->
+  <ProSheNoun>महिला</ProSheNoun>
+  <!-- EN: person -->
+  <ProItNoun>व्यक्ति</ProItNoun>
+  
+  <!-- EN: {0} and {1}. -->
+  <ClauseSequence2>{0} और {1}.</ClauseSequence2>
+  <!-- EN: {0}. Also, {1} and {2}. -->
+  <ClauseSequence3>{0}. साथ ही, {1} और {2}.</ClauseSequence3>
+  <!-- EN: {0} and {1}. In addition {2} and {3}. -->
+  <ClauseSequence4>{0} और {1}। इसके अतिरिक्त {2} और {3}।</ClauseSequence4>
+  <!-- EN: {0} and {1}. Additionally, {2} and {3}. Finally, {4}. -->
+  <ClauseSequence5>{0} और {1}. इसके अतिरिक्त, {2} और {3}. अंत में, {4}.</ClauseSequence5>
+  <!-- EN: {0}. {1} and {2}. Also, {3} and {4}. Finally, {5}. -->
+  <ClauseSequence6>{0}. {1} और {2}. साथ ही, {3} और {4}. अंत में, {5}.</ClauseSequence6>
+  <!-- EN: {0} and {1}. {2} and {3}. Also, {4} and {5}. Finally, {6}. -->
+  <ClauseSequence7>{0} और {1}. {2} और {3}. साथ ही, {4} और {5}. अंत में, {6}.</ClauseSequence7>
+  <!-- EN: {0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}. -->
+  <ClauseSequence8>{0} और {1}. साथ ही, {2} और {3}. {4} और {5}. अंत में, {6} और {7}.</ClauseSequence8>
+
+  <!-- EN: {0} or {1} -->
+  <XorY>{0} या {1}</XorY>
+
+</LanguageData>

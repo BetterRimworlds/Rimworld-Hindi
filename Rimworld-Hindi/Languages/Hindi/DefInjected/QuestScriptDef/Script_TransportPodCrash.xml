@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->A transport pod crashes with a refugee</li>
+  -->
+  <RefugeePodCrash.questDescriptionRules.rulesStrings>
+    <li>questDescription->एक परिवहन कैप्सूल एक शरणार्थी के साथ दुर्घटनाग्रस्त हो गया है।</li>
+  </RefugeePodCrash.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Transport pod crash</li>
+  -->
+  <RefugeePodCrash.questNameRules.rulesStrings>
+    <li>questName->परिवहन कैप्सूल दुर्घटनाग्रस्त</li>
+  </RefugeePodCrash.questNameRules.rulesStrings>
+  
+</LanguageData>

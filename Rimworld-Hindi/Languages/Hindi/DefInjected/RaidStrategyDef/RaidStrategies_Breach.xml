@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way. -->
+  <ImmediateAttackBreaching.arrivalTextEnemy>वे तुरंत हमला कर रहे हैं।\n\nये हमलावर आपकी दीवारों को तोड़ने का इरादा रखते हैं। वे अपनी कॉलोनी में प्रवेश का अपना मार्ग निर्धारित करेंगे और रास्ते में सब कुछ नष्ट कर देंगे।</ImmediateAttackBreaching.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackBreaching.arrivalTextFriendly>वे तुरंत मदद के लिए आ रहे हैं।</ImmediateAttackBreaching.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackBreaching.letterLabelEnemy>छापा</ImmediateAttackBreaching.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackBreaching.letterLabelFriendly>दोस्त</ImmediateAttackBreaching.letterLabelFriendly>
+  
+  <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
+  <ImmediateAttackBreachingSmart.arrivalTextEnemy>वे तुरंत हमला कर रहे हैं।\n\nये हमलावर आपकी दीवारों को तोड़ने का इरादा रखते हैं। वे अपनी कॉलोनी में प्रवेश का अपना रास्ता निर्धारित करेंगे और रास्ते में सब कुछ नष्ट कर देंगे।\n\nसावधान रहें - वे अपनी रणनीति के साथ असामान्य रूप से चतुर प्रतीत होते हैं। वे आपकी बुर्जेटों के फायरिंग क्षेत्रों से बचेंगे और आपके कुछ जाल को नोटिस करेंगे।</ImmediateAttackBreachingSmart.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackBreachingSmart.arrivalTextFriendly>वे तुरंत मदद के लिए आ रहे हैं।</ImmediateAttackBreachingSmart.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackBreachingSmart.letterLabelEnemy>छापा</ImmediateAttackBreachingSmart.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackBreachingSmart.letterLabelFriendly>दोस्त</ImmediateAttackBreachingSmart.letterLabelFriendly>
+  
+</LanguageData>

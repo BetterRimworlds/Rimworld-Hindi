@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cook fine meal -->
+  <CookMealFine.label>अच्छा भोजन पकाएँ</CookMealFine.label>
+  <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
+  <CookMealFine.description>मांस और वनस्पति सामग्री के संयोजन से थोड़ी जटिल भोजन पकाना।</CookMealFine.description>
+  <!-- EN: protein -->
+  <CookMealFine.ingredients.0.filter.customSummary>प्रोटीन</CookMealFine.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking fine meal. -->
+  <CookMealFine.jobString>अच्छा भोजन पका रहा है।</CookMealFine.jobString>
+  
+  <!-- EN: cook carnivore fine meal -->
+  <CookMealFine_Meat.label>मांसाहारी अच्छा भोजन</CookMealFine_Meat.label>
+  <!-- EN: Cook a somewhat complex meal from meat ingredients. -->
+  <CookMealFine_Meat.description>मांस सामग्री से थोड़ी जटिल भोजन पकाना।</CookMealFine_Meat.description>
+  <!-- EN: Cooking carnivore fine meal. -->
+  <CookMealFine_Meat.jobString>मांसाहारी के लिए अच्छा भोजन पका रहा है।</CookMealFine_Meat.jobString>
+  
+  <!-- EN: cook vegetarian fine meal -->
+  <CookMealFine_Veg.label>शाकाहारी अच्छा भोजन</CookMealFine_Veg.label>
+  <!-- EN: Cook a somewhat complex meal from plant ingredients. -->
+  <CookMealFine_Veg.description>पौधों से प्राप्त सामग्री से एक जटिल भोजन बनाना।</CookMealFine_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealFine_Veg.ingredients.0.filter.customSummary>शाकाहारी सामग्री</CookMealFine_Veg.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking vegetarian fine meal. -->
+  <CookMealFine_Veg.jobString>अच्छा भोजन शाकाहारी पका रहा है।</CookMealFine_Veg.jobString>
+  
+  <!-- EN: cook fine meal x4 -->
+  <CookMealFineBulk.label>अच्छा भोजन x4</CookMealFineBulk.label>
+  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
+  <CookMealFineBulk.description>मांस और वनस्पति सामग्री के संयोजन से चार जटिल भोजन पकाएं। बेहतर भोजन अनुभव बनाने के लिए कुछ सामग्री बर्बाद हो जाती है।</CookMealFineBulk.description>
+  <!-- EN: protein -->
+  <CookMealFineBulk.ingredients.0.filter.customSummary>प्रोटीन</CookMealFineBulk.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking 4 fine meals. -->
+  <CookMealFineBulk.jobString>अच्छा भोजन 4 पका रहा है।</CookMealFineBulk.jobString>
+  
+  <!-- EN: cook carnivore fine meal x4 -->
+  <CookMealFineBulk_Meat.label>मांसाहारी अच्छा भोजन x4</CookMealFineBulk_Meat.label>
+  <!-- EN: Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealFineBulk_Meat.description>मांस सामग्री से चार जटिल भोजन पकाएं। अच्छे भोजन अनुभव के लिए कुछ सामग्री बर्बाद हो जाती है। केवल मांस से विविध स्वाद उत्पन्न करने से अतिरिक्त अक्षमताएं आती हैं।</CookMealFineBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore fine meals. -->
+  <CookMealFineBulk_Meat.jobString>मांसाहारी अच्छा भोजन 4 पका रहा है।</CookMealFineBulk_Meat.jobString>
+  
+  <!-- EN: cook vegetarian fine meal x4 -->
+  <CookMealFineBulk_Veg.label>शाकाहारी बढ़िया भोजन x4</CookMealFineBulk_Veg.label>
+  <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealFineBulk_Veg.description>पौधों से प्राप्त सामग्री से चार जटिल भोजन तैयार करें। अच्छे भोजन अनुभव के लिए कुछ सामग्री बर्बाद हो जाती है। केवल पौधों से विविध स्वाद उत्पन्न करने से अतिरिक्त अक्षमताएं आती हैं।</CookMealFineBulk_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealFineBulk_Veg.ingredients.0.filter.customSummary>शाकाहारी सामग्री</CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking 4 vegetarian fine meals. -->
+  <CookMealFineBulk_Veg.jobString>अच्छा भोजन के 4 शाकाहारी व्यंजन बना रहे हैं।</CookMealFineBulk_Veg.jobString>
+  
+  <!-- EN: cook lavish meal -->
+  <CookMealLavish.label>शानदार भोजन पकाएँ</CookMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMealLavish.description>मांस और वनस्पति सामग्री के संयोजन से एक बहुत ही जटिल भोजन पकाएं। सर्वोत्तम भोजन अनुभव बनाने के लिए अधिकांश सामग्री बर्बाद हो जाती है।</CookMealLavish.description>
+  <!-- EN: protein -->
+  <CookMealLavish.ingredients.0.filter.customSummary>प्रोटीन</CookMealLavish.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking lavish meal. -->
+  <CookMealLavish.jobString>शानदार भोजन पका रहा है।</CookMealLavish.jobString>
+  
+  <!-- EN: cook carnivore lavish meal -->
+  <CookMealLavish_Meat.label>मांसाहारी शानदार भोजन</CookMealLavish_Meat.label>
+  <!-- EN: Cook a very complex meal from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealLavish_Meat.description>मांस सामग्री से एक बहुत ही जटिल भोजन पकाएं। सर्वोत्तम भोजन अनुभव बनाने के लिए अधिकांश सामग्री बर्बाद हो जाती है। केवल मांस से विविध स्वाद उत्पन्न करने से अतिरिक्त अक्षमताएं आती हैं।</CookMealLavish_Meat.description>
+  <!-- EN: Cooking carnivore lavish meal. -->
+  <CookMealLavish_Meat.jobString>मांसाहारी शानदार भोजन पका रहा है।</CookMealLavish_Meat.jobString>
+  
+  <!-- EN: cook vegetarian lavish meal -->
+  <CookMealLavish_Veg.label>शानदार भोजन पकाएँ</CookMealLavish_Veg.label>
+  <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealLavish_Veg.description>पौधों से बने सामग्रियों से एक बहुत ही जटिल भोजन पकाएं। सर्वोत्तम भोजन अनुभव बनाने के लिए अधिकांश सामग्री बर्बाद हो जाती है। केवल पौधों से विविध स्वाद उत्पन्न करने से अतिरिक्त अक्षमताएं आती हैं।</CookMealLavish_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealLavish_Veg.ingredients.0.filter.customSummary>शाकाहारी सामग्री</CookMealLavish_Veg.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking vegetarian lavish meal. -->
+  <CookMealLavish_Veg.jobString>शाकाहारी शानदार भोजन पका रहा है।</CookMealLavish_Veg.jobString>
+  
+  <!-- EN: cook lavish meal x4 -->
+  <CookMealLavishBulk.label>शानदार भोजन x4</CookMealLavishBulk.label>
+  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMealLavishBulk.description>मांस और वनस्पति सामग्री के संयोजन से चार बहुत जटिल भोजन पकाएं। सर्वोत्तम भोजन अनुभव बनाने के लिए अधिकांश सामग्री बर्बाद हो जाती है।</CookMealLavishBulk.description>
+  <!-- EN: protein -->
+  <CookMealLavishBulk.ingredients.0.filter.customSummary>प्रोटीन</CookMealLavishBulk.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking 4 lavish meals. -->
+  <CookMealLavishBulk.jobString>शानदार भोजन 4 पका रहा है।</CookMealLavishBulk.jobString>
+  
+  <!-- EN: cook carnivore lavish meal x4 -->
+  <CookMealLavishBulk_Meat.label>मांसाहारी शानदार भोजन x4</CookMealLavishBulk_Meat.label>
+  <!-- EN: Cook 4 very complex meals from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealLavishBulk_Meat.description>मांस सामग्री से चार बहुत जटिल भोजन पकाएं। सर्वोत्तम भोजन अनुभव बनाने के लिए अधिकांश सामग्री बर्बाद हो जाती है। केवल मांस से विविध स्वाद उत्पन्न करने से अतिरिक्त अक्षमताएं आती हैं।</CookMealLavishBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore lavish meals. -->
+  <CookMealLavishBulk_Meat.jobString>मांसाहारी शानदार भोजन 4 पका रहा है।</CookMealLavishBulk_Meat.jobString>
+  
+  <!-- EN: cook vegetarian lavish meal x4 -->
+  <CookMealLavishBulk_Veg.label>शानदार भोजन x4</CookMealLavishBulk_Veg.label>
+  <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealLavishBulk_Veg.description>पौधों से प्राप्त सामग्री से चार बहुत जटिल भोजन बनाएं। सर्वोत्तम भोजन अनुभव बनाने के लिए सामग्री का अधिकांश भाग बर्बाद हो जाता है। केवल पौधों से विविध स्वाद उत्पन्न करने से अतिरिक्त अक्षमताएं आती हैं।</CookMealLavishBulk_Veg.description>
+  <!-- EN: vegetarian ingredients -->
+  <CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>शाकाहारी सामग्री</CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking 4 vegetarian lavish meals. -->
+  <CookMealLavishBulk_Veg.jobString>4 शाकाहारी शानदार भोजन पका रहा है।</CookMealLavishBulk_Veg.jobString>
+  
+  <!-- EN: cook simple meal -->
+  <CookMealSimple.label>साधारण भोजन पकाएँ</CookMealSimple.label>
+  <!-- EN: Cook a straightforward meal from one ingredient. -->
+  <CookMealSimple.description>एक सामग्री से सरल भोजन बनाना।</CookMealSimple.description>
+  <!-- EN: Cooking simple meal. -->
+  <CookMealSimple.jobString>साधारण भोजन पका रहा है।</CookMealSimple.jobString>
+  
+  <!-- EN: cook simple meal x4 -->
+  <CookMealSimpleBulk.label>साधारण भोजन x4</CookMealSimpleBulk.label>
+  <!-- EN: Cook 4 straightforward meals from one ingredient. -->
+  <CookMealSimpleBulk.description>एक ही सामग्री से चार सरल भोजन पकाएं।</CookMealSimpleBulk.description>
+  <!-- EN: Cooking 4 simple meals. -->
+  <CookMealSimpleBulk.jobString>साधारण भोजन  पका रहा है।</CookMealSimpleBulk.jobString>
+  
+  <!-- EN: cook packaged survival meal -->
+  <CookMealSurvival.label>तैयार भोजन</CookMealSurvival.label>
+  <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <CookMealSurvival.description>मांस और वनस्पति सामग्री के संयोजन से एक पैक किया गया अस्तित्व भोजन तैयार करें। संरक्षण प्रक्रिया में अधिकांश सामग्री बर्बाद हो जाती है।</CookMealSurvival.description>
+  <!-- EN: protein -->
+  <CookMealSurvival.ingredients.0.filter.customSummary>प्रोटीन</CookMealSurvival.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking survival meal. -->
+  <CookMealSurvival.jobString>उत्तरजीविता भोजन पकाना।</CookMealSurvival.jobString>
+  
+  <!-- EN: cook packaged survival meal x4 -->
+  <CookMealSurvivalBulk.label>तैयार भोजन</CookMealSurvivalBulk.label>
+  <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <CookMealSurvivalBulk.description>तैयार भोजन बनाने के लिए मांस और वनस्पति सामग्री का संयोजन करें। संरक्षण प्रक्रिया में अधिकांश सामग्री बर्बाद हो जाती है।</CookMealSurvivalBulk.description>
+  <!-- EN: protein -->
+  <CookMealSurvivalBulk.ingredients.0.filter.customSummary>प्रोटीन</CookMealSurvivalBulk.ingredients.0.filter.customSummary>
+  <!-- EN: Cooking 4 survival meals. -->
+  <CookMealSurvivalBulk.jobString>उत्तरजीविता भोजन पकाना।</CookMealSurvivalBulk.jobString>
+  
+</LanguageData>

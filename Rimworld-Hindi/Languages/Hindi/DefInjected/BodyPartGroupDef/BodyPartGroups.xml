@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arms -->
+  <Arms.label>बांहें</Arms.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>चोंच</Beak.label>
+  
+  <!-- EN: eyes -->
+  <Eyes.label>आँखें</Eyes.label>
+  
+  <!-- EN: feet -->
+  <Feet.label>पैर</Feet.label>
+  
+  <!-- EN: front left claws -->
+  <FrontLeftClaws.label>आगे बाएं पंजे</FrontLeftClaws.label>
+  <!-- EN: claws -->
+  <FrontLeftClaws.labelShort>पंजे</FrontLeftClaws.labelShort>
+  
+  <!-- EN: front left leg -->
+  <FrontLeftLeg.label>बायां अगला पैर</FrontLeftLeg.label>
+  <!-- EN: leg -->
+  <FrontLeftLeg.labelShort>पैर</FrontLeftLeg.labelShort>
+  
+  <!-- EN: front left paw -->
+  <FrontLeftPaw.label>आगे बायां पंजा</FrontLeftPaw.label>
+  <!-- EN: paw -->
+  <FrontLeftPaw.labelShort>पंजा</FrontLeftPaw.labelShort>
+  
+  <!-- EN: front right claws -->
+  <FrontRightClaws.label>सामने दाएँ पंजे</FrontRightClaws.label>
+  <!-- EN: claws -->
+  <FrontRightClaws.labelShort>पंजे</FrontRightClaws.labelShort>
+  
+  <!-- EN: front right leg -->
+  <FrontRightLeg.label>सामने दायां पैर</FrontRightLeg.label>
+  <!-- EN: leg -->
+  <FrontRightLeg.labelShort>पैर</FrontRightLeg.labelShort>
+  
+  <!-- EN: front right paw -->
+  <FrontRightPaw.label>सामने दायां पंजा</FrontRightPaw.label>
+  <!-- EN: paw -->
+  <FrontRightPaw.labelShort>पंजा</FrontRightPaw.labelShort>
+  
+  <!-- EN: full head -->
+  <FullHead.label>पूरा सिर</FullHead.label>
+  
+  <!-- EN: hands -->
+  <Hands.label>हाथ</Hands.label>
+  
+  <!-- EN: head -->
+  <HeadAttackTool.label>सिर</HeadAttackTool.label>
+  
+  <!-- EN: claw -->
+  <HeadClaw.label>पंजा</HeadClaw.label>
+  
+  <!-- EN: horn -->
+  <HornAttackTool.label>सींग</HornAttackTool.label>
+  
+  <!-- EN: left blade -->
+  <LeftBlade.label>बायां ब्लेड</LeftBlade.label>
+  <!-- EN: blade -->
+  <LeftBlade.labelShort>ब्लेड</LeftBlade.labelShort>
+  
+  <!-- EN: left fist -->
+  <LeftHand.label>बायां मुट्ठी</LeftHand.label>
+  <!-- EN: fist -->
+  <LeftHand.labelShort>मुट्ठी</LeftHand.labelShort>
+  
+  <!-- EN: legs -->
+  <Legs.label>पैर</Legs.label>
+  
+  <!-- EN: middle finger -->
+  <MiddleFingers.label>मध्य उंगली</MiddleFingers.label>
+  <!-- EN: finger -->
+  <MiddleFingers.labelShort>उंगली</MiddleFingers.labelShort>
+  
+  <!-- EN: mouth -->
+  <Mouth.label>मुँह</Mouth.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>गर्दन</Neck.label>
+  
+  <!-- EN: right blade -->
+  <RightBlade.label>दाहिना ब्लेड</RightBlade.label>
+  <!-- EN: blade -->
+  <RightBlade.labelShort>ब्लेड</RightBlade.labelShort>
+  
+  <!-- EN: right fist -->
+  <RightHand.label>दायां मुट्ठी</RightHand.label>
+  <!-- EN: fist -->
+  <RightHand.labelShort>मुट्ठी</RightHand.labelShort>
+  
+  <!-- EN: shoulders -->
+  <Shoulders.label>कंधे</Shoulders.label>
+  
+  <!-- EN: teeth -->
+  <Teeth.label>दाँत</Teeth.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>धड़</Torso.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeakAttackTool.label>चोंच</TurtleBeakAttackTool.label>
+  
+  <!-- EN: tusks -->
+  <TuskAttackTool.label>दाँत</TuskAttackTool.label>
+  
+  <!-- EN: upper head -->
+  <UpperHead.label>ऊपरी सिर</UpperHead.label>
+  
+  <!-- EN: utility slot -->
+  <Waist.label>उपयोगिता स्लॉट</Waist.label>
+  
+</LanguageData>

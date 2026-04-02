@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacking settlement -->
+  <AttackingSettlement.label>हमला बस्ती</AttackingSettlement.label>
+  
+  <!-- EN: natural enemy -->
+  <NaturalEnemy.label>प्राकृतिक शत्रु</NaturalEnemy.label>
+  
+  <!-- EN: permanently hostile -->
+  <PermanentEnemy.label>स्थायी रूप से शत्रुतापूर्ण</PermanentEnemy.label>
+  
+</LanguageData>

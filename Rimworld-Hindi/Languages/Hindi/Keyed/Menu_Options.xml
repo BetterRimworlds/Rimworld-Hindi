@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Audiovisuals -->
+  <!-- EN: Audiovisuals -->
+  <Audiovisuals>श्रव्यदृश्य</Audiovisuals>
+  <!-- EN: Master volume -->
+  <MasterVolume>मास्टर ध्वनि</MasterVolume>
+  <!-- EN: Game volume -->
+  <GameVolume>ध्वनि स्तर</GameVolume>
+  <!-- EN: Music volume -->
+  <MusicVolume>संगीत स्तर</MusicVolume>
+  <!-- EN: Ambience volume -->
+  <AmbientVolume>वातावरण ध्वनि</AmbientVolume>
+  <!-- EN: UI volume -->
+  <UIVolume>यूआई वॉल्यूम</UIVolume>
+  <!-- EN: Affects all sounds. -->
+  <MasterVolumeTooltip>ध्वनि प्रभाव।</MasterVolumeTooltip>
+  <!-- EN: Affects all in world sounds, e.g. chopping trees, building walls. -->
+  <GameVolumeTooltip>दुनिया की सभी ध्वनियों को प्रभावित करता है, जैसे पेड़ काटना, दीवारें बनाना।</GameVolumeTooltip>
+  <!-- EN: Affects music. -->
+  <MusicVolumeTooltip>संगीत प्रभावित करता है।</MusicVolumeTooltip>
+  <!-- EN: Affects all ambient sounds, e.g. wind, insects. -->
+  <AmbientVolumeTooltip>प्रभावित करता सभी परिवेशी ध्वनियाँ, जैसे हवा, कीड़े।</AmbientVolumeTooltip>
+  <!-- EN: Affects all interface sounds, e.g. button clicks, messages. -->
+  <UIVolumeTooltip>प्रभाव सभी इंटरफेस ध्वनियों पर पड़ता है, जैसे बटन क्लिक, संदेश।</UIVolumeTooltip>
+  <!-- EN: Anti-aliasing -->
+  <Antialiasing>एंटि-एलियासिंग</Antialiasing>
+
+  <!-- Gameplay -->
+  <!-- EN: Remember draw styles -->
+  <RememberDrawStyle>ठीक है.\n\n&amp;quot;Remember draw styles&amp;quot; → &amp;quot;शैली याद रखें&amp;quot;</RememberDrawStyle>
+  <!-- EN: When enabled, draw styles won't reset to the default draw style when placing new buildings or zones. -->
+  <RememberDrawStyle_Tooltip>सक्षम होने पर, नए भवन या क्षेत्र रखने पर ड्रॉ शैली डिफ़ॉल्ट पर रीसेट नहीं होगी।</RememberDrawStyle_Tooltip>
+  <!-- EN: Zoom switches world map layers -->
+  <ZoomSwitchLayer>ज़ूम विश्व मानचित्र परतें बदलता है।</ZoomSwitchLayer>
+  <!-- EN: When enabled, zooming out on the world map will switch to an orbital view. Zooming in will show the planet again. -->
+  <ZoomSwitchLayer_Tooltip>सक्षम होने पर, विश्व मानचित्र पर ज़ूम आउट करने से कक्षीय दृश्य में बदलाव होगा। ज़ूम इन करने से ग्रह फिर से दिखाई देगा।</ZoomSwitchLayer_Tooltip>
+  <!-- EN: Screen-edge mouse scroll -->
+  <EdgeScreenScroll>स्क्रीन किनारा स्क्रॉल</EdgeScreenScroll>
+  <!-- EN: Zoom to mouse -->
+  <ZoomToMouse>चूहे पर ज़ूम</ZoomToMouse>
+  <!-- EN: Pause on load -->
+  <PauseOnLoad>विराम</PauseOnLoad>
+  <!-- EN: Pause on urgent letter -->
+  <PauseOnUrgentLetter>रोकें ज़रूरी पत्र</PauseOnUrgentLetter>
+  <!-- EN: Pause on letter -->
+  <AutomaticPauseModeSetting>अक्षर पर रोकें</AutomaticPauseModeSetting>
+  <!-- EN: Disable game-specific cursor -->
+  <CustomCursor>कर्सर बंद करें</CustomCursor>
+  <!-- EN: Hide hats on UI -->
+  <HatsShownOnlyOnMap>टोपियों को यूआई में छिपाएं।</HatsShownOnlyOnMap>
+  <!-- EN: UI scale -->
+  <UIScale>UI आकार</UIScale>
+  <!-- EN: Keyboard configuration -->
+  <KeyboardConfig>कुंजी विन्यास</KeyboardConfig>
+  <!-- EN: Controller configuration -->
+  <ControllerConfig>नियंत्रक सेटअप</ControllerConfig>
+  <!-- EN: Modify -->
+  <ModifyConfig>संशोधन</ModifyConfig>
+  <!-- EN: Choose language -->
+  <ChooseLanguage>Hindi.</ChooseLanguage>
+  <!-- EN: Reset learning helper -->
+  <ResetAdaptiveTutor>सीखने सहायक रीसेट करें</ResetAdaptiveTutor>
+  <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
+  <AdaptiveTutorIsReset>शिक्षक रीसेट है। अब आपको सभी पाठ फिर से शुरू से सिखाए जाएंगे।</AdaptiveTutorIsReset>
+  <!-- EN: Keyboard mode -->
+  <SteamDeckKeyboardMode>कीबोर्ड मोड</SteamDeckKeyboardMode>
+  <!-- EN: Run in background -->
+  <RunInBackground>पृष्ठभूमि में चलाएं</RunInBackground>
+  <!-- EN: Development mode -->
+  <DevelopmentMode>विकास मोड</DevelopmentMode>
+  <!-- EN: Auto-reset mods config on crash -->
+  <ResetModsConfigOnCrash>स्वचालित रूप से दुर्घटना पर मॉड कॉन्फ़िगरेशन रीसेट करें।</ResetModsConfigOnCrash>
+  <!-- EN: Quick start has no cryptosleep sickness -->
+  <DisableQuickStartCryptoSickness>त्वरित शुरुआत में क्रिप्टोस्लीप बीमारी नहीं होती।</DisableQuickStartCryptoSickness>
+  <!-- EN: Start game with dev palette on -->
+  <StartDevPaletteOn>खेल डेवलपर पैलेट के साथ शुरू करें।</StartDevPaletteOn>
+  <!-- EN: Open log on warnings -->
+  <OpenLogOnWarnings>चेतावनी लॉग खोलें</OpenLogOnWarnings>
+  <!-- EN: Close log by pressing cancel -->
+  <CloseLogWindowOnEscape>लॉग रद्द करने के लिए रद्द दबाएं।</CloseLogWindowOnEscape>
+  <!-- EN: Verbose logging -->
+  <LogVerbose>विस्तृत लॉगिंग</LogVerbose>
+  <!-- EN: Save data folder -->
+  <SaveGameDataFolder>डेटा फ़ोल्डर</SaveGameDataFolder>
+  <!-- EN: Save data location -->
+  <SaveGameDataLocation>डेटा सहेजने का स्थान</SaveGameDataLocation>
+  <!-- EN: Log file folder -->
+  <LogFileFolder>लॉग फ़ाइल फ़ोल्डर</LogFileFolder>
+  <!-- EN: Log file location -->
+  <LogFileLocation>लॉग फ़ाइल स्थान</LogFileLocation>
+  <!-- EN: Open -->
+  <OpenFolder>खोलें</OpenFolder>
+  <!-- EN: Show -->
+  <ShowFolder>दिखाओ</ShowFolder>
+  <!-- EN: Preferred "Name in Game" characters -->
+  <NamesYouWantToSee>Okay, I understand. Here&amp;apos;s the Hindi translation, adhering strictly to your rules and preferences, focusing on &amp;quot;Name in Game&amp;quot; style translations:\n\nCRITICAL RULES</NamesYouWantToSee>
+  <!-- EN: These characters will be more likely to appear randomly during play. -->
+  <NamesYouWantToSeeSubText>ये पात्र खेलने के दौरान अधिक बार यादृच्छिक रूप से प्रकट होंगे।</NamesYouWantToSeeSubText>
+  <!-- EN: Add name -->
+  <AddName>नाम जोड़ें</AddName>
+  <!-- EN: Type the first name, nickname, or last name. -->
+  <TypeFirstNickOrLastName>पहला नाम, उपनाम, या अंतिम नाम।</TypeFirstNickOrLastName>
+  <!-- EN: This name is already on the preferred list. -->
+  <MessageAlreadyPreferredName>यह नाम पहले से ही पसंदीदा सूची में है।</MessageAlreadyPreferredName>
+  <!-- EN: Storyteller settings -->
+  <ChangeStoryteller>कथाकार सेटिंगें</ChangeStoryteller>
+  <!-- EN: Autosave interval -->
+  <AutosaveInterval>स्वचालित बचत अंतराल</AutosaveInterval>
+  <!-- EN: The number of in game days between each auto save. -->
+  <AutosaveIntervalTooltip>खेल के दिनों की संख्या प्रत्येक ऑटो सेव के बीच।</AutosaveIntervalTooltip>
+  <!-- EN: Temperature unit -->
+  <TemperatureMode>तापमान इकाई</TemperatureMode>
+  <!-- EN: Show realtime clock -->
+  <ShowRealtimeClock>वास्तविक समय</ShowRealtimeClock>
+  <!-- EN: Use 12 hour clock -->
+  <TwelveHourClockMode>घंटे की घड़ी का उपयोग करें</TwelveHourClockMode>
+  <!-- EN: Disable tiny font -->
+  <DisableTinyText>छोटा फ़ॉन्ट बंद करें</DisableTinyText>
+  <!-- EN: Maximum number of colonies: {0} -->
+  <MaxNumberOfPlayerSettlements>अधिकतम उपनिवेशों की संख्या: {0}</MaxNumberOfPlayerSettlements>
+  <!-- EN: Autosaves count: {0} -->
+  <AutosavesCount>ऑटोसेव गिनती: {0}</AutosavesCount>
+  <!-- EN: Map mouse drag sensitivity -->
+  <MapDragSensitivity>मानचित्र माउस ड्रैग संवेदनशीलता</MapDragSensitivity>
+  <!-- EN: Plant wind sway -->
+  <PlantWindSway>पौधों का डोलना</PlantWindSway>
+  <!-- EN: Enable test map sizes -->
+  <EnableTestMapSizes>सक्षम करें परीक्षण मानचित्र आकार</EnableTestMapSizes>
+  <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
+  <MaxPermadeathAutosaveIntervalInfo>परमाडेथ मोड में अधिकतम ऑटोसेव अंतराल {0} दिन है।</MaxPermadeathAutosaveIntervalInfo>
+  <!-- EN: Mod Settings -->
+  <ModSettings>सेटिंग्स</ModSettings>
+  <!-- EN: Permanently disable development mode -->
+  <PermanentlyDisableDevMode>स्थायी रूप से विकास मोड अक्षम करें।</PermanentlyDisableDevMode>
+  <!-- EN: Texture compression -->
+  <TextureCompression>बनावट संपीड़न</TextureCompression>
+  <!-- EN: Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods. -->
+  <TextureCompression_Tooltip>टेक्सचर संपीड़न बंद करने से बहुत अधिक वीडियो मेमोरी का उपयोग होगा, लेकिन टेक्सचर को विस्तृत क्षेत्रों में थोड़ा बेहतर दिखाएगा। यदि आपको पता है कि आपके पास बहुत अधिक अतिरिक्त वीडियो मेमोरी है तो ही इसे बंद करें।\n\nध्यान दें कि कुछ मॉड का उपयोग करने से अक्सर बहुत अधिक वीडियो मेमोरी की खपत होती है, इसलिए यदि आप कुछ मॉड जोड़ते हैं तो आपको इसे चालू करने की आवश्यकता हो सकती है।</TextureCompression_Tooltip>
+  <!-- EN: Smooth camera jumps -->
+  <SmoothCameraJumps>चिकनी कैमरा छलांगें</SmoothCameraJumps>
+  <!-- EN: When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly. -->
+  <SmoothCameraJumpsDesc>सक्रिय होने पर, कैमरा किसी नए स्थान पर ध्यान केंद्रित करते समय तेज़ी से घूमेगा। निष्क्रिय होने पर, कैमरा तुरंत कूद जाएगा।</SmoothCameraJumpsDesc>
+  <!-- EN: Gravship cutscenes -->
+  <GravshipCutscenes>गुरुत्व जहाज़ कटसीन</GravshipCutscenes>
+  <!-- EN: When disabled, gravships will take off and land instantly. -->
+  <GravshipCutscenesDesc>जब अक्षम किया जाता है, तो गुरुत्व जहाज़ तुरंत उड़ान भरेंगे और उतरेंगे।</GravshipCutscenesDesc>
+
+  <!-- Resolution -->
+  <!-- EN: Resolution -->
+  <Resolution>समाधान</Resolution>
+  <!-- EN: Fullscreen -->
+  <Fullscreen>पूर्ण स्क्रीन</Fullscreen>
+  <!-- EN: Borderless fullscreen -->
+  <BorderlessFullscreen>पूर्णस्क्रीन</BorderlessFullscreen>
+  <!-- EN: To run RimWorld in borderless fullscreen mode:\n\n1) Open Steam\n2) Go to the "Library" tab at the top\n3) Find RimWorld on the list and right-click it\n4) Choose "Properties..."\n5) Add "-popupwindow" without quotes to "Launch options" in the "General" tab\n6) Restart game\n7) If done correctly, you won't see this window\n\nHint: Use Windows Key + Shift + Left/Right to move the window between your monitors. -->
+  <BorderlessFullscreenInstructions>रिमवर्ल्ड को बॉर्डरलेस फुलस्क्रीन मोड में चलाने के लिए:\n\n1) स्टीम खोलें\n2) ऊपर दिए गए &amp;quot;लाइब्रेरी&amp;quot; टैब पर जाएं\n3) सूची में रिमवर्ल्ड ढूंढें और उस पर राइट-क्लिक करें\n4) &amp;quot;प्रॉपर्टीज…&amp;quot; चुनें\n5) &amp;quot;जनरल&amp;quot; टैब में &amp;quot;लॉन्च ऑप्शंस&amp;quot; में बिना उद्धरण चिह्नों के &amp;quot;-popupwindow&amp;quot; जोड़ें\n6) गेम रीस्टार्ट करें\n7) यदि सही तरीके से किया गया है, तो आपको यह विंडो नहीं दिखेगी\n\nसंकेत: अपनी मॉनिटर के बीच विंडो को ले जाने के लिए विंडोज की + शिफ्ट + लेफ्ट/राइट का उपयोग करें।</BorderlessFullscreenInstructions>
+
+  <!-- Mods -->
+  <!-- EN: Select mod... -->
+  <SelectMod>मोड चुनें…</SelectMod>
+  <!-- EN: No configurable mods loaded. -->
+  <NoConfigurableMods>कोई अनुकूलन योग्य मॉड लोड नहीं हैं।</NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <!-- EN: Restore all settings to default -->
+  <RestoreToDefaultSettingsLabel>डिफ़ॉल्ट सेटिंग्स</RestoreToDefaultSettingsLabel>
+  <!-- EN: Restore defaults -->
+  <RestoreToDefaultSettings>डिफ़ॉल्ट पुनर्स्थापित करें</RestoreToDefaultSettings>
+  <!-- EN: All settings have been reset. The game will now restart automatically. -->
+  <ResetAndRestart>सभी सेटिंग्स रीसेट कर दी गई हैं। खेल अब स्वचालित रूप से पुनः आरंभ होगा।</ResetAndRestart>
+  <!-- EN: All settings will be reset to the default and the game will be restarted. Unsaved progress will be lost,\n\nContinue? -->
+  <ResetAndRestartConfirmationDialog>सभी सेटिंग्स डिफ़ॉल्ट पर रीसेट हो जाएँगी और गेम पुनः आरंभ होगा। असहेजी प्रगति खो जाएगी,\n\nजारी रखें?</ResetAndRestartConfirmationDialog>
+  <!-- EN: Changing texture compression settings requires a restart. Unsaved progress will be lost.\n\nContinue? -->
+  <ChangedTextureCompressionRestart>बनावट संपीड़न सेटिंग्स बदलने के लिए पुनः आरंभ आवश्यक है। असहेजी गई प्रगति खो जाएगी।\n\nजारी रखें?</ChangedTextureCompressionRestart>
+  
+  <!-- Background image -->
+  <!-- EN: Menu background -->
+  <SetBackgroundImage>पृष्ठभूमि</SetBackgroundImage>
+
+</LanguageData>

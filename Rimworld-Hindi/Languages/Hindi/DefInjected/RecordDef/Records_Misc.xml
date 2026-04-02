@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals slaughtered -->
+  <AnimalsSlaughtered.label>वध किए गए पशु</AnimalsSlaughtered.label>
+  <!-- EN: The number of animals I have slaughtered. -->
+  <AnimalsSlaughtered.description>वध किए गए जानवरों की संख्या।</AnimalsSlaughtered.description>
+  
+  <!-- EN: animals tamed -->
+  <AnimalsTamed.label>पालतू जानवर</AnimalsTamed.label>
+  <!-- EN: The number of animals I have tamed. -->
+  <AnimalsTamed.description>मेरे पालतू जानवरों की संख्या।</AnimalsTamed.description>
+  
+  <!-- EN: artifacts activated -->
+  <ArtifactsActivated.label>पुरातत्व सक्रिय</ArtifactsActivated.label>
+  <!-- EN: The number of artifacts I have activated. -->
+  <ArtifactsActivated.description>मेरे द्वारा सक्रिय किए गए कलाकृतियों की संख्या।</ArtifactsActivated.description>
+  
+  <!-- EN: bodies stripped -->
+  <BodiesStripped.label>शरीर निकाले गए</BodiesStripped.label>
+  <!-- EN: The number of bodies I have stripped. -->
+  <BodiesStripped.description>मेरे द्वारा नग्न किए गए शरीरों की संख्या।</BodiesStripped.description>
+  
+  <!-- EN: cells mined -->
+  <CellsMined.label>कोशिका खनन</CellsMined.label>
+  <!-- EN: The number of cells I have mined out. -->
+  <CellsMined.description>निकाल दिए गए कक्षों की संख्या।</CellsMined.description>
+  
+  <!-- EN: containers opened -->
+  <ContainersOpened.label>खुलें कंटेनर</ContainersOpened.label>
+  <!-- EN: The number of containers I have opened. -->
+  <ContainersOpened.description>मेरे द्वारा खोले गए कंटेनरों की संख्या।</ContainersOpened.description>
+  
+  <!-- EN: corpses buried -->
+  <CorpsesBuried.label>शव दफनाए गए</CorpsesBuried.label>
+  <!-- EN: The number of corpses I have buried. -->
+  <CorpsesBuried.description>दफनाए गए शवों की संख्या।</CorpsesBuried.description>
+  
+  <!-- EN: damage dealt -->
+  <DamageDealt.label>नुकसान</DamageDealt.label>
+  <!-- EN: The amount of damage I have dealt. -->
+  <DamageDealt.description>मैंने जो नुकसान पहुँचाया है उसकी मात्रा।</DamageDealt.description>
+  
+  <!-- EN: damage taken -->
+  <DamageTaken.label>क्षति</DamageTaken.label>
+  <!-- EN: The amount of damage I have taken. -->
+  <DamageTaken.description>मुझे जो नुकसान हुआ है उसकी मात्रा।</DamageTaken.description>
+  
+  <!-- EN: fires extinguished -->
+  <FiresExtinguished.label>आग बुझाई गई</FiresExtinguished.label>
+  <!-- EN: The number of fires I have extinguished. -->
+  <FiresExtinguished.description>मैंने बुझाई गई आगों की संख्या।</FiresExtinguished.description>
+  
+  <!-- EN: headshots -->
+  <Headshots.label>सिर मार</Headshots.label>
+  <!-- EN: The number of headshots I have made. -->
+  <Headshots.description>मेरे द्वारा किए गए सिर पर किए गए शॉट्स की संख्या।</Headshots.description>
+  
+  <!-- EN: kills -->
+  <Kills.label>हत्या</Kills.label>
+  <!-- EN: The number of creatures I have killed. -->
+  <Kills.description>मैंने जितने जीवों को मारा है उनकी संख्या।</Kills.description>
+  
+  <!-- EN: kills (animals) -->
+  <KillsAnimals.label>हत्या</KillsAnimals.label>
+  <!-- EN: The number of animals I have killed. -->
+  <KillsAnimals.description>मेरे द्वारा मारे गए जानवरों की संख्या।</KillsAnimals.description>
+  
+  <!-- EN: kills (humanlikes) -->
+  <KillsHumanlikes.label>हत्याएं</KillsHumanlikes.label>
+  <!-- EN: The number of humanlike characters I have killed. -->
+  <KillsHumanlikes.description>मैंने जितने मानवीय पात्रों को मारा है उनकी संख्या।</KillsHumanlikes.description>
+  
+  <!-- EN: kills (mechanoids) -->
+  <KillsMechanoids.label>मेकैनॉइड्स हत्याएं</KillsMechanoids.label>
+  <!-- EN: The number of mechanoids I have killed. -->
+  <KillsMechanoids.description>मैंने जितने मैकेनोइड मारे हैं उनकी संख्या।</KillsMechanoids.description>
+  
+  <!-- EN: meals cooked -->
+  <MealsCooked.label>पका भोजन</MealsCooked.label>
+  <!-- EN: The number of meals I have cooked. -->
+  <MealsCooked.description>मैंने जो भोजन बनाया है उसकी संख्या।</MealsCooked.description>
+  
+  <!-- EN: messes cleaned -->
+  <MessesCleaned.label>साफ गंदगी</MessesCleaned.label>
+  <!-- EN: The number of messes I have cleaned up. -->
+  <MessesCleaned.description>मैंने जितनी गंदगी साफ की है।</MessesCleaned.description>
+  
+  <!-- EN: nutrition eaten -->
+  <NutritionEaten.label>पोषण खाया</NutritionEaten.label>
+  <!-- EN: The amount of nutrition I have eaten. -->
+  <NutritionEaten.description>मैंने जो पोषण लिया है उसकी मात्रा।</NutritionEaten.description>
+  
+  <!-- EN: operations performed -->
+  <OperationsPerformed.label>कार्रवाईयां कीं गईं</OperationsPerformed.label>
+  <!-- EN: How many medical operations I have performed. -->
+  <OperationsPerformed.description>मैंने कितने चिकित्सा कार्य किए हैं।</OperationsPerformed.description>
+  
+  <!-- EN: operations received -->
+  <OperationsReceived.label>संचालन प्राप्त</OperationsReceived.label>
+  <!-- EN: How many times I have been medically operated on. -->
+  <OperationsReceived.description>कितनी बार मेरा चिकित्सीय रूप से ऑपरेशन हुआ है।</OperationsReceived.description>
+  
+  <!-- EN: enemies downed -->
+  <PawnsDowned.label>शत्रु धराशायी</PawnsDowned.label>
+  <!-- EN: The number of creatures I have downed. -->
+  <PawnsDowned.description>मेरे द्वारा गिराए गए जीवों की संख्या।</PawnsDowned.description>
+  
+  <!-- EN: enemies downed (animals) -->
+  <PawnsDownedAnimals.label>दुश्मन गिराए गए (जानवर)</PawnsDownedAnimals.label>
+  <!-- EN: The number of animals I have downed, whether hunting or in combat. -->
+  <PawnsDownedAnimals.description>शिकार या युद्ध में मारे गए जानवरों की संख्या।</PawnsDownedAnimals.description>
+  
+  <!-- EN: enemies downed (humanlikes) -->
+  <PawnsDownedHumanlikes.label>दुश्मन गिराए गए</PawnsDownedHumanlikes.label>
+  <!-- EN: The number of humanlike creatures I have downed. -->
+  <PawnsDownedHumanlikes.description>मेरे द्वारा गिराए गए मानव सदृश प्राणियों की संख्या।</PawnsDownedHumanlikes.description>
+  
+  <!-- EN: enemies downed (mechanoids) -->
+  <PawnsDownedMechanoids.label>दुश्मन निष्क्रिय (मेकैनॉइड्स)</PawnsDownedMechanoids.label>
+  <!-- EN: The number of mechanoids I have downed. -->
+  <PawnsDownedMechanoids.description>मैंने जितने मैकेनोइड्स को गिराया है उनकी संख्या।</PawnsDownedMechanoids.description>
+  
+  <!-- EN: people captured -->
+  <PeopleCaptured.label>कैदी</PeopleCaptured.label>
+  <!-- EN: The number of people I have captured. -->
+  <PeopleCaptured.description>पकड़े गए लोगों की संख्या।</PeopleCaptured.description>
+  
+  <!-- EN: plants harvested -->
+  <PlantsHarvested.label>पौधे काटे गए</PlantsHarvested.label>
+  <!-- EN: The number of plants I have harvested. -->
+  <PlantsHarvested.description>मेरे द्वारा काटी गई पौधों की संख्या।</PlantsHarvested.description>
+  
+  <!-- EN: plants sown -->
+  <PlantsSown.label>पौधे बोए गए</PlantsSown.label>
+  <!-- EN: The number of plants I have sown. -->
+  <PlantsSown.description>मेरे द्वारा बोए गए पौधों की संख्या।</PlantsSown.description>
+  
+  <!-- EN: prisoners chatted -->
+  <PrisonersChatted.label>कैदी गपशप</PrisonersChatted.label>
+  <!-- EN: How many times I have chatted with prisoners. -->
+  <PrisonersChatted.description>कैदियों से मैंने कितनी बार बातचीत की है।</PrisonersChatted.description>
+  
+  <!-- EN: prisoners recruited -->
+  <PrisonersRecruited.label>कैदी भर्ती</PrisonersRecruited.label>
+  <!-- EN: The number of prisoners I have recruited. -->
+  <PrisonersRecruited.description>मेरे द्वारा भर्ती किए गए कैदियों की संख्या।</PrisonersRecruited.description>
+  
+  <!-- EN: research points researched -->
+  <ResearchPointsResearched.label>अनुसंधान अंक</ResearchPointsResearched.label>
+  <!-- EN: The number of research points I have researched. -->
+  <ResearchPointsResearched.description>मेरे द्वारा किए गए शोध बिंदुओं की संख्या।</ResearchPointsResearched.description>
+  
+  <!-- EN: shots fired -->
+  <ShotsFired.label>गोलीबारी</ShotsFired.label>
+  <!-- EN: The number of shots I have fired. -->
+  <ShotsFired.description>मेरे द्वारा चलाई गई गोलियों की संख्या।</ShotsFired.description>
+  
+  <!-- EN: switches flicked -->
+  <SwitchesFlicked.label>स्विच चालू</SwitchesFlicked.label>
+  <!-- EN: The number of switches I have flicked. -->
+  <SwitchesFlicked.description>मैंने जितने स्विच पलटे हैं।</SwitchesFlicked.description>
+  
+  <!-- EN: things constructed -->
+  <ThingsConstructed.label>निर्मित वस्तुएँ</ThingsConstructed.label>
+  <!-- EN: The number of things I have constructed. -->
+  <ThingsConstructed.description>मेरे द्वारा निर्मित वस्तुओं की संख्या।</ThingsConstructed.description>
+  
+  <!-- EN: things crafted -->
+  <ThingsCrafted.label>निर्मित वस्तुएँ</ThingsCrafted.label>
+  <!-- EN: The number of things I have crafted. -->
+  <ThingsCrafted.description>मेरे द्वारा बनाई गई वस्तुओं की संख्या।</ThingsCrafted.description>
+  
+  <!-- EN: things deconstructed -->
+  <ThingsDeconstructed.label>विघटित वस्तुएँ</ThingsDeconstructed.label>
+  <!-- EN: The number of things I have deconstructed. -->
+  <ThingsDeconstructed.description>मैंने जिन वस्तुओं को विघटित किया है उनकी संख्या।</ThingsDeconstructed.description>
+  
+  <!-- EN: things hauled -->
+  <ThingsHauled.label>ढोई गई वस्तुएं</ThingsHauled.label>
+  <!-- EN: The number of things I have hauled. -->
+  <ThingsHauled.description>मेरे द्वारा ढोई गई वस्तुओं की संख्या।</ThingsHauled.description>
+  
+  <!-- EN: things installed -->
+  <ThingsInstalled.label>स्थापित वस्तुएँ</ThingsInstalled.label>
+  <!-- EN: The number of things I have installed. -->
+  <ThingsInstalled.description>मेरे द्वारा स्थापित वस्तुओं की संख्या।</ThingsInstalled.description>
+  
+  <!-- EN: things repaired -->
+  <ThingsRepaired.label>मरम्मत की वस्तुएं</ThingsRepaired.label>
+  <!-- EN: The number of things I have repaired. -->
+  <ThingsRepaired.description>मरम्मत की गई वस्तुओं की संख्या।</ThingsRepaired.description>
+  
+  <!-- EN: things uninstalled -->
+  <ThingsUninstalled.label>हटाए गए वस्तुएँ</ThingsUninstalled.label>
+  <!-- EN: The number of things I have uninstalled. -->
+  <ThingsUninstalled.description>मेरे द्वारा हटाई गई वस्तुओं की संख्या।</ThingsUninstalled.description>
+  
+  <!-- EN: times in mental state -->
+  <TimesInMentalState.label>मानसिक अवस्था में समय</TimesInMentalState.label>
+  <!-- EN: How many times I have suffered a mental break. -->
+  <TimesInMentalState.description>कितनी बार मानसिक रूप से टूटने का अनुभव हुआ है।</TimesInMentalState.description>
+  
+  <!-- EN: times on fire -->
+  <TimesOnFire.label>आग लगने का समय</TimesOnFire.label>
+  <!-- EN: How many times I have been on fire. -->
+  <TimesOnFire.description>कितनी बार आग लगी है।</TimesOnFire.description>
+  
+  <!-- EN: tends given -->
+  <TimesTendedOther.label>देना</TimesTendedOther.label>
+  <!-- EN: How many times I have tended to others' medical conditions. -->
+  <TimesTendedOther.description>कितनी बार मैंने दूसरों की चिकित्सा स्थितियों का ध्यान रखा है।</TimesTendedOther.description>
+  
+  <!-- EN: tends received -->
+  <TimesTendedTo.label>प्राप्त रुझान</TimesTendedTo.label>
+  <!-- EN: How many times I have had my medical conditions tended. -->
+  <TimesTendedTo.description>मेरी चिकित्सा स्थितियों का कितनी बार इलाज किया गया है।</TimesTendedTo.description>
+  
+</LanguageData>

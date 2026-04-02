@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: category -->
+  <Category.label>श्रेणी</Category.label>
+  
+  <!-- EN: hit points percentage -->
+  <HitPointsPercentage.label>स्वास्थ्य प्रतिशत</HitPointsPercentage.label>
+  
+  <!-- EN: market value -->
+  <MarketValue.label>बाजार मूल्य</MarketValue.label>
+  
+  <!-- EN: mass -->
+  <Mass.label>भार</Mass.label>
+  
+  <!-- EN: name -->
+  <Name.label>नाम</Name.label>
+  
+  <!-- EN: none -->
+  <None.label>कोई नहीं</None.label>
+  
+  <!-- EN: quality -->
+  <Quality.label>गुणवत्ता</Quality.label>
+  
+</LanguageData>

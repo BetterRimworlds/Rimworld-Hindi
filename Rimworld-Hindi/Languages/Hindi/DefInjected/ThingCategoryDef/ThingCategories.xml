@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal products -->
+  <AnimalProductRaw.label>पशु उत्पाद</AnimalProductRaw.label>
+  
+  <!-- EN: animals -->
+  <Animals.label>पशु</Animals.label>
+  
+  <!-- EN: apparel -->
+  <Apparel.label>परिधान</Apparel.label>
+  
+  <!-- EN: armor -->
+  <ApparelArmor.label>कवच</ApparelArmor.label>
+  
+  <!-- EN: misc -->
+  <ApparelMisc.label>विविध</ApparelMisc.label>
+  
+  <!-- EN: noble apparel -->
+  <ApparelNoble.label>उत्कृष्ट वस्त्र</ApparelNoble.label>
+  
+  <!-- EN: utility -->
+  <ApparelUtility.label>उपयोगिता</ApparelUtility.label>
+  
+  <!-- EN: headgear -->
+  <ArmorHeadgear.label>सिरपरिधान</ArmorHeadgear.label>
+  
+  <!-- EN: artifacts -->
+  <Artifacts.label>पुरातत्व अवशेष</Artifacts.label>
+  
+  <!-- EN: body parts -->
+  <BodyParts.label>शरीर के अंग</BodyParts.label>
+  
+  <!-- EN: archotech -->
+  <BodyPartsArchotech.label>आर्कोटेक</BodyPartsArchotech.label>
+  
+  <!-- EN: bionic -->
+  <BodyPartsBionic.label>बायोनिक</BodyPartsBionic.label>
+  
+  <!-- EN: mechtech -->
+  <BodyPartsMechtech.label>मैकटेक</BodyPartsMechtech.label>
+  
+  <!-- EN: natural -->
+  <BodyPartsNatural.label>प्राकृतिक</BodyPartsNatural.label>
+  
+  <!-- EN: prosthetic -->
+  <BodyPartsProsthetic.label>कृत्रिम अंग</BodyPartsProsthetic.label>
+  
+  <!-- EN: simple parts -->
+  <BodyPartsSimple.label>साधारण भाग</BodyPartsSimple.label>
+  
+  <!-- EN: ultratech -->
+  <BodyPartsUltra.label>अतिप्रौद्योगिकी</BodyPartsUltra.label>
+  
+  <!-- EN: bookEffects -->
+  <BookEffects.label>पुस्तक प्रभाव</BookEffects.label>
+  
+  <!-- EN: books -->
+  <Books.label>पुस्तकें</Books.label>
+  
+  <!-- EN: buildings -->
+  <Buildings.label>इमारतें</Buildings.label>
+  
+  <!-- EN: art -->
+  <BuildingsArt.label>कला</BuildingsArt.label>
+  
+  <!-- EN: furniture -->
+  <BuildingsFurniture.label>फर्नीचर</BuildingsFurniture.label>
+  
+  <!-- EN: recreation -->
+  <BuildingsJoy.label>मनोरंजन</BuildingsJoy.label>
+  
+  <!-- EN: misc -->
+  <BuildingsMisc.label>विविध</BuildingsMisc.label>
+  
+  <!-- EN: power -->
+  <BuildingsPower.label>बिजली</BuildingsPower.label>
+  
+  <!-- EN: production -->
+  <BuildingsProduction.label>उत्पादन</BuildingsProduction.label>
+  
+  <!-- EN: security -->
+  <BuildingsSecurity.label>सुरक्षा</BuildingsSecurity.label>
+  
+  <!-- EN: special -->
+  <BuildingsSpecial.label>विशेष</BuildingsSpecial.label>
+  
+  <!-- EN: temperature -->
+  <BuildingsTemperature.label>तापमान</BuildingsTemperature.label>
+  
+  <!-- EN: chunks -->
+  <Chunks.label>खंड</Chunks.label>
+  
+  <!-- EN: corpses -->
+  <Corpses.label>शव</Corpses.label>
+  
+  <!-- EN: animal corpses -->
+  <CorpsesAnimal.label>पशु शव</CorpsesAnimal.label>
+  
+  <!-- EN: humanlike corpses -->
+  <CorpsesHumanlike.label>मानव लाशें</CorpsesHumanlike.label>
+  
+  <!-- EN: insect corpses -->
+  <CorpsesInsect.label>कीट लाशें</CorpsesInsect.label>
+  
+  <!-- EN: mechanoid corpses -->
+  <CorpsesMechanoid.label>मेकैनॉइड लाशें</CorpsesMechanoid.label>
+  
+  <!-- EN: drugs -->
+  <Drugs.label>दवाएँ</Drugs.label>
+  
+  <!-- EN: eggs (fert.) -->
+  <EggsFertilized.label>अंडे (उर्वर)</EggsFertilized.label>
+  
+  <!-- EN: eggs (unfert.) -->
+  <EggsUnfertilized.label>अंडे (बंजर)</EggsUnfertilized.label>
+  
+  <!-- EN: meals -->
+  <FoodMeals.label>भोजन</FoodMeals.label>
+  
+  <!-- EN: raw food -->
+  <FoodRaw.label>कच्चा भोजन</FoodRaw.label>
+  
+  <!-- EN: foods -->
+  <Foods.label>भोजन</Foods.label>
+  
+  <!-- EN: grenades -->
+  <Grenades.label>ग्रेनेड</Grenades.label>
+  
+  <!-- EN: headgear -->
+  <Headgear.label>सिरपरिधान</Headgear.label>
+  
+  <!-- EN: headgear -->
+  <HeadgearNoble.label>सिरपरिधान</HeadgearNoble.label>
+  
+  <!-- EN: inert relics -->
+  <InertRelics.label>निष्क्रिय अवशेष</InertRelics.label>
+  
+  <!-- EN: items -->
+  <Items.label>वस्तुएँ</Items.label>
+  
+  <!-- EN: misc -->
+  <ItemsMisc.label>विविध</ItemsMisc.label>
+  
+  <!-- EN: leathers -->
+  <Leathers.label>चमड़ा</Leathers.label>
+  
+  <!-- EN: manufactured -->
+  <Manufactured.label>निर्मित</Manufactured.label>
+  
+  <!-- EN: meat -->
+  <MeatRaw.label>मांस</MeatRaw.label>
+  
+  <!-- EN: medicine -->
+  <Medicine.label>दवा</Medicine.label>
+  
+  <!-- EN: mortar shells -->
+  <MortarShells.label>मोर्टार गोले</MortarShells.label>
+  
+  <!-- EN: neurotrainers -->
+  <Neurotrainers.label>न्यूरो प्रशिक्षक</Neurotrainers.label>
+  
+  <!-- EN: psytrainers -->
+  <NeurotrainersPsycast.label>साइ प्रशिक्षक</NeurotrainersPsycast.label>
+  
+  <!-- EN: skilltrainers -->
+  <NeurotrainersSkill.label>कौशल प्रशिक्षक</NeurotrainersSkill.label>
+  
+  <!-- EN: vegetarian -->
+  <PlantFoodRaw.label>शाकाहारी</PlantFoodRaw.label>
+  
+  <!-- EN: plant matter -->
+  <PlantMatter.label>पौधे सामग्री</PlantMatter.label>
+  
+  <!-- EN: plants -->
+  <Plants.label>पौधे</Plants.label>
+  
+  <!-- EN: research -->
+  <ResearchGain.label>अनुसंधान</ResearchGain.label>
+  
+  <!-- EN: raw resources -->
+  <ResourcesRaw.label>कच्चा संसाधन</ResourcesRaw.label>
+  
+  <!-- EN: root -->
+  <Root.label>मूल</Root.label>
+  
+  <!-- EN: skill gain -->
+  <SkillGain.label>कौशल लाभ</SkillGain.label>
+  
+  <!-- EN: stone blocks -->
+  <StoneBlocks.label>पत्थर के खंड</StoneBlocks.label>
+  
+  <!-- EN: stone chunks -->
+  <StoneChunks.label>पत्थर के टुकड़े</StoneChunks.label>
+  
+  <!-- EN: stumps -->
+  <Stumps.label>अंकुर</Stumps.label>
+  
+  <!-- EN: techprints -->
+  <Techprints.label>तकनीकी ब्लूप्रिंट</Techprints.label>
+  
+  <!-- EN: textiles -->
+  <Textiles.label>वस्त्र</Textiles.label>
+  
+  <!-- EN: unfinished -->
+  <Unfinished.label>अधूरा</Unfinished.label>
+  
+  <!-- EN: weapons -->
+  <Weapons.label>हथियार</Weapons.label>
+  
+  <!-- EN: melee weapons -->
+  <WeaponsMelee.label>नज़दीकी युद्ध हथियार</WeaponsMelee.label>
+  
+  <!-- EN: persona weapons -->
+  <WeaponsMeleeBladelink.label>व्यक्तिगत हथियार</WeaponsMeleeBladelink.label>
+  
+  <!-- EN: ranged weapons -->
+  <WeaponsRanged.label>दूरस्थ हथियार</WeaponsRanged.label>
+  
+  <!-- EN: unique weapons -->
+  <WeaponsUnique.label>विशिष्ट हथियार</WeaponsUnique.label>
+  
+  <!-- EN: wools -->
+  <Wools.label>ऊन</Wools.label>
+  
+</LanguageData>

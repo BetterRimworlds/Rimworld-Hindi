@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blunt damage -->
+  <BluntDamageMultiplier.label>बेढंगा क्षति</BluntDamageMultiplier.label>
+  <!-- EN: A multiplier on damage from blunt-type attacks for weapons made of this material. -->
+  <BluntDamageMultiplier.description>हथियारों के लिए इस सामग्री से बने कुंद-प्रकार के हमलों से होने वाले नुकसान का गुणक।</BluntDamageMultiplier.description>
+  
+  <!-- EN: melee armor penetration -->
+  <MeleeWeapon_AverageArmorPenetration.label>नज़दीकी युद्ध कवच भेदन</MeleeWeapon_AverageArmorPenetration.label>
+  <!-- EN: Average armor penetration in melee combat. -->
+  <MeleeWeapon_AverageArmorPenetration.description>नज़दीकी युद्ध में औसत कवच भेदन।</MeleeWeapon_AverageArmorPenetration.description>
+  
+  <!-- EN: melee damage per second -->
+  <MeleeWeapon_AverageDPS.label>नज़दीकी युद्ध प्रति सेकंड क्षति</MeleeWeapon_AverageDPS.label>
+  <!-- EN: Average damage dealt per second in melee combat, if all attacks hit. -->
+  <MeleeWeapon_AverageDPS.description>नज़दीकी युद्ध में प्रति सेकंड औसत नुकसान, यदि सभी हमले लगते हैं।</MeleeWeapon_AverageDPS.description>
+  
+  <!-- EN: melee cooldown -->
+  <MeleeWeapon_CooldownMultiplier.label>नज़दीकी युद्ध शीतकाल</MeleeWeapon_CooldownMultiplier.label>
+  <!-- EN: A multiplier on attack delay for weapons made of this material. -->
+  <MeleeWeapon_CooldownMultiplier.description>इस सामग्री से बने हथियारों के लिए हमले की देरी पर एक गुणक।</MeleeWeapon_CooldownMultiplier.description>
+  
+  <!-- EN: melee damage multiplier -->
+  <MeleeWeapon_DamageMultiplier.label>नज़दीकी युद्ध क्षति गुणक</MeleeWeapon_DamageMultiplier.label>
+  <!-- EN: A damage multiplier applied to melee combat. -->
+  <MeleeWeapon_DamageMultiplier.description>नज़दीकी युद्ध में क्षति गुणक लागू किया गया।</MeleeWeapon_DamageMultiplier.description>
+  
+  <!-- EN: sharp damage -->
+  <SharpDamageMultiplier.label>तीव्र क्षति</SharpDamageMultiplier.label>
+  <!-- EN: A multiplier on damage from sharp-type attacks for weapons made of this material. -->
+  <SharpDamageMultiplier.description>इस सामग्री से बने हथियारों से तीक्ष्ण प्रकार के हमलों से होने वाले नुकसान का गुणक।</SharpDamageMultiplier.description>
+  
+</LanguageData>

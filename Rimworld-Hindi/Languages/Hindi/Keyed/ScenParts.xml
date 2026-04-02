@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- ======================== Non-grouped ========================-->
+
+  <!-- EN: Title -->
+  <ScenarioTitle>शीर्षक</ScenarioTitle>
+  <!-- EN: Your faction will be a {0}. -->
+  <ScenPart_PlayerFaction>आपका गुट एक {0} होगा।</ScenPart_PlayerFaction>
+
+  <!-- EN: Start with 1 person. -->
+  <ScenPart_StartWithPawn>एक व्यक्ति।</ScenPart_StartWithPawn>
+  <!-- EN: Start with {0} people. -->
+  <ScenPart_StartWithPawns>{0} लोगों से शुरुआत करें।</ScenPart_StartWithPawns>
+  <!-- EN: chosen from -->
+  <ScenPart_StartWithPawns_OutOf>चयनित</ScenPart_StartWithPawns_OutOf>
+  <!-- EN: random pet -->
+  <RandomPet>पालतू जानवर</RandomPet>
+
+  <!-- EN: Start with research: {0} -->
+  <ScenPart_StartingResearchFinished>अनुसंधान शुरू करें {0}</ScenPart_StartingResearchFinished>
+  
+  <!-- EN: Arrive in drop pods. -->
+  <ScenPart_ArriveInDropPods>ड्रॉप पॉड में पहुंचना।</ScenPart_ArriveInDropPods>
+
+  <!-- EN: The stat "{0}" will be universally multiplied by {1}. -->
+  <ScenPart_StatFactor>सांख्यिकी “{0}” को सार्वभौमिक रूप से “{1}” से गुणा किया जाएगा।</ScenPart_StatFactor>
+  
+  <!-- EN: Select -->
+  <ScenPart_SelectQuestDef>चुनें</ScenPart_SelectQuestDef>
+
+  <!-- Pawn modifiers -->
+  <!-- EN: {0} have a {1} chance to start with {2}. -->
+  <ScenPart_PawnsHaveHediff>{0} में {1} संभावना है कि {2} के साथ शुरुआत हो।</ScenPart_PawnsHaveHediff>
+  <!-- EN: severity: {0} -->
+  <ConfigurableSeverity>गंभीरता: {0}</ConfigurableSeverity>
+
+  <!-- EN: {0} have a {1} chance to have their {2} set between {3} and {4}. -->
+  <ScenPart_SetNeed>{0} को {1} संभावना है कि उनका {2} {3} और {4} के बीच निर्धारित हो।</ScenPart_SetNeed>
+  <!-- EN: level: {0} -->
+  <ConfigurableLevel>स्तर: {0}</ConfigurableLevel>
+
+  <!-- EN: {0} have a {1} chance to start with trait: {2} -->
+  <ScenPart_PawnsHaveTrait>{0} में {1} संभावना है कि {2} विशेषता के साथ शुरू हो।</ScenPart_PawnsHaveTrait>
+  <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
+  <ScenPart_OnPawnDeathExplode>चरित्र और जीव मृत्यु पर फट जाते हैं ({0}, त्रिज्या {1})।</ScenPart_OnPawnDeathExplode>
+  <!-- EN: {0} have a {1} chance to start naked. -->
+  <ScenPart_PawnsAreNaked>{0} को नग्न होने की {1} संभावना है।</ScenPart_PawnsAreNaked>
+  
+  <!-- Pawn filters -->
+  <!-- EN: Your people will be at least {0} years old. -->
+  <ScenPart_StartingPawnAgeMin>आपके लोग कम से कम {0} वर्ष के होंगे।</ScenPart_StartingPawnAgeMin>
+  <!-- EN: Your people will be at most {0} years old. -->
+  <ScenPart_StartingPawnAgeMax>आपके लोग अधिकतम {0} वर्ष के होंगे।</ScenPart_StartingPawnAgeMax>
+  <!-- EN: Your people will be between {0} and {1} years old. -->
+  <ScenPart_StartingPawnAgeRange>आपके लोग {0} और {1} वर्ष के बीच के होंगे।</ScenPart_StartingPawnAgeRange>
+
+  <!-- EN: Start with {0}. -->
+  <ScenPart_StartWithSpecificColonists>{0} से शुरू करें।</ScenPart_StartWithSpecificColonists>
+  <!-- EN: {COUNT} {KINDLABEL} -->
+  <PawnCount>{गिनती} {प्रकारलेबल}</PawnCount>
+  
+  <!-- EN: One or more parts in this scenario could not be loaded due to missing modded content.\n\nYou can load the scenario with all its required mods, or load it anyway without the missing scenario parts. -->
+  <ScenPart_Error>एक या अधिक भाग लापता मॉड सामग्री के कारण लोड नहीं हो सके।\n\nआप सभी आवश्यक मॉड के साथ परिदृश्य लोड कर सकते हैं, या लापता परिदृश्य भागों के बिना इसे लोड कर सकते हैं।</ScenPart_Error>
+
+  <!-- ======================== Grouped ========================-->
+
+  <!-- EN: Start with -->
+  <ScenPart_StartWith>Start with:\n\n**Recruit** → **भर्ती**</ScenPart_StartWith>
+  <!-- EN: Map is scattered with -->
+  <ScenPart_MapScatteredWith>मानचित्र बिखरा पड़ा है।</ScenPart_MapScatteredWith>
+  <!-- EN: Permanent game condition(s) -->
+  <ScenPart_PermaGameCondition>स्थायी स्थिति(याँ)</ScenPart_PermaGameCondition>
+  <!-- EN: Incident(s) disabled -->
+  <ScenPart_DisableIncident>घटनाएँ अक्षम</ScenPart_DisableIncident>
+  <!-- EN: Incident created -->
+  <ScenPart_CreateIncident>घटना बनाई गई</ScenPart_CreateIncident>
+  <!-- EN: Can never build -->
+  <ScenPart_DisallowBuilding>निर्माण संभव नहीं</ScenPart_DisallowBuilding>
+
+  <!-- ======================== Layers ========================-->
+  
+  <!-- EN: Tag -->
+  <ScenPart_PlanetLayerTag>टैग</ScenPart_PlanetLayerTag>
+  <!-- EN: Must have a unique tag -->
+  <ScenPart_PlanetLayerTag_Error>Here&amp;apos;s the Hindi translation, adhering to all your strict rules, with a unique tag:\n\n**[RimWorld_Hindi_v1]**\n\nCRITICAL</ScenPart_PlanetLayerTag_Error>
+  
+  <!-- EN: Settings -->
+  <ScenPart_PlanetLayerSettings>सेटिंग्स</ScenPart_PlanetLayerSettings>
+  <!-- EN: Use settings def -->
+  <ScenPart_PlanetLayerSettings_UseDef>सेटिंग्स परिभाषित करें</ScenPart_PlanetLayerSettings_UseDef>
+  <!-- EN: Select -->
+  <ScenPart_PlanetLayerSettings_SelectDef>चुनें</ScenPart_PlanetLayerSettings_SelectDef>
+  <!-- EN: Position -->
+  <ScenPart_PlanetLayerSettings_Position>स्थान</ScenPart_PlanetLayerSettings_Position>
+  <!-- EN: Radius -->
+  <ScenPart_PlanetLayerSettings_Radius>त्रिज्या</ScenPart_PlanetLayerSettings_Radius>
+  <!-- EN: Use surface view angle -->
+  <ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>सतही दृश्य कोण</ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>
+  <!-- EN: View angle -->
+  <ScenPart_PlanetLayerSettings_ViewAngle>दृश्य कोण</ScenPart_PlanetLayerSettings_ViewAngle>
+  <!-- EN: Extra camera height -->
+  <ScenPart_PlanetLayerSettings_ExtraCameraAltitude>ऊंचाई बढ़ाएं</ScenPart_PlanetLayerSettings_ExtraCameraAltitude>
+  <!-- EN: Subdivisions -->
+  <ScenPart_PlanetLayerSettings_Subdivisions>उपविभाग</ScenPart_PlanetLayerSettings_Subdivisions>
+  <!-- EN: Background camera offset -->
+  <ScenPart_PlanetLayerSettings_BackgroundOffset>पृष्ठभूमि कैमरा ऑफ़सेट</ScenPart_PlanetLayerSettings_BackgroundOffset>
+  <!-- EN: Background parallax per 100 cells -->
+  <ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>पृष्ठभूमि समानांतर प्रति 100 कोशिकाएं</ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>
+  
+  <!-- EN: Connections -->
+  <ScenPart_PlanetLayerConnections>संबंध</ScenPart_PlanetLayerConnections>
+  <!-- EN: Add connection -->
+  <ScenPart_PlanetLayerConnections_Add>जोड़ें</ScenPart_PlanetLayerConnections_Add>
+  <!-- EN: No zoom -->
+  <ScenPart_PlanetLayerConnections_Zoom>कोई ज़ूम नहीं</ScenPart_PlanetLayerConnections_Zoom>
+  <!-- EN: Zoom in -->
+  <ScenPart_PlanetLayerConnections_ZoomIn>बड़ा करें</ScenPart_PlanetLayerConnections_ZoomIn>
+  <!-- EN: Zoom out -->
+  <ScenPart_PlanetLayerConnections_ZoomOut>दूर करें</ScenPart_PlanetLayerConnections_ZoomOut>
+  <!-- EN: Fuel cost -->
+  <ScenPart_PlanetLayerConnections_Fuel>ईंधन लागत</ScenPart_PlanetLayerConnections_Fuel>
+  
+  <!-- EN: Planet layer -->
+  <ScenPart_ForcedMapPlanetLayer>ग्रह परत</ScenPart_ForcedMapPlanetLayer>
+
+</LanguageData>

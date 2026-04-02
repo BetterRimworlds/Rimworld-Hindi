@@ -1,0 +1,860 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aurora -->
+  <Aurora.label>अरोरा</Aurora.label>
+  <!-- EN:
+    <li>tale_noun->the time an aurora appeared over [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->the time polar lights shone over [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->[PAWN_nameDef]'s [Community] illuminated by the light of an aurora</li>
+    <li>image->the sky illuminated in [Color]s and [Color]s [circumstance_phrase]</li>
+    <li>image->a fabulous pattern of [Color] rays [circumstance_phrase]</li>
+    <li>image->a network of [Color] lights [circumstance_phrase]</li>
+    <li>image->[Color] swooping arcs with [Color] highlights [circumstance_phrase]</li>
+    <li>image->dancing [Color] lights [circumstance_group]</li>
+    <li>circumstance_phrase->over a [TerrainFeature]</li>
+    <li>circumstance_phrase->illuminating a [TerrainFeature]</li>
+    <li>circumstance_phrase->floating over a [Community]</li>
+    <li>circumstance_phrase->bracketed between a [TerrainFeature] and a [TerrainFeature]</li>
+    <li>desc_sentence->Below, [PAWN_nameDef] plays [Game] with a [AdjectiveFriendly] look.</li>
+    <li>desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch from below.</li>
+    <li>desc_sentence->[PAWN_nameDef] sits near a [TerrainFeature], gazing at the sky.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully.</li>
+    <li>desc_sentence->There is no [Enemy] in sight.</li>
+  -->
+  <Aurora.rulePack.rulesStrings>
+    <li>tale_noun->पर एक अरोरा प्रकट हुआ [CommunityDef] का [PAWN_nameDef]</li>
+    <li>tale_noun->ध्रुवीय रोशनी चमकी [CommunityDef] का [PAWN_nameDef]</li>
+    <li>tale_noun->की [Community_Fem] का [PAWN_nameDef] एक अरोरा की रोशनी से प्रकाशित हुई</li>
+    <li>image->रंगो से प्रकाशित आकाश [Color_Plural] और [Color_Plural] [circumstance_phrase]</li>
+    <li>image->शानदार किरणों का पैटर्न [Color_Plural] [circumstance_phrase]</li>
+    <li>image->रोशनी का जाल [Color_Plural] [circumstance_phrase]</li>
+    <li>image->झुकते हुए चाप [Color_Plural] आकाश को पार करते हुए [circumstance_phrase]</li>
+    <li>image->रोशनी [Color_Plural] नाचते हुए [circumstance_group]</li>
+    <li>circumstance_phrase->पर [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->प्रकाशित करते हुए [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->पर [CommunityIndef]</li>
+    <li>circumstance_phrase->के बीच [TerrainFeatureIndef] और [TerrainFeatureIndef]</li>
+    <li>desc_sentence->नीचे [PAWN_nameDef] खेलता है {replace: a [GameDef]; "a el "-"al "} के साथ [AdjectiveFriendly]भाव</li>
+    <li>desc_sentence->[PAWN_nameDef] उसके चेहरे पर विस्मय के साथ देखता है।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] नीचे से देख रहे हैं।</li>
+    <li>desc_sentence->[PAWN_nameDef] पास बैठा है [TerrainFeatureIndef], आकाश निहार रहा है।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] शांति से घूमते हैं।</li>
+    <li>desc_sentence->बिना [Enemy]दिखाई दे रहा है।</li>
+  </Aurora.rulePack.rulesStrings>
+  
+  <!-- EN: caravan ambushed -->
+  <CaravanAmbushedByHumanlike.label>कारवां घात में</CaravanAmbushedByHumanlike.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan being ambushed</li>
+    <li>image->[PAWN_nameFull] cowering [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] moving to protect an ally [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] moving to attack [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] attacking [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] shouting loudly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] running [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] grappling with an opponent [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] defending [PAWN_objective]self [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveBadass] expression</li>
+    <li>circumstance_phrase->with a [AdjectiveBadass] expression</li>
+    <li>circumstance_phrase->while wielding [PAWN_possessive] weapon</li>
+    <li>circumstance_phrase->while sweating with exertion</li>
+    <li>desc_sentence->[Quantity_adjphrase] distant figures approaches from behind a [TerrainFeature].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s can be seen in the distance.</li>
+    <li>desc_sentence->[PAWN_nameDef] is practically surrounded by [Enemy]s.</li>
+    <li>desc_sentence->[PAWN_nameDef] is confronted by a [Enemy].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the scene of conflict in fear.</li>
+    <li>desc_sentence->In the distance, a [PersonJob] observes.</li>
+  -->
+  <CaravanAmbushedByHumanlike.rulePack.rulesStrings>
+    <li>tale_noun->का कारवां [PAWN_nameDef] पर घात लगायी गयी</li>
+    <li>image->[PAWN_nameFull] छिपने की कोशिश कर रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] किसी सहयोगी की रक्षा के लिए आगे बढ़ रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] हमला करने के लिए आगे बढ़ रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] हमला कर रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] चिल्ला रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] दौड़ रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] एक दुश्मन से जूझ रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] बचाव करते हुए [circumstance_group]</li>
+    <li>circumstance_phrase->मुंह पर [AdjectiveBadass]</li>
+    <li>circumstance_phrase->मुंह पर [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->जब वह अपना हथियार चलाता है।</li>
+    <li>circumstance_phrase->थकान से पसीना आ रहा है</li>
+    <li>desc_sentence->[Quantity_adjphrase] दूर के लोग पीछे से आ रहे हैं [TerrainFeatureIndef].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]दूर से [मात्रा_विशेषण वाक्यांश] [शत्रु] दिखाई दे रहे हैं।</li>
+    <li>desc_sentence->[PAWN_nameDef] घिरा हुआ है[PAWN_o_a] द्वारा [Enemy]हैं।</li>
+    <li>desc_sentence->[PAWN_nameDef] का सामना कर रहा है[PAWN_o_a] एक [Enemy]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] डर के मारे संघर्ष स्थल से [जानवर_बहुवचन] भाग रहे हैं।</li>
+    <li>desc_sentence->दूर से एक [PersonJob] देखता है।</li>
+  </CaravanAmbushedByHumanlike.rulePack.rulesStrings>
+  
+  <!-- EN: caravan ambushed by manhunter -->
+  <CaravanAmbushedByManhunter.label>कारवां शिकारी मानव द्वारा घात लगाकर हमला किया गया।</CaravanAmbushedByManhunter.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan being ambushed</li>
+    <li>image->[PAWN_nameFull] cowering [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] moving to protect an ally [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] moving to attack [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] attacking [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] shouting loudly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] running [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveBadass] expression</li>
+    <li>circumstance_phrase->with a [AdjectiveBadass] expression</li>
+    <li>circumstance_phrase->while wielding [PAWN_possessive] weapon</li>
+    <li>circumstance_phrase->while sweating with exertion</li>
+    <li>circumstance_phrase->while covered with [Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] distant animals approach from behind a [TerrainFeature].</li>
+    <li>desc_sentence->[Gore] covers the ground.</li>
+    <li>desc_sentence->The ground has been trampled into a mess of [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the scene of conflict in fear.</li>
+    <li>desc_sentence->In the distance, a [PersonJob] observes.</li>
+  -->
+  <CaravanAmbushedByManhunter.rulePack.rulesStrings>
+    <li>tale_noun->का कारवां [PAWN_nameDef] पर घात लगायी गयी</li>
+    <li>image->[PAWN_nameFull] छिप रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] किसी सहयोगी की रक्षा के लिए आगे बढ़ रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] हमला करने के लिए आगे बढ़ रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] हमला कर रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] चिल्ला रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] दौड़ रहा है [circumstance_group]</li>
+    <li>circumstance_phrase->एक भाव के साथ [AdjectiveBadass]</li>
+    <li>circumstance_phrase->मुंह पर [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->जब वह अपना हथियार चलाता है।</li>
+    <li>circumstance_phrase->थकान से पसीना आ रहा है</li>
+    <li>circumstance_phrase->ढका हुआ[PAWN_o_a] गंदगी में</li>
+    <li>desc_sentence->[Quantity_adjphrase] जानवर पीछे से आ रहे हैं [TerrainFeatureIndef].</li>
+    <li>desc_sentence->एक परत [Gore_Plural] फर्श पर फैलती है।</li>
+    <li>desc_sentence->ज़मीन पर {[Gore_Plural]} बिछा है [Gore_Plural].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] डर के मारे संघर्ष स्थल से [पशु बहुवचन] भाग रहे हैं।</li>
+    <li>desc_sentence->दूर से एक [PersonJob] देखता है।</li>
+  </CaravanAmbushedByManhunter.rulePack.rulesStrings>
+  
+  <!-- EN: caravan demand -->
+  <CaravanDemand.label>कारवां खतरे में</CaravanDemand.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan receiving a demand</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan being threatened</li>
+    <li>image->[PAWN_nameFull] cowering [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] shouting loudly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] thinking [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] glaring [circumstance_group]</li>
+    <li>image->[PAWN_nameFull], threatened by a [PersonJob], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] brandishing a [Weapon] [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveBadass] expression</li>
+    <li>circumstance_phrase->with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>circumstance_phrase->while being threatened by [Enemy]s</li>
+    <li>desc_sentence->[PAWN_nameDef] is practically surrounded by [Enemy]s.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are nearby, [action].</li>
+    <li>desc_sentence->The sun sets over a [TerrainFeature].</li>
+    <li>desc_sentence->The sun rises over a [TerrainFeature].</li>
+    <li>desc_sentence->In the distance, a [PersonJob] observes.</li>
+    <li>action->sharpening their weapons</li>
+    <li>action->watching for danger</li>
+    <li>action->guarding hostages</li>
+    <li>action->waiting for a decision</li>
+    <li>action->taunting [PAWN_nameDef]</li>
+  -->
+  <CaravanDemand.rulePack.rulesStrings>
+    <li>tale_noun->का कारवां [PAWN_nameDef] को एक धमकी मिली</li>
+    <li>tale_noun->का कारवां [PAWN_nameDef] को खतरा था</li>
+    <li>image->[PAWN_nameFull] डरा हुआ, सहमा हुआ [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] चिल्ला रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] सोच रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] देख रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull], किसी से अपमानित हो रहा [PersonJob], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] हिला रहा है [WeaponCacIndef] [circumstance_group]</li>
+    <li>circumstance_phrase->मुंह पर [AdjectiveBadass]</li>
+    <li>circumstance_phrase->मुंह पर [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->जबकि दूसरे देखते हैं।</li>
+    <li>circumstance_phrase->जब धमकी दी जा रही है[PAWN_o_a] द्वारा [Enemy]स</li>
+    <li>desc_sentence->[PAWN_nameDef] घिरा हुआ है[PAWN_o_a] द्वारा [Enemy]हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]पास हैं [action]।</li>
+    <li>desc_sentence->सूरज के पीछे डूब रहा है [TerrainFeatureIndef].</li>
+    <li>desc_sentence->सूरज निकलता है [TerrainFeatureIndef].</li>
+    <li>desc_sentence->दूर से एक [PersonJob] देखता है।</li>
+    <li>action->अपने हथियारों को तेज कर रहे हैं</li>
+    <li>action->खतरे के लिए निगरानी रखते हुए</li>
+    <li>action->बंधकों की निगरानी कर रहा है</li>
+    <li>action->निर्णय का इंतज़ार कर रहा है।</li>
+    <li>action->[PAWN_nameDef] को धमकाते हुए [PAWN_nameDef]</li>
+  </CaravanDemand.rulePack.rulesStrings>
+  
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>कारवां मिलन</CaravanMeeting.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan being met by others</li>
+    <li>image->[PAWN_nameFull] greeting a [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] inspecting a [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] calling out to a [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] walking towards a [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] talking quietly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] shouting loudly [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] playing [Game] with a [PersonJob] [circumstance_group]</li>
+    <li>circumstance_phrase->with a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->with a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->while [VerbFriendly]</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are [event].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are [event].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s surround the group.</li>
+    <li>desc_sentence->The sun sets over a [TerrainFeature].</li>
+    <li>desc_sentence->The sun rises over a [TerrainFeature].</li>
+    <li>desc_sentence->In the distance, a [PersonJob] observes.</li>
+    <li>event->throwing a party</li>
+    <li>event->eating a communal meal</li>
+    <li>event->discussing recent events</li>
+    <li>event->rekindling old friendships</li>
+    <li>event->talking hesitantly</li>
+  -->
+  <CaravanMeeting.rulePack.rulesStrings>
+    <li>tale_noun->का कारवां [PAWN_nameDef] को आगंतुकों ने मिला</li>
+    <li>image->[PAWN_nameFull] को अभिवादन कर रहा है एक [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] का निरीक्षण कर रहा है [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] किसी [PersonJob] [circumstance_group] को पुकार रहा है [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] की ओर चल रहा है एक [PersonJob] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] धीरे-धीरे बात करते हुए [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] जोर से चिल्लाते हुए [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] खेल रहा {replace: a [GameDef]; "a el "-"al "} के साथ एक [PersonJob] [circumstance_group]</li>
+    <li>circumstance_phrase->मुस्कान के साथ [AdjectiveFriendly]</li>
+    <li>circumstance_phrase->मुस्कान के साथ [AdjectiveFriendly]</li>
+    <li>circumstance_phrase(PAWN_gender==Male)->और [VerbFriendly] शुरू करते हुए [VerbFriendly]</li>
+    <li>circumstance_phrase(PAWN_gender!=Male)->और [क्रिया-अनुकूल_स्त्रीलिंग] शुरू करते हुए [VerbFriendly_Fem]</li>
+    <li>circumstance_phrase->जबकि दूसरे देखते हैं</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] हैं [event]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] हैं [event]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] समूह को घेर रहे हैं।</li>
+    <li>desc_sentence->सूरज के पीछे डूब रहा है [TerrainFeatureIndef].</li>
+    <li>desc_sentence->सूरज निकलता है [TerrainFeatureIndef].</li>
+    <li>desc_sentence->दूर से एक [PersonJob] देखता है।</li>
+    <li>event->पार्टी आयोजित करना</li>
+    <li>event->मांस खा रहा है</li>
+    <li>event->हाल की घटनाओं पर चर्चा कर रहा है।</li>
+    <li>event->पुरानी दोस्ती ताज़ा करना</li>
+    <li>event->घबराते हुए बात करते हुए</li>
+  </CaravanMeeting.rulePack.rulesStrings>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>ग्रहण</Eclipse.label>
+  <!-- EN:
+    <li>tale_noun->an eclipse over [PAWN_nameDef]'s [Community]</li>
+    <li>image->an unnaturally dark sky, [circumstance_phrase]</li>
+    <li>image->a crepuscular sky, [circumstance_phrase]</li>
+    <li>image->a moon, ringed by a faint circle of sunlight, [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [Animal]s milling around uncertainly in darkness, [circumstance_phrase]</li>
+    <li>circumstance_phrase->the air still and quiet</li>
+    <li>circumstance_phrase->twilight blanketing a nearby [TerrainFeature]</li>
+    <li>circumstance_phrase->twilight blanketing [Quantity_adjphrase] nearby [TerrainFeature]s</li>
+    <li>circumstance_phrase->with stars visible</li>
+    <li>desc_sentence->Below, [PAWN_nameDef] plays [Game] with a [AdjectiveFriendly] look.</li>
+    <li>desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch from below.</li>
+    <li>desc_sentence->[PAWN_nameDef] sits near a [TerrainFeature], gazing at the sky.</li>
+    <li>desc_sentence->A [Community] of spectators watches the sky peacefully.</li>
+    <li>desc_sentence->There is no [Enemy] in sight.</li>
+  -->
+  <Eclipse.rulePack.rulesStrings>
+    <li>tale_noun->पर एक ग्रहण हुआ [CommunityDef] का [PAWN_nameDef]</li>
+    <li>image->एक अजीब तरह से गहरा आसमान, [circumstance_phrase]</li>
+    <li>image->एक गोधूलि आकाश, [circumstance_phrase]</li>
+    <li>image->एक चंद्रमा, सूर्य के प्रकाश के एक धुंधले घेरे से घिरा हुआ, [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [AnimalAnyPl] अंधेरे में अनिश्चितता से देख रहे हैं, [circumstance_phrase]</li>
+    <li>circumstance_phrase->हवा स्थिर है।</li>
+    <li>circumstance_phrase->एक सूर्यास्त [TerrainFeatureIndef] को ढँक रहा है। [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->एक गोधूलि ढक रही है [Quantity_adjphrase] [TerrainFeaturePlAny]</li>
+    <li>circumstance_phrase->तारे दिखाई दे रहे हैं</li>
+    <li>desc_sentence->नीचे [PAWN_nameDef] खेलता है {replace: a [GameDef]; "a el "-"al "} के साथ भाव [AdjectiveFriendly]।</li>
+    <li>desc_sentence->[PAWN_nameDef] उसके चेहरे पर विस्मय के साथ देखता है।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] नीचे से देख रहे हैं।</li>
+    <li>desc_sentence->[PAWN_nameDef] बैठा है[PAWN_o_a] के पास [TerrainFeatureIndef], आकाश देख रहा है।</li>
+    <li>desc_sentence->[CommunityIndefCap] दर्शकों का एक समुदाय शांति से आकाश देखता है।</li>
+    <li>desc_sentence->नज़रों के सामने कोई दुश्मन नहीं है।</li>
+  </Eclipse.rulePack.rulesStrings>
+  
+  <!-- EN: journey offer -->
+  <EndGame_ShipEscape.label>यात्रा प्रस्ताव</EndGame_ShipEscape.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] receiving a message from an old friend</li>
+    <li>tale_noun->an opportunity arriving for [PAWN_nameDef]'s [Community]</li>
+    <li>image->[PAWN_nameDef] opening a letter delivered by [delivery_method] while [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] using a datacrystal delivered by [delivery_method] while [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] unrolling a scroll delivered by [delivery_method] while [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] receiving a transmission from [transmission_source] while [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] receiving a message from [transmission_source] while [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] tuning in to a message from [transmission_source] while [circumstance_group]</li>
+    <li>delivery_method->a [Animal]</li>
+    <li>delivery_method->a [PersonJob]</li>
+    <li>delivery_method->[Quantity_adjphrase] [Animal]s</li>
+    <li>transmission_source->a rarely-used frequency</li>
+    <li>transmission_source->an ancient transmitter</li>
+    <li>transmission_source->a low-power signal</li>
+    <li>transmission_source->a long-range signal</li>
+    <li>transmission_source->a mysterious signal</li>
+    <li>circumstance_phrase->standing alone near a [TerrainFeature]</li>
+    <li>circumstance_phrase->exploring a [TerrainFeature]</li>
+    <li>circumstance_phrase->tending crops</li>
+    <li>circumstance_phrase->a [Animal] wanders past</li>
+    <li>circumstance_phrase->playing [Game]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander nearby, unaware.</li>
+    <li>desc_sentence->As [PAWN_pronoun] reads, [PAWN_pronoun] starts [VerbFriendly].</li>
+    <li>desc_sentence->A spectral [PersonJob] watches from the clouds.</li>
+    <li>desc_sentence->[PAWN_nameDef] sits near a [TerrainFeature].</li>
+    <li>desc_sentence->A [Community] is visible in the far distance.</li>
+    <li>desc_sentence->A spaceship is visible in the far distance.</li>
+  -->
+  <EndGame_ShipEscape.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] [PAWN_nameDef] को एक पुराने दोस्त का संदेश मिला।</li>
+    <li>tale_noun->के लिए एक अवसर आया [CommunityDef] का [PAWN_nameDef]</li>
+    <li>image->[PAWN_nameDef] एक पत्र खोल रहा है जो द्वारा भेजा गया है [delivery_method] जब कि [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] द्वारा वितरित एक डेटा क्रिस्टल का उपयोग करते हुए [delivery_method] जबकि [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] एक स्क्रॉल खोल रहा है जो द्वारा भेजा गया है [delivery_method] जबकि [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] से एक प्रसारण प्राप्त कर रहा है [transmission_source] दौरान [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] से एक संदेश प्राप्त करना [transmission_source] दौरान [circumstance_group]</li>
+    <li>image->[PAWN_nameDef] पर एक संदेश सुन रहा है [transmission_source] दौरान [circumstance_group]</li>
+    <li>delivery_method->एक पक्षी</li>
+    <li>delivery_method->एक [PersonJob]</li>
+    <li>delivery_method->[Quantity_adjphrase] [AnimalAnyPl]</li>
+    <li>transmission_source->एक कम इस्तेमाल की जाने वाली आवृत्ति</li>
+    <li>transmission_source->एक प्राचीन ट्रांसमीटर</li>
+    <li>transmission_source->कम शक्ति का संकेत</li>
+    <li>transmission_source->एक लंबी दूरी का संकेत</li>
+    <li>transmission_source->एक रहस्यमय संकेत</li>
+    <li>circumstance_phrase->सितारों के साथ बैठता है [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->खोजता है [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->फसल की देखभाल करता है</li>
+    <li>circumstance_phrase->एक [Animal] पास घूम रहा है</li>
+    <li>circumstance_phrase->खेल रहा है {replace: a [GameDef]; "a el "-"al "}</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] आसपास घूम रहे हैं, बेफिक्र होकर।</li>
+    <li>desc_sentence->जैसे [PAWN_pronoun] पढ़ता है, शुरू होता है [VerbFriendly]।</li>
+    <li>desc_sentence->एक [PersonJob] प्रेत देखता बादलों से</li>
+    <li>desc_sentence->[PAWN_nameDef] के पास बैठता है [TerrainFeatureIndef].</li>
+    <li>desc_sentence->[CommunityIndefCap] दूर से एक [समुदाय] दिखाई दे रहा है।</li>
+    <li>desc_sentence->दूर से एक अंतरिक्ष यान दिखाई दे रहा है।</li>
+  </EndGame_ShipEscape.rulePack.rulesStrings>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>बिजली का तूफ़ान</Flashstorm.label>
+  <!-- EN:
+    <li>tale_noun->a flashstorm that threatened [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->[PAWN_nameDef]'s [Community] being menaced by a deadly flashstorm</li>
+    <li>image->[Quantity_adjphrase] lightning strikes [circumstance_phrase]</li>
+    <li>image->[behavior] wall of flames [circumstance_phrase]</li>
+    <li>image->[behavior] wall of [Color] flames [circumstance_phrase]</li>
+    <li>image->[behavior] cloud of ash and smoke [circumstance_phrase]</li>
+    <li>image->[behavior] wave of flames [circumstance_phrase]</li>
+    <li>behavior->a</li>
+    <li>behavior->an advancing</li>
+    <li>behavior->an approaching</li>
+    <li>circumstance_phrase->advancing towards a [Community]</li>
+    <li>circumstance_phrase->underneath an intimidating cloud</li>
+    <li>circumstance_phrase->nearly enveloping a [TerrainFeature]</li>
+    <li>circumstance_phrase->nearly enveloping [Quantity_adjphrase] [TerrainFeature]s</li>
+    <li>desc_sentence->[PAWN_nameDef] watches with visible fright.</li>
+    <li>desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face.</li>
+    <li>desc_sentence->[PAWN_nameDef] is coordinating defensive measures.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s rush to prepare.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+    <li>desc_sentence->All animal life has left the area.</li>
+  -->
+  <Flashstorm.rulePack.rulesStrings>
+    <li>tale_noun->एक बिजली का तूफ़ान धमकाया [CommunityDef] का [PAWN_nameDef]</li>
+    <li>tale_noun->[CommunityDef] का [PAWN_nameDef] एक घातक बिजली के तूफान के खतरे से जूझ रहा था</li>
+    <li>image->[Quantity_adjphrase] बिजली गिर रही है [circumstance_phrase]</li>
+    <li>image->[behavior] आग की दीवार [circumstance_phrase]</li>
+    <li>image->[behavior] आग की दीवार [Color_Fem] [circumstance_phrase]</li>
+    <li>image->[behavior] राख और धुएं का बादल [circumstance_phrase]</li>
+    <li>image->[behavior] लौओं की लहर [circumstance_phrase]</li>
+    <li>behavior->एक</li>
+    <li>behavior->एक आगे बढ़ती हुई</li>
+    <li>behavior->एक प्रभावशाली</li>
+    <li>circumstance_phrase->आगे बढ़ रहा है [CommunityIndef]</li>
+    <li>circumstance_phrase->एक डरावने बादल के नीचे</li>
+    <li>circumstance_phrase->ढकता हुआ [TerrainFeatureIndef] लगभग पूरी तरह</li>
+    <li>circumstance_phrase->लगभग घेरते हुए [Quantity_adjphrase] [TerrainFeaturePlAny] लगभग पूरी तरह से</li>
+    <li>desc_sentence->[PAWN_nameDef] डर से देख रहा है।</li>
+    <li>desc_sentence->[PAWN_nameDef] उसके चेहरे पर विस्मय के साथ देखता है।</li>
+    <li>desc_sentence->[PAWN_nameDef] [PAWN_nameDef] रक्षात्मक उपायों का समन्वय कर रहा है।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] तैयार होने के लिए दौड़ पड़ते हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] क्षेत्र से भाग रहे हैं।</li>
+    <li>desc_sentence->क्षेत्र से सभी पशु जीवन भाग गया है।</li>
+  </Flashstorm.rulePack.rulesStrings>
+  
+  <!-- EN: infestation -->
+  <Infestation.label>आक्रमण</Infestation.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s [Community] being infested by giant insects</li>
+    <li>image->a swarm of beetles [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] megaspiders [circumstance_phrase]</li>
+    <li>image->an overwhelming tide of [Color] insects [circumstance_phrase]</li>
+    <li>image->a dense fog of black specks [circumstance_phrase]</li>
+    <li>circumstance_phrase->advancing over a [TerrainFeature]</li>
+    <li>circumstance_phrase->completely encircling a [Community]</li>
+    <li>circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s</li>
+    <li>circumstance_phrase->bursting out of the ground</li>
+    <li>circumstance_phrase->slaughtering [Quantity_adjphrase] [Animal]s</li>
+    <li>desc_sentence->[PAWN_nameDef] organizes a resistance.</li>
+    <li>desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively.</li>
+    <li>desc_sentence->[PAWN_nameDef] lies on the ground, wounded.</li>
+    <li>desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon].</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression.</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+    <li>desc_sentence->All animal life has left the area.</li>
+  -->
+  <Infestation.rulePack.rulesStrings>
+    <li>tale_noun->की [Community_Fem] द्वारा [PAWN_nameDef] कीटों से ग्रस्त हो गया</li>
+    <li>image->भृंगों का झुंड [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] मेगाराñas [circumstance_phrase]</li>
+    <li>image->कीड़ों की भारी भीड़ [Color_Plural] [circumstance_phrase]</li>
+    <li>image->काले धब्बों का एक घना कोहरा [circumstance_phrase]</li>
+    <li>circumstance_phrase->[मात्रा_विशेषण वाक्यांश] [भू-विशेषता] को लगभग घेरते हुए [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->पूरी तरह से घेरते हुए [CommunityIndef]</li>
+    <li>circumstance_phrase->हमला कर रहा है [Quantity_adjphrase] [PersonJob_Plural]</li>
+    <li>circumstance_phrase->ज़मीन से निकलकर</li>
+    <li>circumstance_phrase->वध कर रहा है [Quantity_adjphrase] [AnimalAnyPl]</li>
+    <li>desc_sentence->[PAWN_nameDef] प्रतिरोध संगठित करता है।</li>
+    <li>desc_sentence->[PAWN_nameDef] चलाता है [WeaponCacIndef] रक्षात्मक रूप से।</li>
+    <li>desc_sentence->[PAWN_nameDef] ज़मीन पर लेटा है घायल[PAWN_o_a]।</li>
+    <li>desc_sentence->[PAWN_nameDef] बदला लेता है [WeaponIndef].</li>
+    <li>desc_sentence->[PAWN_nameDef] एक भाव रखता है [AdjectiveBadass]भाव</li>
+    <li>desc_sentence->[PAWN_nameDef] एक भाव रखता है [AdjectiveAngsty]भाव</li>
+    <li>desc_sentence->जमीन पर ढका हुआ है [Gore_Plural].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] क्षेत्र से भाग रहे हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] क्षेत्र से भाग रहे हैं।</li>
+    <li>desc_sentence->क्षेत्र से सभी पशु जीवन भाग गया है।</li>
+  </Infestation.rulePack.rulesStrings>
+  
+  <!-- EN: manhunter pack -->
+  <ManhunterPack.label>मानव शिकारी झुंड</ManhunterPack.label>
+  <!-- EN:
+    <li>tale_noun->manhunting beasts menacing [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->[PAWN_nameDef]'s [Community] being attacked by mad animals</li>
+    <li>image->a herd of [Animal]s [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [Animal]s [circumstance_phrase]</li>
+    <li>image->a [AdjectiveLarge] [Animal] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] shadowy figures [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] shadowy quadrupeds [circumstance_phrase]</li>
+    <li>circumstance_phrase->advancing over a [TerrainFeature]</li>
+    <li>circumstance_phrase->completely encircling a [Community]</li>
+    <li>circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s</li>
+    <li>circumstance_phrase->slaughtering [Quantity_adjphrase] [Animal]s</li>
+    <li>circumstance_phrase->possessed by [hate_emotion]</li>
+    <li>circumstance_phrase->covered in [Gore]</li>
+    <li>hate_emotion->hatred</li>
+    <li>hate_emotion->anger</li>
+    <li>hate_emotion->fury</li>
+    <li>desc_sentence->[PAWN_nameDef] organizes a resistance.</li>
+    <li>desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively.</li>
+    <li>desc_sentence->[PAWN_nameDef] lies on the ground, wounded.</li>
+    <li>desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon].</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression.</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+  -->
+  <ManhunterPack.rulePack.rulesStrings>
+    <li>tale_noun->शिकारी जानवर धमकी दे रहे हैं [CommunityDef] का [PAWN_nameDef]</li>
+    <li>tale_noun->[CommunityDef] का [PAWN_nameDef] पागल जानवरों द्वारा हमला किया गया</li>
+    <li>image->एक झुंड [Animal_Plural] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [Animal_Plural] [circumstance_phrase]</li>
+    <li>image->एक [AdjectiveLarge] [Animal] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] छायादार आकृतियाँ [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] छायादार चतुष्पाद [circumstance_phrase]</li>
+    <li>circumstance_phrase->[TerrainFeatureIndef] पर आक्रमण करते हुए [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->पूरी तरह से घेरते हुए [CommunityIndef]</li>
+    <li>circumstance_phrase->हमला कर रहा है [Quantity_adjphrase] [PersonJob_Plural]</li>
+    <li>circumstance_phrase->वध कर रहा है [Quantity_adjphrase] [AnimalAnyPl]</li>
+    <li>circumstance_phrase->[नफ़रत_भावना] से ग्रस्त [hate_emotion]</li>
+    <li>circumstance_phrase->से ग्रस्त [Gore_Plural]</li>
+    <li>hate_emotion->घृणा</li>
+    <li>hate_emotion->क्रोध</li>
+    <li>hate_emotion->क्रोध</li>
+    <li>desc_sentence->[PAWN_nameDef] प्रतिरोध संगठित करता है।</li>
+    <li>desc_sentence->[PAWN_nameDef] चलाता है [WeaponCacIndef] रक्षात्मक रूप से।</li>
+    <li>desc_sentence->[PAWN_nameDef] ज़मीन पर लेटा है घायल[PAWN_o_a]।</li>
+    <li>desc_sentence->[PAWN_nameDef] बदला लेता है [WeaponIndef].</li>
+    <li>desc_sentence->[PAWN_nameDef] एक भाव रखता है [AdjectiveBadass]भाव</li>
+    <li>desc_sentence->[PAWN_nameDef] एक भाव रखता है [AdjectiveAngsty]भाव</li>
+    <li>desc_sentence->जमीन पर ढका हुआ है [Gore_Plural].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] क्षेत्र से भाग रहे हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] क्षेत्र से भाग रहे हैं।</li>
+  </ManhunterPack.rulePack.rulesStrings>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>उल्कापिंड का प्रभाव</MeteoriteImpact.label>
+  <!-- EN:
+    <li>tale_noun->a meteorite falling near [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->a meteorite impacting near [PAWN_nameDef]'s [Community]</li>
+    <li>image->a [AdjectiveLarge] rock trailing [Color] flames [airborne_circumstance]</li>
+    <li>image->a brightly-glowing spot [airborne_circumstance]</li>
+    <li>image->a [AdjectiveLarge] [Color] fireball [airborne_circumstance]</li>
+    <li>airborne_circumstance->blazing across the sky</li>
+    <li>airborne_circumstance->falling to the ground in a cloud of ash</li>
+    <li>airborne_circumstance->shedding rocks and debris as it flies</li>
+    <li>image->a [AdjectiveLarge] monolith, [ground_circumstance]</li>
+    <li>image->a [AdjectiveLarge] [Color] scorched stone, [ground_circumstance]</li>
+    <li>image->a [Color] pillar of rock, [ground_circumstance]</li>
+    <li>ground_circumstance->surrounded by smoke and ash</li>
+    <li>ground_circumstance->smoking from heat</li>
+    <li>ground_circumstance->surrounded by molten debris</li>
+    <li>ground_circumstance->partially embedded in the ground</li>
+    <li>ground_circumstance->lying in a cracked crater</li>
+    <li>desc_sentence->[PAWN_nameDef] looks on in surprise.</li>
+    <li>desc_sentence->[PAWN_nameDef] looks on with excitement.</li>
+    <li>desc_sentence->[PAWN_nameDef] looks on in shock.</li>
+    <li>desc_sentence->[Quantity_adjphrase] figures approach from a nearby [TerrainFeature].</li>
+    <li>desc_sentence->[Quantity_adjphrase] figures prepare tools and equipment.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly.</li>
+    <li>desc_sentence->The surroundings are muted and dull.</li>
+  -->
+  <MeteoriteImpact.rulePack.rulesStrings>
+    <li>tale_noun->एक उल्कापिंड पास में गिरा [CommunityDef] का [PAWN_nameDef]</li>
+    <li>tale_noun->एक उल्कापिंड पास में टकराया [CommunityDef] का [PAWN_nameDef]</li>
+    <li>image->एक [AdjectiveLarge] जलती हुई चट्टान [airborne_circumstance]</li>
+    <li>image->एक चमकदार बिंदु [airborne_circumstance]</li>
+    <li>image->एक [AdjectiveLarge_Fem] आग का गोला [Color_Fem] [airborne_circumstance]</li>
+    <li>airborne_circumstance->आकाश में तेज़ी से उड़ना</li>
+    <li>airborne_circumstance->राख के बादल में जमीन पर गिर रहा है।</li>
+    <li>airborne_circumstance->उड़ते समय चट्टानें और मलबा गिरा रहा है।</li>
+    <li>image->एक [AdjectiveLarge] मोनोलिथ, [ground_circumstance]</li>
+    <li>image->एक [AdjectiveLarge] जला हुआ पत्थर [Color], [ground_circumstance]</li>
+    <li>image->एक चट्टान का खंभा [Color], [ground_circumstance]</li>
+    <li>ground_circumstance->धुएं और राख से घिरा हुआ</li>
+    <li>ground_circumstance->धुएँ से भरा हुआ</li>
+    <li>ground_circumstance->पिघले हुए मलबे से घिरा हुआ</li>
+    <li>ground_circumstance->आंशिक रूप से जमीन में धंसा हुआ</li>
+    <li>ground_circumstance->टूटे हुए गड्ढे में लेटा हुआ</li>
+    <li>desc_sentence->[PAWN_nameDef] आश्चर्य से देखता है।</li>
+    <li>desc_sentence->[PAWN_nameDef] उत्साह से देखता है।</li>
+    <li>desc_sentence->[PAWN_nameDef] [PAWN_nameDef] विस्मय से देखता/देखती है।</li>
+    <li>desc_sentence->[Quantity_adjphrase] आकृतियाँ पास से आ रही हैं [TerrainFeature] पास।</li>
+    <li>desc_sentence->[Quantity_adjphrase] छायाएँ अपने उपकरण और सामग्री तैयार कर रही हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal_Plural] भटक रहे हैं अनिश्चित रूप से।</li>
+    <li>desc_sentence->वातावरण शांत और फीका है।</li>
+  </MeteoriteImpact.rulePack.rulesStrings>
+  
+  <!-- EN: raid -->
+  <Raid.label>छापा</Raid.label>
+  <!-- EN:
+    <li>tale_noun->an raid on [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->an assault on [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->[PAWN_nameDef]'s [Community] being attacked by [Enemy]s</li>
+    <li>image->[Quantity_adjphrase] [Enemy]s [circumstance_phrase]</li>
+    <li>image->an army [circumstance_phrase]</li>
+    <li>image->an overwhelming force [circumstance_phrase]</li>
+    <li>image->an invading force [circumstance_phrase]</li>
+    <li>image->stylized [Color] banners [circumstance_phrase]</li>
+    <li>image->an enormous [Enemy] [circumstance_phrase]</li>
+    <li>circumstance_phrase->advancing over a [TerrainFeature]</li>
+    <li>circumstance_phrase->completely encircling a [Community]</li>
+    <li>circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s</li>
+    <li>circumstance_phrase->roaring in victory</li>
+    <li>circumstance_phrase->brandishing [Weapon]s</li>
+    <li>circumstance_phrase->covered in [Gore]</li>
+    <li>desc_sentence->[PAWN_nameDef] organizes a resistance while [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively while [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] lies on the ground, wounded.</li>
+    <li>desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon] while [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] stands as tall as a building, [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression.</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+    <li>defender_circumstance->shouting triumphantly</li>
+    <li>defender_circumstance->glowing [Color]</li>
+    <li>defender_circumstance->raising a fist in defiance</li>
+    <li>defender_circumstance->flexing [PAWN_possessive] muscles</li>
+  -->
+  <Raid.rulePack.rulesStrings>
+    <li>tale_noun->[CommunityDef] पर [PAWN_nameDef] पर हमला हुआ</li>
+    <li>tale_noun->[CommunityDef] का [PAWN_nameDef] पर हमला हुआ</li>
+    <li>tale_noun->[CommunityDef] का [PAWN_nameDef] पर हमला हुआ [Enemy]ने</li>
+    <li>image->[Quantity_adjphrase] [Enemy][मात्रा_विशेषणवाक्यांश] [शत्रु] [परिस्थिति_वाक्यांश] [circumstance_phrase]</li>
+    <li>image->एक सेना [circumstance_phrase]</li>
+    <li>image->एक शक्तिशाली बल [circumstance_phrase]</li>
+    <li>image->एक आक्रमणकारी बल [circumstance_phrase]</li>
+    <li>image->ध्वज [Color_Plural] [circumstance_phrase]</li>
+    <li>image->एक विशाल [Enemy] [circumstance_phrase]</li>
+    <li>circumstance_phrase->आगे बढ़ रहा [TerrainFeatureIndef] के पास [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->पूरी तरह से घेरते हुए [CommunityIndef]</li>
+    <li>circumstance_phrase->हमला कर रहा है [Quantity_adjphrase] [PersonJob_Plural]</li>
+    <li>circumstance_phrase->उत्साह से हमला कर रहा है</li>
+    <li>circumstance_phrase->विजयी गर्जना करते हुए [WeaponCac_Plural]</li>
+    <li>circumstance_phrase->खून से लथपथ</li>
+    <li>desc_sentence->[PAWN_nameDef] प्रतिरोध संगठित करता है जबकि [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] चलाता है [WeaponCacIndef] बचाव करते हुए जब [defender_circumstance]।</li>
+    <li>desc_sentence->[PAWN_nameDef] ज़मीन पर लेटा है घायल[PAWN_o_a]।</li>
+    <li>desc_sentence->[PAWN_nameDef] प्रतिशोध करता है [WeaponCacIndef] जबकि [defender_circumstance]।</li>
+    <li>desc_sentence->[PAWN_nameDef] इमारत जितना ऊंचा खड़ा है[PAWN_o_a] और [defender_circumstance]।</li>
+    <li>desc_sentence->[PAWN_nameDef] एक भाव रखता है [AdjectiveBadass]भाव</li>
+    <li>desc_sentence->[PAWN_nameDef] एक भाव रखता है [AdjectiveAngsty]भाव</li>
+    <li>desc_sentence->जमीन पर ढका हुआ है [Gore_Plural].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] क्षेत्र से भाग रहे हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] क्षेत्र से भाग रहे हैं।</li>
+    <li>defender_circumstance->विजयी ढंग से चिल्ला रहा है</li>
+    <li>defender_circumstance->एक आभा के साथ चमकती है [Color_Fem]</li>
+    <li>defender_circumstance->मुट्ठी चुनौतीपूर्वक उठा रहा है।</li>
+    <li>defender_circumstance->अपनी मांसपेशियों को कसता है।</li>
+  </Raid.rulePack.rulesStrings>
+  
+  <!-- EN: ship part crash -->
+  <ShipPartCrash.label>जहाज का टूटा हुआ हिस्सा</ShipPartCrash.label>
+  <!-- EN:
+    <li>tale_noun->an ancient ship part crashing near [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->an ancient ship part landing near [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->a damaged ship part landing near [PAWN_nameDef]'s [Community]</li>
+    <li>image->a swarm of [Mechanoid]s [circumstance_phrase]</li>
+    <li>image->an army of [Mechanoid]s [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [Mechanoid]s [circumstance_phrase]</li>
+    <li>image->a [AdjectiveLarge] [Mechanoid] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [Mechanoid] silhouettes [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [Mechanoid]s with glowing [Color] sensors [circumstance_phrase]</li>
+    <li>circumstance_phrase->advancing over a [TerrainFeature]</li>
+    <li>circumstance_phrase->completely encircling a [Community]</li>
+    <li>circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s</li>
+    <li>circumstance_phrase->slaughtering [Quantity_adjphrase] [Animal]s</li>
+    <li>circumstance_phrase->covered in [Gore]</li>
+    <li>circumstance_phrase->dented and sparking</li>
+    <li>desc_sentence->[PAWN_nameDef] organizes a resistance while [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively while [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] lies on the ground, wounded.</li>
+    <li>desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon] while [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] stands as tall as a building, [defender_circumstance].</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression.</li>
+    <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->The ground is coated in scrap metal.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+    <li>defender_circumstance->shouting triumphantly</li>
+    <li>defender_circumstance->glowing [Color]</li>
+    <li>defender_circumstance->raising a fist in defiance</li>
+    <li>defender_circumstance->flexing [PAWN_possessive] muscles</li>
+  -->
+  <ShipPartCrash.rulePack.rulesStrings>
+    <li>tale_noun->एक प्राचीन यान पास में दुर्घटनाग्रस्त हो गया [CommunityDef] का [PAWN_nameDef]</li>
+    <li>tale_noun->एक प्राचीन यान उतरा पास में [CommunityDef] का [PAWN_nameDef]</li>
+    <li>tale_noun->एक क्षतिग्रस्त यान का भाग पास में उतरा [CommunityDef] का [PAWN_nameDef]</li>
+    <li>image->मैकेनॉइड्स का झुंड [MechanoidAnyPl] [circumstance_phrase]</li>
+    <li>image->मैकेनॉइड्स का एक दल [MechanoidAnyPl] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [MechanoidAnyPl] [circumstance_phrase]</li>
+    <li>image->एक [AdjectiveLarge] [Mechanoid] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] सिलुएट [MechanoidAnyPl] [circumstance_phrase]</li>
+    <li>image->[Quantity_adjphrase] [MechanoidAnyPl] चमकते संवेदकों के साथ [Color] चमकदार [circumstance_phrase]</li>
+    <li>circumstance_phrase->[भूभाग विशेषता] पर आगे बढ़ रहा है [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->पूरी तरह से घेरते हुए [CommunityIndef]</li>
+    <li>circumstance_phrase->हमला कर रहा है [Quantity_adjphrase] [PersonJob_Plural]</li>
+    <li>circumstance_phrase->वध कर रहा है [Quantity_adjphrase] [AnimalAnyPl]</li>
+    <li>circumstance_phrase->[ग़ोर_बहुवचन] का वध करके [Gore_Plural]</li>
+    <li>circumstance_phrase->खून से लथपथ और चटकते हुए</li>
+    <li>desc_sentence->[PAWN_nameDef] प्रतिरोध का आयोजन करता है।</li>
+    <li>desc_sentence->[PAWN_nameDef] चलाता है [WeaponCacIndef] बचाव करते हुए</li>
+    <li>desc_sentence->[PAWN_nameDef] ज़मीन पर लेटा है घायल[PAWN_o_a]।</li>
+    <li>desc_sentence->[PAWN_nameDef] बदला लेता है [WeaponCacIndef]साथ</li>
+    <li>desc_sentence->[PAWN_nameDef] एक इमारत जितना ऊँचा दिखता है [AdjectiveBadass].</li>
+    <li>desc_sentence->[PAWN_nameDef] एक भाव रखता है [AdjectiveAngsty].</li>
+    <li>desc_sentence->[PAWN_nameDef] पहनता है[PAWN_o_a] जैसे एक इमारत, जबकि [defender_circumstance]।</li>
+    <li>desc_sentence->जमीन पर ढका हुआ है [Gore_Plural].</li>
+    <li>desc_sentence->ज़मीन कबाड़ से ढकी हुई है।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] क्षेत्र से भाग रहे हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] क्षेत्र से भाग रहे हैं।</li>
+    <li>defender_circumstance->विजयी ढंग से चिल्ला रहा है</li>
+    <li>defender_circumstance->एक आभा के साथ चमकती है [Color_Fem]</li>
+    <li>defender_circumstance->मुट्ठी चुनौतीपूर्वक उठा रहा है।</li>
+    <li>defender_circumstance->अपनी मांसपेशियों को कस रहा है।</li>
+  </ShipPartCrash.rulePack.rulesStrings>
+  
+  <!-- EN: tornado -->
+  <Tornado.label>टॉरनेडो</Tornado.label>
+  <!-- EN:
+    <li>tale_noun->a tornado that touched down near [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->[PAWN_nameDef]'s [Community] being menaced by tornado</li>
+    <li>image->[behavior] cone of twisting air [circumstance_phrase]</li>
+    <li>image->[behavior] tornado [circumstance_phrase]</li>
+    <li>image->[behavior] hurricane [circumstance_phrase]</li>
+    <li>image->[behavior] [Color] cloud formation [circumstance_phrase]</li>
+    <li>behavior->an advancing</li>
+    <li>behavior->an approaching</li>
+    <li>behavior->a quickly-moving</li>
+    <li>behavior->a swirling</li>
+    <li>circumstance_phrase->carrying debris with it</li>
+    <li>circumstance_phrase->passing over a [TerrainFeature]</li>
+    <li>circumstance_phrase->obscuring a [TerrainFeature]</li>
+    <li>circumstance_phrase->enveloping a [TerrainFeature]</li>
+    <li>desc_sentence->[PAWN_nameDef] watches with visible fright.</li>
+    <li>desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face.</li>
+    <li>desc_sentence->[PAWN_nameDef] is coordinating defensive measures.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s rush to prepare.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+    <li>desc_sentence->All animal life has left the area.</li>
+  -->
+  <Tornado.rulePack.rulesStrings>
+    <li>tale_noun->एक बवंडर पास में बना [CommunityDef] का [PAWN_nameDef]</li>
+    <li>tale_noun->की [Community_Fem] द्वारा [PAWN_nameDef] को बवंडर से खतरा था</li>
+    <li>image->[behavior] चलती हुई हवा की शंक्नुमा आकृति [circumstance_phrase]</li>
+    <li>image->[behavior] टॉरनेडो [circumstance_phrase]</li>
+    <li>image->[behavior] तूफान [circumstance_phrase]</li>
+    <li>image->[behavior1] बादल [Color_Fem] [circumstance_phrase]</li>
+    <li>behavior->आगे बढ़ता</li>
+    <li>behavior->एक तेज़ी से</li>
+    <li>behavior->एक प्रभावशाली</li>
+    <li>behavior->एक शक्तिशाली</li>
+    <li>behavior1->एक</li>
+    <li>behavior1->एक त्वरित</li>
+    <li>behavior1->एक प्रभावशाली</li>
+    <li>behavior1->एक शक्तिशाली</li>
+    <li>circumstance_phrase->मलबा घसीटते हुए आगे बढ़ रहा है।</li>
+    <li>circumstance_phrase->इसके ऊपर से गुजरते हुए [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->छाया डाल रहा है [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->ढक रहा है [TerrainFeatureIndef]</li>
+    <li>desc_sentence->[PAWN_nameDef] डर से देख रहा है।</li>
+    <li>desc_sentence->[PAWN_nameDef] उसके चेहरे पर विस्मय के साथ देखता है।</li>
+    <li>desc_sentence->[PAWN_nameDef] [PAWN_nameDef] रक्षात्मक उपायों का समन्वय कर रहा है।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] भागकर दूर जाते हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] क्षेत्र से भाग रहे हैं।</li>
+    <li>desc_sentence->क्षेत्र से सभी पशु जीवन भाग गया है।</li>
+  </Tornado.rulePack.rulesStrings>
+  
+  <!-- EN: tornado -->
+  <TornadoFromItem.label>बवंडर</TornadoFromItem.label>
+  <!-- EN:
+    <li>tale_noun->a tornado that touched down near [COLONIST_nameDef]'s [Community]</li>
+    <li>tale_noun->[COLONIST_nameDef]'s [Community] menaced by a tornado</li>
+    <li>image->[behavior] cone of twisting air [circumstance_phrase]</li>
+    <li>image->[behavior] tornado [circumstance_phrase]</li>
+    <li>image->[behavior] hurricane [circumstance_phrase]</li>
+    <li>image->[behavior] [Color] cloud formation [circumstance_phrase]</li>
+    <li>behavior->an advancing</li>
+    <li>behavior->an approaching</li>
+    <li>behavior->a quickly-moving</li>
+    <li>behavior->a swirling</li>
+    <li>circumstance_phrase->carrying debris with it</li>
+    <li>circumstance_phrase->passing over a [TerrainFeature]</li>
+    <li>circumstance_phrase->obscuring a [TerrainFeature]</li>
+    <li>circumstance_phrase->enveloping a [TerrainFeature]</li>
+    <li>desc_sentence->[COLONIST_nameDef] watches with visible fright.</li>
+    <li>desc_sentence(p=0.5)->[COLONIST_nameDef] watches with awe on [COLONIST_possessive] face.</li>
+    <li>desc_sentence(p=0.5)->[ATTACKER_nameDef] watches with awe on [ATTACKER_possessive] face.</li>
+    <li>desc_sentence->[COLONIST_nameDef] is coordinating defensive measures.</li>
+    <li>desc_sentence->[ATTACKER_nameDef] cackles with glee.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s rush to prepare.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+    <li>desc_sentence->All animal life has left the area.</li>
+  -->
+  <TornadoFromItem.rulePack.rulesStrings>
+    <li>tale_noun->एक बवंडर पास में बना [CommunityDef] का [COLONIST_nameDef]</li>
+    <li>tale_noun->की [Community_Fem] द्वारा [COLONIST_nameDef] को बवंडर से खतरा था</li>
+    <li>image->[behavior] चलती हुई हवा की शंक्नुमा आकृति [circumstance_phrase]</li>
+    <li>image->[behavior] टॉरनेडो [circumstance_phrase]</li>
+    <li>image->[behavior] तूफान [circumstance_phrase]</li>
+    <li>image->[behavior1] बादल [Color_Fem] [circumstance_phrase]</li>
+    <li>behavior->आगे बढ़ता</li>
+    <li>behavior->एक तेज़</li>
+    <li>behavior->एक प्रभावशाली</li>
+    <li>behavior->एक शक्तिशाली</li>
+    <li>behavior1->एक</li>
+    <li>behavior1->एक त्वरित</li>
+    <li>behavior1->एक प्रभावशाली</li>
+    <li>behavior1->एक शक्तिशाली</li>
+    <li>circumstance_phrase->अपने रास्ते में मलबा घसीटते हुए</li>
+    <li>circumstance_phrase->इसके ऊपर से गुजरते हुए [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->छाया डाल रहा है [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->ढक रहा है [TerrainFeatureIndef]</li>
+    <li>desc_sentence->[COLONIST_nameDef] डर से देख रहा है।</li>
+    <li>desc_sentence(p=0.5)->[COLONIST_nameDef] उनके चेहरे पर विस्मय के साथ देखता है।</li>
+    <li>desc_sentence(p=0.5)->[ATTACKER_nameDef] उसके चेहरे पर विस्मय के साथ देखता है।</li>
+    <li>desc_sentence->[COLONIST_nameDef] [COLONIST_nameDef] रक्षात्मक उपायों का समन्वय कर रहा है।</li>
+    <li>desc_sentence->[ATTACKER_nameDef] खुशी से हंसता है।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_Plural] भागकर दूर जाते हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] क्षेत्र से भाग रहे हैं।</li>
+    <li>desc_sentence->क्षेत्र से सभी पशु जीवन भाग गया है।</li>
+  </TornadoFromItem.rulePack.rulesStrings>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>विषाक्त वर्षा</ToxicFallout.label>
+  <!-- EN:
+    <li>tale_noun->fallout settling over [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->the atmosphere near [PAWN_nameDef]'s [Community] becoming toxic</li>
+    <li>image->an ominous sky, [circumstance_group]</li>
+    <li>image->the air becoming thick and [circumstance_group]</li>
+    <li>image->the ground glowing gently and [circumstance_group]</li>
+    <li>image->fields of dead plants [circumstance_group]</li>
+    <li>image->[Quantity_adjphrase] graves [circumstance_group]</li>
+    <li>circumstance_phrase->with no life in sight</li>
+    <li>circumstance_phrase->covered by a faint sheen of luminous dust</li>
+    <li>circumstance_phrase->arranged in a pattern that suggests bones</li>
+    <li>circumstance_phrase->waiting for the poison to stop</li>
+    <li>desc_sentence->[PAWN_nameDef] lies on the ground, [PAWN_possessive] body twisted at an unusual angle.</li>
+    <li>desc_sentence->[PAWN_nameDef] hides near a [TerrainFeature], gazing out with a [AdjectiveAngsty] look.</li>
+    <li>desc_sentence->[PAWN_nameDef] looks on in shock.</li>
+    <li>desc_sentence->[PAWN_nameDef] rests quietly with a layer of sweat upon [PAWN_possessive] face.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dead [Animal]s lay on the ground.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly.</li>
+  -->
+  <ToxicFallout.rulePack.rulesStrings>
+    <li>tale_noun->जहरीली बारिश गिरी [CommunityDef] का [PAWN_nameDef]</li>
+    <li>tale_noun->वातावरण के पास [CommunityDef] का [PAWN_nameDef] जहरीला हो गया</li>
+    <li>image->एक अशुभ आकाश, [circumstance_group]</li>
+    <li>image->हवा घनी होती जा रही है और [circumstance_group]</li>
+    <li>image->ज़मीन धीरे-धीरे चमक रही है और [circumstance_group]</li>
+    <li>image->मृत पौधों का खेत [circumstance_group]</li>
+    <li>image->[Quantity_adjphrase] कब्रें [circumstance_group]</li>
+    <li>circumstance_phrase->जीवन का कोई निशान नज़र नहीं आ रहा है।</li>
+    <li>circumstance_phrase->चमकदार धूल की एक पतली परत से ढका हुआ</li>
+    <li>circumstance_phrase->हड्डियों जैसे पैटर्न के साथ</li>
+    <li>circumstance_phrase->ज़हर रुकने का इंतज़ार कर रहा है।</li>
+    <li>desc_sentence->[PAWN_nameDef] [PAWN_nameDef] फर्श पर पड़ा है, उसका शरीर असामान्य रूप से मुड़ा हुआ है।</li>
+    <li>desc_sentence->[PAWN_nameDef] के पास छिपता है [TerrainFeatureIndef], एक उदास चेहरे के साथ देखता है [AdjectiveAngsty]।</li>
+    <li>desc_sentence->[PAWN_nameDef] हैरानी से देख रहा है।</li>
+    <li>desc_sentence->[PAWN_nameDef] [PAWN_nameDef] के चेहरे पर पसीने की एक परत के साथ शांति से आराम कर रहा है।</li>
+    <li>desc_sentence->[Quantity_adjphrase] मृत शरीर [AnimalAnyPl] जमीन पर पड़े हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] मरे हुए [AnimalAnyPl] आसपास पड़े हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] अनिश्चितता से घूमते हैं।</li>
+  </ToxicFallout.rulePack.rulesStrings>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>ज्वालामुखी शीतकाल</VolcanicWinter.label>
+  <!-- EN:
+    <li>tale_noun->volcanic winter beginning at [PAWN_nameDef]'s [Community]</li>
+    <li>image->a dark and cold sky, [circumstance_group]</li>
+    <li>image->the air filling with ash, [circumstance_group]</li>
+    <li>image->a frost-covered barren [TerrainFeature] [circumstance_group]</li>
+    <li>image->[Quantity_adjphrase] fields of ash-covered plants [circumstance_group]</li>
+    <li>circumstance_phrase->with no life in sight</li>
+    <li>circumstance_phrase->barely illuminated by thin shafts of light</li>
+    <li>circumstance_phrase->starkly illuminated with chilly blue light</li>
+    <li>desc_sentence->[PAWN_nameDef] huddles near a fire.</li>
+    <li>desc_sentence->To stay warm, [PAWN_nameDef] wears [Quantity_adjphrase] [Apparel]s.</li>
+    <li>desc_sentence->[PAWN_nameDef] sits nearby, visibly exhausted by the ordeal.</li>
+    <li>desc_sentence->[PAWN_nameDef] hides near a [TerrainFeature], gazing out with a [AdjectiveAngsty] look.</li>
+    <li>desc_sentence->[Quantity_adjphrase] starving [Animal]s surround the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] shivering [Animal]s surround the scene.</li>
+    <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly.</li>
+  -->
+  <VolcanicWinter.rulePack.rulesStrings>
+    <li>tale_noun->एक ज्वालामुखी सर्दी शुरू हुई [CommunityDef] का [PAWN_nameDef]</li>
+    <li>image->एक ठंडा और अँधेरा आकाश, [circumstance_group]</li>
+    <li>image->हवा राख से भर रही है, [circumstance_group]</li>
+    <li>image->एक [TerrainFeature] जमी हुई और अंधेरी [circumstance_group]</li>
+    <li>image->[Quantity_adjphrase] राख से ढकी हुई पौधों की क्यारियाँ [circumstance_group]</li>
+    <li>circumstance_phrase->जीवन के कोई निशान नहीं दिख रहे हैं।</li>
+    <li>circumstance_phrase->कमज़ोर प्रकाश की किरणों से मुश्किल से रोशन</li>
+    <li>circumstance_phrase->कमज़ोर ठंडी नीली रोशनी से प्रकाशित</li>
+    <li>desc_sentence->[PAWN_nameDef] [PAWN_nameDef] आग के पास दुबक जाता है।</li>
+    <li>desc_sentence->गर्म रहने के लिए [PAWN_nameDef] पहनता है [Quantity_adjphrase] [Apparel]हैं।</li>
+    <li>desc_sentence->[PAWN_nameDef] बैठा है[PAWN_o_a] पास में, स्पष्ट रूप से थका हुआ[PAWN_o_a] इस मामले से</li>
+    <li>desc_sentence->[PAWN_nameDef] के पास छिपता है [TerrainFeatureIndef], एक उदास चेहरे के साथ देखता है [AdjectiveAngsty]।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] भूखे जानवर दृश्य को घेर रहे हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] काँपते हुए दृश्य के चारों ओर घूम रहे हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] मरे हुए [AnimalAnyPl] जमीन पर पड़े हैं।</li>
+    <li>desc_sentence->[Quantity_adjphrase] [AnimalAnyPl] अनिश्चितता से घूमते हैं।</li>
+  </VolcanicWinter.rulePack.rulesStrings>
+  
+</LanguageData>

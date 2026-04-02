@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alocasia -->
+  <Plant_Alocasia.label>अलोकेशिया</Plant_Alocasia.label>
+  <!-- EN: A tropical plant. Its extremely broad leaves are a commonly-recognized signifier of tropical forests. -->
+  <Plant_Alocasia.description>एक उष्णकटिबंधीय पौधा। इसके बहुत चौड़े पत्ते उष्णकटिबंधीय वनों का एक सामान्यतः पहचाना जाने वाला संकेत हैं।</Plant_Alocasia.description>
+  
+  <!-- EN: clivia -->
+  <Plant_Clivia.label>क्लीविया</Plant_Clivia.label>
+  <!-- EN: An unusual plant with tall, pretty flowers. Some call it the 'bush lily'. -->
+  <Plant_Clivia.description>एक असामान्य पौधा जिसमें ऊँचे, सुंदर फूल हैं। कुछ इसे ‘बुश लिली’ कहते हैं।</Plant_Clivia.description>
+  
+  <!-- EN: giant rafflesia -->
+  <Plant_Rafflesia.label>विशाल रैफ्लेसिया</Plant_Rafflesia.label>
+  <!-- EN: A rare, giant flower which can be found deep in steaming jungles. You would think a giant flower would be beautiful, but this one looks and smells like rotting flesh. -->
+  <Plant_Rafflesia.description>एक दुर्लभ, विशाल फूल जो भाप से भरे जंगलों में गहराई में पाया जा सकता है। आप सोच सकते हैं कि एक विशाल फूल सुंदर होगा, लेकिन यह सड़े हुए मांस जैसा दिखता और महकता है।</Plant_Rafflesia.description>
+  
+  <!-- EN: low shrubs -->
+  <Plant_ShrubLow.label>छोटे झाड़ियाँ</Plant_ShrubLow.label>
+  <!-- EN: Various low broadleaf shrubs. These grow in clusters and slow down movement. -->
+  <Plant_ShrubLow.description>विभिन्न चौड़े पत्ते वाले छोटे झाड़। ये गुच्छों में उगते हैं और गति को धीमा करते हैं।</Plant_ShrubLow.description>
+  
+  <!-- EN: bamboo tree -->
+  <Plant_TreeBamboo.label>बांस का पेड़</Plant_TreeBamboo.label>
+  <!-- EN: A fast-growing tree-like plant that grows in dense groves. Bamboo can be harvested for a wood-like material. The plant itself is not beautiful. -->
+  <Plant_TreeBamboo.description>एक तेज़ी से बढ़ने वाला पेड़ जैसा पौधा जो घने झुंडों में उगता है। बांस को लकड़ी जैसे पदार्थ के लिए काटा जा सकता है। पौधा स्वयं सुंदर नहीं है।</Plant_TreeBamboo.description>
+  
+  <!-- EN: cecropia tree -->
+  <Plant_TreeCecropia.label>सेक्रोपिया वृक्ष</Plant_TreeCecropia.label>
+  <!-- EN: One of the most common rainforest trees. Cecropia grows very fast, but yields little usable wood. -->
+  <Plant_TreeCecropia.description>यह सबसे आम वर्षावन वृक्षों में से एक है। सेक्रोपिया बहुत तेज़ी से बढ़ता है, लेकिन कम उपयोगी लकड़ी देता है।</Plant_TreeCecropia.description>
+  
+  <!-- EN: palm tree -->
+  <Plant_TreePalm.label>खजूर का पेड़</Plant_TreePalm.label>
+  <!-- EN: A tropical tree with a tall, naked trunk topped by a cluster of very broad leaves. Unfortunately, this variety doesn't produce any edible coconuts. -->
+  <Plant_TreePalm.description>एक उष्णकटिबंधीय वृक्ष जिसकी ऊँची, नंगी तना पर बहुत चौड़े पत्तों का गुच्छा है। दुर्भाग्य से, इस किस्म में कोई खाद्य नारियल नहीं उत्पन्न होते हैं।</Plant_TreePalm.description>
+  
+  <!-- EN: teak tree -->
+  <Plant_TreeTeak.label>टीक वृक्ष</Plant_TreeTeak.label>
+  <!-- EN: An exceptionally strong hardwood tree that grows in warm climates. Because teak wood is so durable and water-resistant, it was used to form the keel of wooden sailing ships in ancient times. -->
+  <Plant_TreeTeak.description>एक असाधारण रूप से मजबूत दृढ़ लकड़ी का पेड़ जो गर्म जलवायु में उगता है। टीक की लकड़ी इतनी टिकाऊ और जल-प्रतिरोधी होने के कारण, प्राचीन काल में इसका उपयोग लकड़ी के पाल नौकाओं के कील बनाने के लिए किया जाता था।</Plant_TreeTeak.description>
+  
+</LanguageData>

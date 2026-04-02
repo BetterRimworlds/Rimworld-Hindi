@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alcohol addiction -->
+  <AlcoholAddiction.label>शराब की लत</AlcoholAddiction.label>
+  <!-- EN: A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <AlcoholAddiction.description>शराब की एक रासायनिक लत। लंबे समय तक शराब की मौजूदगी ने कोशिकीय स्तर पर तंत्रिका संबंधी अनुकूलन पैदा कर दिया है, इसलिए मस्तिष्क अब दवा के बिना ठीक से कार्य नहीं कर सकता।\n\nनियमित रूप से शराब की खुराक के बिना, वापसी के लक्षण शुरू हो जाएंगे। हालाँकि, लंबे समय तक परहेज मस्तिष्क को अपनी सामान्य स्थिति में वापस अनुकूलित होने के लिए मजबूर कर देगा, जिससे लत दूर हो जाएगी।</AlcoholAddiction.description>
+  <!-- EN: withdrawal -->
+  <AlcoholAddiction.stages.withdrawal.label>निकासी</AlcoholAddiction.stages.withdrawal.label>
+  
+  <!-- EN: alcohol -->
+  <AlcoholHigh.label>शराब</AlcoholHigh.label>
+  <!-- EN: Alcohol in the bloodstream. It makes people happy, but reduces capacities. -->
+  <AlcoholHigh.description>रक्तधारा में अल्कोहल। यह लोगों को खुश करता है, लेकिन क्षमताओं को कम करता है।</AlcoholHigh.description>
+  <!-- EN: drunkenness -->
+  <AlcoholHigh.labelNoun>नशा</AlcoholHigh.labelNoun>
+  <!-- EN: warm -->
+  <AlcoholHigh.stages.warm.label>गर्म</AlcoholHigh.stages.warm.label>
+  <!-- EN: tipsy -->
+  <AlcoholHigh.stages.tipsy.label>नशे में</AlcoholHigh.stages.tipsy.label>
+  <!-- EN: drunk -->
+  <AlcoholHigh.stages.drunk.label>नशे में</AlcoholHigh.stages.drunk.label>
+  <!-- EN: hammered -->
+  <AlcoholHigh.stages.hammered.label>कुचल दिया गया</AlcoholHigh.stages.hammered.label>
+  <!-- EN: blackout -->
+  <AlcoholHigh.stages.blackout.label>ब्लैकआउट</AlcoholHigh.stages.blackout.label>
+  
+  <!-- EN: alcohol tolerance -->
+  <AlcoholTolerance.label>शराब सहिष्णुता</AlcoholTolerance.label>
+  <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
+  <AlcoholTolerance.description>शराब के प्रति सहनशीलता का निर्माण। यह सहनशीलता जितनी अधिक होगी, समान प्रभाव प्राप्त करने के लिए उतनी ही अधिक शराब की आवश्यकता होगी।</AlcoholTolerance.description>
+  <!-- EN: small -->
+  <AlcoholTolerance.stages.small.label>छोटा</AlcoholTolerance.stages.small.label>
+  <!-- EN: large -->
+  <AlcoholTolerance.stages.large.label>बड़ा</AlcoholTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <AlcoholTolerance.stages.massive.label>विशाल</AlcoholTolerance.stages.massive.label>
+  
+  <!-- EN: hangover -->
+  <Hangover.label>नशा उतरना</Hangover.label>
+  <!-- EN: An unpleasant delayed after-effect of alcohol intoxication. -->
+  <Hangover.description>शराब के नशे के बाद होने वाला एक अप्रिय विलंबित प्रभाव।</Hangover.description>
+  <!-- EN: a hangover -->
+  <Hangover.labelNoun>एक हैंगओवर</Hangover.labelNoun>
+  <!-- EN: slight -->
+  <Hangover.stages.slight.label>हल्का</Hangover.stages.slight.label>
+  <!-- EN: strong -->
+  <Hangover.stages.strong.label>मज़बूत</Hangover.stages.strong.label>
+  <!-- EN: pounding -->
+  <Hangover.stages.pounding.label>धड़कन</Hangover.stages.pounding.label>
+  
+</LanguageData>

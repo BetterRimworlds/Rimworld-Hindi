@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: temperate forest -->
+  <TemperateForest.label>समशीतोष्ण वन</TemperateForest.label>
+  <!-- EN: Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains. -->
+  <TemperateForest.description>पर्णपाती पेड़ों के जंगल उपजाऊ मैदानों के साथ बिखरे हुए हैं। कई प्रजातियों के जानवर पेड़ों और मैदानों में घूमते हैं।</TemperateForest.description>
+  
+  <!-- EN: temperate swamp -->
+  <TemperateSwamp.label>समशीतोष्ण दलदल</TemperateSwamp.label>
+  <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
+  <TemperateSwamp.description>दलदल वनस्पतियों और बीमारियों से भरे हुए हैं। घनी वनस्पति के कारण घूमना मुश्किल है, और निर्माण के लिए क्षेत्रों को साफ़ करने में लंबा समय लगता है। अधिकांश भूभाग भारी संरचनाओं का समर्थन करने के लिए बहुत दलदली है।</TemperateSwamp.description>
+  
+</LanguageData>

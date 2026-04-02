@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] spent almost all of [PAWN_possessive] time indoors, away from other humans. To survive, [PAWN_pronoun] trained and sold messenger rats. -->
+  <CynapseCustomAdulthood.description>[PAWN_nameDef] ने अपना लगभग सारा समय अन्य मनुष्यों से दूर, घर के अंदर बिताया। जीवित रहने के लिए, उसने संदेशवाहक चूहों को प्रशिक्षित किया और उन्हें बेचा।</CynapseCustomAdulthood.description>
+  <!-- EN: hermit -->
+  <CynapseCustomAdulthood.title>सन्यासी</CynapseCustomAdulthood.title>
+  <CynapseCustomAdulthood.titleFemale>वनवासी महिला</CynapseCustomAdulthood.titleFemale>
+  <!-- EN: hermit -->
+  <CynapseCustomAdulthood.titleShort>सन्यासी तपस्वी</CynapseCustomAdulthood.titleShort>
+  <CynapseCustomAdulthood.titleShortFemale>वनवासी साध्वी</CynapseCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] time disassembling and reassembling electronic devices in order to figure out how they function. [PAWN_nameDef] became so preoccupied with [PAWN_possessive] tinkering that [PAWN_pronoun] forgot to develop social relationships with other humans. -->
+  <CynapseCustomChildhood.description>{PAWN_gender ? [PAWN_nameDef] ने अपना अधिकांश समय इलेक्ट्रॉनिक उपकरणों को अलग करके और फिर से जोड़कर यह पता लगाने में बिताया कि वे कैसे काम करते हैं। [PAWN_nameDef] अपनी ही tinkering में इतनी व्यस्त हो गई कि उसने अन्य मनुष्यों के साथ सामाजिक संबंध विकसित करना भूल गई। : [PAWN_nameDef] ने अपना ज़्यादातर समय इलेक्ट्रॉनिक उपकरणों को खोलकर और फिर से जोड़कर यह पता लगाने में बिताया कि वे कैसे काम करते हैं। [PAWN_nameDef] अपनी इस कारीगरी में इतना मशगूल हो गया कि उसने अन्य मनुष्यों के साथ सामाजिक संबंध विकसित करना ही भूल गया।}</CynapseCustomChildhood.description>
+  <!-- EN: tinkerer -->
+  <CynapseCustomChildhood.title>{PAWN_gender ? मर्मकार : मशीनों का कारीगर}</CynapseCustomChildhood.title>
+  <!-- EN: tinkerer -->
+  <CynapseCustomChildhood.titleShort>{PAWN_gender ? मर्मकार (महिला) : मशीनों का कुशल कारीगर}</CynapseCustomChildhood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent all [PAWN_possessive] time running tabletop role-playing games as a way to connect socially with others. The game changed every year, and other players always loved [PAWN_possessive] worldbuilding and stories. -->
+  <FeyCustomAdulthood.description>{PAWN_gender ? [PAWN_nameDef] ने हमेशा दूसरों के साथ सामाजिक रूप से जुड़ने के लिए टेबलटॉप रोल-प्लेइंग गेम चलाने में अपना सारा समय बिताया। खेल हर साल बदल जाता था, और अन्य खिलाड़ी हमेशा उसकी दुनिया बनाने और कहानियों को पसंद करते थे। : [PAWN_nameDef] ने अपना सारा समय टेबलटॉप रोल-प्लेइंग गेम चलाने में बिताया ताकि वह दूसरों के साथ सामाजिक रूप से जुड़ सके। खेल हर साल बदल जाता था, और अन्य खिलाड़ी हमेशा उसकी दुनिया बनाने और कहानियों को पसंद करते थे।}</FeyCustomAdulthood.description>
+  <!-- EN: game master -->
+  <FeyCustomAdulthood.title>{PAWN_gender ? खेल संचालिका : खेल मास्टर}</FeyCustomAdulthood.title>
+  <!-- EN: game master -->
+  <FeyCustomAdulthood.titleShort>{PAWN_gender ? खेल मास्टर (महिला) : खेल मास्टर}</FeyCustomAdulthood.titleShort>
+  
+  <!-- EN: Growing up sheltered in an urbworld archology, [PAWN_nameDef] distracted [PAWN_objective]self by playing wargames and painting miniatures. While [PAWN_pronoun] was never very good at the game itself, it helped to connect [PAWN_objective] with others. -->
+  <FeyCustomChildhood.description>{PAWN_gender ? शहरी दुनिया के आर्कोलॉजी में पर पली-बढ़ी [PAWN_nameDef] ने खुद को व्यस्त रखने के लिए युद्ध खेल खेले और लघु चित्र बनाए। हालाँकि वह खेल में कभी भी बहुत अच्छी नहीं थी, इसने उसे दूसरों से जुड़ने में मदद की। : शहरी दुनिया के आर्कोलॉजी में परवरिश पाए, [PAWN_nameDef] ने खुद को व्यस्त रखने के लिए युद्ध खेल खेले और लघु चित्र बनाए। हालाँकि वह खेल में कभी बहुत अच्छा नहीं रहा, इसने उसे दूसरों से जुड़ने में मदद की।}</FeyCustomChildhood.description>
+  <!-- EN: wargame fanatic -->
+  <FeyCustomChildhood.title>युद्ध-खेल उत्साही</FeyCustomChildhood.title>
+  <FeyCustomChildhood.titleFemale>युद्ध-खेल उत्साही महिला</FeyCustomChildhood.titleFemale>
+  <!-- EN: wargame fanatic -->
+  <FeyCustomChildhood.titleShort>युद्धखेल उत्साही</FeyCustomChildhood.titleShort>
+  <FeyCustomChildhood.titleShortFemale>युद्धखेल उत्साही महिला</FeyCustomChildhood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a hobbyist game developer who lived in an endless cycle of unfinished projects and lofty ideas. -->
+  <JoeCustomAdulthood.description>{PAWN_gender ? [PAWN_nameDef] एक शौकिया गेम डेवलपर थीं जो अधूरे प्रोजेक्ट और ऊँचे विचारों के अंतहीन चक्र में जीती थीं। : [PAWN_nameDef] एक शौकिया गेम डेवलपर था जो अधूरे प्रोजेक्ट और ऊँचे विचारों के एक अंतहीन चक्र में रहता था।}</JoeCustomAdulthood.description>
+  <!-- EN: game developer -->
+  <JoeCustomAdulthood.title>गेम डेवलपर</JoeCustomAdulthood.title>
+  <JoeCustomAdulthood.titleFemale>खेल विकासकर्ता</JoeCustomAdulthood.titleFemale>
+  <!-- EN: game dev -->
+  <JoeCustomAdulthood.titleShort>गेम डेवलपर</JoeCustomAdulthood.titleShort>
+  <JoeCustomAdulthood.titleShortFemale>गेम डेवलपर महिला</JoeCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born into a family of musicians. When hard times came, [PAWN_pronoun] was forced to play the drum in a traveling band. -->
+  <JoeCustomChildhood.description>{PAWN_gender ? [PAWN_nameDef] एक संगीतकार परिवार में जन्मी थीं। जब कठिन समय आया, तो उसे एक यात्रा करने वाले बैंड में ढोल बजाने के लिए मजबूर होना पड़ा। : [PAWN_nameDef] एक संगीतकार परिवार में पैदा हुआ था। जब कठिन समय आया, तो उसे एक यात्रा करने वाले बैंड में ढोल बजाने के लिए मजबूर होना पड़ा।}</JoeCustomChildhood.description>
+  <!-- EN: drummer -->
+  <JoeCustomChildhood.title>{PAWN_gender ? ढोल वादिका : ढोलकिया}</JoeCustomChildhood.title>
+  <!-- EN: drummer -->
+  <JoeCustomChildhood.titleShort>{PAWN_gender ? ढोलक वादिका : ड्रमर}</JoeCustomChildhood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked on a peaceful glitterworld developing hyper-realistic war crime simulation software. -->
+  <LiamCustomAdulthood.description>[PAWN_nameDef] ने एक शांतिपूर्ण चमकते ग्रह पर अति-यथार्थवादी युद्ध अपराध सिमुलेशन सॉफ्टवेयर विकसित किया।</LiamCustomAdulthood.description>
+  <!-- EN: simulation developer -->
+  <LiamCustomAdulthood.title>सिमुलेशन डेवलपर</LiamCustomAdulthood.title>
+  <LiamCustomAdulthood.titleFemale>सिमुलेशन डेवलपर</LiamCustomAdulthood.titleFemale>
+  <!-- EN: sim dev -->
+  <LiamCustomAdulthood.titleShort>सिमुलेशन डेवलपर</LiamCustomAdulthood.titleShort>
+  <LiamCustomAdulthood.titleShortFemale>सिम डेवलपर</LiamCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: Born and raised on a glitterworld, [PAWN_nameDef] was obsessed with simulation software. [PAWN_pronoun] spent far too much time plugged in. -->
+  <LiamCustomChildhood.description>{PAWN_gender ? एक चमकते हुए ग्रह पर जन्मी और पली-बढ़ी, [PAWN_nameDef] सिमुलेशन सॉफ्टवेयर के प्रति जुनूनी थी। उसने बहुत अधिक समय प्लग इन करके बिताया। : एक चमकते हुए ग्रह पर पैदा हुए और पले-बढ़े, [PAWN_nameDef] सिमुलेशन सॉफ्टवेयर के प्रति आसक्त थे। उन्होंने बहुत अधिक समय प्लग इन करके बिताया।}</LiamCustomChildhood.description>
+  <!-- EN: sim addict -->
+  <LiamCustomChildhood.title>सिम व्यसनग्रस्त</LiamCustomChildhood.title>
+  <LiamCustomChildhood.titleFemale>सिम की आदी महिला</LiamCustomChildhood.titleFemale>
+  <!-- EN: sim addict -->
+  <LiamCustomChildhood.titleShort>सिम व्यसनकर्ता</LiamCustomChildhood.titleShort>
+  <LiamCustomChildhood.titleShortFemale>सिम की आदी महिला</LiamCustomChildhood.titleShortFemale>
+  
+  <!-- EN: After being laid off by an interplanetary megacorp, [PAWN_nameDef] spent several years disillusioned and fighting alcohol addiction.\n\n[PAWN_pronoun] ended up busking aboard a space freighter, playing a beaten-up guitar and entertaining the crew with blues and folk songs from the distant past. -->
+  <MateCustomAdulthood.description>{PAWN_gender ? अंतरग्रहीय विशाल निगम द्वारा बर्खास्त किए जाने के बाद, [PAWN_nameDef] ने कई साल मोहभंग और शराब की लत से जूझते हुए बिताए।\n\nवह अंततः एक अंतरिक्ष मालवाहक जहाज पर भिक्षावृत्ति करने लगी, एक जर्जर गिटार बजाती थी और चालक दल का मनोरंजन दूर अतीत के ब्लूज़ और लोक गीतों से करती थी। : अंतरग्रहीय विशाल निगम द्वारा बर्खास्त किए जाने के बाद, [PAWN_nameDef] ने कई साल मोहभंग और शराब की लत से जूझते हुए बिताए।\n\nवह अंततः एक अंतरिक्ष मालवाहक जहाज पर भीख माँगता हुआ समाप्त हो गया, एक टूटा-फूटा गिटार बजाता हुआ और चालक दल का मनोरंजन दूर के अतीत के ब्लूज़ और लोक गीतों से करता था।}</MateCustomAdulthood.description>
+  <!-- EN: busker -->
+  <MateCustomAdulthood.title>सड़क कलाकार</MateCustomAdulthood.title>
+  <MateCustomAdulthood.titleFemale>सड़क कलाकार</MateCustomAdulthood.titleFemale>
+  <!-- EN: busker -->
+  <MateCustomAdulthood.titleShort>सड़क कलाकार</MateCustomAdulthood.titleShort>
+  <MateCustomAdulthood.titleShortFemale>सड़क कलाकारिका</MateCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood dreaming of becoming a famous artist who could impress people with [PAWN_possessive] creations. -->
+  <MateCustomChildhood.description>{PAWN_gender ? [PAWN_nameDef] ने अपना बचपन प्रसिद्ध कलाकार बनने के सपने में बिताया, जो अपनी रचनाओं से लोगों को प्रभावित कर सके। : [PAWN_nameDef] ने अपना बचपन एक प्रसिद्ध कलाकार बनने के सपने में बिताया, जो अपनी रचनाओं से लोगों को प्रभावित कर सके।}</MateCustomChildhood.description>
+  <!-- EN: curious kid -->
+  <MateCustomChildhood.title>जिज्ञासु बालक</MateCustomChildhood.title>
+  <MateCustomChildhood.titleFemale>जिज्ञासु बच्ची</MateCustomChildhood.titleFemale>
+  <!-- EN: curious kid -->
+  <MateCustomChildhood.titleShort>जिज्ञासु बालक</MateCustomChildhood.titleShort>
+  <MateCustomChildhood.titleShortFemale>जिज्ञासु बच्ची</MateCustomChildhood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] carved living spaces and mined minerals from the sides of hills and mountains. [PAWN_pronoun] learned to feel at home picking through rock and shoring up cave walls. -->
+  <NathanCustomAdulthood.description>{PAWN_gender ? खननकर्मी ने पहाड़ियों और पहाड़ों की ढलानों से रहने के स्थान उकेरे और खनिज निकाले। उसने चट्टानों में से चुनना और गुफा की दीवारों को सहारा देना सीखा, और घर जैसा महसूस करना सीखा। : [PAWN_nameDef] ने पहाड़ियों और पहाड़ों की ढलानों से रहने के लिए जगहें तराशीं और खनिज निकाले। उसने चट्टानों में से छानबीन करते हुए और गुफा की दीवारों को सहारा देते हुए घर जैसा महसूस करना सीखा।}</NathanCustomAdulthood.description>
+  <!-- EN: digger -->
+  <NathanCustomAdulthood.title>खननिक</NathanCustomAdulthood.title>
+  <NathanCustomAdulthood.titleFemale>खननकर्मी</NathanCustomAdulthood.titleFemale>
+  <!-- EN: digger -->
+  <NathanCustomAdulthood.titleShort>खनिक</NathanCustomAdulthood.titleShort>
+  <NathanCustomAdulthood.titleShortFemale>खननकर्मी महिला</NathanCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves. -->
+  <NathanCustomChildhood.description>{PAWN_gender ? [PAWN_nameDef] एक विशाल और जटिल गुफा परिसर में पली-बढ़ी जो एक पर्वत की गहराई में फैला हुआ था। उसने वयस्कों को गहरी गुफाओं को बनाए रखने और बेहतर बनाने में मदद की। : [PAWN_nameDef] एक बड़े और जटिल गुफा परिसर में बड़ा हुआ जो एक पहाड़ की गहराई में फैला हुआ था। उसने वयस्कों को गहरी गुफाओं को बनाए रखने और सुधारने में मदद की।}</NathanCustomChildhood.description>
+  <!-- EN: cave child -->
+  <NathanCustomChildhood.title>गुफा बालक</NathanCustomChildhood.title>
+  <NathanCustomChildhood.titleFemale>गुफा बालिका</NathanCustomChildhood.titleFemale>
+  <!-- EN: cave child -->
+  <NathanCustomChildhood.titleShort>गुफा में पला बालक</NathanCustomChildhood.titleShort>
+  <NathanCustomChildhood.titleShortFemale>गुफा में पली बच्ची</NathanCustomChildhood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] designed combat modifications for frontline soldiers.\n\nOne night, in a nightmare, [PAWN_nameDef] was confronted by all the men and women killed by [PAWN_possessive] work. [PAWN_pronoun] decided to travel to the rimworlds and use [PAWN_possessive] skills for good. -->
+  <OskarCustomAdulthood.description>{PAWN_gender ? युद्ध के मोर्चे पर तैनात सैनिकों के लिए [PAWN_nameDef] ने युद्ध संशोधन डिजाइन किए।\n\nएक रात, एक बुरे सपने में, [PAWN_nameDef] को उन सभी पुरुषों और महिलाओं का सामना करना पड़ा जिनकी मृत्यु उसके काम से हुई थी। उसने रिमवर्ल्ड्स की यात्रा करने और अपने कौशल का उपयोग अच्छे कार्यों के लिए करने का फैसला किया। : युद्ध के मोर्चे पर तैनात सैनिकों के लिए [PAWN_nameDef] ने युद्ध संशोधन डिजाइन किए।\n\nएक रात, एक बुरे सपने में, [PAWN_nameDef] को उन सभी पुरुषों और महिलाओं का सामना करना पड़ा जिनकी मृत्यु उसके काम से हुई थी। उसने रिमवर्ल्ड की यात्रा करने और अपने कौशल का उपयोग अच्छे कार्यों के लिए करने का फैसला किया।}</OskarCustomAdulthood.description>
+  <!-- EN: mod designer -->
+  <OskarCustomAdulthood.title>मॉड डिज़ाइनर</OskarCustomAdulthood.title>
+  <OskarCustomAdulthood.titleFemale>मॉड डिज़ाइनर</OskarCustomAdulthood.titleFemale>
+  <!-- EN: modder -->
+  <OskarCustomAdulthood.titleShort>{PAWN_gender ? मोडर (महिला) : मोडर}</OskarCustomAdulthood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born on the dark edge of a tidally-locked urbworld. After an argument, [PAWN_possessive] father sold [PAWN_objective] to a local district lord as a slave artist.\n\nForced to create art or be punished, [PAWN_pronoun] withdrew and became unable to form relations with others. -->
+  <OskarCustomChildhood.description>{PAWN_gender ? [PAWN_nameDef] एक ज्वारीय-ताले वाले शहरी दुनिया के अंधेरे किनारे पर जन्मी थी। एक तर्क के बाद, उसके पिता ने उसे एक स्थानीय जिला स्वामी को दास कलाकार के रूप में बेच दिया।\n\nसजा से बचने के लिए कला बनाने के लिए मजबूर, वह संकुचित हो गई और दूसरों के साथ संबंध बनाने में असमर्थ हो गई। : [PAWN_nameDef] एक ज्वारीय-ताले वाले शहरी दुनिया के अंधेरे किनारे पर पैदा हुआ था। एक तर्क के बाद, उसके पिता ने उसे एक स्थानीय जिला स्वामी को दास कलाकार के रूप में बेच दिया।\n\nसजा से बचने के लिए कला बनाने के लिए मजबूर, वह संकुचित हो गया और दूसरों के साथ संबंध बनाने में असमर्थ हो गया।}</OskarCustomChildhood.description>
+  <!-- EN: art slave -->
+  <OskarCustomChildhood.title>कला दास</OskarCustomChildhood.title>
+  <OskarCustomChildhood.titleFemale>कला दासी</OskarCustomChildhood.titleFemale>
+  <!-- EN: artist -->
+  <OskarCustomChildhood.titleShort>{PAWN_gender ? कलाकार महिला : कलाकार}</OskarCustomChildhood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was an independent game developer.\n\nAfter an early success, [PAWN_possessive] career quickly degenerated into a circus of misguided ideas, deals gone wrong, and desperate, failed PR stunts. -->
+  <TynanCustomAdulthood.description>{PAWN_gender ? [PAWN_nameDef] एक स्वतंत्र गेम डेवलपर थीं।\n\nप्रारंभिक सफलता के बाद, उनका करियर जल्द ही गलत विचारों, विफल सौदों और हताश, असफल पीआर स्टंट के एक तमाशे में बदल गया। : [PAWN_nameDef] एक स्वतंत्र गेम डेवलपर था।\n\nप्रारंभिक सफलता के बाद, उनका करियर जल्द ही गलत विचारों, विफल सौदों और हताश, असफल पीआर स्टंट के एक सर्कस में बदल गया।}</TynanCustomAdulthood.description>
+  <!-- EN: game developer -->
+  <TynanCustomAdulthood.title>गेम डेवलपर</TynanCustomAdulthood.title>
+  <TynanCustomAdulthood.titleFemale>खेल विकासकर्ता</TynanCustomAdulthood.titleFemale>
+  <!-- EN: game dev -->
+  <TynanCustomAdulthood.titleShort>गेम डेवलपर</TynanCustomAdulthood.titleShort>
+  <TynanCustomAdulthood.titleShortFemale>गेम डेवलपर महिला</TynanCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent his childhood selling knockoff cigarettes to 15-year-olds. The cigarettes were often full of grass clippings. -->
+  <TynanCustomChildhood.description>[PAWN_nameDef] ने अपना बचपन 15 साल के बच्चों को नकली सिगरेट बेचते हुए बिताया। ये सिगरेट अक्सर घास के टुकड़ों से भरी होती थीं।</TynanCustomChildhood.description>
+  <!-- EN: punk -->
+  <TynanCustomChildhood.title>{PAWN_gender ? विद्रोही युवती : विद्रोही}</TynanCustomChildhood.title>
+  <!-- EN: punk -->
+  <TynanCustomChildhood.titleShort>{PAWN_gender ? विद्रोही युवती : विद्रोही युवक}</TynanCustomChildhood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] designed elaborate entertainment mazes for the glitterworld elite. Even now, [PAWN_pronoun] thinks of little else. -->
+  <WillCustomAdulthood.description>{PAWN_gender ? मनोरंजन के जटिल भूलभुलैयाएँ [PAWN_nameDef] ने चमकते हुए दुनिया के अभिजात वर्ग के लिए डिज़ाइन की थीं। यहाँ तक कि अब भी, वह इसके बारे में कुछ और नहीं सोचती है। : [PAWN_nameDef] ने ग्लिटरवर्ल्ड के अभिजात वर्ग के लिए विस्तृत मनोरंजन भूलभुलैयाएँ डिज़ाइन कीं। अभी भी, वह इसके बारे में कुछ और नहीं सोचता है।}</WillCustomAdulthood.description>
+  <!-- EN: labyrinth maker -->
+  <WillCustomAdulthood.title>भूलभुलैया निर्माता</WillCustomAdulthood.title>
+  <WillCustomAdulthood.titleFemale>भूलभुलैया निर्माता</WillCustomAdulthood.titleFemale>
+  <!-- EN: labyrinth maker -->
+  <WillCustomAdulthood.titleShort>भूलभुलैया निर्माता</WillCustomAdulthood.titleShort>
+  <WillCustomAdulthood.titleShortFemale>भूलभुलैया निर्माता</WillCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a research camp on a deadworld. [PAWN_possessive] parents were astrobiologists studying mysterious labyrinthine formations beneath the planet's crust. [PAWN_pronoun] spent most of his time wandering those tunnels, wondering what otherworldly entity could have created them. -->
+  <WillCustomChildhood.description>{PAWN_gender ? [PAWN_nameDef] एक मृत ग्रह पर एक अनुसंधान शिविर में पली-बढ़ी। उसकी माता-पिता खगोल जीवविज्ञानी थे जो ग्रह की परत के नीचे रहस्यमय भूलभुलैया जैसी संरचनाओं का अध्ययन कर रहे थे। उसने अपना अधिकांश समय उन सुरंगों में घूमते हुए बिताया, आश्चर्य करते हुए कि उन्हें किस अलौकिक प्राणी ने बनाया होगा। : [PAWN_nameDef] एक मृत ग्रह पर एक अनुसंधान शिविर में बड़ा हुआ। उसके माता-पिता खगोल जीवविज्ञानी थे जो ग्रह की परत के नीचे रहस्यमय भूलभुलैया जैसी संरचनाओं का अध्ययन कर रहे थे। उसने अपना अधिकांश समय उन सुरंगों में घूमते हुए बिताया, आश्चर्य करते हुए कि उन्हें किस अलौकिक प्राणी ने बनाया होगा।}</WillCustomChildhood.description>
+  <!-- EN: maze child -->
+  <WillCustomChildhood.title>भूलभुलैया का बच्चा</WillCustomChildhood.title>
+  <WillCustomChildhood.titleFemale>भूलभुलैया का बच्चा</WillCustomChildhood.titleFemale>
+  <!-- EN: maze child -->
+  <WillCustomChildhood.titleShort>भूलभुलैया का बच्चा</WillCustomChildhood.titleShort>
+  <WillCustomChildhood.titleShortFemale>भूलभुलैया का बच्चा</WillCustomChildhood.titleShortFemale>
+  
+</LanguageData>

@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>r_name->[msyl][msyl] [mechhive]</li>
+    <li>mechhive->mechhive</li>
+    <li>msyl->nyar</li>
+    <li>msyl->alg</li>
+    <li>msyl->xan</li>
+    <li>msyl->zel</li>
+    <li>msyl->kil</li>
+    <li>msyl->len</li>
+    <li>msyl->lax</li>
+    <li>msyl->alph</li>
+    <li>msyl->ome</li>
+    <li>msyl->iri</li>
+    <li>msyl->slin</li>
+    <li>msyl->toth</li>
+    <li>msyl->arth</li>
+    <li>msyl->unth</li>
+    <li>msyl->ox</li>
+    <li>msyl->arm</li>
+    <li>msyl->murd</li>
+    <li>msyl->zen</li>
+    <li>msyl->yoth</li>
+    <li>msyl->lite</li>
+  -->
+  <NamerFactionMechanoid.rulePack.rulesStrings>
+    <li>r_name->[mechhive] [msyl] [msyl_extra]</li>
+    <li>mechhive->मैककोलोना</li>
+    <li>msyl->न्यार</li>
+    <li>msyl->एल्ग</li>
+    <li>msyl->ज़ैन</li>
+    <li>msyl->डेल्टा</li>
+    <li>msyl->किल</li>
+    <li>msyl->लंबाई</li>
+    <li>msyl->ओमेगा</li>
+    <li>msyl->ओमिक्रॉन</li>
+    <li>msyl->ओमे</li>
+    <li>msyl_extra->प्रिमा</li>
+    <li>msyl_extra->626-एम</li>
+    <li>msyl_extra->319-बी</li>
+    <li>msyl_extra->515-एच</li>
+    <li>msyl_extra->010-ए</li>
+    <li>msyl_extra->सेंटॉरी</li>
+    <li>msyl_extra->लुपस</li>
+    <li>msyl_extra->मैग्नस</li>
+    <li>msyl_extra->ओमेगा</li>
+    <li>msyl_extra->प्रधान</li>
+    <li>msyl_extra->ज़र्स</li>
+  </NamerFactionMechanoid.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_name(p=3)->[nearnameinitial]</li>
+    <li>r_name->[nearnameinitial] [political_union_outlander]</li>
+    <li>r_name->[nearnameinitial] [political_adjective] [political_union_outlander]</li>
+    <li>r_name->[political_union_outlander] of [nearnameinitial]</li>
+    <li>r_name->[political_adjective] [political_union_outlander] of [nearnameinitial]</li>
+    <li>nearnameinitial(p=3)->[PlaceOutlander]</li>
+    <li>nearnameinitial->[Direction] [PlaceOutlander]</li>
+  -->
+  <NamerFactionOutlander.rulePack.rulesStrings>
+    <li>r_name(p=3)->[nearnameinitial]</li>
+    <li>r_name->[political_union_outlander] का / की / के [nearnameinitial]</li>
+    <li>r_name->[political_union_outlander] [political_adjective] का/की/के [nearnameinitial]</li>
+    <li>r_name->[political_union_outlander] [nearnameinitial]</li>
+    <li>nearnameinitial(p=3)->[PlaceOutlander]</li>
+    <li>nearnameinitial->[PlaceOutlander] से [Direction]</li>
+  </NamerFactionOutlander.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_name->The [AnimalBadass]s</li>
+    <li>r_name->The [AnimalBadass] Men</li>
+    <li>r_name->The [AnimalBadass]s of [ConceptBadass]</li>
+    <li>r_name->The [PersonBadass]s of [ConceptBadass]</li>
+    <li>r_name->The [PersonBadass]s</li>
+    <li>r_name->The [Enemy]s</li>
+    <li>r_name->The [Weapon] Men</li>
+    <li>r_name->The [Weapon]s</li>
+    <li>r_name->The [Weapon] [AnimalBadass]s</li>
+    <li>r_name->The [Weapon] [Enemy]s</li>
+    <li>r_name->The [ColorBadass] [Weapon]s</li>
+    <li>r_name->The [ColorBadass] [AnimalBadass]s</li>
+    <li>r_name->The [ColorBadass] [PersonBadass]s</li>
+    <li>r_name->The [ColorBadass] [Enemy]s</li>
+    <li>r_name->The [PersonBadass] [groupname]</li>
+    <li>r_name->The [Enemy] [Enemy]s</li>
+    <li>r_name->The [AdjectiveBadass] [groupname]</li>
+    <li>r_name->The [AdjectiveBadass] [AnimalBadass]s</li>
+    <li>r_name->The [AdjectiveBadass] [Enemy]s</li>
+    <li>r_name->The [AdjectiveBadass] [PersonBadass]s</li>
+    <li>r_name->The [PersonAlly]s of [ConceptBadass]</li>
+    <li>r_name(p=0.4)->The Eaters of [Gore]</li>
+    <li>r_name->[NamePerson]'s [Enemy]s</li>
+    <li>r_name->[NamePerson]'s [AnimalBadass]s</li>
+    <li>r_name->[NamePerson]'s [Weapon]s</li>
+    <li>r_name->[Weapon] [groupname]</li>
+    <li>r_name->[ConceptBadass] [groupname]</li>
+  -->
+  <NamerFactionPirate.rulePack.rulesStrings>
+    <li>r_name->के [AnimalBadassMasPl]</li>
+    <li>r_name->ती [AnimalBadassFemPl]</li>
+    <li>r_name->पुरुषों [AnimalBadassMasPl]</li>
+    <li>r_name->पुरुष [AnimalBadassFemPl]</li>
+    <li>r_name->वे [AnimalBadassMasPl] की [ConceptBadassFem]</li>
+    <li>r_name->वे [AnimalBadassFemPl] की [ConceptBadassFem]</li>
+    <li>r_name->वे [AnimalBadassMasPl] के [ConceptBadass]</li>
+    <li>r_name->वे [AnimalBadassFemPl] के [ConceptBadass]</li>
+    <li>r_name->वे [PersonBadass]के [ConceptBadass]</li>
+    <li>r_name->वे [PersonBadass]की [ConceptBadassFem]</li>
+    <li>r_name->वे [PersonBadass]हैं</li>
+    <li>r_name->वे [Enemy]हैं</li>
+    <li>r_name->पुरुषों [WeaponVarPl]</li>
+    <li>r_name->[WeaponCac_Plural] की [ConceptBadassFem]</li>
+    <li>r_name->[AnimalBadassMasPl] और [WeaponVarPl]</li>
+    <li>r_name->वे [Enemy]हैं [WeaponVarPl]</li>
+    <li>r_name->वे [PersonBadass]हैं [ColorBadass]हैं</li>
+    <li>r_name->वे [AnimalBadassMasPl] [ColorBadass]हैं</li>
+    <li>r_name->वे [PersonBadass]हैं [ColorBadass]हैं</li>
+    <li>r_name->वे [Enemy]हैं [ColorBadass]हैं</li>
+    <li>r_name->[groupname] का [PersonBadass]हैं</li>
+    <li>r_name->वे [Enemy]के [Enemy]के</li>
+    <li>r_name->[groupname] [AdjectiveBadass]</li>
+    <li>r_name->के [AnimalBadass]हैं [AdjectiveBadass]हैं</li>
+    <li>r_name->के [Enemy]के [AdjectiveBadass]के</li>
+    <li>r_name->वे [PersonBadass]हैं [AdjectiveBadass]हैं</li>
+    <li>r_name->वे [PersonAlly]की [ConceptBadassFem]</li>
+    <li>r_name(p=0.4)->खाने वाले [Gore_Plural]</li>
+    <li>r_name->[NamePerson] और उनके [Enemy]लोग</li>
+    <li>r_name->[NamePerson] और उनके [AnimalBadassMasPl]</li>
+    <li>r_name->[WeaponVarPl] का [NamePerson]</li>
+    <li>r_name->[groupname] का/की/के [WeaponVarPl]</li>
+    <li>r_name->[groupname] का [ConceptBadass]</li>
+    <li>r_name->[Letter][Letter][पत्र][पत्र]-[अंक][अंक] के [राजनीतिक_संघ_जनजातीय] [भूभाग_विशेषता] का[Digit][Digit]</li>
+  </NamerFactionPirate.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_name->[WordTribal] [political_union_tribal]</li>
+    <li>r_name->The [WordTribal] [political_union_tribal]</li>
+    <li>r_name->The [Color] [TerrainFeature] [political_union_tribal]</li>
+    <li>r_name->[political_union_tribal] of [WordTribal]</li>
+    <li>r_name->The [Color] [Animal] [WordTribal]</li>
+    <li>r_name->The [political_union_tribal] of the [TerrainFeature]</li>
+  -->
+  <NamerFactionTribal.rulePack.rulesStrings>
+    <li>r_name->[political_union_tribal] का [WordTribal]</li>
+    <li>r_name->[political_union_tribal] का [TerrainFeature] [Color]</li>
+    <li>r_name->[political_union_tribal] की [TerrainFeature_Fem] [Color_Fem]</li>
+    <li>r_name->[political_union_tribal] का [WordTribal]</li>
+    <li>r_name->[WordTribal_Cap]</li>
+    <li>r_name->वह [TerrainFeature] [Color] [political_union_tribal]</li>
+    <li>r_name->वह [TerrainFeature_Fem] [Color_Fem] [political_union_tribal]</li>
+    <li>r_name->वह [Animal] [Color] [WordTribal]</li>
+    <li>r_name->वह [Animal_Fem] [Color_Fem] [WordTribal]</li>
+    <li>r_name->[TerrainFeature] [WordTribal]</li>
+    <li>r_name->[TerrainFeature_Fem] [WordTribal]</li>
+  </NamerFactionTribal.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_name->Colony</li>
+  -->
+  <NamerInitialSettlementColony.rulePack.rulesStrings>
+    <li>r_name->कॉलोनी</li>
+  </NamerInitialSettlementColony.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_name->Village</li>
+  -->
+  <NamerInitialSettlementTribe.rulePack.rulesStrings>
+    <li>r_name->गाँव</li>
+  </NamerInitialSettlementTribe.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_name(p=12)->[townname_wordgen]</li>
+    <li>r_name(p=6)->[townname_fixed]</li>
+    <li>r_name(p=4)->[townname_combo]</li>
+    <li>r_name->[townname_near]</li>
+    <li>topicalnoun->[Vegetable]</li>
+    <li>topicalnoun->[Game]</li>
+    <li>topicalnoun->[BodyPart]</li>
+    <li>townname_combo->[topicalnoun] [TerrainFeature]</li>
+    <li>townname_combo->[topicalnoun] [Community]</li>
+    <li>townname_combo->[topicalnoun]'s [TerrainFeature]</li>
+    <li>townname_combo->[topicalnoun]'s [Community]</li>
+    <li>townname_combo(p=2)->[concept_positive]'s [TerrainFeature]</li>
+    <li>townname_combo(p=2)->[concept_positive] [TerrainFeature]</li>
+    <li>townname_combo(p=2)->[concept_positive] [Community]</li>
+    <li>townname_combo(p=3)->[Character]'s [TerrainFeature]</li>
+    <li>townname_combo(p=3)->[Character]'s [Community]</li>
+    <li>townname_near->[nearnameinitial]-at-the-[TerrainFeature]</li>
+    <li>townname_near->[nearnameinitial]-by-the-[TerrainFeature]</li>
+    <li>townname_near->[nearnameinitial]-on-the-[TerrainFeature]</li>
+    <li>nearnameinitial->[townname_wordgen]</li>
+    <li>nearnameinitial->[Community]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townend]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townend]</li>
+    <li>townname_wordgen->[TerrainFeature][townend]</li>
+    <li>townname_wordgen->[topicalnoun][townend]</li>
+    <li>townend->ville</li>
+    <li>townend->town</li>
+    <li>townend->hurst</li>
+    <li>townend->bourne</li>
+    <li>townend->brad</li>
+    <li>townend->dale</li>
+    <li>townend->hope</li>
+    <li>townend->ing</li>
+    <li>townend->ness</li>
+    <li>townend->mere</li>
+    <li>townend->shaw</li>
+    <li>townend->wick</li>
+    <li>townend->ton</li>
+    <li>townend->ston</li>
+    <li>townend->os</li>
+    <li>townend->den</li>
+    <li>townend->tas</li>
+    <li>townend->wood</li>
+    <li>townend->land</li>
+    <li>townend->worth</li>
+    <li>townend->roon</li>
+    <li>townend->ron</li>
+    <li>townend->well</li>
+  -->
+  <NamerSettlementOutlander.rulePack.rulesStrings>
+    <li>r_name(p=12)->[townname_wordgen]</li>
+    <li>r_name(p=6)->[townname_fixed]</li>
+    <li>r_name(p=4)->[townname_combo]</li>
+    <li>r_name->[townname_near]</li>
+    <li>topicalnoun->[Vegetable]</li>
+    <li>topicalnoun->[Color]</li>
+    <li>topicalnoun->[BodyPart]</li>
+    <li>townname_combo->[TerrainFeature] [topicalnoun]</li>
+    <li>townname_combo->[Community] [topicalnoun]</li>
+    <li>townname_combo->[TerrainFeature] [topicalnoun]</li>
+    <li>townname_combo->[Community] [topicalnoun]</li>
+    <li>townname_combo(p=2)->[TerrainFeature] [concept_positive]</li>
+    <li>townname_combo(p=2)->[TerrainFeature] [concept_positive]</li>
+    <li>townname_combo(p=2)->[Community] [concept_positive]</li>
+    <li>townname_combo(p=3)->[TerrainFeature] का [Character]</li>
+    <li>townname_combo(p=3)->[Community] [Character]</li>
+    <li>townname_near->सन [SylE][SylE]</li>
+    <li>townname_near->[nearnameinitial] का [TerrainFeature]</li>
+    <li>townname_near->[nearnameinitial] की [TerrainFeature_Fem]</li>
+    <li>nearnameinitial->[townname_wordgen]</li>
+    <li>nearnameinitial->[CommunityAny]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townend]</li>
+    <li>townname_wordgen(p=2)->[townbegin] [SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townend]</li>
+    <li>townname_wordgen(p=2)->[townbegin] [SylE][SylE]</li>
+    <li>townname_wordgen->[SylE][SylE]</li>
+    <li>townname_wordgen->सैंटा [SylE][SylE]</li>
+    <li>townbegin->विला</li>
+    <li>townbegin->विला</li>
+    <li>townend->नगर</li>
+    <li>townend->शहर</li>
+    <li>townend->हर्स्ट</li>
+    <li>townend->बॉर्डर</li>
+    <li>townend->ब्रेड</li>
+    <li>townend->ठीक है।</li>
+    <li>townend->आशा</li>
+    <li>townend->ते हुए</li>
+    <li>townend->नेस</li>
+    <li>townend->मेरे</li>
+    <li>townend->ठंडा</li>
+    <li>townend->धमाकेदार</li>
+    <li>townend->टन</li>
+    <li>townend->पत्थर</li>
+    <li>townend->उन्हें</li>
+    <li>townend->गुफा</li>
+    <li>townend->टैस</li>
+    <li>townend->लकड़ी</li>
+    <li>townend->भूमि</li>
+    <li>townend->मूल्य</li>
+    <li>townend->रों</li>
+  </NamerSettlementOutlander.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_name(p=4)->[townname_combo]</li>
+    <li>r_name->[townname_wordgen]</li>
+    <li>townname_combo->[AnimalBadass] [geography]</li>
+    <li>townname_combo->[AnimalBadass]'s [geography]</li>
+    <li>townname_combo->[ConceptBadass] [geography]</li>
+    <li>townname_combo->[ConceptBadass]'s [geography]</li>
+    <li>townname_combo->[PersonBadass] [geography]</li>
+    <li>townname_combo->[PersonBadass]'s [geography]</li>
+    <li>townname_combo->[Enemy]'s [geography]</li>
+    <li>townname_combo->[Enemy] [geography]</li>
+    <li>townname_combo->[Weapon]'s [geography]</li>
+    <li>townname_combo->[Weapon] [geography]</li>
+    <li>townname_combo->[ColorBadass] [geography]</li>
+    <li>geography(p=2)->[TerrainFeature]</li>
+    <li>geography->[Community]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+    <li>townendevil->vast</li>
+    <li>townendevil->varg</li>
+    <li>townendevil->vix</li>
+    <li>townendevil->tor</li>
+    <li>townendevil->tear</li>
+    <li>townendevil->cut</li>
+    <li>townendevil->lop</li>
+    <li>townendevil->oze</li>
+    <li>townendevil->ozzle</li>
+    <li>townendevil->latch</li>
+    <li>townendevil->lock</li>
+    <li>townendevil->burn</li>
+    <li>townendevil->sear</li>
+    <li>townendevil->shank</li>
+    <li>townendevil->hurt</li>
+    <li>townendevil->vash</li>
+    <li>townendevil->warg</li>
+    <li>townendevil->wug</li>
+    <li>townendevil->thot</li>
+    <li>townendevil->thard</li>
+    <li>townendevil->thad</li>
+  -->
+  <NamerSettlementPirate.rulePack.rulesStrings>
+    <li>r_name(p=4)->[townname_combo]</li>
+    <li>r_name->[townname_wordgen]</li>
+    <li>townname_combo->[geography] का [AnimalBadass]</li>
+    <li>townname_combo->[geography] की [AnimalBadass_Fem]</li>
+    <li>townname_combo->[geography] का [ConceptBadass]</li>
+    <li>townname_combo->[geography] की [ConceptBadass_Fem]</li>
+    <li>townname_combo->[geography] का [PersonBadass]</li>
+    <li>townname_combo->[geography] की [PersonBadass_Fem]</li>
+    <li>townname_combo->[geography] का [Enemy]</li>
+    <li>townname_combo->[geography] की [Enemy_Fem]</li>
+    <li>townname_combo->[geography] का [Weapon]</li>
+    <li>townname_combo->[geography] का [Weapon_Fem]</li>
+    <li>townname_combo->[geography] [Weapon]</li>
+    <li>townname_combo->[geography] [Weapon_Fem]</li>
+    <li>townname_combo->[geography] [ColorBadass]</li>
+    <li>townname_combo->[geography_Fem] [ColorBadass_Fem]</li>
+    <li>geography(p=2)->[TerrainFeatureAny]</li>
+    <li>geography->[Community]</li>
+    <li>geography_Fem->[Community_Fem]</li>
+    <li>townname_wordgen(p=2)->[SylE_Cap][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE_Cap][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE_Cap][townendevil]</li>
+    <li>townname_wordgen(p=2)->[SylE_Cap][SylE][townendevil]</li>
+    <li>townendevil->विशाल</li>
+    <li>townendevil->वर्ग</li>
+    <li>townendevil->विक्स</li>
+    <li>townendevil->टॉर</li>
+    <li>townendevil->आंसू</li>
+    <li>townendevil->काटना</li>
+    <li>townendevil->लोप</li>
+    <li>townendevil->ओज़े</li>
+    <li>townendevil->ओज़ल</li>
+    <li>townendevil->कुंडी</li>
+    <li>townendevil->ताला</li>
+    <li>townendevil->जलाना</li>
+    <li>townendevil->तपना</li>
+    <li>townendevil->चाकू</li>
+    <li>townendevil->चोट लगना</li>
+    <li>townendevil->वश</li>
+    <li>townendevil->वर्गा</li>
+    <li>townendevil->वग</li>
+    <li>townendevil->थॉट</li>
+    <li>townendevil->थार्ड</li>
+    <li>townendevil->थैड</li>
+  </NamerSettlementPirate.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_name(p=2)->[WordTribal]</li>
+    <li>r_name->[Color] [WordTribal]</li>
+    <li>r_name->[Color] [TerrainFeature]</li>
+    <li>r_name->[WordTribal] [TerrainFeature]</li>
+  -->
+  <NamerSettlementTribal.rulePack.rulesStrings>
+    <li>r_name(p=2)->[WordTribal_Cap]</li>
+    <li>r_name->[WordTribal_Cap] [WordTribal]</li>
+    <li>r_name->[TerrainFeature] [Color]</li>
+    <li>r_name->[TerrainFeature_Fem] [Color_Fem]</li>
+    <li>r_name->[TerrainFeatureAny] [WordTribal]</li>
+  </NamerSettlementTribal.rulePack.rulesStrings>
+
+</LanguageData>

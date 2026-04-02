@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: raw humanlike meat eaten -->
+  <AteRawHumanlikeMeat.label>कच्चा मानव मांस खाया गया</AteRawHumanlikeMeat.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s eating of human meat</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] the meat of a fellow humanoid [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] meat from a humanlike arm [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] flesh of a humanoid [circumstance_group]</li>
+    <li>eat_gerund->eating</li>
+    <li>eat_gerund->ingesting</li>
+    <li>eat_gerund->chewing</li>
+    <li>eat_gerund->chowing down on</li>
+    <li>eat_gerund->consuming</li>
+    <li>eat_gerund->swallowing</li>
+    <li>eat_gerund->cannibalizing</li>
+    <li>circumstance_phrase->with a sense of purpose</li>
+    <li>circumstance_phrase->with no hint of shame</li>
+    <li>circumstance_phrase->with a look of shame</li>
+    <li>circumstance_phrase->while others look on</li>
+    <li>circumstance_phrase->with gusto</li>
+    <li>circumstance_phrase->frantically, like [PAWN_possessive] life depended on it</li>
+    <li>desc_sentence->[PAWN_nameDef]'s face is covered with blood and fluid.</li>
+    <li>desc_sentence->[PAWN_nameDef] is licking [PAWN_possessive] fingers.</li>
+    <li>desc_sentence->[PAWN_nameDef] has blood and gore bits all down [PAWN_possessive] front.</li>
+    <li>desc_sentence->[PAWN_nameDef] is in the middle of a large pool of blood.</li>
+    <li>desc_sentence->[PAWN_nameDef] is eyeing someone else nearby with dark interest.</li>
+    <li>desc_sentence->The meat is glistening and appears very succulent.</li>
+    <li>desc_sentence->The meat is spilling all over [PAWN_nameDef]'s body.</li>
+  -->
+  <AteRawHumanlikeMeat.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] मानव मांस खाया</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] एक साथी मानवोइड का मांस [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] एक मानव सदृश हाथ का मांस [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [eat_gerund] एक मानवोइड का मांस [circumstance_group]</li>
+    <li>eat_gerund->खा रहा है</li>
+    <li>eat_gerund->ग्रहण कर रहा है</li>
+    <li>eat_gerund->चबाते हुए</li>
+    <li>eat_gerund->चबा रहा है</li>
+    <li>eat_gerund->उपभोग करते हुए</li>
+    <li>eat_gerund->दाँतों से खींचकर निगलना</li>
+    <li>eat_gerund->मानवभक्षण कर रहा है</li>
+    <li>circumstance_phrase->कर्तव्य की भावना के साथ</li>
+    <li>circumstance_phrase->बिना किसी शर्म के</li>
+    <li>circumstance_phrase->शर्मिंदगी के भाव के साथ</li>
+    <li>circumstance_phrase->जबकि दूसरे देखते रहते हैं।</li>
+    <li>circumstance_phrase->ख़ुशी से</li>
+    <li>circumstance_phrase->बेताब होकर, जैसे कि उसकी जान पर निर्भर हो।</li>
+    <li>desc_sentence->का चेहरा [PAWN_nameDef] खून और तरल से ढका हुआ है।</li>
+    <li>desc_sentence->[PAWN_nameDef] अपने उँगलियों को चाट रहा है।</li>
+    <li>desc_sentence->[PAWN_nameDef] उसके चेहरे पर खून और मांस के टुकड़े हैं।</li>
+    <li>desc_sentence->[PAWN_nameDef] [PAWN_nameDef] खून के एक बड़े तालाब के बीच में है।</li>
+    <li>desc_sentence->[PAWN_nameDef] [PAWN_nameDef] आस-पास किसी और व्यक्ति को गहरी दिलचस्पी से देख रहा है।</li>
+    <li>desc_sentence->मांस अविश्वसनीय रूप से रसदार दिख रहा है।</li>
+    <li>desc_sentence->मांस के टुकड़े उनके चारों ओर फर्श पर गिर रहे हैं।</li>
+  </AteRawHumanlikeMeat.rulePack.rulesStrings>
+  
+  <!-- EN: humanlike corpse butchered -->
+  <ButcheredHumanlikeCorpse.label>विच्छिन्न मानवोइड लाश</ButcheredHumanlikeCorpse.label>
+  
+  <!-- EN: art crafted -->
+  <CraftedArt.label>कलाकृति निर्माण</CraftedArt.label>
+  <!-- EN:
+    <li>tale_noun->the time [PAWN_nameDef] crafted [THING_indefinite]</li>
+    <li>image->[PAWN_nameFull] crafting [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] completing [PAWN_possessive] work on [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] working on [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] making [THING_indefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</li>
+    <li>circumstance_phrase->with total concentration</li>
+    <li>circumstance_phrase->with a look of satisfaction on [PAWN_possessive] face</li>
+    <li>circumstance_phrase->at [PAWN_possessive] work bench</li>
+    <li>circumstance_phrase->with great intensity</li>
+    <li>desc_sentence->There are tools scattered all around.</li>
+    <li>desc_sentence->[PAWN_pronoun] is scratched and scarred from work injuries.</li>
+    <li>desc_sentence->[PAWN_pronoun] is covered in sweat.</li>
+    <li>desc_sentence->The work area is highly organized, with every tool in its proper place.</li>
+    <li>desc_sentence->[PAWN_pronoun] is rendered in an exaggerated way to appear more powerful.</li>
+    <li>desc_sentence->The size of [THING_definite] is exaggerated to emphasize its importance.</li>
+    <li>desc_sentence->[THING_definite] has an artistic glow added to it. It seems almost angelic.</li>
+    <li>desc_sentence->[PAWN_nameDef] is faded into the background to emphasize [PAWN_possessive] new creation.</li>
+    <li>desc_sentence->[Quantity_adjphrase] onlookers surround [PAWN_objective].</li>
+    <li>desc_sentence->A crowd cheers from the background.</li>
+    <li>quality_sentence->[THING_definite] looks to be of [THING_quality] quality</li>
+    <li>quality_sentence->[THING_definite] is of [THING_quality] quality</li>
+    <li>quality_sentence->[PAWN_nameDef]'s work is of [THING_quality] quality</li>
+    <li>title_sentence->[PAWN_nameDef]'s title for [THING_definite] is written underneath: [THING_title]</li>
+    <li>title_sentence->[THING_definite] is emblazoned with its title: [THING_title]</li>
+    <li>title_sentence->The title of [THING_definite], [THING_title], hangs in the background</li>
+  -->
+  <CraftedArt.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] बनाया [THING_indefinite]</li>
+    <li>image->[PAWN_nameFull] बना रहा है [THING_indefinite] [circumstance_group]। [quality_sentence]। [title_sentence]</li>
+    <li>image->[PAWN_nameFull] अपना काम पर पूरा कर रहा है [THING_indefinite] [circumstance_group]पर [quality_sentence]. [title_sentence]</li>
+    <li>image->[PAWN_nameFull] पर काम कर रहा है [THING_indefinite] [circumstance_group]। [quality_sentence]। [title_sentence]</li>
+    <li>image->[PAWN_nameFull] बना रहा है [THING_indefinite] [circumstance_group]। [quality_sentence]। [title_sentence]</li>
+    <li>circumstance_phrase->पूर्ण एकाग्रता के साथ</li>
+    <li>circumstance_phrase->उसके चेहरे पर संतोष की झलक के साथ</li>
+    <li>circumstance_phrase->उसके कार्यक्षेत्र पर</li>
+    <li>circumstance_phrase->बहुत तीव्रता से</li>
+    <li>desc_sentence->हर जगह उपकरण बिखरे हुए हैं।</li>
+    <li>desc_sentence->उसके शरीर पर काम करते समय लगी चोटों के निशान और खरोंचें हैं।</li>
+    <li>desc_sentence->पसीने से ढका हुआ है[PAWN_o_a] ।</li>
+    <li>desc_sentence->कार्य क्षेत्र बहुत व्यवस्थित है, हर उपकरण अपनी जगह पर है।</li>
+    <li>desc_sentence->अतिशयोक्तिपूर्ण ढंग से प्रस्तुत किया गया है[PAWN_o_a] ताकि अधिक शक्तिशाली दिखे[PAWN_o_a]।</li>
+    <li>desc_sentence->का आकार [THING_definite] इसके महत्व पर ज़ोर देने के लिए बढ़ा-चढ़ाकर बताया गया है।</li>
+    <li>desc_sentence->[THING_definite] इसके चारों ओर एक कलात्मक चमक है। यह लगभग देवदूत जैसा दिखता है।</li>
+    <li>desc_sentence->[PAWN_nameDef] [PAWN_nameDef] अपनी नई रचना पर ज़ोर देने के लिए पृष्ठभूमि में फीका पड़ गया है।</li>
+    <li>desc_sentence->[Quantity_adjphrase] दर्शक उसे घेर रहे हैं।</li>
+    <li>desc_sentence->भीड़ पृष्ठभूमि से जयकारे लगा रही है।</li>
+    <li>quality_sentence->[THING_definite] गुणवत्ता का प्रतीत होता है [THING_quality]गुणवत्ता</li>
+    <li>quality_sentence->[THING_definite] की गुणवत्ता है [THING_quality]गुणवत्ता</li>
+    <li>quality_sentence->का काम है [PAWN_nameDef] गुणवत्ता की [THING_quality]।</li>
+    <li>title_sentence->का शीर्षक [PAWN_nameDef] के लिए [THING_definite] नीचे लिखा है: [THING_title]</li>
+    <li>title_sentence->[THING_definite] का शीर्षक अंकित है: [THING_title]</li>
+    <li>title_sentence->का शीर्षक [THING_definite], [THING_title]पृष्ठभूमि में लटका है।</li>
+  </CraftedArt.rulePack.rulesStrings>
+  
+  <!-- EN: drunk -->
+  <Drunk.label>नशे में</Drunk.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s extreme drunkenness</li>
+    <li>tale_noun->[PAWN_nameDef] getting extremely drunk</li>
+    <li>image->[PAWN_nameFull] staggering around drunk [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] tilting [PAWN_possessive] head back and guzzling liquor [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] greedily collecting bottles of liquor [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] drinking heavily [circumstance_group]</li>
+    <li>circumstance_phrase->oblivious to [PAWN_possessive] surroundings</li>
+    <li>circumstance_phrase->in a brooding stupor</li>
+    <li>circumstance_phrase->while questioning [PAWN_possessive] own existence</li>
+    <li>circumstance_phrase->with tears in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->while chuckling madly</li>
+    <li>circumstance_phrase->while sobbing</li>
+    <li>circumstance_phrase->while looking pathetic</li>
+    <li>circumstance_phrase->while glaring angrily at people around [PAWN_objective]</li>
+    <li>circumstance_phrase->while leering at someone nearby</li>
+    <li>circumstance_phrase->while attempting to disrobe</li>
+    <li>circumstance_phrase->with a finger in [PAWN_possessive] mouth</li>
+    <li>circumstance_phrase->while holding back vomit</li>
+    <li>circumstance_phrase->without a care in the world</li>
+    <li>circumstance_phrase->with a lustful glint in [PAWN_possessive] eye</li>
+    <li>circumstance_phrase->while reviewing the ghosts of [PAWN_possessive] past</li>
+    <li>desc_sentence->[PAWN_pronoun] seems totally unaware of what is around [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_possessive] face itself seems to be swelling.</li>
+    <li>desc_sentence->[PAWN_pronoun] is nearly unconscious, [PAWN_possessive] tongue lolling out, drool dripping.</li>
+    <li>desc_sentence->[PAWN_pronoun] looks happy and sad at the same time.</li>
+    <li>desc_sentence->[PAWN_pronoun] has stains down [PAWN_possessive] front.</li>
+    <li>desc_sentence->There is a trail of discarded beverage containers behind [PAWN_objective].</li>
+    <li>desc_sentence->There is a white substance on [PAWN_possessive] pants.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to have lost a shoe.</li>
+    <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
+  -->
+  <Drunk.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] [PAWN_nameDef] को अत्यधिक नशा हुआ।</li>
+    <li>tale_noun->[PAWN_nameDef] [PAWN_nameDef] को बहुत ज़्यादा नशा चढ़ गया।</li>
+    <li>image->[PAWN_nameFull] लड़खड़ाता हुआ नशे में[PAWN_o_a] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] शराब घूँटते हुए [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [PAWN_nameFull] लालची होकर शराब की बोतलें जमा कर रहा है [circumstance_group] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ज़ोर-ज़ोर से पी रहा है [circumstance_group]</li>
+    <li>circumstance_phrase->अनजान[PAWN_o_a] उसके आसपास की चीज़ें</li>
+    <li>circumstance_phrase->पूरी तरह से भ्रमित[PAWN_o_a]</li>
+    <li>circumstance_phrase->अपनी ही अस्तित्व पर सवाल उठाते हुए</li>
+    <li>circumstance_phrase->उसकी आँखों में आँसू के साथ</li>
+    <li>circumstance_phrase->पागलपन से हंसते हुए</li>
+    <li>circumstance_phrase->रोते हुए</li>
+    <li>circumstance_phrase->दयनीय ढंग से</li>
+    <li>circumstance_phrase->अपने आसपास के लोगों को गुस्से से घूरते हुए</li>
+    <li>circumstance_phrase->किसी के पास घूरते हुए द्वेष से</li>
+    <li>circumstance_phrase->कपड़े उतारने की कोशिश करते समय</li>
+    <li>circumstance_phrase->उसके मुँह में एक उंगली के साथ</li>
+    <li>circumstance_phrase->उल्टी रोकने की कोशिश करते हुए</li>
+    <li>circumstance_phrase->बिना किसी चिंता के</li>
+    <li>circumstance_phrase->उसकी आँखों में कामुक चमक के साथ</li>
+    <li>circumstance_phrase->अपने अतीत के भूत याद करते हुए</li>
+    <li>desc_sentence->[PAWN_pronoun] अनजान लगता है[PAWN_o_a] अपने आसपास से।</li>
+    <li>desc_sentence->उसका चेहरा सूजा हुआ लग रहा है।</li>
+    <li>desc_sentence->[PAWN_pronoun] लगभग बेहोश है और जीभ बाहर निकली हुई है।</li>
+    <li>desc_sentence->[PAWN_pronoun] ऐसा लगता है कि [PAWN_pronoun] एक ही समय में खुश और दुखी है।</li>
+    <li>desc_sentence->[PAWN_pronoun] [PAWN_pronoun] के आगे दाग हैं।</li>
+    <li>desc_sentence->{[PAWN_pronoun]} के पीछे खाली बोतलों का निशान है [PAWN_pronoun]।</li>
+    <li>desc_sentence->उसके कपड़े फटे और गंदे हैं।</li>
+    <li>desc_sentence->[PAWN_pronoun] ऐसा लगता है कि [PAWN_pronoun] ने एक जूता खो दिया है।</li>
+    <li>desc_sentence->उसके बाल बिखरे हुए हैं।</li>
+  </Drunk.rulePack.rulesStrings>
+  
+  <!-- EN: research project finished -->
+  <FinishedResearchProject.label>अनुसंधान पूरा हुआ</FinishedResearchProject.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] finishing research on [PROJECT_label]</li>
+    <li>image->[PAWN_nameFull] working on the [PROJECT_label] research project [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] studying the secrets of [PROJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] researching [PROJECT_label] [circumstance_group]</li>
+    <li>circumstance_phrase->with great intensity</li>
+    <li>circumstance_phrase->alone at [PAWN_possessive] bench</li>
+    <li>circumstance_phrase->while holding papers in [PAWN_possessive] hand</li>
+    <li>circumstance_phrase->with a look of gleeful fascination</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweating.</li>
+    <li>desc_sentence->The work appears to be exceptionally complex.</li>
+    <li>desc_sentence->[PAWN_nameDef] is completely surrounded by an array of tools and apparatuses.</li>
+    <li>desc_sentence->[PAWN_nameDef] is staring at [PAWN_possessive] discovery with a sense of wonder.</li>
+  -->
+  <FinishedResearchProject.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] [PAWN_nameDef] ने [PROJECT_label] पर अपना शोध समाप्त कर दिया। [PROJECT_label]</li>
+    <!-- Añadir los proyectos de investigación al worldinfo para usar def e indef -->
+    <li>image->[PAWN_nameFull] [PAWN_nameFull] [project_label] अनुसंधान पर काम कर रहा है [circumstance_group] [project_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [PAWN_nameFull] [PROJECT_label] [circumstance_group] के रहस्यों का अध्ययन कर रहा है [PROJECT_label] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] अनुसंधान कर रहा है [PROJECT_label] [circumstance_group]</li>
+    <li>circumstance_phrase->बहुत तीव्रता से</li>
+    <li>circumstance_phrase->अकेला[PAWN_o_a] डेस्क पर</li>
+    <li>circumstance_phrase->जब वह अपने हाथ में कुछ कागज़ पकड़े हुए है।</li>
+    <li>circumstance_phrase->आश्चर्यपूर्ण आकर्षण से भरी निगाहों से</li>
+    <li>desc_sentence->[PAWN_nameDef] पसीना आ रहा है।</li>
+    <li>desc_sentence->काम असाधारण रूप से जटिल प्रतीत होता है।</li>
+    <li>desc_sentence->[PAWN_nameDef] पूरी तरह से घिरा हुआ है[PAWN_o_a] उपकरणों और विविध यंत्रों से</li>
+    <li>desc_sentence->[PAWN_nameDef] [PAWN_nameDef] अपनी खोज को खुशी से देख रहा है।</li>
+  </FinishedResearchProject.rulePack.rulesStrings>
+  
+  <!-- EN: landed in pod -->
+  <LandedInPod.label>कैप्सूल में उतरा हुआ</LandedInPod.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s landing in a drop pod</li>
+    <li>image->[PAWN_nameFull] landing in a drop pod [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] touching down in a drop pod [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] striking earth in a drop pod [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] riding in a drop pod [circumstance_group]</li>
+    <li>circumstance_phrase->in front of a [TerrainFeature]</li>
+    <li>circumstance_phrase->with incredible force</li>
+    <li>circumstance_phrase->in a plume of dust and rocks</li>
+    <li>circumstance_phrase->with retro-rockets firing dramatically</li>
+    <li>circumstance_phrase->in a precision landing</li>
+    <li>desc_sentence->[PAWN_pronoun] is concentrating intently on the controls.</li>
+    <li>desc_sentence->[PAWN_pronoun] has [PAWN_possessive] eyes closed and looks afraid.</li>
+    <li>desc_sentence->[PAWN_pronoun] is unconscious, [PAWN_possessive] tongue lolling out, drool dripping.</li>
+    <li>desc_sentence->[PAWN_pronoun] is smiling with grim joy.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to have no idea what [PAWN_pronoun] is doing.</li>
+    <li>desc_sentence->[PAWN_pronoun] is strapped in with [PAWN_possessive] eyes closed, totally helpless.</li>
+    <li>desc_sentence->There is a flame trail licking off the back of the pod.</li>
+    <li>desc_sentence->A nearby [Animal] is looking up, startled.</li>
+    <li>desc_sentence->A [Animal] is fleeing the impact in fear.</li>
+    <li>desc_sentence->There is a [TerrainFeature] in the background.</li>
+    <li>desc_sentence->A [PersonJob] watches silently from afar.</li>
+  -->
+  <LandedInPod.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] एक बचाव कैप्सूल में उतरा</li>
+    <li>image->[PAWN_nameFull] एक बचाव कैप्सूल में उतर रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] इस्केप कैप्सूल से उतर रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [PAWN_nameFull] कैप्सूल से धरती पर टकरा रहा है [circumstance_group] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] एक बचाव कैप्सूल की खिड़की से देख रहा है [circumstance_group]</li>
+    <li>circumstance_phrase->के सामने [TerrainFeatureIndef]</li>
+    <li>circumstance_phrase->महान शक्ति के साथ</li>
+    <li>circumstance_phrase->धूल और चट्टानों की बौछार में</li>
+    <li>circumstance_phrase->पिछड़े रॉकेटों को पूरी शक्ति से प्रज्वलित करते हुए</li>
+    <li>circumstance_phrase->सटीक लैंडिंग में</li>
+    <li>desc_sentence->[PAWN_pronoun] [PAWN_pronoun] नियंत्रणों पर पूरी तरह से ध्यान केंद्रित कर रहा है।</li>
+    <li>desc_sentence->[PAWN_pronoun] की आँखें बंद हैं और डरा हुआ लगता है[PAWN_o_a].</li>
+    <li>desc_sentence->[PAWN_pronoun] बेहोश है, जीभ बाहर निकली हुई है और लार टपक रही है।</li>
+    <li>desc_sentence->[PAWN_pronoun] [PAWN_pronoun] ठंडी मुस्कान के साथ मुस्कुरा रहा है।</li>
+    <li>desc_sentence->[PAWN_pronoun] ऐसा लगता है कि उसे पता नहीं है कि वह क्या कर रहा है।</li>
+    <li>desc_sentence->[PAWN_pronoun] अपनी सीट पर कसकर पकड़े हुए है, पूरी तरह असहाय[PAWN_o_a].</li>
+    <li>desc_sentence->पॉड के पिछले हिस्से से आग की लपटें निकल रही हैं।</li>
+    <li>desc_sentence->एक [Animal] भयभीत होकर आकाश की ओर देख रहा है</li>
+    <li>desc_sentence->एक [Animal] डर के मारे तेज़ी से भाग रहा है।</li>
+    <li>desc_sentence->है [TerrainFeatureIndef] पृष्ठभूमि में है।</li>
+    <li>desc_sentence->एक [PersonJob] दूर से चुपचाप देखता है।</li>
+  </LandedInPod.rulePack.rulesStrings>
+  
+  <!-- EN: berserk rage -->
+  <MentalStateBerserk.label>उन्मादी क्रोध</MentalStateBerserk.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] going berserk</li>
+    <li>image->[PAWN_nameFull] flying into a berserk rage [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] becoming madly, violently insane [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] stumbling forward with a psychotic look on [PAWN_possessive] face [circumstance_group]</li>
+    <li>circumstance_phrase->while attempting to disrobe</li>
+    <li>circumstance_phrase->seemingly without reason</li>
+    <li>circumstance_phrase->as others cower in fear</li>
+    <li>circumstance_phrase->as a friend flees</li>
+    <li>circumstance_phrase->because of the stress</li>
+    <li>circumstance_phrase->as a last step</li>
+    <li>desc_sentence->[PAWN_pronoun] is shaking with ungovernable rage.</li>
+    <li>desc_sentence->[PAWN_possessive] teeth are bared in a deadly snarl.</li>
+    <li>desc_sentence->[PAWN_possessive] eyes are dead pools of madness.</li>
+    <li>desc_sentence->Spittle is flying from [PAWN_possessive] mouth as [PAWN_possessive] screams with insane rage.</li>
+    <li>desc_sentence->[PAWN_pronoun] has lost part of [PAWN_possessive] clothing.</li>
+    <li>desc_sentence->[PAWN_pronoun] is grimacing in misery.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems smiling maniacally.</li>
+    <li>desc_sentence->[PAWN_pronoun] is depicted with the snarling face of a [Animal].</li>
+    <li>desc_sentence->[Animal]s symbolically surround [PAWN_possessive] head.</li>
+    <li>desc_sentence->[PAWN_pronoun] has a murderous glint in [PAWN_possessive] eye.</li>
+    <li>desc_sentence->[PAWN_possessive] entire body seems to be trembling with hatred.</li>
+    <li>desc_sentence->[PAWN_possessive] face is set in a look of twisted serenity.</li>
+    <li>desc_sentence->A single tear rolls down [PAWN_possessive] face.</li>
+  -->
+  <MentalStateBerserk.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] [PAWN_nameDef] उन्मत्त हो गया/गई[PAWN_o_a]</li>
+    <li>image->[PAWN_nameFull] प्रचंड क्रोध में डूब रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] पागलपन की स्थिति में प्रवेश कर रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] अपना चेहरा [circumstance_group] पर एक मनोविकृत नज़र के साथ लड़खड़ाते हुए आगे बढ़ रहा है। [circumstance_group]</li>
+    <li>circumstance_phrase->कपड़े उतारने की कोशिश करते समय</li>
+    <li>circumstance_phrase->स्पष्ट रूप से बिना किसी कारण के</li>
+    <li>circumstance_phrase->जैसे दूसरे डर से काँप रहे हैं</li>
+    <li>circumstance_phrase->जैसे कोई मित्र भाग रहा है</li>
+    <li>circumstance_phrase->तनाव के कारण</li>
+    <li>circumstance_phrase->पागलपन से हंसते हुए</li>
+    <li>desc_sentence->[PAWN_pronoun] [PAWN_pronoun] अनियंत्रित क्रोध से काँप रहा है।</li>
+    <li>desc_sentence->[PAWN_pronoun] [PAWN_pronoun] एक आक्रामक कुत्ते की तरह अपने दाँत दिखा रहा है।</li>
+    <li>desc_sentence->उसकी आँखें पागलपन की गहरी खाई हैं।</li>
+    <li>desc_sentence->उसके मुँह से थूक के छींटे उड़ रहे हैं क्योंकि वह पागल गुस्से में चिल्ला रहा है।</li>
+    <li>desc_sentence->[PAWN_pronoun] [PAWN_pronoun] ने अपने कपड़ों का कुछ हिस्सा खो दिया है।</li>
+    <li>desc_sentence->[PAWN_pronoun] अपनी दुर्दशा पर व्यंग्य कर रहा है।</li>
+    <li>desc_sentence->[PAWN_pronoun] पावन उन्मादपूर्वक मुस्कुरा रहा है।</li>
+    <li>desc_sentence->[PAWN_pronoun] का चेहरा जैसा दिखता है [AnimalIndef].</li>
+    <li>desc_sentence->[Animal_Plural] व्यंगचित्रमय [जानवर_बहुवचन] प्रतीकात्मक रूप से उसके सिर को घेरे हुए हैं।</li>
+    <li>desc_sentence->[PAWN_pronoun] उसकी आँखों में हत्यारी चमक है।</li>
+    <li>desc_sentence->उसका पूरा शरीर नफरत से काँप रहा है।</li>
+    <li>desc_sentence->उसका चेहरा उलझी हुई शांति में डूबा हुआ है।</li>
+    <li>desc_sentence->उसका एक आँसू उसके चेहरे पर गिरता है।</li>
+  </MentalStateBerserk.rulePack.rulesStrings>
+  
+  <!-- EN: gave up -->
+  <MentalStateGaveUp.label>हार मान लिया</MentalStateGaveUp.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] giving up in despair</li>
+    <li>image->[PAWN_nameFull] finally giving up under stress [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sobbing uncontrollably [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] stumbling around with a completely broken expression on [PAWN_possessive] face [circumstance_group]</li>
+    <li>circumstance_phrase->while attempting to disrobe</li>
+    <li>circumstance_phrase->seemingly without reason</li>
+    <li>circumstance_phrase->as others offer sympathy</li>
+    <li>circumstance_phrase->as a friend cries</li>
+    <li>circumstance_phrase->because of the stress</li>
+    <li>circumstance_phrase->as a last step</li>
+    <li>desc_sentence->[PAWN_pronoun] has tears streaming down [PAWN_possessive] face.</li>
+    <li>desc_sentence->[PAWN_pronoun] is laughing in the depths of [PAWN_possessive] depression.</li>
+    <li>desc_sentence->[PAWN_nameDef] is looking upward, as if to ask for help from above.</li>
+    <li>desc_sentence->[PAWN_pronoun] is tearing at [PAWN_possessive] own clothes.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems totally unaware of what is around [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_pronoun] looks happy and sad at the same time.</li>
+    <li>desc_sentence->[PAWN_pronoun] has stains down [PAWN_possessive] front.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to have lost a shoe.</li>
+    <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
+  -->
+  <MentalStateGaveUp.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] [PAWN_nameDef] निराशा में डूब गया।</li>
+    <li>image->[PAWN_nameFull] अंततः हार मान रहा है[PAWN_o_a] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] अनियंत्रित रूप से रो रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] चेहरा पर पराजित भाव के साथ लड़खड़ा रहा है [circumstance_group]</li>
+    <li>circumstance_phrase->कपड़े उतारने की कोशिश करते समय</li>
+    <li>circumstance_phrase->स्पष्ट रूप से बिना किसी कारण के</li>
+    <li>circumstance_phrase->जबकि अन्य सहानुभूति प्रदान करते हैं।</li>
+    <li>circumstance_phrase->जैसे कोई करीबी दोस्त रो रहा है।</li>
+    <li>circumstance_phrase->तनाव के कारण</li>
+    <li>circumstance_phrase->अंतिम चरण के रूप में</li>
+    <li>desc_sentence->[PAWN_pronoun] उसके चेहरे पर आँसू बह रहे हैं।</li>
+    <li>desc_sentence->[PAWN_pronoun] इतना उदास देखकर हँस रहा है[PAWN_o_a] अवसाद में।</li>
+    <li>desc_sentence->[PAWN_nameDef] आसमान की ओर देख रहा है, मानो मदद के लिए प्रार्थना कर रहा हो।</li>
+    <li>desc_sentence->[PAWN_pronoun] अपने कपड़े फाड़ रहा है।</li>
+    <li>desc_sentence->[PAWN_pronoun] बिलकुल अनजान लगता है[PAWN_o_a] अपने आसपास</li>
+    <li>desc_sentence->[PAWN_pronoun] ऐसा लगता है कि [PAWN_pronoun] एक ही समय में खुश और दुखी है।</li>
+    <li>desc_sentence->[PAWN_pronoun] चेहरे पर गंदगी के धब्बे हैं।</li>
+    <li>desc_sentence->[PAWN_pronoun] ऐसा लगता है कि [PAWN_pronoun] ने एक जूता खो दिया है।</li>
+    <li>desc_sentence->उसके बाल पूरी तरह से बिखरे हुए हैं।</li>
+  </MentalStateGaveUp.rulePack.rulesStrings>
+  
+  <!-- EN: read a book -->
+  <ReadBook.label>एक किताब पढ़ना</ReadBook.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] finishing [THING_title]</li>
+    <li>image->[PAWN_nameFull] closing [THING_title] for the last time, a satisfied smile gracing [PAWN_possessive] face [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] turning the pages of [THING_title], absorbing the knowledge within [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] placing [THING_title] back on the shelf, a sense of accomplishment radiating from [PAWN_objective] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sitting in quiet contemplation, reflecting on the profound truths within [THING_title] [circumstance_group]</li>
+    <li>circumstance_phrase->while relaxing in [PAWN_possessive] favorite reading nook</li>
+    <li>circumstance_phrase->with a cup of tea by [PAWN_possessive] side</li>
+    <li>circumstance_phrase->under the soft glow of a reading lamp</li>
+    <li>desc_sentence->[PAWN_nameDef] is surrounded by [PAWN_possessive] notes on [THING_title].</li>
+    <li>desc_sentence->[PAWN_nameDef]'s eyes sparkle with newfound wisdom.</li>
+    <li>desc_sentence->[PAWN_nameDef] is forever changed by the teachings of [THING_title].</li>
+    <li>desc_sentence->There is a sense that some secrets are yet to be uncovered.</li>
+  -->
+  <ReadBook.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] पूरा कर लिया है [THING_title]</li>
+    <li>image->[PAWN_nameFull] बंद करते हुए [THING_title] अंतिम बार, संतुष्ट मुस्कान उनके चेहरे पर आ रही है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] पन्ने पलटते हुए [THING_title], अंदर के ज्ञान को आत्मसात करते हुए [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] रखते हुए [THING_title] शेल्फ पर वापस, एक उपलब्धि की भावना उनके व्यक्तित्व से निकल रही है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] शांत चिंतन में बैठा, [THING_title] [circumstance_group] के भीतर की गहन सत्यों पर मनन कर रहा है। [THING_title] [circumstance_group]</li>
+    <li>circumstance_phrase->अपने पसंदीदा पठन कोने में आराम करते हुए</li>
+    <li>circumstance_phrase->उसके बगल में एक कप चाय के साथ</li>
+    <li>circumstance_phrase->एक पढ़ने वाले दीपक की नरम रोशनी में</li>
+    <li>desc_sentence->[PAWN_nameDef] उसके {[THING_title]} पर नोट्स से घिरा हुआ है [THING_title].</li>
+    <li>desc_sentence->के नेत्र [PAWN_nameDef] नव प्राप्त ज्ञान से चमकते हैं।</li>
+    <li>desc_sentence->[PAWN_nameDef] हमेशा के लिए बदल गया[PAWN_gender ? o : a] के उपदेशों से [THING_title]।</li>
+    <li>desc_sentence->कुछ रहस्य अभी भी उजागर होने बाकी हैं, ऐसा लगता है।</li>
+  </ReadBook.rulePack.rulesStrings>
+  
+  <!-- EN: struck mineable -->
+  <StruckMineable.label>खनिज खोजा गया</StruckMineable.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] striking [THING_label]</li>
+    <li>image->[PAWN_nameFull] striking [THING_label] [circumstance_group]</li>
+    <li>circumstance_phrase->while mining</li>
+    <li>circumstance_phrase->while digging</li>
+    <li>circumstance_phrase->while tunnelling</li>
+    <li>circumstance_phrase->with a look of surprise</li>
+    <li>circumstance_phrase->with a satisfied expression</li>
+    <li>desc_sentence->[PAWN_nameDef] is wiping [PAWN_possessive] brow.</li>
+    <li>desc_sentence->[PAWN_nameDef] is jumping for joy.</li>
+    <li>desc_sentence->[PAWN_nameDef] is high-fiving a friend.</li>
+    <li>desc_sentence->[PAWN_nameDef] is screaming with happiness.</li>
+    <li>desc_sentence->[PAWN_nameDef] is laughing uncontrollably.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
+  -->
+  <StruckMineable.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] मिला [THING_label]</li>
+    <li>image->[PAWN_nameFull] मार रहा है [THING_label] [circumstance_group]</li>
+    <li>circumstance_phrase->खनन करते समय</li>
+    <li>circumstance_phrase->खोदते समय</li>
+    <li>circumstance_phrase->सुरंग बनाते समय</li>
+    <li>circumstance_phrase->आश्चर्यचकित निगाहों से</li>
+    <li>circumstance_phrase->संतुष्ट भाव के साथ</li>
+    <li>desc_sentence->[PAWN_nameDef] अपना माथा पोंछ रहा है।</li>
+    <li>desc_sentence->[PAWN_nameDef] खुशी से उछल रहा है।</li>
+    <li>desc_sentence->[PAWN_nameDef] किसी मित्र को अभिवादन कर रहा है।</li>
+    <li>desc_sentence->[PAWN_nameDef] खुशी से चिल्ला रहा है।</li>
+    <li>desc_sentence->[PAWN_nameDef] [PAWN_nameDef] अनियंत्रित रूप से हंस रहा है।</li>
+    <li>desc_sentence->[PAWN_nameDef] बहुत पसीने से तर है[PAWN_o_a] बहुत काम करने से</li>
+    <li>desc_sentence->[PAWN_nameDef] बहुत पसीने से सना और गंदा है[PAWN_o_a]।</li>
+  </StruckMineable.rulePack.rulesStrings>
+  
+  <!-- EN: vomited -->
+  <Vomited.label>उल्टी की गई</Vomited.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s vomiting</li>
+    <li>image->[PAWN_nameFull] spewing vomit onto the ground [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] looking disgusted while covered with dried vomit [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] doubled over and retching onto the floor [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] on [PAWN_possessive] knees, vomiting on the floor [circumstance_group]</li>
+    <li>circumstance_phrase->while looking pained</li>
+    <li>circumstance_phrase->with great shame</li>
+    <li>circumstance_phrase->as others look on</li>
+    <li>desc_sentence->[PAWN_pronoun] seems totally unaware of what is around [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_possessive] face itself seems to be swelling.</li>
+    <li>desc_sentence->[PAWN_pronoun] is nearly unconscious, [PAWN_possessive] tongue lolling out, drool dripping.</li>
+    <li>desc_sentence->[PAWN_pronoun] is convulsing violently.</li>
+    <li>desc_sentence->[PAWN_pronoun] looks ashamed.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to be trying to laugh, despite the circumstances.</li>
+    <li>desc_sentence->[PAWN_pronoun] looks almost deflated, as though totally emptied by the intense vomiting.</li>
+    <li>desc_sentence->[PAWN_pronoun] is surrounded by an artistically rendered halo of filth.</li>
+    <li>desc_sentence->A [Animal] is eating from the trail of vomit in the background.</li>
+  -->
+  <Vomited.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] उल्टी की</li>
+    <li>image->[PAWN_nameFull] ज़ोर-ज़ोर से उल्टी करते हुए फर्श पर [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] घृणा से ढका हुआ देख रहा है[PAWN_o_a] फर्श पर उल्टी का ढेर [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] मुड़कर उल्टी कर रहा है[PAWN_o_a] दर्द से कराहते हुए उल्टी करते हुए [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] घुटनों के बल, फर्श पर उल्टी कर रहा है। [circumstance_group]</li>
+    <li>circumstance_phrase->दर्द से कराहते हुए</li>
+    <li>circumstance_phrase->बहुत शर्म के साथ</li>
+    <li>circumstance_phrase->जबकि दूसरे देखते रहते हैं।</li>
+    <li>desc_sentence->[PAWN_pronoun] बिलकुल अनजान लगता है[PAWN_o_a] अपने आसपास क्या हो रहा है।</li>
+    <li>desc_sentence->उसका चेहरा सूजा हुआ लग रहा है।</li>
+    <li>desc_sentence->[PAWN_pronoun] लगभग बेहोश है, जीभ बाहर निकली हुई है।</li>
+    <li>desc_sentence->[PAWN_pronoun] [PAWN_pronoun] हिंसक रूप से ऐंठन कर रहा है।</li>
+    <li>desc_sentence->[PAWN_pronoun] शर्मिंदा दिख रहा है[PAWN_o_a]।</li>
+    <li>desc_sentence->[PAWN_pronoun] हालात के बावजूद, [PAWN_pronoun] हंसने की कोशिश कर रहा/रही है।</li>
+    <li>desc_sentence->[PAWN_pronoun] लगभग फुस्स दिख रहा है[PAWN_o_a]जैसे कि बहुत उल्टी करने से पूरी तरह खाली हो गया हो।</li>
+    <li>desc_sentence->[PAWN_pronoun] घिरा हुआ है[PAWN_o_a] गंदगी के कलात्मक प्रभामंडल से।</li>
+    <li>desc_sentence->एक [Animal] दूरी से देख रहा है।</li>
+  </Vomited.rulePack.rulesStrings>
+  
+  <!-- EN: walked naked -->
+  <WalkedNaked.label>नंगे पैर चला गया</WalkedNaked.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] walking around naked</li>
+    <li>image->[PAWN_nameFull] [nude_action] while in a state of nature [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action] in the nude [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action], naked, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action] without any clothes on [circumstance_group]</li>
+    <li>nude_action->prancing</li>
+    <li>nude_action->frolicking</li>
+    <li>nude_action->gambolling</li>
+    <li>nude_action->walking</li>
+    <li>nude_action->strutting [PAWN_possessive] stuff</li>
+    <li>nude_action->sashaying</li>
+    <li>nude_action->tiptoeing</li>
+    <li>nude_action->promenading</li>
+    <li>nude_action->surveying the area</li>
+    <li>circumstance_phrase->with a sense of purpose</li>
+    <li>circumstance_phrase->with no hint of shame</li>
+    <li>circumstance_phrase->while others look on</li>
+    <li>circumstance_phrase->for no apparent reason</li>
+    <li>circumstance_phrase->while confused animals look on</li>
+    <li>desc_sentence->[PAWN_nameDef] is visibly aroused.</li>
+    <li>desc_sentence->[PAWN_nameDef] is covered in unexplained moisture.</li>
+    <li>desc_sentence->[PAWN_nameDef] is breathing heavily for no obvious reason.</li>
+    <li>desc_sentence->[PAWN_nameDef] is fondling a shrub.</li>
+  -->
+  <WalkedNaked.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] नग्न घूम रहा था[PAWN_o_a]</li>
+    <li>image->[PAWN_nameFull] [nude_action] पूरी तरह से स्वाभाविक रूप से [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action] सिर्फ़ अपने जूते पहने हुए [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action], नग्न[PAWN_o_a], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [nude_action] बिना किसी कपड़े के [circumstance_group]</li>
+    <li>nude_action->कूदना</li>
+    <li>nude_action->उछल-कूद करते हुए</li>
+    <li>nude_action->उछल-कूद करते हुए</li>
+    <li>nude_action->चल रहा है</li>
+    <li>nude_action->अपना सामान दिखाते हुए</li>
+    <li>nude_action->हिप हिलाकर चलते हुए</li>
+    <li>nude_action->उँगलियों के बल चलते हुए</li>
+    <li>nude_action->घूमते हुए</li>
+    <li>nude_action->क्षेत्र का सर्वेक्षण कर रहा है</li>
+    <li>circumstance_phrase->कर्तव्य की भावना के साथ</li>
+    <li>circumstance_phrase->बिना किसी शर्म के</li>
+    <li>circumstance_phrase->जबकि दूसरे देखते रहते हैं।</li>
+    <li>circumstance_phrase->बिना किसी स्पष्ट कारण के</li>
+    <li>circumstance_phrase->जबकि कुछ भ्रमित जानवर देख रहे हैं।</li>
+    <li>desc_sentence->[PAWN_nameDef] स्पष्ट रूप से उत्तेजित दिख रहा है[PAWN_o_a]।</li>
+    <li>desc_sentence->[PAWN_nameDef] पूरी तरह से नम है[PAWN_o_a].</li>
+    <li>desc_sentence->[PAWN_nameDef] पूरी तरह से उत्तेजित प्रतीत होता है[PAWN_o_a]।</li>
+    <li>desc_sentence->[PAWN_nameDef] रणनीतिक रूप से स्थित एक झाड़ी के पीछे है।</li>
+  </WalkedNaked.rulePack.rulesStrings>
+  
+  <!-- EN: on fire -->
+  <WasOnFire.label>आग लगी हुई</WasOnFire.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] catching fire</li>
+    <li>image->[PAWN_nameFull] frantically beating out a fire attached to [PAWN_possessive] body [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] enveloped by flame [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] kneeling, hands over head, trying to extinguish flames on [PAWN_possessive] body [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] rolling on the floor while burning [circumstance_group]</li>
+    <li>circumstance_phrase->while others look on</li>
+    <li>circumstance_phrase->while nearly naked</li>
+    <li>circumstance_phrase->with focused intent</li>
+    <li>desc_sentence->[PAWN_possessive] flesh is visibly charring.</li>
+    <li>desc_sentence->[PAWN_possessive] eyes are wide with panic.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to be barely conscious; [PAWN_possessive] eyes are lifeless.</li>
+    <li>desc_sentence->[PAWN_possessive] mouth is open as [PAWN_pronoun] screams for help.</li>
+    <li>desc_sentence->The flames are about to envelope [PAWN_possessive] head.</li>
+    <li>desc_sentence->A symbolic halo of fire surrounds [PAWN_possessive] face.</li>
+    <li>desc_sentence->[PAWN_pronoun] is laughing maniacally.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to be losing [PAWN_objective]self.</li>
+    <li>desc_sentence->A plume of smoke is rising off [PAWN_objective].</li>
+    <li>desc_sentence->[PAWN_pronoun] is rendered artistically in a corpse-like way.</li>
+  -->
+  <WasOnFire.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] आग लग गई</li>
+    <li>image->[PAWN_nameFull] [PAWN_nameFull] अपने शरीर पर लगी आग को उन्मत्तता से बुझाने की कोशिश कर रहा है [circumstance_group] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] आग से घिरा[PAWN_o_a] आग में लिपटा [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] घुटनों के बल, सिर पर हाथ रखकर, अपने आप को बुझाने की कोशिश कर रहा है। [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ज़मीन पर लुढ़कते हुए जलते हुए [circumstance_group]</li>
+    <li>circumstance_phrase->जबकि दूसरे देखते रहते हैं।</li>
+    <li>circumstance_phrase->लगभग नग्न[PAWN_o_a]</li>
+    <li>circumstance_phrase->मजबूत इरादे से</li>
+    <li>desc_sentence->उसका मांस बुरी तरह जल रहा है।</li>
+    <li>desc_sentence->उसकी आँखें पूरी तरह से खुली हैं।</li>
+    <li>desc_sentence->[PAWN_pronoun] लगता है जैसे मुश्किल से होश में है।</li>
+    <li>desc_sentence->[PAWN_pronoun] मदद के लिए चिल्ला रहा है।</li>
+    <li>desc_sentence->लौह उनके सिर पर छाने वाले हैं।</li>
+    <li>desc_sentence->आग का एक प्रतीकात्मक प्रभामंडल उसके चेहरे को घेरे हुए है।</li>
+    <li>desc_sentence->[PAWN_pronoun] [PAWN_pronoun] उन्मादपूर्वक हंस रहा है।</li>
+    <li>desc_sentence->[PAWN_pronoun] पागल होने लगता है[PAWN_o_a]।</li>
+    <li>desc_sentence->उसके शरीर से धुएं का एक गुबार आसमान की ओर उठ रहा है।</li>
+    <li>desc_sentence->[PAWN_pronoun] [PAWN_pronoun] को कलात्मक रूप से मुर्दा जैसा दर्शाया गया है।</li>
+  </WasOnFire.rulePack.rulesStrings>
+  
+</LanguageData>

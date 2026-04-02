@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: collapse dodged -->
+  <CollapseDodged.label>बचाव हुआ ढहने से</CollapseDodged.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] dodging a cave-in</li>
+    <li>tale_noun->[PAWN_nameDef] nearly crushed by falling objects</li>
+    <li>image->[PAWN_nameFull] leaping away from a collapse of debris [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] narrowly avoiding a cave-in [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] avoiding a falling ceiling [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] avoiding certain death by a falling rock [circumstance_group]</li>
+    <li>circumstance_phrase->that vanishes behind a curtain of debris and dust</li>
+    <li>circumstance_phrase->that pulverizes everything beneath it</li>
+    <li>circumstance_phrase->which impacts with incredible force</li>
+    <li>desc_sentence->[PAWN_pronoun] is sweating with exertion.</li>
+    <li>desc_sentence->[PAWN_pronoun] appears to be terrified.</li>
+    <li>desc_sentence->[PAWN_pronoun] is scratched and bleeding.</li>
+    <li>desc_sentence->[PAWN_pronoun] has lost [PAWN_possessive] balance.</li>
+  -->
+  <CollapseDodged.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] [PAWN_nameDef] ने ढहने से बचा।</li>
+    <li>tale_noun->[PAWN_nameDef] [PAWN_nameDef] लगभग कुछ वस्तुओं के गिरने से कुचल जाने से बाल-बाल बचा।</li>
+    <li>image->[PAWN_nameFull] मलबा ढहने से [PAWN_nameFull] कूद रहा है [circumstance_group] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [PAWN_nameFull] मुश्किल से एक गुफा ढहने से बचे [circumstance_group] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [PAWN_nameFull] छत गिरने से बच रहा है [circumstance_group] [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] [PAWN_nameFull] एक गिरते हुए पत्थर से निश्चित मृत्यु से बचता है [circumstance_group] [circumstance_group]</li>
+    <li>circumstance_phrase->जो मलबे और धूल के पर्दे के पीछे गायब हो जाता है</li>
+    <li>circumstance_phrase->जो उसके नीचे सब कुछ चूर-चूर कर देता है</li>
+    <li>circumstance_phrase->जो अविश्वसनीय बल से टकराता है</li>
+    <li>desc_sentence->वह परिश्रम से पसीना बहा रहा है।</li>
+    <li>desc_sentence->डरा हुआ प्रतीत होता है[PAWN_o_a]।</li>
+    <li>desc_sentence->उस पर खरोंचें हैं और खून बह रहा है।</li>
+    <li>desc_sentence->लगता है जैसे गिरने वाला है।</li>
+  </CollapseDodged.rulePack.rulesStrings>
+  
+  <!-- EN: launched ship -->
+  <LaunchedShip.label>प्रक्षेपित यान</LaunchedShip.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] escaping the planet</li>
+    <li>tale_noun->[PAWN_nameDef] taking off in a spaceship</li>
+    <li>image->[PAWN_nameFull] being launched towards the stars [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] racing towards the heavens [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] accelerating to escape velocity [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] piloting a rocket [circumstance_group]</li>
+    <li>circumstance_phrase->in front of a [TerrainFeature]</li>
+    <li>circumstance_phrase->with incredible force</li>
+    <li>circumstance_phrase->in a plume of dust and rocks</li>
+    <li>circumstance_phrase->with rockets firing dramatically</li>
+    <li>circumstance_phrase->in a precision takeoff</li>
+    <li>desc_sentence->[PAWN_pronoun] is concentrating intently on the controls.</li>
+    <li>desc_sentence->[PAWN_pronoun] has [PAWN_possessive] eyes closed and looks confident.</li>
+    <li>desc_sentence->[PAWN_pronoun] is sleeping, [PAWN_possessive] eyes closed peacefully.</li>
+    <li>desc_sentence->[PAWN_pronoun] is smiling with grim joy.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to be fully in control of the situation.</li>
+    <li>desc_sentence->There is a flame trail licking off the back of the ship.</li>
+    <li>desc_sentence->A nearby [Animal] is looking up, startled.</li>
+    <li>desc_sentence->A [Animal] is fleeing the launch in fear.</li>
+    <li>desc_sentence->There is a [TerrainFeature] in the background.</li>
+    <li>desc_sentence->A [PersonJob] watches silently from afar.</li>
+  -->
+  <LaunchedShip.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] ग्रह से भाग गया</li>
+    <li>tale_noun->[PAWN_nameDef] एक अंतरिक्ष यान में उड़ान भरी</li>
+    <li>image->[PAWN_nameFull] सितारों की ओर फेंका जा रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] आकाश की ओर बढ़ रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] भागने की गति प्राप्त करने के लिए तेज़ी ला रहा है [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] एक रॉकेट उड़ा रहा है [circumstance_group]</li>
+    <li>circumstance_phrase->एक [TerrainFeature] के सामने [TerrainFeature]</li>
+    <li>circumstance_phrase->अविश्वसनीय शक्ति के साथ</li>
+    <li>circumstance_phrase->धूल और चट्टानों के एक स्तंभ में</li>
+    <li>circumstance_phrase->रॉकेट नाटकीय रूप से जल रहे हैं।</li>
+    <li>circumstance_phrase->एक सटीक उड़ान में</li>
+    <li>desc_sentence->[PAWN_pronoun] नियंत्रणों पर ध्यान से केंद्रित है।</li>
+    <li>desc_sentence->उसकी आँखें बंद हैं और आत्मविश्वास से दिखता है[PAWN_o_a] खुद में[PAWN_o_a]।</li>
+    <li>desc_sentence->सो रहा है, साथ [PAWN_possessive]आँखों से शांति से बंद।</li>
+    <li>desc_sentence->वह भयावह आनंद के साथ मुस्कुरा रहा है।</li>
+    <li>desc_sentence->ऐसा लगता है कि उसका स्थिति पर पूरा नियंत्रण है।</li>
+    <li>desc_sentence->जहाज के पिछले हिस्से से लपटों का एक निशान निकल रहा है।</li>
+    <li>desc_sentence->एक नज़दीकी [Animal] ऊपर देख रहा है, हैरान</li>
+    <li>desc_sentence->एक [Animal] प्रक्षेपण से डर के साथ भाग रहा है।</li>
+    <li>desc_sentence->वहाँ एक है [TerrainFeature] पृष्ठभूमि में।</li>
+    <li>desc_sentence->एक [PersonJob] दूर से चुपचाप देखता है।</li>
+  </LaunchedShip.rulePack.rulesStrings>
+  
+  <!-- EN: social fight -->
+  <SocialFight.label>सामाजिक लड़ाई</SocialFight.label>
+  <!-- EN:
+    <li>tale_noun->[INITIATOR_nameDef] [fight_name_present] [RESPONDER_nameDef]</li>
+    <li>image->[INITIATOR_nameFull] insulting [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] taunting [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] threatening [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] intimidating [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] attacking [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] assaulting [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] punching [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] kicking [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] cowering from [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>fight_name_present->assaulting</li>
+    <li>fight_name_present->attacking</li>
+    <li>fight_name_present->fighting</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] insults [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] taunts [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] threatens [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] intimidates [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] attacks [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] assaults [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] punches [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] kicks [INITIATOR_objective]</li>
+    <li>circumstance_phrase->while [RESPONDER_nameDef] cowers from [INITIATOR_objective]</li>
+    <li>desc_sentence->[target] appears without remorse.</li>
+    <li>desc_sentence->[target] is consumed with passionate rage.</li>
+    <li>desc_sentence->[target] has no emotion or expression.</li>
+    <li>desc_sentence->[target]'s body is covered in [Gore].</li>
+    <li>desc_sentence->[target] is screaming furiously.</li>
+    <li>desc_sentence->[target] is visibly wounded.</li>
+    <li>desc_sentence->[target]'s eyes are glowing [Color].</li>
+    <li>target->[INITIATOR_nameDef]</li>
+    <li>target->[RESPONDER_nameDef]</li>
+  -->
+  <SocialFight.rulePack.rulesStrings>
+    <li>tale_noun->[INITIATOR_nameDef] [fight_name_present] को [RESPONDER_nameDef]</li>
+    <li>image->[INITIATOR_nameFull] अपमान करता है [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] उकसाता है [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] धमकी दे रहा है [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] धमकाता है [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] हमला करता है [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] हमला कर रहा है [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] मार रहा है [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] लात [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] से डरकर [RESPONDER_nameFull] [circumstance_group]</li>
+    <li>fight_name_present->हमला कर रहा है</li>
+    <li>fight_name_present->हमला कर रहा है</li>
+    <li>fight_name_present->लड़ा</li>
+    <li>circumstance_phrase->जबकि [RESPONDER_nameDef] अपमान करता है [INITIATOR_objective]</li>
+    <li>circumstance_phrase->जबकि [RESPONDER_nameDef] उपहास करता है [INITIATOR_objective]</li>
+    <li>circumstance_phrase->जबकि [RESPONDER_nameDef] धमकाता है [INITIATOR_objective]</li>
+    <li>circumstance_phrase->जबकि [RESPONDER_nameDef] डराता है [INITIATOR_objective]</li>
+    <li>circumstance_phrase->जबकि [RESPONDER_nameDef] हमला करता है [INITIATOR_objective]</li>
+    <li>circumstance_phrase->जबकि [RESPONDER_nameDef] हमला करता है [INITIATOR_objective]</li>
+    <li>circumstance_phrase->जबकि [RESPONDER_nameDef] मारता है [INITIATOR_objective]</li>
+    <li>circumstance_phrase->जबकि [RESPONDER_nameDef] लात मारता है [INITIATOR_objective]</li>
+    <li>circumstance_phrase->जबकि [RESPONDER_nameDef] से डरकर [INITIATOR_objective]</li>
+    <li>desc_sentence->[target] पश्चाताप के बिना प्रकट होता है।</li>
+    <li>desc_sentence->[target] [लक्ष्य] क्रोध से जल रहा है।</li>
+    <li>desc_sentence->[target] उसमें कोई भावना या अभिव्यक्ति नहीं है।</li>
+    <li>desc_sentence->[target] उसका शरीर ढका हुआ है [Gore]।</li>
+    <li>desc_sentence->[target] जोर से चिल्ला रहा है।</li>
+    <li>desc_sentence->[target] स्पष्ट रूप से घायल है।</li>
+    <li>desc_sentence->[target] उसकी आँखें चमक रही हैं [Color]।</li>
+    <li>target->[INITIATOR_nameDef]</li>
+    <li>target->[RESPONDER_nameDef]</li>
+  </SocialFight.rulePack.rulesStrings>
+  
+</LanguageData>

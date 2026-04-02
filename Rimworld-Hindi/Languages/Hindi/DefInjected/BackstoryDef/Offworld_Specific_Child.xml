@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was born during a time of unrest on [PAWN_possessive] homeworld, as climate change threatened mass starvation and flooding. As [PAWN_pronoun] grew up the situation worsened - billions died and peaceful states descended into anarchy. [PAWN_nameDef] and [PAWN_possessive] parents did whatever they had to do to survive. -->
+  <ApocalypseSurvivor23.description>{PAWN_gender ? [PAWN_nameDef] अपने गृह ग्रह पर अशांति के समय पैदा हुई थीं, क्योंकि जलवायु परिवर्तन ने बड़े पैमाने पर भुखमरी और बाढ़ का खतरा पैदा कर दिया था। जैसे-जैसे वह बड़ी हुईं, स्थिति और खराब होती गई - अरबों लोग मर गए और शांतिपूर्ण राज्य अराजकता में डूब गए। [PAWN_nameDef] और उनके माता-पिता ने जीवित रहने के लिए जो कुछ भी करना पड़ा, किया। : [PAWN_nameDef] अपने गृह ग्रह पर अशांति के समय पैदा हुआ था, क्योंकि जलवायु परिवर्तन ने बड़े पैमाने पर भुखमरी और बाढ़ का खतरा पैदा कर दिया था। जैसे-जैसे वह बड़ा हुआ, स्थिति और खराब होती गई - अरबों लोग मर गए और शांतिपूर्ण राज्य अराजकता में डूब गए। [PAWN_nameDef] और उसके माता-पिता ने जीवित रहने के लिए जो कुछ भी करना पड़ा, किया।}</ApocalypseSurvivor23.description>
+  <!-- EN: apocalypse survivor -->
+  <ApocalypseSurvivor23.title>प्रलय उत्तरजीवी</ApocalypseSurvivor23.title>
+  <ApocalypseSurvivor23.titleFemale>प्रलय उत्तरजीवी</ApocalypseSurvivor23.titleFemale>
+  <!-- EN: survivor -->
+  <ApocalypseSurvivor23.titleShort>उत्तरजीवी</ApocalypseSurvivor23.titleShort>
+  <ApocalypseSurvivor23.titleShortFemale>उत्तरजीवी महिला</ApocalypseSurvivor23.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in cave complex deep beneath the surface of an inhospitable world. [PAWN_pronoun] worked with the other children tending the tribe's fungus crops. -->
+  <CaveworldTender26.description>{PAWN_gender ? [PAWN_nameDef] एक शत्रुतापूर्ण दुनिया की सतह के नीचे स्थित एक गुफा परिसर में पली-बढ़ी। उसने अन्य बच्चों के साथ मिलकर जनजाति की फफूंद की फसलों की देखभाल की। : [PAWN_nameDef] एक शत्रुतापूर्ण दुनिया की सतह के नीचे एक गुफा परिसर में बड़ा हुआ। उसने अन्य बच्चों के साथ मिलकर जनजाति की फफूंद की फसलों की देखभाल की।}</CaveworldTender26.description>
+  <!-- EN: caveworld tender -->
+  <CaveworldTender26.title>गुफा पालक</CaveworldTender26.title>
+  <CaveworldTender26.titleFemale>गुफा-पालक</CaveworldTender26.titleFemale>
+  <!-- EN: cave kid -->
+  <CaveworldTender26.titleShort>गुफावासी बालक</CaveworldTender26.titleShort>
+  <CaveworldTender26.titleShortFemale>गुफा निवासी बालिका</CaveworldTender26.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a digger in the massive underground cave complex.\n\n[PAWN_pronoun] knows rock so well that [PAWN_pronoun] can almost navigate caves by smell. -->
+  <CaveworldTunneler48.description>{PAWN_gender ? [PAWN_nameDef] ने विशाल भूमिगत गुफा परिसर में एक खोदने वाली के रूप में काम किया।\n\nवह चट्टानों को इतनी अच्छी तरह से जानती है कि वह लगभग गंध से गुफाओं में नेविगेट कर सकती है। : [PAWN_nameDef] ने विशाल भूमिगत गुफा परिसर में एक खोदने वाले के रूप में काम किया।\n\nवह चट्टानों को इतना अच्छी तरह जानता है कि वह लगभग गंध से गुफाओं में नेविगेट कर सकता है।}</CaveworldTunneler48.description>
+  <!-- EN: caveworld tunneler -->
+  <CaveworldTunneler48.title>गुफा-दुनिया खोदनेवाला</CaveworldTunneler48.title>
+  <CaveworldTunneler48.titleFemale>गुफा-दुनिया सुरंग खोदने वाली</CaveworldTunneler48.titleFemale>
+  <!-- EN: tunneler -->
+  <CaveworldTunneler48.titleShort>सुरंग बनाने वाला</CaveworldTunneler48.titleShort>
+  <CaveworldTunneler48.titleShortFemale>सुरंग खोदने वाली</CaveworldTunneler48.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never knew [PAWN_possessive] parents. [PAWN_possessive] earliest memories were of drudgery in the mines and workhouses of [PAWN_possessive] industrial world.\n\nBecause of this, [PAWN_pronoun] never received a proper education. -->
+  <IndustrialOrphan13.description>{PAWN_gender ? [PAWN_nameDef] को कभी अपने माता-पिता का पता नहीं चला। उसकी शुरुआती यादें उसके औद्योगिक दुनिया के खानों और वर्कहाउसों में की गई कड़ी मेहनत की हैं।\n\nइसी वजह से, उसे कभी उचित शिक्षा नहीं मिल पाई। : [PAWN_nameDef] को कभी अपने माता-पिता का पता नहीं चला। उसकी शुरुआती यादें उसके औद्योगिक दुनिया के खानों और कार्यशालाओं में की गई कड़ी मेहनत की हैं।\n\nइसी वजह से, उसे कभी उचित शिक्षा नहीं मिल पाई।}</IndustrialOrphan13.description>
+  <!-- EN: industrial orphan -->
+  <IndustrialOrphan13.title>औद्योगिक अनाथ</IndustrialOrphan13.title>
+  <IndustrialOrphan13.titleFemale>औद्योगिक अनाथ</IndustrialOrphan13.titleFemale>
+  <!-- EN: orphan -->
+  <IndustrialOrphan13.titleShort>अनाथ बालक</IndustrialOrphan13.titleShort>
+  <IndustrialOrphan13.titleShortFemale>अनाथ लड़की</IndustrialOrphan13.titleShortFemale>
+  
+  <!-- EN: Born to the administrators of a rimworld colony, [PAWN_nameDef] was enrolled in a youth program that taught military scouting skills.\n\n[PAWN_pronoun] learned to survive in the wilderness, to obey, and not to ask questions. -->
+  <Scout44.description>{PAWN_gender ? जन्म से ही एक रिमवर्ल्ड कॉलोनी के प्रशासकों की बेटी, [PAWN_nameDef] को एक युवा कार्यक्रम में दाखिला दिलाया गया था जिसने उसे सैन्य टोही कौशल सिखाए।\n\nउसने जंगल में जीवित रहना, आज्ञाकारिता करना और प्रश्न न पूछना सीखा। : जन्म से ही एक रिमवर्ल्ड कॉलोनी के प्रशासकों के पुत्र, [PAWN_nameDef] को एक युवा कार्यक्रम में दाखिला दिलाया गया था जिसने सैन्य टोही कौशल सिखाए।\n\nउसने जंगल में जीवित रहना, आज्ञाकारिता करना और प्रश्न न पूछना सीखा।}</Scout44.description>
+  <!-- EN: scout -->
+  <Scout44.title>जासूस</Scout44.title>
+  <Scout44.titleFemale>जासूस</Scout44.titleFemale>
+  <!-- EN: scout -->
+  <Scout44.titleShort>जासूस</Scout44.titleShort>
+  <Scout44.titleShortFemale>खुफिया खोजकर्ता महिला</Scout44.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a shelter deep beneath a toxic world. [PAWN_pronoun] received a comprehensive education, but had no opportunity to do physical labour. -->
+  <ShelterChild50.description>{PAWN_gender ? [PAWN_nameDef] एक जहरीली दुनिया के नीचे एक आश्रय में पली-बढ़ी। उसे व्यापक शिक्षा प्राप्त हुई, लेकिन शारीरिक श्रम करने का कोई अवसर नहीं मिला। : [PAWN_nameDef] एक जहरीली दुनिया के नीचे एक आश्रय में बड़ा हुआ। उसे व्यापक शिक्षा प्राप्त हुई, लेकिन शारीरिक श्रम करने का कोई अवसर नहीं मिला।}</ShelterChild50.description>
+  <!-- EN: shelter child -->
+  <ShelterChild50.title>आश्रित बालक</ShelterChild50.title>
+  <ShelterChild50.titleFemale>आश्रित बालिका</ShelterChild50.titleFemale>
+  <!-- EN: shelterkid -->
+  <ShelterChild50.titleShort>आश्रित बालक</ShelterChild50.titleShort>
+  <ShelterChild50.titleShortFemale>आश्रित बालिका</ShelterChild50.titleShortFemale>
+  
+  <!-- EN: On the most corrupt urbworlds, scientists without a moral compass commit unspeakable atrocities in the name of research. [PAWN_nameDef] was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn [PAWN_objective] into a perfect super-soldier. -->
+  <TestSubject15.description>वैज्ञानिकों ने सबसे भ्रष्ट शहरी दुनियाओं में नैतिकताहीन होकर अनुसंधान के नाम पर अकल्पनीय अत्याचार किए। [PAWN_nameDef] को जन्म से ही एक सीलबंद सुविधा में अकेले रखा गया था और उसे एक आदर्श सुपर-सैनिक बनाने के प्रयास में विभिन्न व्यवहारिक प्रयोगों के अधीन किया गया था।</TestSubject15.description>
+  <!-- EN: test subject -->
+  <TestSubject15.title>परीक्षण विषय</TestSubject15.title>
+  <!-- EN: testee -->
+  <TestSubject15.titleShort>{PAWN_gender ? परीक्षार्थी महिला : परीक्षार्थी}</TestSubject15.titleShort>
+  
+  <!-- EN: The urbworlds - ancient and deep industrial cityscapes bursting with humanity and poison. [PAWN_nameDef] grew up in the dark, unwanted reaches of such a place. [PAWN_pronoun] had to fight for every scrap of food. -->
+  <UrbworldUrchin61.description>शहरी दुनियाँ—प्राचीन और गहन औद्योगिक परिदृश्य जो मानवता और विष से भरे हुए हैं। [PAWN_nameDef] का पालन-पोषण ऐसे स्थान के अंधेरे, अवांछित कोनों में हुआ। उसे हर टुकड़े भोजन के लिए लड़ना पड़ा।</UrbworldUrchin61.description>
+  <!-- EN: urbworld urchin -->
+  <UrbworldUrchin61.title>शहरी आवारा</UrbworldUrchin61.title>
+  <UrbworldUrchin61.titleFemale>शहरी आवारा</UrbworldUrchin61.titleFemale>
+  <!-- EN: urchin -->
+  <UrbworldUrchin61.titleShort>भिखारी बालक</UrbworldUrchin61.titleShort>
+  <UrbworldUrchin61.titleShortFemale>बेघर लड़की</UrbworldUrchin61.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was tasked with watching [PAWN_possessive] family's herds, but often shirked [PAWN_possessive] duties to go exploring the crashed warships scattered around the planet. -->
+  <WreckageExplorer93.description>{PAWN_gender ? [PAWN_nameDef] को अपने परिवार के झुंडों की निगरानी करने का काम सौंपा गया था, लेकिन वह अक्सर अपने कर्तव्यों से बचकर ग्रह भर में बिखरे हुए दुर्घटनाग्रस्त युद्धपोतों की खोज करने चली जाती थी। : [PAWN_nameDef] को अपने परिवार के झुंडों की निगरानी करने का काम सौंपा गया था, लेकिन वह अक्सर अपने कर्तव्यों से बचकर ग्रह पर बिखरे हुए दुर्घटनाग्रस्त युद्धपोतों की खोज में चला जाता था।}</WreckageExplorer93.description>
+  <!-- EN: wreckage explorer -->
+  <WreckageExplorer93.title>मलबा अन्वेषक</WreckageExplorer93.title>
+  <WreckageExplorer93.titleFemale>मलबा अन्वेषक</WreckageExplorer93.titleFemale>
+  <!-- EN: explorer -->
+  <WreckageExplorer93.titleShort>अन्वेषक</WreckageExplorer93.titleShort>
+  <WreckageExplorer93.titleShortFemale>अन्वेषिका</WreckageExplorer93.titleShortFemale>
+  
+</LanguageData>

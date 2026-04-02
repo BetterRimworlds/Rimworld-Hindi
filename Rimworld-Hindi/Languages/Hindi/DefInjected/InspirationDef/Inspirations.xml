@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: go frenzy -->
+  <Frenzy_Go.label>उत्तेजित हो जाना</Frenzy_Go.label>
+  <!-- EN: Inspired: Go frenzy -->
+  <Frenzy_Go.baseInspectLine>उत्तेजित: उन्माद</Frenzy_Go.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will move faster for the next 8 days. -->
+  <Frenzy_Go.beginLetter>{PAWN_gender ? वह अगले 8 दिनों तक तेज़ी से चलेगी। : वह अगले 8 दिनों तक तेज़ी से चलेगा।}</Frenzy_Go.beginLetter><!-- EN: [PAWN_pronoun] will move faster for the next 8 days. -->
+  <Frenzy_Go.beginLetterLabel>{PAWN_gender ? अगली 8 दिनों तक गति तेज़ : अगले 8 दिनों तक गति बढ़ेगी।}</Frenzy_Go.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (go frenzy). -->
+  <Frenzy_Go.endMessage>{0} अब प्रेरित नहीं है (पागल हो जाओ)।</Frenzy_Go.endMessage>
+  
+  <!-- EN: shoot frenzy -->
+  <Frenzy_Shoot.label>शूट उन्माद</Frenzy_Shoot.label>
+  <!-- EN: Inspired: Shoot frenzy -->
+  <Frenzy_Shoot.baseInspectLine>शूट उन्माद</Frenzy_Shoot.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will shoot more accurately for the next 8 days. -->
+  <Frenzy_Shoot.beginLetter>{PAWN_gender ? वह अगले 8 दिनों तक अधिक सटीकता से गोली चलाएगी। : वह अगले 8 दिनों तक अधिक सटीकता से गोली चलाएगा।}</Frenzy_Shoot.beginLetter><!-- EN: [PAWN_pronoun] will shoot more accurately for the next 8 days. -->
+  <Frenzy_Shoot.beginLetterLabel>{PAWN_gender ? अगली 8 दिनों तक सटीक निशाना। : अगले ८ दिन सटीक निशानेबाज}</Frenzy_Shoot.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (shoot frenzy). -->
+  <Frenzy_Shoot.endMessage>{0} अब प्रेरित नहीं है (शूट उन्माद)।</Frenzy_Shoot.endMessage>
+  
+  <!-- EN: work frenzy -->
+  <Frenzy_Work.label>कार्य उन्माद</Frenzy_Work.label>
+  <!-- EN: Inspired: Work frenzy -->
+  <Frenzy_Work.baseInspectLine>प्रेरित: कार्य उन्माद</Frenzy_Work.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will work faster for the next 8 days. -->
+  <Frenzy_Work.beginLetter>{PAWN_gender ? वह अगले 8 दिनों तक तेज़ी से काम करेगी। : वह अगले 8 दिनों तक तेज़ी से काम करेगा।}</Frenzy_Work.beginLetter><!-- EN: [PAWN_pronoun] will work faster for the next 8 days. -->
+  <Frenzy_Work.beginLetterLabel>{PAWN_gender ? अगली 8 दिनों तक तेज़ गति। : अगले 8 दिनों तक तेज़ी से काम।}</Frenzy_Work.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (work frenzy). -->
+  <Frenzy_Work.endMessage>{0} अब प्रेरित नहीं है (कार्य उन्माद)।</Frenzy_Work.endMessage>
+  
+  <!-- EN: inspired creativity -->
+  <Inspired_Creativity.label>प्रेरित रचनात्मकता</Inspired_Creativity.label>
+  <!-- EN: Inspired: Inspired creativity -->
+  <Inspired_Creativity.baseInspectLine>प्रेरित: प्रेरित रचनात्मकता</Inspired_Creativity.baseInspectLine>
+  <!-- EN: The next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
+  <Inspired_Creativity.beginLetter>{PAWN_gender ? अगली वस्तु, कलाकृति, या फर्नीचर जो वह बनाएगी, सामान्य से दो गुणवत्ता स्तर अधिक होगी। इससे पौराणिक वस्तुएँ भी बनाई जा सकती हैं।\n\nयह प्रेरणा 8 दिनों के बाद या निर्माण पूरा होने पर समाप्त हो जाएगी। : वह अगली वस्तु, कलाकृति या फर्नीचर जो बनाएगा, सामान्य से दो गुणवत्ता स्तर अधिक होगा। इससे पौराणिक वस्तुओं का निर्माण भी संभव है।\n\nयह प्रेरणा 8 दिनों के बाद या निर्माण पूरा होने पर समाप्त हो जाएगी।}</Inspired_Creativity.beginLetter><!-- EN: The next item, art, or furniture [PAWN_pronoun] creates will be two quality levels higher than it would otherwise be. This even allows the creation of legendary items.\n\nThe inspiration will end after 8 days, or when the creation is completed. -->
+  <Inspired_Creativity.beginLetterLabel>{PAWN_gender ? प्रेरणा: उत्कृष्ट कृतियाँ बनाएँ : प्रेरणा: उत्कृष्ट निर्माणकर्ता}</Inspired_Creativity.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (inspired creativity). -->
+  <Inspired_Creativity.endMessage>{0} अब प्रेरित नहीं है (प्रेरित रचनात्मकता)।</Inspired_Creativity.endMessage>
+  
+  <!-- EN: inspired recruitment -->
+  <Inspired_Recruitment.label>प्रेरित भर्ती</Inspired_Recruitment.label>
+  <!-- EN: Inspired: Inspired recruitment -->
+  <Inspired_Recruitment.baseInspectLine>प्रेरित: प्रेरित भर्ती</Inspired_Recruitment.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance, as long as they are not unwaveringly loyal.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
+  <Inspired_Recruitment.beginLetter>{PAWN_gender ? वह अगली कैदी को सफलतापूर्वक भर्ती करेगी चाहे कठिनाई या प्रतिरोध कुछ भी हो, जब तक कि वे अडिग रूप से वफादार न हों।\n\nप्रेरणा 8 दिनों के बाद समाप्त हो जाएगी, या जब कैदी की भर्ती हो जाएगी। : वह बिना किसी कठिनाई या प्रतिरोध के अगले कैदी की सफलतापूर्वक भर्ती करेगा, जब तक कि वे अडिग रूप से वफादार न हों।\n\nप्रेरणा 8 दिनों के बाद समाप्त हो जाएगी, या जब कैदी की भर्ती हो जाएगी।}</Inspired_Recruitment.beginLetter><!-- EN: [PAWN_pronoun] will successfully recruit the next prisoner regardless of difficulty or resistance, as long as they are not unwaveringly loyal.\n\nThe inspiration will end after 8 days, or when the prisoner is recruited. -->
+  <Inspired_Recruitment.beginLetterLabel>कैदी भर्ती प्रेरणा</Inspired_Recruitment.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (inspired recruitment). -->
+  <Inspired_Recruitment.endMessage>{0} अब प्रेरित नहीं है (प्रेरित भर्ती)।</Inspired_Recruitment.endMessage>
+  
+  <!-- EN: inspired surgery -->
+  <Inspired_Surgery.label>प्रेरित सर्जरी</Inspired_Surgery.label>
+  <!-- EN: Inspired: Inspired surgery -->
+  <Inspired_Surgery.baseInspectLine>प्रेरित: प्रेरित सर्जरी</Inspired_Surgery.baseInspectLine>
+  <!-- EN: The next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
+  <Inspired_Surgery.beginLetter>{PAWN_gender ? अगली बार जब वह सर्जरी करेगी, तो उसकी सफलता की संभावना दोगुनी हो जाएगी। विफलता की एक छोटी सी न्यूनतम संभावना अभी भी लागू होती है।\n\nप्रेरणा 8 दिनों के बाद समाप्त हो जाएगी, या जब सर्जरी की जाएगी। : अगली बार जब वह सर्जरी करेगा, तो उसकी सफलता की संभावना दोगुनी हो जाएगी। विफलता की एक छोटी सी न्यूनतम संभावना अभी भी लागू होती है।\n\nप्रेरणा 8 दिनों के बाद समाप्त हो जाएगी, या जब सर्जरी की जाएगी।}</Inspired_Surgery.beginLetter><!-- EN: The next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
+  <Inspired_Surgery.beginLetterLabel>सर्जरी सफलता संभावना दोगुनी।</Inspired_Surgery.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (inspired surgery). -->
+  <Inspired_Surgery.endMessage>{0} अब प्रेरित नहीं है (प्रेरित सर्जरी)।</Inspired_Surgery.endMessage>
+  
+  <!-- EN: inspired taming -->
+  <Inspired_Taming.label>प्रेरित पालतू बनाना</Inspired_Taming.label>
+  <!-- EN: Inspired: Inspired taming -->
+  <Inspired_Taming.baseInspectLine>प्रेरित: प्रेरित पालतू बनाना</Inspired_Taming.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will successfully tame the next animal regardless of difficulty.\n\nThe inspiration will end after 8 days, or when an animal was tamed. -->
+  <Inspired_Taming.beginLetter>{PAWN_gender ? वह अगली जानवर को सफलतापूर्वक पालने में सफल होगी, चाहे कठिनाई कुछ भी हो।\n\nप्रेरणा 8 दिनों के बाद समाप्त हो जाएगी, या जब एक जानवर को पाल लिया जाएगा। : वह बिना किसी कठिनाई के अगले जानवर को सफलतापूर्वक पालने में सफल होगा।\n\nप्रेरणा 8 दिनों के बाद समाप्त हो जाएगी, या जब एक जानवर को पाल लिया जाएगा।}</Inspired_Taming.beginLetter>
+  <!-- EN: {0} is no longer inspired (inspired taming). -->
+  <Inspired_Taming.endMessage>{0} अब प्रेरित नहीं है (प्रेरित पालतू बनाना)।</Inspired_Taming.endMessage>
+  
+  <!-- EN: inspired trade -->
+  <Inspired_Trade.label>प्रेरित व्यापार</Inspired_Trade.label>
+  <!-- EN: Inspired: Inspired trade -->
+  <Inspired_Trade.baseInspectLine>प्रेरित: प्रेरित व्यापार</Inspired_Trade.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
+  <Inspired_Trade.beginLetter>{PAWN_gender ? वह अपनी अगली व्यापारिक डील को बंद करते समय एक महत्वपूर्ण व्यापार मूल्य बोनस प्राप्त करेगी।\n\nप्रेरणा 8 दिनों के बाद, या जब सौदा हो जाए, समाप्त हो जाएगी। : वह अपने अगले व्यापार समझौते को बंद करते समय एक महत्वपूर्ण व्यापार मूल्य बोनस प्राप्त करेगा।\n\nप्रेरणा 8 दिनों के बाद, या जब सौदा हो जाए, समाप्त हो जाएगी।}</Inspired_Trade.beginLetter><!-- EN: [PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
+  <Inspired_Trade.beginLetterLabel>{PAWN_gender ? व्यापार मूल्य प्रोत्साहन (महिला) : व्यापार मूल्य प्रोत्साहन}</Inspired_Trade.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (inspired trade). -->
+  <Inspired_Trade.endMessage>{0} अब प्रेरित नहीं है (प्रेरित व्यापार)।</Inspired_Trade.endMessage>
+  
+</LanguageData>

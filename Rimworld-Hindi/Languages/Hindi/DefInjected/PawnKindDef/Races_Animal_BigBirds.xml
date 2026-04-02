@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary --><!-- EN: casuario -->
+  <Cassowary.label>कैसुअरिओ</Cassowary.label>
+  <!-- EN: cassowaries --><!-- EN: casuarios -->
+  <Cassowary.labelPlural>कैसुएरिओस</Cassowary.labelPlural><!-- EN: polluelo de casuario -->
+  <Cassowary.lifeStages.0.label>कैसुअरी चूज़ा</Cassowary.lifeStages.0.label><!-- EN: polluela de casuario -->
+  <Cassowary.lifeStages.0.labelFemale>कस्वरी का चूज़ा</Cassowary.lifeStages.0.labelFemale><!-- EN: polluelas de casuario -->
+  <Cassowary.lifeStages.0.labelFemalePlural>कस्वरी चूज़े</Cassowary.lifeStages.0.labelFemalePlural><!-- EN: polluelos de casuario -->
+  <Cassowary.lifeStages.0.labelPlural>कैसुअरी चूजे</Cassowary.lifeStages.0.labelPlural><!-- EN: casuario joven -->
+  <Cassowary.lifeStages.1.label>कैसुअरिओ युवा</Cassowary.lifeStages.1.label><!-- EN: casuarios jóvenes -->
+  <Cassowary.lifeStages.1.labelPlural>युवा कैसारियो</Cassowary.lifeStages.1.labelPlural><!-- EN: casuario -->
+  <Cassowary.lifeStages.2.label>कैसुअरिओ</Cassowary.lifeStages.2.label><!-- EN: casuarios -->
+  <Cassowary.lifeStages.2.labelPlural>कैसुएरिओस</Cassowary.lifeStages.2.labelPlural>
+  
+  <!-- EN: emu --><!-- EN: emú -->
+  <Emu.label>एमू</Emu.label><!-- EN: emúes -->
+  <Emu.labelPlural>एमूज़</Emu.labelPlural><!-- EN: polluelo de emú -->
+  <Emu.lifeStages.0.label>एमू चूज़ा</Emu.lifeStages.0.label><!-- EN: polluela de emú -->
+  <Emu.lifeStages.0.labelFemale>एमू का चूज़ा</Emu.lifeStages.0.labelFemale><!-- EN: polluelas de emú -->
+  <Emu.lifeStages.0.labelFemalePlural>एमू की छोटी चूज़ें</Emu.lifeStages.0.labelFemalePlural><!-- EN: polluelo de emú -->
+  <Emu.lifeStages.0.labelMale>एमू चूज़ा</Emu.lifeStages.0.labelMale><!-- EN: polluelos de emú -->
+  <Emu.lifeStages.0.labelMalePlural>एमू चूजे</Emu.lifeStages.0.labelMalePlural><!-- EN: polluelos de emú -->
+  <Emu.lifeStages.0.labelPlural>एमू चूजे</Emu.lifeStages.0.labelPlural><!-- EN: emú joven -->
+  <Emu.lifeStages.1.label>एमू युवा</Emu.lifeStages.1.label><!-- EN: emúes jóvenes -->
+  <Emu.lifeStages.1.labelPlural>एमू के युवा</Emu.lifeStages.1.labelPlural><!-- EN: emú -->
+  <Emu.lifeStages.2.label>एमू</Emu.lifeStages.2.label><!-- EN: emúes -->
+  <Emu.lifeStages.2.labelPlural>एमूज़</Emu.lifeStages.2.labelPlural>
+  
+  <!-- EN: ostrich --><!-- EN: avestruz -->
+  <Ostrich.label>एवेस्ट्रुज़</Ostrich.label>
+  <!-- EN: ostriches --><!-- EN: avestruces -->
+  <Ostrich.labelPlural>एवेस्ट्रुसेस</Ostrich.labelPlural><!-- EN: polluelo de avestruz -->
+  <Ostrich.lifeStages.0.label>ओस्ट्रिच चूज़ा</Ostrich.lifeStages.0.label><!-- EN: polluela de avestruz -->
+  <Ostrich.lifeStages.0.labelFemale>अंडा देने वाली शुतुरमुर्गी</Ostrich.lifeStages.0.labelFemale><!-- EN: polluelas de avestruz -->
+  <Ostrich.lifeStages.0.labelFemalePlural>अंडा देने वाली शुतुरमुर्गियाँ</Ostrich.lifeStages.0.labelFemalePlural><!-- EN: polluelos de avestruz -->
+  <Ostrich.lifeStages.0.labelPlural>अvestruz चूज़े</Ostrich.lifeStages.0.labelPlural><!-- EN: avestruz joven -->
+  <Ostrich.lifeStages.1.label>युवा एवेस्ट्रुज़</Ostrich.lifeStages.1.label><!-- EN: avestruces jóvenes -->
+  <Ostrich.lifeStages.1.labelPlural>युवा एवेस्ट्रुसेस</Ostrich.lifeStages.1.labelPlural><!-- EN: avestruz -->
+  <Ostrich.lifeStages.2.label>एवेस्ट्रुज़</Ostrich.lifeStages.2.label><!-- EN: avestruces -->
+  <Ostrich.lifeStages.2.labelPlural>एवेस्ट्रुसेस</Ostrich.lifeStages.2.labelPlural>
+  
+</LanguageData>

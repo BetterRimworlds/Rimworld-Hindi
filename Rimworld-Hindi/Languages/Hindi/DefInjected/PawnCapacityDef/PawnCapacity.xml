@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood filtration -->
+  <BloodFiltration.label>रक्त निस्यंदन</BloodFiltration.label>
+  <!-- EN: pneumatics -->
+  <BloodFiltration.labelDrones>वायुयांत्रिकी</BloodFiltration.labelDrones>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>द्रव पुनर्संस्करण</BloodFiltration.labelMechanoids>
+  
+  <!-- EN: blood pumping -->
+  <BloodPumping.label>रक्त परिसंचरण</BloodPumping.label>
+  <!-- EN: battery integrity -->
+  <BloodPumping.labelDrones>बैटरी अखंडता</BloodPumping.labelDrones>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>बिजली उत्पादन</BloodPumping.labelMechanoids>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>सांस लेना</Breathing.label>
+  
+  <!-- EN: consciousness -->
+  <Consciousness.label>चेतना</Consciousness.label>
+  <!-- EN: Sentience -->
+  <Consciousness.labelAnomalyEntity>चेतना</Consciousness.labelAnomalyEntity>
+  <!-- EN: Performance -->
+  <Consciousness.labelDrones>प्रदर्शन</Consciousness.labelDrones>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>डेटा प्रसंस्करण</Consciousness.labelMechanoids>
+  
+  <!-- EN: eating -->
+  <Eating.label>खाना</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>सुनना</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>हेरफेर</Manipulation.label>
+  
+  <!-- EN: digestion -->
+  <Metabolism.label>पाचन</Metabolism.label>
+  
+  <!-- EN: moving -->
+  <Moving.label>स्थानांतरण</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>दृष्टि</Sight.label>
+  
+  <!-- EN: talking -->
+  <Talking.label>बातचीत</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>संचार</Talking.labelMechanoids>
+  
+</LanguageData>

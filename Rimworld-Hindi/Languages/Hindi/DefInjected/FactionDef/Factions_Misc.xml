@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: civil outlander union -->
+  <OutlanderCivil.label>नागरिक बाहरी संघ</OutlanderCivil.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
+  <OutlanderCivil.description>ये लोग दशकों या सदियों से यहाँ रह रहे हैं, और उन्होंने उस तकनीक का अधिकांश भाग खो दिया है जो उन्हें इस दुनिया में ले आई थी। वे आमतौर पर साधारण मशीनरी के साथ काम करते हैं और उन्नत बारूद हथियारों से अपनी रक्षा करते हैं।\n\nवे व्यापार, विश्वास और अस्तित्व के व्यावहारिक मामलों से चिंतित हैं।\n\nयह विशेष समूह सभ्य व्यवहार को उच्च सम्मान में रखता है।</OutlanderCivil.description>
+  <!-- EN: prime councilor -->
+  <OutlanderCivil.leaderTitle>प्रधान पार्षद</OutlanderCivil.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderCivil.messageDefendersAttacking>{0} से {1} आपके {2} पर हमला कर रहे हैं।</OutlanderCivil.messageDefendersAttacking>
+  <!-- EN: outlander -->
+  <OutlanderCivil.pawnSingular>बाहरी व्यक्ति</OutlanderCivil.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderCivil.pawnsPlural>बाहरी लोग</OutlanderCivil.pawnsPlural>
+  
+  <!-- EN: rough outlander union -->
+  <OutlanderRough.label>कच्चा बाहरी संघ</OutlanderRough.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
+  <OutlanderRough.description>ये लोग दशकों या सदियों से यहाँ रह रहे हैं, और उन्होंने उस तकनीक का अधिकांश भाग खो दिया है जो उन्हें इस दुनिया में लाई थी। वे आमतौर पर साधारण मशीनरी के साथ काम करते हैं और उन्नत बारूद हथियारों से अपनी रक्षा करते हैं।\n\nवे व्यापार, विश्वास और अस्तित्व के व्यावहारिक मामलों से चिंतित हैं।\n\nइस विशेष समूह में बर्बरता की प्रवृत्ति है।</OutlanderRough.description>
+  <!-- EN: prime councilor -->
+  <OutlanderRough.leaderTitle>प्रधान पार्षद</OutlanderRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderRough.messageDefendersAttacking>{0} से {1} आपके {2} पर हमला कर रहे हैं।</OutlanderRough.messageDefendersAttacking>
+  <!-- EN: outlander -->
+  <OutlanderRough.pawnSingular>बाहरी व्यक्ति</OutlanderRough.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderRough.pawnsPlural>बाहरी लोग</OutlanderRough.pawnsPlural>
+  
+  <!-- EN: pirate gang -->
+  <Pirate.label>समुद्री डाकू गिरोह</Pirate.label>
+  <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+  <Pirate.description>समुद्री डाकुओं के ढीले गठबंधनों का एक संघ, जिन्होंने अधिकतर बाहरी लोगों से लड़ने और आपस में लड़ने के बजाय सहमति व्यक्त की है।\n\nसमुद्री डाकू बोते नहीं हैं, वे निर्माण नहीं करते हैं, और वे शायद ही कभी व्यापार करते हैं। रक्त और सम्मान की संस्कृति से प्रेरित होकर जो व्यक्तिगत शक्ति और निर्दयता को महत्व देती है, वे अपने अधिक उत्पादक पड़ोसियों पर छापा मारकर और लूटकर खुद को समृद्ध करते हैं।\n\nउनकी प्रौद्योगिकी का स्तर अधिकतर इस बात पर निर्भर करता है कि उन्होंने हाल ही में किससे चोरी की है। ज्यादातर वे बारूद वाले हथियार ले जाते हैं, हालांकि कुछ पीड़ितों को करीब से मारने पसंद करते हैं।</Pirate.description>
+  <!-- EN: boss -->
+  <Pirate.leaderTitle>{PAWN_gender ? बॉस महिला : बॉस}</Pirate.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Pirate.messageDefendersAttacking>{0} से {1} आपके {2} पर हमला कर रहे हैं।</Pirate.messageDefendersAttacking>
+  <!-- EN: pirate -->
+  <Pirate.pawnSingular>समुद्री डाकू</Pirate.pawnSingular>
+  <!-- EN: pirates -->
+  <Pirate.pawnsPlural>समुद्री डाकू</Pirate.pawnsPlural>
+  
+  <!-- EN: gentle tribe -->
+  <TribeCivil.label>कोमल जनजाति</TribeCivil.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
+  <TribeCivil.description>ये लोग यहाँ बहुत लंबे समय से हैं। शायद उनके पूर्वज हज़ार साल पहले यहाँ दुर्घटनाग्रस्त हो गए थे। शायद वे किसी प्रलय से बचे थे जिसने यहाँ एक तकनीकी सभ्यता को नष्ट कर दिया था। किसी भी मामले में, आदिवासी अधिकतर खानाबदोश लोग हैं जो आदिम उपकरणों और हथियारों का उपयोग करके धरती से जीवन यापन करते हैं।\n\nअपनी स्पष्ट तकनीकी कमजोरी के बावजूद, आदिवासी कम-तकनीकी युद्ध, उनकी संख्या और उनकी कठोरता के कारण खतरनाक दुश्मन और मूल्यवान मित्र हो सकते हैं।\n\nयह विशेष जनजाति जहाँ संभव हो, एक सौम्य जीवन शैली का पालन करती है। वे व्यापार और गठबंधनों के लिए काफी खुले हैं, यहाँ तक कि अजीब लोगों के साथ भी।</TribeCivil.description>
+  <!-- EN: chief -->
+  <TribeCivil.leaderTitle>{PAWN_gender ? प्रमुख महिला : प्रमुख}</TribeCivil.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeCivil.messageDefendersAttacking>{0} से {1} आपके {2} पर हमला कर रहे हैं।</TribeCivil.messageDefendersAttacking>
+  <!-- EN: tribesman -->
+  <TribeCivil.pawnSingular>जनजातीय सदस्य</TribeCivil.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeCivil.pawnsPlural>जनजातीय लोग</TribeCivil.pawnsPlural>
+  
+  <!-- EN: fierce tribe -->
+  <TribeRough.label>उग्र जनजाति</TribeRough.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
+  <TribeRough.description>ये लोग यहाँ बहुत लंबे समय से हैं। शायद उनके पूर्वज हज़ार साल पहले यहाँ दुर्घटनाग्रस्त हो गए थे। शायद वे किसी प्रलय से बचे थे जिसने यहाँ एक तकनीकी सभ्यता को नष्ट कर दिया था। किसी भी मामले में, आदिवासी अधिकतर खानाबदोश लोग हैं जो आदिम उपकरणों और हथियारों का उपयोग करके धरती से अपना जीवन यापन करते हैं।\n\nअपनी स्पष्ट तकनीकी कमजोरी के बावजूद, आदिवासी कम-तकनीकी युद्ध, उनकी संख्या और उनकी कठोरता के कारण खतरनाक दुश्मन और मूल्यवान मित्र हो सकते हैं।\n\nयह विशेष जनजाति युद्धप्रिय प्रभुत्व को महत्व देती है; उन्हें सहयोगी बनाना मुश्किल हो सकता है।</TribeRough.description>
+  <!-- EN: chief -->
+  <TribeRough.leaderTitle>{PAWN_gender ? प्रमुख महिला : प्रमुख}</TribeRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeRough.messageDefendersAttacking>{0} से {1} आपके {2} पर हमला कर रहे हैं।</TribeRough.messageDefendersAttacking>
+  <!-- EN: tribesman -->
+  <TribeRough.pawnSingular>जनजातीय सदस्य</TribeRough.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeRough.pawnsPlural>जनजातीय लोग</TribeRough.pawnsPlural>
+  
+  <!-- EN: savage tribe -->
+  <TribeSavage.label>बर्बर जनजाति</TribeSavage.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe is driven by a blood-and-honor culture; you will not be able to ally with them! -->
+  <TribeSavage.description>ये लोग यहाँ बहुत समय से हैं। शायद उनके पूर्वज हज़ार साल पहले यहाँ दुर्घटनाग्रस्त हो गए थे। शायद वे किसी प्रलय से बचे थे जिसने यहाँ एक तकनीकी सभ्यता को नष्ट कर दिया था। किसी भी मामले में, आदिवासी अधिकतर खानाबदोश लोग हैं जो आदिम उपकरणों और हथियारों का उपयोग करके भूमि से अपना जीवन यापन करते हैं।\n\nअपनी स्पष्ट तकनीकी कमजोरी के बावजूद, आदिवासी कम-तकनीकी युद्ध, उनकी संख्या और उनकी कठोरता के कारण खतरनाक दुश्मन हो सकते हैं।\n\nयह विशेष जनजाति रक्त और सम्मान की संस्कृति से प्रेरित है; आप उनके साथ गठबंधन करने में सक्षम नहीं होंगे!</TribeSavage.description>
+  <!-- EN: chief -->
+  <TribeSavage.leaderTitle>{PAWN_gender ? प्रमुख महिला : प्रमुख}</TribeSavage.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeSavage.messageDefendersAttacking>{0} से {1} आपके {2} पर हमला कर रहे हैं।</TribeSavage.messageDefendersAttacking>
+  <!-- EN: tribesman -->
+  <TribeSavage.pawnSingular>जनजातीय सदस्य</TribeSavage.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeSavage.pawnsPlural>जनजातीय लोग</TribeSavage.pawnsPlural>
+  
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: none -->
+  <WorkTagNone>कोई नहीं।</WorkTagNone>
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>बौद्धिक</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
+  <WorkTagManualDumb>मूर्खतापूर्ण श्रम</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
+  <WorkTagManualSkilled>कुशल श्रम</WorkTagManualSkilled>
+  <!-- EN: violent -->
+  <WorkTagViolent>हिंसक</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>गोलीबारी</WorkTagShooting>
+  <!-- EN: caring -->
+  <WorkTagCaring>देखभाल</WorkTagCaring>
+  <!-- EN: social -->
+  <WorkTagSocial>सामाजिक</WorkTagSocial>
+  <!-- EN: animals -->
+  <WorkTagAnimals>पशु</WorkTagAnimals>
+  <!-- EN: artistic -->
+  <WorkTagArtistic>कलात्मक</WorkTagArtistic>
+  <!-- EN: crafting -->
+  <WorkTagCrafting>बनाना</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>पकाना</WorkTagCooking>
+  <!-- EN: firefighting -->
+  <WorkTagFirefighting>अग्नि शमन</WorkTagFirefighting>
+  <!-- EN: cleaning -->
+  <WorkTagCleaning>सफाई</WorkTagCleaning>
+  <!-- EN: hauling -->
+  <WorkTagHauling>ले जाना</WorkTagHauling>
+  <!-- EN: plant work -->
+  <WorkTagPlantWork>पौधे का काम</WorkTagPlantWork>
+  <!-- EN: mining -->
+  <WorkTagMining>खनन</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>शिकार</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>निर्माण</WorkTagConstructing>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>सामान्य कार्य</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>सब काम</WorkTagAllWork>
+
+</LanguageData>

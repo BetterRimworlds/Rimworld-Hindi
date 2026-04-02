@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fleeing. -->
+  <ExitMapFlying.reportString>भाग रहा है।</ExitMapFlying.reportString>
+  
+  <!-- EN: laying egg. -->
+  <LayEgg.reportString>अंडा देना।</LayEgg.reportString>
+  
+  <!-- EN: maintaining TargetA. -->
+  <Maintain.reportString>लक्ष्यA बनाए रखना।</Maintain.reportString>
+  
+  <!-- EN: mating with TargetA. -->
+  <Mate.reportString>लक्ष्यA के साथ संभोग।</Mate.reportString>
+  
+  <!-- EN: nuzzling TargetA. -->
+  <Nuzzle.reportString>नज़दीकी लक्ष्यA.</Nuzzle.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <PredatorHunt.reportString>शिकार लक्ष्यA.</PredatorHunt.reportString>
+  
+</LanguageData>

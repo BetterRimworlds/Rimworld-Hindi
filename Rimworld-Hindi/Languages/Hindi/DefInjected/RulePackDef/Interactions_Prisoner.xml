@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] has accepted and joined [INITIATOR_nameDef]'s community.</li>
+  -->
+  <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] ने स्वीकार किया और से जुड़ गया [INITIATOR_nameDef]के समुदाय</li>
+  </Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] refused.</li>
+  -->
+  <Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] ने प्रस्ताव अस्वीकार कर दिया।</li>
+  </Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+  
+</LanguageData>

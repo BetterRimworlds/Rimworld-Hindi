@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef]'s brain injury has caused [PAWN_objective] to develop strange savant-like abilities. -->
+  <Human.hediffGivers.TraumaSavant.letter>[PAWN_nameDef] को मस्तिष्क की चोट लगने के कारण उसमें अजीब प्रतिभा जैसे कौशल विकसित हो गए हैं।</Human.hediffGivers.TraumaSavant.letter>
+  <!-- EN: Trauma savant -->
+  <Human.hediffGivers.TraumaSavant.letterLabel>आघात विशेषज्ञ</Human.hediffGivers.TraumaSavant.letterLabel>
+  
+</LanguageData>

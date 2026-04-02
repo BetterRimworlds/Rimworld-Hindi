@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: astragalus -->
+  <Plant_Astragalus.label>अस्थिबंधक</Plant_Astragalus.label>
+  <!-- EN: A small perennial wildflower that grows in alpine climates. -->
+  <Plant_Astragalus.description>एक छोटी बारहमासी वनस्पति जो अल्पाइन जलवायु में उगती है।</Plant_Astragalus.description>
+  
+  <!-- EN: berry bush -->
+  <Plant_Berry.label>बेरी झाड़ी</Plant_Berry.label>
+  <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
+  <Plant_Berry.description>एक झाड़ीदार जंगली पौधा जो स्वादिष्ट जामुन देता है। जामुन पकाए जा सकते हैं, लेकिन वे कच्चे खाने में भी अच्छे होते हैं।</Plant_Berry.description>
+  
+  <!-- EN: dandelions -->
+  <Plant_Dandelion.label>डेन्डेलियन</Plant_Dandelion.label>
+  <!-- EN: A tiny yellow flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <Plant_Dandelion.description>एक छोटी पीली फूल जो बड़े गुच्छों में उगती है। अक्सर इसे खरपतवार माना जाता है, फिर भी खिलते हुए डेंडेलियन काफी सुंदर होते हैं।</Plant_Dandelion.description>
+  
+  <!-- EN: moss -->
+  <Plant_Moss.label>काई</Plant_Moss.label>
+  <!-- EN: Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant. -->
+  <Plant_Moss.description>जंगली काई जो कम रोशनी और ठंडे तापमान वाले क्षेत्रों में गुच्छों में बढ़ती है। काई को बढ़ने में लंबा समय लगता है, लेकिन यह बहुत पाले प्रतिरोधी है।</Plant_Moss.description>
+  
+  <!-- EN: birch tree -->
+  <Plant_TreeBirch.label>बर्च वृक्ष</Plant_TreeBirch.label>
+  <!-- EN: A temperate-biome tree known for its thin, white, paper-like bark. -->
+  <Plant_TreeBirch.description>एक समशीतोष्ण बायोम का पेड़ जो अपनी पतली, सफेद, कागज जैसी छाल के लिए जाना जाता है।</Plant_TreeBirch.description>
+  
+  <!-- EN: oak tree -->
+  <Plant_TreeOak.label>ओक वृक्ष</Plant_TreeOak.label>
+  <!-- EN: A hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures. -->
+  <Plant_TreeOak.description>एक कठोर लकड़ी का पेड़। ओक के पेड़ को बढ़ने में लंबा समय लगता है, लेकिन इनकी लकड़ी इतनी मजबूत होती है कि ‘ओक’ शब्द कई संस्कृतियों में शक्ति के लिए एक रूपक के रूप में इस्तेमाल किया जाता है।</Plant_TreeOak.description>
+  
+  <!-- EN: pine tree -->
+  <Plant_TreePine.label>देवदार</Plant_TreePine.label>
+  <!-- EN: A large conifer covered with prickly pine cones. It grows in a distinctive conical shape. -->
+  <Plant_TreePine.description>एक बड़ा शंकुधारी वृक्ष कांटेदार पाइन शंकुओं से ढका है। यह एक विशिष्ट शंक्वाकार आकार में बढ़ता है।</Plant_TreePine.description>
+  
+  <!-- EN: poplar tree -->
+  <Plant_TreePoplar.label>सफेद चोआ</Plant_TreePoplar.label>
+  <!-- EN: A softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees. -->
+  <Plant_TreePoplar.description>एक नरम लकड़ी का पेड़ जो बहुत तेज़ी से बढ़ता है। दुर्भाग्य से, इसकी लकड़ी कमजोर होती है और इसलिए यह कठोर लकड़ी के पेड़ों की तुलना में कम उपयोगी सामग्री देती है।</Plant_TreePoplar.description>
+  
+</LanguageData>

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: destroy apparel -->
+  <DestroyApparel.label>वस्त्र विनाश</DestroyApparel.label>
+  <!-- EN: Use heat to destroy unwanted apparel. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
+  <DestroyApparel.description>गर्मी का उपयोग अवांछित कपड़ों को नष्ट करने के लिए करें। यह प्रक्रिया पिघलाने से तेज़ है, और उन वस्तुओं पर काम करती है जिन्हें पिघलाया नहीं जा सकता, लेकिन कोई संसाधन नहीं देती।</DestroyApparel.description>
+  <!-- EN: Destroying apparel. -->
+  <DestroyApparel.jobString>कपड़ों का विनाश।</DestroyApparel.jobString>
+  
+  <!-- EN: destroy weapon -->
+  <DestroyWeapon.label>हथियार नष्ट करना</DestroyWeapon.label>
+  <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
+  <DestroyWeapon.description>गर्मता का उपयोग अवांछित हथियारों को नष्ट करने के लिए करें। यह प्रक्रिया पिघलाने से तेज़ है, और उन वस्तुओं पर भी काम करती है जिन्हें पिघलाया नहीं जा सकता, लेकिन कोई संसाधन नहीं देती।</DestroyWeapon.description>
+  <!-- EN: Destroying weapon. -->
+  <DestroyWeapon.jobString>हथियार नष्ट करना।</DestroyWeapon.jobString>
+  
+  <!-- EN: smelt metal from slag -->
+  <ExtractMetalFromSlag.label>धातु निष्कर्षण</ExtractMetalFromSlag.label>
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
+  <ExtractMetalFromSlag.description>पिघला हुआ धातु और शक्तिशाली विद्युत चुम्बकों का उपयोग करके स्लैग के टुकड़ों से उपयोगी धातु निकालें।</ExtractMetalFromSlag.description>
+  <!-- EN: Smelting metal from slag. -->
+  <ExtractMetalFromSlag.jobString>धातु गलाकर ढलना।</ExtractMetalFromSlag.jobString>
+  
+  <!-- EN: make chemfuel from organics -->
+  <Make_ChemfuelFromOrganics.label>रासायनिक ईंधन से जैविक</Make_ChemfuelFromOrganics.label>
+  <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
+  <Make_ChemfuelFromOrganics.description>जैविक फीडस्टॉक से बायोफ्यूल निकालकर केमफ्यूल का एक बैच बनाएं।</Make_ChemfuelFromOrganics.description>
+  <!-- EN: feedstock -->
+  <Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>सामग्री</Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>
+  <!-- EN: Refining chemfuel from organics. -->
+  <Make_ChemfuelFromOrganics.jobString>जैविक पदार्थों से रासायनिक ईंधन को परिष्कृत करना।</Make_ChemfuelFromOrganics.jobString>
+  
+  <!-- EN: make chemfuel from wood -->
+  <Make_ChemfuelFromWood.label>लकड़ी से रासायनिक ईंधन</Make_ChemfuelFromWood.label>
+  <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
+  <Make_ChemfuelFromWood.description>लॉग से लकड़ी गैस निकालकर और उसे संघनित करके रासायनिक ईंधन का एक बैच बनाएं।</Make_ChemfuelFromWood.description>
+  <!-- EN: Refining chemfuel from wood. -->
+  <Make_ChemfuelFromWood.jobString>लकड़ी से रासायनिक ईंधन को परिष्कृत करना।</Make_ChemfuelFromWood.jobString>
+  
+  <!-- EN: make component -->
+  <Make_ComponentIndustrial.label>घटक निर्माण</Make_ComponentIndustrial.label>
+  <!-- EN: Make a component. -->
+  <Make_ComponentIndustrial.description>एक घटक बनाएँ।</Make_ComponentIndustrial.description>
+  <!-- EN: Making component. -->
+  <Make_ComponentIndustrial.jobString>घटक बना रहे हैं.</Make_ComponentIndustrial.jobString>
+  
+  <!-- EN: make advanced component -->
+  <Make_ComponentSpacer.label>उन्नत घटक</Make_ComponentSpacer.label>
+  <!-- EN: Make an advanced component. -->
+  <Make_ComponentSpacer.description>उन्नत घटक बनाएँ।</Make_ComponentSpacer.description>
+  <!-- EN: Making advanced component. -->
+  <Make_ComponentSpacer.jobString>उन्नत घटक बना रहे हैं.</Make_ComponentSpacer.jobString>
+  
+  <!-- EN: make patchleather -->
+  <Make_Patchleather.label>चमड़ा पैच</Make_Patchleather.label>
+  <!-- EN: Combine various types of leather to create weak patchleather. -->
+  <Make_Patchleather.description>चमड़े के विभिन्न प्रकारों को मिलाकर कमजोर पैचलेदर बनाया जाता है।</Make_Patchleather.description>
+  <!-- EN: Making patchleather. -->
+  <Make_Patchleather.jobString>पैचलेदर बनाना।</Make_Patchleather.jobString>
+  
+  <!-- EN: make any stone blocks -->
+  <Make_StoneBlocksAny.label>पत्थर के ब्लॉक</Make_StoneBlocksAny.label>
+  <!-- EN: Cut rock chunks into usable stone blocks. -->
+  <Make_StoneBlocksAny.description>चट्टानों के टुकड़ों को उपयोगी पत्थर के ब्लॉकों में काटना।</Make_StoneBlocksAny.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksAny.jobString>चट्टानों को काटना।</Make_StoneBlocksAny.jobString>
+  
+  <!-- EN: smelt apparel -->
+  <SmeltApparel.label>वस्त्र पिघलाना</SmeltApparel.label>
+  <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
+  <SmeltApparel.description>गर्मी और शक्तिशाली विद्युत चुम्बकों का उपयोग करके धातु के परिधान जैसे कवच को उपयोगी संसाधनों में तोड़ा जा सकता है।</SmeltApparel.description>
+  <!-- EN: Smelting apparel. -->
+  <SmeltApparel.jobString>वस्त्र पिघलाना।</SmeltApparel.jobString>
+  
+  <!-- EN: smelt or destroy thing -->
+  <SmeltOrDestroyThing.label>पिघलाना/नष्ट करना</SmeltOrDestroyThing.label>
+  <!-- EN: Use heat and strong electromagnets to break down metallic things like weapons and armor into useful resources, or destroy them if they are not smeltable. -->
+  <SmeltOrDestroyThing.description>गर्मता और शक्तिशाली विद्युत चुम्बकों का उपयोग हथियारों और कवच जैसे धातुई वस्तुओं को उपयोगी संसाधनों में तोड़ने के लिए करें, या यदि वे पिघलने योग्य नहीं हैं तो उन्हें नष्ट कर दें।</SmeltOrDestroyThing.description>
+  <!-- EN: Smelting/destroying things. -->
+  <SmeltOrDestroyThing.jobString>पिघलाना/नष्ट करना।</SmeltOrDestroyThing.jobString>
+  
+  <!-- EN: smelt weapon -->
+  <SmeltWeapon.label>हथियार पिघलाना</SmeltWeapon.label>
+  <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
+  <SmeltWeapon.description>गर्मी और शक्तिशाली विद्युत चुम्बकों का उपयोग करके हथियारों को उपयोगी संसाधनों में तोड़ा जाता है।</SmeltWeapon.description>
+  <!-- EN: Smelting weapon. -->
+  <SmeltWeapon.jobString>हथियार पिघलाना।</SmeltWeapon.jobString>
+  
+</LanguageData>

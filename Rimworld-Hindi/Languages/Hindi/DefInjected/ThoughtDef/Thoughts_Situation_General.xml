@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ratty apparel -->
+  <ApparelDamaged.stages.ratty_apparel.label>गंदा परिधान</ApparelDamaged.stages.ratty_apparel.label>
+  <!-- EN: The holes in my outfit are annoyingly large. Can't I get something new to wear? -->
+  <ApparelDamaged.stages.ratty_apparel.description>मेरे परिधान में छेद बहुत बड़े हैं, जो परेशान कर रहे हैं। क्या मैं पहनने के लिए कुछ नया नहीं पा सकता?</ApparelDamaged.stages.ratty_apparel.description>
+  <!-- EN: tattered apparel -->
+  <ApparelDamaged.stages.tattered_apparel.label>फटे कपड़े</ApparelDamaged.stages.tattered_apparel.label>
+  <!-- EN: This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
+  <ApparelDamaged.stages.tattered_apparel.description>यह चीज़ गिरने वाली लग रही है। क्या मैं ऐसा कुछ नहीं पहन सकता जो कूड़े के ढेर में न हो?</ApparelDamaged.stages.tattered_apparel.description>
+  
+  <!-- EN: tainted {0} -->
+  <DeadMansApparel.stages.tainted.label>दूषित {0}</DeadMansApparel.stages.tainted.label>
+  <!-- EN: I am wearing a piece of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted.description>मैं एक ऐसा परिधान पहने हुए हूँ जिसमें किसी की मृत्यु हुई थी। यह मुझे डराता है और गंदा महसूस होता है।</DeadMansApparel.stages.tainted.description>
+  <!-- EN: tainted {0} (+1) -->
+  <DeadMansApparel.stages.tainted_1.label>दूषित {0} (+1)</DeadMansApparel.stages.tainted_1.label>
+  <!-- EN: I am wearing two pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_1.description>मैं दो ऐसे वस्त्र पहन रहा/रही हूँ जिनमें किसी की मृत्यु हुई थी। यह मुझे डराता/डराती है और गंदा महसूस होता है।</DeadMansApparel.stages.tainted_1.description>
+  <!-- EN: tainted {0} (+2) -->
+  <DeadMansApparel.stages.tainted_2.label>दूषित {0} (+2)</DeadMansApparel.stages.tainted_2.label>
+  <!-- EN: I am wearing three pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_2.description>मैं तीन ऐसे वस्त्र पहन रहा हूँ जिनमें किसी की मृत्यु हुई थी। यह मुझे डराता है और गंदा महसूस होता है।</DeadMansApparel.stages.tainted_2.description>
+  <!-- EN: tainted {0} etc -->
+  <DeadMansApparel.stages.tainted_etc.label>दूषित {0} आदि</DeadMansApparel.stages.tainted_etc.label>
+  <!-- EN: I am wearing four or more pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_etc.description>मैं चार या उससे अधिक ऐसे वस्त्र पहन रहा/रही हूँ जिनमें किसी की मृत्यु हुई थी। यह मुझे डराता/डराती है और मुझे गंदा/गंदी महसूस होता/होती है।</DeadMansApparel.stages.tainted_etc.description>
+  
+  <!-- EN: chilly -->
+  <EnvironmentCold.stages.chilly.label>ठंडापन</EnvironmentCold.stages.chilly.label>
+  <!-- EN: I'm uncomfortably cold. -->
+  <EnvironmentCold.stages.chilly.description>मुझे असहज ठंड लग रही है।</EnvironmentCold.stages.chilly.description>
+  <!-- EN: cold -->
+  <EnvironmentCold.stages.cold.label>सर्दी</EnvironmentCold.stages.cold.label>
+  <!-- EN: I'm so cold, I'm shivering. -->
+  <EnvironmentCold.stages.cold.description>मुझे बहुत ठंड लग रही है, मैं कांप रहा/रही हूँ।</EnvironmentCold.stages.cold.description>
+  <!-- EN: numbing cold -->
+  <EnvironmentCold.stages.numbing_cold.label>ठंडी सुन्नता</EnvironmentCold.stages.numbing_cold.label>
+  <!-- EN: I can't stop shivering. My teeth are chattering. All I can think of is getting warm. -->
+  <EnvironmentCold.stages.numbing_cold.description>मैं कांपना बंद नहीं कर पा रहा/रही हूँ। मेरे दाँत बज रहे हैं। मैं बस गर्म होने के बारे में सोच रहा/रही हूँ।</EnvironmentCold.stages.numbing_cold.description>
+  <!-- EN: absolutely freezing -->
+  <EnvironmentCold.stages.absolutely_freezing.label>गंभीर ठंड</EnvironmentCold.stages.absolutely_freezing.label>
+  <!-- EN: My teeth are chattering so hard I can barely speak. My toes are numb. I need to get warm. -->
+  <EnvironmentCold.stages.absolutely_freezing.description>मेरे दांत इतने जोर से हिल रहे हैं कि मैं मुश्किल से बोल पा रहा हूँ। मेरे पैर की उंगलियां सुन्न हो गई हैं। मुझे गर्मी की ज़रूरत है।</EnvironmentCold.stages.absolutely_freezing.description>
+  
+  <!-- EN: darkness -->
+  <EnvironmentDark.stages.darkness.label>अंधेरा</EnvironmentDark.stages.darkness.label>
+  <!-- EN: I've been in the dark for a while. I don't like it. -->
+  <EnvironmentDark.stages.darkness.description>मैं कुछ समय से अंधेरे में हूँ। मुझे यह पसंद नहीं है।</EnvironmentDark.stages.darkness.description>
+  
+  <!-- EN: sweaty -->
+  <EnvironmentHot.stages.sweaty.label>पसीना</EnvironmentHot.stages.sweaty.label>
+  <!-- EN: It's too hot here. I'm sweating. -->
+  <EnvironmentHot.stages.sweaty.description>यहा बहुत गर्मी है। पसीना आ रहा है।</EnvironmentHot.stages.sweaty.description>
+  <!-- EN: hot -->
+  <EnvironmentHot.stages.hot.label>गर्मी</EnvironmentHot.stages.hot.label>
+  <!-- EN: It's way too hot here. If I could just have a breath of cool air... -->
+  <EnvironmentHot.stages.hot.description>यहा बहुत गर्मी है। अगर मुझे थोड़ी ठंडी हवा मिल जाए…</EnvironmentHot.stages.hot.description>
+  <!-- EN: sweltering hot -->
+  <EnvironmentHot.stages.sweltering_hot.label>गर्म लहर</EnvironmentHot.stages.sweltering_hot.label>
+  <!-- EN: I feel like I'm in an oven! I'm not sure how long I can handle this. -->
+  <EnvironmentHot.stages.sweltering_hot.description>मुझे लग रहा है जैसे मैं तंदूर में हूँ! मुझे यकीन नहीं है कि मैं इसे कितने समय तक सहन कर पाऊँगा।</EnvironmentHot.stages.sweltering_hot.description>
+  <!-- EN: blistering hot -->
+  <EnvironmentHot.stages.blistering_hot.label>तपती गर्मी</EnvironmentHot.stages.blistering_hot.label>
+  <!-- EN: This place is searing hot. I think I could die from this heat! -->
+  <EnvironmentHot.stages.blistering_hot.description>यह जगह भयंकर गर्म है। मुझे लगता है कि मैं इस गर्मी से मर सकता हूँ!</EnvironmentHot.stages.blistering_hot.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparelHappy.stages.human_leather.label>मानव चमड़ा {0}</HumanLeatherApparelHappy.stages.human_leather.label>
+  <!-- EN: I enjoy wearing the suffering of others. -->
+  <HumanLeatherApparelHappy.stages.human_leather.description>दूसरों के दुख को पहनना मुझे पसंद है।</HumanLeatherApparelHappy.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparelHappy.stages.human_leather_1.label>मानव चमड़ा {0} (+1)</HumanLeatherApparelHappy.stages.human_leather_1.label>
+  <!-- EN: This will scare them. All will know my power. -->
+  <HumanLeatherApparelHappy.stages.human_leather_1.description>यह उन्हें डरा देगा। सभी मेरी शक्ति जान जाएंगे।</HumanLeatherApparelHappy.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparelHappy.stages.human_leather_2.label>मानव चमड़ा {0} (+2)</HumanLeatherApparelHappy.stages.human_leather_2.label>
+  <!-- EN: The faces on my clothes aren't smiling, but they make *me* happy. -->
+  <HumanLeatherApparelHappy.stages.human_leather_2.description>मेरे कपड़ों पर बने चेहरे नहीं हंस रहे हैं, लेकिन वे मुझे खुश करते हैं।</HumanLeatherApparelHappy.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparelHappy.stages.human_leather_etc.label>मानव चमड़ा {0} आदि</HumanLeatherApparelHappy.stages.human_leather_etc.label>
+  <!-- EN: The flesh! The flesh signals my triumph! -->
+  <HumanLeatherApparelHappy.stages.human_leather_etc.description>मांस! मांस मेरी विजय का संकेत देता है!</HumanLeatherApparelHappy.stages.human_leather_etc.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparelSad.stages.human_leather.label>मानव चमड़ा {0}</HumanLeatherApparelSad.stages.human_leather.label>
+  <!-- EN: Wearing parts of someone's body is... disturbing. -->
+  <HumanLeatherApparelSad.stages.human_leather.description>किसी के शरीर के अंगों को पहनना परेशान करने वाला है।</HumanLeatherApparelSad.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparelSad.stages.human_leather_1.label>मानव चमड़ा {0} (+1)</HumanLeatherApparelSad.stages.human_leather_1.label>
+  <!-- EN: I'm dressed like an insane person. -->
+  <HumanLeatherApparelSad.stages.human_leather_1.description>मैं एक पागल व्यक्ति की तरह कपड़े पहने हुए हूँ।</HumanLeatherApparelSad.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparelSad.stages.human_leather_2.label>मानव चमड़ा {0} (+2)</HumanLeatherApparelSad.stages.human_leather_2.label>
+  <!-- EN: I think there may be a face on my clothes. Oh no... my clothes *are* a face. -->
+  <HumanLeatherApparelSad.stages.human_leather_2.description>मुझे लगता है कि मेरे कपड़ों पर एक चेहरा है। ओह नहीं… मेरे कपड़े ही एक चेहरा हैं।</HumanLeatherApparelSad.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparelSad.stages.human_leather_etc.label>मानव चमड़ा {0} आदि</HumanLeatherApparelSad.stages.human_leather_etc.label>
+  <!-- EN: I look like a freak from a horror show, and I feel like I'm living in a horror show. -->
+  <HumanLeatherApparelSad.stages.human_leather_etc.description>मैं किसी डरावनी फिल्म के राक्षस जैसा दिखता हूँ, और मुझे लगता है कि मैं एक डरावनी फिल्म में जी रहा हूँ।</HumanLeatherApparelSad.stages.human_leather_etc.description>
+  
+  <!-- EN: I love reading -->
+  <LoveReading.stages.I_love_reading.label>पढ़ना</LoveReading.stages.I_love_reading.label>
+  <!-- EN: Reading really engages my intellectual passions. -->
+  <LoveReading.stages.I_love_reading.description>पढ़ना वास्तव में मेरी बौद्धिक रुचियों को उत्तेजित करता है।</LoveReading.stages.I_love_reading.description>
+  <!-- EN: I really love reading -->
+  <LoveReading.stages.I_really_love_reading.label>पठन</LoveReading.stages.I_really_love_reading.label>
+  <!-- EN: Reading excites my burning intellectual passions! I just love learning this way. -->
+  <LoveReading.stages.I_really_love_reading.description>पढ़ना मेरे तीव्र बौद्धिक उत्साह को प्रज्वलित करता है! मुझे इस तरह से सीखना बहुत पसंद है।</LoveReading.stages.I_really_love_reading.description>
+  
+  <!-- EN: sick -->
+  <Sick.stages.sick.label>बीमार</Sick.stages.sick.label>
+  <!-- EN: I don't feel very well. -->
+  <Sick.stages.sick.description>मुझे अच्छा महसूस नहीं हो रहा है।</Sick.stages.sick.description>
+  
+  <!-- EN: interesting textbook -->
+  <SkillBookPassion.stages.interesting_textbook.label>दिलचस्प पाठ्यपुस्तक</SkillBookPassion.stages.interesting_textbook.label>
+  <!-- EN: This book covers a topic I'm passionate about. It's interesting. -->
+  <SkillBookPassion.stages.interesting_textbook.description>यह पुस्तक एक ऐसे विषय को शामिल करती है जिसके बारे में मैं भावुक हूँ। यह रोचक है।</SkillBookPassion.stages.interesting_textbook.description>
+  <!-- EN: amazing textbook -->
+  <SkillBookPassion.stages.amazing_textbook.label>उत्कृष्ट पाठ्यपुस्तक</SkillBookPassion.stages.amazing_textbook.label>
+  <!-- EN: This book covers a topic I'm very passionate about. It's captivating. -->
+  <SkillBookPassion.stages.amazing_textbook.description>यह पुस्तक एक ऐसे विषय को समाहित करती है जिसके बारे में मैं बहुत भावुक हूँ। यह मनमोहक है।</SkillBookPassion.stages.amazing_textbook.description>
+  
+  <!-- EN: wearing {0} apparel -->
+  <WrongApparelGender.stages.wearing_apparel.label>पहने हुए {0} वस्त्र</WrongApparelGender.stages.wearing_apparel.label>
+  <!-- EN: I'm wearing apparel that was clearly made for {0}s! This is embarrassing. -->
+  <WrongApparelGender.stages.wearing_apparel.description>मैं ऐसे कपड़े पहन रहा हूँ जो स्पष्ट रूप से {0} के लिए बनाए गए थे! यह शर्मनाक है।</WrongApparelGender.stages.wearing_apparel.description>
+  
+</LanguageData>

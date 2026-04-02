@@ -1,0 +1,739 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: release prisoners -->
+  <BasicReleasePrisoner.label>कैदियों को छोड़ें</BasicReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <BasicReleasePrisoner.gerund>छोड़ना</BasicReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <BasicReleasePrisoner.verb>छोड़ना</BasicReleasePrisoner.verb>
+  
+  <!-- EN: build roofs -->
+  <BuildRoofs.label>छत निर्माण</BuildRoofs.label>
+  <!-- EN: building roof -->
+  <BuildRoofs.gerund>छत बनाना</BuildRoofs.gerund>
+  <!-- EN: build roof -->
+  <BuildRoofs.verb>छत बनाना</BuildRoofs.verb>
+  
+  <!-- EN: chat with prisoners -->
+  <ChatWithPrisoner.label>कैदी से बातचीत</ChatWithPrisoner.label>
+  <!-- EN: chatting with -->
+  <ChatWithPrisoner.gerund>बातचीत</ChatWithPrisoner.gerund>
+  <!-- EN: chat with -->
+  <ChatWithPrisoner.verb>बातचीत</ChatWithPrisoner.verb>
+  
+  <!-- EN: clear snow -->
+  <CleanClearSnow.label>बर्फ़ हटाना</CleanClearSnow.label>
+  <!-- EN: clearing snow -->
+  <CleanClearSnow.gerund>बर्फ़ हटाना</CleanClearSnow.gerund>
+  <!-- EN: clear snow -->
+  <CleanClearSnow.verb>बर्फ़ हटाना</CleanClearSnow.verb>
+  
+  <!-- EN: clean filth -->
+  <CleanFilth.label>गंदगी साफ़ करें</CleanFilth.label>
+  <!-- EN: cleaning -->
+  <CleanFilth.gerund>सफाई</CleanFilth.gerund>
+  <!-- EN: clean -->
+  <CleanFilth.verb>साफसफाई</CleanFilth.verb>
+  
+  <!-- EN: deliver resources to blueprints -->
+  <ConstructDeliverResourcesToBlueprints.label>नीलाprints तक संसाधन</ConstructDeliverResourcesToBlueprints.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToBlueprints.gerund>कार्यरत</ConstructDeliverResourcesToBlueprints.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToBlueprints.verb>कार्य</ConstructDeliverResourcesToBlueprints.verb>
+  
+  <!-- EN: deliver resources to frames -->
+  <ConstructDeliverResourcesToFrames.label>संसाधन वितरण</ConstructDeliverResourcesToFrames.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToFrames.gerund>कार्यरत</ConstructDeliverResourcesToFrames.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToFrames.verb>कार्य</ConstructDeliverResourcesToFrames.verb>
+  
+  <!-- EN: construct placed frames -->
+  <ConstructFinishFrames.label>ढांचे स्थापित</ConstructFinishFrames.label>
+  <!-- EN: constructing -->
+  <ConstructFinishFrames.gerund>निर्माण</ConstructFinishFrames.gerund>
+  <!-- EN: construct -->
+  <ConstructFinishFrames.verb>निर्माण</ConstructFinishFrames.verb>
+  
+  <!-- EN: remove floors -->
+  <ConstructRemoveFloors.label>फ़र्श हटाना</ConstructRemoveFloors.label>
+  <!-- EN: removing floor -->
+  <ConstructRemoveFloors.gerund>फ़र्श हटाना</ConstructRemoveFloors.gerund>
+  <!-- EN: remove floor -->
+  <ConstructRemoveFloors.verb>फ़र्श हटाना</ConstructRemoveFloors.verb>
+  
+  <!-- EN: remove foundation -->
+  <ConstructRemoveFoundations.label>नींव हटाना</ConstructRemoveFoundations.label>
+  <!-- EN: removing foundation -->
+  <ConstructRemoveFoundations.gerund>नींव हटाना</ConstructRemoveFoundations.gerund>
+  <!-- EN: remove foundation -->
+  <ConstructRemoveFoundations.verb>नींव हटाना</ConstructRemoveFoundations.verb>
+  
+  <!-- EN: smooth floors -->
+  <ConstructSmoothFloors.label>चिकने फर्श</ConstructSmoothFloors.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothFloors.gerund>चमकाने</ConstructSmoothFloors.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothFloors.verb>चिकनाई</ConstructSmoothFloors.verb>
+  
+  <!-- EN: smooth walls -->
+  <ConstructSmoothWalls.label>चिकनी दीवारें</ConstructSmoothWalls.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothWalls.gerund>चमकाने</ConstructSmoothWalls.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothWalls.verb>चिकनाई</ConstructSmoothWalls.verb>
+  
+  <!-- EN: fill food hoppers -->
+  <CookFillHopper.label>भोजन हॉपर भरें</CookFillHopper.label>
+  <!-- EN: filling -->
+  <CookFillHopper.gerund>भरना</CookFillHopper.gerund>
+  <!-- EN: fill -->
+  <CookFillHopper.verb>भरना</CookFillHopper.verb>
+  
+  <!-- EN: deconstruct structures -->
+  <Deconstruct.label>संरचना विघटन</Deconstruct.label>
+  <!-- EN: deconstructing -->
+  <Deconstruct.gerund>विघटन</Deconstruct.gerund>
+  <!-- EN: deconstruct -->
+  <Deconstruct.verb>विघटन</Deconstruct.verb>
+  
+  <!-- EN: deconstruct structures for blueprints -->
+  <DeconstructForBlueprint.label>संरचना विखंडन</DeconstructForBlueprint.label>
+  <!-- EN: deconstructing -->
+  <DeconstructForBlueprint.gerund>विघटन</DeconstructForBlueprint.gerund>
+  <!-- EN: deconstruct -->
+  <DeconstructForBlueprint.verb>विघटन</DeconstructForBlueprint.verb>
+  
+  <!-- EN: deliver food to prisoners -->
+  <DeliverFoodToPrisoner.label>कैदी भोजन वितरण</DeliverFoodToPrisoner.label>
+  <!-- EN: delivering food for -->
+  <DeliverFoodToPrisoner.gerund>भोजन वितरण</DeliverFoodToPrisoner.gerund>
+  <!-- EN: deliver food for -->
+  <DeliverFoodToPrisoner.verb>भोजन पहुंचाना</DeliverFoodToPrisoner.verb>
+  
+  <!-- EN: deliver resources to blueprints -->
+  <DeliverResourcesToBlueprints.label>नीलाprints तक संसाधन</DeliverResourcesToBlueprints.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToBlueprints.gerund>वितरण</DeliverResourcesToBlueprints.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToBlueprints.verb>वितरण करें</DeliverResourcesToBlueprints.verb>
+  
+  <!-- EN: deliver resources to frames -->
+  <DeliverResourcesToFrames.label>संसाधन वितरण</DeliverResourcesToFrames.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToFrames.gerund>वितरण</DeliverResourcesToFrames.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToFrames.verb>वितरण करें</DeliverResourcesToFrames.verb>
+  
+  <!-- EN: brew liquors -->
+  <DoBillsBrew.label>शराब बनाना</DoBillsBrew.label>
+  <!-- EN: brewing at -->
+  <DoBillsBrew.gerund>शराब बनाना</DoBillsBrew.gerund>
+  <!-- EN: brew at -->
+  <DoBillsBrew.verb>शराब बनाना</DoBillsBrew.verb>
+  
+  <!-- EN: butcher creatures -->
+  <DoBillsButcherFlesh.label>जीव कटना</DoBillsButcherFlesh.label>
+  <!-- EN: butchering at -->
+  <DoBillsButcherFlesh.gerund>कसाई</DoBillsButcherFlesh.gerund>
+  <!-- EN: butcher at -->
+  <DoBillsButcherFlesh.verb>कसाई करना</DoBillsButcherFlesh.verb>
+  
+  <!-- EN: cook meals at stove -->
+  <DoBillsCook.label>भोजन पकाना</DoBillsCook.label>
+  <!-- EN: cooking at -->
+  <DoBillsCook.gerund>खाना बनाना</DoBillsCook.gerund>
+  <!-- EN: cook at -->
+  <DoBillsCook.verb>खाना बनाना</DoBillsCook.verb>
+  
+  <!-- EN: cook meals at campfire -->
+  <DoBillsCookCampfire.label>कैंपफ़ायर पर भोजन</DoBillsCookCampfire.label>
+  <!-- EN: cooking at -->
+  <DoBillsCookCampfire.gerund>खाना बनाना</DoBillsCookCampfire.gerund>
+  <!-- EN: cook at -->
+  <DoBillsCookCampfire.verb>खाना बनाना</DoBillsCookCampfire.verb>
+  
+  <!-- EN: do cremation bills -->
+  <DoBillsCremate.label>शवदाह बिल</DoBillsCremate.label>
+  <!-- EN: cremating at -->
+  <DoBillsCremate.gerund>दाहन</DoBillsCremate.gerund>
+  <!-- EN: cremate at -->
+  <DoBillsCremate.verb>शव दाह</DoBillsCremate.verb>
+  
+  <!-- EN: fabricate things -->
+  <DoBillsFabricationBench.label>निर्माण</DoBillsFabricationBench.label>
+  <!-- EN: fabricating things at -->
+  <DoBillsFabricationBench.gerund>बनाने का काम</DoBillsFabricationBench.gerund>
+  <!-- EN: fabricate things at -->
+  <DoBillsFabricationBench.verb>बनाने का काम</DoBillsFabricationBench.verb>
+  
+  <!-- EN: do bills at campfire -->
+  <DoBillsHaulCampfire.label>कैंपफ़ायर बिल</DoBillsHaulCampfire.label>
+  <!-- EN: working at -->
+  <DoBillsHaulCampfire.gerund>कार्यरत</DoBillsHaulCampfire.gerund>
+  <!-- EN: work at -->
+  <DoBillsHaulCampfire.verb>कार्य</DoBillsHaulCampfire.verb>
+  
+  <!-- EN: make things at machining table -->
+  <DoBillsMachiningTable.label>मशीनीकरण कार्य</DoBillsMachiningTable.label>
+  <!-- EN: working at -->
+  <DoBillsMachiningTable.gerund>कार्यरत</DoBillsMachiningTable.gerund>
+  <!-- EN: work at -->
+  <DoBillsMachiningTable.verb>कार्य</DoBillsMachiningTable.verb>
+  
+  <!-- EN: make apparel -->
+  <DoBillsMakeApparel.label>वस्त्र निर्माण</DoBillsMakeApparel.label>
+  <!-- EN: tailoring at -->
+  <DoBillsMakeApparel.gerund>सिलाई पर</DoBillsMakeApparel.gerund>
+  <!-- EN: tailor at -->
+  <DoBillsMakeApparel.verb>सिलाई पर</DoBillsMakeApparel.verb>
+  
+  <!-- EN: make weapons -->
+  <DoBillsMakeWeapons.label>हथियार बनाना</DoBillsMakeWeapons.label>
+  <!-- EN: smithing at -->
+  <DoBillsMakeWeapons.gerund>लोहारकार्य पर</DoBillsMakeWeapons.gerund>
+  <!-- EN: smith at -->
+  <DoBillsMakeWeapons.verb>लोहार कार्य</DoBillsMakeWeapons.verb>
+  
+  <!-- EN: operate on animals -->
+  <DoBillsMedicalAnimalOperation.label>पशु चिकित्सा</DoBillsMedicalAnimalOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalAnimalOperation.gerund>संचालन</DoBillsMedicalAnimalOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalAnimalOperation.verb>संचालन</DoBillsMedicalAnimalOperation.verb>
+  
+  <!-- EN: operate on humanlikes -->
+  <DoBillsMedicalHumanOperation.label>मानवीय कार्य</DoBillsMedicalHumanOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalHumanOperation.gerund>संचालन</DoBillsMedicalHumanOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalHumanOperation.verb>संचालन</DoBillsMedicalHumanOperation.verb>
+  
+  <!-- EN: synthesize drugs -->
+  <DoBillsProduceDrugs.label>दवा संश्लेषण</DoBillsProduceDrugs.label>
+  <!-- EN: producing drugs at -->
+  <DoBillsProduceDrugs.gerund>दवा उत्पादन</DoBillsProduceDrugs.gerund>
+  <!-- EN: produce drugs at -->
+  <DoBillsProduceDrugs.verb>दवा उत्पादन</DoBillsProduceDrugs.verb>
+  
+  <!-- EN: work at refinery -->
+  <DoBillsRefinery.label>परिष्करण कार्य</DoBillsRefinery.label>
+  <!-- EN: refining chemicals at -->
+  <DoBillsRefinery.gerund>रसायन शोधन</DoBillsRefinery.gerund>
+  <!-- EN: refine chemicals at -->
+  <DoBillsRefinery.verb>रसायन परिष्करण</DoBillsRefinery.verb>
+  
+  <!-- EN: make things at art bench -->
+  <DoBillsSculpt.label>कला बेंच पर निर्माण</DoBillsSculpt.label>
+  <!-- EN: sculpting at -->
+  <DoBillsSculpt.gerund>मूर्तिकला पर</DoBillsSculpt.gerund>
+  <!-- EN: sculpt at -->
+  <DoBillsSculpt.verb>मूर्तिकला करें</DoBillsSculpt.verb>
+  
+  <!-- EN: smelt items -->
+  <DoBillsSmelter.label>पिघलाना</DoBillsSmelter.label>
+  <!-- EN: refining at -->
+  <DoBillsSmelter.gerund>परिष्करण</DoBillsSmelter.gerund>
+  <!-- EN: refine at -->
+  <DoBillsSmelter.verb>परिष्करण</DoBillsSmelter.verb>
+  
+  <!-- EN: make stone blocks -->
+  <DoBillsStonecut.label>पत्थर के ब्लॉक</DoBillsStonecut.label>
+  <!-- EN: cutting stone blocks at -->
+  <DoBillsStonecut.gerund>पत्थर के टुकड़े काटना</DoBillsStonecut.gerund>
+  <!-- EN: cut stone blocks at -->
+  <DoBillsStonecut.verb>पत्थर के टुकड़े काटना पर</DoBillsStonecut.verb>
+  
+  <!-- EN: make things at crafting spot -->
+  <DoBillsUseCraftingSpot.label>बनाने की चीज़ें</DoBillsUseCraftingSpot.label>
+  <!-- EN: crafting at -->
+  <DoBillsUseCraftingSpot.gerund>बनाने पर</DoBillsUseCraftingSpot.gerund>
+  <!-- EN: craft at -->
+  <DoBillsUseCraftingSpot.verb>बनाने पर</DoBillsUseCraftingSpot.verb>
+  
+  <!-- EN: feed animals -->
+  <DoctorFeedAnimals.label>पशु आहार</DoctorFeedAnimals.label>
+  <!-- EN: feeding -->
+  <DoctorFeedAnimals.gerund>खिलाना</DoctorFeedAnimals.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedAnimals.verb>खिलाना</DoctorFeedAnimals.verb>
+  
+  <!-- EN: feed patients -->
+  <DoctorFeedHumanlikes.label>रोगियों का भोजन</DoctorFeedHumanlikes.label>
+  <!-- EN: feeding -->
+  <DoctorFeedHumanlikes.gerund>खिलाना</DoctorFeedHumanlikes.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedHumanlikes.verb>खिलाना</DoctorFeedHumanlikes.verb>
+  
+  <!-- EN: rescue downed allies to bed -->
+  <DoctorRescue.label>गिरे हुए सहयोगियों को बिस्तर</DoctorRescue.label>
+  <!-- EN: rescuing -->
+  <DoctorRescue.gerund>बचाव</DoctorRescue.gerund>
+  <!-- EN: rescue -->
+  <DoctorRescue.verb>बचाव</DoctorRescue.verb>
+  
+  <!-- EN: tend to patients with urgent needs -->
+  <DoctorTendEmergency.label>तत्काल रोगी सेवा</DoctorTendEmergency.label>
+  <!-- EN: tending to -->
+  <DoctorTendEmergency.gerund>देखभाल</DoctorTendEmergency.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendEmergency.verb>देखभाल</DoctorTendEmergency.verb>
+  
+  <!-- EN: tend to animals -->
+  <DoctorTendToAnimals.label>पशुपालन</DoctorTendToAnimals.label>
+  <!-- EN: tending to -->
+  <DoctorTendToAnimals.gerund>देखभाल</DoctorTendToAnimals.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToAnimals.verb>देखभाल</DoctorTendToAnimals.verb>
+  
+  <!-- EN: tend to patients -->
+  <DoctorTendToHumanlikes.label>रोग देखभाल</DoctorTendToHumanlikes.label>
+  <!-- EN: tending to -->
+  <DoctorTendToHumanlikes.gerund>देखभाल</DoctorTendToHumanlikes.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToHumanlikes.verb>देखभाल</DoctorTendToHumanlikes.verb>
+  
+  <!-- EN: tend to self -->
+  <DoctorTendToSelf.label>आत्म-देखभाल</DoctorTendToSelf.label>
+  <!-- EN: tending to -->
+  <DoctorTendToSelf.gerund>देखभाल</DoctorTendToSelf.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToSelf.verb>देखभाल</DoctorTendToSelf.verb>
+  
+  <!-- EN: tend to self -->
+  <DoctorTendToSelfEmergency.label>आत्म-देखभाल</DoctorTendToSelfEmergency.label>
+  <!-- EN: tending to -->
+  <DoctorTendToSelfEmergency.gerund>देखभाल</DoctorTendToSelfEmergency.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToSelfEmergency.verb>देखभाल</DoctorTendToSelfEmergency.verb>
+  
+  <!-- EN: execute prisoners -->
+  <DoExecution.label>कैदियों का निष्पादन</DoExecution.label>
+  <!-- EN: executing -->
+  <DoExecution.gerund>कार्यान्वयन</DoExecution.gerund>
+  <!-- EN: execute -->
+  <DoExecution.verb>कार्यान्वयन</DoExecution.verb>
+  
+  <!-- EN: drill at deep drill -->
+  <Drill.label>गहरा ड्रिलिंग</Drill.label>
+  <!-- EN: drilling -->
+  <Drill.gerund>ड्रिलिंग</Drill.gerund>
+  <!-- EN: drill -->
+  <Drill.verb>खुदाई</Drill.verb>
+  
+  <!-- EN: eject fuel -->
+  <EjectFuel.label>ईंधन निष्कासन</EjectFuel.label>
+  <!-- EN: ejecting fuel from -->
+  <EjectFuel.gerund>ईंधन खाली करना</EjectFuel.gerund>
+  <!-- EN: eject fuel -->
+  <EjectFuel.verb>ईंधन निष्कासन</EjectFuel.verb>
+  
+  <!-- EN: empty egg box -->
+  <EmptyEggBox.label>खाली अंडा डिब्बा</EmptyEggBox.label>
+  <!-- EN: emptying -->
+  <EmptyEggBox.gerund>खाली करना</EmptyEggBox.gerund>
+  <!-- EN: empty -->
+  <EmptyEggBox.verb>खाली</EmptyEggBox.verb>
+  
+  <!-- EN: execute guilty colonists -->
+  <ExecuteGuiltyColonist.label>दोषी उपनिवेशवादियों को निष्पादित करें</ExecuteGuiltyColonist.label>
+  <!-- EN: executing -->
+  <ExecuteGuiltyColonist.gerund>कार्यान्वयन</ExecuteGuiltyColonist.gerund>
+  <!-- EN: execute -->
+  <ExecuteGuiltyColonist.verb>कार्यान्वयन</ExecuteGuiltyColonist.verb>
+  
+  <!-- EN: extract skull -->
+  <ExtractSkull.label>खोपड़ी निकालना</ExtractSkull.label>
+  <!-- EN: extracting skull of -->
+  <ExtractSkull.gerund>खोपड़ी निकालना</ExtractSkull.gerund>
+  <!-- EN: extract -->
+  <ExtractSkull.verb>निकालना</ExtractSkull.verb>
+  
+  <!-- EN: extract trees -->
+  <ExtractTree.label>पेड़ काटना</ExtractTree.label>
+  <!-- EN: extracting -->
+  <ExtractTree.gerund>निष्कर्षण</ExtractTree.gerund>
+  <!-- EN: extract -->
+  <ExtractTree.verb>निकालना</ExtractTree.verb>
+  
+  <!-- EN: feed prisoners -->
+  <FeedPrisoner.label>कैदी भोजन</FeedPrisoner.label>
+  <!-- EN: feeding -->
+  <FeedPrisoner.gerund>खिलाना</FeedPrisoner.gerund>
+  <!-- EN: feed -->
+  <FeedPrisoner.verb>खिलाना</FeedPrisoner.verb>
+  
+  <!-- EN: fight fires -->
+  <FightFires.label>आग बुझाना</FightFires.label>
+  <!-- EN: extinguishing -->
+  <FightFires.gerund>बुझाना</FightFires.gerund>
+  <!-- EN: extinguish -->
+  <FightFires.verb>बुझाना</FightFires.verb>
+  
+  <!-- EN: fill fermenting barrels -->
+  <FillFermentingBarrel.label>किण्वन बैरल भरना</FillFermentingBarrel.label>
+  <!-- EN: filling -->
+  <FillFermentingBarrel.gerund>भरना</FillFermentingBarrel.gerund>
+  <!-- EN: fill -->
+  <FillFermentingBarrel.verb>भरना</FillFermentingBarrel.verb>
+  
+  <!-- EN: fill in -->
+  <FillIn.label>भरना</FillIn.label>
+  <!-- EN: filling in -->
+  <FillIn.gerund>भरना</FillIn.gerund>
+  <!-- EN: fill -->
+  <FillIn.verb>भरें</FillIn.verb>
+  
+  <!-- EN: fix broken-down buildings -->
+  <FixBrokenDownBuilding.label>टूटी इमारतें ठीक करें</FixBrokenDownBuilding.label>
+  <!-- EN: replacing broken components in -->
+  <FixBrokenDownBuilding.gerund>टूटे हुए घटकों को बदलना</FixBrokenDownBuilding.gerund>
+  <!-- EN: replace broken components in -->
+  <FixBrokenDownBuilding.verb>टूटे हुए घटक बदलें</FixBrokenDownBuilding.verb>
+  
+  <!-- EN: flick switches -->
+  <Flick.label>स्विच चालू करें</Flick.label>
+  <!-- EN: flicking switch on -->
+  <Flick.gerund>चालू करना</Flick.gerund>
+  <!-- EN: flick switch on -->
+  <Flick.verb>चालू करें</Flick.verb>
+  
+  <!-- EN: operate ground penetrating scanner -->
+  <GroundPenetratingScan.label>भूमि भेदन स्कैनर</GroundPenetratingScan.label>
+  <!-- EN: scanning at -->
+  <GroundPenetratingScan.gerund>स्कैनिंग</GroundPenetratingScan.gerund>
+  <!-- EN: scan at -->
+  <GroundPenetratingScan.verb>स्कैन करें</GroundPenetratingScan.verb>
+  
+  <!-- EN: harvest crops -->
+  <GrowerHarvest.label>फसल कटाई</GrowerHarvest.label>
+  <!-- EN: harvesting -->
+  <GrowerHarvest.gerund>कटाई</GrowerHarvest.gerund>
+  <!-- EN: harvest -->
+  <GrowerHarvest.verb>कटाई</GrowerHarvest.verb>
+  
+  <!-- EN: sow crops -->
+  <GrowerSow.label>फसल बोना</GrowerSow.label>
+  <!-- EN: sowing -->
+  <GrowerSow.gerund>बुआई</GrowerSow.gerund>
+  <!-- EN: sow -->
+  <GrowerSow.verb>बुआई</GrowerSow.verb>
+  
+  <!-- EN: hack buildings -->
+  <Hack.label>हैकिंग</Hack.label>
+  <!-- EN: hacking -->
+  <Hack.gerund>हैकिंग</Hack.gerund>
+  <!-- EN: hack -->
+  <Hack.verb>छेड़छाड़</Hack.verb>
+  
+  <!-- EN: feed animals -->
+  <HandlingFeedPatientAnimals.label>पशु आहार</HandlingFeedPatientAnimals.label>
+  <!-- EN: feeding -->
+  <HandlingFeedPatientAnimals.gerund>खिलाना</HandlingFeedPatientAnimals.gerund>
+  <!-- EN: feed -->
+  <HandlingFeedPatientAnimals.verb>खिलाना</HandlingFeedPatientAnimals.verb>
+  
+  <!-- EN: haul corpses -->
+  <HaulCorpses.label>शव परिवहन</HaulCorpses.label>
+  <!-- EN: hauling -->
+  <HaulCorpses.gerund>ले जाना</HaulCorpses.gerund>
+  <!-- EN: haul -->
+  <HaulCorpses.verb>ले जाना</HaulCorpses.verb>
+  
+  <!-- EN: haul general things -->
+  <HaulGeneral.label>सामान ढोना</HaulGeneral.label>
+  <!-- EN: hauling -->
+  <HaulGeneral.gerund>ले जाना</HaulGeneral.gerund>
+  <!-- EN: haul -->
+  <HaulGeneral.verb>ले जाना</HaulGeneral.verb>
+  
+  <!-- EN: merge things -->
+  <HaulMerge.label>वस्तु विलय</HaulMerge.label>
+  <!-- EN: merging -->
+  <HaulMerge.gerund>विलय</HaulMerge.gerund>
+  <!-- EN: merge -->
+  <HaulMerge.verb>विलय</HaulMerge.verb>
+  
+  <!-- EN: haul to map -->
+  <HaulToPortal.label>मानचित्र परिवहन</HaulToPortal.label>
+  <!-- EN: loading -->
+  <HaulToPortal.gerund>लोडिंग</HaulToPortal.gerund>
+  <!-- EN: load -->
+  <HaulToPortal.verb>लादना</HaulToPortal.verb>
+  
+  <!-- EN: load caravan -->
+  <HelpGatheringItemsForCaravan.label>कारवाँ लादना</HelpGatheringItemsForCaravan.label>
+  <!-- EN: loading -->
+  <HelpGatheringItemsForCaravan.gerund>लोडिंग</HelpGatheringItemsForCaravan.gerund>
+  <!-- EN: load -->
+  <HelpGatheringItemsForCaravan.verb>लादना</HelpGatheringItemsForCaravan.verb>
+  
+  <!-- EN: hunt -->
+  <HunterHunt.label>शिकार</HunterHunt.label>
+  <!-- EN: hunting -->
+  <HunterHunt.gerund>शिकार</HunterHunt.gerund>
+  <!-- EN: hunt -->
+  <HunterHunt.verb>शिकार</HunterHunt.verb>
+  
+  <!-- EN: load transporters -->
+  <LoadTransporters.label>लोड वाहक</LoadTransporters.label>
+  <!-- EN: loading -->
+  <LoadTransporters.gerund>लोडिंग</LoadTransporters.gerund>
+  <!-- EN: load -->
+  <LoadTransporters.verb>लादना</LoadTransporters.verb>
+  
+  <!-- EN: operate long range scanner -->
+  <LongRangeScan.label>दूरबीन संचालन</LongRangeScan.label>
+  <!-- EN: scanning at -->
+  <LongRangeScan.gerund>स्कैनिंग</LongRangeScan.gerund>
+  <!-- EN: scan at -->
+  <LongRangeScan.verb>स्कैन करें</LongRangeScan.verb>
+  
+  <!-- EN: milk animals -->
+  <Milk.label>पशु दुग्ध</Milk.label>
+  <!-- EN: milking -->
+  <Milk.gerund>दूहन</Milk.gerund>
+  <!-- EN: milk -->
+  <Milk.verb>दूध निकालना</Milk.verb>
+  
+  <!-- EN: mine -->
+  <Mine.label>खनन</Mine.label>
+  <!-- EN: mining -->
+  <Mine.gerund>खनन</Mine.gerund>
+  <!-- EN: mine -->
+  <Mine.verb>खनन</Mine.verb>
+  
+  <!-- EN: open containers -->
+  <Open.label>खोलने वाले पात्र</Open.label>
+  <!-- EN: opening -->
+  <Open.gerund>खुलना</Open.gerund>
+  <!-- EN: open -->
+  <Open.verb>खोलें</Open.verb>
+  
+  <!-- EN: paint buildings -->
+  <PaintBuilding.label>इमारतें रंगना</PaintBuilding.label>
+  <!-- EN: painting -->
+  <PaintBuilding.gerund>चित्रकला</PaintBuilding.gerund>
+  <!-- EN: paint -->
+  <PaintBuilding.verb>चित्रकला</PaintBuilding.verb>
+  
+  <!-- EN: paint floor -->
+  <PaintFloor.label>फर्श रंगना</PaintFloor.label>
+  <!-- EN: painting -->
+  <PaintFloor.gerund>चित्रकला</PaintFloor.gerund>
+  <!-- EN: paint -->
+  <PaintFloor.verb>चित्रकला</PaintFloor.verb>
+  
+  <!-- EN: go to bed for emergency treatment -->
+  <PatientGoToBedEmergencyTreatment.label>तत्काल उपचार हेतु शयन</PatientGoToBedEmergencyTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedEmergencyTreatment.gerund>उपचार प्राप्त करना</PatientGoToBedEmergencyTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedEmergencyTreatment.verb>उपचार प्राप्त करें</PatientGoToBedEmergencyTreatment.verb>
+  
+  <!-- EN: recuperate in bed -->
+  <PatientGoToBedRecuperate.label>बिस्तर पर आराम</PatientGoToBedRecuperate.label>
+  <!-- EN: getting bed rest in -->
+  <PatientGoToBedRecuperate.gerund>बिस्तर पर आराम करना</PatientGoToBedRecuperate.gerund>
+  <!-- EN: get bed rest in -->
+  <PatientGoToBedRecuperate.verb>बिस्तर पर आराम करना</PatientGoToBedRecuperate.verb>
+  
+  <!-- EN: go to bed for treatment -->
+  <PatientGoToBedTreatment.label>बिस्तर पर उपचार</PatientGoToBedTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedTreatment.gerund>उपचार प्राप्त करना</PatientGoToBedTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedTreatment.verb>उपचार प्राप्त करें</PatientGoToBedTreatment.verb>
+  
+  <!-- EN: cut plants -->
+  <PlantsCut.label>पौधों की कटाई</PlantsCut.label>
+  <!-- EN: cutting -->
+  <PlantsCut.gerund>काटना</PlantsCut.gerund>
+  <!-- EN: cut -->
+  <PlantsCut.verb>काटना</PlantsCut.verb>
+  
+  <!-- EN: plant seeds -->
+  <PlantSeed.label>बीज बोना</PlantSeed.label>
+  <!-- EN: planting -->
+  <PlantSeed.gerund>रोपण</PlantSeed.gerund>
+  <!-- EN: plant -->
+  <PlantSeed.verb>पौधा लगाना</PlantSeed.verb>
+  
+  <!-- EN: rearm turrets -->
+  <RearmTurrets.label>तोपें पुनः लोड करें</RearmTurrets.label>
+  <!-- EN: rearming -->
+  <RearmTurrets.gerund>पुनःहथियारबंदी</RearmTurrets.gerund>
+  <!-- EN: rearm -->
+  <RearmTurrets.verb>पुनःसज्जित करें</RearmTurrets.verb>
+  
+  <!-- EN: rebalance penned animals -->
+  <RebalanceAnimalsInPens.label>पशु पुनर्संतुलन</RebalanceAnimalsInPens.label>
+  <!-- EN: roping -->
+  <RebalanceAnimalsInPens.gerund>रस्सी बांधना</RebalanceAnimalsInPens.gerund>
+  <!-- EN: rope -->
+  <RebalanceAnimalsInPens.verb>रस्सी</RebalanceAnimalsInPens.verb>
+  
+  <!-- EN: refuel buildings -->
+  <Refuel.label>इंधन भरें</Refuel.label>
+  <!-- EN: refueling -->
+  <Refuel.gerund>पुनःपूर्ति</Refuel.gerund>
+  <!-- EN: refuel -->
+  <Refuel.verb>पुनःपूर्ति</Refuel.verb>
+  
+  <!-- EN: release prisoners -->
+  <ReleasePrisoner.label>कैदियों को छोड़ें</ReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <ReleasePrisoner.gerund>छोड़ना</ReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <ReleasePrisoner.verb>छोड़ना</ReleasePrisoner.verb>
+  
+  <!-- EN: release to wild -->
+  <ReleaseToWild.label>जंगली छोड़ना</ReleaseToWild.label>
+  <!-- EN: releasing -->
+  <ReleaseToWild.gerund>छोड़ना</ReleaseToWild.gerund>
+  <!-- EN: release -->
+  <ReleaseToWild.verb>छोड़ना</ReleaseToWild.verb>
+  
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.label>रंग हटाना</RemovePaintBuilding.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintBuilding.gerund>रंग हटाना</RemovePaintBuilding.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.verb>रंग हटाना</RemovePaintBuilding.verb>
+  
+  <!-- EN: remove floor paint -->
+  <RemovePaintFloor.label>फ़र्श रंग हटाना</RemovePaintFloor.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintFloor.gerund>रंग हटाना</RemovePaintFloor.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintFloor.verb>रंग हटाना</RemovePaintFloor.verb>
+  
+  <!-- EN: remove roofs -->
+  <RemoveRoofs.label>छत हटाना</RemoveRoofs.label>
+  <!-- EN: removing roof -->
+  <RemoveRoofs.gerund>छत हटाना</RemoveRoofs.gerund>
+  <!-- EN: remove roof -->
+  <RemoveRoofs.verb>छत हटाना</RemoveRoofs.verb>
+  
+  <!-- EN: repair damaged things -->
+  <Repair.label>क्षतिपूर्ति</Repair.label>
+  <!-- EN: repairing -->
+  <Repair.gerund>मरम्मत</Repair.gerund>
+  <!-- EN: repair -->
+  <Repair.verb>मरम्मत</Repair.verb>
+  
+  <!-- EN: replant tree -->
+  <Replant.label>पेड़ रोपना</Replant.label>
+  <!-- EN: replanting -->
+  <Replant.gerund>पुन: रोपण</Replant.gerund>
+  <!-- EN: replant -->
+  <Replant.verb>पुनःरोपण</Replant.verb>
+  
+  <!-- EN: do research -->
+  <Research.label>अनुसंधान</Research.label>
+  <!-- EN: researching at -->
+  <Research.gerund>अनुसंधान पर</Research.gerund>
+  <!-- EN: research at -->
+  <Research.verb>अनुसंधान</Research.verb>
+  
+  <!-- EN: shear animals -->
+  <Shear.label>जानवरों की कतरन</Shear.label>
+  <!-- EN: shearing -->
+  <Shear.gerund>कतरन</Shear.gerund>
+  <!-- EN: shear -->
+  <Shear.verb>कतरन</Shear.verb>
+  
+  <!-- EN: slaughter animals -->
+  <Slaughter.label>जानवरों का वध</Slaughter.label>
+  <!-- EN: slaughtering -->
+  <Slaughter.gerund>कत्लेआम</Slaughter.gerund>
+  <!-- EN: slaughter -->
+  <Slaughter.verb>कत्लेआम</Slaughter.verb>
+  
+  <!-- EN: strip corpses -->
+  <Strip.label>शव निकालना</Strip.label>
+  <!-- EN: stripping -->
+  <Strip.gerund>छीलना</Strip.gerund>
+  <!-- EN: strip -->
+  <Strip.verb>छीलना</Strip.verb>
+  
+  <!-- EN: study archotech structures -->
+  <StudyArchotechStructures.label>आर्कोटेक संरचना अध्ययन</StudyArchotechStructures.label>
+  <!-- EN: studying -->
+  <StudyArchotechStructures.gerund>अध्ययन</StudyArchotechStructures.gerund>
+  <!-- EN: study -->
+  <StudyArchotechStructures.verb>अध्ययन</StudyArchotechStructures.verb>
+  
+  <!-- EN: take beer out of fermenting barrels -->
+  <TakeBeerOutOfFermentingBarrel.label>किण्वन बैरल से बीयर निकालें</TakeBeerOutOfFermentingBarrel.label>
+  <!-- EN: taking beer from -->
+  <TakeBeerOutOfFermentingBarrel.gerund>बीयर लेकर</TakeBeerOutOfFermentingBarrel.gerund>
+  <!-- EN: take beer -->
+  <TakeBeerOutOfFermentingBarrel.verb>बीयर लें</TakeBeerOutOfFermentingBarrel.verb>
+  
+  <!-- EN: take prisoners to bed -->
+  <TakePrisonerToBed.label>कैदियों को बिस्तर पर ले जाएं</TakePrisonerToBed.label>
+  <!-- EN: taking to bed -->
+  <TakePrisonerToBed.gerund>बिस्तर पर ले जाना</TakePrisonerToBed.gerund>
+  <!-- EN: take to bed -->
+  <TakePrisonerToBed.verb>बिस्तर पर ले जाएं</TakePrisonerToBed.verb>
+  
+  <!-- EN: rope roaming animals -->
+  <TakeRoamingAnimalsToPen.label>जानवर घुमाना</TakeRoamingAnimalsToPen.label>
+  <!-- EN: roping -->
+  <TakeRoamingAnimalsToPen.gerund>रस्सी बांधना</TakeRoamingAnimalsToPen.gerund>
+  <!-- EN: rope -->
+  <TakeRoamingAnimalsToPen.verb>रस्सी बनाना</TakeRoamingAnimalsToPen.verb>
+  
+  <!-- EN: take patients to bed for operations -->
+  <TakeToBedToOperate.label>शल्य चिकित्सा हेतु रोगी</TakeToBedToOperate.label>
+  <!-- EN: taking to operate -->
+  <TakeToBedToOperate.gerund>संचालन</TakeToBedToOperate.gerund>
+  <!-- EN: take to operate -->
+  <TakeToBedToOperate.verb>संचालन हेतु</TakeToBedToOperate.verb>
+  
+  <!-- EN: rope animals -->
+  <TakeToPen.label>जानवर रस्सी</TakeToPen.label>
+  <!-- EN: roping -->
+  <TakeToPen.gerund>रस्सी बांधना</TakeToPen.gerund>
+  <!-- EN: rope -->
+  <TakeToPen.verb>रस्सी बनाना</TakeToPen.verb>
+  
+  <!-- EN: tame animals -->
+  <Tame.label>पालतू बनाना</Tame.label>
+  <!-- EN: taming -->
+  <Tame.gerund>पालना</Tame.gerund>
+  <!-- EN: tame -->
+  <Tame.verb>पालना</Tame.verb>
+  
+  <!-- EN: train animals -->
+  <Train.label>पशु प्रशिक्षण</Train.label>
+  <!-- EN: training -->
+  <Train.gerund>प्रशिक्षण</Train.gerund>
+  <!-- EN: train -->
+  <Train.verb>प्रशिक्षण</Train.verb>
+  
+  <!-- EN: uninstall structures -->
+  <Uninstall.label>संरचना निष्कासन</Uninstall.label>
+  <!-- EN: uninstalling -->
+  <Uninstall.gerund>अनइंस्टॉलिंग</Uninstall.gerund>
+  <!-- EN: uninstall -->
+  <Uninstall.verb>अनइंस्टॉल</Uninstall.verb>
+  
+  <!-- EN: unload carriers -->
+  <UnloadCarriers.label>वाहक खाली करना</UnloadCarriers.label>
+  <!-- EN: unloading -->
+  <UnloadCarriers.gerund>उतराई</UnloadCarriers.gerund>
+  <!-- EN: unload -->
+  <UnloadCarriers.verb>उतराई</UnloadCarriers.verb>
+  
+  <!-- EN: visit sick people -->
+  <VisitSickPawn.label>बीमार लोगों का दौरा</VisitSickPawn.label>
+  <!-- EN: visiting -->
+  <VisitSickPawn.gerund>मुलाकात</VisitSickPawn.gerund>
+  <!-- EN: visit -->
+  <VisitSickPawn.verb>देखना</VisitSickPawn.verb>
+  
+</LanguageData>

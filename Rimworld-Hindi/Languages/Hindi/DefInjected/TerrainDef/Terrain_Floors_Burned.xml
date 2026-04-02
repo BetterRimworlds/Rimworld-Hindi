@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burned carpet -->
+  <BurnedCarpet.label>जली कालीन</BurnedCarpet.label>
+  <!-- EN: Burned-out carpet. -->
+  <BurnedCarpet.description>जली हुई कालीन।</BurnedCarpet.description>
+  
+  <!-- EN: burned straw matting -->
+  <BurnedStrawMatting.label>जली हुई भूसा चटाई</BurnedStrawMatting.label>
+  <!-- EN: Straw matting that has been burned in a fire. -->
+  <BurnedStrawMatting.description>फूस की चटाई जो आग में जल गई है।</BurnedStrawMatting.description>
+  
+  <!-- EN: burned wood floor -->
+  <BurnedWoodPlankFloor.label>जली लकड़ी का फर्श</BurnedWoodPlankFloor.label>
+  <!-- EN: Burned-out wood plank flooring. -->
+  <BurnedWoodPlankFloor.description>जली हुई लकड़ी की तख़्त फ़्लोरिंग।</BurnedWoodPlankFloor.description>
+  
+</LanguageData>

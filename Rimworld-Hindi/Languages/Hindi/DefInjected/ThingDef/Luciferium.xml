@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: luciferium -->
+  <Luciferium.label>लूसिफेरियम</Luciferium.label>
+  <!-- EN: A concoction of mechanites that dramatically improve the body's functioning in all respects. Over time, it can even heal old scarred-over wounds or brain damage, though it cannot regenerate lost limbs. Unfortunately, without the moderating effects of regular doses every five or six days, the mechanites lose cohesion, causing continuous berserk rages and, eventually, death.\n\nAfter the first dose, there is no way to get the mechanites out, ever.\n\nOn the urbworlds, they call Luciferium the 'Devil's Bargain'. Many have been forced to kill friends when no more of the seductive red pills could be found. -->
+  <Luciferium.description>यह मैकेनाइट्स का एक मिश्रण है जो हर तरह से शरीर के कार्य को नाटकीय रूप से बेहतर बनाता है। समय के साथ, यह पुराने घावों या मस्तिष्क क्षति को भी ठीक कर सकता है, हालांकि यह खोए हुए अंगों को पुनर्जीवित नहीं कर सकता। दुर्भाग्य से, नियमित खुराक के बिना हर पांच या छह दिन में, मैकेनाइट्स अपनी एकजुटता खो देते हैं, जिससे लगातार उन्मादी क्रोध और अंततः मृत्यु हो जाती है।\n\nपहली खुराक के बाद, मैकेनाइट्स को बाहर निकालने का कोई तरीका नहीं है, कभी नहीं।\n\nशहरी दुनियाएँ में, वे लूसिफेरियम को 'शैतान का सौदा' कहते हैं। कई लोगों को मजबूर होना पड़ा है कि जब अधिक आकर्षक लाल गोलियाँ नहीं मिल सकीं तो वे दोस्तों को मार डालें।</Luciferium.description>
+  <!-- EN: Take {0} -->
+  <Luciferium.ingestible.ingestCommandString>{0} लें</Luciferium.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <Luciferium.ingestible.ingestReportString>ले रहा {0}</Luciferium.ingestible.ingestReportString>
+  
+</LanguageData>

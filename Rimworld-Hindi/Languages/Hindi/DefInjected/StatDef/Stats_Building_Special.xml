@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rest effectiveness -->
+  <BedRestEffectiveness.label>आराम प्रभावशीलता</BedRestEffectiveness.label>
+  <!-- EN: How fast people sleeping on this gain rest. -->
+  <BedRestEffectiveness.description>सोने पर लोग कितनी जल्दी आराम प्राप्त करते हैं।</BedRestEffectiveness.description>
+  
+  <!-- EN: door opening speed -->
+  <DoorOpenSpeed.label>दरवाजा खुलने की गति</DoorOpenSpeed.label>
+  <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
+  <DoorOpenSpeed.description>बिना ऊर्जा के दरवाज़ा खुलने की गति।\n\nधीमे दरवाज़े उनका उपयोग करने वाले सभी लोगों को धीमा कर देंगे।</DoorOpenSpeed.description>
+  
+  <!-- EN: immunity gain speed factor -->
+  <ImmunityGainSpeedFactor.label>प्रतिरक्षा गति कारक</ImmunityGainSpeedFactor.label>
+  <!-- EN: Immunity gain speed is multiplied by this value. -->
+  <ImmunityGainSpeedFactor.description>प्रतिरक्षा प्राप्ति की गति इस मान से गुणा होती है।</ImmunityGainSpeedFactor.description>
+  
+  <!-- EN: recreation power -->
+  <JoyGainFactor.label>मनोरंजन शक्ति</JoyGainFactor.label>
+  <!-- EN: How effectively this item entertains people and fulfills the need for recreation. -->
+  <JoyGainFactor.description>यह वस्तु लोगों को कितनी अच्छी तरह से मनोरंजन प्रदान करती है और मनोरंजन की आवश्यकता को पूरा करती है।</JoyGainFactor.description>
+  
+  <!-- EN: medical tend quality offset -->
+  <MedicalTendQualityOffset.label>चिकित्सा गुणवत्ता अंतर</MedicalTendQualityOffset.label>
+  <!-- EN: Medical tend quality is offset by this value. -->
+  <MedicalTendQualityOffset.description>चिकित्सा देखभाल की गुणवत्ता इस मान से प्रभावित होती है।</MedicalTendQualityOffset.description>
+  
+  <!-- EN: max power output -->
+  <PowerPlantMaxPowerOuput.label>अधिकतम शक्ति उत्पादन</PowerPlantMaxPowerOuput.label>
+  <!-- EN: The maximum power that this generator can output in ideal conditions. -->
+  <PowerPlantMaxPowerOuput.description>यह जनरेटर आदर्श परिस्थितियों में अधिकतम कितनी शक्ति उत्पन्न कर सकता है।</PowerPlantMaxPowerOuput.description>
+  <!-- EN: {0} W -->
+  <PowerPlantMaxPowerOuput.formatString>{0} वट</PowerPlantMaxPowerOuput.formatString>
+  
+  <!-- EN: research speed factor -->
+  <ResearchSpeedFactor.label>शोध गति गुणक</ResearchSpeedFactor.label>
+  <!-- EN: The speed at which people do research is multiplied by this value. -->
+  <ResearchSpeedFactor.description>यह मान लोगों द्वारा किए जाने वाले अनुसंधान की गति को गुणा करता है।</ResearchSpeedFactor.description>
+  <!-- EN: Room cleanliness -->
+  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>कमरा स्वच्छता</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+  <!-- EN: Reading bonus -->
+  <ResearchSpeedFactor.parts.Reading_bonus.customLabel>पठन बोनस</ResearchSpeedFactor.parts.Reading_bonus.customLabel>
+  
+  <!-- EN: reading bonus -->
+  <RoomReadingBonus.label>पढ़ने का लाभ</RoomReadingBonus.label>
+  <!-- EN: Provides a bonus to research speed, XP gained from reading, and recreation gained from reading in the same room as the bookcase. This is increased by placing more and higher quality books in the bookcase. -->
+  <RoomReadingBonus.description>पुस्तकालय अनुसंधान गति, पढ़ने से प्राप्त अनुभव और पुस्तकालय के पास पढ़ने से प्राप्त मनोरंजन में वृद्धि करता है। यह पुस्तकालय में अधिक और उच्च गुणवत्ता वाली पुस्तकें रखने से और बढ़ जाता है।</RoomReadingBonus.description>
+  <!-- EN: Reading bonus -->
+  <RoomReadingBonus.parts.Reading_bonus.customLabel>पठन बोनस</RoomReadingBonus.parts.Reading_bonus.customLabel>
+  
+  <!-- EN: surgery success chance factor -->
+  <SurgerySuccessChanceFactor.label>सर्जरी सफलता कारक</SurgerySuccessChanceFactor.label>
+  <!-- EN: A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
+  <SurgerySuccessChanceFactor.description>यहाँ किए गए ऑपरेशन के सफल होने की संभावना का गुणक।\n\nसर्जरी की सफलता की संभावनाएँ कई अन्य कारकों से भी प्रभावित होती हैं, जिनमें सर्जन की क्षमता और इस्तेमाल की गई दवा शामिल है।</SurgerySuccessChanceFactor.description>
+  <!-- EN: Room cleanliness -->
+  <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>कमरा स्वच्छता</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
+  
+  <!-- EN: trap melee damage -->
+  <TrapMeleeDamage.label>जाल नज़दीकी युद्ध क्षति</TrapMeleeDamage.label>
+  <!-- EN: How much damage this trap does on average per hit. Each trap hits multiple times.\n\nThe actual damage in any instance will vary randomly. -->
+  <TrapMeleeDamage.description>यह जाल प्रति प्रहार औसतन कितनी क्षति करता है। प्रत्येक जाल कई बार प्रहार करता है।\n\nकिसी भी उदाहरण में वास्तविक क्षति यादृच्छिक रूप से भिन्न होगी।</TrapMeleeDamage.description>
+  
+  <!-- EN: trap spring chance -->
+  <TrapSpringChance.label>जाल स्प्रिंग संभावना</TrapSpringChance.label>
+  <!-- EN: The likelihood that the trap will spring when an unaware creature passes over it. -->
+  <TrapSpringChance.description>फंदा के सक्रिय होने की संभावना जब कोई अनजान प्राणी इसके ऊपर से गुजरे।</TrapSpringChance.description>
+  
+  <!-- EN: work efficiency factor -->
+  <WorkTableEfficiencyFactor.label>कार्य दक्षता गुणक</WorkTableEfficiencyFactor.label>
+  <!-- EN: Work efficiency is multiplied by this value. -->
+  <WorkTableEfficiencyFactor.description>यह मान कार्य दक्षता को गुणा करता है।</WorkTableEfficiencyFactor.description>
+  
+  <!-- EN: work speed factor -->
+  <WorkTableWorkSpeedFactor.label>कार्य गति कारक</WorkTableWorkSpeedFactor.label>
+  <!-- EN: Work speed is multiplied by this value. -->
+  <WorkTableWorkSpeedFactor.description>कार्य गति इस मान से गुणा की जाती है।</WorkTableWorkSpeedFactor.description>
+  
+  <!-- EN: work to build -->
+  <WorkToBuild.label>निर्माण कार्य</WorkToBuild.label>
+  <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered.\n\nThe work required to deconstruct the structure is also based on this. -->
+  <WorkToBuild.description>संरचना बनाने में लगने वाली बुनियादी मेहनत, एक बार सभी सामग्री जुटा लेने के बाद।\n\nसंरचना को नष्ट करने के लिए आवश्यक मेहनत भी इसी पर आधारित है।</WorkToBuild.description>
+  
+</LanguageData>

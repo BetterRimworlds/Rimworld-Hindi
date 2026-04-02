@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arresting worsens faction relations -->
+  <ArrestingCreatesEnemies.label>गिरफ्तारी गुट संबंध बिगाड़ती है</ArrestingCreatesEnemies.label>
+  <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist or a colonist from another faction, their entire faction may become your enemy. \n\nThis arrest has a {0} chance of succeeding, based on the social skill of the arrester. -->
+  <ArrestingCreatesEnemies.helpText>चेतावनी: आप जिस व्यक्ति को गिरफ्तार करने का प्रयास कर रहे हैं, वह शांति से नहीं जा सकता है।\n\nयदि आप किसी गैर-कॉलोनीवादी या किसी अन्य गुट के कॉलोनीवादी को गिरफ्तार करते हैं, तो उनका पूरा गुट आपका दुश्मन बन सकता है।\n\nइस गिरफ्तारी की सफलता की {0} संभावना है, जो गिरफ्तार करने वाले के सामाजिक कौशल पर आधारित है।</ArrestingCreatesEnemies.helpText>
+  
+  <!-- EN: Maximum number of player colonies -->
+  <MaxNumberOfPlayerSettlements.label>खिलाड़ी उपनिवेशों की अधिकतम संख्या</MaxNumberOfPlayerSettlements.label>
+  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
+  <MaxNumberOfPlayerSettlements.helpText>चेतावनी: रिमवर्ल्ड को एक समय में एक खिलाड़ी कॉलोनी के साथ खेलने के लिए डिज़ाइन किया गया है। कई खिलाड़ी कॉलोनियां केवल एक प्रायोगिक परीक्षण सुविधा के रूप में अनुमत हैं।\n\nकई कॉलोनियों के साथ खेलने से गेमप्ले असंतुलन और आपका ध्यान बंट जाएगा, साथ ही संभवतः प्रदर्शन धीमा भी हो जाएगा।\n\nहम अनुशंसा करते हैं कि आप कम से कम अपने पहले कुछ खेलों के लिए, गेम के लिए डिज़ाइन की गई एक-कॉलोनी अधिकतम सीमा के साथ खेलें।</MaxNumberOfPlayerSettlements.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsGame.label>स्टीम डेक नियंत्रण</SteamDeckControlsGame.label>
+  <!-- EN: Press X to open the architect menu and {Key:TogglePause} to pause and resume the game. Use triggers for primary and secondary clicks. Zoom in and out and scroll through lists with {Key:MapZoom_In} and {Key:MapZoom_Out}. Press and hold the L5 back button to pan the camera with the touch screen and simulate secondary clicks. -->
+  <SteamDeckControlsGame.helpText>एक्स दबाकर आर्किटेक्ट मेनू खोलें और खेल को रोकने और फिर से शुरू करने के लिए {Key:TogglePause} का उपयोग करें। प्राथमिक और द्वितीयक क्लिक के लिए ट्रिगर्स का उपयोग करें। {Key:MapZoom_In} और {Key:MapZoom_Out} से ज़ूम इन और आउट करें और सूचियों को स्क्रॉल करें। टच स्क्रीन से कैमरा पैन करने और द्वितीयक क्लिक का अनुकरण करने के लिए L5 बैक बटन को दबाकर रखें।</SteamDeckControlsGame.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsMainMenu.label>स्टीम डेक नियंत्रण</SteamDeckControlsMainMenu.label>
+  <!-- EN: Use the trackpad to move the cursor and the right trigger button to click. Press {Key:Accept} to accept and {Key:Cancel} to go back. -->
+  <SteamDeckControlsMainMenu.helpText>ट्रैकपैड से कर्सर चलाएं और दायां ट्रिगर बटन क्लिक करने के लिए दबाएं। {Key:Accept} स्वीकार करने और {Key:Cancel} वापस जाने के लिए दबाएं।</SteamDeckControlsMainMenu.helpText>
+  
+  <!-- EN: Flick designations only designate -->
+  <SwitchFlickingDesignation.label>फ़्लिक पदनाम केवल पदनाम</SwitchFlickingDesignation.label>
+  <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
+  <SwitchFlickingDesignation.helpText>ध्यान दें: यह केवल एक उपनिवेशवादी को स्विच पलटने के लिए निर्दिष्ट करता है।\n\nजब तक कोई उपनिवेशवादी आकर स्विच को हाथ से नहीं पलटता, तब तक कुछ नहीं होगा।</SwitchFlickingDesignation.helpText>
+  
+  <!-- EN: Trade goods and trade beacons -->
+  <TradeGoodsMustBeNearBeacon.label>व्यापार वस्तु एवं व्यापार बीकन</TradeGoodsMustBeNearBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <TradeGoodsMustBeNearBeacon.helpText>कक्षागत व्यापारियों को वस्तुएं या चांदी भेजने के लिए, आपको एक कक्षागत व्यापार बीकन बनाना होगा और उसके पास वस्तुओं का एक भंडार रखना होगा।</TradeGoodsMustBeNearBeacon.helpText>
+  
+  <!-- EN: Trading permit requirements -->
+  <TradingRequiresPermit.label>व्यापार अनुमति आवश्यकताएँ</TradingRequiresPermit.label>
+  <!-- EN: Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher. -->
+  <TradingRequiresPermit.helpText>{0} की उपाधि के बिना यहाँ व्यापार करना संभव नहीं है।\n\nसुनिश्चित करें कि आप जो भी व्यापार कारवाँ भेजते हैं, उसमें {0} या उससे उच्च उपाधि वाला कोई व्यक्ति हो।</TradingRequiresPermit.helpText>
+  
+</LanguageData>

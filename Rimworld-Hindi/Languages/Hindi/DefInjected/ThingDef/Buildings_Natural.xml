@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megascarab cocoon -->
+  <CocoonMegascarab.label>मेगास्कारब कोकून</CocoonMegascarab.label>
+  <!-- EN: A stasis cocoon containing a megascarab.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <CocoonMegascarab.description>एक मेगास्कारब युक्त स्थिर कोकून।\n\nजब परिस्थितियाँ प्रतिकूल होती हैं, तो कीड़े कभी-कभी स्थिर कोकून बनाते हैं और भूमिगत हो जाते हैं। ये कोकून कीड़ों को वर्षों तक आग, अत्यधिक तापमान और अन्य खतरों से सुरक्षित रखते हैं।\n\nप्रदूषक कोकून को उत्तेजित कर सकते हैं और उन्हें सतह पर ला सकते हैं, और प्रबल प्रदूषक दूर से कोकून को आकर्षित कर सकते हैं।\n\nकोकून निष्क्रिय रहते हैं यदि वे परेशान न हों। यदि कोई कोकून परेशान या नष्ट हो जाता है, तो अंदर का कीड़ा जाग जाएगा और हमला करेगा, जिससे प्रक्रिया में अन्य आस-पास के कोकून भी सक्रिय हो जाएंगे।</CocoonMegascarab.description>
+  
+  <!-- EN: megaspider cocoon -->
+  <CocoonMegaspider.label>विशाल मकड़ी कोकून</CocoonMegaspider.label>
+  <!-- EN: A stasis cocoon containing a megaspider.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <CocoonMegaspider.description>एक स्थैतिक कोकून जिसमें विशाल मकड़ी है।\n\nजब परिस्थितियाँ प्रतिकूल होती हैं, तो कीड़े कभी-कभी स्थैतिक कोकून बनाते हैं और भूमिगत प्रवेश करते हैं। ये कोकून कीड़ों को वर्षों तक आग, अत्यधिक तापमान और अन्य खतरों से सुरक्षित रखते हैं।\n\nप्रदूषक कोकून को उत्तेजित कर सकते हैं और उन्हें सतह पर ला सकते हैं, और प्रबल प्रदूषक दूर से कोकून को आकर्षित कर सकते हैं।\n\nकोकून कुछ नहीं करते हैं यदि वे परेशान न हों। यदि कोई कोकून परेशान या नष्ट हो जाता है, तो अंदर का कीड़ा जाग जाएगा और हमला करेगा, जिससे प्रक्रिया में अन्य आस-पास के कोकून भी सक्रिय हो जाएंगे।</CocoonMegaspider.description>
+  
+  <!-- EN: spelopede cocoon -->
+  <CocoonSpelopede.label>गुफा-कीट कोकून</CocoonSpelopede.label>
+  <!-- EN: A stasis cocoon containing a spelopede.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <CocoonSpelopede.description>एक स्थिर कोकून जिसमें गुफा-कीट है।\n\nजब परिस्थितियाँ प्रतिकूल होती हैं, तो कीड़े कभी-कभी स्थिर कोकून बनाते हैं और भूमिगत हो जाते हैं। ये कोकून कीड़ों को वर्षों तक आग, अत्यधिक तापमान और अन्य खतरों से सुरक्षित रखते हैं।\n\nप्रदूषक कोकून को उत्तेजित कर सकते हैं और उन्हें सतह पर ला सकते हैं, और प्रबल प्रदूषक दूर से भी कोकून को आकर्षित कर सकते हैं।\n\nकोकून कुछ नहीं करते हैं यदि वे परेशान न हों। यदि कोई कोकून परेशान या नष्ट हो जाता है, तो अंदर का कीड़ा जाग जाएगा और हमला करेगा, जिससे प्रक्रिया में अन्य आस-पास के कोकून भी सक्रिय हो जाएंगे।</CocoonSpelopede.description>
+  
+  <!-- EN: collapsed rocks -->
+  <CollapsedRocks.label>गिरे पत्थर</CollapsedRocks.label>
+  <!-- EN: Collapsed rocks, packed tightly enough to hold up a roof. -->
+  <CollapsedRocks.description>गिरे हुए पत्थर, इतने कसकर भरे हुए कि छत को सहारा दे सकें।</CollapsedRocks.description>
+  
+  <!-- EN: glow pod -->
+  <GlowPod.label>चमक पोड</GlowPod.label>
+  <!-- EN: A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies. -->
+  <GlowPod.description>विशाल कीड़ों द्वारा निर्मित एक जैव-दीप्तिशील पोड। यह लंबे समय तक अपनी ही रोशनी से चमकता है, फिर मर जाता है।</GlowPod.description>
+  
+  <!-- EN: hive -->
+  <Hive.label>छत्ता</Hive.label>
+  <!-- EN: A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
+  <Hive.description>एक विशाल कीटों का छत्ता। सक्रिय होने पर, यह समय के साथ अतिरिक्त कीट और छत्ते उत्पन्न करेगा, साथ ही मूल्यवान कीट जेली भी।</Hive.description>
+  
+  <!-- EN: compacted machinery -->
+  <MineableComponentsIndustrial.label>मशीनरी संकुचन</MineableComponentsIndustrial.label>
+  <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
+  <MineableComponentsIndustrial.description>प्राचीन मशीनरी, समय के साथ संघनित। उपयोगी घटक प्राप्त करने के लिए खनन किया जा सकता है।</MineableComponentsIndustrial.description>
+  
+  <!-- EN: gold ore -->
+  <MineableGold.label>सोना अयस्क</MineableGold.label>
+  <!-- EN: Rock containing bits of gold. -->
+  <MineableGold.description>सोने के टुकड़ों वाली चट्टान।</MineableGold.description>
+  
+  <!-- EN: jade -->
+  <MineableJade.label>जेड</MineableJade.label>
+  <!-- EN: Rock containing bits of jade. -->
+  <MineableJade.description>पत्थर जिसमें जेड के टुकड़े हैं।</MineableJade.description>
+  
+  <!-- EN: compacted plasteel -->
+  <MineablePlasteel.label>कॉम्पैक्ट प्लास्टील</MineablePlasteel.label>
+  <!-- EN: Ancient compacted rubble rich in plasteel. -->
+  <MineablePlasteel.description>प्राचीन संघनित मलबा जिसमें प्लास्टील प्रचुर मात्रा में है।</MineablePlasteel.description>
+  
+  <!-- EN: silver ore -->
+  <MineableSilver.label>चाँदी अयस्क</MineableSilver.label>
+  <!-- EN: Rock containing bits of silver. -->
+  <MineableSilver.description>चट्टान जिसमें चांदी के टुकड़े हैं।</MineableSilver.description>
+  
+  <!-- EN: compacted steel -->
+  <MineableSteel.label>संकुचित इस्पात</MineableSteel.label>
+  <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
+  <MineableSteel.description>किसी प्राचीन, ढही हुई संरचना के अवशेष। इस्पात से भरपूर।</MineableSteel.description>
+  
+  <!-- EN: uranium ore -->
+  <MineableUranium.label>यूरेनियम अयस्क</MineableUranium.label>
+  <!-- EN: Rock containing bits of uranium. -->
+  <MineableUranium.description>चट्टान में यूरेनियम के टुकड़े मौजूद हैं।</MineableUranium.description>
+  
+  <!-- EN: raised rocks -->
+  <RaisedRocks.label>उठी चट्टानें</RaisedRocks.label>
+  <!-- EN: A fragile wall made of rubble. It will collapse in time. -->
+  <RaisedRocks.description>मलबा से बनी एक नाजुक दीवार। यह समय के साथ ढह जाएगी।</RaisedRocks.description>
+  
+  <!-- EN: steam geyser -->
+  <SteamGeyser.label>भाप झरना</SteamGeyser.label>
+  <!-- EN: A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook. -->
+  <SteamGeyser.description>उच्च दबाव वाली भाप का एक प्राकृतिक स्रोत। भूतापीय जनरेटर इस भाप शक्ति का उपयोग कर सकते हैं। इसके ऊपर बनी इमारतें तेज़ी से पक जाएँगी।</SteamGeyser.description>
+  
+</LanguageData>

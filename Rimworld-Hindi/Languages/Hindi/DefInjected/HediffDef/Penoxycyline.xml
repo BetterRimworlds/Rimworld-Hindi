@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: penoxycyline -->
+  <PenoxycylineHigh.label>पेनॉक्सीसाइक्लिन</PenoxycylineHigh.label>
+  <!-- EN: Penoxycyline-induced immunity to certain illnesses. This only blocks new infections; it does nothing for those who are already infected, even if their infection is dormant. -->
+  <PenoxycylineHigh.description>पेनोक्सीसाइलीन-प्रेरित कुछ बीमारियों से प्रतिरोधक क्षमता। यह केवल नए संक्रमणों को रोकता है; यह उन लोगों के लिए कुछ नहीं करता जो पहले से ही संक्रमित हैं, भले ही उनका संक्रमण सुप्त हो।</PenoxycylineHigh.description>
+  
+</LanguageData>

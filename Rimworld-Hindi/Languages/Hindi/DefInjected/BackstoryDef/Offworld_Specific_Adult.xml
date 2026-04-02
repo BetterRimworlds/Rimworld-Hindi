@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was the only survivor of a ship crash on an unhabited animal world. For many years until [PAWN_possessive] rescue [PAWN_pronoun] scrounged an existence out of whatever [PAWN_pronoun] could find.\n\n[PAWN_possessive] survival skills became razor-sharp, but spending so long alone severely dampened [PAWN_possessive] conversational abilities. -->
+  <Castaway57.description>{PAWN_gender ? [PAWN_nameDef] एक निर्जन पशु ग्रह पर जहाज़ दुर्घटना की एकमात्र उत्तरजीवी थी। अपनी मुक्ति तक कई वर्षों तक, उसने जो कुछ भी पा सकी उससे जीवन यापन किया।\n\nउसकी जीवित रहने की कुशलताएँ तेज़ हो गईं, लेकिन इतने लंबे समय तक अकेले रहने से उसकी बातचीत करने की क्षमता बुरी तरह कम हो गई। : [PAWN_nameDef] एक निर्जन पशु ग्रह पर जहाज़ दुर्घटना का एकमात्र जीवित बचा था। अपनी मुक्ति तक कई वर्षों तक, उसने जो कुछ भी पा सका उससे जीवन यापन किया।\n\nउसकी जीवित रहने की कुशलताएँ तेज़ हो गईं, लेकिन इतने लंबे समय तक अकेले रहने से उसकी बातचीत करने की क्षमता बुरी तरह कम हो गई।}</Castaway57.description>
+  <!-- EN: castaway -->
+  <Castaway57.title>तटवासी</Castaway57.title>
+  <Castaway57.titleFemale>तटवासी</Castaway57.titleFemale>
+  <!-- EN: castaway -->
+  <Castaway57.titleShort>तटवासी</Castaway57.titleShort>
+  <Castaway57.titleShortFemale>तटवासी</Castaway57.titleShortFemale>
+  
+  <!-- EN: Among tunnel-dwellers, those with vision as strong as [PAWN_nameDef]'s are revered as sages. [PAWN_pronoun] would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
+  <CaveworldIlluminator95.description>{PAWN_gender ? सुरंगों में रहने वालों के बीच, जिनकी दृष्टि [PAWN_nameDef] जितनी मजबूत है, उनकी ऋषि के रूप में पूजा की जाती है। वह आगे बढ़कर खुदाई के लिए स्थानों को जैव-दीप्तिशील कवक से चिह्नित करती थी और अन्य को आसन्न खतरे के बारे में चेतावनी देती थी। : सुरंगों में रहने वालों के बीच, जिनकी दृष्टि [PAWN_nameDef] जितनी मजबूत है, उनकी ऋषि के रूप में पूजा की जाती है। वह आगे बढ़कर खुदाई के लिए स्थानों को जैव-दीप्तिशील कवक से चिह्नित करता था और अन्य को आसन्न खतरे के बारे में चेतावनी देता था।}</CaveworldIlluminator95.description>
+  <!-- EN: caveworld illuminator -->
+  <CaveworldIlluminator95.title>गुफा-प्रकाशक</CaveworldIlluminator95.title>
+  <CaveworldIlluminator95.titleFemale>गुफा-प्रकाशक</CaveworldIlluminator95.titleFemale>
+  <!-- EN: illuminator -->
+  <CaveworldIlluminator95.titleShort>प्रकाशक</CaveworldIlluminator95.titleShort>
+  <CaveworldIlluminator95.titleShortFemale>ज्योतिर्मय (Jyotirmay)</CaveworldIlluminator95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a settler on a new colony world.\n\nSuch a life requires a jack-of-all trades at basic hands-on tasks. -->
+  <ColonySettler53.description>{PAWN_gender ? [PAWN_nameDef] एक नए उपनिवेश ग्रह पर एक उपनिवेशवादी थी।\n\nऐसे जीवन के लिए बुनियादी हाथों से किए जाने वाले कार्यों में एक कुशल व्यक्ति की आवश्यकता होती है। : [PAWN_nameDef] एक नए उपनिवेश ग्रह पर एक उपनिवेशवादी था।\n\nऐसे जीवन के लिए बुनियादी हाथों से किए जाने वाले कार्यों में एक कुशल व्यक्ति की आवश्यकता होती है।}</ColonySettler53.description>
+  <!-- EN: colony settler -->
+  <ColonySettler53.title>कॉलोनी निवासी</ColonySettler53.title>
+  <ColonySettler53.titleFemale>कॉलोनी निवासी</ColonySettler53.titleFemale>
+  <!-- EN: settler -->
+  <ColonySettler53.titleShort>बसनेवाला</ColonySettler53.titleShort>
+  <ColonySettler53.titleShortFemale>बसने वाली</ColonySettler53.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. [PAWN_pronoun] used [PAWN_possessive] hands-on industrial skills daily - and wasn't bad in a bar fight either. -->
+  <DeepSpaceMiner3.description>{PAWN_gender ? [PAWN_nameDef] ने गहरे अंतरिक्ष रिग पर क्षुद्रग्रहों से धातु निकालने का पसीने और धूल से भरा काम किया। वह अपनी हाथों से की जाने वाली औद्योगिक कौशल का दैनिक उपयोग करती थी - और बार की लड़ाई में भी बुरी नहीं थी। : [PAWN_nameDef] ने गहरे अंतरिक्ष रिग पर क्षुद्रग्रहों से धातु निकालने का पसीने और धूल से भरा काम किया। वह अपने हाथों से की जाने वाली औद्योगिक कौशल का दैनिक उपयोग करता था - और बार की लड़ाई में भी बुरा नहीं था।}</DeepSpaceMiner3.description>
+  <!-- EN: deep space miner -->
+  <DeepSpaceMiner3.title>अंतरिक्ष खनिक</DeepSpaceMiner3.title>
+  <DeepSpaceMiner3.titleFemale>अंतरिक्ष खनिक</DeepSpaceMiner3.titleFemale>
+  <!-- EN: miner -->
+  <DeepSpaceMiner3.titleShort>खनिक</DeepSpaceMiner3.titleShort>
+  <DeepSpaceMiner3.titleShortFemale>खनिक महिला</DeepSpaceMiner3.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] did menial, unskilled work in an industrial factory. [PAWN_possessive] job also included caring for the mules and horses which transported the goods. -->
+  <FactoryWorker58.description>[PAWN_nameDef] ने एक औद्योगिक कारखाने में तुच्छ, अकुशल कार्य किया। उसके काम में माल ढोने वाले खच्चरों और घोड़ों की देखभाल भी शामिल थी।</FactoryWorker58.description>
+  <!-- EN: factory worker -->
+  <FactoryWorker58.title>कारखाना कर्मचारी</FactoryWorker58.title>
+  <FactoryWorker58.titleFemale>कारखाना कर्मी</FactoryWorker58.titleFemale>
+  <!-- EN: worker -->
+  <FactoryWorker58.titleShort>मज़दूर</FactoryWorker58.titleShort>
+  <FactoryWorker58.titleShortFemale>मज़दूरिन (Mazdoorin)</FactoryWorker58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] turned out to have an excellent memory and a gift for performing complex calculations in [PAWN_possessive] head. An industrial-world dictator decided to employ [PAWN_nameDef] to keep track of [PAWN_possessive] state's finances and expenditure. -->
+  <HumanComputer83.description>{PAWN_gender ? [PAWN_nameDef] में उत्कृष्ट स्मृति और जटिल गणनाएँ मन में करने की प्रतिभा थी। एक औद्योगिक-विश्व की तानाशाह ने [PAWN_nameDef] को अपने राज्य के वित्त और व्यय का हिसाब रखने के लिए नियुक्त करने का फैसला किया। : [PAWN_nameDef] में उत्कृष्ट स्मृति और जटिल गणनाएँ मन में करने की प्रतिभा थी। एक औद्योगिक-विश्व के तानाशाह ने [PAWN_nameDef] को अपने राज्य के वित्त और व्यय का हिसाब रखने के लिए नियुक्त करने का फैसला किया।}</HumanComputer83.description>
+  <!-- EN: human computer -->
+  <HumanComputer83.title>मानव कंप्यूटर</HumanComputer83.title>
+  <!-- EN: computer -->
+  <HumanComputer83.titleShort>{PAWN_gender ? कंप्यूटर विशेषज्ञ महिला : कंप्यूटर विशेषज्ञ}</HumanComputer83.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.\n\nWhen the local government imposed harsh restrictions on joywire manufacturing, [PAWN_pronoun] began selling [PAWN_possessive] products on the black market. -->
+  <JoywireArtist8.description>{PAWN_gender ? [PAWN_nameDef] एक शहरी दुनिया की प्रयोगशाला में उपयोगकर्ता के आनंद को अधिकतम करने के लिए अत्याधुनिक जॉयवायर सॉफ्टवेयर विकसित करती थी।\n\nजब स्थानीय सरकार ने जॉयवायर निर्माण पर कठोर प्रतिबंध लगाए, तो उसने अपने उत्पादों को काले बाजार में बेचना शुरू कर दिया। : [PAWN_nameDef] एक शहरी दुनिया की प्रयोगशाला में उपयोगकर्ता के आनंद को अधिकतम करने के लिए अत्याधुनिक जॉयवायर सॉफ्टवेयर विकसित करता था।\n\nजब स्थानीय सरकार ने जॉयवायर निर्माण पर कठोर प्रतिबंध लगाए, तो उसने अपने उत्पादों को काले बाजार में बेचना शुरू कर दिया।}</JoywireArtist8.description>
+  <!-- EN: joywire artist -->
+  <JoywireArtist8.title>{PAWN_gender ? आनंद-तार चित्रकार : आनंद-तार कलाकार}</JoywireArtist8.title>
+  <!-- EN: joywirer -->
+  <JoywireArtist8.titleShort>{PAWN_gender ? आनंद-तारिका (Ānand-Tārikā) : खुशी तारक}</JoywireArtist8.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a high-ranking member of an urbworld crime syndicate.\n\n[PAWN_pronoun] bribed officials, maintained the loyalty of [PAWN_possessive] subordinates, and extracted overdue payments - by any means necessary. -->
+  <MafiaBoss17.description>{PAWN_gender ? [PAWN_nameDef] एक शहरी दुनिया के अपराध सिंडिकेट की उच्च-पदस्थ सदस्य थी।\n\nउसने अधिकारियों को रिश्वत दी, अपने अधीनस्थों की वफादारी बनाए रखी, और किसी भी साधन से बकाया भुगतान वसूल किए। : [PAWN_nameDef] एक शहरी दुनिया के अपराध सिंडिकेट का उच्च-पदस्थ सदस्य था।\n\nउसने अधिकारियों को रिश्वत दी, अपने अधीनस्थों की वफादारी बनाए रखी, और किसी भी साधन से बकाया भुगतान वसूल किए।}</MafiaBoss17.description>
+  <!-- EN: mafia boss -->
+  <MafiaBoss17.title>माफिया सरगना</MafiaBoss17.title>
+  <MafiaBoss17.titleFemale>माफिया सरगना</MafiaBoss17.titleFemale>
+  <!-- EN: boss -->
+  <MafiaBoss17.titleShort>अधिकारी</MafiaBoss17.titleShort>
+  <MafiaBoss17.titleShortFemale>बॉस महिला</MafiaBoss17.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] adult life in an insane asylum. [PAWN_possessive] industrial homeworld had a poor understanding of mental illness, and [PAWN_pronoun] was treated more like an animal than a person.\n\nThough [PAWN_pronoun] eventually recovered and was released, [PAWN_possessive] experience dampened many of [PAWN_possessive] basic life skills. -->
+  <PsychiatricPatient94.description>{PAWN_gender ? [PAWN_nameDef] ने अपने वयस्क जीवन का अधिकांश भाग एक पागलखाने में बिताया। उसका औद्योगिक गृह ग्रह मानसिक बीमारी को ठीक से नहीं समझता था, और उसके साथ एक व्यक्ति के बजाय एक जानवर जैसा व्यवहार किया गया।\n\nहालांकि वह अंततः ठीक हो गई और रिहा कर दी गई, लेकिन उसके अनुभव ने उसके कई बुनियादी जीवन कौशल को कम कर दिया। : [PAWN_nameDef] ने अपने वयस्क जीवन का अधिकांश भाग एक पागलखाने में बिताया। उसका औद्योगिक गृह ग्रह मानसिक बीमारी को ठीक से नहीं समझता था, और उसके साथ एक व्यक्ति के बजाय एक जानवर जैसा व्यवहार किया गया।\n\nहालांकि वह अंततः ठीक हो गया और रिहा हो गया, लेकिन उसके अनुभव ने उसके कई बुनियादी जीवन कौशल को कम कर दिया।}</PsychiatricPatient94.description>
+  <!-- EN: psychiatric patient -->
+  <PsychiatricPatient94.title>मानसिक रोगी</PsychiatricPatient94.title>
+  <PsychiatricPatient94.titleFemale>मानसिक रोगी</PsychiatricPatient94.titleFemale>
+  <!-- EN: patient -->
+  <PsychiatricPatient94.titleShort>धैर्यवान रोगी</PsychiatricPatient94.titleShort>
+  <PsychiatricPatient94.titleShortFemale>धैर्यवान रोगी महिला</PsychiatricPatient94.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was the law enforcer in an isolated industrial town. [PAWN_pronoun] dealt with petty crime, dispute resolution, and the occasional drunken saloon shootout. -->
+  <Sheriff52.description>{PAWN_gender ? [PAWN_nameDef] एक अलग-थलग औद्योगिक शहर में कानून प्रवर्तन अधिकारी थीं। उन्होंने छोटी-मोटी अपराधों, विवादों के समाधान और कभी-कभार होने वाली नशे में धुत सैलून की गोलीबारी से निपटा। : [PAWN_nameDef] एक अलग-थलग औद्योगिक शहर में कानून प्रवर्तन अधिकारी था। उसने छोटी-मोटी अपराधों, विवादों के समाधान और कभी-कभार होने वाली नशे में धुत सैलून की गोलीबारी से निपटा।}</Sheriff52.description>
+  <!-- EN: sheriff -->
+  <Sheriff52.title>sheriff कानून प्रवर्तन अधिकारी</Sheriff52.title>
+  <!-- EN: sheriff -->
+  <Sheriff52.titleShort>शहरीफ</Sheriff52.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] joined the space navy in an unstable system, fraught with large-scale interplanetary wars. [PAWN_pronoun] turned out to have a sharp mind for battle, and became adept at commanding combat units to great effect. -->
+  <SpaceTactician28.description>{PAWN_gender ? [PAWN_nameDef] एक अस्थिर प्रणाली में अंतरिक्ष नौसेना में शामिल हुईं, जो बड़े पैमाने पर अंतरग्रहीय युद्धों से ग्रस्त थी। वह युद्ध के लिए एक तीक्ष्ण दिमाग वाली निकलीं, और युद्ध इकाइयों को प्रभावी ढंग से कमांड करने में कुशल बन गईं। : [PAWN_nameDef] एक अस्थिर प्रणाली में अंतरिक्ष नौसेना में शामिल हुआ, जो बड़े पैमाने पर अंतरग्रहीय युद्धों से ग्रस्त थी। वह युद्ध के लिए एक तीक्ष्ण बुद्धि वाला निकला, और युद्ध इकाइयों को प्रभावी ढंग से कमांड करने में कुशल हो गया।}</SpaceTactician28.description>
+  <!-- EN: space tactician -->
+  <SpaceTactician28.title>अंतरिक्ष रणनीतिकार</SpaceTactician28.title>
+  <SpaceTactician28.titleFemale>अंतरिक्ष रणनीतिकार</SpaceTactician28.titleFemale>
+  <!-- EN: tactician -->
+  <SpaceTactician28.titleShort>रणनीतिकार</SpaceTactician28.titleShort>
+  <SpaceTactician28.titleShortFemale>रणनीतिकार (Rananeetikaar)</SpaceTactician28.titleShortFemale>
+  
+  <!-- EN: While other passengers pass the years between star systems in cryptosleep sarcophagi, [PAWN_nameDef] had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids. -->
+  <StarshipJanitor33.description>{PAWN_gender ? जबकि अन्य यात्री तारों के बीच के वर्षों को क्राइप्टोस्लीप शवों में बिताते हैं, [PAWN_nameDef] को समय-समय पर जागना पड़ता था निरीक्षण करने के लिए, नेविगेशन सिस्टम की जांच करने के लिए, और मैकेनोइड्स को तेल लगाने के लिए। : जबकि अन्य यात्री तारों के बीच के वर्षों को क्राइप्टोस्लीप शवपेटिकाओं में बिताते हैं, [PAWN_nameDef] को समय-समय पर जागना पड़ता था ताकि निरीक्षण किया जा सके, नेविगेशन सिस्टम की जांच की जा सके, और मैकेनॉइड्स को तेल लगाया जा सके।}</StarshipJanitor33.description>
+  <!-- EN: starship janitor -->
+  <StarshipJanitor33.title>अंतरिक्ष यान सफाईकर्मी</StarshipJanitor33.title>
+  <!-- EN: janitor -->
+  <StarshipJanitor33.titleShort>सफाईकर्मी</StarshipJanitor33.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled between star systems, studying and classifying the plant and animal life [PAWN_pronoun] found in the hopes of creating a complete catalogue. -->
+  <Taxonomist0.description>{PAWN_gender ? [PAWN_nameDef] ने तारों के बीच यात्रा की, उसने जो भी पौधे और पशु जीवन पाया उसका अध्ययन और वर्गीकरण किया, ताकि एक पूर्ण सूची बनाई जा सके। : [PAWN_nameDef] ने तारा प्रणालियों के बीच यात्रा की, उसने जो भी पौधे और पशु जीवन पाया उसका अध्ययन और वर्गीकरण किया, ताकि एक पूर्ण सूची बनाई जा सके।}</Taxonomist0.description>
+  <!-- EN: taxonomist -->
+  <Taxonomist0.title>वर्गीकरणकर्ता</Taxonomist0.title>
+  <Taxonomist0.titleFemale>वर्गीकरणकर्ता</Taxonomist0.titleFemale>
+  <!-- EN: taxonomist -->
+  <Taxonomist0.titleShort>वर्गीकरण विज्ञानी</Taxonomist0.titleShort>
+  <Taxonomist0.titleShortFemale>वर्गीकरणकर्ता महिला</Taxonomist0.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a mindless construction drone on a massive urbworld. Though [PAWN_pronoun] is now freed from the brutal social experiments to which [PAWN_pronoun] was subjected, [PAWN_pronoun] remains incapable of creative thought and leadership. -->
+  <UrbworldDrone32.description>{PAWN_gender ? [PAWN_nameDef] एक विशाल शहरी दुनिया पर एक बेवकूफ निर्माण ड्रोन के रूप में काम करती थी। हालाँकि वह अब उन क्रूर सामाजिक प्रयोगों से मुक्त है जिनसे उसे गुजरना पड़ा, फिर भी वह रचनात्मक सोच और नेतृत्व में असमर्थ है। : [PAWN_nameDef] एक विशाल शहरी दुनिया पर एक बेवकूफ निर्माण ड्रोन के रूप में काम करता था। हालाँकि वह अब उन क्रूर सामाजिक प्रयोगों से मुक्त है जिनसे उसे गुजरना पड़ा, फिर भी वह रचनात्मक विचार और नेतृत्व करने में असमर्थ है।}</UrbworldDrone32.description>
+  <!-- EN: urbworld drone -->
+  <UrbworldDrone32.title>शहरी ड्रोन</UrbworldDrone32.title>
+  <UrbworldDrone32.titleFemale>शहरी ड्रोन</UrbworldDrone32.titleFemale>
+  <!-- EN: drone -->
+  <UrbworldDrone32.titleShort>{PAWN_gender ? ड्रोन ऑपरेटर : ड्रोन संचालक}</UrbworldDrone32.titleShort>
+  
+  <!-- EN: In the urbworlds, most suffer. But someone has to run the corporations.\n\n[PAWN_nameDef] learned the skills of the trade - greasing palms and technical analysis. [PAWN_pronoun] is a sociointellectual machine. -->
+  <UrbworldEntrepreneur14.description>शहरी दुनिया में, अधिकांश लोग कष्ट सहते हैं। लेकिन किसी को तो निगमों का संचालन करना ही पड़ता है।\n\n[PAWN_nameDef] ने व्यापार के कौशल सीखे - रिश्वत देना और तकनीकी विश्लेषण। वह एक सामाजिक-बौद्धिक मशीन है।</UrbworldEntrepreneur14.description>
+  <!-- EN: urbworld entrepreneur -->
+  <UrbworldEntrepreneur14.title>शहरी उद्यमी</UrbworldEntrepreneur14.title>
+  <UrbworldEntrepreneur14.titleFemale>शहरी उद्यमी महिला</UrbworldEntrepreneur14.titleFemale>
+  <!-- EN: entrepreneur -->
+  <UrbworldEntrepreneur14.titleShort>उद्यमी पुरुष</UrbworldEntrepreneur14.titleShort>
+  <UrbworldEntrepreneur14.titleShortFemale>उद्यमी महिला</UrbworldEntrepreneur14.titleShortFemale>
+  
+  <!-- EN: Most of the people on [PAWN_nameDef]'s world gave up their individuality to join together in an online hivemind. [PAWN_nameDef] joined a rebel faction that rejected technology entirely. -->
+  <UrbworldRebel56.description>{PAWN_gender ? [PAWN_nameDef] के ग्रह पर अधिकांश लोगों ने अपनी व्यक्तिगत पहचान छोड़ दी और एक ऑनलाइन सामूहिक चेतना में शामिल हो गए। [PAWN_nameDef] एक विद्रोही गुट में शामिल हो गईं जिन्होंने पूरी तरह से प्रौद्योगिकी को अस्वीकार कर दिया। : [PAWN_nameDef] के ग्रह पर अधिकांश लोगों ने अपनी व्यक्तिगत पहचान छोड़ दी और एक ऑनलाइन सामूहिक चेतना में शामिल हो गए। [PAWN_nameDef] एक विद्रोही गुट में शामिल हो गए जिन्होंने पूरी तरह से प्रौद्योगिकी को अस्वीकार कर दिया।}</UrbworldRebel56.description>
+  <!-- EN: urbworld rebel -->
+  <UrbworldRebel56.title>शहरी विद्रोही</UrbworldRebel56.title>
+  <UrbworldRebel56.titleFemale>शहरी विद्रोही</UrbworldRebel56.titleFemale>
+  <!-- EN: rebel -->
+  <UrbworldRebel56.titleShort>{PAWN_gender ? विद्रोही महिला : विद्रोही}</UrbworldRebel56.titleShort>
+  
+</LanguageData>

@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bison -->
+  <Bison.label>बाइसन</Bison.label>
+  <!-- EN: A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous. -->
+  <Bison.description>एक बड़ा शाकाहारी स्तनपायी जो सवाना की जंगली भूमि में पाया जाता है। पालतू होने पर ये शांत होते हैं, लेकिन क्रोधित होने पर तेज और खतरनाक होते हैं।</Bison.description>
+  <!-- EN: head -->
+  <Bison.tools.head.label>सिर</Bison.tools.head.label>
+  <!-- EN: left hoof -->
+  <Bison.tools.left_hoof.label>बायां खुर</Bison.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Bison.tools.left_hoof.labelNoLocation>खुर</Bison.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Bison.tools.right_hoof.label>दाहिना खुर</Bison.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Bison.tools.right_hoof.labelNoLocation>खुर</Bison.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: boomalope -->
+  <Boomalope.label>बूमालोप</Boomalope.label>
+  <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
+  <Boomalope.description>रासायनिक उत्पादन के लिए इंजीनियर किया गया, बूमलोप अपनी पीठ पर अस्थिर रसायनों की एक बड़ी थैली उगाता है। अपने आकार के लिए कमजोर और नाजुक होने के बावजूद, अन्य जानवरों ने इसके मरने पर होने वाले विशाल विस्फोट के कारण इससे बचना सीख लिया है। इसे सावधानीपूर्वक दुधा निकालकर केमफ्यूल प्राप्त किया जा सकता है।</Boomalope.description>
+  <!-- EN: head -->
+  <Boomalope.tools.head.label>सिर</Boomalope.tools.head.label>
+  <!-- EN: left hoof -->
+  <Boomalope.tools.left_hoof.label>बायां खुर</Boomalope.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Boomalope.tools.left_hoof.labelNoLocation>खुर</Boomalope.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Boomalope.tools.right_hoof.label>दाहिना खुर</Boomalope.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Boomalope.tools.right_hoof.labelNoLocation>खुर</Boomalope.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: caribou -->
+  <Caribou.label>रेनडियर</Caribou.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
+  <Caribou.description>एक बड़ा हिरण परिवार का सदस्य, जो ठंडे जलवायु में जीवन के लिए अच्छी तरह से अनुकूलित है। कैरिबू को दूध निकाला जा सकता है, लेकिन वे पैक ले जाने से इनकार करते हैं।</Caribou.description>
+  <!-- EN: left hoof -->
+  <Caribou.tools.left_hoof.label>बायां खुर</Caribou.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Caribou.tools.left_hoof.labelNoLocation>खुर</Caribou.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Caribou.tools.right_hoof.label>दाहिना खुर</Caribou.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Caribou.tools.right_hoof.labelNoLocation>खुर</Caribou.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Caribou.tools.head.label>सिर</Caribou.tools.head.label>
+  
+  <!-- EN: cow -->
+  <Cow.label>गाय</Cow.label>
+  <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
+  <Cow.description>बड़ी पालतू खुरधारी, गायों को सहस्राब्दियों से दूध, मांस और चमड़े की भारी मात्रा में उत्पादन के लिए पाला गया है। वे असाधारण रूप से सौम्य जीव हैं और चाहे उन्हें कितनी भी बार नुकसान पहुंचाया जाए, वे कभी बदला नहीं लेंगे। उनमें से अधिकांश खेत जीवन के लिए इतने अनुकूलित हैं कि वे जंगल में जीवित नहीं रह सकते।</Cow.description>
+  <!-- EN: beef -->
+  <Cow.race.meatLabel>गोमांस</Cow.race.meatLabel>
+  <!-- EN: head -->
+  <Cow.tools.head.label>सिर</Cow.tools.head.label>
+  <!-- EN: left hoof -->
+  <Cow.tools.left_hoof.label>बायां खुर</Cow.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Cow.tools.left_hoof.labelNoLocation>खुर</Cow.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Cow.tools.right_hoof.label>दाहिना खुर</Cow.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Cow.tools.right_hoof.labelNoLocation>खुर</Cow.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: donkey -->
+  <Donkey.label>गधा</Donkey.label>
+  <!-- EN: A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing.\n\nWhen in a caravan, people can ride donkeys to increase the caravan's speed. -->
+  <Donkey.description>घोड़े का एक छोटा रिश्तेदार, प्राचीन काल में कृषि कार्य के लिए पालतू बनाया गया। इसकी मूर्खतापूर्ण आवाज एक ही समय में कष्टप्रद और प्यारी है।\n\nजब कारवां में हों, तो लोग कारवां की गति बढ़ाने के लिए गधों की सवारी कर सकते हैं।</Donkey.description>
+  <!-- EN: head -->
+  <Donkey.tools.head.label>सिर</Donkey.tools.head.label>
+  <!-- EN: left hoof -->
+  <Donkey.tools.left_hoof.label>बायां खुर</Donkey.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Donkey.tools.left_hoof.labelNoLocation>खुर</Donkey.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Donkey.tools.right_hoof.label>दाहिना खुर</Donkey.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Donkey.tools.right_hoof.labelNoLocation>खुर</Donkey.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>उंट</Dromedary.label>
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its leather is exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed. -->
+  <Dromedary.description>शुष्क वातावरण के अनुकूल एक बड़ा भूमि स्तनपायी। प्राचीन काल से पालतू बनाया गया है, इसकी चमड़ी रेगिस्तानी गर्मी के खिलाफ उत्कृष्ट रूप से इन्सुलेट करती है, और इसका दूध काफी पौष्टिक होता है। इसका उपयोग पैक जानवर और सवारी के लिए किया जा सकता है, लेकिन इसकी उछलती चाल इसे घोड़े की तुलना में धीमी गति से सवारी करने योग्य बनाती है।\n\nअपने बड़े कूबड़ों में पानी जमा करके और साँस छोड़ते समय अपनी नमी को पुनः प्राप्त करके, यह हफ्तों तक बिना पानी पिए रह सकता है।\n\nएक कारवां में, लोग कारवां की गति बढ़ाने के लिए ऊँटों की सवारी कर सकते हैं।</Dromedary.description>
+  <!-- EN: left hoof -->
+  <Dromedary.tools.left_hoof.label>बायां खुर</Dromedary.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Dromedary.tools.left_hoof.labelNoLocation>खुर</Dromedary.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Dromedary.tools.right_hoof.label>दाहिना खुर</Dromedary.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Dromedary.tools.right_hoof.labelNoLocation>खुर</Dromedary.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Dromedary.tools.head.label>सिर</Dromedary.tools.head.label>
+  
+  <!-- EN: elephant -->
+  <Elephant.label>हाथी</Elephant.label>
+  <!-- EN: The largest unmodified land animal. Elephants have a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
+  <Elephant.description>सबसे बड़ा अपरिवर्तित भूमि जानवर। हाथियों की एक लंबी सूंड होती है जिसका उपयोग वे वस्तुओं को संभालने के लिए करते हैं, और नुकीले दांत होते हैं जिनका उपयोग वे हमलावरों को घायल करने के लिए करते हैं। मृत हाथी के मूल्यवान दांतों को उसे काटकर प्राप्त किया जा सकता है।\n\nबुद्धिमान जीव जटिल सामाजिक संबंधों के साथ, हाथियों का उपयोग भार ढोने वाले जानवरों के रूप में किया जा सकता है या उन्हें सबसे जटिल कार्यों को करने के लिए प्रशिक्षित किया जा सकता है। वे लंबे समय तक जीवित रहते हैं, और दशकों पहले की घटनाओं और संबंधों को याद रखने के लिए जाने जाते हैं।</Elephant.description>
+  <!-- EN: tusk -->
+  <Elephant.tools.tusk.label>दन्त</Elephant.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Elephant.tools.left_foot.label>बायां पाँव</Elephant.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Elephant.tools.left_foot.labelNoLocation>पैर</Elephant.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <Elephant.tools.right_foot.label>दायां पाँव</Elephant.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Elephant.tools.right_foot.labelNoLocation>पैर</Elephant.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <Elephant.tools.head.label>सिर</Elephant.tools.head.label>
+  
+  <!-- EN: elk -->
+  <Elk.label>हिरण</Elk.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
+  <Elk.description>एक बड़ा हिरण परिवार का सदस्य, जो ठंडे जलवायु में जीवन के लिए अच्छी तरह से अनुकूलित है। पालतू एल्‍क को दुधा जा सकता है, लेकिन वे सामान ढोने से इनकार करते हैं।</Elk.description>
+  <!-- EN: left hoof -->
+  <Elk.tools.left_hoof.label>बायां खुर</Elk.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Elk.tools.left_hoof.labelNoLocation>खुर</Elk.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Elk.tools.right_hoof.label>दाहिना खुर</Elk.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Elk.tools.right_hoof.labelNoLocation>खुर</Elk.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Elk.tools.head.label>सिर</Elk.tools.head.label>
+  
+  <!-- EN: goat -->
+  <Goat.label>बकरी</Goat.label>
+  <!-- EN: Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind. -->
+  <Goat.description>बकरियां स्वाभाविक रूप से दुनिया के बारे में उत्सुक होती हैं, और वे मानव जाति द्वारा पाले जाने वाले सबसे दोस्ताना पालतू जानवरों में से हैं।</Goat.description>
+  <!-- EN: head -->
+  <Goat.tools.head.label>सिर</Goat.tools.head.label>
+  
+  <!-- EN: horse -->
+  <Horse.label>घोड़ा</Horse.label>
+  <!-- EN: A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times.\n\nWhen in a caravan, people can ride horses to increase the caravan's speed. -->
+  <Horse.description>एक बड़ा खुरदार स्तनपायी जिसमें छोटा कोट, लंबी अयाल और लंबी पूंछ होती है। घोड़े प्राचीन काल से पालतू बनाए गए हैं।\n\nजब कारवां में हों, तो लोग घोड़ों की सवारी करके कारवां की गति बढ़ा सकते हैं।</Horse.description>
+  <!-- EN: horse meat -->
+  <Horse.race.meatLabel>घोड़े का मांस</Horse.race.meatLabel>
+  <!-- EN: head -->
+  <Horse.tools.head.label>सिर</Horse.tools.head.label>
+  <!-- EN: left hoof -->
+  <Horse.tools.left_hoof.label>बायां खुर</Horse.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Horse.tools.left_hoof.labelNoLocation>खुर</Horse.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Horse.tools.right_hoof.label>दाहिना खुर</Horse.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Horse.tools.right_hoof.labelNoLocation>खुर</Horse.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>मफ्फालो</Muffalo.label>
+  <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
+  <Muffalo.description>बफ़ेलो से उतरे और ठंडे और गर्म दोनों वातावरणों के लिए अनुकूलित एक बड़ा झुंड वाला शाकाहारी जानवर। क्रोधित मफ्फालो घातक होते हैं, जबकि पालतू मफ्फालो काफी शांत होते हैं और उन्हें पैक जानवरों के रूप में इस्तेमाल किया जा सकता है।\n\nकोई निश्चित रूप से नहीं जानता कि वे नीले क्यों हैं—यह संभवतः एक प्रारंभिक आनुवंशिक संशोधन परीक्षण भी हो सकता है जिसे कभी बदला नहीं गया।</Muffalo.description>
+  <!-- EN: head -->
+  <Muffalo.tools.head.label>सिर</Muffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof.label>बायां खुर</Muffalo.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Muffalo.tools.left_hoof.labelNoLocation>खुर</Muffalo.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof.label>दाहिना खुर</Muffalo.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Muffalo.tools.right_hoof.labelNoLocation>खुर</Muffalo.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>गैंडा</Rhinoceros.label>
+  <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
+  <Rhinoceros.description>शाकाहारी होने के बावजूद, यह बड़ा स्तनपायी आसानी से क्रोधित हो जाता है। एक बार क्रोधित होने पर, इसकी विशाल शक्ति और तीक्ष्ण सींग इसे एक क्रूर प्रतिद्वंद्वी बना देती है। इसके एक पैर में अधिकांश मनुष्यों के पूरे शरीर से ज़्यादा मांसपेशियां होती हैं।</Rhinoceros.description>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-0.label>सिंग</Rhinoceros.tools.horn-0.label>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-1.label>सिंग</Rhinoceros.tools.horn-1.label>
+  <!-- EN: head -->
+  <Rhinoceros.tools.head.label>सिर</Rhinoceros.tools.head.label>
+  
+  <!-- EN: yak -->
+  <Yak.label>याक</Yak.label>
+  <!-- EN: Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow. -->
+  <Yak.description>याक मजबूत मवेशी हैं जिनमें भारी ढांचा, छोटे लेकिन मोटे पैर और गोल खुर होते हैं जो बर्फ में चलने में मदद करते हैं।</Yak.description>
+  <!-- EN: yak beef -->
+  <Yak.race.meatLabel>याक मांस</Yak.race.meatLabel>
+  <!-- EN: head -->
+  <Yak.tools.head.label>सिर</Yak.tools.head.label>
+  <!-- EN: left hoof -->
+  <Yak.tools.left_hoof.label>बायां खुर</Yak.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Yak.tools.left_hoof.labelNoLocation>खुर</Yak.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Yak.tools.right_hoof.label>दाहिना खुर</Yak.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Yak.tools.right_hoof.labelNoLocation>खुर</Yak.tools.right_hoof.labelNoLocation>
+  
+</LanguageData>
