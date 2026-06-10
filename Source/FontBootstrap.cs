@@ -4,14 +4,13 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using Verse;
-
 namespace BetterRimworlds
 {
     public class FontBootstrap
     {
         public Font LoadedFont;
         private FontLanguageConfig _activeConfig;
-
+        private static bool _missingFontDialogShown;
         private static readonly Dictionary<string, FontLanguageConfig> LanguageFonts =
             new Dictionary<string, FontLanguageConfig>
             {
@@ -24,6 +23,7 @@ namespace BetterRimworlds
                         "NotoSansDevanagari-Regular",
                     },
                     packageName: "noto-fonts-extra",
+                    fontUrl: "https://fonts.google.com/noto/specimen/Noto+Sans+Devanagari",
                     testChars: "अआइईउऊकखगघचछजझटठडढणतथदधनपफबभमयरलवशषसहािीुूृेैोौंःँ्"
                 ),
                 ["Bengali"] = new FontLanguageConfig(
@@ -35,6 +35,7 @@ namespace BetterRimworlds
                         "NotoSansBengali-Regular",
                     },
                     packageName: "noto-fonts-extra",
+                    fontUrl: "https://fonts.google.com/noto/specimen/Noto+Sans+Bengali",
                     testChars: "অআইঈউঊএঐওঔকখগঘঙচছজঝঞটঠডঢণতথদধনপফবভমযরলশষসহািীুূৃেৈোৌংঃঁ্"
                 ),
                 ["Tamil"] = new FontLanguageConfig(
@@ -46,6 +47,7 @@ namespace BetterRimworlds
                         "NotoSansTamil-Regular",
                     },
                     packageName: "noto-fonts-extra",
+                    fontUrl: "https://fonts.google.com/noto/specimen/Noto+Sans+Tamil",
                     testChars: "அஆஇஈஉஊஎஏஐஒஓஔகஙசஜஞடணதநனபமயரறலளழவஷஸஹாிீுூெேைொோௌ்"
                 ),
                 ["Arabic"] = new FontLanguageConfig(
@@ -57,6 +59,7 @@ namespace BetterRimworlds
                         "NotoSansArabic-Regular",
                     },
                     packageName: "noto-fonts-extra",
+                    fontUrl: "https://fonts.google.com/noto/specimen/Noto+Sans+Arabic",
                     testChars: "ابتثجحخدذرزسشصضطظعغفقكلمنهويءآأإؤئ"
                 ),
                 ["Urdu"] = new FontLanguageConfig(
@@ -68,10 +71,10 @@ namespace BetterRimworlds
                         "NotoSansArabic-Regular",
                     },
                     packageName: "noto-fonts-extra",
+                    fontUrl: "https://fonts.google.com/noto/specimen/Noto+Sans+Arabic",
                     testChars: "ابتثجحخدذرزسشصضطظعغفقكلمنهويءآأإؤئ"
                 ),
             };
-
         public void Init(string language)
         {
             if (!LanguageFonts.TryGetValue(language, out _activeConfig))
@@ -82,29 +85,26 @@ namespace BetterRimworlds
                 );
                 return;
             }
-
             try
             {
                 string match = FindSystemFont(_activeConfig);
-
                 if (match == null)
                 {
+                    ShowMissingFontDialog(_activeConfig);
                     Log.Error(
                         $"[BetterRimworlds] ERROR: No suitable font found " +
                         $"for {_activeConfig.Language}.\n\n" +
                         $"Please install a {_activeConfig.Language} font:\n" +
+                        $"{_activeConfig.FontUrl}\n\n" +
                         "Then restart RimWorld."
                     );
                     return;
                 }
-
                 Log.Message(
                     $"[BetterRimworlds:{_activeConfig.Language}] " +
                     $"Found system font: '{match}'"
                 );
-
-                LoadedFont = Font.CreateDynamicFontFromOSFont(match, 14);
-
+                LoadedFont = Font.CreateDynamicFontFromOSFont(match, 16);
                 if (LoadedFont == null || !LoadedFont.dynamic)
                 {
                     Log.Error(
@@ -115,14 +115,12 @@ namespace BetterRimworlds
                     LoadedFont = null;
                     return;
                 }
-
                 Log.Message(
                     $"[BetterRimworlds:{_activeConfig.Language}] Loaded: " +
                     $"name={LoadedFont.name}, " +
                     $"dynamic={LoadedFont.dynamic}, " +
                     $"lineHeight={LoadedFont.lineHeight}"
                 );
-
                 WarmUpFont(LoadedFont, _activeConfig);
                 DumpFontInfo(LoadedFont, _activeConfig);
             }
@@ -134,7 +132,6 @@ namespace BetterRimworlds
                 );
             }
         }
-
         public bool ShouldUseCustomFont()
         {
             return _activeConfig != null
@@ -142,18 +139,15 @@ namespace BetterRimworlds
                 && LoadedFont != null
                 && LoadedFont.dynamic;
         }
-
         private static string FindSystemFont(FontLanguageConfig config)
         {
             string[] osFonts = Font.GetOSInstalledFontNames();
-
             // Exact match first
             foreach (var candidate in config.FontSearchNames)
             {
                 if (osFonts.Contains(candidate))
                     return candidate;
             }
-
             // Substring match fallback
             string primary = config.FontSearchNames[0];
             foreach (var osFont in osFonts)
@@ -161,10 +155,31 @@ namespace BetterRimworlds
                 if (osFont.IndexOf(primary, StringComparison.OrdinalIgnoreCase) >= 0)
                     return osFont;
             }
-
             return null;
         }
-
+        private static void ShowMissingFontDialog(FontLanguageConfig config)
+        {
+            if (_missingFontDialogShown)
+                return;
+            _missingFontDialogShown = true;
+            string fontName = config.FontSearchNames[0];
+            string message =
+                $"The {config.Language} translation needs {fontName} " +
+                "installed on your system before RimWorld starts.\n\n" +
+                $"Install {fontName}, then restart RimWorld.\n\n" +
+                $"Download it here:\n{config.FontUrl}";
+            try
+            {
+                Find.WindowStack.Add(new Dialog_MessageBox(message));
+            }
+            catch (Exception ex)
+            {
+                Log.Warning(
+                    $"[BetterRimworlds:{config.Language}] " +
+                    $"Failed to show missing font dialog: {ex}"
+                );
+            }
+        }
         private static void WarmUpFont(Font font, FontLanguageConfig config)
         {
             try
@@ -176,7 +191,6 @@ namespace BetterRimworlds
                     18,
                     FontStyle.Normal
                 );
-
                 Log.Message(
                     $"[BetterRimworlds:{config.Language}] Warmed up font texture."
                 );
@@ -188,7 +202,6 @@ namespace BetterRimworlds
                 );
             }
         }
-
         private static void DumpFontInfo(Font font, FontLanguageConfig config)
         {
             try
@@ -199,7 +212,6 @@ namespace BetterRimworlds
                     $"lineHeight={font.lineHeight}, " +
                     $"dynamic={font.dynamic}"
                 );
-
                 var testChars = config.TestChars;
                 var results = new System.Collections.Generic.List<string>();
                 for (int i = 0; i < Math.Min(8, testChars.Length); i++)
@@ -207,7 +219,6 @@ namespace BetterRimworlds
                     char c = testChars[i];
                     results.Add($"U+{(int)c:X4}={font.HasCharacter(c)}");
                 }
-
                 Log.Message(
                     $"[BetterRimworlds:{config.Language}] Glyph test: " +
                     $"A={font.HasCharacter('A')}, " +
@@ -223,23 +234,24 @@ namespace BetterRimworlds
             }
         }
     }
-
     public class FontLanguageConfig
     {
         public string Language { get; }
         public string[] FontSearchNames { get; }
         public string PackageName { get; }
+        public string FontUrl { get; }
         public string TestChars { get; }
-
         public FontLanguageConfig(
             string language,
             string[] fontSearchNames,
             string packageName,
+            string fontUrl,
             string testChars)
         {
             Language = language;
             FontSearchNames = fontSearchNames;
             PackageName = packageName;
+            FontUrl = fontUrl;
             TestChars = testChars;
         }
     }

@@ -2,7 +2,7 @@
 <LanguageInfo>
   <friendlyNameNative>हिंदी</friendlyNameNative>
   <friendlyNameEnglish>Hindi</friendlyNameEnglish>
-<!--  <languageWorkerClass>BetterRimworlds.LanguageWorker_Hindi</languageWorkerClass>-->
+  <languageWorkerClass>BetterRimworlds.LanguageWorker_Hindi</languageWorkerClass>
   <canBeTiny>false</canBeTiny>
   <credits>
      <li Class="CreditRecord_Role">
