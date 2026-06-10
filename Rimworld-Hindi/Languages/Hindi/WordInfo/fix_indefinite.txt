@@ -1,0 +1,4 @@
+# English a/an indefinite article fixes are usually irrelevant to Hindi.
+# Hindi generally does not translate every English 'a/an' as a separate article.
+# Add entries only if your generated strings visibly need a special workaround.
+

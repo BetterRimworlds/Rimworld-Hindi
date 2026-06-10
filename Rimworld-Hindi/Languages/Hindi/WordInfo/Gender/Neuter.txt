@@ -1,0 +1,3 @@
+# Hindi normally has masculine/feminine noun gender, not a productive neuter noun class.
+# Leave this mostly empty unless RimWorld requires a fallback entry for a specific translated label.
+
