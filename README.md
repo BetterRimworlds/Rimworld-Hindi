@@ -16,58 +16,70 @@ Bring a **full Hindi localization** to RimWorld — built to be **playable, UI-s
 
 ---
 
+## Requirements
+
+Before enabling **RimWorld Hindi**, make sure you have:
+
+- **Harmony Lib** installed and enabled
+
+Harmony Lib is required for this mod to work correctly.
+
+---
+
 ## Installation
 
 ### Option A: Steam Workshop (recommended)
-1. Subscribe to the mod on Steam Workshop
-2. Launch RimWorld
-3. Go to **Mods** → enable **RimWorld Hindi**
-4. Restart RimWorld when prompted
+1. Subscribe to **Harmony Lib** on Steam Workshop
+2. Subscribe to the mod on Steam Workshop
+3. Launch RimWorld
+4. Go to **Mods**
+5. Enable **Harmony Lib**
+6. Enable **RimWorld Hindi**
+7. Restart RimWorld when prompted
 
-> If you don’t see it in your list, restart Steam and RimWorld.
+> If you don’t see either mod in your list, restart Steam and RimWorld.
 
 *(Workshop link: add once published.)*
 
 ---
 
 ### Option B: Manual install (GitHub download)
-1. Download this repository as a ZIP:
+1. Download and install **Harmony Lib**
+2. Download this repository as a ZIP:
    - Click **Code** → **Download ZIP**
-2. Extract it
-3. Copy the folder into your RimWorld Mods directory:
+3. Extract it
+4. Copy the folder into your RimWorld Mods directory:
 
 **Windows**
-```
-
+```text
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\
-
-```
+````
 
 **Linux**
-```
 
+```text
 ~/.steam/steam/steamapps/common/RimWorld/Mods/
-
 ```
 
 **macOS**
-```
 
+```text
 ~/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Mods/
-
 ```
 
-4. Make sure the folder structure looks like:
-```
+5. Make sure the folder structure looks like:
 
+```text
 RimWorld/Mods/RimWorld-Hindi/
 About/
 Languages/
 ...
-
 ```
 
-5. Launch RimWorld → **Mods** → enable **RimWorld Hindi** → restart.
+6. Launch RimWorld → **Mods**
+7. Enable **Harmony Lib**
+8. Enable **RimWorld Hindi**
+9. Restart RimWorld when prompted
 
 ---
 
@@ -84,11 +96,15 @@ After the mod is enabled:
 
 ## Load order
 
-Typically:
-- **Core**
-- DLCs (if any)
-- Other mods
-- **RimWorld Hindi**
+Recommended:
+
+* **Core**
+* DLCs (if any)
+* **Harmony Lib**
+* Other mods
+* **RimWorld Hindi**
+
+Harmony Lib should be enabled before **RimWorld Hindi**.
 
 If another mod includes its own translation files, it may override parts of the Hindi text depending on load order.
 
@@ -96,49 +112,59 @@ If another mod includes its own translation files, it may override parts of the 
 
 ## Known behavior
 
-- Some UI strings are deliberately kept short to avoid overflow.
-- Some mod-added content may remain in English unless those mods ship Hindi translations or you add patches.
-- If you use many mods, translation completeness depends on whether those mods provide keyed strings / translation keys.
+* Some UI strings are deliberately kept short to avoid overflow.
+* Some mod-added content may remain in English unless those mods ship Hindi translations or you add patches.
+* If you use many mods, translation completeness depends on whether those mods provide keyed strings / translation keys.
 
 ---
 
 ## Troubleshooting
 
-### Hindi isn’t showing up in the language menu”
-- Confirm the mod is **enabled**
-- Confirm the folder path is correct:
-  - `Mods/RimWorld-Hindi/Languages/Hindi/`
-- Restart RimWorld after enabling the mod
+### “Hindi isn’t showing up in the language menu”
+
+* Confirm **Harmony Lib** is installed and enabled
+* Confirm **Harmony Lib** loads before **RimWorld Hindi**
+* Confirm **RimWorld Hindi** is enabled
+* Confirm the folder path is correct:
+
+  * `Mods/RimWorld-Hindi/Languages/Hindi/`
+* Restart RimWorld after enabling the mod or changing your mod list
 
 ### “Some text is still in English”
-- That text likely comes from:
-  - another mod (no Hindi translation available)
-  - newly added RimWorld content that hasn’t been updated yet
-- Please open an issue with:
-  - a screenshot
-  - the exact English text
-  - your mod list + load order (if possible)
+
+* That text likely comes from:
+
+  * another mod with no Hindi translation available
+  * newly added RimWorld content that hasn’t been updated yet
+* Please open an issue with:
+
+  * a screenshot
+  * the exact English text
+  * your mod list + load order, if possible
 
 ### “Text looks weird / missing characters”
-- RimWorld font rendering is sensitive to:
-  - font mods
-  - UI scaling
-- Try disabling font/UI mods to confirm compatibility.
+
+* RimWorld font rendering is sensitive to:
+
+  * font mods
+  * UI scaling
+* Try disabling font/UI mods to confirm compatibility.
 
 ---
 
 ## Bug reports & requests
 
 Open a GitHub issue here:
-- Include **screenshots**
-- Include the **exact string** (English if possible)
-- Include your **RimWorld version** and **mod list**
+
+* Include **screenshots**
+* Include the **exact string**, English if possible
+* Include your **RimWorld version** and **mod list**
 
 ---
 
 ## Translation Stats
 
-```
+```text
 ================ HINDI TRANSLATION ANALYSIS ================
 Volume: 125,547 English words -> 188,137 Hindi words
 
@@ -189,7 +215,7 @@ TOTAL BILLABLE HOURS: 2,257.6  | $169,323.30
 ## Credits
 
 Published by **[Better Rimworlds](https://github.com/BetterRimworlds)**
-Built with the **Autonomo AI** localization pipeline (Automated QA Inspection & Copyediting).
+Built with the **Autonomo AI** localization pipeline: Automated QA Inspection & Copyediting.
 
 ---
 
@@ -197,3 +223,6 @@ Built with the **Autonomo AI** localization pipeline (Automated QA Inspection & 
 
 RimWorld is the property of its respective owner(s).
 This translation mod is an independent community project and is not affiliated with or endorsed by Ludeon Studios.
+
+```
+```
