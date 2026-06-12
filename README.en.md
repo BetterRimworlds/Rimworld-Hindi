@@ -1,6 +1,8 @@
 # RimWorld Hindi (Hindi Translation Mod)
 **by [Better Rimworlds](https://github.com/BetterRimworlds)** • powered by Autonomo AI
 
+[**हिंदी/ Hindi**](README.md)
+
 Bring a **full Hindi localization** to RimWorld — built to be **playable, UI-safe, and consistent** across the game’s terminology.
 
 > ✅ Designed for real gameplay: stable placeholders, consistent RimWorld vernacular, and UI-friendly strings.
