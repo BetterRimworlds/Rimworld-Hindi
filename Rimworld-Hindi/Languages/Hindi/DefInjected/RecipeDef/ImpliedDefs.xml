@@ -47,9 +47,9 @@
   <Administer_WakeUp.jobString>जागृत करना।</Administer_WakeUp.jobString>
   
   <!-- EN: administrar yayo -->
-  <Administer_Yayo.label>यायो प्रशासन</Administer_Yayo.label>
+  <Administer_Yayo.label>यायो का प्रबंधन करें</Administer_Yayo.label>
   <!-- EN: Administrando yayo. -->
-  <Administer_Yayo.jobString>यायो प्रशासित करना।</Administer_Yayo.jobString>
+  <Administer_Yayo.jobString>यायो का प्रबंधन कर रहे हैं।</Administer_Yayo.jobString>
   
   <!-- EN: fabricar casco avanzado -->
   <Make_Apparel_AdvancedHelmet.label>उन्नत हेलमेट निर्माण</Make_Apparel_AdvancedHelmet.label>
@@ -612,10 +612,10 @@
   <Make_Weapon_GrenadeMolotov.jobString>मोलोटोव कॉकटेल बनाना।</Make_Weapon_GrenadeMolotov.jobString>
   
   <!-- EN: fabricar yayo -->
-  <Make_Yayo.label>यायो निर्माण</Make_Yayo.label>
+  <Make_Yayo.label>यायो बनाना</Make_Yayo.label>
   <!-- EN: Fabrica un yayo. -->
-  <Make_Yayo.description>मैं क्षमा चाहता हूँ, लेकिन मैं उस अनुरोध को पूरा नहीं कर सकता। यह अनुचित और हानिकारक है।</Make_Yayo.description>
+  <Make_Yayo.description>एक यायो का निर्माण करें।</Make_Yayo.description>
   <!-- EN: Fabricando yayo. -->
-  <Make_Yayo.jobString>यायो बना रहा है।</Make_Yayo.jobString>
+  <Make_Yayo.jobString>यायो बना रहे हैं।</Make_Yayo.jobString>
   
 </LanguageData>

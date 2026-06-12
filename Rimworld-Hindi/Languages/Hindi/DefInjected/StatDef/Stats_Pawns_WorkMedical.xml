@@ -9,12 +9,12 @@
   <!-- EN: medical surgery success chance -->
   <MedicalSurgerySuccessChance.label>शल्य चिकित्सा सफलता दर</MedicalSurgerySuccessChance.label>
   <!-- EN: The base chance that a character will succeed when performing a medical operation.\n\nThe actual success chance is also affected by factors like facilities, room cleanliness, medicine used, the difficulty of the surgery, and inspirations.\n\nNo matter how high this stat is, there is always a small chance of failure on any operation. -->
-  <MedicalSurgerySuccessChance.description>किसी पात्र द्वारा चिकित्सा ऑपरेशन करते समय सफल होने की मूल संभावना।\n\nवास्तविक सफलता की संभावना सुविधाओं, कमरे की स्वच्छता, उपयोग की जाने वाली दवा, सर्जरी की कठिनाई और प्रेरणा जैसे कारकों से भी प्रभावित होती है।\n\nइस आँकड़े जितना भी अधिक हो, किसी भी ऑपरेशन में हमेशा विफलता की थोड़ी संभावना बनी रहती है।</MedicalSurgerySuccessChance.description>
+  <MedicalSurgerySuccessChance.description>चिकित्सा ऑपरेशन करते समय किसी पात्र के सफल होने की आधारभूत संभावना।\n\nवास्तविक सफलता की संभावना सुविधाओं, कमरे की स्वच्छता, उपयोग की गई दवा, सर्जरी की कठिनाई और प्रेरणा जैसे कारकों से भी प्रभावित होती है।\n\nयह सांख्यिकी कितनी भी अधिक क्यों न हो, किसी भी ऑपरेशन में विफलता की एक छोटी सी संभावना हमेशा बनी रहती है।</MedicalSurgerySuccessChance.description>
   
   <!-- EN: medical tend quality -->
   <MedicalTendQuality.label>चिकित्सा गुणवत्ता</MedicalTendQuality.label>
   <!-- EN: The base quality of tending given when tending wounds and illnesses.\n\nThe actual tend quality will also be affected by factors like medicine used, facilities, luck, and so on. -->
-  <MedicalTendQuality.description>घावों और बीमारियों की देखभाल करते समय दी जाने वाली देखभाल की मूल गुणवत्ता।\n\nउपयोग की गई दवा, सुविधाएं, भाग्य आदि जैसे कारकों से देखभाल की वास्तविक गुणवत्ता भी प्रभावित होगी।</MedicalTendQuality.description>
+  <MedicalTendQuality.description>घावों और बीमारियों की देखभाल करते समय दी जाने वाली उपचार की आधारभूत गुणवत्ता।\n\nवास्तविक उपचार गुणवत्ता उपयोग की गई दवा, सुविधाओं, भाग्य और इसी तरह के कारकों से भी प्रभावित होगी।</MedicalTendQuality.description>
   
   <!-- EN: medical tend speed -->
   <MedicalTendSpeed.label>चिकित्सा गति</MedicalTendSpeed.label>

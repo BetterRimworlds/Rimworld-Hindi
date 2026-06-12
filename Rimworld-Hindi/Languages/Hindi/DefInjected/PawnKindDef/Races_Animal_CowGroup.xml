@@ -23,16 +23,16 @@
   <Bison.lifeStages.2.labelPlural>बिज़ोंटेस</Bison.lifeStages.2.labelPlural>
   
   <!-- EN: boomalope --><!-- EN: bumalope -->
-  <Boomalope.label>बुमालोप</Boomalope.label><!-- EN: bumalopes -->
-  <Boomalope.labelPlural>बुमालोप्स</Boomalope.labelPlural>
+  <Boomalope.label>बुमालूपे</Boomalope.label><!-- EN: bumalopes -->
+  <Boomalope.labelPlural>ब्युमलूप्स</Boomalope.labelPlural>
   <!-- EN: boomalope calf --><!-- EN: cría de bumalope -->
-  <Boomalope.lifeStages.boomalope_calf.label>बूमलोप का बच्चा</Boomalope.lifeStages.boomalope_calf.label>
+  <Boomalope.lifeStages.boomalope_calf.label>ब्युमलूप का बच्चा</Boomalope.lifeStages.boomalope_calf.label>
   <!-- EN: boomalope calves --><!-- EN: crías de bumalope -->
   <Boomalope.lifeStages.boomalope_calf.labelPlural>बूमलोप के बच्चे</Boomalope.lifeStages.boomalope_calf.labelPlural><!-- EN: bumalope joven -->
-  <Boomalope.lifeStages.1.label>बुमालोप युवा</Boomalope.lifeStages.1.label><!-- EN: bumalope jóvenes -->
-  <Boomalope.lifeStages.1.labelPlural>बुमालोप युवा</Boomalope.lifeStages.1.labelPlural><!-- EN: bumalope -->
-  <Boomalope.lifeStages.2.label>बुमालोप</Boomalope.lifeStages.2.label><!-- EN: bumalopes -->
-  <Boomalope.lifeStages.2.labelPlural>बुमालोप्स</Boomalope.lifeStages.2.labelPlural>
+  <Boomalope.lifeStages.1.label>युवा बुमालूपे</Boomalope.lifeStages.1.label><!-- EN: bumalope jóvenes -->
+  <Boomalope.lifeStages.1.labelPlural>ब्यूमालोप युवा</Boomalope.lifeStages.1.labelPlural><!-- EN: bumalope -->
+  <Boomalope.lifeStages.2.label>बुमालूपे</Boomalope.lifeStages.2.label><!-- EN: bumalopes -->
+  <Boomalope.lifeStages.2.labelPlural>ब्युमलूप्स</Boomalope.lifeStages.2.labelPlural>
   
   <!-- EN: caribou --><!-- EN: caribú -->
   <Caribou.label>कैरिबू</Caribou.label>
@@ -194,29 +194,29 @@
   <Horse.lifeStages.2.labelPlural>कैबलोस</Horse.lifeStages.2.labelPlural>
   
   <!-- EN: muffalo --><!-- EN: múfalo -->
-  <Muffalo.label>मुफ़ालो</Muffalo.label><!-- EN: múfalo -->
-  <Muffalo.labelFemale>मुफ़ालो</Muffalo.labelFemale><!-- EN: múfalos -->
-  <Muffalo.labelFemalePlural>मुफ़ालोस</Muffalo.labelFemalePlural><!-- EN: múfalo -->
-  <Muffalo.labelMale>मुफ़ालो</Muffalo.labelMale><!-- EN: múfalos -->
-  <Muffalo.labelMalePlural>मुफ़ालोस</Muffalo.labelMalePlural>
+  <Muffalo.label>म्यूफ़लो</Muffalo.label><!-- EN: múfalo -->
+  <Muffalo.labelFemale>म्यूफ़लो</Muffalo.labelFemale><!-- EN: múfalos -->
+  <Muffalo.labelFemalePlural>म्यूफ़ालोस</Muffalo.labelFemalePlural><!-- EN: múfalo -->
+  <Muffalo.labelMale>म्यूफ़लो</Muffalo.labelMale><!-- EN: múfalos -->
+  <Muffalo.labelMalePlural>म्यूफ़ालोस</Muffalo.labelMalePlural>
   <!-- EN: muffalo --><!-- EN: múfalos -->
-  <Muffalo.labelPlural>मुफ़ालोस</Muffalo.labelPlural>
+  <Muffalo.labelPlural>म्यूफ़ालोस</Muffalo.labelPlural>
   <!-- EN: muffalo calf --><!-- EN: ternero de múfalo -->
   <Muffalo.lifeStages.muffalo_calf.label>मफ़लो बछड़ा</Muffalo.lifeStages.muffalo_calf.label><!-- EN: ternera de múfalo -->
-  <Muffalo.lifeStages.muffalo_calf.labelFemale>बछिया मुफ़लो की</Muffalo.lifeStages.muffalo_calf.labelFemale><!-- EN: terneras de múfalo -->
-  <Muffalo.lifeStages.muffalo_calf.labelFemalePlural>मफ़लो की बछियाएँ</Muffalo.lifeStages.muffalo_calf.labelFemalePlural><!-- EN: ternero de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.labelFemale>मफलो बछिया</Muffalo.lifeStages.muffalo_calf.labelFemale><!-- EN: terneras de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.labelFemalePlural>मफ़ेलो बछिया</Muffalo.lifeStages.muffalo_calf.labelFemalePlural><!-- EN: ternero de múfalo -->
   <Muffalo.lifeStages.muffalo_calf.labelMale>मफ़लो बछड़ा</Muffalo.lifeStages.muffalo_calf.labelMale><!-- EN: terneros de múfalo -->
-  <Muffalo.lifeStages.muffalo_calf.labelMalePlural>मफ़लो टर्नरोस</Muffalo.lifeStages.muffalo_calf.labelMalePlural>
+  <Muffalo.lifeStages.muffalo_calf.labelMalePlural>मफलो बछड़े</Muffalo.lifeStages.muffalo_calf.labelMalePlural>
   <!-- EN: muffalo calves --><!-- EN: terneros de múfalo -->
-  <Muffalo.lifeStages.muffalo_calf.labelPlural>मफ़ालो बछड़े</Muffalo.lifeStages.muffalo_calf.labelPlural><!-- EN: novillo de múfalo -->
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>मफलो के बछड़े</Muffalo.lifeStages.muffalo_calf.labelPlural><!-- EN: novillo de múfalo -->
   <Muffalo.lifeStages.1.label>मफ़लो बछड़ा</Muffalo.lifeStages.1.label><!-- EN: novilla de múfalo -->
-  <Muffalo.lifeStages.1.labelFemale>मफ़लो नविका</Muffalo.lifeStages.1.labelFemale><!-- EN: novillas de múfalo -->
-  <Muffalo.lifeStages.1.labelFemalePlural>मुफ़लो बछियाँ</Muffalo.lifeStages.1.labelFemalePlural><!-- EN: novillo de múfalo -->
+  <Muffalo.lifeStages.1.labelFemale>मफेलो की बछिया</Muffalo.lifeStages.1.labelFemale><!-- EN: novillas de múfalo -->
+  <Muffalo.lifeStages.1.labelFemalePlural>मफ़ेलो की बछियाएँ</Muffalo.lifeStages.1.labelFemalePlural><!-- EN: novillo de múfalo -->
   <Muffalo.lifeStages.1.labelMale>मफ़लो बछड़ा</Muffalo.lifeStages.1.labelMale><!-- EN: novillos de múfalo -->
-  <Muffalo.lifeStages.1.labelMalePlural>मुफ़लो नविल्लोस</Muffalo.lifeStages.1.labelMalePlural><!-- EN: novillos de múfalo -->
-  <Muffalo.lifeStages.1.labelPlural>मफ़ालो बैल</Muffalo.lifeStages.1.labelPlural><!-- EN: múfalo -->
-  <Muffalo.lifeStages.2.label>मुफ़ालो</Muffalo.lifeStages.2.label><!-- EN: múfalos -->
-  <Muffalo.lifeStages.2.labelPlural>मुफ़ालोस</Muffalo.lifeStages.2.labelPlural>
+  <Muffalo.lifeStages.1.labelMalePlural>मफ़ेलो के बछड़े</Muffalo.lifeStages.1.labelMalePlural><!-- EN: novillos de múfalo -->
+  <Muffalo.lifeStages.1.labelPlural>मफलो के बछड़े</Muffalo.lifeStages.1.labelPlural><!-- EN: múfalo -->
+  <Muffalo.lifeStages.2.label>म्यूफ़लो</Muffalo.lifeStages.2.label><!-- EN: múfalos -->
+  <Muffalo.lifeStages.2.labelPlural>म्यूफ़ालोस</Muffalo.lifeStages.2.labelPlural>
   
   <!-- EN: rhinoceros --><!-- EN: rinoceronte -->
   <Rhinoceros.label>राइनोसेरोस</Rhinoceros.label>

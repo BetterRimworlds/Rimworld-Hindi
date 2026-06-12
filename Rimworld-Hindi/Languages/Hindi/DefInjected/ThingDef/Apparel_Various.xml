@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: recon armor -->
-  <Apparel_ArmorRecon.label>कवच टोही</Apparel_ArmorRecon.label>
+  <Apparel_ArmorRecon.label>रेकन कवच</Apparel_ArmorRecon.label>
   <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. -->
-  <Apparel_ArmorRecon.description>एक हल्का आंशिक-संचालित कवच सूट, जो त्वरित गति की अनुमति देने के लिए डिज़ाइन किया गया है। हल्के प्लास्टील-बुन प्लेटें गतिशीलता से समझौता किए बिना हमलों को रोकती हैं, और निचले शरीर में न्यूरो-मेमेटिक सहायक किसी इंसान को कवच पहनने और अभी भी आसानी से हिलने देते हैं।\n\nइस तरह का कवच अक्सर शाही स्काउट सैनिकों और ग्लिटरवर्ल्ड पुलिस बलों द्वारा उपयोग किया जाता है।</Apparel_ArmorRecon.description>
+  <Apparel_ArmorRecon.description>हल्के आंशिक रूप से संचालित कवच का एक सूट, जिसे त्वरित गति की अनुमति देने के लिए डिज़ाइन किया गया है। हल्के प्लास्टील-बुने हुए प्लेट्स गतिशीलता से समझौता किए बिना हमलों को रोकते हैं, और निचले शरीर में न्यूरो-मेमेटिक असिस्टर्स एक मानव को कवच पहनने और फिर भी आसानी से चलने की अनुमति देते हैं।\n\nइस तरह का कवच अक्सर शाही स्काउटTroops और चमकदार दुनिया की पुलिस सेनाओं द्वारा उपयोग किया जाता है।</Apparel_ArmorRecon.description>
   
   <!-- EN: T-shirt -->
   <Apparel_BasicShirt.label>टी-शर्ट</Apparel_BasicShirt.label>
@@ -29,17 +29,17 @@
   <!-- EN: flak jacket -->
   <Apparel_FlakJacket.label>सुरक्षा कवच</Apparel_FlakJacket.label>
   <!-- EN: A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
-  <Apparel_FlakJacket.description>मजबूत कपड़े का जैकेट जिसमें कवच प्लेटें सीवी हुई हैं। यह ठोस कवच जितना अच्छा नहीं है, फिर भी यह सभी प्रकार के हमलों से प्रभावी सुरक्षा प्रदान करता है और काफी आरामदायक रहता है।</Apparel_FlakJacket.description>
+  <Apparel_FlakJacket.description>इसमें कवच प्लेटें सिली हुई एक मजबूत कपड़े की जैकेट। हालाँकि यह ठोस कवच जितनी अच्छी नहीं है, फिर भी यह काफी आरामदायक रहते हुए सभी प्रकार के हमलों के विरुद्ध प्रभावी सुरक्षा प्रदान करती है।</Apparel_FlakJacket.description>
   
   <!-- EN: flak pants -->
   <Apparel_FlakPants.label>खंडित पैंट</Apparel_FlakPants.label>
   <!-- EN: A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
-  <Apparel_FlakPants.description>कवच प्लेटें सिले हुए पैंट का एक जोड़ा। यह ठोस कवच जितना अच्छा नहीं है, फिर भी यह सभी प्रकार के हमलों से प्रभावी सुरक्षा प्रदान करता है और काफी आरामदायक रहता है।</Apparel_FlakPants.description>
+  <Apparel_FlakPants.description>इसमें कवच प्लेटें सिली हुई हैं। हालाँकि यह ठोस कवच जितना अच्छा नहीं है, फिर भी यह काफी आरामदायक रहते हुए सभी प्रकार के हमलों के विरुद्ध प्रभावी सुरक्षा प्रदान करता है।</Apparel_FlakPants.description>
   
   <!-- EN: flak vest -->
   <Apparel_FlakVest.label>चूक कवच</Apparel_FlakVest.label>
   <!-- EN: A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs. -->
-  <Apparel_FlakVest.description>छाती और पीठ पर कवच प्लेटें लगी हुई एक बनियान। यह छाती पर बंदूक की गोलियों और छुरा घोंपने के हमलों को रोकने में काफी प्रभावी है, लेकिन यह अंगों की रक्षा नहीं करती है।</Apparel_FlakVest.description>
+  <Apparel_FlakVest.description>छाती और पीठ पर कवच प्लेटों के साथ लगा एक वेस्ट। हालांकि यह छाती पर होने वाली गोलीबारी और वार को रोकने में काफी प्रभावी है, लेकिन यह अंगों की रक्षा करने में कुछ नहीं करता।</Apparel_FlakVest.description>
   
   <!-- EN: jacket -->
   <Apparel_Jacket.label>जैकेट</Apparel_Jacket.label>
@@ -59,12 +59,12 @@
   <!-- EN: plate armor -->
   <Apparel_PlateArmor.label>प्लेट कवच</Apparel_PlateArmor.label>
   <!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. -->
-  <Apparel_PlateArmor.description>गर्दन से पैर तक पूरे शरीर को ढँकने वाली कवच की अतिव्यापी ठोस प्लेटें।</Apparel_PlateArmor.description>
+  <Apparel_PlateArmor.description>गर्दन से लेकर पैरों तक पूरे शरीर को ढकने वाली कवच की एक के ऊपर एक रखी गई ठोस प्लेटें।</Apparel_PlateArmor.description>
   
   <!-- EN: marine armor -->
-  <Apparel_PowerArmor.label>समुद्री कवच</Apparel_PowerArmor.label>
+  <Apparel_PowerArmor.label>मरीन कवच</Apparel_PowerArmor.label>
   <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines. -->
-  <Apparel_PowerArmor.description>एक संचालित कवच का सूट। परतदार प्लास्टील-बुन प्लेटें हमलों को रोकने में बहुत प्रभावी हैं, जिनमें कुछ ही कमजोर जोड़ खंड हैं। न्यूरो-मेमेटिक सहायक किसी इंसान को कवच पहनने और आसानी से हिलने की अनुमति देते हैं।\n\nइस तरह का कवच अक्सर तीव्र-प्रवेश अंतरिक्ष मरीन द्वारा उपयोग किया जाता है।</Apparel_PowerArmor.description>
+  <Apparel_PowerArmor.description>एक पावर आर्मर सूट। परतों वाले प्लास्टील-वुल प्लेट्स हमलों को रोकने में बहुत प्रभावी हैं, जिनमें कुछ ही असुरक्षित जोड़ वाले हिस्से हैं। न्यूरो-मेमेटिक असिस्टर्स एक इंसान को कवच पहनने और फिर भी आसानी से चलने की अनुमति देते हैं।\n\nइस तरह के कवच का उपयोग अक्सर तीव्र-आक्रमण करने वाले स्पेस मरीन्स द्वारा किया जाता है।</Apparel_PowerArmor.description>
   
   <!-- EN: robe -->
   <Apparel_Robe.label>वस्त्र</Apparel_Robe.label>
@@ -74,6 +74,6 @@
   <!-- EN: tribalwear -->
   <Apparel_TribalA.label>जनजातीय परिधान</Apparel_TribalA.label>
   <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->
-  <Apparel_TribalA.description>पाषाण युग के औजारों का उपयोग करके बनाया गया एक पूर्ण-शरीर का परिधान। यह आदिम दिख सकता है, लेकिन यह पहनने वाले को इन्सुलेट करने में प्रभावी है।</Apparel_TribalA.description>
+  <Apparel_TribalA.description>पाषाण युग के औजारों का उपयोग करके बनाया गया एक पूर्ण-शरीर वाला परिधान। हालांकि यह आदिम लग सकता है, लेकिन पहनने वाले को इन्सुलेट करने में यह प्रभावी है।</Apparel_TribalA.description>
   
 </LanguageData>

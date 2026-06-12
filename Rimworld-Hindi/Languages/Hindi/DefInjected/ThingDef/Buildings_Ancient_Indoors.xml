@@ -47,9 +47,9 @@
   <AncientLamp.description>एक प्राचीन स्व-संचालित दीपक। इसकी आंतरिक ऊर्जा आपूर्ति बुरी तरह से कम हो गई है, लेकिन यह अभी भी एक मंद चमक उत्सर्जित करता है।</AncientLamp.description>
   
   <!-- EN: ancient large mech gestator -->
-  <AncientLargeMechGestator.label>प्राचीन विशाल यांत्रिक गर्भाशय</AncientLargeMechGestator.label>
+  <AncientLargeMechGestator.label>प्राचीन विशाल मेच जेस्टेटर</AncientLargeMechGestator.label>
   <!-- EN: An ancient large mech gestator. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientLargeMechGestator.description>एक प्राचीन विशाल यांत्रिक गर्भाशय। मूल्यवान भाग गायब हैं, और बाकी सब कुछ बेकार हो गया है।</AncientLargeMechGestator.description>
+  <AncientLargeMechGestator.description>एक प्राचीन विशाल मेच जेस्टेटर। मूल्यवान पुर्जे गायब हैं, और बाकी सब कुछ बेकार होने तक खराब हो चुका है।</AncientLargeMechGestator.description>
   
   <!-- EN: ancient locker bank -->
   <AncientLockerBank.label>प्राचीन लॉकर बैंक</AncientLockerBank.label>
@@ -64,17 +64,17 @@
   <!-- EN: ancient mech drop beacon -->
   <AncientMechDropBeacon.label>प्राचीन यांत्रिक संकेत</AncientMechDropBeacon.label>
   <!-- EN: The broken shell of a mech drop beacon. Its useful components are missing and the shell has deteriorated after many years. -->
-  <AncientMechDropBeacon.description>एक यांत्रिक ड्रॉप बीकन का टूटा हुआ खोल। इसके उपयोगी घटक गायब हैं और वर्षों बाद खोल खराब हो गया है।</AncientMechDropBeacon.description>
+  <AncientMechDropBeacon.description>एक मेच ड्रॉप बीकन का टूटा हुआ खोल। इसके उपयोगी घटक गायब हैं और कई वर्षों के बाद खोल खराब हो गया है।</AncientMechDropBeacon.description>
   
   <!-- EN: ancient mech gestator -->
-  <AncientMechGestator.label>प्राचीन यांत्रिक गर्भाशय</AncientMechGestator.label>
+  <AncientMechGestator.label>प्राचीन मेच जेस्टेटर</AncientMechGestator.label>
   <!-- EN: An ancient mech gestator. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientMechGestator.description>एक प्राचीन यांत्रिक गर्भधारिणी। मूल्यवान भाग गायब हैं, और बाकी सब कुछ बेकार हो गया है।</AncientMechGestator.description>
+  <AncientMechGestator.description>एक प्राचीन मेच जेस्टेटर। कीमती पुर्जे गायब हैं, और बाकी सब कुछ बेकार होने तक खराब हो चुका है।</AncientMechGestator.description>
   
   <!-- EN: ancient mech vat -->
   <AncientMechGestatorTank.label>प्राचीन यांत्रिक पात्र</AncientMechGestatorTank.label>
   <!-- EN: An ancient device capable of forming new mechanoids, and sustaining injured mechanoids while they rejuvenate. -->
-  <AncientMechGestatorTank.description>एक प्राचीन उपकरण जो नए मैकेनॉइड बनाने और घायल मैकेनॉइड को पुनर्जीवित करते समय बनाए रखने में सक्षम है।</AncientMechGestatorTank.description>
+  <AncientMechGestatorTank.description>एक प्राचीन उपकरण जो नए मेकैनॉइड्स बनाने और घायल मेकैनॉइड्स को उनके पुनर्जीवित होने तक बनाए रखने में सक्षम है।</AncientMechGestatorTank.description>
   <!-- EN: A {0_labelShort} has emerged from a mech vat. -->
   <AncientMechGestatorTank.comps.CompMechGestatorTank.triggeredMessage>एक {0_labelShort} यांत्रिक पात्र से उभरा है।</AncientMechGestatorTank.comps.CompMechGestatorTank.triggeredMessage>
   
@@ -106,10 +106,10 @@
   <!-- EN: ancient security turret -->
   <AncientSecurityTurret.label>प्राचीन सुरक्षा तोप</AncientSecurityTurret.label>
   <!-- EN: An ancient, broken security turret. The valuable parts have all been looted or smashed. -->
-  <AncientSecurityTurret.description>एक प्राचीन, टूटी हुई सुरक्षा तोप। मूल्यवान हिस्से या तो लूट लिए गए हैं या तोड़ दिए गए हैं।</AncientSecurityTurret.description>
+  <AncientSecurityTurret.description>एक प्राचीन, टूटा हुआ सुरक्षा तोप। इसके सभी मूल्यवान हिस्से या तो लूट लिए गए हैं या नष्ट कर दिए गए हैं।</AncientSecurityTurret.description>
   
   <!-- EN: ancient spacer crate -->
-  <AncientSpacerCrate.label>प्राचीन अंतरिक्ष युग बक्सा</AncientSpacerCrate.label>
+  <AncientSpacerCrate.label>प्राचीन अंतरिक्ष युग क्रेट</AncientSpacerCrate.label>
   <!-- EN: An ancient, broken crate. Any valuables it once contained were taken long ago. -->
   <AncientSpacerCrate.description>एक प्राचीन, टूटी हुई पेटी। जो भी मूल्यवान वस्तुएं इसमें कभी थीं, वे बहुत पहले ले ली गईं।</AncientSpacerCrate.description>
   

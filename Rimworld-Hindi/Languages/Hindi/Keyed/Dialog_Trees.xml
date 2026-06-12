@@ -69,7 +69,7 @@
   <!-- EN: {0} agrees to send fighters to help you. -->
   <MilitaryAidSent>{0} लड़ाकों को भेजने के लिए सहमत है आपकी मदद के लिए।</MilitaryAidSent>
   <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
-  <CantSendMilitaryAidInTime>{0} माफ़ी मांगता/मांगती है और कहता/कहती है कि समय पर पहुंच पाना संभव नहीं होगा।\n\n(इस गुट का तकनीकी स्तर परिवहन पॉड के लिए बहुत कम है)</CantSendMilitaryAidInTime>
+  <CantSendMilitaryAidInTime>{0} क्षमा मांगते हैं और कहते हैं कि वे समय पर नहीं पहुंच पाएंगे।\n\n(इस गुट का तकनीक स्तर परिवहन पॉड्स के लिए बहुत कम है)</CantSendMilitaryAidInTime>
   <!-- EN: hostile visitors present -->
   <HostileVisitorsPresent>शत्रु आगंतुक मौजूद हैं</HostileVisitorsPresent>
 

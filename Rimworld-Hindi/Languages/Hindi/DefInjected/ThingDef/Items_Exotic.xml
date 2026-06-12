@@ -9,7 +9,7 @@
   <!-- EN: elephant tusk -->
   <ElephantTusk.label>हाथी का दांत</ElephantTusk.label>
   <!-- EN: An elephant's tusk. It is very durable and valuable. While somewhat unwieldy as a melee weapon, it can still be deadly. -->
-  <ElephantTusk.description>हाथी का दांत। यह बहुत टिकाऊ और मूल्यवान है। नज़दीकी युद्ध के हथियार के रूप में थोड़ा बोझिल होते हुए भी, यह फिर भी घातक हो सकता है।</ElephantTusk.description>
+  <ElephantTusk.description>एक हाथी का दांत। यह बहुत टिकाऊ और मूल्यवान है। नज़दीकी युद्ध के हथियार के रूप में कुछ हद तक संभालने में कठिन होने के बावजूद, यह अभी भी घातक हो सकता है।</ElephantTusk.description>
   <!-- EN: point -->
   <ElephantTusk.tools.point.label>बिंदु</ElephantTusk.tools.point.label>
   <!-- EN: base -->
@@ -39,7 +39,7 @@
   <!-- EN: thrumbo horn -->
   <ThrumboHorn.label>थ्रम्बो सींग</ThrumboHorn.label>
   <!-- EN: A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon. -->
-  <ThrumboHorn.description>थ्रम्बो का सींग। यह रेज़र-शार्प, चट्टान की तरह कठोर है, और ज़्यादातर बाज़ारों में बेशकीमती है। यह एक सच्चा ट्रॉफ़ी है, साथ ही एक घातक नज़दीकी युद्ध हथियार भी।</ThrumboHorn.description>
+  <ThrumboHorn.description>एक थ्रम्बो का सींग। यह उस्तरे की तरह तेज़, पत्थर जैसा कठोर और अधिकांश बाज़ारों में अमूल्य है। यह एक वास्तविक ट्रॉफी होने के साथ-साथ एक घातक नज़दीकी युद्ध हथियार भी है।</ThrumboHorn.description>
   <!-- EN: point -->
   <ThrumboHorn.tools.point.label>बिंदु</ThrumboHorn.tools.point.label>
   <!-- EN: base -->

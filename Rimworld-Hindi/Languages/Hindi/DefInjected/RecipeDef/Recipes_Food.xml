@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: make kibble -->
-  <Make_Kibble.label>चारा बनाना</Make_Kibble.label>
+  <Make_Kibble.label>चारा बनाएँ</Make_Kibble.label>
   <!-- EN: Make animal kibble by combining raw meat and plants. -->
-  <Make_Kibble.description>कच्चे मांस और पौधों को मिलाकर चारा बनाया जाता है।</Make_Kibble.description>
+  <Make_Kibble.description>कच्चे मांस और पौधों को मिलाकर पशु चारा बनाएं।</Make_Kibble.description>
   <!-- EN: protein -->
   <Make_Kibble.ingredients.0.filter.customSummary>प्रोटीन</Make_Kibble.ingredients.0.filter.customSummary>
   <!-- EN: greens -->
@@ -13,17 +13,17 @@
   <Make_Kibble.jobString>चारा बना रहे हैं।</Make_Kibble.jobString>
   
   <!-- EN: make pemmican -->
-  <Make_Pemmican.label>पेमिकन बनाएं</Make_Pemmican.label>
+  <Make_Pemmican.label>पेमिकन बनाएँ</Make_Pemmican.label>
   <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
-  <Make_Pemmican.description>पेमिकन बनाएं, मांस और वनस्पति खाद्य पदार्थों का एक संरक्षित संयोजन। इसका स्वाद अद्भुत नहीं होता, लेकिन यह प्रशीतन के बिना लंबे समय तक चलता है।</Make_Pemmican.description>
+  <Make_Pemmican.description>पेमिकन बनाएं, जो मांस और वनस्पति भोजन का एक संरक्षित संयोजन है। इसका स्वाद बहुत अच्छा नहीं है, लेकिन यह बिना प्रशीतन के लंबे समय तक चलता है।</Make_Pemmican.description>
   <!-- EN: Making pemmican. -->
   <Make_Pemmican.jobString>पेमिकन बना रहे हैं।</Make_Pemmican.jobString>
   
   <!-- EN: make pemmican x4 -->
-  <Make_PemmicanBulk.label>पेमिकन x4</Make_PemmicanBulk.label>
+  <Make_PemmicanBulk.label>4 पेमिकन बनाएँ</Make_PemmicanBulk.label>
   <!-- EN: Make bulk pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
-  <Make_PemmicanBulk.description>बल्क पेमिकन, मांस और वनस्पति खाद्य का एक संरक्षित संयोजन बनाएं। इसका स्वाद अद्भुत नहीं होता, लेकिन यह प्रशीतन के बिना लंबे समय तक चलता है।</Make_PemmicanBulk.description>
+  <Make_PemmicanBulk.description>बड़ी मात्रा में पेमिकन बनाएं, जो मांस और वनस्पति भोजन का एक संरक्षित संयोजन है। इसका स्वाद बहुत अच्छा नहीं है, लेकिन यह बिना प्रशीतन के लंबे समय तक चलता है।</Make_PemmicanBulk.description>
   <!-- EN: Making bulk pemmican. -->
-  <Make_PemmicanBulk.jobString>पेमिकन थोक में बनाना।</Make_PemmicanBulk.jobString>
+  <Make_PemmicanBulk.jobString>थोक पेमिकन बनाना।</Make_PemmicanBulk.jobString>
   
 </LanguageData>

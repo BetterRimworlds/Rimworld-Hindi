@@ -85,7 +85,7 @@
   <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
   <ShootingAccuracyTurret.description>लक्ष्य दूरी की प्रत्येक इकाई पर चूक न करने की आधार संभावना।\n\nलक्ष्य लगने की संभावना कई अन्य कारकों से भी प्रभावित होती है। किसी भी शॉट के लिए लक्ष्य लगने की संभावना का विवरण देखने के लिए, शूटर का चयन करें और लक्ष्य पर माउस ले जाएं।</ShootingAccuracyTurret.description>
   <!-- EN: shooting accuracy (turrets) -->
-  <ShootingAccuracyTurret.labelForFullStatList>शूटिंग सटीकता (तोपें)</ShootingAccuracyTurret.labelForFullStatList>
+  <ShootingAccuracyTurret.labelForFullStatList>निशाना सटीकता (तोपें)</ShootingAccuracyTurret.labelForFullStatList>
   
   <!-- EN: work to make -->
   <WorkToMake.label>निर्माण</WorkToMake.label>

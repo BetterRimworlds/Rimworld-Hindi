@@ -2,20 +2,20 @@
 <LanguageData>
   
   <!-- EN: firefoam pop pack -->
-  <Apparel_FirefoampopPack.label>अग्निफोम पैकेट</Apparel_FirefoampopPack.label>
+  <Apparel_FirefoampopPack.label>फायरफोम पॉप पैक</Apparel_FirefoampopPack.label>
   <!-- EN: A utility pack made for firefighters. When triggered, a burst of fire-retardant foam is released, covering a wide circle around its wearer. -->
   <Apparel_FirefoampopPack.description>अग्निशामकों के लिए बनाया गया एक उपयोगी पैक। सक्रिय होने पर, यह अग्निरोधी फोम का एक विस्फोट छोड़ता है, जो पहनने वाले के चारों ओर एक विस्तृत वृत्त को कवर करता है।</Apparel_FirefoampopPack.description>
   <!-- EN: firefoam pop -->
-  <Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>फ़ोम फूटना</Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>
+  <Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>फायरफोम पॉप</Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
   <Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>ठंडा होना</Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: pop firefoam -->
-  <Apparel_FirefoampopPack.verbs.pop_firefoam.label>फोम आग</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
+  <Apparel_FirefoampopPack.verbs.pop_firefoam.label>फायरफोम पॉप</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
   
   <!-- EN: smokepop pack -->
   <Apparel_SmokepopBelt.label>धुआँ गोला</Apparel_SmokepopBelt.label>
   <!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
-  <Apparel_SmokepopBelt.description>एक रक्षात्मक धुआँ पर्दा। सक्रिय होने पर, यह धुएँ का बादल छोड़ेगा, आने वाली गोलियों को अस्पष्ट करेगा और बुर्ज को लॉक करने से रोकेगा।</Apparel_SmokepopBelt.description>
+  <Apparel_SmokepopBelt.description>एक रक्षात्मक धुआं। सक्रिय होने पर, यह धुएं का एक बादल छोड़ेगा, जिससे आने वाली गोलियां छिप जाएंगी और तोपें निशाना लगाने से रुक जाएंगी।</Apparel_SmokepopBelt.description>
   <!-- EN: smokepop -->
   <Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>धुआँ-पॉप</Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->

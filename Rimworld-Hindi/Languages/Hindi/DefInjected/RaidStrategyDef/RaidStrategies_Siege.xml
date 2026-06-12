@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
-  <Siege.arrivalTextEnemy>ऐसा लगता है कि वे कॉलोनी को घेरना और दूर से मोर्टार से हमला करना चाहते हैं। आप इंतजार करने की कोशिश कर सकते हैं - या उन्हें प्राप्त करने जा सकते हैं।</Siege.arrivalTextEnemy>
+  <Siege.arrivalTextEnemy>ऐसा लगता है कि वे कॉलोनी की घेराबंदी करना चाहते हैं और दूर से मोर्टार से आप पर प्रहार करना चाहते हैं। आप उनके खत्म होने का इंतज़ार कर सकते हैं - या जाकर उनका सामना कर सकते हैं।</Siege.arrivalTextEnemy>
   <!-- EN: It looks like they want to use siege tactics to help you. -->
   <Siege.arrivalTextFriendly>लगता है कि वे आपकी मदद के लिए घेराबंदी रणनीति का उपयोग करने वाले हैं।</Siege.arrivalTextFriendly>
   <!-- EN: Siege -->

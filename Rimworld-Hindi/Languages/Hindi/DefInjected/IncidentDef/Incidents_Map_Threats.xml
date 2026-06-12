@@ -32,11 +32,11 @@
   <ManhunterPack.label>मानशिकारी झुंड</ManhunterPack.label>
   
   <!-- EN: ship part crash (psychic) -->
-  <PsychicEmanatorShipPartCrash.label>जहाज़ भाग दुर्घटना (मानसिक)</PsychicEmanatorShipPartCrash.label>
+  <PsychicEmanatorShipPartCrash.label>जहाज़ का हिस्सा दुर्घटना (मानसिक)</PsychicEmanatorShipPartCrash.label>
   <!-- EN: Psychic ship -->
-  <PsychicEmanatorShipPartCrash.letterLabel>मानसिक जहाज़</PsychicEmanatorShipPartCrash.letterLabel>
+  <PsychicEmanatorShipPartCrash.letterLabel>मानसिक जहाज</PsychicEmanatorShipPartCrash.letterLabel>
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard machine persona with psychic projection ability. And this persona is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
-  <PsychicEmanatorShipPartCrash.letterText>एक प्राचीन जहाज़ का बड़ा टुकड़ा पास में दुर्घटनाग्रस्त हो गया है।\n\nआपके उपनिवेशवादी इसे अपने मन के पीछे महसूस कर सकते हैं, जो अकल्पनीय कृत्यों के लिए उकसा रहा है। इसमें निश्चित रूप से एक ऑनबोर्ड मशीन व्यक्तित्व है जिसमें मानसिक प्रक्षेपण क्षमता है। और यह व्यक्तित्व अनुकूल नहीं है।\n\nइसे जल्द से जल्द नष्ट कर दें। लेकिन सावधान रहें - यह शायद अपनी रक्षा करेगा।</PsychicEmanatorShipPartCrash.letterText>
+  <PsychicEmanatorShipPartCrash.letterText>एक प्राचीन जहाज़ का एक बड़ा हिस्सा पास में ही दुर्घटनाग्रस्त हो गया है।\n\nआपके उपनिवेशवादी इसे अपने मन के भीतर महसूस कर सकते हैं, जो अकथनीय कृत्यों के लिए उकसाता है। इसमें मानसिक प्रक्षेपण क्षमता वाला एक ऑनबोर्ड मशीन व्यक्तित्व होना चाहिए। और यह व्यक्तित्व मित्रवत नहीं है।\n\nइसे जल्द से जल्द नष्ट करें। लेकिन सावधान रहें - यह संभवतः अपना बचाव करेगा।</PsychicEmanatorShipPartCrash.letterText>
   
   <!-- EN: enemy raid -->
   <RaidEnemy.label>शत्रु हमला</RaidEnemy.label>

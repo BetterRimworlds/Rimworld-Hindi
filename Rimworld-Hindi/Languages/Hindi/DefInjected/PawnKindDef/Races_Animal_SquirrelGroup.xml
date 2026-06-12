@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: boomrat --><!-- EN: ratabum -->
-  <Boomrat.label>रताबुम</Boomrat.label><!-- EN: ratas-bum -->
-  <Boomrat.labelPlural>रातास-बूम</Boomrat.labelPlural><!-- EN: cría de ratabum -->
-  <Boomrat.lifeStages.0.label>राताबम का बच्चा</Boomrat.lifeStages.0.label><!-- EN: crías de ratabum -->
-  <Boomrat.lifeStages.0.labelPlural>राताबुम के बच्चे</Boomrat.lifeStages.0.labelPlural><!-- EN: ratabum joven -->
-  <Boomrat.lifeStages.1.label>रताबम युवा</Boomrat.lifeStages.1.label><!-- EN: ratas-bum jóvenes -->
-  <Boomrat.lifeStages.1.labelPlural>रातास-बूम युवा</Boomrat.lifeStages.1.labelPlural><!-- EN: ratabum -->
-  <Boomrat.lifeStages.2.label>रताबुम</Boomrat.lifeStages.2.label><!-- EN: ratas-bum -->
-  <Boomrat.lifeStages.2.labelPlural>रातास-बूम</Boomrat.lifeStages.2.labelPlural>
+  <Boomrat.label>रटाबम</Boomrat.label><!-- EN: ratas-bum -->
+  <Boomrat.labelPlural>रैटस-बम</Boomrat.labelPlural><!-- EN: cría de ratabum -->
+  <Boomrat.lifeStages.0.label>रटाबम का बच्चा</Boomrat.lifeStages.0.label><!-- EN: crías de ratabum -->
+  <Boomrat.lifeStages.0.labelPlural>रटाबम के बच्चे</Boomrat.lifeStages.0.labelPlural><!-- EN: ratabum joven -->
+  <Boomrat.lifeStages.1.label>युवा रटाबम</Boomrat.lifeStages.1.label><!-- EN: ratas-bum jóvenes -->
+  <Boomrat.lifeStages.1.labelPlural>युवा रतास-बम</Boomrat.lifeStages.1.labelPlural><!-- EN: ratabum -->
+  <Boomrat.lifeStages.2.label>रटाबम</Boomrat.lifeStages.2.label><!-- EN: ratas-bum -->
+  <Boomrat.lifeStages.2.labelPlural>रैटस-बम</Boomrat.lifeStages.2.labelPlural>
   
   <!-- EN: iguana --><!-- EN: iguana -->
   <Iguana.label>इगुआना</Iguana.label><!-- EN: iguanas -->

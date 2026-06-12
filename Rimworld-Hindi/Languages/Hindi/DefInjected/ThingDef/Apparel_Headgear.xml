@@ -4,12 +4,12 @@
   <!-- EN: flak helmet -->
   <Apparel_AdvancedHelmet.label>शेलमेट</Apparel_AdvancedHelmet.label>
   <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
-  <Apparel_AdvancedHelmet.description>एक जटिल डिज़ाइन वाला हल्का लड़ाकू हेलमेट, प्लास्टील से प्रबलित। कुंद हथियारों के खिलाफ प्रभावी नहीं है।</Apparel_AdvancedHelmet.description>
+  <Apparel_AdvancedHelmet.description>एक जटिल डिज़ाइन वाला हल्का लड़ाकू हेलमेट, जो प्लास्टील से सुदृढ़ है। कुंद हथियारों के विरुद्ध प्रभावी नहीं है।</Apparel_AdvancedHelmet.description>
   
   <!-- EN: recon helmet -->
   <Apparel_ArmorHelmetRecon.label>टोपी, टोला</Apparel_ArmorHelmetRecon.label>
   <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. -->
-  <Apparel_ArmorHelmetRecon.description>एक उच्च-तकनीकी बख़्तरबंद हेलमेट जिसमें एक अंतर्निहित स्थिति कंप्यूटर और एक सुरक्षात्मक प्लास्टील-बुना प्लेट है।\n\nइस तरह का कवच अक्सर शाही स्काउट सैनिकों या ग्लिटरवर्ल्ड पुलिस बलों द्वारा उपयोग किया जाता है।</Apparel_ArmorHelmetRecon.description>
+  <Apparel_ArmorHelmetRecon.description>एक उच्च-तकनीकी कवच वाला हेलमेट जिसमें एक अंतर्निहित स्थिति कंप्यूटर और एक सुरक्षात्मक प्लास्टील-बुनाई वाली प्लेट है।\n\nइस तरह का कवच अक्सर शाही स्काउट सैनिकों या चमकदार दुनिया की पुलिस सेनाओं द्वारा उपयोग किया जाता है।</Apparel_ArmorHelmetRecon.description>
   
   <!-- EN: bowler hat -->
   <Apparel_BowlerHat.label>टोपी</Apparel_BowlerHat.label>
@@ -34,12 +34,12 @@
   <!-- EN: marine helmet -->
   <Apparel_PowerArmorHelmet.label>समुद्री हेलमेट</Apparel_PowerArmorHelmet.label>
   <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by rapid-incursion space marines. -->
-  <Apparel_PowerArmorHelmet.description>एक समुद्री कवच हेलमेट, जिसमें एक अंतर्निहित स्थिति कंप्यूटर और परतदार प्लास्टील-बुन प्लेटें हैं।\n\nइस तरह का कवच अक्सर तीव्र-प्रवेश अंतरिक्ष मरीन द्वारा उपयोग किया जाता है।</Apparel_PowerArmorHelmet.description>
+  <Apparel_PowerArmorHelmet.description>एक मरीन कवच हेलमेट, जिसमें एक अंतर्निहित स्थिति कंप्यूटर और स्तरित प्लास्टील-बुनाई वाली प्लेटें हैं।\n\nइस तरह का कवच अक्सर तीव्र-आक्रमण करने वाले स्पेस मरीन्स द्वारा उपयोग किया जाता है।</Apparel_PowerArmorHelmet.description>
   
   <!-- EN: psychic foil helmet -->
-  <Apparel_PsychicFoilHelmet.label>मानसिक अवरोधक हेलमेट</Apparel_PsychicFoilHelmet.label>
+  <Apparel_PsychicFoilHelmet.label>मानसिक फ़ॉइल हेलमेट</Apparel_PsychicFoilHelmet.label>
   <!-- EN: A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic waves. -->
-  <Apparel_PsychicFoilHelmet.description>एक पतला हेलमेट जिसमें मानसिक रूप से अवशोषक पन्नी की बारीक परतें हैं। यह मानसिक तरंगों के प्रभाव को कम करता है।</Apparel_PsychicFoilHelmet.description>
+  <Apparel_PsychicFoilHelmet.description>एक पतला हेलमेट जिसमें सूक्ष्म रूप से ट्यून की गई मनोवैज्ञानिक-अवशोषक पन्नी की परतें होती हैं। यह मानसिक तरंगों के प्रभाव को कम करता है।</Apparel_PsychicFoilHelmet.description>
   
   <!-- EN: simple helmet -->
   <Apparel_SimpleHelmet.label>सादा हेलमेट</Apparel_SimpleHelmet.label>

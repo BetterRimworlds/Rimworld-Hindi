@@ -26,7 +26,7 @@
   <Play_Horseshoes.reportString>हॉर्सशू खेलना</Play_Horseshoes.reportString>
   
   <!-- EN: playing TargetA. -->
-  <Play_MusicalInstrument.reportString>लक्ष्य कार्य</Play_MusicalInstrument.reportString>
+  <Play_MusicalInstrument.reportString>TargetA खेल रहे हैं।</Play_MusicalInstrument.reportString>
   
   <!-- EN: playing poker. -->
   <Play_Poker.reportString>पोकर खेलें</Play_Poker.reportString>
@@ -50,7 +50,7 @@
   <VisitGrave.reportString>क़ब्र पर जाना।</VisitGrave.reportString>
   
   <!-- EN: cheering up patient TargetA. -->
-  <VisitSickPawn.reportString>मरीज़ टारगेटए को उत्साहित करना।</VisitSickPawn.reportString>
+  <VisitSickPawn.reportString>मरीज TargetA का उत्साह बढ़ाना।</VisitSickPawn.reportString>
   
   <!-- EN: watching television. -->
   <WatchTelevision.reportString>टेलीविजन देखना।</WatchTelevision.reportString>

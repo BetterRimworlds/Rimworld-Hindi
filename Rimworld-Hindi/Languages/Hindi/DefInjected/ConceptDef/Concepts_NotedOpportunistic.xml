@@ -4,7 +4,7 @@
   <!-- EN: Animals will attack doors -->
   <AnimalsDontAttackDoors.label>दरवाज़े पर पशु हमला</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
-  <AnimalsDontAttackDoors.helpText>शिकारी जानवर दरवाजों पर हमला करेंगे यदि वे आपके किसी उपनिवेशवादी को उनसे गुजरते हुए देखते हैं। वे निष्क्रिय बुर्ज पर भी हमला करेंगे।</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.helpText>मानव-शिकारी जानवर दरवाजों पर हमला करेंगे यदि वे आपके किसी भी उपनिवेशवादी को उनके माध्यम से चलते हुए देखते हैं। वे निष्क्रिय तोपें पर भी हमला करेंगे।</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
   <BillsTab.label>बिल टैब</BillsTab.label>
@@ -36,7 +36,7 @@
   <!-- EN: Drafting for combat -->
   <Drafting.label>युद्ध हेतु मसौदा</Drafting.label>
   <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
-  <Drafting.helpText>युद्ध के लिए उपनिवेशवादियों को सीधे नियंत्रित करने के लिए, उन्हें ड्राफ्ट करें, उन्हें चुनें और ड्राफ्ट बटन दबाएं।\n\nएक ड्राफ्ट किया गया उपनिवेशवादी केवल वही करेगा जो आप बताते हैं, और केवल युद्ध कार्य कर सकता है। जिनके पास हथियार हैं वे जब संभव हो तो उनका उपयोग करेंगे।\n\nउपनिवेशवादियों को हमेशा के लिए ड्राफ्ट न छोड़ें - वे भूखे मर जाएंगे और दुखी हो जाएंगे।</Drafting.helpText>
+  <Drafting.helpText>युद्ध के लिए उपनिवेशवादियों को सीधे नियंत्रित करने के लिए, उन्हें चुनकर और DRAFT बटन दबाकर तैनात करें।\n\nएक तैनात उपनिवेशवादी केवल वही करेगा जो आप उनसे कहेंगे, और केवल युद्ध संबंधी कार्य ही कर सकता है। हथियार वाले लोग संभव होने पर उनका उपयोग करेंगे।\n\nउपनिवेशवादियों को हमेशा के लिए तैनात न छोड़ें - वे भूखे मर जाएंगे और दुखी हो जाएंगे।</Drafting.helpText>
   
   <!-- EN: Drug addiction -->
   <DrugAddiction.label>दवा व्यसन</DrugAddiction.label>
@@ -51,7 +51,7 @@
   <!-- EN: Drug policies -->
   <DrugPolicies.label>दवा नीतियाँ</DrugPolicies.label>
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
-  <DrugPolicies.helpText>आप उपनिवेशवादियों को एक विशिष्ट कार्यक्रम पर विशिष्ट दवाएँ लेने के लिए नियुक्त कर सकते हैं। उदाहरण के लिए, आप उन्हें नियमित रूप से संक्रमण-अवरोधक दवाएँ लेने या खुश रहने के लिए प्रतिदिन एक बीयर पीने के लिए कह सकते हैं।\n\nASSIGN टैब खोलें और &amp;apos;दवा नीतियों का प्रबंधन करें&amp;apos; बटन दबाएँ। एक नई दवा नीति बनाएँ। फिर, आप इस नीति को उपनिवेशवादियों को सौंप सकते हैं।\n\nउपनिवेशवादी अभी भी अपनी नीति में शामिल नहीं होने वाली दवाएँ ले सकते हैं। आप उन्हें बता सकते हैं कि क्या करना है, लेकिन वे अपनी इच्छाओं का भी पालन करते हैं!</DrugPolicies.helpText>
+  <DrugPolicies.helpText>आप उपनिवेशवादियों को एक विशिष्ट समय सारणी पर विशिष्ट दवाओं का सेवन करने के लिए नियुक्त कर सकते हैं। उदाहरण के लिए, आप उन्हें नियमित रूप से संक्रमण-रोधी दवाओं का सेवन करने, या खुश रहने के लिए दिन में एक बीयर पीने के लिए कह सकते हैं।\n\nASSIGN टैब खोलें और 'Manage drug policies' बटन दबाएं। एक नई दवा नीति बनाएं। फिर, आप इस नीति को उपनिवेशवादियों को सौंप सकते हैं।\n\nउपनिवेशवादी अभी भी अपनी नीति में न होने वाली दवाओं का सेवन कर सकते हैं। आप उन्हें क्या करना है यह बता सकते हैं, लेकिन वे अपनी इच्छाओं का भी पालन करते हैं!</DrugPolicies.helpText>
   
   <!-- EN: Positioning fighters -->
   <GroupGotoHereDragging.label>योद्धा स्थिति निर्धारण</GroupGotoHereDragging.label>
@@ -68,11 +68,11 @@
   <InteractingWithTraders.helpTextController>जिन लोगों के सिर पर ? है, उनसे बात की जा सकती है।\n\nएक उपनिवेशवादी का चयन करें और ? लगे हुए चरित्र पर बाईं ट्रिगर बटन दबाएं।</InteractingWithTraders.helpTextController>
   
   <!-- EN: Using the comms console -->
-  <OpeningComms.label>संचार कंसोल उपयोग</OpeningComms.label>
+  <OpeningComms.label>संचार कंसोल का उपयोग करना</OpeningComms.label>
   <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
-  <OpeningComms.helpText>संचार करने के लिए, एक उपनिवेशवादी का चयन करें और कम्स कंसोल पर राइट-क्लिक करें।</OpeningComms.helpText>
+  <OpeningComms.helpText>बातचीत करने के लिए, एक उपनिवेशवादी को चुनें और कम्स कंसोल पर राइट-क्लिक करें।</OpeningComms.helpText>
   <!-- EN: To communicate, select a colonist and press the left trigger button on the comms console. -->
-  <OpeningComms.helpTextController>संचार करने के लिए, एक उपनिवेशवादी का चयन करें और संचार कंसोल पर बाएँ ट्रिगर बटन दबाएँ।</OpeningComms.helpTextController>
+  <OpeningComms.helpTextController>संवाद करने के लिए, एक उपनिवेशवादी को चुनें और संचार कंसोल पर बायां ट्रिगर बटन दबाएं।</OpeningComms.helpTextController>
   
   <!-- EN: Prisoner tab -->
   <PrisonerTab.label>कैदी टैब</PrisonerTab.label>
@@ -109,9 +109,9 @@
   <Shelves.helpText>शेल्फ खाली ज़मीन से तीन गुना अधिक भंडारण करते हैं। शेल्फ पर रखी वस्तुएँ कभी खराब नहीं होंगी और उनके आसपास की सुंदरता को प्रभावित नहीं करेंगी।\n\nआप शेल्फ को समूहों में जोड़ सकते हैं और उन्हें एक के रूप में कॉन्फ़िगर कर सकते हैं। पहले, दो या अधिक शेल्फ चुनें, फिर &amp;apos;लिंक स्टोरेज सेटिंग्स&amp;apos; पर क्लिक करें।</Shelves.helpText>
   
   <!-- EN: Shield belts -->
-  <ShieldBelts.label>शील्ड बेल्ट</ShieldBelts.label>
+  <ShieldBelts.label>ढाल बेल्ट</ShieldBelts.label>
   <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
-  <ShieldBelts.helpText>शील्ड बेल्ट रेंज हमलों को अंदर या बाहर आने से रोकते हैं। इनका हाथापाई हमलों पर कोई प्रभाव नहीं पड़ता है।\n\nशील्ड बेल्ट के खिलाफ लड़ने के लिए, या तो लक्ष्य पर बहुत अधिक गोलीबारी केंद्रित करें, या हाथ से लड़ें।</ShieldBelts.helpText>
+  <ShieldBelts.helpText>ढाल बेल्ट दूर के हमलों को अंदर या बाहर आने से रोकते हैं। नज़दीकी युद्ध हमलों पर इनका कोई प्रभाव नहीं पड़ता है।\n\nढाल बेल्ट के विरुद्ध लड़ने के लिए, या तो लक्ष्य पर बहुत अधिक गोलीबारी केंद्रित करें, या आमने-सामने लड़ें।</ShieldBelts.helpText>
   
   <!-- EN: TV for sick people -->
   <TVForSickPeople.label>बीमार लोगों के लिए टीवी</TVForSickPeople.label>

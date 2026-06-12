@@ -2,136 +2,136 @@
 <LanguageData>
   
   <!-- EN: Analyzing TargetA. -->
-  <AnalyzeItem.reportString>विश्लेषण लक्ष्यA.</AnalyzeItem.reportString>
+  <AnalyzeItem.reportString>TargetA का विश्लेषण कर रहा है।</AnalyzeItem.reportString>
   
   <!-- EN: arresting TargetA. -->
-  <Arrest.reportString>लक्ष्यA को गिरफ़्तार किया जा रहा है।</Arrest.reportString>
+  <Arrest.reportString>TargetA को गिरफ्तार कर रहे हैं।</Arrest.reportString>
   
   <!-- EN: building roof. -->
   <BuildRoof.reportString>छत निर्माण.</BuildRoof.reportString>
   
   <!-- EN: capturing TargetA. -->
-  <Capture.reportString>लक्ष्यA को पकड़ना।</Capture.reportString>
+  <Capture.reportString>TargetA को पकड़ना।</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnDrafted.reportString>लक्ष्यA ले जा रहा है।</CarryDownedPawnDrafted.reportString>
+  <CarryDownedPawnDrafted.reportString>TargetA ले जा रहा है।</CarryDownedPawnDrafted.reportString>
   
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnToExit.reportString>लक्ष्यA ले जा रहा है।</CarryDownedPawnToExit.reportString>
+  <CarryDownedPawnToExit.reportString>TargetA ले जा रहा है।</CarryDownedPawnToExit.reportString>
   
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnToPortal.reportString>लक्ष्यA ले जा रहा है।</CarryDownedPawnToPortal.reportString>
+  <CarryDownedPawnToPortal.reportString>TargetA ले जा रहा है।</CarryDownedPawnToPortal.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
-  <CarryToCryptosleepCasket.reportString>लक्ष्य ए को क्रिप्टोस्लीप ताबूत तक ले जाया जा रहा है।</CarryToCryptosleepCasket.reportString>
+  <CarryToCryptosleepCasket.reportString>TargetA को क्रिप्टोस्लीप ताबूत तक ले जा रहे हैं।</CarryToCryptosleepCasket.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
-  <CarryToCryptosleepCasketDrafted.reportString>लक्ष्य ए को क्रिप्टोस्लीप ताबूत तक ले जा रहा है।</CarryToCryptosleepCasketDrafted.reportString>
+  <CarryToCryptosleepCasketDrafted.reportString>TargetA को क्रिप्टोस्लीप ताबूत तक ले जा रहे हैं।</CarryToCryptosleepCasketDrafted.reportString>
   
   <!-- EN: arresting TargetA. -->
-  <CarryToPrisonerBedDrafted.reportString>लक्ष्यA को गिरफ़्तार किया जा रहा है।</CarryToPrisonerBedDrafted.reportString>
+  <CarryToPrisonerBedDrafted.reportString>TargetA को गिरफ्तार कर रहे हैं।</CarryToPrisonerBedDrafted.reportString>
   
   <!-- EN: cleaning TargetA. -->
-  <Clean.reportString>लक्ष्यA साफ़ करना।</Clean.reportString>
+  <Clean.reportString>TargetA की सफाई।</Clean.reportString>
   
   <!-- EN: cutting TargetA. -->
-  <CutPlant.reportString>लक्ष्य ए काट रहा है।</CutPlant.reportString>
+  <CutPlant.reportString>TargetA की कटाई।</CutPlant.reportString>
   
   <!-- EN: cutting TargetA. -->
-  <CutPlantDesignated.reportString>लक्ष्य ए काट रहा है।</CutPlantDesignated.reportString>
+  <CutPlantDesignated.reportString>TargetA काटना।</CutPlantDesignated.reportString>
   
   <!-- EN: deconstructing TargetA. -->
-  <Deconstruct.reportString>लक्ष्यA विघटन।</Deconstruct.reportString>
+  <Deconstruct.reportString>TargetA का विखंडन कर रहे हैं।</Deconstruct.reportString>
   
   <!-- EN: deconstructing TargetA. -->
-  <DeconstructForBlueprint.reportString>लक्ष्यA विघटन।</DeconstructForBlueprint.reportString>
+  <DeconstructForBlueprint.reportString>TargetA का विखंडन कर रहे हैं।</DeconstructForBlueprint.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
-  <DeliverFood.reportString>लक्ष्यA को लक्ष्यB को खिलाना।</DeliverFood.reportString>
+  <DeliverFood.reportString>TargetB को TargetA खिलाना।</DeliverFood.reportString>
   
   <!-- EN: doing bill at TargetA. -->
-  <DoBill.reportString>टारगेटए पर बिल कर रहा/रही हूँ।</DoBill.reportString>
+  <DoBill.reportString>TargetA पर बिल बना रहे हैं।</DoBill.reportString>
   
   <!-- EN: escorting prisoner TargetA. -->
-  <EscortPrisonerToBed.reportString>कैदी TargetA को एस्कॉर्ट करना।</EscortPrisonerToBed.reportString>
+  <EscortPrisonerToBed.reportString>कैदी TargetA को ले जा रहे हैं।</EscortPrisonerToBed.reportString>
   
   <!-- EN: extracting skull from TargetA. -->
-  <ExtractSkull.reportString>लक्ष्य ए से खोपड़ी निकालना।</ExtractSkull.reportString>
+  <ExtractSkull.reportString>TargetA से खोपड़ी निकालना।</ExtractSkull.reportString>
   
   <!-- EN: extracting TargetA. -->
-  <ExtractTree.reportString>लक्ष्यA निकालना</ExtractTree.reportString>
+  <ExtractTree.reportString>TargetA निकालना।</ExtractTree.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
-  <FeedPatient.reportString>लक्ष्यA को लक्ष्यB को खिलाना।</FeedPatient.reportString>
+  <FeedPatient.reportString>TargetB को TargetA खिलाना।</FeedPatient.reportString>
   
   <!-- EN: filling in TargetA. -->
-  <FillIn.reportString>TargetA भरना</FillIn.reportString>
+  <FillIn.reportString>TargetA भर रहा है।</FillIn.reportString>
   
   <!-- EN: building TargetA. -->
-  <FinishFrame.reportString>बिल्डिंग टारगेटए.</FinishFrame.reportString>
+  <FinishFrame.reportString>TargetA का निर्माण।</FinishFrame.reportString>
   
   <!-- EN: replacing broken components in TargetA. -->
-  <FixBrokenDownBuilding.reportString>लक्ष्यए में टूटे हुए घटकों को बदलना।</FixBrokenDownBuilding.reportString>
+  <FixBrokenDownBuilding.reportString>TargetA में टूटे हुए घटक बदल रहे हैं।</FixBrokenDownBuilding.reportString>
   
   <!-- EN: executing TargetA. -->
-  <GuiltyColonistExecution.reportString>लक्ष्यA निष्पादित किया जा रहा है।</GuiltyColonistExecution.reportString>
+  <GuiltyColonistExecution.reportString>TargetA को निष्पादित कर रहा है।</GuiltyColonistExecution.reportString>
   
   <!-- EN: hacking TargetA. -->
-  <Hack.reportString>हैकिंग लक्ष्यA.</Hack.reportString>
+  <Hack.reportString>TargetA को हैक करना।</Hack.reportString>
   
   <!-- EN: harvesting TargetA. -->
-  <Harvest.reportString>लक्ष्यA की कटाई</Harvest.reportString>
+  <Harvest.reportString>TargetA की कटाई कर रहे हैं।</Harvest.reportString>
   
   <!-- EN: harvesting TargetA. -->
-  <HarvestDesignated.reportString>लक्ष्य ए की कटाई</HarvestDesignated.reportString>
+  <HarvestDesignated.reportString>TargetA की कटाई कर रहे हैं।</HarvestDesignated.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToCell.reportString>ले जाना लक्ष्यA.</HaulToCell.reportString>
+  <HaulToCell.reportString>TargetA की ढुलाई करना।</HaulToCell.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToContainer.reportString>ले जाना लक्ष्यA.</HaulToContainer.reportString>
+  <HaulToContainer.reportString>TargetA की ढुलाई करना।</HaulToContainer.reportString>
   
   <!-- EN: hunting TargetA. -->
-  <Hunt.reportString>शिकार लक्ष्यA.</Hunt.reportString>
+  <Hunt.reportString>TargetA का शिकार करना।</Hunt.reportString>
   
   <!-- EN: kidnapping TargetA. -->
-  <Kidnap.reportString>अपहरण लक्ष्यA.</Kidnap.reportString>
+  <Kidnap.reportString>TargetA का अपहरण करना।</Kidnap.reportString>
   
   <!-- EN: milking TargetA. -->
-  <Milk.reportString>दूध निकालना TargetA.</Milk.reportString>
+  <Milk.reportString>TargetA का दुहना।</Milk.reportString>
   
   <!-- EN: digging at TargetA. -->
-  <Mine.reportString>लक्ष्यA पर खुदाई</Mine.reportString>
+  <Mine.reportString>TargetA पर खुदाई।</Mine.reportString>
   
   <!-- EN: drilling at TargetA. -->
   <OperateDeepDrill.reportString>TargetA पर ड्रिलिंग।</OperateDeepDrill.reportString>
   
   <!-- EN: scanning at TargetA. -->
-  <OperateScanner.reportString>लक्ष्यA पर स्कैनिंग।</OperateScanner.reportString>
+  <OperateScanner.reportString>TargetA पर स्कैनिंग।</OperateScanner.reportString>
   
   <!-- EN: painting TargetA. -->
-  <PaintBuilding.reportString>चित्रण TargetA.</PaintBuilding.reportString>
+  <PaintBuilding.reportString>TargetA की पेंटिंग।</PaintBuilding.reportString>
   
   <!-- EN: painting TargetA. -->
-  <PaintFloor.reportString>चित्रण TargetA.</PaintFloor.reportString>
+  <PaintFloor.reportString>TargetA की पेंटिंग।</PaintFloor.reportString>
   
   <!-- EN: building TargetA. -->
-  <PlaceNoCostFrame.reportString>बिल्डिंग टारगेटए.</PlaceNoCostFrame.reportString>
+  <PlaceNoCostFrame.reportString>TargetA का निर्माण।</PlaceNoCostFrame.reportString>
   
   <!-- EN: planting TargetA. -->
-  <PlantSeed.reportString>रोपण लक्ष्यA.</PlantSeed.reportString>
+  <PlantSeed.reportString>TargetA का रोपण।</PlantSeed.reportString>
   
   <!-- EN: attempting to recruit TargetA. -->
-  <PrisonerAttemptRecruit.reportString>लक्ष्यA को भर्ती करने का प्रयास।</PrisonerAttemptRecruit.reportString>
+  <PrisonerAttemptRecruit.reportString>TargetA को भर्ती करने का प्रयास कर रहे हैं।</PrisonerAttemptRecruit.reportString>
   
   <!-- EN: executing TargetA. -->
-  <PrisonerExecution.reportString>लक्ष्यA निष्पादित किया जा रहा है।</PrisonerExecution.reportString>
+  <PrisonerExecution.reportString>TargetA को निष्पादित कर रहा है।</PrisonerExecution.reportString>
   
   <!-- EN: releasing TargetA into the wild. -->
-  <ReleaseAnimalToWild.reportString>लक्ष्यA को जंगल में छोड़ना।</ReleaseAnimalToWild.reportString>
+  <ReleaseAnimalToWild.reportString>TargetA को खुले में छोड़ना।</ReleaseAnimalToWild.reportString>
   
   <!-- EN: releasing TargetA. -->
-  <ReleasePrisoner.reportString>लक्ष्यA जारी किया जा रहा है।</ReleasePrisoner.reportString>
+  <ReleasePrisoner.reportString>TargetA को मुक्त कर रहे हैं।</ReleasePrisoner.reportString>
   
   <!-- EN: removing floor. -->
   <RemoveFloor.reportString>फ़र्श हटाना।</RemoveFloor.reportString>
@@ -140,40 +140,40 @@
   <RemoveFoundation.reportString>फाउंडेशन हटाना।</RemoveFoundation.reportString>
   
   <!-- EN: removing paint from TargetA. -->
-  <RemovePaintBuilding.reportString>टारगेटए से पेंट हटाना।</RemovePaintBuilding.reportString>
+  <RemovePaintBuilding.reportString>TargetA से पेंट हटाना।</RemovePaintBuilding.reportString>
   
   <!-- EN: removing paint from TargetA. -->
-  <RemovePaintFloor.reportString>टारगेटए से पेंट हटाना।</RemovePaintFloor.reportString>
+  <RemovePaintFloor.reportString>TargetA से पेंट हटा रहे हैं।</RemovePaintFloor.reportString>
   
   <!-- EN: removing roof. -->
   <RemoveRoof.reportString>छत हटाना।</RemoveRoof.reportString>
   
   <!-- EN: repairing TargetA. -->
-  <Repair.reportString>लक्ष्यA की मरम्मत।</Repair.reportString>
+  <Repair.reportString>TargetA की मरम्मत कर रहे हैं।</Repair.reportString>
   
   <!-- EN: replanting TargetA. -->
-  <Replant.reportString>पुनर् रोपण लक्ष्यA.</Replant.reportString>
+  <Replant.reportString>TargetA का पुनर्रोपण कर रहे हैं।</Replant.reportString>
   
   <!-- EN: rescuing TargetA. -->
-  <Rescue.reportString>बचाव: TargetA</Rescue.reportString>
+  <Rescue.reportString>TargetA को बचाना।</Rescue.reportString>
   
   <!-- EN: researching. -->
   <Research.reportString>अनुसंधान।</Research.reportString>
   
   <!-- EN: leading TargetA to hitching spot. -->
-  <RopeRoamerToHitchingPost.reportString>लक्ष्यA को जोड़ना स्थान की ओर ले जाना।</RopeRoamerToHitchingPost.reportString>
+  <RopeRoamerToHitchingPost.reportString>TargetA को जुड़ाव के स्थान की ओर ले जा रहे हैं।</RopeRoamerToHitchingPost.reportString>
   
   <!-- EN: leading TargetA to TargetC. -->
-  <RopeRoamerToUnenclosedPen.reportString>लक्ष्यA को लक्ष्यC की ओर ले जाना।</RopeRoamerToUnenclosedPen.reportString>
+  <RopeRoamerToUnenclosedPen.reportString>TargetA को TargetC की ओर ले जाना।</RopeRoamerToUnenclosedPen.reportString>
   
   <!-- EN: leading TargetA to TargetC. -->
-  <RopeToPen.reportString>लक्ष्यA को लक्ष्यC की ओर ले जाना।</RopeToPen.reportString>
+  <RopeToPen.reportString>TargetA को TargetC की ओर ले जाना।</RopeToPen.reportString>
   
   <!-- EN: shearing TargetA. -->
-  <Shear.reportString>कतरनी लक्ष्यA.</Shear.reportString>
+  <Shear.reportString>TargetA की ऊन कटाई</Shear.reportString>
   
   <!-- EN: slaughtering TargetA. -->
-  <Slaughter.reportString>वध लक्ष्यA.</Slaughter.reportString>
+  <Slaughter.reportString>TargetA का वध कर रहे हैं।</Slaughter.reportString>
   
   <!-- EN: smoothing floor. -->
   <SmoothFloor.reportString>फ़र्श समतल करना।</SmoothFloor.reportString>
@@ -182,42 +182,42 @@
   <SmoothWall.reportString>दीवार समतल करना।</SmoothWall.reportString>
   
   <!-- EN: sowing TargetA. -->
-  <Sow.reportString>बीज बोना TargetA.</Sow.reportString>
+  <Sow.reportString>TargetA की बुवाई।</Sow.reportString>
   
   <!-- EN: stealing TargetA. -->
-  <Steal.reportString>चोरी लक्ष्यA.</Steal.reportString>
+  <Steal.reportString>TargetA की चोरी करना।</Steal.reportString>
   
   <!-- EN: Studying TargetA. -->
-  <StudyInteract.reportString>लक्ष्यA का अध्ययन।</StudyInteract.reportString>
+  <StudyInteract.reportString>TargetA का अध्ययन कर रहे हैं।</StudyInteract.reportString>
   
   <!-- EN: Studying TargetA. -->
-  <StudyItem.reportString>लक्ष्यA का अध्ययन।</StudyItem.reportString>
+  <StudyItem.reportString>TargetA का अध्ययन कर रहे हैं।</StudyItem.reportString>
   
   <!-- EN: taking TargetA to bed. -->
-  <TakeDownedPawnToBedDrafted.reportString>टारगेटए को बिस्तर पर ले जाना।</TakeDownedPawnToBedDrafted.reportString>
+  <TakeDownedPawnToBedDrafted.reportString>TargetA को बिस्तर पर ले जा रहे हैं।</TakeDownedPawnToBedDrafted.reportString>
   
   <!-- EN: taking TargetA to bed. -->
-  <TakeToBedToOperate.reportString>टारगेटए को बिस्तर पर ले जाना।</TakeToBedToOperate.reportString>
+  <TakeToBedToOperate.reportString>TargetA को बिस्तर पर ले जा रहे हैं।</TakeToBedToOperate.reportString>
   
   <!-- EN: taking wounded prisoner TargetA. -->
-  <TakeWoundedPrisonerToBed.reportString>घायल कैदी TargetA को ले जाना।</TakeWoundedPrisonerToBed.reportString>
+  <TakeWoundedPrisonerToBed.reportString>घायल कैदी TargetA को ले जा रहे हैं।</TakeWoundedPrisonerToBed.reportString>
   
   <!-- EN: taming TargetA. -->
-  <Tame.reportString>लक्ष्यA को पालना।</Tame.reportString>
+  <Tame.reportString>TargetA को पालना।</Tame.reportString>
   
   <!-- EN: tending to TargetA. -->
-  <TendPatient.reportString>लक्ष्यA की देखभाल</TendPatient.reportString>
+  <TendPatient.reportString>TargetA की देखभाल करना।</TendPatient.reportString>
   
   <!-- EN: training TargetA. -->
-  <Train.reportString>प्रशिक्षण लक्ष्यA</Train.reportString>
+  <Train.reportString>TargetA का प्रशिक्षण।</Train.reportString>
   
   <!-- EN: uninstalling TargetA. -->
-  <Uninstall.reportString>TargetA अनइंस्टॉल किया जा रहा है।</Uninstall.reportString>
+  <Uninstall.reportString>TargetA को अनइंस्टॉल किया जा रहा है।</Uninstall.reportString>
   
   <!-- EN: unroping TargetA. -->
-  <Unrope.reportString>लक्ष्यA खोलना।</Unrope.reportString>
+  <Unrope.reportString>TargetA को कपड़े उतारना।</Unrope.reportString>
   
   <!-- EN: using comms console. -->
-  <UseCommsConsole.reportString>संचार कंसोल का उपयोग कर रहा है।</UseCommsConsole.reportString>
+  <UseCommsConsole.reportString>संचार कंसोल का उपयोग कर रहे हैं।</UseCommsConsole.reportString>
   
 </LanguageData>

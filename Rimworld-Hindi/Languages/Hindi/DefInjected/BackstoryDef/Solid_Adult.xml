@@ -20,7 +20,7 @@
   <AcolyteOfStars6.titleShortFemale>पुजारीन</AcolyteOfStars6.titleShortFemale>
   
   <!-- EN: After recovering from a joywire addiction, [PAWN_nameDef] adopted a non-violent way of life and vowed to help others.\n\nTravelling between communities, [PAWN_pronoun] used medicine, arts, and crafts to aid others who struggled with their own addictions. -->
-  <AddictionCounsel60.description>{PAWN_gender ? पुनर्वास के बाद, [PAWN_nameDef] ने अहिंसक जीवन अपनाया और दूसरों की मदद करने की कसम खाई।\n\nसमुदायों के बीच यात्रा करते हुए, उसने दवा, कला और शिल्प का उपयोग उन लोगों की सहायता के लिए किया जो अपनी लत से जूझ रहे थे। : पुनर्वास के बाद, [PAWN_nameDef] ने अहिंसक जीवन अपनाया और दूसरों की मदद करने की कसम खाई।\n\nविभिन्न समुदायों के बीच यात्रा करते हुए, उन्होंने दवा, कला और शिल्प का उपयोग उन लोगों की सहायता के लिए किया जो अपनी लत से जूझ रहे थे।}</AddictionCounsel60.description>
+  <AddictionCounsel60.description>आनंद तार की लत से उबरने के बाद, [PAWN_nameDef] ने अहिंसक जीवन शैली अपना ली और दूसरों की मदद करने की शपथ ली।\n\nसमुदायों के बीच यात्रा करते हुए, उसने उन लोगों की सहायता करने के लिए दवा, कला और शिल्प का उपयोग किया जो अपनी स्वयं की लतों से जूझ रहे थे।</AddictionCounsel60.description>
   <!-- EN: counselor -->
   <AddictionCounsel60.title>परामर्शदाता</AddictionCounsel60.title>
   <AddictionCounsel60.titleFemale>सलाहकार</AddictionCounsel60.titleFemale>
@@ -29,7 +29,7 @@
   <AddictionCounsel60.titleShortFemale>परामर्शदाता (Paramarshadata)</AddictionCounsel60.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s thirst for adventure took [PAWN_objective] to many planets. [PAWN_pronoun] visited the brightest glitterworlds and the darkest war-torn toxic planets in [PAWN_possessive] quest to find novelty and excitement.\n\n[PAWN_pronoun] worked as little as possible, often skirting ethical boundaries to make a quick buck. Among all jobs, [PAWN_pronoun] hated cooking the most. -->
-  <Adventurer19.description>{PAWN_gender ? [PAWN_nameDef] की रोमांच की प्यास उसे कई ग्रहों तक ले गई। उसने सबसे चमकीले ग्लिटरवर्ल्ड और सबसे अंधेरे युद्धग्रस्त जहरीले ग्रहों का दौरा किया, नवीनता और उत्साह की तलाश में।\n\nउसने जितना हो सके कम काम किया, अक्सर जल्दी पैसा कमाने के लिए नैतिक सीमाओं को दरकिनार कर दिया। सभी नौकरियों में, उसने खाना पकाने से सबसे ज़्यादा नफ़रत की। : [PAWN_nameDef] की रोमांच की प्यास उसे कई ग्रहों तक ले गई। उसने सबसे चमकीले ग्लिटरवर्ल्ड और सबसे अंधेरे युद्धग्रस्त जहरीले ग्रहों का दौरा किया, अपनी नवीनता और उत्साह की खोज में।\n\nउसने जितना हो सके कम काम किया, अक्सर जल्दी पैसा कमाने के लिए नैतिक सीमाओं को टालता रहा। सभी नौकरियों में, उसने खाना पकाने से सबसे ज़्यादा नफ़रत की।}</Adventurer19.description>
+  <Adventurer19.description>{PAWN_gender ? [PAWN_nameDef] की रोमांच की प्यास उसे कई ग्रहों तक ले गई। नवीनता और उत्साह की अपनी खोज में उसने सबसे उज्ज्वल चमकदार दुनियाएँ और सबसे अंधेरे युद्धग्रस्त जहरीले ग्रहों की यात्रा की।\n\nउसने जितना हो सके उतना कम काम किया, अक्सर जल्दी पैसा कमाने के लिए नैतिक सीमाओं को लांघती रही। सभी कामों के बीच, उसे खाना बनाना सबसे ज्यादा नापसंद था। : [PAWN_nameDef] की रोमांच की प्यास उसे कई ग्रहों तक ले गई। नवीनता और उत्साह की अपनी खोज में उसने सबसे चमकदार दुनियाएँ और युद्ध से जर्जर सबसे अंधेरे जहरीले ग्रहों का दौरा किया।\n\nउसने जितना हो सके उतना कम काम किया, अक्सर जल्दी पैसा कमाने के लिए नैतिक सीमाओं को लांघता रहा। सभी कामों के बीच, उसे खाना बनाना सबसे ज्यादा नापसंद था।}</Adventurer19.description>
   <!-- EN: adventurer -->
   <Adventurer19.title>साहसी व्यक्ति</Adventurer19.title>
   <Adventurer19.titleFemale>साहसी महिला</Adventurer19.titleFemale>
@@ -38,7 +38,7 @@
   <Adventurer19.titleShortFemale>साहसी महिला</Adventurer19.titleShortFemale>
   
   <!-- EN: A creative but strange individual, [PAWN_nameDef] dedicated [PAWN_possessive] life to [PAWN_possessive] twin passions of medieval world history and high technology.\n\n[PAWN_pronoun] was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword. -->
-  <AdventurousWeirdo55.description>{PAWN_gender ? कलात्मक लेकिन विचित्र व्यक्ति, [PAWN_nameDef] ने अपना जीवन मध्ययुगीन विश्व इतिहास और उच्च तकनीक के अपने दोहरे जुनून को समर्पित कर दिया।\n\nवह &amp;apos;स्काईनाइट&amp;apos; बनने के विचार से मोहित थी, जिसके पास चमकते कवच और एक विशाल तलवार थी। : एक रचनात्मक लेकिन अजीब व्यक्ति, [PAWN_nameDef] ने अपना जीवन मध्ययुगीन विश्व इतिहास और उच्च तकनीक के अपने दोहरे जुनून को समर्पित कर दिया।\n\nवह &amp;apos;स्काईनाइट&amp;apos; बनने के विचार से मोहित था, जिसके पास चमकते कवच और एक विशाल तलवार थी।}</AdventurousWeirdo55.description>
+  <AdventurousWeirdo55.description>{PAWN_gender ? एक रचनात्मक लेकिन अजीब व्यक्तित्व वाली, [PAWN_nameDef] ने अपना जीवन मध्ययुगीन दुनिया के इतिहास और उच्च तकनीक के अपने दोहरे जुनून को समर्पित कर दिया।\n\nवह चमकते हुए कवच और एक विशाल तलवार के साथ 'स्काईनाइट' बनने के विचार से मंत्रमुग्ध थी। : एक रचनात्मक लेकिन अजीब व्यक्ति, [PAWN_nameDef] ने अपना जीवन मध्ययुगीन दुनिया के इतिहास और उच्च तकनीक के अपने दोहरे जुनून को समर्पित कर दिया।\n\nवह चमकते हुए कवच और एक विशाल तलवार के साथ 'स्काईनाइट' बनने के विचार से मंत्रमुग्ध था।}</AdventurousWeirdo55.description>
   <!-- EN: adventurous weirdo -->
   <AdventurousWeirdo55.title>साहसी विचित्र व्यक्ति</AdventurousWeirdo55.title>
   <AdventurousWeirdo55.titleFemale>साहसी विलक्षण महिला</AdventurousWeirdo55.titleFemale>
@@ -101,10 +101,10 @@
   <Archaeologist85.titleShortFemale>अन्वेषिका</Archaeologist85.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] researched archotech intelligences.\n\nStudying a mysterious archotechnological object from orbit, [PAWN_pronoun] became convinced that it was communicating directly with [PAWN_objective]. Eventually [PAWN_possessive] colleagues caught [PAWN_objective] transmitting secret information directed towards the dark sphere, and he was forced to flee. -->
-  <ArchotechSpy75.description>{PAWN_gender ? [PAWN_nameDef] ने आर्कोटेक इंटेलिजेंस का शोध किया।\n\nकक्षा से एक रहस्यमय आर्कोटेक्नोलॉजिकल वस्तु का अध्ययन करते हुए, वह आश्वस्त हो गई कि यह सीधे उससे संवाद कर रही है। अंततः उसके सहयोगियों ने उसे अंधेरे गोले की ओर निर्देशित गुप्त जानकारी प्रसारित करते हुए पकड़ लिया, और उसे भागने के लिए मजबूर होना पड़ा। : [PAWN_nameDef] ने आर्कोटेक इंटेलिजेंस का शोध किया।\n\nकक्षा से एक रहस्यमय आर्कोटेक्नोलॉजिकल वस्तु का अध्ययन करते हुए, वह आश्वस्त हो गया कि यह सीधे उससे संवाद कर रही है। अंततः उसके सहयोगियों ने उसे अंधेरे गोले की ओर निर्देशित गुप्त जानकारी प्रसारित करते हुए पकड़ लिया, और उसे भागने के लिए मजबूर होना पड़ा।}</ArchotechSpy75.description>
+  <ArchotechSpy75.description>{PAWN_gender ? [PAWN_nameDef] ने आर्कोटेक बुद्धिमत्ता पर शोध किया।\n\nकक्षा से एक रहस्यमयी आर्कोटेक्नोलॉजिकल वस्तु का अध्ययन करते हुए, वह इस बात के लिए आश्वस्त हो गई थी कि वह सीधे उससे संवाद कर रही है। अंततः उसके सहयोगियों ने उसे उस काले गोले की ओर गुप्त जानकारी प्रसारित करते हुए पकड़ लिया, और उसे भागने के लिए मजबूर होना पड़ा। : [PAWN_nameDef] ने आर्कोटेक बुद्धिमत्ता पर शोध किया।\n\nकक्षा से एक रहस्यमय आर्कोटेक्नोलॉजिकल वस्तु का अध्ययन करते हुए, उसे विश्वास हो गया कि वह सीधे उससे संवाद कर रही है। अंततः उसके सहयोगियों ने उसे उस काले गोले की ओर गुप्त जानकारी प्रसारित करते हुए पकड़ लिया, और उसे भागने के लिए मजबूर होना पड़ा।}</ArchotechSpy75.description>
   <!-- EN: archotech researcher -->
-  <ArchotechSpy75.title>प्रौद्योगिकी अनुसंधानकर्ता</ArchotechSpy75.title>
-  <ArchotechSpy75.titleFemale>प्रौद्योगिकी शोधकर्ता</ArchotechSpy75.titleFemale>
+  <ArchotechSpy75.title>आर्कोटेक शोधकर्ता</ArchotechSpy75.title>
+  <ArchotechSpy75.titleFemale>आर्कोटेक शोधकर्ता</ArchotechSpy75.titleFemale>
   <!-- EN: researcher -->
   <ArchotechSpy75.titleShort>शोधकर्ता</ArchotechSpy75.titleShort>
   <ArchotechSpy75.titleShortFemale>शोधकर्ता महिला</ArchotechSpy75.titleShortFemale>
@@ -146,7 +146,7 @@
   <Aromatherapist80.titleShortFemale>मनोवैज्ञानिक चिकित्सक</Aromatherapist80.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] became depressed and lost interest in life. [PAWN_pronoun] traveled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in [PAWN_possessive] soul.\n\nA steady trigger finger and careful planning kept [PAWN_nameDef] alive. -->
-  <ArtifactHunter48.description>{PAWN_gender ? [PAWN_nameDef] अवसादग्रस्त हो गई और जीवन में रुचि खो बैठी। वह ग्रह से ग्रह की यात्रा करती रही, यांत्रिक खंडहरों के बीच मानसिक कलाकृतियों की तलाश में, इस उम्मीद में कि वे उसकी आत्मा के दर्द को ठीक कर देंगी।\n\nएक स्थिर उंगली और सावधानीपूर्वक योजना ने [PAWN_nameDef] को जीवित रखा। : [PAWN_nameDef] अवसादग्रस्त हो गया और जीवन में रुचि खो बैठा। वह ग्रह से ग्रह की यात्रा करता रहा, यांत्रिक खंडहरों के बीच मानसिक कलाकृतियों की तलाश में, इस उम्मीद में कि वे उसकी आत्मा के दर्द को ठीक कर देंगे।\n\nएक स्थिर उंगली और सावधानीपूर्वक योजना ने [PAWN_nameDef] को जीवित रखा।}</ArtifactHunter48.description>
+  <ArtifactHunter48.description>{PAWN_gender ? [PAWN_nameDef] अवसादग्रस्त हो गई और जीवन में उसकी रुचि समाप्त हो गई। वह अपनी आत्मा के दर्द को ठीक करने की आशा में मेकैनॉइड खंडहरों के बीच मनोवैज्ञानिक कलाकृतियों की तलाश में एक ग्रह से दूसरे ग्रह तक यात्रा करती रही।\n\nएक स्थिर ट्रिगर उंगली और सावधानीपूर्ण योजना ने [PAWN_nameDef] को जीवित रखा। : [PAWN_nameDef] अवसादग्रस्त हो गया और जीवन में उसकी रुचि समाप्त हो गई। वह अपनी आत्मा के दर्द को ठीक करने की आशा में मेकैनॉइड खंडहरों के बीच मनोवैज्ञानिक कलाकृतियों की तलाश में एक ग्रह से दूसरे ग्रह तक यात्रा करता रहा।\n\nएक स्थिर ट्रिगर उंगली और सावधानीपूर्ण योजना ने [PAWN_nameDef] को जीवित रखा।}</ArtifactHunter48.description>
   <!-- EN: artifact hunter -->
   <ArtifactHunter48.title>पुरातत्व शिकारी</ArtifactHunter48.title>
   <ArtifactHunter48.titleFemale>पुरातत्ववेत्ता</ArtifactHunter48.titleFemale>
@@ -209,7 +209,7 @@
   <BanishedSoldier85.titleShortFemale>अपराधी महिला</BanishedSoldier85.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] had received firearms training, but [PAWN_possessive] work was focused on technical adaptation and manipulation of combat mechanoids on the battlefield.\n\n[PAWN_pronoun] developed PTSD after narrowly escaping a primitive firebomb attack in a wheat field. The army medically discharged [PAWN_objective] from service. -->
-  <BattlefieldTech52.description>{PAWN_gender ? [PAWN_nameDef] को आग्नेयास्त्रों का प्रशिक्षण मिला था, लेकिन उनका कार्य युद्ध के मैदान में युद्ध यांत्रिकों के तकनीकी अनुकूलन और हेरफेर पर केंद्रित था।\n\nएक गेहूं के खेत में एक आदिम आग बम हमले से बाल-बाल बचने के बाद उसे पोस्ट-ट्रॉमेटिक स्ट्रेस डिसऑर्डर विकसित हो गया। सेना ने उसे चिकित्सकीय रूप से सेवा से मुक्त कर दिया। : [PAWN_nameDef] को आग्नेयास्त्रों का प्रशिक्षण मिला था, लेकिन उनका कार्य युद्ध के मैदान में युद्ध यांत्रिकों के तकनीकी अनुकूलन और हेरफेर पर केंद्रित था।\n\nगेहूं के खेत में एक आदिम आग बम हमले से बाल-बाल बचने के बाद उन्हें पोस्ट-ट्रॉमेटिक स्ट्रेस डिसऑर्डर विकसित हो गया। सेना ने उन्हें चिकित्सकीय रूप से सेवा से मुक्त कर दिया।}</BattlefieldTech52.description>
+  <BattlefieldTech52.description>{PAWN_gender ? [PAWN_nameDef] ने आग्नेयास्त्रों का प्रशिक्षण प्राप्त किया था, लेकिन उसका कार्य युद्ध के मैदान में लड़ाकू मेकैनॉइड्स के तकनीकी अनुकूलन और हेरफेर पर केंद्रित था।\n\nगेहूं के खेत में एक आदिम फायरबॉम्ब हमले से बाल-बाल बचने के बाद उसे PTSD हो गया। सेना ने उसे चिकित्सा आधार पर सेवा से मुक्त कर दिया। : [PAWN_nameDef] ने आग्नेयास्त्रों का प्रशिक्षण प्राप्त किया था, लेकिन उसका काम युद्ध के मैदान में लड़ाकू मेकैनॉइड्स के तकनीकी अनुकूलन और हेरफेर पर केंद्रित था।\n\nगेहूं के खेत में एक आदिम फायरबॉम्ब हमले से बाल-बाल बचने के बाद उसे PTSD हो गया। सेना ने उसे चिकित्सकीय रूप से सेवा से मुक्त कर दिया।}</BattlefieldTech52.description>
   <!-- EN: battlefield tech -->
   <BattlefieldTech52.title>युद्धक्षेत्र तकनीशियन</BattlefieldTech52.title>
   <BattlefieldTech52.titleFemale>युद्धक्षेत्र तकनीशियन</BattlefieldTech52.titleFemale>
@@ -227,7 +227,7 @@
   <BattleMechanic27.titleShortFemale>मैकेनिक</BattleMechanic27.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] traveled between planets, following news of animal attacks. [PAWN_pronoun] would camp on the planet for weeks, learning about [PAWN_possessive] prey before striking. [PAWN_pronoun] most enjoyed hunting thrumbos.\n\nPreferring to work alone, [PAWN_nameDef] enjoyed the thrill of the hunt, and the meat from the kill. -->
-  <BeastSlayer67.description>{PAWN_gender ? शिकारी\n\n[PAWN_nameDef] ग्रहों के बीच यात्रा करती थी, पशु हमलों की खबरों का पीछा करते हुए। वह हफ्तों तक ग्रह पर डेरा डालती थी, अपने शिकार के बारे में जानने के बाद हमला करती थी। उसे थ्रंबो का शिकार करने में सबसे ज़्यादा मज़ा आता था।\n\nअकेले काम करना पसंद करने वाली, [PAWN_nameDef] को शिकार के रोमांच और शिकार से मिलने वाले मांस का आनंद आता था। : [PAWN_nameDef] ग्रहों के बीच यात्रा करता था, पशु हमलों की खबरों का पीछा करते हुए। वह हफ्तों तक ग्रह पर डेरा डाले रहता था, अपने शिकार के बारे में जानने के बाद हमला करता था। उसे थ्रमबो का शिकार करने में सबसे ज़्यादा मज़ा आता था।\n\nअकेले काम करना पसंद करने वाले [PAWN_nameDef] को शिकार के रोमांच और शिकार से मिलने वाले मांस का आनंद आता था।}</BeastSlayer67.description>
+  <BeastSlayer67.description>{PAWN_gender ? [PAWN_nameDef] जानवरों के हमलों की खबरों का पीछा करते हुए ग्रहों के बीच यात्रा करती थी। वह हमला करने से पहले अपने शिकार के बारे में जानने के लिए हफ्तों तक उस ग्रह पर डेरा जमाए रखती थी। उसे थ्रम्बोज़ का शिकार करना सबसे ज्यादा पसंद था।\n\nअकेले काम करना पसंद करने वाली, [PAWN_nameDef] को शिकार के रोमांच और मारे गए जानवर के मांस का आनंद आता था। : [PAWN_nameDef] जानवरों के हमलों की खबरों का पीछा करते हुए ग्रहों के बीच यात्रा करता था। वह हमला करने से पहले अपने शिकार के बारे में जानने के लिए हफ्तों तक ग्रह पर डेरा जमाए रखता था। उसे थ्रम्बोज़ का शिकार करना सबसे ज्यादा पसंद था।\n\nअकेले काम करना पसंद करने वाले, [PAWN_nameDef] को शिकार का रोमांच और मारे गए जानवर का मांस बहुत पसंद था।}</BeastSlayer67.description>
   <!-- EN: beast slayer -->
   <BeastSlayer67.title>पशु शिकारी</BeastSlayer67.title>
   <BeastSlayer67.titleFemale>पशु शिकारी</BeastSlayer67.titleFemale>
@@ -245,7 +245,7 @@
   <BehaviourResearch74.titleShortFemale>वैज्ञानिक महिला</BehaviourResearch74.titleShortFemale>
   
   <!-- EN: As a blacksmith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
-  <Blacksmith7.description>{PAWN_gender ? लोहार होने के नाते, [PAWN_nameDef] ने मध्ययुगीन दुनिया में अपने काम की उच्च गुणवत्ता के लिए प्रतिष्ठा प्राप्त की। उसने जो तलवारें बनाईं, उनका उपयोग करने में भी वह अच्छी थी। : लोहार के रूप में, [PAWN_nameDef] ने अपनी उत्कृष्ट गुणवत्ता वाली कारीगरी के लिए ख्याति प्राप्त की। वह जो तलवारें बनाता था, उनका उपयोग करने में भी वह बुरा नहीं था।}</Blacksmith7.description>
+  <Blacksmith7.description>{PAWN_gender ? एक मध्ययुगीन दुनिया में एक लोहार के रूप में, [PAWN_nameDef] ने अपने काम की उच्च गुणवत्ता के लिए प्रतिष्ठा प्राप्त की। वह अपने द्वारा बनाई गई तलवारों का उपयोग करने में भी माहिर थी। : एक मध्ययुगीन दुनिया में एक लोहार के रूप में, [PAWN_nameDef] ने अपने काम की उच्च गुणवत्ता के लिए प्रतिष्ठा प्राप्त की। वह अपने द्वारा बनाई गई तलवारों का उपयोग करने में भी बुरा नहीं था।}</Blacksmith7.description>
   <!-- EN: blacksmith -->
   <Blacksmith7.title>लोहार</Blacksmith7.title>
   <Blacksmith7.titleFemale>लोहार महिला</Blacksmith7.titleFemale>
@@ -299,7 +299,7 @@
   <BountyHunter17.titleShortFemale>शिकारी महिला</BountyHunter17.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a bounty hunter on a massive glitterworld. [PAWN_pronoun] worked sensitive assignments for extremely wealthy clients, and was known for quiet execution and total discretion. -->
-  <BountyHunter41.description>{PAWN_gender ? [PAWN_nameDef] एक विशाल चमकते ग्रह पर एक इनाम शिकारी थी। उसने बेहद धनी ग्राहकों के लिए संवेदनशील कार्य किए, और वह शांत निष्पादन और पूर्ण विवेक के लिए जानी जाती थी। : [PAWN_nameDef] एक विशाल चमकते ग्रह पर एक इनाम शिकारी था। उसने अत्यंत धनी ग्राहकों के लिए संवेदनशील कार्य किए, और वह शांत निष्पादन और पूर्ण विवेक के लिए जाना जाता था।}</BountyHunter41.description>
+  <BountyHunter41.description>{PAWN_gender ? [PAWN_nameDef] एक विशाल चमकदार दुनिया पर एक इनाम की शिकारी थी। वह अत्यंत धनी ग्राहकों के लिए संवेदनशील काम करती थी, और अपने शांत निष्पादन और पूर्ण गोपनीयता के लिए जानी जाती थी। : [PAWN_nameDef] एक विशाल चमकदार दुनिया पर एक इनाम का शिकारी था। वह अत्यंत धनी ग्राहकों के लिए संवेदनशील काम करता था, और अपनी शांत कार्यप्रणाली और पूर्ण गोपनीयता के लिए जाना जाता था।}</BountyHunter41.description>
   <!-- EN: bounty hunter -->
   <BountyHunter41.title>शिकारी इनामदार</BountyHunter41.title>
   <BountyHunter41.titleFemale>शिकारी महिला</BountyHunter41.titleFemale>
@@ -362,7 +362,7 @@
   <CargoPilot58.titleShortFemale>पायलट महिला</CargoPilot58.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was fascinated with cryptosleep, and spent [PAWN_possessive] life learning about the mysterious technology.\n\nWorking as an assembler on a midworld, [PAWN_nameDef] built an experimental prototype casket from discarded parts. Unfortunately, while [PAWN_pronoun] was searching for the final component, [PAWN_possessive] home was leveled by a bomb. -->
-  <CasketBuilder52.description>{PAWN_gender ? [PAWN_nameDef] को क्राइप्टोस्लीप में दिलचस्पी थी, और उसने अपना जीवन इस रहस्यमय तकनीक के बारे में सीखने में बिताया।\n\nएक मध्य-विश्व पर असेंबलर के रूप में काम करते हुए, [PAWN_nameDef] ने त्याग किए गए भागों से एक प्रायोगिक प्रोटोटाइप ताबूत बनाया। दुर्भाग्य से, जब वह अंतिम घटक की तलाश कर रही थी, तो उसका घर एक बम से तबाह हो गया। : [PAWN_nameDef] क्रिप्टोस्लीप से मोहित था, और उसने अपना जीवन इस रहस्यमय तकनीक के बारे में सीखने में बिताया।\n\nएक मध्य-विश्व पर असेम्बलर के रूप में काम करते हुए, [PAWN_nameDef] ने त्याग किए गए भागों से एक प्रायोगिक प्रोटोटाइप ताबूत बनाया। दुर्भाग्य से, जब वह अंतिम घटक की तलाश कर रहा था, तो उसका घर एक बम से तबाह हो गया।}</CasketBuilder52.description>
+  <CasketBuilder52.description>{PAWN_gender ? [PAWN_nameDef] क्रिप्टोस्लीप से मंत्रमुग्ध थी, और उसने अपना जीवन इस रहस्यमयी तकनीक के बारे में सीखने में बिताया।\n\nमध्य दुनिया में एक असेंबलर के रूप में काम करते हुए, [PAWN_nameDef] ने फेंके गए हिस्सों से एक प्रयोगात्मक प्रोटोटाइप ताबूत बनाया। दुर्भाग्यवश, जब वह अंतिम घटक की तलाश कर रही थी, तब एक बम ने उसके घर को तहस-नहस कर दिया। : [PAWN_nameDef] क्रिप्टोस्लीप से मंत्रमुग्ध था, और उसने अपना जीवन इस रहस्यमयी तकनीक के बारे में सीखने में बिताया।\n\nमध्य दुनिया में एक असेंबलर के रूप में काम करते हुए, [PAWN_nameDef] ने फेंके गए हिस्सों से एक प्रयोगात्मक प्रोटोटाइप ताबूत बनाया। दुर्भाग्यवश, जब वह अंतिम घटक की तलाश कर रहा था, तब एक बम ने उसके घर को तहस-नहस कर दिया।}</CasketBuilder52.description>
   <!-- EN: casket builder -->
   <CasketBuilder52.title>शव-पेटिका निर्माता</CasketBuilder52.title>
   <CasketBuilder52.titleFemale>शव-पेटिका निर्माता</CasketBuilder52.titleFemale>
@@ -389,7 +389,7 @@
   <Chemist73.titleShortFemale>रसायनज्ञ (Rasayanajña)</Chemist73.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a renowned chemist on a thriving midworld.\n\nAfter performing inhumane experiments that turned men into beasts, [PAWN_pronoun] was arrested and banished to a far-off rimworld. -->
-  <Chemist78.description>{PAWN_gender ? [PAWN_nameDef] एक समृद्ध मध्य-विश्व पर एक प्रसिद्ध रसायनज्ञ थीं।\n\nअमानवीय प्रयोग करने के बाद जिन्होंने पुरुषों को जानवरों में बदल दिया, उन्हें गिरफ्तार कर एक दूर के रिमवर्ल्ड में निर्वासित कर दिया गया। : [PAWN_nameDef] एक समृद्ध मध्य-विश्व पर एक प्रसिद्ध रसायनज्ञ था।\n\nअमानवीय प्रयोग करने के बाद जिन्होंने पुरुषों को जानवरों में बदल दिया, उसे गिरफ्तार कर एक दूर के रिमवर्ल्ड में निर्वासित कर दिया गया।}</Chemist78.description>
+  <Chemist78.description>{PAWN_gender ? [PAWN_nameDef] एक समृद्ध मध्य दुनिया पर एक प्रसिद्ध रसायनशास्त्री थी।\n\nइंसानों को दरिंदों में बदलने वाले अमानवीय प्रयोग करने के बाद, उसे गिरफ्तार कर लिया गया और एक दूरस्थ रिमवर्ल्ड पर निर्वासित कर दिया गया। : [PAWN_nameDef] एक समृद्ध मध्य दुनिया पर एक प्रसिद्ध रसायनशास्त्री था।\n\nइंसानों को दरिंदों में बदलने वाले अमानवीय प्रयोग करने के बाद, उसे गिरफ्तार कर लिया गया और एक दूरस्थ रिमवर्ल्ड पर निर्वासित कर दिया गया।}</Chemist78.description>
   <!-- EN: chemist -->
   <Chemist78.title>रसायनज्ञ</Chemist78.title>
   <Chemist78.titleFemale>रसायनज्ञ</Chemist78.titleFemale>
@@ -506,7 +506,7 @@
   <CombatMedtech59.titleShortFemale>चिकित्सक</CombatMedtech59.titleShortFemale>
   
   <!-- EN: After escaping [PAWN_possessive] homeworld, [PAWN_nameDef] took [PAWN_possessive] skills to the stars.\n\n[PAWN_pronoun] chose to operate as a hired gun, working for various rebel organizations, enslaved groups, and merchant enclaves. [PAWN_possessive] specialty was negotiation in combat situations. -->
-  <CombatNegotiator31.description>{PAWN_gender ? अपनी मातृ ग्रह से भागने के बाद, [PAWN_nameDef] ने अपने कौशल को सितारों तक पहुँचाया।\n\nउसने एक भाड़े की बंदूक के रूप में काम करना चुना, विभिन्न विद्रोही संगठनों, गुलाम समूहों और व्यापारी एन्क्लेव के लिए काम किया। उसकी विशेषता युद्ध की स्थितियों में बातचीत थी। : अपने गृह ग्रह से भागने के बाद, [PAWN_nameDef] ने अपने कौशल को सितारों तक पहुँचाया।\n\nउन्होंने एक भाड़े के बंदूकधारी के रूप में काम करना चुना, विभिन्न विद्रोही संगठनों, गुलाम समूहों और व्यापारी एन्क्लेव के लिए काम किया। उनकी विशेषता युद्ध की स्थितियों में बातचीत थी।}</CombatNegotiator31.description>
+  <CombatNegotiator31.description>{PAWN_gender ? अपने गृह ग्रह से भागने के बाद, [PAWN_nameDef] अपने कौशल को सितारों तक ले गई।\n\nउसने एक भाड़े की सैनिक के रूप में काम करने का विकल्प चुना, विभिन्न विद्रोही संगठनों, गुलाम समूहों और व्यापारी एन्क्लेव के लिए काम किया। युद्ध की स्थितियों में बातचीत करना उसकी विशेषता थी। : अपने गृह ग्रह से भागने के बाद, [PAWN_nameDef] अपने कौशल को सितारों तक ले गया।\n\nउसने एक भाड़े के सैनिक के रूप में काम करने का विकल्प चुना, विभिन्न विद्रोही संगठनों, गुलाम समूहों और व्यापारी एन्क्लेव के लिए काम किया। युद्ध की स्थितियों में बातचीत करना उसकी विशेषता थी।}</CombatNegotiator31.description>
   <!-- EN: combat negotiator -->
   <CombatNegotiator31.title>युद्ध वार्ताकार</CombatNegotiator31.title>
   <CombatNegotiator31.titleFemale>युद्ध-मध्यस्थ</CombatNegotiator31.titleFemale>
@@ -578,7 +578,7 @@
   <CorpResearcher93.titleShortFemale>शोधकर्ता महिला</CorpResearcher93.titleShortFemale>
   
   <!-- EN: The glitterworld audience wasn't yet ready for [PAWN_nameDef]'s Vidtube series with all of its spanners and hammers and planners - that kind of work's for mechanoids, they said! Undeterred, [PAWN_pronoun] set out for the stars, in search of people who would appreciate [PAWN_possessive] skills. The wildlife out there looks scary, though... -->
-  <CosmeticReject64.description>{PAWN_gender ? चमकदार दुनिया के दर्शक अभी तक [PAWN_nameDef] की विडट्यूब श्रृंखला के लिए तैयार नहीं थे, जिसमें स्पैनर, हथौड़े और प्लानर भरे हुए थे - उन्होंने कहा कि इस तरह का काम मेकैनॉइड्स के लिए है! फिर भी, वह सितारों की ओर निकल पड़ी, उन लोगों की तलाश में जो उसकी प्रतिभा की सराहना करेंगे। हालाँकि, वहाँ का वन्यजीव डरावना लगता है… : चमकदार दुनिया के दर्शक अभी तक [PAWN_nameDef] की विडट्यूब श्रृंखला के लिए तैयार नहीं थे, जिसमें सभी स्पैनर, हथौड़े और योजनाकार थे - उन्होंने कहा कि इस तरह का काम मेकैनॉइड्स के लिए है! फिर भी, वह सितारों की ओर निकल पड़े, उन लोगों की तलाश में जो उसकी प्रतिभा की सराहना करेंगे। हालाँकि, वहाँ का वन्यजीव डरावना लगता है…}</CosmeticReject64.description>
+  <CosmeticReject64.description>{PAWN_gender ? चमकदार दुनिया की जनता [PAWN_nameDef] की वीडट्यूब सीरीज़ के लिए अभी तैयार नहीं थी, जिसमें इतने सारे रिंच, हथौड़े और योजनाएँ थीं - उन्होंने कहा कि इस तरह का काम तो मेकैनॉइड्स के लिए है! बिना विचलित हुए, वह सितारों की ओर निकल पड़ी, उन लोगों की तलाश में जो उसके कौशल की सराहना कर सकें। हालाँकि, वहाँ की वन्यजीव डरावने दिखते हैं… : चमकदार दुनिया के दर्शक [PAWN_nameDef] की वीडट्यूब श्रृंखला के लिए अभी तैयार नहीं थे, जिसमें केवल रिंच, हथौड़े और योजनाकार शामिल थे - उन्होंने कहा कि इस तरह का काम तो मेकैनॉइड्स के लिए है! बिना विचलित हुए, वह सितारों की खोज में निकल पड़ा, उन लोगों की तलाश में जो उसके कौशल की सराहना कर सकें। हालाँकि, वहाँ की जंगली दुनिया डरावनी लगती है…}</CosmeticReject64.description>
   <!-- EN: traveling handywoman -->
   <CosmeticReject64.title>यात्रा करने वाली कुशल कारीगर</CosmeticReject64.title>
   <CosmeticReject64.titleFemale>यात्रा करने वाली कुशल कारीगर</CosmeticReject64.titleFemale>
@@ -595,7 +595,7 @@
   <CosmeticSurgeon36.titleShortFemale>शल्यचिकित्सक (Shalyachikitsak)</CosmeticSurgeon36.titleShortFemale>
   
   <!-- EN: By day, [PAWN_nameDef] was an office worker on a midworld. At night, [PAWN_pronoun] designed and built elaborate monster costumes for science fiction conventions.\n\n[PAWN_pronoun] learned a great deal about sewing. Unfortunately this came at the cost of being able to cook anything more complex than an instant meal. -->
-  <CostumeCrafter41.description>{PAWN_gender ? कार्यालय कर्मी। दिन के दौरान, [PAWN_nameDef] एक मध्य-विश्व पर एक कार्यालय कर्मी थीं। रात में, वह विज्ञान कथा सम्मेलनों के लिए विस्तृत राक्षस वेशभूषा डिजाइन और बनाती थीं।\n\nउन्हें सिलाई के बारे में बहुत कुछ सीखने को मिला। दुर्भाग्य से यह एक तत्काल भोजन से अधिक जटिल कुछ भी पकाने की उनकी क्षमता की कीमत पर आया। : कार्यालय कर्मी। दिन के दौरान, [PAWN_nameDef] एक मध्य-विश्व पर एक कार्यालय कर्मचारी था। रात में, उसने विज्ञान कथा सम्मेलनों के लिए विस्तृत राक्षस वेशभूषा डिजाइन और बनाई।\n\nउसे सिलाई के बारे में बहुत कुछ सीखने को मिला। दुर्भाग्य से यह एक तत्काल भोजन से अधिक जटिल कुछ भी पकाने की उसकी क्षमता की कीमत पर आया।}</CostumeCrafter41.description>
+  <CostumeCrafter41.description>{PAWN_gender ? दिन के समय, [PAWN_nameDef] मध्य दुनिया में एक कार्यालय कर्मचारी थी। रात में, वह विज्ञान कथा सम्मेलनों के लिए विस्तृत राक्षस वेशभूषा डिजाइन करती और बनाती थी।\n\nउसने सिलाई के बारे में बहुत कुछ सीखा। दुर्भाग्य से, इसकी कीमत उसे इंस्टेंट भोजन से अधिक जटिल कुछ भी पकाने में असमर्थ होने के रूप में चुकानी पड़ी। : दिन के समय, [PAWN_nameDef] मध्य दुनिया में एक कार्यालय कर्मचारी था। रात में, वह विज्ञान कथा सम्मेलनों के लिए विस्तृत राक्षस वेशभूषा डिजाइन करता और बनाता था।\n\nउसने सिलाई के बारे में बहुत कुछ सीखा। दुर्भाग्य से, इसकी कीमत उसे इंस्टेंट मील से अधिक जटिल कुछ भी पकाने में असमर्थ होने के रूप में चुकानी पड़ी।}</CostumeCrafter41.description>
   <!-- EN: costume crafter -->
   <CostumeCrafter41.title>वेशभूषा शिल्पी</CostumeCrafter41.title>
   <CostumeCrafter41.titleFemale>वेशभूषा शिल्पी</CostumeCrafter41.titleFemale>
@@ -667,7 +667,7 @@
   <DefenseLawyer71.titleShortFemale>वकील महिला</DefenseLawyer71.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] held the rank of Destroyer-General in a powerful midworld military.\n\n[PAWN_pronoun] was known for [PAWN_possessive] mastery of weapons, and was also a good ship pilot. -->
-  <DestroyerGeneral26.description>{PAWN_gender ? [PAWN_nameDef] ने एक शक्तिशाली मध्य-विश्व सैन्य में विध्वंसक-जनरल का पद धारण किया था।\n\nवह अपने हथियारों के कौशल के लिए जानी जाती थी, और एक अच्छी जहाज पायलट भी थीं। : [PAWN_nameDef] ने एक शक्तिशाली मध्य-विश्व सैन्य में विध्वंसक-जनरल का पद धारण किया था।\n\nवह अपने हथियारों के कौशल के लिए जाने जाते थे, और एक अच्छे जहाज पायलट भी थे।}</DestroyerGeneral26.description>
+  <DestroyerGeneral26.description>{PAWN_gender ? [PAWN_nameDef] एक शक्तिशाली मध्य दुनिया की सेना में डिस्ट्रॉयर-जनरल के पद पर आसीन थी।\n\nवह हथियारों में अपनी महारत के लिए जानी जाती थी, और एक अच्छी जहाज पायलट भी थी। : [PAWN_nameDef] एक शक्तिशाली मध्य दुनिया की सेना में डिस्ट्रॉयर-जनरल के पद पर आसीन था।\n\nवह हथियारों के अपने महारत के लिए जाना जाता था, और एक अच्छा जहाज पायलट भी था।}</DestroyerGeneral26.description>
   <!-- EN: destroyer-general -->
   <DestroyerGeneral26.title>विनाशक सेनापति</DestroyerGeneral26.title>
   <DestroyerGeneral26.titleFemale>विनाशकारी सेनापति</DestroyerGeneral26.titleFemale>
@@ -703,7 +703,7 @@
   <DreadedDude58.titleShortFemale>पुरुषार्थी युवती</DreadedDude58.titleShortFemale>
   
   <!-- EN: Having caught the eye of [PAWN_possessive] people's Sand King, [PAWN_nameDef] was trained in the Sandy Boomrat fighting technique.\n\nAlways with a camel to carry [PAWN_possessive] things, [PAWN_pronoun] served [PAWN_possessive] sand people faithfully. -->
-  <DromedaryKnight37.description>{PAWN_gender ? उसकी जनजाति के रेत राजा की नज़र पड़ने के बाद, [PAWN_nameDef] को सैंडी बूमरैट युद्ध तकनीक में प्रशिक्षित किया गया।\n\nहमेशा अपने सामान को ले जाने के लिए एक ऊँट के साथ, उसने अपने रेत लोगों की वफ़ादारी से सेवा की। : उसने अपने लोगों के रेत राजा का ध्यान आकर्षित किया, और [PAWN_nameDef] को सैंडी बूमरैट युद्ध तकनीक में प्रशिक्षित किया गया।\n\nहमेशा अपने सामान को ले जाने के लिए एक ऊँट के साथ, उसने अपने रेत लोगों की वफादारी से सेवा की।}</DromedaryKnight37.description>
+  <DromedaryKnight37.description>{PAWN_gender ? अपने लोगों के सैंड किंग का ध्यान आकर्षित करने के बाद, [PAWN_nameDef] को सैंडी विस्फोटक चूहा लड़ने की तकनीक में प्रशिक्षित किया गया था।\n\nअपनी चीजें ले जाने के लिए हमेशा एक ऊंट के साथ, उसने अपने रेत के लोगों की वफादारी से सेवा की। : अपने लोगों के सैंड किंग की नज़र में आने के बाद, [PAWN_nameDef] को सैंडी विस्फोटक चूहा लड़ने की तकनीक में प्रशिक्षित किया गया था।\n\nअपनी चीज़ें ले जाने के लिए हमेशा एक ऊँट के साथ, उसने अपने रेत के लोगों की वफादारी से सेवा की।}</DromedaryKnight37.description>
   <!-- EN: dromedary knight -->
   <DromedaryKnight37.title>ऊँट सवार योद्धा</DromedaryKnight37.title>
   <DromedaryKnight37.titleFemale>उंट-सवार योद्धा</DromedaryKnight37.titleFemale>
@@ -820,7 +820,7 @@
   <FactionLeader74.titleShortFemale>नेत्री</FactionLeader74.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was an official for an autocratic government. When [PAWN_possessive] superiors demanded [PAWN_pronoun] participate in atrocities, [PAWN_nameDef] resigned and escaped from [PAWN_possessive] homeworld with nothing but the clothes on [PAWN_possessive] back. -->
-  <FallenOfficial12.description>{PAWN_gender ? [PAWN_nameDef] एक निरंकुश सरकार की अधिकारी थीं। जब उसके वरिष्ठों ने उससे अत्याचारों में भाग लेने की मांग की, तो [PAWN_nameDef] ने इस्तीफा दे दिया और अपने गृह ग्रह से केवल अपने शरीर पर पहने कपड़ों के साथ भाग गई। : [PAWN_nameDef] एक निरंकुश सरकार का अधिकारी था। जब उसके वरिष्ठों ने उससे अत्याचारों में भाग लेने की मांग की, तो [PAWN_nameDef] ने इस्तीफा दे दिया और अपने गृह ग्रह से केवल अपने शरीर पर पहने कपड़ों के साथ भाग गया।}</FallenOfficial12.description>
+  <FallenOfficial12.description>{PAWN_gender ? [PAWN_nameDef] एक निरंकुश सरकार के लिए एक अधिकारी थी। जब उसके वरिष्ठों ने उससे अत्याचारों में भाग लेने की मांग की, तो [PAWN_nameDef] ने इस्तीफा दे दिया और अपने पास मौजूद कपड़ों के अलावा और कुछ न लेकर अपने गृह ग्रह से भाग निकली। : [PAWN_nameDef] एक निरंकुश सरकार के लिए एक अधिकारी था। जब उसके वरिष्ठों ने उससे अत्याचारों में भाग लेने की मांग की, तो [PAWN_nameDef] ने इस्तीफा दे दिया और अपने पास केवल पहने हुए कपड़ों के अलावा कुछ न रखते हुए अपने गृह ग्रह से भाग निकला।}</FallenOfficial12.description>
   <!-- EN: fallen official -->
   <FallenOfficial12.title>गिरा हुआ अधिकारी</FallenOfficial12.title>
   <FallenOfficial12.titleFemale>गिरे हुए अधिकारी</FallenOfficial12.titleFemale>
@@ -883,7 +883,7 @@
   <ForestProwler15.titleShortFemale>शिकारी महिला</ForestProwler15.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was the marshal of [PAWN_possessive] colony. [PAWN_pronoun] tried to honorably uphold the law, but the corrupt local mayor killed [PAWN_possessive] family and left [PAWN_objective] for dead.\n\nAfter regaining [PAWN_possessive] health, [PAWN_nameDef] arrested the mayor. [PAWN_pronoun] left [PAWN_possessive] homeworld and started a new life working to make a difference in the universe. -->
-  <FrontierMarshal27.description>{PAWN_gender ? [PAWN_nameDef] अपनी कॉलोनी की मार्शल थीं। उसने सम्मानपूर्वक कानून का पालन करने का प्रयास किया, लेकिन भ्रष्ट स्थानीय मेयर ने उसके परिवार को मार डाला और उसे मरने के लिए छोड़ दिया।\n\nअपनी सेहत वापस पाने के बाद, [PAWN_nameDef] ने मेयर को गिरफ्तार कर लिया। उसने अपना गृह ग्रह छोड़ दिया और ब्रह्मांड में बदलाव लाने के लिए एक नया जीवन शुरू किया। : [PAWN_nameDef] अपने उपनिवेश का मार्शल था। उसने सम्मानपूर्वक कानून का पालन करने का प्रयास किया, लेकिन भ्रष्ट स्थानीय मेयर ने उसके परिवार को मार डाला और उसे मरने के लिए छोड़ दिया।\n\nअपनी सेहत वापस पाने के बाद, [PAWN_nameDef] ने मेयर को गिरफ्तार कर लिया। उसने अपना गृह ग्रह छोड़ दिया और ब्रह्मांड में बदलाव लाने के लिए काम करते हुए एक नया जीवन शुरू किया।}</FrontierMarshal27.description>
+  <FrontierMarshal27.description>{PAWN_gender ? [PAWN_nameDef] अपने उपनिवेश की मार्शल थी। उसने सम्मानपूर्वक कानून बनाए रखने की कोशिश की, लेकिन भ्रष्ट स्थानीय मेयर ने उसके परिवार को मार डाला और उसे मरणासन्न अवस्था में छोड़ दिया।\n\nअपना स्वास्थ्य वापस पाने के बाद, [PAWN_nameDef] ने मेयर को गिरफ्तार कर लिया। उसने अपने गृह ग्रह को छोड़ दिया और ब्रह्मांड में बदलाव लाने के लिए काम करते हुए एक नया जीवन शुरू किया। : [PAWN_nameDef] अपनी कॉलोनी का मार्शल था। उसने सम्मानपूर्वक कानून बनाए रखने की कोशिश की, लेकिन भ्रष्ट स्थानीय मेयर ने उसके परिवार को मार डाला और उसे मरणासन्न अवस्था में छोड़ दिया।\n\nअपना स्वास्थ्य वापस पाने के बाद, [PAWN_nameDef] ने मेयर को गिरफ्तार कर लिया। उसने अपने गृह ग्रह को छोड़ दिया और ब्रह्मांड में बदलाव लाने के लिए काम करते हुए एक नया जीवन शुरू किया।}</FrontierMarshal27.description>
   <!-- EN: frontier marshal -->
   <FrontierMarshal27.title>सीमा रक्षक</FrontierMarshal27.title>
   <FrontierMarshal27.titleFemale>सीमा रक्षक</FrontierMarshal27.titleFemale>
@@ -955,7 +955,7 @@
   <GeneticScientist66.titleShortFemale>आनुवंशिकी विशेषज्ञ महिला</GeneticScientist66.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] sold [PAWN_objective]self into slavery for money to purchase boomrat pizza. [PAWN_pronoun] was then traded to the Zeglar colonies, where [PAWN_pronoun] worked as a male prostitute.\n\nIn a fluke event, [PAWN_pronoun] managed to join other escaping slaves as they hijacked a ship. After fighting with the captain of the slave crew over the last piece of boomrat pizza, [PAWN_nameDef] was sent off the ship in an escape pod. -->
-  <Gigolo68.description>{PAWN_gender ? **वेश्या** ने बूमरैट पिज़्ज़ा खरीदने के लिए पैसे के लिए खुद को गुलामी में बेच दिया। फिर उसे ज़ेगलर कॉलोनियों में बेच दिया गया, जहाँ उसने एक पुरुष वेश्या के रूप में काम किया।\n\nएक अजीब घटना में, वह अन्य भागने वाले दासों के साथ एक जहाज को हाईजैक करने में सफल रही। गुलाम चालक दल के कप्तान के साथ बूमरैट पिज़्ज़ा के अंतिम टुकड़े के लिए लड़ने के बाद, [PAWN_nameDef] को एक एस्केप पॉड में जहाज से बाहर भेज दिया गया। : [PAWN_nameDef] ने पैसे के लिए खुद को गुलाम बेच दिया ताकि वह बूमरैट पिज्जा खरीद सके। फिर उसे ज़ेगलर कॉलोनियों में बेच दिया गया, जहाँ उसने एक पुरुष वेश्या के रूप में काम किया।\n\nएक अजीब घटना में, वह अन्य भागने वाले गुलामों के साथ एक जहाज को हाईजैक करने में सफल रहा। गुलाम चालक दल के कप्तान के साथ बूमरैट पिज्जा के अंतिम टुकड़े को लेकर झगड़े के बाद, [PAWN_nameDef] को एक एस्केप पॉड में जहाज से बाहर निकाल दिया गया।}</Gigolo68.description>
+  <Gigolo68.description>{PAWN_gender ? [PAWN_nameDef] ने विस्फोटक चूहा पिज्जा खरीदने के लिए पैसे के बदले खुद को गुलामी में बेच दिया। इसके बाद उसे ज़ेग्लर कॉलोनियों में व्यापार कर दिया गया, जहाँ उसने एक पुरुष वेश्या के रूप में काम किया।\n\nएक इत्तेफाक से, वह अन्य भागते हुए गुलामों के साथ शामिल होने में सफल रही जब उन्होंने एक जहाज पर कब्जा कर लिया। विस्फोटक चूहा पिज्जा के आखिरी टुकड़े के लिए गुलाम दल के कप्तान के साथ लड़ने के बाद, [PAWN_nameDef] को एक एस्केप पॉड में जहाज से बाहर भेज दिया गया था। : [PAWN_nameDef] ने विस्फोटक चूहा पिज्जा खरीदने के लिए पैसे के बदले खुद को गुलामी में बेच दिया। इसके बाद उसे ज़ेग्लर कॉलोनियों में व्यापार कर दिया गया, जहाँ उसने एक पुरुष वेश्या के रूप में काम किया।\n\nएक आकस्मिक घटना में, वह अन्य भागते हुए गुलामों के साथ शामिल होने में सफल रहा जब उन्होंने एक जहाज पर कब्जा कर लिया। विस्फोटक चूहा पिज्जा के आखिरी टुकड़े के लिए गुलाम चालक दल के कप्तान के साथ लड़ने के बाद, [PAWN_nameDef] को एक एस्केप पॉड के जरिए जहाज से बाहर भेज दिया गया।}</Gigolo68.description>
   <!-- EN: gigolo -->
   <Gigolo68.title>वेश्यावृत्ति करने वाला पुरुष</Gigolo68.title>
   <Gigolo68.titleFemale>वेश्या</Gigolo68.titleFemale>
@@ -964,7 +964,7 @@
   <Gigolo68.titleShortFemale>वेश्या, मनोरंजनकर्ता</Gigolo68.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a xenobiology professor in a glitterworld university. [PAWN_pronoun] went to conferences and managed an art gallery.\n\nHowever, [PAWN_pronoun] never stopped sculpting yard gnomes, and considers this to be [PAWN_possessive] true profession. -->
-  <Gnomebiologist96.description>{PAWN_gender ? [PAWN_nameDef] एक चमकते हुए ग्रह के विश्वविद्यालय में एक ज़ेनोबायोलॉजी की प्रोफेसर थीं। वह सम्मेलनों में जाती थीं और एक कला दीर्घा का प्रबंधन करती थीं।\n\nहालांकि, उन्होंने कभी यार्ड ग्नोम बनाना नहीं छोड़ा, और इसे अपना सच्चा पेशा मानती हैं। : [PAWN_nameDef] एक चमकते हुए ग्रह के विश्वविद्यालय में ज़ेनोबायोलॉजी के प्रोफेसर थे। वह सम्मेलनों में जाते थे और एक कला दीर्घा का प्रबंधन करते थे।\n\nहालांकि, उन्होंने कभी भी यार्ड ग्नोम बनाना नहीं छोड़ा, और इसे अपना सच्चा पेशा मानते हैं।}</Gnomebiologist96.description>
+  <Gnomebiologist96.description>{PAWN_gender ? [PAWN_nameDef] एक चमकदार दुनिया के विश्वविद्यालय में ज़ेनोबायोलॉजी की प्रोफेसर थी। वह सम्मेलनों में जाती थी और एक आर्ट गैलरी का प्रबंधन करती थी।\n\nहालाँकि, उसने आँगन के बौने (yard gnomes) बनाने से कभी हाथ नहीं रोका, और वह इसे अपना असली पेशा मानती है। : [PAWN_nameDef] एक चमकदार दुनिया के विश्वविद्यालय में ज़ेनोबायोलॉजी का प्रोफेसर था। वह सम्मेलनों में जाता था और एक आर्ट गैलरी का प्रबंधन करता था।\n\nहालाँकि, उसने आंगन के बौने (yard gnomes) तराशना कभी बंद नहीं किया, और वह इसे अपना असली पेशा मानता है।}</Gnomebiologist96.description>
   <!-- EN: gnomebiologist -->
   <Gnomebiologist96.title>बौना जीवविज्ञानी</Gnomebiologist96.title>
   <Gnomebiologist96.titleFemale>बौना जीवविज्ञानी</Gnomebiologist96.titleFemale>
@@ -973,7 +973,7 @@
   <Gnomebiologist96.titleShortFemale>जीवविज्ञानी महिला</Gnomebiologist96.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] worked for the government against rebel groups and excelled in this capacity. During [PAWN_possessive] training [PAWN_pronoun] was taught firearms, melee combat and medical skills.\n\nHaving grown up in a war-ravaged city, dirt, blood and dead bodies don't bother [PAWN_objective] and [PAWN_pronoun] sees no reason to clean them up. -->
-  <GovernmentAgent61.description>{PAWN_gender ? सरकारी एजेंट। [PAWN_nameDef] ने विद्रोही समूहों के खिलाफ सरकार के लिए काम किया और इस क्षमता में उत्कृष्ट प्रदर्शन किया। अपनी ट्रेनिंग के दौरान, उसे आग्नेयास्त्र, हाथापाई की लड़ाई और चिकित्सा कौशल सिखाए गए।\n\nएक युद्धग्रस्त शहर में पली-बढ़ी होने के कारण, उसे गंदगी, खून और लाशों से कोई परेशानी नहीं होती है और उसे उन्हें साफ करने का कोई कारण नहीं दिखता। : [PAWN_nameDef] ने विद्रोही समूहों के खिलाफ सरकार के लिए काम किया और इस क्षमता में उत्कृष्ट प्रदर्शन किया। अपने प्रशिक्षण के दौरान, उसे आग्नेयास्त्र, हाथापाई युद्ध और चिकित्सा कौशल सिखाए गए।\n\nएक युद्धग्रस्त शहर में बड़े होने के कारण, उसे गंदगी, खून और लाशों से कोई परेशानी नहीं होती है और उसे उन्हें साफ करने का कोई कारण नहीं दिखता।}</GovernmentAgent61.description>
+  <GovernmentAgent61.description>{PAWN_gender ? [PAWN_nameDef] ने विद्रोही समूहों के खिलाफ सरकार के लिए काम किया और इस क्षमता में उत्कृष्ट प्रदर्शन किया। अपने प्रशिक्षण के दौरान उसे आग्नेयास्त्रों, नज़दीकी युद्ध और चिकित्सा कौशल सिखाए गए थे।\n\nयुद्ध से तबाह शहर में पली-बढ़ी होने के कारण, गंदगी, खून और लाशें उसे परेशान नहीं करतीं और वह उन्हें साफ करने का कोई कारण नहीं देखती। : [PAWN_nameDef] ने विद्रोही समूहों के खिलाफ सरकार के लिए काम किया और इस क्षमता में उत्कृष्ट प्रदर्शन किया। अपने प्रशिक्षण के दौरान उसे आग्नेयास्त्र, नज़दीकी युद्ध और चिकित्सा कौशल सिखाया गया था।\n\nयुद्ध से तबाह शहर में बड़े होने के कारण, गंदगी, खून और लाशें उसे परेशान नहीं करतीं और वह उन्हें साफ करने का कोई कारण नहीं देखता है।}</GovernmentAgent61.description>
   <!-- EN: government agent -->
   <GovernmentAgent61.title>सरकारी एजेंट</GovernmentAgent61.title>
   <GovernmentAgent61.titleFemale>सरकारी अधिकारी</GovernmentAgent61.titleFemale>
@@ -1027,7 +1027,7 @@
   <Healer35.titleShortFemale>चिकित्सक (Chikitṣak)</Healer35.titleShortFemale>
   
   <!-- EN: A top hedge fund manager on a teeming urbworld, [PAWN_nameDef]'s portfolio grew rapidly as [PAWN_pronoun] charmed clients with a sweet voice and devious intent. When the deal turned out too good to be true, [PAWN_pronoun] was forced to flee the planet with a bounty on [PAWN_possessive] head.\n\nAs [PAWN_pronoun] traveled the stars [PAWN_pronoun] found a passion in the arts, making masterpieces fit for high society customers. -->
-  <HedgeFundManager54.description>{PAWN_gender ? एक घनी आबादी वाले शहरी ग्रह पर शीर्ष हेज फंड प्रबंधक, [PAWN_nameDef] का पोर्टफोलियो तेज़ी से बढ़ा क्योंकि उसने ग्राहकों को अपनी मधुर आवाज़ और कपटी इरादे से मोहित कर लिया। जब सौदा सच होने के लिए बहुत अच्छा साबित हुआ, तो उसे अपने सिर पर इनाम के साथ ग्रह छोड़ने के लिए मजबूर होना पड़ा।\n\nजैसे-जैसे वह सितारों की यात्रा करती रही, उसने कला में एक जुनून पाया, उच्च समाज के ग्राहकों के लिए उपयुक्त उत्कृष्ट कृतियाँ बनाईं। : एक घनी आबादी वाले शहरी ग्रह पर शीर्ष हेज फंड प्रबंधक, [PAWN_nameDef] का पोर्टफोलियो तेज़ी से बढ़ा क्योंकि उसने ग्राहकों को अपनी मधुर आवाज़ और कपटी इरादे से मोहित कर लिया। जब सौदा सच होने के लिए बहुत अच्छा साबित हुआ, तो उसे सिर पर इनाम के साथ ग्रह छोड़ने के लिए मजबूर होना पड़ा।\n\nजैसे-जैसे वह सितारों की यात्रा करता रहा, उसने कला में एक जुनून पाया, उच्च समाज के ग्राहकों के लिए उपयुक्त उत्कृष्ट कृतियाँ बनाईं।}</HedgeFundManager54.description>
+  <HedgeFundManager54.description>{PAWN_gender ? एक हलचल भरी शहरी दुनिया के एक शीर्ष हेज फंड मैनेजर के रूप में, [PAWN_nameDef] का पोर्टफोलियो तेजी से बढ़ा क्योंकि उसने अपनी मधुर आवाज़ और कपटी इरादों से ग्राहकों को मंत्रमुग्ध कर दिया था। जब सौदा सच होने के लिए बहुत अच्छा साबित हुआ, तो उसे अपने सिर पर इनाम की राशि के साथ ग्रह छोड़कर भागने के लिए मजबूर होना पड़ा।\n\nजैसे-जैसे वह सितारों के बीच यात्रा करती रही, उसने कला में एक जुनून पाया, जिससे उसने उच्च समाज के ग्राहकों के लायक उत्कृष्ट कृतियाँ बनाईं। : एक हलचल भरी शहरी दुनिया के एक शीर्ष हेज फंड मैनेजर, [PAWN_nameDef] का पोर्टफोलियो तेजी से बढ़ा क्योंकि उसने अपनी मधुर आवाज और कपटी इरादों से ग्राहकों को मंत्रमुग्ध कर दिया था। जब सौदा सच होने के लिए बहुत अच्छा साबित हुआ, तो उसे अपने सिर पर इनाम की राशि के साथ ग्रह छोड़कर भागने के लिए मजबूर होना पड़ा।\n\nजैसे-जैसे वह सितारों के बीच यात्रा करता गया, उसने कला में एक जुनून पाया, जिससे उसने उच्च समाज के ग्राहकों के लायक उत्कृष्ट कृतियाँ बनाईं।}</HedgeFundManager54.description>
   <!-- EN: hedge fund manager -->
   <HedgeFundManager54.title>हेज फंड प्रबंधक</HedgeFundManager54.title>
   <HedgeFundManager54.titleFemale>निवेश निधि प्रबंधक</HedgeFundManager54.titleFemale>
@@ -1081,7 +1081,7 @@
   <HumanTrafficker35.titleShortFemale>तस्करणी</HumanTrafficker35.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a master hunter.\n\n[PAWN_pronoun] learned to track and trap any animal in the most dangerous of places, and had deep knowledge of many ingenious methods for taking down specific large animals. -->
-  <Hunter73.description>{PAWN_gender ? [PAWN_nameDef] एक कुशल शिकारी थीं।\n\nउन्होंने सबसे खतरनाक स्थानों में किसी भी जानवर का पीछा करना और जाल बिछाना सीखा, और विशिष्ट बड़े जानवरों को मारने के कई चतुर तरीकों का गहरा ज्ञान था। : [PAWN_nameDef] एक कुशल शिकारी था।\n\nउसने सबसे खतरनाक स्थानों में किसी भी जानवर का पीछा करना और जाल बिछाना सीखा, और विशिष्ट बड़े जानवरों को मारने के कई चतुर तरीकों का गहरा ज्ञान था।}</Hunter73.description>
+  <Hunter73.description>{PAWN_gender ? [PAWN_nameDef] एक कुशल शिकारी थी।\n\nउसने सबसे खतरनाक जगहों पर किसी भी जानवर का पीछा करना और जाल बिछाना सीखा था, और विशिष्ट बड़े जानवरों को गिराने के कई चतुर तरीकों का गहरा ज्ञान रखती थी। : [PAWN_nameDef] एक कुशल शिकारी था।\n\nउसने सबसे खतरनाक जगहों में किसी भी जानवर का पीछा करना और जाल बिछाना सीख लिया था, और विशिष्ट बड़े जानवरों को गिराने के कई चतुर तरीकों का गहरा ज्ञान रखता था।}</Hunter73.description>
   <!-- EN: hunter -->
   <Hunter73.title>शिकारी</Hunter73.title>
   <Hunter73.titleFemale>शिकारी</Hunter73.titleFemale>
@@ -1144,7 +1144,7 @@
   <IntimateAssassin35.titleShortFemale>हत्यारी</IntimateAssassin35.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s escape pod was jettisoned onto an unexplored region of a frontier world. [PAWN_pronoun] eked out a lonely existence with only a herd of muffalo for company.\n\nLater, [PAWN_pronoun] was spotted clad in pygmy wombat furs, discussing the importance of hoof hygiene with a group of elderly muffalo. -->
-  <InvoluntaryHermit38.description>{PAWN_gender ? [PAWN_nameDef] का एस्केप पॉड एक सीमांत दुनिया के बेरोज़ खोजे गए क्षेत्र पर फेंका गया था। उसने केवल मफ़ालो के एक झुंड के साथ एकाकी जीवन यापन किया।\n\nबाद में, उसे बौनी वोंबाट की खाल में लिपटा हुआ देखा गया, जो मफ़ालो के एक समूह के साथ खुर की स्वच्छता के महत्व पर चर्चा कर रही थी। : [PAWN_nameDef] का एस्केप पॉड एक सीमांत दुनिया के बेरोज़ खोजे गए क्षेत्र पर फेंका गया था। उसने केवल मफ़ालो के एक झुंड के साथ एकाकी जीवन यापन किया।\n\nबाद में, उसे बौने वोंबाट के फर में लिपटा हुआ देखा गया, जो मफ़ालो के एक समूह के साथ खुर की स्वच्छता के महत्व पर चर्चा कर रहा था।}</InvoluntaryHermit38.description>
+  <InvoluntaryHermit38.description>{PAWN_gender ? [PAWN_nameDef] का एस्केप पॉड एक सीमावर्ती दुनिया के अनछुए क्षेत्र में जा गिरा था। उसने केवल मफ्फालो के एक झुंड के साथ अकेलेपन में अपना जीवन कठिनाई से गुजारा।\n\nबाद में, उसे पिग्मी वोम्बैट के फर पहने हुए देखा गया, जहाँ वह मफ्फालो के एक बुजुर्ग समूह के साथ खुरों की स्वच्छता के महत्व पर चर्चा कर रही थी। : [PAWN_nameDef] का एस्केप पॉड एक सीमावर्ती दुनिया के अनछुए क्षेत्र में जा गिरा था। उसने केवल मफ्फालो के एक झुंड के साथ अकेलेपन में अपना जीवन कठिनाई से गुजारा।\n\nबाद में, उसे पिग्मी वोम्बैट के फर पहने हुए देखा गया, जहाँ वह मफ्फालो के एक बुजुर्ग समूह के साथ खुरों की स्वच्छता के महत्व पर चर्चा कर रहा था।}</InvoluntaryHermit38.description>
   <!-- EN: involuntary hermit -->
   <InvoluntaryHermit38.title>अनइच्छुक एकांतवासी</InvoluntaryHermit38.title>
   <InvoluntaryHermit38.titleFemale>अनइच्छुक एकांतवासी महिला</InvoluntaryHermit38.titleFemale>
@@ -1160,7 +1160,7 @@
   <KingOfPirates25.titleShort>समुद्री डाकू</KingOfPirates25.titleShort>
   
   <!-- EN: After war broke out on [PAWN_possessive] homeworld, [PAWN_nameDef] was conscripted as a linguist. [PAWN_pronoun] spent [PAWN_possessive] days in a space station, decoding enemy communications and tending the hydroponic crops.\n\nAfter a meteorite damaged the station, [PAWN_pronoun] was forced to enter cryptosleep and hope for rescue. -->
-  <LanguageAnalyst27.description>{PAWN_gender ? युद्ध उसके गृह ग्रह पर छिड़ने के बाद, [PAWN_nameDef] को एक भाषाविद् के रूप में भर्ती किया गया था। उसने अपने दिन एक अंतरिक्ष स्टेशन में बिताए, दुश्मन के संचार को डिकोड करते हुए और हाइड्रोपोनिक फसलों की देखभाल करते हुए।\n\nएक उल्कापिंड ने स्टेशन को नुकसान पहुँचाने के बाद, उसे क्राइप्टोस्लीप में प्रवेश करने और बचाव की उम्मीद करने के लिए मजबूर किया गया। : अपने गृह ग्रह पर युद्ध छिड़ने के बाद, [PAWN_nameDef] को एक भाषाविद के रूप में भर्ती किया गया था। उसने अपने दिन एक अंतरिक्ष स्टेशन पर बिताए, दुश्मन के संचार को डिकोड किया और हाइड्रोपोनिक फसलों की देखभाल की।\n\nएक उल्कापिंड ने स्टेशन को नुकसान पहुँचाने के बाद, उसे क्राइप्टोस्लीप में प्रवेश करने और बचाव की उम्मीद करने के लिए मजबूर किया गया।}</LanguageAnalyst27.description>
+  <LanguageAnalyst27.description>{PAWN_gender ? अपने गृह ग्रह पर युद्ध छिड़ने के बाद, [PAWN_nameDef] को एक भाषाविद् के रूप में जबरन भर्ती कर लिया गया था। उसने अपने दिन एक अंतरिक्ष स्टेशन पर दुश्मन के संचार को डिकोड करने और हाइड्रोपोनिक फसलों की देखभाल करने में बिताए।\n\nएक उल्कापिंड द्वारा स्टेशन को नुकसान पहुँचाने के बाद, वह क्रिप्टोस्लीप (cryptosleep) में जाने और बचाव की आशा करने के लिए मजबूर हो गई। : अपने गृह ग्रह पर युद्ध छिड़ने के बाद, [PAWN_nameDef] को एक भाषाविद् के रूप में जबरन भर्ती कर लिया गया था। उसने अपने दिन एक अंतरिक्ष स्टेशन पर दुश्मन के संचार को डिकोड करने और हाइड्रोपोनिक फसलों की देखभाल करने में बिताए।\n\nएक उल्कापिंड द्वारा स्टेशन को नुकसान पहुँचाने के बाद, उसे क्रिप्टोस्लीप (cryptosleep) में जाने और बचाव की आशा करने के लिए मजबूर होना पड़ा।}</LanguageAnalyst27.description>
   <!-- EN: language analyst -->
   <LanguageAnalyst27.title>भाषा विश्लेषक</LanguageAnalyst27.title>
   <LanguageAnalyst27.titleFemale>भाषा विश्लेषिका</LanguageAnalyst27.titleFemale>
@@ -1169,7 +1169,7 @@
   <LanguageAnalyst27.titleShortFemale>भाषाविद</LanguageAnalyst27.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] independently developed software that had a competitive edge against local urbworld corporations.\n\n[PAWN_possessive] legally questionable methods lead to a growing number in unsolved claims of intellectual property theft. -->
-  <LazyProgrammer3.description>[PAWN_nameDef] ने स्वतंत्र रूप से ऐसा सॉफ्टवेयर विकसित किया था जिसमें स्थानीय शहरी दुनिया की कंपनियों के मुकाबले प्रतिस्पर्धात्मक बढ़त थी।\n\nउसकी कानूनी रूप से संदिग्ध विधियों के कारण बौद्धिक संपदा की चोरी के अनसुलझे दावों की संख्या बढ़ती गई।</LazyProgrammer3.description>
+  <LazyProgrammer3.description>{PAWN_gender ? [PAWN_nameDef] ने स्वतंत्र रूप से ऐसा सॉफ़्टवेयर विकसित किया जिसमें स्थानीय शहरी दुनिया के निगमों के मुकाबले प्रतिस्पर्धा करने की क्षमता थी।\n\nउसके कानूनी रूप से संदिग्ध तरीकों के कारण बौद्धिक संपदा चोरी के अनसुलझे दावों की संख्या बढ़ती जा रही है। : [PAWN_nameDef] ने स्वतंत्र रूप से ऐसा सॉफ़्टवेयर विकसित किया जिसमें स्थानीय शहरी दुनिया के निगमों के विरुद्ध प्रतिस्पर्धा करने की क्षमता थी।\n\nउनकी कानूनी रूप से संदिग्ध विधियों के कारण बौद्धिक संपदा चोरी के अनसुलझे दावों की संख्या बढ़ती जा रही है।}</LazyProgrammer3.description>
   <!-- EN: lazy programmer -->
   <LazyProgrammer3.title>आलसी प्रोग्रामर</LazyProgrammer3.title>
   <LazyProgrammer3.titleFemale>आलसी प्रोग्रामर</LazyProgrammer3.titleFemale>
@@ -1178,7 +1178,7 @@
   <LazyProgrammer3.titleShortFemale>प्रोग्रामर महिला</LazyProgrammer3.titleShortFemale>
   
   <!-- EN: After escaping [PAWN_possessive] homeworld on a jury-rigged ship, [PAWN_nameDef] traveled to new worlds to experience their beauty.\n\n[PAWN_pronoun] joined resistance groups and applied the skills [PAWN_pronoun] cultivated on [PAWN_possessive] homeworld. [PAWN_pronoun] often warned of the nuclear horror [PAWN_pronoun] saw as a child. -->
-  <LoneTraveler95.description>{PAWN_gender ? अपनी गृह दुनिया से एक तात्कालिक जहाज पर भागने के बाद, [PAWN_nameDef] नई दुनियाओं की सुंदरता का अनुभव करने के लिए यात्रा की।\n\nउसने प्रतिरोध समूहों में शामिल होकर अपनी गृह दुनिया पर विकसित कौशल लागू किए। वह अक्सर उस परमाणु भयावहता के बारे में चेतावनी देती थी जिसे उसने एक बच्चे के रूप में देखा था। : अपनी गृह दुनिया से एक तात्कालिक जहाज पर भागने के बाद, [PAWN_nameDef] नई दुनियाओं की सुंदरता का अनुभव करने के लिए यात्रा की।\n\nउन्होंने प्रतिरोध समूहों में शामिल होकर अपनी गृह दुनिया पर विकसित कौशल लागू किए। वह अक्सर उस परमाणु भयावहता के बारे में चेतावनी देते थे जिसे उन्होंने एक बच्चे के रूप में देखा था।}</LoneTraveler95.description>
+  <LoneTraveler95.description>{PAWN_gender ? एक जुगाड़ू जहाज पर अपने गृह ग्रह से भागने के बाद, [PAWN_nameDef] ने नई दुनिया की सुंदरता का अनुभव करने के लिए उनकी यात्रा की।\n\nवह प्रतिरोध समूहों में शामिल हो गई और उन कौशलों का उपयोग किया जो उसने अपने गृह ग्रह पर विकसित किए थे। वह अक्सर उस परमाणु भयावहता के बारे में चेतावनी देती थी जिसे उसने बचपन में देखा था। : एक जुगाड़ू जहाज पर अपने गृह ग्रह से भागने के बाद, [PAWN_nameDef] ने उनकी सुंदरता का अनुभव करने के लिए नए संसारों की यात्रा की।\n\nउसने प्रतिरोध समूहों में शामिल होकर उन कौशल का उपयोग किया जो उसने अपने गृह ग्रह पर विकसित किए थे। वह अक्सर उस परमाणु भयावहता के बारे में चेतावनी देता था जिसे उसने बचपन में देखा था।}</LoneTraveler95.description>
   <!-- EN: lone traveler -->
   <LoneTraveler95.title>अकेला यात्री</LoneTraveler95.title>
   <LoneTraveler95.titleFemale>अकेली यात्री</LoneTraveler95.titleFemale>
@@ -1196,7 +1196,7 @@
   <LostMarine81.titleShortFemale>गद्दार</LostMarine81.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s childhood soldier conditioning failed, and the experiment was shut down. [PAWN_pronoun] was abandoned, purposeless, friendless.\n\n[PAWN_nameDef] eventually found solace in physically demanding work. [PAWN_pronoun] especially liked building houses and crafting heavy armor. -->
-  <LostSoldier13.description>{PAWN_gender ? [PAWN_nameDef] का बचपन सैनिक प्रशिक्षण विफल रहा, और प्रयोग बंद कर दिया गया। उसे त्याग दिया गया, वह उद्देश्यहीन, मित्रहीन थी।\n\n[PAWN_nameDef] ने अंततः शारीरिक रूप से कठिन कार्यों में सांत्वना पाई। उसे विशेष रूप से घर बनाने और भारी कवच बनाने में आनंद आया। : [PAWN_nameDef] का बचपन सैनिक प्रशिक्षण विफल रहा, और प्रयोग बंद कर दिया गया। उसे त्याग दिया गया, वह उद्देश्यहीन, अकेला था।\n\n[PAWN_nameDef] ने अंततः शारीरिक रूप से कठिन कार्यों में सांत्वना पाई। उसे विशेष रूप से घर बनाने और भारी कवच बनाने में आनंद आया।}</LostSoldier13.description>
+  <LostSoldier13.description>{PAWN_gender ? [PAWN_nameDef] का बचपन का सैनिक प्रशिक्षण विफल हो गया, और प्रयोग को बंद कर दिया गया। वह बिना किसी उद्देश्य और बिना किसी मित्र के, लावारिस छोड़ दी गई थी।\n\n[PAWN_nameDef] को अंततः शारीरिक रूप से कठिन काम में सुकून मिला। उसे विशेष रूप से घर बनाना और भारी कवच बनाना पसंद था। : [PAWN_nameDef] का बचपन का सैनिक प्रशिक्षण विफल हो गया, और प्रयोग को बंद कर दिया गया। वह अकेला, उद्देश्यहीन और मित्रहीन छोड़ दिया गया था।\n\n[PAWN_nameDef] को अंततः शारीरिक रूप से कठिन काम में सुकून मिला। उसे विशेष रूप से घर बनाना और भारी कवच बनाना पसंद था।}</LostSoldier13.description>
   <!-- EN: lost soldier -->
   <LostSoldier13.title>खोया हुआ सैनिक</LostSoldier13.title>
   <LostSoldier13.titleFemale>खोई हुई सैनिक</LostSoldier13.titleFemale>
@@ -1259,7 +1259,7 @@
   <MarbleDoctor99.titleShortFemale>डॉक्टर</MarbleDoctor99.titleShortFemale>
   
   <!-- EN: On a glitterworld, [PAWN_nameDef] found a job washing dishes at a famous restaurant and worked [PAWN_possessive] way up the ranks.\n\nA few years later, [PAWN_possessive] career came to an end when someone poisoned the meal [PAWN_pronoun] was preparing for the mayor. Jobless, [PAWN_pronoun] left to explore the stars once again. -->
-  <MasterChef48.description>{PAWN_gender ? एक चमकते हुए ग्रह पर, [PAWN_nameDef] ने एक प्रसिद्ध रेस्टोरेंट में बर्तन धोने का काम ढूंढा और धीरे-धीरे पदोन्नति प्राप्त की।\n\nकुछ वर्षों बाद, उसके करियर का अंत हो गया जब किसी ने मेयर के लिए वह भोजन जहर में बदल दिया जिसे वह बना रही थी। बेरोजगार होकर, वह फिर से सितारों की खोज में निकल पड़ी। : एक चमकते हुए ग्रह पर, [PAWN_nameDef] ने एक प्रसिद्ध रेस्टोरेंट में बर्तन धोने का काम ढूंढा और धीरे-धीरे रैंकों में ऊपर चढ़ गया।\n\nकुछ वर्षों बाद, उसके करियर का अंत हो गया जब किसी ने मेयर के लिए वह भोजन जहर में बदल दिया जिसे वह बना रहा था। बेरोजगार होकर, वह फिर से सितारों की खोज में निकल गया।}</MasterChef48.description>
+  <MasterChef48.description>{PAWN_gender ? एक चमकदार दुनिया में, [PAWN_nameDef] को एक प्रसिद्ध रेस्तरां में बर्तन धोने की नौकरी मिली और उसने धीरे-धीरे ऊंचे पद तक अपनी जगह बनाई।\n\nकुछ वर्षों बाद, उसका करियर तब समाप्त हो गया जब किसी ने मेयर के लिए उसके द्वारा तैयार किए जा रहे भोजन में जहर मिला दिया। बेरोजगार होने के कारण, वह एक बार फिर सितारों की खोज करने निकल पड़ी। : एक चमकदार दुनिया में, [PAWN_nameDef] को एक प्रसिद्ध रेस्तरां में बर्तन धोने की नौकरी मिली और उसने धीरे-धीरे ऊंचे पदों तक अपनी जगह बनाई।\n\nकुछ वर्षों बाद, उसके करियर का अंत तब हुआ जब किसी ने मेयर के लिए तैयार किए जा रहे भोजन में जहर मिला दिया। बेरोजगार होने के कारण, वह एक बार फिर सितारों की खोज में निकल पड़ा।}</MasterChef48.description>
   <!-- EN: master chef -->
   <MasterChef48.title>मुख्य रसोइया</MasterChef48.title>
   <MasterChef48.titleFemale>मुख्य रसोइया</MasterChef48.titleFemale>
@@ -1285,7 +1285,7 @@
   <MechanicsEngineer64.titleShortFemale>इंजीनियर महिला</MechanicsEngineer64.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] fought against swarms of rogue mechanoids since [PAWN_pronoun] was old enough to enlist. [PAWN_pronoun] has bled on half a dozen worlds and has lost more than [PAWN_pronoun] cares to recall. These experiences left [PAWN_objective] hardened, both mentally and physically. -->
-  <MechWarVeteran77.description>[PAWN_nameDef] ने जब से भर्ती होने के लिए पर्याप्त उम्र पाई थी, तब से ही विद्रोही मशीनों के झुंडों के खिलाफ लड़ाई लड़ी है। उसने आधा दर्जन दुनियाओं पर खून बहाया है और उसने वह सब खो दिया है जो उसे याद करना पसंद नहीं है। इन अनुभवों ने उसे मानसिक और शारीरिक रूप से कठोर बना दिया है।</MechWarVeteran77.description>
+  <MechWarVeteran77.description>{PAWN_gender ? [PAWN_nameDef] भर्ती होने के लिए पर्याप्त उम्र की होते ही से विद्रोही मेकैनॉइड्स के झुंडों के खिलाफ लड़ती आ रही है। वह दर्जनों दुनियाओं में लहूलुहान हुई है और उसने इतना कुछ खोया है जिसे वह याद नहीं करना चाहती। इन अनुभवों ने उसे मानसिक और शारीरिक दोनों रूप से कठोर बना दिया है। : [PAWN_nameDef] भर्ती होने के लायक उम्र से ही विद्रोही मेकैनॉइड्स के झुंडों के खिलाफ लड़ा है। उसने दर्जनों दुनियाओं में अपना खून बहाया है और उसने इतना कुछ खोया है जिसे वह याद नहीं करना चाहता। इन अनुभवों ने उसे मानसिक और शारीरिक दोनों रूप से कठोर बना दिया है।}</MechWarVeteran77.description>
   <!-- EN: mech war veteran -->
   <MechWarVeteran77.title>मैकेनिकल युद्ध अनुभवी</MechWarVeteran77.title>
   <MechWarVeteran77.titleFemale>मैकेनिकल युद्ध अनुभवी</MechWarVeteran77.titleFemale>
@@ -1303,7 +1303,7 @@
   <MedicalScientist16.titleShortFemale>वैज्ञानिक महिला</MedicalScientist16.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] enrolled in [PAWN_possessive] planetary army as a frontline medic. [PAWN_pronoun] soon knew the horrors of war and was deeply marked by them.\n\n[PAWN_pronoun] left the military and [PAWN_possessive] homeworld and began researching medicine and helping those [PAWN_pronoun] came across. -->
-  <MedicSoldier54.description>{PAWN_gender ? [PAWN_nameDef] ने अपनी ग्रह की सेना में एक फ्रंटलाइन चिकित्सक के रूप में भर्ती हुई। उसने जल्द ही युद्ध की भयावहता को जान लिया और वह इससे गहराई से प्रभावित हुई।\n\nउसने सेना और अपने गृह ग्रह को छोड़ दिया और चिकित्सा पर शोध करना शुरू कर दिया और रास्ते में आने वालों की मदद करने लगी। : [PAWN_nameDef] ने अपने ग्रह की सेना में एक फ्रंटलाइन चिकित्सक के रूप में भर्ती किया। उसने जल्द ही युद्ध की भयावहता जान ली और वह इससे गहराई से प्रभावित हुआ।\n\nउसने सेना और अपने गृह ग्रह को छोड़ दिया और चिकित्सा पर शोध करना शुरू कर दिया और रास्ते में आने वालों की मदद करने लगा।}</MedicSoldier54.description>
+  <MedicSoldier54.description>{PAWN_gender ? [PAWN_nameDef] ने अपनी ग्रह सेना में एक अग्रिम पंक्ति की चिकित्सक के रूप में नामांकन किया। वह जल्द ही युद्ध के भयावह दृश्यों को जान गई और उनसे गहराई से प्रभावित हुई।\n\nउसने सेना और अपने गृह जगत को छोड़ दिया और दवा पर शोध करना और जिन लोगों से उसका सामना हुआ उनकी मदद करना शुरू कर दिया। : [PAWN_nameDef] अपनी ग्रहीय सेना में एक अग्रिम पंक्ति के चिकित्सक के रूप में भर्ती हुआ। उसने जल्द ही युद्ध की भयावहता को जान लिया और वे उसके मन पर गहराई से अंकित हो गईं।\n\nउसने सेना और अपने गृहग्रह को छोड़ दिया और दवा पर शोध करना तथा जिन लोगों से उसका सामना हुआ उनकी मदद करना शुरू कर दिया।}</MedicSoldier54.description>
   <!-- EN: medic soldier -->
   <MedicSoldier54.title>चिकित्सक सैनिक</MedicSoldier54.title>
   <MedicSoldier54.titleFemale>चिकित्सक सैनिक</MedicSoldier54.titleFemale>
@@ -1314,7 +1314,7 @@
   <!-- EN: [PAWN_nameDef] fought for king and country on the battlefield, where [PAWN_pronoun] further honed [PAWN_possessive] skill as a swordsman. [PAWN_possessive] greatest glory was leading a charge into an enemy courtroom and capturing the king at sword point. -->
   <MedievalKnight26.description>{PAWN_gender ? [PAWN_nameDef] ने युद्ध के मैदान में राजा और देश के लिए लड़ाई लड़ी, जहाँ उसने तलवार चलाने के अपने कौशल को और निखारा। उसकी सबसे बड़ी महिमा एक शत्रु न्यायालय में धावा बोलने और तलवार की नोक पर राजा को बंदी बनाने में निहित थी। : [PAWN_nameDef] ने युद्ध के मैदान में राजा और देश के लिए लड़ाई लड़ी, जहाँ उसने तलवार चलाने के अपने कौशल को और भी निखारा। उसकी सबसे बड़ी महिमा एक शत्रु न्यायालय में धावा बोलने और तलवार की नोक पर राजा को बंदी बनाने में निहित थी।}</MedievalKnight26.description>
   <!-- EN: medieval knight -->
-  <MedievalKnight26.title>मध्यकालीन शूरवीर</MedievalKnight26.title>
+  <MedievalKnight26.title>मध्ययुग का शूरवीर</MedievalKnight26.title>
   <!-- EN: knight -->
   <MedievalKnight26.titleShort>नाइट</MedievalKnight26.titleShort>
   
@@ -1355,7 +1355,7 @@
   <Mercenary55.titleShortFemale>किराये की सैनिक महिला</Mercenary55.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was in the crew of a mercenary ship. Disciplined and confident, [PAWN_pronoun] quickly rose through the ranks and gained friends.\n\nIn [PAWN_possessive] time as a mercenary captain, [PAWN_pronoun] was known for being gregarious and calm - possibly thanks to the joywires. -->
-  <MercenaryCaptain98.description>{PAWN_gender ? [PAWN_nameDef] एक भाड़े के जहाज के दल में थी। अनुशासित और आत्मविश्वासी, वह जल्दी से रैंकों में ऊपर चढ़ गई और दोस्त बना लिए।\n\nअपने सेवा काल के दौरान एक भाड़े की कप्तान के रूप में, वह मिलनसार और शांत रहने के लिए जानी जाती थी - शायद जॉयवायर के कारण। : [PAWN_nameDef] एक भाड़े के जहाज के दल में था। अनुशासित और आत्मविश्वासी, वह जल्दी से रैंकों में ऊपर उठा और दोस्त बनाए।\n\nअपने समय के दौरान एक भाड़े के कप्तान के रूप में, वह मिलनसार और शांत रहने के लिए जाना जाता था - शायद जॉयवायर के कारण।}</MercenaryCaptain98.description>
+  <MercenaryCaptain98.description>{PAWN_gender ? [PAWN_nameDef] एक भाड़े के जहाज के चालक दल का हिस्सा थी। अनुशासित और आत्मविश्वासी होने के कारण, वह तेजी से ऊंचे पदों तक पहुंची और उसने कई दोस्त बनाए।\n\nएक भाड़े की कप्तान के रूप में अपने समय में, वह मिलनसार और शांत रहने के लिए जानी जाती थी - संभवतः आनंद तार की वजह से। : [PAWN_nameDef] एक भाड़े के जहाज के चालक दल का हिस्सा था। अनुशासित और आत्मविश्वासी होने के कारण, वह तेजी से ऊंचे पदों तक पहुंचा और उसने कई दोस्त बनाए।\n\nएक भाड़े के कप्तान के रूप में अपने कार्यकाल के दौरान, वह मिलनसार और शांत रहने के लिए जाना जाता था - संभवतः आनंद तार की वजह से।}</MercenaryCaptain98.description>
   <!-- EN: mercenary captain -->
   <MercenaryCaptain98.title>भाड़े का कप्तान</MercenaryCaptain98.title>
   <MercenaryCaptain98.titleFemale>भाड़े की कप्तान</MercenaryCaptain98.titleFemale>
@@ -1398,7 +1398,7 @@
   <MercenaryPilot63.titleShortFemale>भाड़े की सैनिक महिला</MercenaryPilot63.titleShortFemale>
   
   <!-- EN: A plague struck [PAWN_nameDef]'s native urbworld. [PAWN_nameDef] and other researchers revealed that the illness was a bioweapon, but the people turned on them, blaming them for the sickness.\n\n[PAWN_nameDef] barely escaped [PAWN_possessive] homeworld as it fell into chaos. -->
-  <Microbiologist12.description>{PAWN_gender ? एक महामारी [PAWN_nameDef] के मूल शहरी ग्रह पर मच गई। [PAWN_nameDef] और अन्य शोधकर्ताओं ने खुलासा किया कि बीमारी एक जैविक हथियार थी, लेकिन लोगों ने उनके खिलाफ रुख कर लिया और उन्हें बीमारी के लिए दोषी ठहराया।\n\n[PAWN_nameDef] अपने गृह ग्रह से बाल-बाल बची, क्योंकि वह अराजकता में डूब गया। : एक महामारी [PAWN_nameDef] के मूल शहरी ग्रह पर मच गई। [PAWN_nameDef] और अन्य शोधकर्ताओं ने खुलासा किया कि यह बीमारी एक जैविक हथियार थी, लेकिन लोगों ने उनके खिलाफ रुख कर लिया और उन्हें बीमारी के लिए दोषी ठहराया।\n\n[PAWN_nameDef] अपने गृह ग्रह से बाल-बाल बचा, क्योंकि वह अराजकता में डूब गया।}</Microbiologist12.description>
+  <Microbiologist12.description>{PAWN_gender ? एक महामारी ने [PAWN_nameDef] की मूल शहरी दुनिया को अपनी चपेट में ले लिया। [PAWN_nameDef] और अन्य शोधकर्ताओं ने खुलासा किया कि यह बीमारी एक जैविक हथियार थी, लेकिन लोगों ने उन्हें ही दोषी ठहराते हुए उनके खिलाफ विद्रोह कर दिया।\n\nजब उनका गृहग्रह अराजकता की स्थिति में डूब गया, तो [PAWN_nameDef] बड़ी मुश्किल से वहां से बचकर निकल पाईं। : एक महामारी ने [PAWN_nameDef] की मूल शहरी दुनिया को अपनी चपेट में ले लिया। [PAWN_nameDef] और अन्य शोधकर्ताओं ने खुलासा किया कि यह बीमारी एक जैविक हथियार थी, लेकिन लोगों ने उन्हें ही दोषी ठहराते हुए उनके विरुद्ध विद्रोह कर दिया।\n\nजब उसका गृहग्रह अराजकता की स्थिति में डूब गया, तो [PAWN_nameDef] बड़ी मुश्किल से वहां से बचकर निकल पाया।}</Microbiologist12.description>
   <!-- EN: microbiologist -->
   <Microbiologist12.title>सूक्ष्मजीवविज्ञानी</Microbiologist12.title>
   <Microbiologist12.titleFemale>सूक्ष्मजैवविज्ञानी</Microbiologist12.titleFemale>
@@ -1409,14 +1409,14 @@
   <!-- EN: [PAWN_nameDef] joined [PAWN_possessive] country's Royal Navy. After years as a non-commissioned officer, [PAWN_pronoun] eventually cracked and used the skills [PAWN_pronoun] had acquired to start a mutiny on [PAWN_possessive] ship.\n\nIn the end, [PAWN_nameDef] was the leader of a large group of trained and dangerous pirates. [PAWN_pronoun] henceforth always had chefs to cook for him. -->
   <MidworldSailor91.description>{PAWN_gender ? नौसेना अधिकारी [PAWN_nameDef] अपने देश की रॉयल नेवी में शामिल हुईं। वर्षों तक एक गैर-कमीशन अधिकारी के रूप में काम करने के बाद, अंततः वह टूट गईं और अपने जहाज पर विद्रोह शुरू करने के लिए अपने द्वारा प्राप्त कौशल का उपयोग किया।\n\nअंत में, [PAWN_nameDef] प्रशिक्षित और खतरनाक समुद्री डाकुओं के एक बड़े समूह की नेता थीं। उसके बाद हमेशा उसके लिए खाना बनाने वाले रसोइये रहे। : [PAWN_nameDef] ने अपने देश की रॉयल नेवी में शामिल हुआ। वर्षों तक एक गैर-कमीशन अधिकारी के रूप में काम करने के बाद, अंततः वह टूट गया और अपने जहाज पर विद्रोह शुरू करने के लिए अपने द्वारा प्राप्त कौशल का उपयोग किया।\n\nअंत में, [PAWN_nameDef] प्रशिक्षित और खतरनाक समुद्री डाकुओं के एक बड़े समूह का नेता था। उसके बाद हमेशा उसके लिए खाना बनाने वाले रसोइये रहे।}</MidworldSailor91.description>
   <!-- EN: midworld sailor -->
-  <MidworldSailor91.title>मध्यविश्व नाविक</MidworldSailor91.title>
-  <MidworldSailor91.titleFemale>मध्यविश्व नाविक</MidworldSailor91.titleFemale>
+  <MidworldSailor91.title>मध्य दुनिया का नाविक</MidworldSailor91.title>
+  <MidworldSailor91.titleFemale>मध्य दुनिया की नाविक</MidworldSailor91.titleFemale>
   <!-- EN: sailor -->
   <MidworldSailor91.titleShort>नाविक</MidworldSailor91.titleShort>
   <MidworldSailor91.titleShortFemale>नाविक</MidworldSailor91.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] worked as an engineer for a colonial military. [PAWN_pronoun] got to play with weapons, murder-drones, and other 'fun' stuff.\n\n[PAWN_pronoun] specialized in repairing and modifying mechanoids' tools. Sometimes [PAWN_pronoun] tested them [PAWN_objective]self. -->
-  <MilitaryEngineer45.description>{PAWN_gender ? [PAWN_nameDef] एक औपनिवेशिक सेना के लिए इंजीनियर के रूप में काम करती थी। उसे हथियारों, हत्यारे ड्रोन और अन्य &amp;apos;मज़ेदार&amp;apos; चीज़ों के साथ खेलने का अवसर मिला।\n\nवह मैकेनॉइड्स के उपकरणों की मरम्मत और संशोधन में विशेषज्ञ थी। कभी-कभी वह स्वयं उनका परीक्षण भी करती थी। : [PAWN_nameDef] एक औपनिवेशिक सेना के लिए इंजीनियर के रूप में काम करता था। उसे हथियारों, हत्यारे ड्रोन और अन्य &amp;apos;मज़ेदार&amp;apos; चीजों के साथ खेलने का अवसर मिला।\n\nवह मैकेनॉइड्स के उपकरणों की मरम्मत और संशोधन में विशेषज्ञता रखता था। कभी-कभी वह स्वयं उनका परीक्षण भी करता था।}</MilitaryEngineer45.description>
+  <MilitaryEngineer45.description>{PAWN_gender ? [PAWN_nameDef] एक औपनिवेशिक सेना के लिए इंजीनियर के रूप में काम करती थी। उसे हथियारों, मर्डर-ड्रोन और अन्य 'मज़ेदार' चीज़ों के साथ खेलने का मौका मिलता था।\n\nवह मेकैनॉइड्स के उपकरणों की मरम्मत करने और उन्हें संशोधित करने में विशेषज्ञ थी। कभी-कभी वह खुद उनका परीक्षण करती थी। : [PAWN_nameDef] एक औपनिवेशिक सेना के लिए इंजीनियर के रूप में काम करता था। उसे हथियारों, मर्डर-ड्रोन और अन्य 'मज़ेदार' चीज़ों के साथ खेलने का मौका मिला।\n\nवह मेकैनॉइड्स के उपकरणों की मरम्मत करने और उन्हें संशोधित करने में विशेषज्ञ था। कभी-कभी वह खुद उनका परीक्षण करता था।}</MilitaryEngineer45.description>
   <!-- EN: military engineer -->
   <MilitaryEngineer45.title>सैन्य अभियंता</MilitaryEngineer45.title>
   <MilitaryEngineer45.titleFemale>सैन्य अभियंन्त्री</MilitaryEngineer45.titleFemale>
@@ -1452,7 +1452,7 @@
   <MilitaryOfficer17.titleShortFemale>अधिकारी महिला</MilitaryOfficer17.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] joined the militia forces and fought for rights and peace.\n\nAfter [PAWN_possessive] homeworld was unexpectedly destroyed in the wars, [PAWN_pronoun] traveled great distances, seeking a refuge where [PAWN_pronoun] could build a new, free way of life. -->
-  <MilitiaSoldier79.description>{PAWN_gender ? [PAWN_nameDef] मिलिशिया बलों में शामिल हुईं और अधिकारों और शांति के लिए लड़ीं।\n\nअपने गृह ग्रह के युद्धों में अप्रत्याशित रूप से नष्ट हो जाने के बाद, वह बहुत दूर तक यात्रा की, एक ऐसे आश्रय की तलाश में जहाँ वह एक नया, स्वतंत्र जीवन बना सके। : [PAWN_nameDef] मिलिशिया बलों में शामिल हुए और अधिकारों और शांति के लिए लड़े।\n\nअपनी गृह दुनिया के अप्रत्याशित रूप से युद्धों में नष्ट हो जाने के बाद, उन्होंने बहुत दूर तक यात्रा की, एक ऐसे आश्रय की तलाश में जहाँ वह एक नया, स्वतंत्र जीवन बना सके।}</MilitiaSoldier79.description>
+  <MilitiaSoldier79.description>{PAWN_gender ? [PAWN_nameDef] मिलिशिया बलों में शामिल हो गई और अधिकारों एवं शांति के लिए लड़ी।\n\nयुद्धों में अपने गृह ग्रह के अप्रत्याशित रूप से नष्ट होने के बाद, उसने एक नए, स्वतंत्र जीवन जीने का मार्ग खोजने हेतु शरण की तलाश में लंबी दूरियां तय कीं। : [PAWN_nameDef] मिलिशिया बलों में शामिल हो गया और अधिकारों तथा शांति के लिए लड़ा।\n\nयुद्धों में उसके गृहग्रह के अप्रत्याशित रूप से नष्ट होने के बाद, उसने एक नए, स्वतंत्र जीवन जीने का मार्ग खोजने हेतु शरण की तलाश में लंबी दूरियां तय कीं।}</MilitiaSoldier79.description>
   <!-- EN: militia soldier -->
   <MilitiaSoldier79.title>सैन्य सैनिक</MilitiaSoldier79.title>
   <!-- EN: soldier -->
@@ -1468,7 +1468,7 @@
   <MindwipedAssassin50.titleShortFemale>स्मृति-विलोपन (स्मृति विलोपन)</MindwipedAssassin50.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] managed to secure an important position in the government of a minor glitterworld. [PAWN_pronoun] got used to the opulence, while attempting to keep [PAWN_possessive] citizens content. [PAWN_pronoun] had ample time for pleasure and indulgence – though [PAWN_pronoun] never forgot how to do hard work. -->
-  <Minister88.description>{PAWN_gender ? [PAWN_nameDef] एक छोटे से चमकते हुए ग्रह की सरकार में एक महत्वपूर्ण पद हासिल करने में सफल रही। वह विलासिता के आदी हो गई, जबकि अपने नागरिकों को संतुष्ट रखने का प्रयास करती रही। उसके पास आनंद और भोग के लिए पर्याप्त समय था – हालाँकि उसने कभी कड़ी मेहनत करना नहीं भूला। : [PAWN_nameDef] एक छोटे से चमकते हुए ग्रह की सरकार में एक महत्वपूर्ण पद हासिल करने में सफल रहा। वह विलासिता के आदी हो गया, जबकि अपने नागरिकों को संतुष्ट रखने का प्रयास करता रहा। उसके पास सुख-सुविधाओं और भोग-विलास के लिए पर्याप्त समय था – हालाँकि उसने कभी कड़ी मेहनत करना नहीं भूला।}</Minister88.description>
+  <Minister88.description>{PAWN_gender ? [PAWN_nameDef] एक छोटी चमकदार दुनिया की सरकार में एक महत्वपूर्ण पद सुरक्षित करने में सफल रही। उसने अपने नागरिकों को संतुष्ट रखने का प्रयास करते हुए, विलासिता की अभ्यस्त हो गई। उसके पास आनंद और भोग-विलास के लिए पर्याप्त समय था – हालाँकि वह कठिन परिश्रम करना कभी नहीं भूली। : [PAWN_nameDef] एक छोटी चमकदार दुनिया की सरकार में एक महत्वपूर्ण पद सुरक्षित करने में सफल रहा। वह अपने नागरिकों को संतुष्ट रखने का प्रयास करते हुए, वहां की विलासिता का आदी हो गया था। उसके पास आनंद और भोग-विलास के लिए पर्याप्त समय था – हालांकि वह कठिन परिश्रम करना कभी नहीं भूला।}</Minister88.description>
   <!-- EN: minister -->
   <Minister88.title>मंत्री</Minister88.title>
   <Minister88.titleFemale>मंत्री</Minister88.titleFemale>
@@ -1486,7 +1486,7 @@
   <Missionary99.titleShortFemale>मिशनरी प्रचारिका</Missionary99.titleShortFemale>
   
   <!-- EN: After being "saved" from [PAWN_possessive] home world by a slaver ship, [PAWN_nameDef] was sold to an urbworld crime lord, where [PAWN_pronoun] was used as a henchman. [PAWN_pronoun] specialized in low-tech beat-downs and intimidation. -->
-  <MobHenchman53.description>{PAWN_gender ? अपने गृह ग्रह से &amp;quot;बचाए&amp;quot; जाने के बाद एक दास जहाज द्वारा, [PAWN_nameDef] को एक शहरी दुनिया के अपराध सरगना को बेच दिया गया, जहाँ उसका उपयोग गुर्गे के रूप में किया गया। वह कम तकनीक वाले हमलों और डराने-धमकाने में विशेषज्ञ थी। : अपने गृह ग्रह से &amp;quot;बचाए&amp;quot; जाने के बाद एक दास जहाज द्वारा, [PAWN_nameDef] को एक शहरी दुनिया के अपराध सरगना को बेच दिया गया, जहाँ उसका उपयोग गुर्गे के रूप में किया गया। वह निम्न-तकनीकी मार-पीट और डराने-धमकाने में विशेषज्ञ था।}</MobHenchman53.description>
+  <MobHenchman53.description>{PAWN_gender ? एक दास जहाज द्वारा अपने गृह ग्रह से "बचाए" जाने के बाद, [PAWN_nameDef] को एक शहरी दुनिया के अपराध प्रमुख को बेच दिया गया था, जहाँ उसका उपयोग एक गुंडे के रूप में किया गया था। वह कम-तकनीकी मारपीट और डराने-धमकाने में माहिर थी। : एक दास जहाज द्वारा अपने गृह संसार से "बचाए" जाने के बाद, [PAWN_nameDef] को एक शहरी दुनिया के अपराध प्रमुख को बेच दिया गया था, जहाँ उसका उपयोग एक गुंडे के रूप में किया गया था। वह कम-तकनीकी मारपीट और डराने-धमकाने में माहिर था।}</MobHenchman53.description>
   <!-- EN: mob henchman -->
   <MobHenchman53.title>गुंडा सहयोगी</MobHenchman53.title>
   <MobHenchman53.titleFemale>गुंडा सहयोगी</MobHenchman53.titleFemale>
@@ -1495,10 +1495,10 @@
   <MobHenchman53.titleShortFemale>गुर्गा (महिला)</MobHenchman53.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] specialized in studying and manipulating the genetic code of the muffalo.\n\n[PAWN_possessive] work left little time to develop an appreciation for the arts or other people's company. -->
-  <MuffaloResearcher67.description>{PAWN_gender ? मफ़ालो के आनुवंशिक कोड के अध्ययन और हेरफेर में [PAWN_nameDef] विशेषज्ञ थीं।\n\nउनके काम ने कला की सराहना या दूसरों की संगति विकसित करने के लिए बहुत कम समय छोड़ा। : जेनेटिक विशेषज्ञ, [PAWN_nameDef] मफ़ालो के आनुवंशिक कोड का अध्ययन और हेरफेर करने में विशेषज्ञता रखते थे।\n\nउनके काम ने कला की सराहना या दूसरों की संगति विकसित करने के लिए बहुत कम समय छोड़ा।}</MuffaloResearcher67.description>
+  <MuffaloResearcher67.description>{PAWN_gender ? [PAWN_nameDef] मफ्फालो के आनुवंशिक कोड का अध्ययन करने और उसमें हेरफेर करने में विशेषज्ञ थी।\n\nउसके काम ने कला के प्रति प्रशंसा या अन्य लोगों की संगति विकसित करने के लिए बहुत कम समय छोड़ा। : [PAWN_nameDef] मफ्फालो के आनुवंशिक कोड का अध्ययन करने और उसमें हेरफेर करने में विशेषज्ञ था।\n\nउसके काम ने कला के प्रति प्रशंसा या अन्य लोगों की संगति विकसित करने के लिए बहुत कम समय छोड़ा।}</MuffaloResearcher67.description>
   <!-- EN: muffalo researcher -->
-  <MuffaloResearcher67.title>मफ़ालो शोधकर्ता</MuffaloResearcher67.title>
-  <MuffaloResearcher67.titleFemale>मफ़ालो शोधकर्ता</MuffaloResearcher67.titleFemale>
+  <MuffaloResearcher67.title>मफ्फालो शोधकर्ता</MuffaloResearcher67.title>
+  <MuffaloResearcher67.titleFemale>मफ्फालो शोधकर्ता</MuffaloResearcher67.titleFemale>
   <!-- EN: researcher -->
   <MuffaloResearcher67.titleShort>शोधकर्ता</MuffaloResearcher67.titleShort>
   <MuffaloResearcher67.titleShortFemale>शोधकर्ता महिला</MuffaloResearcher67.titleShortFemale>
@@ -1513,7 +1513,7 @@
   <MutinousCaptain52.titleShortFemale>कप्तान महिला</MutinousCaptain52.titleShortFemale>
   
   <!-- EN: After repairing a fleet admiral's holoscreen with nothing but a pair of rusty pliers and scrap wire, [PAWN_nameDef] was invited to the Federation Naval Academy.\n\n[PAWN_pronoun] received an excellent technical education and extensive firearms training, but had no interest in studying more menial skills. -->
-  <NavyTechOfficer0.description>बेड़े के एडमिरल के होलोस्क्रीन को केवल जंग लगे प्लायर और स्क्रैप वायर से ठीक करने के बाद, [PAWN_nameDef] को फेडरेशन नेवल एकेडमी में आमंत्रित किया गया।\n\nउन्हें उत्कृष्ट तकनीकी शिक्षा और व्यापक हथियार प्रशिक्षण प्राप्त हुआ, लेकिन उन्हें अधिक तुच्छ कौशल सीखने में कोई दिलचस्पी नहीं थी।</NavyTechOfficer0.description>
+  <NavyTechOfficer0.description>{PAWN_gender ? एक बेड़े के एडमिरल की होलोस्क्रीन को केवल जंग लगे प्लायर और कबाड़ के तार से ठीक करने के बाद, [PAWN_nameDef] को फेडरेशन नेवल एकेडमी में आमंत्रित किया गया था।\n\nउसने एक उत्कृष्ट तकनीकी शिक्षा और व्यापक आग्नेयास्त्र प्रशिक्षण प्राप्त किया, लेकिन उसकी अन्य साधारण कौशल सीखने में कोई रुचि नहीं थी। : जंग लगे हुए प्लायर और कबाड़ के तार के अलावा कुछ न होने के बावजूद एक एडमिरल की होलोस्क्रीन की मरम्मत करने के बाद, [PAWN_nameDef] को फेडरेशन नेवल एकेडमी में आमंत्रित किया गया था।\n\nउसे एक उत्कृष्ट तकनीकी शिक्षा और व्यापक आग्नेयास्त्र प्रशिक्षण प्राप्त हुआ, लेकिन उसे अन्य साधारण कौशल सीखने में कोई रुचि नहीं थी।}</NavyTechOfficer0.description>
   <!-- EN: navy tech officer -->
   <NavyTechOfficer0.title>नौसेना तकनीकी अधिकारी</NavyTechOfficer0.title>
   <NavyTechOfficer0.titleFemale>नौसेना तकनीकी अधिकारी</NavyTechOfficer0.titleFemale>
@@ -1576,7 +1576,7 @@
   <OverwatchSniper42.titleShortFemale>निशानेबाज</OverwatchSniper42.titleShortFemale>
   
   <!-- EN: After scraping by on assorted shady jobs, [PAWN_nameDef] joined with a large paramilitary group to fight a war on [PAWN_possessive] homeworld. [PAWN_possessive] role was infiltration and intelligence gathering -->
-  <ParamilitaryAgent11.description>{PAWN_gender ? जासूस\n\nकिसी भी तरह से गुजारा करने के बाद, [PAWN_nameDef] अपने गृह ग्रह पर युद्ध लड़ने के लिए एक बड़े अर्धसैनिक समूह में शामिल हो गईं। उनकी भूमिका घुसपैठ और खुफिया जानकारी जुटाना थी। : अनेक संदिग्ध नौकरियों से गुजरे के बाद, [PAWN_nameDef] अपने गृह ग्रह पर युद्ध लड़ने के लिए एक बड़े अर्धसैनिक समूह में शामिल हो गया। उसकी भूमिका घुसपैठ और खुफिया जानकारी एकत्र करना थी।}</ParamilitaryAgent11.description>
+  <ParamilitaryAgent11.description>{PAWN_gender ? विभिन्न संदिग्ध कामों से गुजारा करने के बाद, [PAWN_nameDef] अपने गृह ग्रह पर युद्ध लड़ने के लिए एक बड़े अर्धसैनिक समूह में शामिल हो गई। उसकी भूमिका घुसपैठ और खुफिया जानकारी इकट्ठा करना था। : विभिन्न संदिग्ध कामों से गुजारा करने के बाद, [PAWN_nameDef] अपने गृह ग्रह पर युद्ध लड़ने के लिए एक बड़े अर्धसैनिक समूह में शामिल हो गया। उसकी भूमिका घुसपैठ और खुफिया जानकारी इकट्ठा करना था।}</ParamilitaryAgent11.description>
   <!-- EN: paramilitary agent -->
   <ParamilitaryAgent11.title>अर्धसैनिक एजेंट</ParamilitaryAgent11.title>
   <ParamilitaryAgent11.titleFemale>अर्धसैनिक एजेंट</ParamilitaryAgent11.titleFemale>
@@ -1601,7 +1601,7 @@
   <Philosopher97.titleShortFemale>बुद्धिमान महिला ऋषि</Philosopher97.titleShortFemale>
   
   <!-- EN: As a pirate leader, [PAWN_nameDef] was well-known for [PAWN_possessive] cunning plans and chess-like traps. [PAWN_pronoun] was never afraid to sacrifice a few pawns to capture an important target.\n\n[PAWN_possessive] name has been linked more then once to strategies that overcame overwhelming odds. -->
-  <Pirate56.description>{PAWN_gender ? समुद्री डाकू नेता के रूप में, [PAWN_nameDef] अपनी चालाक योजनाओं और शतरंज जैसी जाल के लिए प्रसिद्ध थी। वह किसी महत्वपूर्ण लक्ष्य को पकड़ने के लिए कुछ प्यादों को बलिदान करने से कभी नहीं डरी।\n\nउसका नाम एक से अधिक बार ऐसी रणनीतियों से जुड़ा है जिन्होंने भारी बाधाओं को पार कर लिया। : समुद्री डाकू सरदार के रूप में, [PAWN_nameDef] अपनी चालाक योजनाओं और शतरंज जैसी जाल के लिए प्रसिद्ध था। वह किसी महत्वपूर्ण लक्ष्य को पकड़ने के लिए कुछ प्यादों को कुर्बान करने से कभी नहीं डरा।\n\nउसके नाम को एक से अधिक बार ऐसी रणनीतियों से जोड़ा गया है जिन्होंने भारी बाधाओं को पार कर लिया।}</Pirate56.description>
+  <Pirate56.description>{PAWN_gender ? एक समुद्री डाकू नेता के रूप में, [PAWN_nameDef] अपनी चतुर योजनाओं और शतरंज जैसे जाल के लिए प्रसिद्ध थी। वह किसी महत्वपूर्ण लक्ष्य को पकड़ने के लिए कुछ प्यादों की बलि देने से कभी नहीं डरी।\n\nउसका नाम एक से अधिक बार उन रणनीतियों से जुड़ा है जिन्होंने भारी प्रतिकूलताओं पर विजय प्राप्त की। : एक समुद्री डाकू के नेता के रूप में, [PAWN_nameDef] अपनी चतुर योजनाओं और शतरंज जैसे जाल के लिए प्रसिद्ध था। वह किसी महत्वपूर्ण लक्ष्य को पकड़ने के लिए कुछ प्यादों की बलि देने से कभी नहीं डरा।\n\nउसका नाम एक से अधिक बार उन रणनीतियों से जुड़ा है जिन्होंने भारी प्रतिकूलताओं पर विजय प्राप्त की।}</Pirate56.description>
   <!-- EN: pirate -->
   <Pirate56.title>समुद्री डाकू</Pirate56.title>
   <Pirate56.titleFemale>समुद्री डाकू</Pirate56.titleFemale>
@@ -1619,7 +1619,7 @@
   <PirateCaptain69.titleShortFemale>कप्तान महिला</PirateCaptain69.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] had a passion for medicine, but never bothered to get a medical degree. Only underfunded pirates and terrorists were desperate enough to hire [PAWN_possessive] services, and [PAWN_possessive] surgical patients had about a 50% survival rate.\n\nDespite this, [PAWN_possessive] optimistic attitude drove [PAWN_objective] to keep trying to heal those in need. As long as they paid up front. -->
-  <PirateDoctor0.description>{PAWN_gender ? चिकित्सक\n\n[PAWN_nameDef] को चिकित्सा के प्रति जुनून था, लेकिन उसने कभी भी चिकित्सा की डिग्री प्राप्त करने की जहमत नहीं उठाई। केवल अल्प-वित्तपोषित समुद्री डाकू और आतंकवादी ही उसकी सेवाओं को नियुक्त करने के लिए इतने हताश थे, और उसके शल्य चिकित्सा रोगियों के जीवित रहने की दर लगभग 50% थी।\n\nइसके बावजूद, उसका आशावादी रवैया उसे जरूरतमंदों को ठीक करने की कोशिश करते रहने के लिए प्रेरित करता रहा। जब तक वे अग्रिम भुगतान करते रहे। : [PAWN_nameDef] को चिकित्सा में जुनून था, लेकिन उसने कभी भी चिकित्सा की डिग्री प्राप्त करने की जहमत नहीं उठाई। केवल कम धन वाले समुद्री डाकू और आतंकवादी ही उसकी सेवाओं को नियुक्त करने के लिए इतने हताश थे, और उसके शल्य चिकित्सा रोगियों के जीवित रहने की दर लगभग 50% थी।\n\nइसके बावजूद, उसका आशावादी रवैया उसे जरूरतमंदों को ठीक करने की कोशिश करते रहने के लिए प्रेरित करता रहा। जब तक वे अग्रिम भुगतान करते रहे।}</PirateDoctor0.description>
+  <PirateDoctor0.description>{PAWN_gender ? [PAWN_nameDef] को दवा के प्रति जुनून था, लेकिन उसने कभी मेडिकल डिग्री लेने की जहमत नहीं उठाई। केवल कम बजट वाले समुद्री डाकू और आतंकवादी ही उसकी सेवाएँ लेने के लिए इतने बेताब थे, और उसके सर्जिकल मरीजों की जीवित रहने की दर लगभग 50% थी।\n\nइसके बावजूद, उसके आशावादी दृष्टिकोण ने उसे जरूरतमंदों को ठीक करने की कोशिश जारी रखने के लिए प्रेरित किया। जब तक वे अग्रिम भुगतान कर रहे थे। : [PAWN_nameDef] को दवा के प्रति जुनून था, लेकिन उसने कभी मेडिकल डिग्री लेने की जहमत नहीं उठाई। केवल कम बजट वाले समुद्री डाकू और आतंकवादी ही उसकी सेवाओं को काम पर रखने के लिए इतने बेताब थे, और उसके सर्जिकल मरीजों की जीवित रहने की दर लगभग 50% थी।\n\nइसके बावजूद, उसके आशावादी दृष्टिकोण ने उसे जरूरतमंदों को ठीक करने की कोशिश जारी रखने के लिए प्रेरित किया। जब तक वे अग्रिम भुगतान कर रहे थे।}</PirateDoctor0.description>
   <!-- EN: pirate doctor -->
   <PirateDoctor0.title>समुद्री डाकू चिकित्सक</PirateDoctor0.title>
   <PirateDoctor0.titleFemale>समुद्री डाकू चिकित्सक</PirateDoctor0.titleFemale>
@@ -1635,7 +1635,7 @@
   <PirateKing69.titleShort>समुद्री डाकू</PirateKing69.titleShort>
   
   <!-- EN: From [PAWN_possessive] youth, [PAWN_nameDef] developed connections in the underworld. There [PAWN_pronoun] trained in melee combat and became a trusted underworld advisor.\n\nAfter participating in a failed rebellion, [PAWN_pronoun] fled [PAWN_possessive] homeworld to travel with a pirate band. -->
-  <PirateSympathizer24.description>{PAWN_gender ? उसकी जवानी में, [PAWN_nameDef] ने अंडरवर्ल्ड में संबंध विकसित किए। वहाँ उसने हाथापाई की लड़ाई में प्रशिक्षण लिया और एक भरोसेमंद अंडरवर्ल्ड सलाहकार बन गई।\n\nएक असफल विद्रोह में भाग लेने के बाद, वह अपने गृह ग्रह से एक समुद्री डाकू गिरोह के साथ यात्रा करने के लिए भाग गई। : अपने बचपन से ही, [PAWN_nameDef] ने अंडरवर्ल्ड में संबंध विकसित किए। वहाँ उसने हाथापाई की लड़ाई में प्रशिक्षण लिया और एक भरोसेमंद अंडरवर्ल्ड सलाहकार बन गया।\n\nएक असफल विद्रोह में भाग लेने के बाद, वह अपने गृह ग्रह से भाग गया और एक समुद्री डाकू गिरोह के साथ यात्रा करने लगा।}</PirateSympathizer24.description>
+  <PirateSympathizer24.description>{PAWN_gender ? अपनी युवावस्था से ही, [PAWN_nameDef] ने अंडरवर्ल्ड में अपने संबंध विकसित कर लिए थे। वहाँ उसने नज़दीकी युद्ध में प्रशिक्षण लिया और एक भरोसेमंद अंडरवर्ल्ड सलाहकार बन गई।\n\nएक असफल विद्रोह में भाग लेने के बाद, वह समुद्री डाकुओं के एक गिरोह के साथ यात्रा करने के लिए अपने गृह ग्रह से भाग गई। : अपनी युवावस्था से ही, [PAWN_nameDef] ने अंडरवर्ल्ड में संबंध विकसित कर लिए थे। वहाँ उसने नज़दीकी युद्ध में प्रशिक्षण लिया और एक भरोसेमंद अंडरवर्ल्ड सलाहकार बन गया।\n\nएक असफल विद्रोह में भाग लेने के बाद, वह समुद्री डाकुओं के एक गिरोह के साथ यात्रा करने के लिए अपने गृह ग्रह से भाग गया।}</PirateSympathizer24.description>
   <!-- EN: pirate sympathizer -->
   <PirateSympathizer24.title>समुद्री डाकू सहानुभूति रखने वाला</PirateSympathizer24.title>
   <PirateSympathizer24.titleFemale>समुद्री डाकू सहानुभूति रखने वाली</PirateSympathizer24.titleFemale>
@@ -1680,7 +1680,7 @@
   <PoisonGardener29.titleShortFemale>वनस्पतिशास्त्री</PoisonGardener29.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was involved with a radical political faction which worked against [PAWN_possessive] homeworld's government.\n\nThe guerilla tactics training that [PAWN_nameDef] received from [PAWN_possessive] associates gave [PAWN_objective] the skills to fight, but also drove [PAWN_objective] to compromise [PAWN_possessive] own beliefs. -->
-  <PoliticalActivist20.description>{PAWN_gender ? [PAWN_nameDef] एक उग्र राजनीतिक गुट में शामिल थीं जिन्होंने अपने गृह ग्रह की सरकार के खिलाफ काम किया।\n\n[PAWN_nameDef] को अपने सहयोगियों से मिली गुरिल्ला रणनीति प्रशिक्षण ने उन्हें लड़ने के कौशल दिए, लेकिन इसने उन्हें अपनी मान्यताओं से समझौता करने के लिए भी प्रेरित किया। : [PAWN_nameDef] एक कट्टरपंथी राजनीतिक गुट में शामिल था जिसने अपने गृह ग्रह की सरकार के खिलाफ काम किया।\n\nउसके सहयोगियों से [PAWN_nameDef] को मिली गुरिल्ला रणनीति प्रशिक्षण ने उसे लड़ने के कौशल दिए, लेकिन इसने उसे अपनी मान्यताओं से समझौता करने के लिए भी प्रेरित किया।}</PoliticalActivist20.description>
+  <PoliticalActivist20.description>{PAWN_gender ? [PAWN_nameDef] एक कट्टरपंथी राजनीतिक गुट से जुड़ी हुई थी जो उसके गृह-ग्रह की सरकार के खिलाफ काम करता था।\n\nअपने साथियों से [PAWN_nameDef] को मिले छापामार युद्ध कौशल के प्रशिक्षण ने उसे लड़ने के लिए आवश्यक कौशल तो दिए, लेकिन साथ ही उसे अपने स्वयं के विश्वासों से समझौता करने के लिए भी मजबूर कर दिया। : [PAWN_nameDef] एक कट्टरपंथी राजनीतिक गुट से जुड़ा हुआ था जो उसके गृह-ग्रह की सरकार के खिलाफ काम करता था।\n\nअपने साथियों से [PAWN_nameDef] को मिले छापामार युद्ध कौशल के प्रशिक्षण ने उसे लड़ने के लिए आवश्यक कौशल तो दिए, लेकिन साथ ही उसे अपने स्वयं के विश्वासों से समझौता करने के लिए भी मजबूर कर दिया।}</PoliticalActivist20.description>
   <!-- EN: political activist -->
   <PoliticalActivist20.title>राजनीतिक कार्यकर्ता</PoliticalActivist20.title>
   <PoliticalActivist20.titleFemale>राजनीतिक कार्यकर्ता</PoliticalActivist20.titleFemale>
@@ -1722,7 +1722,7 @@
   <PopIdolPirate39.titleShortFemale>समुद्री डाकू महिला</PopIdolPirate39.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was captured and put on death row for war crimes.\n\nFortunately for [PAWN_objective], someone cut the power to [PAWN_possessive] cell block. Riots ignited. Guards and trained wargs were deployed to quell the uprising. Organizing a few other inmates, [PAWN_nameDef] escaped in a small spacecraft. -->
-  <PrisonerOfWar2.description>{PAWN_gender ? [PAWN_nameDef] को युद्ध अपराधों के लिए बंदी बनाकर मृत्युदंड की प्रतीक्षा कक्ष में डाल दिया गया था।\n\nसौभाग्य से उसके लिए, किसी ने उसकी कोठरी ब्लॉक की बिजली काट दी। दंगे भड़क उठे। विद्रोह को दबाने के लिए गार्ड और प्रशिक्षित वर्गों को तैनात किया गया। कुछ अन्य कैदियों को संगठित करते हुए, [PAWN_nameDef] एक छोटे अंतरिक्ष यान में भाग निकली। : [PAWN_nameDef] को युद्ध अपराधों के लिए बंदी बनाकर मृत्युदंड की प्रतीक्षा कक्ष में डाल दिया गया था।\n\nसौभाग्य से उसके लिए, किसी ने उसकी कोठरी ब्लॉक की बिजली काट दी। दंगे भड़क उठे। विद्रोह को दबाने के लिए गार्ड और प्रशिक्षित वर्गों को तैनात किया गया। कुछ अन्य कैदियों को संगठित करते हुए, [PAWN_nameDef] एक छोटे अंतरिक्ष यान में भाग निकला।}</PrisonerOfWar2.description>
+  <PrisonerOfWar2.description>{PAWN_gender ? [PAWN_nameDef] को युद्ध अपराधों के लिए बंदी बनाकर मृत्युदंड की सजा सुनाई गई थी।\n\nउसके लिए सौभाग्य की बात यह थी कि किसी ने उसके सेल ब्लॉक की बिजली काट दी। दंगे भड़क उठे। विद्रोह को दबाने के लिए गार्ड्स और प्रशिक्षित वार्ग्स तैनात किए गए। कुछ अन्य कैदियों को संगठित करते हुए, [PAWN_nameDef] एक छोटे अंतरिक्ष यान में भाग निकली। : [PAWN_nameDef] को युद्ध अपराधों के लिए बंदी बनाया गया और मृत्युदंड की सजा सुनाई गई।\n\nउसके लिए सौभाग्य की बात यह थी कि किसी ने उसके सेल ब्लॉक की बिजली काट दी। दंगे भड़क उठे। विद्रोह को दबाने के लिए गार्ड्स और प्रशिक्षित वार्ग्स तैनात किए गए। कुछ अन्य कैदियों को संगठित करके, [PAWN_nameDef] एक छोटे अंतरिक्ष यान में भाग निकला।}</PrisonerOfWar2.description>
   <!-- EN: prisoner of war -->
   <PrisonerOfWar2.title>युद्ध कैदी</PrisonerOfWar2.title>
   <PrisonerOfWar2.titleFemale>युद्ध बंदी महिला</PrisonerOfWar2.titleFemale>
@@ -1738,10 +1738,10 @@
   <PrivateDetective66.titleShort>जासूस</PrivateDetective66.titleShort>
   
   <!-- EN: [PAWN_nameDef] used [PAWN_possessive] talent for prosthetics to 'advance' others by replacing limbs and organs with metal and electronics. -->
-  <ProstheticSurgeon0.description>[PAWN_nameDef] ने अपनी कृत्रिम अंग निर्माण की प्रतिभा का उपयोग दूसरों को &amp;apos;आगे&amp;apos; बढ़ाने के लिए किया, अंगों और अंगों को धातु और इलेक्ट्रॉनिक्स से बदल दिया।</ProstheticSurgeon0.description>
+  <ProstheticSurgeon0.description>{PAWN_gender ? [PAWN_nameDef] ने अंगों और अंगों को धातु और इलेक्ट्रॉनिक्स से बदलकर दूसरों को 'आगे बढ़ाने' के लिए कृत्रिम अंग बनाने की अपनी प्रतिभा का उपयोग किया। : [PAWN_nameDef] ने अंगों और अंगों को धातु और इलेक्ट्रॉनिक्स से बदलकर दूसरों को 'आगे बढ़ाने' के लिए कृत्रिम अंग बनाने की अपनी प्रतिभा का उपयोग किया।}</ProstheticSurgeon0.description>
   <!-- EN: prosthetic surgeon -->
-  <ProstheticSurgeon0.title>कृत्रिम अंग शल्यचिकित्सक</ProstheticSurgeon0.title>
-  <ProstheticSurgeon0.titleFemale>कृत्रिम शल्यचिकित्सक</ProstheticSurgeon0.titleFemale>
+  <ProstheticSurgeon0.title>कृत्रिम अंग सर्जन</ProstheticSurgeon0.title>
+  <ProstheticSurgeon0.titleFemale>कृत्रिम अंग सर्जन</ProstheticSurgeon0.titleFemale>
   <!-- EN: surgeon -->
   <ProstheticSurgeon0.titleShort>शल्य चिकित्सक</ProstheticSurgeon0.titleShort>
   <ProstheticSurgeon0.titleShortFemale>शल्यचिकित्सक</ProstheticSurgeon0.titleShortFemale>
@@ -1789,7 +1789,7 @@
   <ReligiousHierarch16.titleShort>पदानुक्रम</ReligiousHierarch16.titleShort>
   
   <!-- EN: After a daring escape from the prison planet with a small crew of fellow inmates, [PAWN_nameDef] set [PAWN_possessive] gaze on [PAWN_possessive] homeworld.\n\n[PAWN_pronoun] traveled there, recruited more followers, hijacked a space cruiser, and launched into the void. -->
-  <RenegadeEngineer43.description>{PAWN_gender ? एक छोटे से साथी कैदियों के दल के साथ जेल ग्रह से एक साहसी पलायन के बाद, [PAWN_nameDef] ने अपनी जन्मभूमि पर अपनी निगाहें टिका दीं।\n\nउसने वहां यात्रा की, अधिक अनुयायियों की भर्ती की, एक अंतरिक्ष क्रूज़र का अपहरण किया, और शून्य में लॉन्च हो गई। : एक छोटे से साथी कैदियों के दल के साथ जेल ग्रह से एक साहसी पलायन के बाद, [PAWN_nameDef] ने अपनी जन्मभूमि पर निगाहें गड़ाईं।\n\nवह वहां गया, अधिक अनुयायियों की भर्ती की, एक अंतरिक्ष क्रूज़र का अपहरण किया, और शून्य में लॉन्च हो गया।}</RenegadeEngineer43.description>
+  <RenegadeEngineer43.description>{PAWN_gender ? साथी कैदियों के एक छोटे दल के साथ जेल ग्रह से एक साहसी पलायन के बाद, [PAWN_nameDef] ने अपने गृहलोक पर अपनी दृष्टि केंद्रित की।\n\nवह वहां पहुंची, अधिक अनुयायियों को इकट्ठा किया, एक स्पेस क्रूजर को हाईजैक किया, और शून्य में निकल पड़ी। : साथी कैदियों के एक छोटे से दल के साथ जेल ग्रह से एक साहसी पलायन के बाद, [PAWN_nameDef] ने अपने गृहलोक पर अपनी दृष्टि केंद्रित की।\n\nवह वहां पहुंचा, और अधिक अनुयायियों को इकट्ठा किया, एक स्पेस क्रूजर को हाईजैक किया, और शून्य में निकल पड़ा।}</RenegadeEngineer43.description>
   <!-- EN: renegade engineer -->
   <RenegadeEngineer43.title>विद्रोही इंजीनियर</RenegadeEngineer43.title>
   <RenegadeEngineer43.titleFemale>विद्रोही अभियंताओं</RenegadeEngineer43.titleFemale>
@@ -1798,7 +1798,7 @@
   <RenegadeEngineer43.titleShortFemale>इंजीनियर महिला</RenegadeEngineer43.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s bottomless compassion and love of knowledge drove [PAWN_objective] to a life of teaching. [PAWN_pronoun] became one of the best-known names in academia throughout the urbworld bubble.\n\n[PAWN_possessive] holo-lectures were revered by all that watched, and the few students [PAWN_pronoun] accepted into [PAWN_possessive] seminars spoke widely of [PAWN_possessive] kindness and patience. -->
-  <RenownedProfessor51.description>{PAWN_gender ? [PAWN_nameDef] की अथाह करुणा और ज्ञान के प्रेम ने उसे शिक्षण के जीवन की ओर धकेला। वह अर्बनवर्ल्ड बबल में शिक्षा जगत में सबसे प्रसिद्ध नामों में से एक बन गई।\n\nउसके होलो-व्याख्यान सभी दर्शकों द्वारा पूजनीय थे, और कुछ छात्र जिन्हें उसने अपने सेमिनारों में स्वीकार किया, उसकी दयालुता और धैर्य के बारे में व्यापक रूप से बात करते थे। : [PAWN_nameDef] की अथाह करुणा और ज्ञान के प्रेम ने उसे शिक्षण के जीवन की ओर धकेला। वह अर्बनवर्ल्ड बबल में शिक्षा जगत में सबसे प्रसिद्ध नामों में से एक बन गया।\n\nउसके होलो-व्याख्यान सभी दर्शकों द्वारा पूजनीय थे, और कुछ छात्र जिन्हें उसने अपने सेमिनारों में स्वीकार किया, उसकी दया और धैर्य के बारे में व्यापक रूप से बात करते थे।}</RenownedProfessor51.description>
+  <RenownedProfessor51.description>{PAWN_gender ? [PAWN_nameDef] की असीम करुणा और ज्ञान के प्रति प्रेम ने उन्हें शिक्षण के जीवन की ओर प्रेरित किया। वह पूरे शहरी दुनिया के दायरे में अकादमिक जगत के सबसे प्रसिद्ध नामों में से एक बन गईं।\n\nउनके होलो-लेक्चर्स को देखने वाले सभी लोग उनका सम्मान करते थे, और जिन कुछ छात्रों को उन्होंने अपने सेमिनारों में स्वीकार किया था, वे उनकी दयालुता और धैर्य की चर्चा व्यापक रूप से करते थे। : [PAWN_nameDef] की असीम करुणा और ज्ञान के प्रति प्रेम ने उन्हें शिक्षण के जीवन की ओर प्रेरित किया। वे शहरी दुनिया के दायरे में अकादमिक जगत के सबसे प्रसिद्ध नामों में से एक बन गए।\n\nउनके होलो-लेक्चर्स को देखने वाले सभी लोग उनका सम्मान करते थे, और जिन कुछ छात्रों को उन्होंने अपने सेमिनारों में स्वीकार किया था, वे उनकी दयालुता और धैर्य की व्यापक रूप से चर्चा करते थे।}</RenownedProfessor51.description>
   <!-- EN: renowned professor -->
   <RenownedProfessor51.title>प्रसिद्ध प्रोफेसर</RenownedProfessor51.title>
   <RenownedProfessor51.titleFemale>प्रसिद्ध प्रोफेसर महिला</RenownedProfessor51.titleFemale>
@@ -1834,7 +1834,7 @@
   <Restorer70.titleShortFemale>पुनर्स्थापक</Restorer70.titleShortFemale>
   
   <!-- EN: After [PAWN_possessive] planet was technologically uplifted by a benevolent glitterworld charity, [PAWN_nameDef] saw an opportunity to make some money by defrauding the wealthy glitterworld visitors.\n\nAfter [PAWN_pronoun] was caught, [PAWN_pronoun] was exiled to the rim, where [PAWN_pronoun] targeted rich trading companies to continue [PAWN_possessive] life of crime. -->
-  <RimworldExile32.description>{PAWN_gender ? अपने ग्रह को एक परोपकारी चमकते दुनिया दान द्वारा तकनीकी रूप से उन्नत किए जाने के बाद, [PAWN_nameDef] ने धनी चमकते दुनिया के आगंतुकों को धोखा देकर पैसा कमाने का एक अवसर देखा।\n\nपकड़े जाने के बाद, उसे रिम पर निर्वासित कर दिया गया, जहाँ उसने अपने आपराधिक जीवन को जारी रखने के लिए अमीर व्यापारिक कंपनियों को निशाना बनाया। : अपनी गृह दुनिया को एक परोपकारी चमकती दुनिया दान द्वारा तकनीकी रूप से उन्नत किए जाने के बाद, [PAWN_nameDef] ने धनी चमकती दुनिया के आगंतुकों को धोखा देकर पैसा कमाने का एक अवसर देखा।\n\nपकड़े जाने के बाद, उसे रिम पर निर्वासित कर दिया गया, जहाँ उसने अपने आपराधिक जीवन को जारी रखने के लिए धनी व्यापारिक कंपनियों को निशाना बनाया।}</RimworldExile32.description>
+  <RimworldExile32.description>{PAWN_gender ? एक परोपकारी चमकदार दुनिया की संस्था द्वारा अपने ग्रह के तकनीकी उत्थान के बाद, [PAWN_nameDef] ने अमीर चमकदार दुनिया के आगंतुकों को ठगकर कुछ पैसे कमाने का अवसर देखा।\n\nपकड़े जाने के बाद, उसे रिम (rim) पर निर्वासित कर दिया गया, जहाँ उसने अपने अपराध का जीवन जारी रखने के लिए अमीर व्यापारिक कंपनियों को अपना निशाना बनाया। : एक परोपकारी चमकदार दुनिया की संस्था द्वारा अपने ग्रह के तकनीकी उत्थान के बाद, [PAWN_nameDef] ने अमीर चमकदार दुनिया के आगंतुकों को ठगकर कुछ पैसे कमाने का अवसर देखा।\n\nपकड़े जाने के बाद, उसे रिम (rim) पर निर्वासित कर दिया गया, जहाँ उसने अपने अपराधपूर्ण जीवन को जारी रखने के लिए अमीर व्यापारिक कंपनियों को अपना निशाना बनाया।}</RimworldExile32.description>
   <!-- EN: Rimworld exile -->
   <RimworldExile32.title>निर्वासित</RimworldExile32.title>
   <RimworldExile32.titleFemale>निर्वासित महिला</RimworldExile32.titleFemale>
@@ -1870,7 +1870,7 @@
   <RocketEngineer53.titleShortFemale>इंजीनियर महिला</RocketEngineer53.titleShortFemale>
   
   <!-- EN: As a self-taught engineer, [PAWN_nameDef] escaped [PAWN_possessive] dying homeworld on a rocket [PAWN_pronoun] built [PAWN_objective]self.\n\n[PAWN_pronoun] later spent years of [PAWN_possessive] life on several worlds, helping less-developed planets develop rocket technology. -->
-  <RocketPioneer19.description>{PAWN_gender ? स्व-शिक्षित इंजीनियर के रूप में, [PAWN_nameDef] ने अपने मरते हुए गृह ग्रह से एक रॉकेट पर उड़ान भरी जिसे उसने स्वयं बनाया था।\n\nबाद में उसने अपने जीवन के कई वर्ष कई ग्रहों पर बिताए, कम विकसित ग्रहों को रॉकेट तकनीक विकसित करने में मदद की। : एक स्व-शिक्षित इंजीनियर के रूप में, [PAWN_nameDef] ने अपने मरते हुए गृह ग्रह से एक रॉकेट पर उड़ान भरी जिसे उसने स्वयं बनाया था।\n\nबाद में उसने अपने जीवन के कई वर्ष कई ग्रहों पर बिताए, कम विकसित ग्रहों को रॉकेट तकनीक विकसित करने में मदद की।}</RocketPioneer19.description>
+  <RocketPioneer19.description>{PAWN_gender ? एक स्व-शिक्षित इंजीनियर के रूप में, [PAWN_nameDef] अपने स्वयं द्वारा निर्मित रॉकेट पर सवार होकर अपने मरते हुए गृहग्रह से बच निकली।\n\nबाद में उसने अपने जीवन के कई वर्ष विभिन्न दुनियाओं में बिताए, कम विकसित ग्रहों को रॉकेट तकनीक विकसित करने में मदद की। : एक स्व-शिक्षित इंजीनियर के रूप में, [PAWN_nameDef] अपने स्वयं द्वारा निर्मित रॉकेट पर अपने मरते हुए गृहग्रह से बचकर निकल गया।\n\nबाद में उसने अपने जीवन के कई वर्ष कई दुनियाओं में बिताए, कम विकसित ग्रहों को रॉकेट तकनीक विकसित करने में मदद की।}</RocketPioneer19.description>
   <!-- EN: rocket pioneer -->
   <RocketPioneer19.title>रॉकेट अग्रणी</RocketPioneer19.title>
   <RocketPioneer19.titleFemale>रॉकेट अग्रणी</RocketPioneer19.titleFemale>
@@ -1887,7 +1887,7 @@
   <RugbyPlayer71.titleShort>विंगर</RugbyPlayer71.titleShort>
   
   <!-- EN: Grown by and for science, [PAWN_nameDef] gave it up. Instead, [PAWN_pronoun] wanted to dance for crowds across many worlds, from the glamor of the glitterworlds to the dangers of the rim.\n\nSuch work required wearing a smile on [PAWN_possessive] face and a pistol under [PAWN_possessive] costume. -->
-  <RunawayDancer35.description>{PAWN_gender ? वैज्ञानिकों द्वारा पोषित और निर्मित, [PAWN_nameDef] ने यह सब त्याग दिया। इसके बजाय, वह कई दुनियाओं में दर्शकों के लिए नृत्य करना चाहती थी, चमकदार दुनियाएँ की भव्यता से लेकर सीमांत के खतरों तक।\n\nइस कार्य के लिए उसे अपने चेहरे पर मुस्कान और पोशाक के नीचे एक पिस्तौल पहननी आवश्यक थी। : विज्ञान द्वारा पोषित और निर्मित, [PAWN_nameDef] ने इसे त्याग दिया। इसके बजाय, वह कई दुनियाओं में दर्शकों के लिए नृत्य करना चाहता था, चमकदार दुनियाएँ की भव्यता से लेकर सीमा के खतरों तक।\n\nइस कार्य के लिए उसे अपने चेहरे पर मुस्कान और पोशाक के नीचे पिस्तौल पहननी आवश्यक थी।}</RunawayDancer35.description>
+  <RunawayDancer35.description>{PAWN_gender ? विज्ञान द्वारा और विज्ञान के लिए पली-बढ़ी, [PAWN_nameDef] ने इसे त्याग दिया। इसके बजाय, वह कई दुनियाओं में भीड़ के सामने नृत्य करना चाहती थी, चमकदार दुनियाएँ की चकाचौंध से लेकर रिम के खतरों तक।\n\nऐसे काम के लिए अपने चेहरे पर मुस्कान और अपनी पोशाक के नीचे एक पिस्तौल रखने की आवश्यकता थी। : विज्ञान द्वारा और विज्ञान के लिए विकसित, [PAWN_nameDef] ने इसे त्याग दिया। इसके बजाय, वह कई दुनियाओं में भीड़ के सामने नृत्य करना चाहता था, चमकदार दुनियाएँ की चकाचौंध से लेकर रिम के खतरों तक।\n\nऐसे काम के लिए अपने चेहरे पर मुस्कान और अपने पहनावे के नीचे एक पिस्तौल रखने की आवश्यकता थी।}</RunawayDancer35.description>
   <!-- EN: runaway dancer -->
   <RunawayDancer35.title>भागकर आया नर्तक</RunawayDancer35.title>
   <RunawayDancer35.titleFemale>भागकर आई नर्तकी</RunawayDancer35.titleFemale>
@@ -1962,7 +1962,7 @@
   <Sightseer70.titleShortFemale>पर्यटक महिला</Sightseer70.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] became a gifted pharmaceutical scientist, but was captured by slavers. [PAWN_pronoun] was sold to a warlord and forced to create drugs to test on other slaves. This left [PAWN_objective] with deep and troubling questions on the ethics of scientific research and medicine. -->
-  <SlaveChemist84.description>{PAWN_gender ? [PAWN_nameDef] एक प्रतिभाशाली फार्मास्युटिकल वैज्ञानिक बन गईं, लेकिन उसे दासों के व्यापारियों ने पकड़ लिया। उसे एक युद्ध सरदार को बेच दिया गया और अन्य दासों पर परीक्षण करने के लिए दवाएं बनाने के लिए मजबूर किया गया। इससे वह वैज्ञानिक अनुसंधान और चिकित्सा की नैतिकता पर गहरे और परेशान करने वाले सवालों से जूझ रही है। : [PAWN_nameDef] एक प्रतिभाशाली फार्मास्युटिकल वैज्ञानिक बन गए, लेकिन उन्हें दासों के व्यापारियों ने पकड़ लिया। उन्हें एक युद्ध सरदार को बेच दिया गया और अन्य दासों पर परीक्षण करने के लिए दवाएं बनाने के लिए मजबूर किया गया। इसने उन्हें वैज्ञानिक अनुसंधान और चिकित्सा की नैतिकता पर गहरे और परेशान करने वाले प्रश्न छोड़ दिए।}</SlaveChemist84.description>
+  <SlaveChemist84.description>{PAWN_gender ? [PAWN_nameDef] एक प्रतिभाशाली फार्मास्युटिकल वैज्ञानिक बनी, लेकिन गुलामों को पकड़ने वालों द्वारा बंदी बना लिया गया। उसे एक युद्ध के स्वामी (warlord) को बेच दिया गया और अन्य गुलामों पर परीक्षण करने के लिए दवाएं बनाने के लिए मजबूर किया गया। इसने उसके मन में वैज्ञानिक अनुसंधान और दवा की नैतिकता पर गहरे और परेशान करने वाले सवाल छोड़ दिए। : [PAWN_nameDef] एक प्रतिभाशाली फार्मास्युटिकल वैज्ञानिक बना, लेकिन गुलामों के व्यापारियों द्वारा पकड़ लिया गया। उसे एक युद्ध-लॉर्ड को बेच दिया गया और अन्य गुलामों पर परीक्षण करने के लिए ड्रग्स बनाने के लिए मजबूर किया गया। इसने उसे वैज्ञानिक अनुसंधान और दवा की नैतिकता पर गहरे और परेशान करने वाले सवालों के साथ छोड़ दिया।}</SlaveChemist84.description>
   <!-- EN: slave chemist -->
   <SlaveChemist84.title>गुलाम रसायनज्ञ</SlaveChemist84.title>
   <SlaveChemist84.titleFemale>गुलामी रसायनज्ञ</SlaveChemist84.titleFemale>
@@ -1989,7 +1989,7 @@
   <SoftwareDeveloper84.titleShortFemale>डेवलपर</SoftwareDeveloper84.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] lived in a remote colony. When mechanoid centipedes attacked [PAWN_possessive] home and killed [PAWN_possessive] people, [PAWN_pronoun] was the last survivor. -->
-  <SoleSurvivor85.description>{PAWN_gender ? [PAWN_nameDef] एक दूरस्थ उपनिवेश में रहती थी। जब मैकेनोइड सेंटीपीड्स ने उसके घर पर हमला किया और उसके लोगों को मार डाला, तो वह एकमात्र जीवित बची। : [PAWN_nameDef] एक दूरस्थ उपनिवेश में रहता था। जब मैकेनोइड सेंटीपीड्स ने उसके घर पर हमला किया और उसके लोगों को मार डाला, तो वह अकेला जीवित बचा था।}</SoleSurvivor85.description>
+  <SoleSurvivor85.description>{PAWN_gender ? [PAWN_nameDef] एक दूरस्थ कॉलोनी में रहती थी। जब मेकैनॉइड सेंटिपीड्स ने उसके घर पर हमला किया और उसके लोगों को मार डाला, तो वह आखिरी जीवित बची थी। : [PAWN_nameDef] एक दूरस्थ कॉलोनी में रहता था। जब मेकैनॉइड सेंटिपीड्स ने उसके घर पर हमला किया और उसके लोगों को मार डाला, तो वह अंतिम जीवित बचे व्यक्ति के रूप में बचा था।}</SoleSurvivor85.description>
   <!-- EN: sole survivor -->
   <SoleSurvivor85.title>अकेला बचा हुआ</SoleSurvivor85.title>
   <SoleSurvivor85.titleFemale>अकेली उत्तरजीवी</SoleSurvivor85.titleFemale>
@@ -2085,7 +2085,7 @@
   <SpaceMerchant97.titleShortFemale>व्यापारी महिला</SpaceMerchant97.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] served several tours as a doctor on one of the few warships defending [PAWN_possessive] homeworld. [PAWN_pronoun] learned combat skills while fighting occasional pirate boarding parties, and became an expert at treating gruesome combat wounds. -->
-  <SpaceNavyDoctor72.description>{PAWN_gender ? [PAWN_nameDef] ने अपने गृह ग्रह की रक्षा करने वाले कुछ युद्धपोतों में से एक पर कई दौर चिकित्सा सेवा दी। उसने कभी-कभार होने वाले समुद्री डाकू दलों से लड़ते हुए युद्ध कौशल सीखे, और भयानक युद्ध घावों का इलाज करने में विशेषज्ञता हासिल की। : [PAWN_nameDef] ने अपने गृह ग्रह की रक्षा करने वाले कुछ युद्धपोतों में से एक पर कई दौर चिकित्सा सेवा प्रदान की। उसने कभी-कभार होने वाले समुद्री डाकू दलों से लड़ते हुए युद्ध कौशल सीखे, और भयानक युद्ध घावों का इलाज करने में विशेषज्ञता हासिल की।}</SpaceNavyDoctor72.description>
+  <SpaceNavyDoctor72.description>{PAWN_gender ? [PAWN_nameDef] ने अपने गृह ग्रह की रक्षा करने वाले कुछ ही युद्धपोतों में से एक पर डॉक्टर के रूप में कई सेवाएँ दीं। उसने बीच-बीच में होने वाले समुद्री डाकुओं के हमलों का सामना करते हुए युद्ध कौशल सीखा, और भयानक युद्ध घावों का उपचार करने में विशेषज्ञ बन गई। : [PAWN_nameDef] ने अपने गृह ग्रह की रक्षा करने वाले कुछ ही युद्धपोतों में से एक पर डॉक्टर के रूप में कई सेवाएँ दीं। उसने बीच-बीच में होने वाले समुद्री डाकुओं के हमलों का सामना करते हुए युद्ध कौशल सीखा, और भयानक युद्ध घावों का उपचार करने में विशेषज्ञ बन गया।}</SpaceNavyDoctor72.description>
   <!-- EN: space navy doctor -->
   <SpaceNavyDoctor72.title>अंतरिक्ष नौसेना चिकित्सक</SpaceNavyDoctor72.title>
   <!-- EN: doctor -->
@@ -2214,7 +2214,7 @@
   <StarfighterPilot79.titleShort>पायलट</StarfighterPilot79.titleShort>
   
   <!-- EN: Abducted from [PAWN_possessive] medieval homeworld, [PAWN_nameDef] later escaped [PAWN_possessive] captors via an impressive display of swordsmanship.\n\nFor a moment, as [PAWN_pronoun] drifted in the escape pod, [PAWN_possessive] childhood dream of becoming a knight among the stars felt so real. Then [PAWN_pronoun] crash-landed. -->
-  <StarKnight5.description>{PAWN_gender ? मध्ययुगीन गृह-दुनिया से अगवा की गई, [PAWN_nameDef] बाद में अपनी तलवारबाजी कौशल के प्रभावशाली प्रदर्शन के माध्यम से अपने अपहर्ताओं से बच निकली।\n\nएक क्षण के लिए, जैसे ही वह एस्केप पॉड में तैर रही थी, तारों के बीच एक शूरवीर बनने का उसका बचपन का सपना इतना वास्तविक लग रहा था। फिर वह दुर्घटनाग्रस्त हो गई। : मध्ययुगीन गृह ग्रह से अगवा किए गए, [PAWN_nameDef] बाद में अपनी तलवारबाजी के प्रभावशाली प्रदर्शन के माध्यम से अपने अपहर्ताओं से बच निकले।\n\nएक क्षण के लिए, जब वह एस्केप पॉड में तैर रहा था, तारों के बीच एक शूरवीर बनने का उसका बचपन का सपना इतना वास्तविक लग रहा था। फिर वह दुर्घटनाग्रस्त हो गया।}</StarKnight5.description>
+  <StarKnight5.description>{PAWN_gender ? अपने मध्ययुग के गृहग्रह से अपहरण कर ली गई, [PAWN_nameDef] ने बाद में तलवारबाजी के एक प्रभावशाली प्रदर्शन के माध्यम से अपने अपहरणकर्ताओं से खुद को छुड़ा लिया।\n\nएक पल के लिए, जब वह एस्केप पॉड में तैर रही थी, सितारों के बीच एक शूरवीर बनने का उसका बचपन का सपना बहुत वास्तविक लग रहा था। फिर वह दुर्घटनाग्रस्त होकर ज़मीन पर गिर पड़ी। : अपने मध्ययुग के गृहग्रह से अपहरण किए जाने के बाद, [PAWN_nameDef] ने बाद में तलवारबाजी के एक प्रभावशाली प्रदर्शन के माध्यम से अपने अपहरणकर्ताओं से खुद को छुड़ा लिया।\n\nएक पल के लिए, जब वह एस्केप पॉड में तैर रहा था, सितारों के बीच एक शूरवीर बनने का उसका बचपन का सपना बहुत वास्तविक लग रहा था। फिर वह दुर्घटनाग्रस्त होकर ज़मीन पर गिर गया।}</StarKnight5.description>
   <!-- EN: star knight -->
   <StarKnight5.title>तारा शूरवीर</StarKnight5.title>
   <!-- EN: knight -->
@@ -2273,7 +2273,7 @@
   <Storyteller63.titleShortFemale>कथाकार महिला</Storyteller63.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] worked as a videogame streamer, and was known for [PAWN_possessive] monkey-related impressions and jokes.\n\nA pandemic forced [PAWN_objective] to go into cryptosleep for several years. During [PAWN_possessive] sleep, [PAWN_pronoun] was launched on an interstellar diplomatic mission. Nothing was heard of [PAWN_objective] ever again. -->
-  <Streamer52.description>{PAWN_gender ? [PAWN_nameDef] एक वीडियो गेम स्ट्रीमर के रूप में काम करती थी, और वह बंदर से संबंधित इंप्रेशन और चुटकुलों के लिए जानी जाती थी।\n\nएक महामारी ने उसे कई वर्षों के लिए क्रिप्टोस्लीप में जाने के लिए मजबूर किया। उसकी नींद के दौरान, उसे एक अंतरतारकीय राजनयिक मिशन पर लॉन्च किया गया। उसके बारे में फिर कभी कुछ नहीं सुना गया। : [PAWN_nameDef] एक वीडियो गेम स्ट्रीमर के रूप में काम करता था, और वह बंदर से संबंधित इंप्रेशन और चुटकुलों के लिए जाना जाता था।\n\nएक महामारी ने उसे कई वर्षों के लिए क्रिप्टोस्लीप में जाने के लिए मजबूर किया। अपनी नींद के दौरान, उसे एक अंतरतारकीय राजनयिक मिशन पर लॉन्च किया गया। उसके बारे में फिर कभी कुछ नहीं सुना गया।}</Streamer52.description>
+  <Streamer52.description>{PAWN_gender ? [PAWN_nameDef] एक वीडियो गेम स्ट्रीमर के रूप में काम करती थी, और वह बंदरों से संबंधित अपनी नकल और चुटकुलों के लिए जानी जाती थी।\n\nएक महामारी ने उसे कई वर्षों के लिए क्रिप्टोस्लीप (cryptosleep) में जाने के लिए मजबूर कर दिया। अपनी नींद के दौरान, उसे एक अंतरतारकीय राजनयिक मिशन पर भेजा गया था। उसके बारे में फिर कभी कुछ नहीं सुना गया। : [PAWN_nameDef] एक वीडियो गेम स्ट्रीमर के रूप में काम करता था, और वह बंदरों से संबंधित अपनी नकल और चुटकुलों के लिए जाना जाता था।\n\nएक महामारी ने उसे कई वर्षों के लिए क्रिप्टोस्लीप (cryptosleep) में जाने के लिए मजबूर कर दिया। अपनी नींद के दौरान, उसे एक अंतरतारकीय राजनयिक मिशन पर भेजा गया था। उसके बारे में फिर कभी कुछ नहीं सुना गया।}</Streamer52.description>
   <!-- EN: Streamer -->
   <Streamer52.title>स्ट्रीमर</Streamer52.title>
   <Streamer52.titleFemale>स्ट्रीमर</Streamer52.titleFemale>
@@ -2307,7 +2307,7 @@
   <SystemsEngineer1.titleShortFemale>इंजीनियर महिला</SystemsEngineer1.titleShortFemale>
   
   <!-- EN: As an IT technician, [PAWN_nameDef] didn't have much time to write code any more. [PAWN_pronoun] got called to work all the time to fix failures in the cryptosleep chamber and AI persuasion systems. -->
-  <Technician9.description>{PAWN_gender ? तकनीशियन के रूप में, [PAWN_nameDef] के पास अब कोड लिखने का ज़्यादा समय नहीं था। उसे हमेशा क्रिप्टोस्लीप कक्ष और एआई प्रेरक प्रणालियों में विफलताओं को ठीक करने के लिए काम पर बुलाया जाता था। : एक आईटी तकनीशियन के रूप में, [PAWN_nameDef] के पास अब कोड लिखने का ज़्यादा समय नहीं था। उसे हमेशा क्रिप्टोस्लीप चैंबर और एआई पर्सुएशन सिस्टम में होने वाली विफलताओं को ठीक करने के लिए काम पर बुलाया जाता था।}</Technician9.description>
+  <Technician9.description>{PAWN_gender ? एक आईटी तकनीशियन के रूप में, [PAWN_nameDef] के पास अब कोड लिखने के लिए ज्यादा समय नहीं बचा था। उसे क्रिप्टोस्लीप चैंबर और एआई परसुएशन सिस्टम की विफलताओं को ठीक करने के लिए हर समय काम पर बुलाया जाता था। : एक आईटी तकनीशियन के रूप में, [PAWN_nameDef] के पास अब कोड लिखने के लिए ज्यादा समय नहीं बचा था। उसे क्रिप्टोस्लीप चैंबर और एआई पर्सुएशन सिस्टम की विफलताओं को ठीक करने के लिए हर समय काम पर बुलाया जाता था।}</Technician9.description>
   <!-- EN: technician -->
   <Technician9.title>तकनीशियन</Technician9.title>
   <Technician9.titleFemale>तकनीशियन</Technician9.titleFemale>
@@ -2316,7 +2316,7 @@
   <Technician9.titleShortFemale>तकनीकी विशेषज्ञ महिला</Technician9.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a farmer on [PAWN_possessive] midworld, and spent [PAWN_possessive] free time practicing with guns. [PAWN_pronoun] knew how important the skills of farming and shooting would be in hard times, and trained to serve in a local militia. -->
-  <TechnologyDoctor35.description>{PAWN_gender ? [PAWN_nameDef] अपने मध्य-विश्व पर एक किसान थीं, और अपना खाली समय बंदूकों का अभ्यास करने में बिताती थीं। वह जानती थीं कि कठिन समय में खेती और शूटिंग के कौशल कितने महत्वपूर्ण होंगे, और स्थानीय मिलिशिया में सेवा करने के लिए प्रशिक्षित हुईं। : [PAWN_nameDef] अपने मध्य-विश्व पर एक किसान था, और अपना खाली समय बंदूकों का अभ्यास करने में बिताता था। वह जानता था कि कठिन समय में खेती और शूटिंग के कौशल कितने महत्वपूर्ण होंगे, और स्थानीय मिलिशिया में सेवा करने के लिए प्रशिक्षित किया।}</TechnologyDoctor35.description>
+  <TechnologyDoctor35.description>{PAWN_gender ? [PAWN_nameDef] अपनी मध्य दुनिया में एक किसान थी, और अपना खाली समय बंदूकों के साथ अभ्यास करने में बिताती थी। वह जानती थी कि कठिन समय में खेती और शूटिंग के कौशल कितने महत्वपूर्ण होंगे, और उसने एक स्थानीय मिलिशिया में सेवा करने के लिए प्रशिक्षण लिया था। : [PAWN_nameDef] अपनी मध्य दुनिया में एक किसान था, और उसने अपना खाली समय बंदूकों के साथ अभ्यास करने में बिताया। वह जानता था कि कठिन समय में खेती और शूटिंग के कौशल कितने महत्वपूर्ण होंगे, और उसने एक स्थानीय मिलिशिया में सेवा करने के लिए प्रशिक्षण लिया।}</TechnologyDoctor35.description>
   <!-- EN: soldier-farmer -->
   <TechnologyDoctor35.title>सैनिक-किसान</TechnologyDoctor35.title>
   <TechnologyDoctor35.titleFemale>सैनिक-किसान</TechnologyDoctor35.titleFemale>
@@ -2412,7 +2412,7 @@
   <Undertaker93.titleShort>अंतिम संस्कार करने वाला</Undertaker93.titleShort>
   
   <!-- EN: [PAWN_nameDef] became a doctor to save lives and research medicine. [PAWN_pronoun] soon realized the only way to make progress on [PAWN_possessive] research was to perform experiments on human patients.\n\n[PAWN_pronoun] often used patients for [PAWN_possessive] experiments - whether they were willing or not. -->
-  <UnethicalDoctor29.description>{PAWN_gender ? [PAWN_nameDef] एक डॉक्टर बनीं ताकि वह जान बचा सकें और चिकित्सा पर शोध कर सकें। जल्द ही उसे एहसास हुआ कि उसके शोध में प्रगति करने का एकमात्र तरीका मानव रोगियों पर प्रयोग करना था।\n\nवह अक्सर अपने प्रयोगों के लिए रोगियों का उपयोग करती थीं—चाहे वे इच्छुक हों या नहीं। : [PAWN_nameDef] एक डॉक्टर बना ताकि वह जान बचा सके और चिकित्सा पर शोध कर सके। उसे जल्द ही एहसास हुआ कि उसकी शोध में प्रगति करने का एकमात्र तरीका मानव रोगियों पर प्रयोग करना था।\n\nवह अक्सर अपने प्रयोगों के लिए रोगियों का उपयोग करता था - चाहे वे इच्छुक हों या नहीं।}</UnethicalDoctor29.description>
+  <UnethicalDoctor29.description>{PAWN_gender ? [PAWN_nameDef] जीवन बचाने और दवा पर शोध करने के लिए एक डॉक्टर बनी। उसे जल्द ही एहसास हो गया कि उसके शोध में प्रगति करने का एकमात्र तरीका मानव रोगियों पर प्रयोग करना था।\n\nवह अक्सर अपने प्रयोगों के लिए रोगियों का उपयोग करती थी - चाहे वे इसके लिए तैयार हों या नहीं। : [PAWN_nameDef] लोगों की जान बचाने और दवा पर शोध करने के लिए एक डॉक्टर बना। उसने जल्द ही महसूस कर लिया कि उसके शोध में प्रगति करने का एकमात्र तरीका मानव रोगियों पर प्रयोग करना था।\n\nवह अक्सर अपने प्रयोगों के लिए रोगियों का उपयोग करता था - चाहे वे इसके लिए तैयार हों या नहीं।}</UnethicalDoctor29.description>
   <!-- EN: unethical doctor -->
   <UnethicalDoctor29.title>अनैतिक चिकित्सक</UnethicalDoctor29.title>
   <UnethicalDoctor29.titleFemale>अनैतिक चिकित्सक</UnethicalDoctor29.titleFemale>
@@ -2439,10 +2439,10 @@
   <UprightDiplomat49.titleShortFemale>राजनयिक महिला</UprightDiplomat49.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was an enforcer of law on an ancient urbworld.\n\n[PAWN_pronoun] dealt with the worst of humanity, from protecting greedy urbworld nobility in their spire palaces to rooting out cannibal cults in the deepest reaches of the underground hive. -->
-  <UrbworldEnforcer11.description>{PAWN_gender ? [PAWN_nameDef] एक प्राचीन शहरी दुनिया पर कानून प्रवर्तनकर्ता थीं।\n\nउन्होंने मानवता के सबसे बुरे पहलुओं से निपटा, लालची शहरी दुनिया की कुलीनता को उनके शिखर महलों में सुरक्षा प्रदान करने से लेकर भूमिगत छत्ते की सबसे गहरी गहराई में नरभक्षी पंथों को जड़ से उखाड़ने तक। : [PAWN_nameDef] एक प्राचीन शहरी दुनिया पर कानून का प्रवर्तक था।\n\nउसने मानवता के सबसे बुरे पहलुओं से निपटा, लालची शहरी दुनिया के कुलीन वर्ग को उनके शिखर महलों में सुरक्षा प्रदान करने से लेकर भूमिगत छत्ते की सबसे गहरी गहराई में नरभक्षी पंथों को जड़ से उखाड़ने तक।}</UrbworldEnforcer11.description>
+  <UrbworldEnforcer11.description>{PAWN_gender ? [PAWN_nameDef] एक प्राचीन शहरी दुनिया में कानून की प्रवर्तक थी।\n\nउसने मानवता के सबसे बुरे रूपों का सामना किया, अपने शिखर महलों में लालची शहरी दुनिया के कुलीन वर्ग की रक्षा करने से लेकर भूमिगत गुंज (hive) के सबसे गहरे हिस्सों में नरभक्षी पंथों को जड़ से मिटाने तक। : [PAWN_nameDef] एक प्राचीन शहरी दुनिया में कानून का प्रवर्तक था।\n\nउसने मानवता के सबसे बुरे रूपों का सामना किया, जिसमें अपने शिखर महलों में लालची शहरी दुनिया के कुलीन वर्ग की रक्षा करने से लेकर भूमिगत गुंज (hive) के सबसे गहरे हिस्सों में नरभक्षी पंथों को जड़ से मिटाने तक शामिल था।}</UrbworldEnforcer11.description>
   <!-- EN: urbworld enforcer -->
-  <UrbworldEnforcer11.title>शहरी प्रवर्तनकर्ता</UrbworldEnforcer11.title>
-  <UrbworldEnforcer11.titleFemale>शहरी प्रवर्तनकर्ता</UrbworldEnforcer11.titleFemale>
+  <UrbworldEnforcer11.title>शहरी दुनिया प्रवर्तक</UrbworldEnforcer11.title>
+  <UrbworldEnforcer11.titleFemale>शहरी दुनिया प्रवर्तक</UrbworldEnforcer11.titleFemale>
   <!-- EN: enforcer -->
   <UrbworldEnforcer11.titleShort>प्रवर्तक</UrbworldEnforcer11.titleShort>
   <UrbworldEnforcer11.titleShortFemale>प्रवर्तिका</UrbworldEnforcer11.titleShortFemale>
@@ -2450,14 +2450,14 @@
   <!-- EN: At first, [PAWN_nameDef] made a small profit from selling drugs. Then, [PAWN_pronoun] switched to selling women and made a fortune.\n\n[PAWN_pronoun] developed great skills with [PAWN_possessive] fists. [PAWN_pronoun] also learned to fix up the injuries [PAWN_pronoun] inflicted on the girls. -->
   <UrbworldPimp93.description>{PAWN_gender ? शुरुआत में, [PAWN_nameDef] ने ड्रग्स बेचकर थोड़ा लाभ कमाया। फिर, उसने महिलाओं को बेचना शुरू कर दिया और बहुत पैसा कमाया।\n\nउसने अपनी मुट्ठियों से महान कौशल विकसित किया। उसने उन लड़कियों पर जो चोटें पहुंचाईं, उन्हें ठीक करना भी सीखा। : पहले, [PAWN_nameDef] ने ड्रग्स बेचकर थोड़ा लाभ कमाया। फिर, उसने महिलाओं को बेचना शुरू कर दिया और बहुत पैसा कमाया।\n\nउसने अपनी मुट्ठियों से महान कौशल विकसित किया। उसने उन लड़कियों पर जो चोटें पहुंचाईं, उन्हें ठीक करना भी सीखा।}</UrbworldPimp93.description>
   <!-- EN: urbworld pimp -->
-  <UrbworldPimp93.title>{PAWN_gender ? शहरी वेश्यापचारिणी : शहरी वेश्या व्यवसायी}</UrbworldPimp93.title>
+  <UrbworldPimp93.title>शहरी दुनिया वेश्यावृत्ति संचालक</UrbworldPimp93.title>
   <!-- EN: pimp -->
   <UrbworldPimp93.titleShort>{PAWN_gender ? वेश्यावृत्ति संचालिका : दलाल}</UrbworldPimp93.titleShort>
   
   <!-- EN: It's no secret that the Companies own much of the urbworlds, but someone has to take the bribes. [PAWN_nameDef] was one such figurehead.\n\n[PAWN_pronoun] learned how to manipulate the hopes and dreams of the people while living comfortably in a penthouse. -->
-  <UrbworldPolitican92.description>{PAWN_gender ? वह कोई रहस्य नहीं है कि कंपनियाँ शहरी दुनियाएँ का बहुत कुछ स्वामित्व रखती हैं, लेकिन रिश्वत लेने के लिए किसी को तो होना ही था। [PAWN_nameDef] ऐसी ही एक प्रतिष्ठित व्यक्ति थीं।\n\nउन्होंने एक पेंटहाउस में आराम से रहते हुए लोगों की आशाओं और सपनों को कुशलता से नियंत्रित करना सीखा। : यह कोई रहस्य नहीं है कि कंपनियाँ शहरी दुनियाएँ का बहुत कुछ स्वामित्व रखती हैं, लेकिन रिश्वत लेने के लिए किसी को तो होना ही है। [PAWN_nameDef] ऐसा ही एक प्रमुख व्यक्ति था।\n\nउसने एक आरामदायक पेंटहाउस में रहते हुए लोगों की आशाओं और सपनों को कुशलता से नियंत्रित करना सीखा।}</UrbworldPolitican92.description>
+  <UrbworldPolitican92.description>{PAWN_gender ? यह कोई रहस्य नहीं है कि कंपनियों का शहरी दुनियाएँ के एक बड़े हिस्से पर अधिकार है, लेकिन रिश्वत लेने के लिए किसी न किसी को तो आगे आना ही पड़ता है। [PAWN_nameDef] ऐसी ही एक मुखौटा हस्ती थी।\n\nउसने एक पेंटहाउस में सुख-सुविधा से रहते हुए लोगों की आशाओं और सपनों में हेरफेर करना सीख लिया था। : यह कोई रहस्य नहीं है कि कंपनियों का शहरी दुनियाएँ के एक बड़े हिस्से पर अधिकार है, लेकिन रिश्वत लेने के लिए किसी न किसी को तो आगे आना ही पड़ता है। [PAWN_nameDef] ऐसा ही एक मुखौटा मात्र था।\n\nउसने एक पेंटहाउस में आराम की ज़िंदगी जीते हुए लोगों की आशाओं और सपनों में हेरफेर करना सीख लिया था।}</UrbworldPolitican92.description>
   <!-- EN: urbworld politican -->
-  <UrbworldPolitican92.title>शहरी दुनिया राजनेता</UrbworldPolitican92.title>
+  <UrbworldPolitican92.title>शहरी दुनिया का राजनीतिज्ञ</UrbworldPolitican92.title>
   <!-- EN: politician -->
   <UrbworldPolitican92.titleShort>राजनीतिज्ञ</UrbworldPolitican92.titleShort>
   
@@ -2471,8 +2471,8 @@
   <!-- EN: [PAWN_nameDef] was sold into sexual slavery. Having been designed to be inhumanly attractive and too weak to rebel against [PAWN_possessive] masters, [PAWN_pronoun] was passed between dozens of owners and knew nothing of freedom. -->
   <UrbworldSexSlave25.description>{PAWN_gender ? [PAWN_nameDef] को यौन दासता में बेच दिया गया था। अमानवीय रूप से आकर्षक और अपने स्वामियों के खिलाफ विद्रोह करने के लिए बहुत कमजोर होने के लिए डिज़ाइन की गई, वह दर्जनों मालिकों के बीच घूमती रही और उसे कभी आज़ादी का ज्ञान नहीं हुआ। : [PAWN_nameDef] को यौन दासता में बेच दिया गया था। अमानवीय रूप से आकर्षक और अपने स्वामियों के खिलाफ विद्रोह करने के लिए बहुत कमजोर होने के लिए डिज़ाइन किए गए, उसे दर्जनों मालिकों के बीच पारित किया गया और उसे स्वतंत्रता का कोई ज्ञान नहीं था।}</UrbworldSexSlave25.description>
   <!-- EN: urbworld sex slave -->
-  <UrbworldSexSlave25.title>शहरी दास</UrbworldSexSlave25.title>
-  <UrbworldSexSlave25.titleFemale>शहरी दासी</UrbworldSexSlave25.titleFemale>
+  <UrbworldSexSlave25.title>शहरी दुनिया का कामुक दास</UrbworldSexSlave25.title>
+  <UrbworldSexSlave25.titleFemale>शहरी दुनिया की कामिनी दासी</UrbworldSexSlave25.titleFemale>
   <!-- EN: sex slave -->
   <UrbworldSexSlave25.titleShort>दास, यौन शोषण का शिकार</UrbworldSexSlave25.titleShort>
   <UrbworldSexSlave25.titleShortFemale>दासí (दासी)</UrbworldSexSlave25.titleShortFemale>
@@ -2562,7 +2562,7 @@
   <WanderingCrafter42.titleShortFemale>शिल्पकार महिला</WanderingCrafter42.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] studied to be a doctor, but was dissatisfied with [PAWN_possessive] practice on an otherwise peaceful midworld.\n\nInstead, [PAWN_pronoun] chose to pull up roots and travel to the rimworlds in order to care for people who needed [PAWN_objective] most. -->
-  <WanderingHealer52.description>{PAWN_gender ? [PAWN_nameDef] ने डॉक्टर बनने का अध्ययन किया, लेकिन एक अन्यथा शांतिपूर्ण मध्य-विश्व में अपनी प्रैक्टिस से असंतुष्ट थीं।\n\nइसके बजाय, उन्होंने जड़ें उखाड़कर रिमवर्ल्ड्स की यात्रा करने और उन लोगों की देखभाल करने का फैसला किया जिन्हें उनकी सबसे अधिक आवश्यकता थी। : [PAWN_nameDef] ने डॉक्टर बनने का अध्ययन किया, लेकिन एक अन्यथा शांतिपूर्ण मध्य-विश्व में अपनी प्रैक्टिस से असंतुष्ट थे।\n\nइसके बजाय, उन्होंने जड़ें उखाड़कर रिमवर्ल्ड्स की यात्रा करने और उन लोगों की देखभाल करने का फैसला किया जिन्हें उनकी सबसे अधिक आवश्यकता थी।}</WanderingHealer52.description>
+  <WanderingHealer52.description>{PAWN_gender ? [PAWN_nameDef] ने एक डॉक्टर बनने के लिए पढ़ाई की थी, लेकिन वह एक अन्यथा शांतिपूर्ण मध्य दुनिया में अपने अभ्यास से असंतुष्ट थी।\n\nइसके बजाय, उसने अपनी जड़ें उखाड़ने और उन लोगों की देखभाल करने के लिए रिमवर्ल्ड्स की यात्रा करने का विकल्प चुना जिन्हें उसकी सबसे अधिक आवश्यकता थी। : [PAWN_nameDef] ने डॉक्टर बनने के लिए पढ़ाई की थी, लेकिन वह एक अन्यथा शांतिपूर्ण मध्य दुनिया में अपने अभ्यास से असंतुष्ट था।\n\nइसके बजाय, उसने अपनी जड़ें उखाड़ने और उन लोगों की देखभाल करने के लिए रिमवर्ल्ड्स की यात्रा करने का विकल्प चुना जिन्हें उसकी सबसे अधिक आवश्यकता थी।}</WanderingHealer52.description>
   <!-- EN: wandering healer -->
   <WanderingHealer52.title>घूमता हुआ वैद्य</WanderingHealer52.title>
   <WanderingHealer52.titleFemale>भटकती वैद्य</WanderingHealer52.titleFemale>

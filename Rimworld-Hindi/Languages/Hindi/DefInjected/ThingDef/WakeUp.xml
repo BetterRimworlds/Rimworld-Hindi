@@ -4,7 +4,7 @@
   <!-- EN: wake-up -->
   <WakeUp.label>वेक-अप</WakeUp.label>
   <!-- EN: A synthetic stimulant. Wake-up fills the user's need for rest, allowing them to work for extended periods without getting tired. Psycasters on wake-up gain more psyfocus from meditation than they otherwise would. However, taking wake-up runs the risk of developing an addiction.\n\nIn the most competitive universities and companies of many worlds, high-achievers are sometimes called 'wake-ups' because of the association with this drug. -->
-  <WakeUp.description>एक सिंथेटिक उत्तेजक। वेक-अप उपयोगकर्ता की आराम की आवश्यकता को पूरा करता है, जिससे वे थकान महसूस किए बिना विस्तारित अवधि तक काम कर सकते हैं। वेक-अप पर साइकास्टर ध्यान से सामान्य से अधिक साइफ़ोकस प्राप्त करते हैं। हालाँकि, वेक-अप लेने से लत लगने का खतरा होता है।\n\nकई दुनिया के सबसे प्रतिस्पर्धी विश्वविद्यालयों और कंपनियों में, उच्च उपलब्धि हासिल करने वालों को कभी-कभी इस दवा के साथ जुड़ाव के कारण 'वेक-अप' कहा जाता है।</WakeUp.description>
+  <WakeUp.description>एक कृत्रिम उत्तेजक। वेक-अप उपयोगकर्ता की आराम की आवश्यकता को पूरा करता है, जिससे उन्हें बिना थके लंबे समय तक काम करने की अनुमति मिलती है। वेक-अप पर मौजूद साइकास्टर्स को ध्यान से अन्य की तुलना में अधिक साइफोकलस प्राप्त होता है। हालाँकि, वेक-अप लेने से लत लगने का जोखिम बना रहता है।\n\nकई दुनियाओं के सबसे प्रतिस्पर्धी विश्वविद्यालयों और कंपनियों में, उच्च उपलब्धि हासिल करने वालों को कभी-कभी इस दवा के साथ जुड़ाव के कारण 'वेक-अप्स' कहा जाता है।</WakeUp.description>
   <!-- EN: Take {0} -->
   <WakeUp.ingestible.ingestCommandString>{0} लें</WakeUp.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->

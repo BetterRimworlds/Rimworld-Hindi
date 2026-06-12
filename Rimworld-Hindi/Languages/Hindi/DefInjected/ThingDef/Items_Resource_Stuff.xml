@@ -10,8 +10,8 @@
   <!-- EN: devilstrand -->
   <DevilstrandCloth.label>डेविलस्ट्रैंड</DevilstrandCloth.label>
   <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
-  <DevilstrandCloth.description>डेविलस्ट्रैंड मशरूम से निकाले गए माइक्रोफाइबर से बना कपड़ा। यह बहुत मजबूत है, अच्छा इन्सुलेशन प्रदान करता है, और आग से असाधारण रूप से अच्छी सुरक्षा करता है।</DevilstrandCloth.description><!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
-  <DevilstrandCloth.stuffProps.stuffAdjective>सूक्ष्म रेशों से बना कपड़ा जो डेविलस्ट्रैंड मशरूम से निकाला गया है। यह बहुत मजबूत है, अच्छा इन्सुलेशन प्रदान करता है, और आग से असाधारण रूप से सुरक्षा करता है।</DevilstrandCloth.stuffProps.stuffAdjective>
+  <DevilstrandCloth.description>डेविलस्ट्रैंड मशरूम से निकाले गए माइक्रोफाइबर्स से बुना गया कपड़ा। यह बहुत मजबूत, इन्सुलेट करने में अच्छा और आग के विरुद्ध असाधारण रूप से सुरक्षा प्रदान करने वाला है।</DevilstrandCloth.description><!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
+  <DevilstrandCloth.stuffProps.stuffAdjective>डेविलस्ट्रैंड मशरूम से निकाले गए माइक्रोफाइबर्स से बुना गया कपड़ा। यह बहुत मजबूत, इन्सुलेट करने में अच्छा और आग के विरुद्ध असाधारण रूप से सुरक्षा प्रदान करने वाला है।</DevilstrandCloth.stuffProps.stuffAdjective>
   
   <!-- EN: gold -->
   <Gold.label>सोना</Gold.label>
@@ -23,8 +23,8 @@
   <!-- EN: hyperweave -->
   <Hyperweave.label>हाइपरवीव</Hyperweave.label>
   <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
-  <Hyperweave.description>विशेष उत्पादन मैकेनाइट्स का उपयोग करके अणु-दर-अणु बुने गए नैनो-फाइबरों से बनी चादरें। ज़्यादातर समय यह आसानी से मुड़ जाती है, लेकिन प्रभाव पड़ने पर सख्त हो जाती है और इसे तोड़ना बेहद मुश्किल है। इसकी उत्पादन की तकनीक केवल सबसे उन्नत चमकदार दुनिया की संस्कृतियों को ही ज्ञात है।</Hyperweave.description><!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
-  <Hyperweave.stuffProps.stuffAdjective>विशेष उत्पादन मैकेनाइट्स का उपयोग करके अणु-दर-अणु बुने गए नैनो-फाइबरों से बनी चादरें। ज़्यादातर समय यह स्वतंत्र रूप से लचीली रहती है, लेकिन प्रभाव पड़ने पर सख्त हो जाती है और इसे तोड़ना अविश्वसनीय रूप से कठिन है। इसके उत्पादन के रहस्य केवल सबसे उन्नत चमकदार दुनिया संस्कृतियों को ही ज्ञात हैं।</Hyperweave.stuffProps.stuffAdjective>
+  <Hyperweave.description>विशेषीकृत उत्पादन मैकेनाइट्स का उपयोग करके अणु-दर-अणु शीट में बुने गए नैनो-फाइबर। हालांकि यह अधिकांश समय स्वतंत्र रूप से लचीला रहता है, लेकिन प्रहार होने पर झटकों को सोखने के लिए यह सख्त हो जाता है, और इसे तोड़ना अविश्वसनीय रूप से कठिन है। इसके उत्पादन के रहस्य केवल सबसे उन्नत चमकदार दुनिया संस्कृतियों को ही ज्ञात हैं।</Hyperweave.description><!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
+  <Hyperweave.stuffProps.stuffAdjective>विशेषीकृत उत्पादन मैकेनाइट्स का उपयोग करके अणु-दर-अणु शीट में बुने गए नैनो-फाइबर। हालांकि यह अधिकांश समय स्वतंत्र रूप से लचीला रहता है, लेकिन प्रहार होने पर झटकों को सोखने के लिए यह सख्त हो जाता है, और इसे तोड़ना अविश्वसनीय रूप से कठिन है। इसके उत्पादन के रहस्य केवल सबसे उन्नत चमकदार दुनिया संस्कृतियों को ही ज्ञात हैं।</Hyperweave.stuffProps.stuffAdjective>
   
   <!-- EN: jade -->
   <Jade.label>जेड</Jade.label>
@@ -35,8 +35,8 @@
   <!-- EN: plasteel -->
   <Plasteel.label>प्लास्टील</Plasteel.label>
   <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
-  <Plasteel.description>उन्नत अंतरिक्ष युग तकनीकी संरचनात्मक सामग्री। प्लास्टील अपनी अद्वितीय आणविक संरचना के कारण अत्यंत मजबूत है।</Plasteel.description><!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
-  <Plasteel.stuffProps.stuffAdjective>उन्नत अंतरिक्ष युग तकनीकी संरचनात्मक सामग्री। प्लास्टील अपनी अद्वितीय आणविक संरचना के कारण अत्यंत मजबूत है।</Plasteel.stuffProps.stuffAdjective>
+  <Plasteel.description>उन्नत अंतरिक्ष युग तकनीकी संरचनात्मक सामग्री। अपनी अनूठी आणविक संरचना के कारण प्लास्टील अत्यंत मजबूत है।</Plasteel.description><!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
+  <Plasteel.stuffProps.stuffAdjective>उन्नत अंतरिक्ष युग तकनीकी संरचनात्मक सामग्री। प्लास्टील अपनी अनूठी आणविक संरचना के कारण अत्यंत मजबूत है।</Plasteel.stuffProps.stuffAdjective>
   
   <!-- EN: silver -->
   <Silver.label>चाँदी</Silver.label>
@@ -53,19 +53,19 @@
   <!-- EN: synthread -->
   <Synthread.label>सिंथ धागा</Synthread.label>
   <!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
-  <Synthread.description>अंतरिक्ष युग तकनीकी सिंथेटिक कपड़ा साधारण कपड़े बनाने के लिए डिज़ाइन किया गया है। यह नरम, हल्का, मजबूत है, और अच्छी तरह से इन्सुलेट करता है।</Synthread.description><!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
-  <Synthread.stuffProps.stuffAdjective>अंतरिक्ष युग सिंथेटिक कपड़ा साधारण कपड़े बनाने के लिए डिज़ाइन किया गया है। यह नरम, हल्का, मजबूत है, और अच्छी तरह से इन्सुलेट करता है।</Synthread.stuffProps.stuffAdjective>
+  <Synthread.description>साधारण कपड़े बनाने के लिए डिज़ाइन किया गया अंतरिक्ष युग-तकनीकी सिंथेटिक कपड़ा। यह कोमल, हल्का, मजबूत और अच्छी तरह से इन्सुलेट करने वाला है।</Synthread.description><!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
+  <Synthread.stuffProps.stuffAdjective>साधारण कपड़े बनाने के लिए डिज़ाइन किया गया अंतरिक्ष युग-तकनीकी सिंथेटिक कपड़ा। यह कोमल, हल्का, मजबूत और अच्छी इन्सुलेशन प्रदान करने वाला है।</Synthread.stuffProps.stuffAdjective>
   
   <!-- EN: uranium -->
   <Uranium.label>यूरेनियम</Uranium.label>
   <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
-  <Uranium.description>एक गहरा, भारी धातु। हालाँकि यह परमाणु उपकरणों के लिए ईंधन के रूप में सबसे प्रसिद्ध है, इसकी अत्यधिक घनत्व और कठोरता इसे कुछ हथियार, कवच और गोला-बारूद बनाने के लिए भी अच्छा बनाती है।</Uranium.description><!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
-  <Uranium.stuffProps.stuffAdjective>एक गहरा, भारी धातु। हालाँकि यह परमाणु उपकरणों के लिए ईंधन के रूप में सबसे प्रसिद्ध है, इसकी अत्यधिक घनत्व और कठोरता इसे कुछ हथियारों, कवच और गोला-बारूद बनाने के लिए भी अच्छा बनाती है।</Uranium.stuffProps.stuffAdjective>
+  <Uranium.description>एक गहरा, भारी धातु। हालाँकि यह परमाणु उपकरणों के लिए ईंधन के रूप में सबसे अधिक जाना जाता है, इसका अत्यधिक घनत्व और कठोरता इसे कुछ हथियारों, कवच और गोला-बारूद बनाने के लिए भी अच्छा बनाती है।</Uranium.description><!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
+  <Uranium.stuffProps.stuffAdjective>एक गहरा, भारी धातु। हालाँकि यह परमाणु उपकरणों के लिए ईंधन के रूप में सबसे अधिक जाना जाता है, इसका अत्यधिक घनत्व और कठोरता इसे कुछ हथियारों, कवच और गोला-बारूद बनाने के लिए भी अच्छा बनाती है।</Uranium.stuffProps.stuffAdjective>
   
   <!-- EN: wood -->
   <WoodLog.label>लकड़ी</WoodLog.label>
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
-  <WoodLog.description>पेड़ों या अन्य रेशेदार पौधों से प्राप्त लकड़ी। संरचनाओं और हथियारों के निर्माण के लिए उपयोगी है। यह शिविरों और जनरेटरों के लिए एक अच्छा ईंधन है, और इसे रासायनिक ईंधन में परिष्कृत किया जा सकता है। ज़रूरत पड़ने पर, लकड़ी का एक टुकड़ा हथियार या पैर के रूप में इस्तेमाल किया जा सकता है।</WoodLog.description>
+  <WoodLog.description>पेड़ों या अन्य रेशेदार पौधों से प्राप्त लकड़ी। संरचनाओं और हथियारों के निर्माण के लिए उपयोगी। यह कैंपफायर और जनरेटर के लिए एक अच्छा ईंधन है, और इसे रासायनिक ईंधन में परिष्कृत किया जा सकता है। संकट के समय, लकड़ी के एक टुकड़े का उपयोग हथियार या पैर के रूप में किया जा सकता है।</WoodLog.description>
   <!-- EN: wooden -->
   <WoodLog.stuffProps.stuffAdjective>लकड़ी</WoodLog.stuffProps.stuffAdjective>
   <!-- EN: log -->
@@ -91,8 +91,8 @@
   <!-- EN: muffalo wool -->
   <WoolMuffalo.label>मफ्फालो ऊन</WoolMuffalo.label>
   <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
-  <WoolMuffalo.description>नरम, हल्का और बहुत अच्छा इन्सुलेशन प्रदान करता है। मफ्फालो ऊन के कपड़े शरीर को बहुत ठंडी परिस्थितियों में भी गर्म रख सकते हैं।</WoolMuffalo.description><!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
-  <WoolMuffalo.stuffProps.stuffAdjective>नरम, हल्का और बहुत अच्छा इन्सुलेशन प्रदान करता है। मफ्फालो ऊन के कपड़े शरीर को बहुत ठंडी परिस्थितियों में भी गर्म रख सकते हैं।</WoolMuffalo.stuffProps.stuffAdjective>
+  <WoolMuffalo.description>मुलायम, हल्का और बहुत अच्छा इन्सुलेशन प्रदान करता है। मफ्फालो ऊन के कपड़े बहुत ठंडी परिस्थितियों में भी शरीर को गर्म रख सकते हैं।</WoolMuffalo.description><!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
+  <WoolMuffalo.stuffProps.stuffAdjective>कोमल, हल्का और बहुत अच्छा इन्सुलेशन प्रदान करता है। मफ्फालो ऊन के कपड़े बहुत ठंडी परिस्थितियों में भी शरीर को गर्म रख सकते हैं।</WoolMuffalo.stuffProps.stuffAdjective>
   
   <!-- EN: sheep wool -->
   <WoolSheep.label>भेड़ ऊन</WoolSheep.label>

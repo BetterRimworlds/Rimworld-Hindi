@@ -6,6 +6,6 @@
   <!-- EN: A group of sleeping mechanoids. -->
   <SleepingMechanoids.description>सोते हुए मेकैनॉइड्स का एक समूह।</SleepingMechanoids.description>
   <!-- EN: There are a few sleeping hostile mechanoids in this area.\n\nThe mechanoids may or may not wake up when you approach them, so beware. -->
-  <SleepingMechanoids.arrivedLetter>इस क्षेत्र में कुछ सोए हुए शत्रुतापूर्ण मैकेनोइड हैं।\n\nजैसे ही आप उनके पास जाएँगे, मैकेनोइड जाग सकते हैं या नहीं, इसलिए सावधान रहें।</SleepingMechanoids.arrivedLetter>
+  <SleepingMechanoids.arrivedLetter>इस क्षेत्र में कुछ सो रहे शत्रुतापूर्ण मेकैनॉइड्स हैं।\n\nजब आप उनके पास पहुँचेंगे तो मेकैनॉइड्स जाग भी सकते हैं और नहीं भी, इसलिए सावधान रहें।</SleepingMechanoids.arrivedLetter>
   
 </LanguageData>

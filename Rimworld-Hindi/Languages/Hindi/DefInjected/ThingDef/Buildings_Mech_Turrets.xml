@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: auto-mortar -->
-  <Artillery_AutoMortar.label>स्वचालित तोप</Artillery_AutoMortar.label>
+  <Artillery_AutoMortar.label>स्वचालित-मोर्टार</Artillery_AutoMortar.label>
   <!-- EN: auto-mortar -->
-  <Artillery_AutoMortar.verbs.Verb_Shoot.label>स्वचालित तोप</Artillery_AutoMortar.verbs.Verb_Shoot.label>
+  <Artillery_AutoMortar.verbs.Verb_Shoot.label>स्वचालित-मोर्टार</Artillery_AutoMortar.verbs.Verb_Shoot.label>
   
   <!-- EN: light charge blaster -->
   <Gun_ChargeBlasterHeavyTurret.label>प्रकाश आवेश ब्लास्टर</Gun_ChargeBlasterHeavyTurret.label>
@@ -27,16 +27,16 @@
   <!-- EN: auto charge turret -->
   <Turret_AutoChargeBlaster.label>स्वचालित चार्ज तोप</Turret_AutoChargeBlaster.label>
   <!-- EN: A self-powered turret mounted with a charge blaster. It cannot sense targets at very short ranges. -->
-  <Turret_AutoChargeBlaster.description>एक स्व-संचालित तोप जो चार्ज ब्लास्टर से लैस है। यह बहुत कम दूरी पर लक्ष्यों को महसूस नहीं कर सकता।</Turret_AutoChargeBlaster.description>
+  <Turret_AutoChargeBlaster.description>एक चार्ज ब्लास्टर से सुसज्जित एक स्व-संचालित तोप। यह बहुत कम दूरी पर लक्ष्यों का पता नहीं लगा सकती।</Turret_AutoChargeBlaster.description>
   
   <!-- EN: auto inferno turret -->
-  <Turret_AutoInferno.label>स्वचालित नरक तोप</Turret_AutoInferno.label>
+  <Turret_AutoInferno.label>स्वचालित इन्फर्नो तोप</Turret_AutoInferno.label>
   <!-- EN: A self-powered turret mounted with an inferno cannon. It cannot sense targets at very short ranges. -->
-  <Turret_AutoInferno.description>स्व-संचालित तोप, एक नरक तोप से लैस है। यह बहुत कम दूरी पर लक्ष्यों को महसूस नहीं कर सकता।</Turret_AutoInferno.description>
+  <Turret_AutoInferno.description>एक इन्फर्नो कैनन से सुसज्जित एक स्व-संचालित तोप। यह बहुत कम दूरी पर लक्ष्यों का पता नहीं लगा सकती।</Turret_AutoInferno.description>
   
   <!-- EN: auto mortar -->
-  <Turret_AutoMortar.label>स्वचालित तोप</Turret_AutoMortar.label>
+  <Turret_AutoMortar.label>स्वचालित मोर्टार</Turret_AutoMortar.label>
   <!-- EN: A self-powered, self-loading, automatic mortar. It can hit targets at any distance, over walls, but is quite inaccurate. -->
-  <Turret_AutoMortar.description>यह एक स्व-संचालित, स्व-लोडिंग, स्वचालित मोर्टार है। यह दीवारों के ऊपर से किसी भी दूरी पर लक्ष्यों पर प्रहार कर सकता है, लेकिन यह काफी अविश्वसनीय है।</Turret_AutoMortar.description>
+  <Turret_AutoMortar.description>एक स्व-संचालित, स्व-लोडिंग, स्वचालित मोर्टार। यह दीवारों के ऊपर, किसी भी दूरी पर लक्ष्यों को मार सकता है, लेकिन काफी अनियंत्रित है।</Turret_AutoMortar.description>
   
 </LanguageData>

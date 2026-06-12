@@ -30,15 +30,15 @@
   <!-- EN: thrumbo -->
   <Thrumbo.label>थ्रम्बो</Thrumbo.label>
   <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
-  <Thrumbo.description>एक विशाल, सुंदर जीव जिसकी उत्पत्ति अज्ञात है। थ्रमबो स्वभाव से सौम्य होता है, लेकिन क्रोधित होने पर अत्यंत खतरनाक होता है। इसके लंबे फर असाधारण रूप से सुंदर हैं, लेकिन इसकी त्वचा क्षति के प्रति अविश्वसनीय रूप से प्रतिरोधी भी है। इसका तेज़ सींग बहुत ऊंची कीमत पर बिकता है।\n\nकहानियाँ कहती हैं कि एक बूढ़ा थ्रमबो ब्रह्मांड का सबसे बुद्धिमान जीव है - यह बस बोलने का चुनाव नहीं करता है।</Thrumbo.description>
+  <Thrumbo.description>अज्ञात उत्पत्ति का एक विशाल, सुंदर जीव। थ्रम्बो स्वभाव से कोमल होता है, लेकिन क्रोधित होने पर अत्यंत खतरनाक होता है। जहाँ इसके लंबे फर असाधारण रूप से सुंदर होते हैं, वहीं इसकी खाल भी क्षति के प्रति अविश्वसनीय रूप से प्रतिरोधी होती है। इसका तेज सींग बहुत बड़ी कीमत दिलाता है।\n\nकिंवदंतियाँ कहती हैं कि एक पुराना थ्रम्बो ब्रह्मांड का सबसे बुद्धिमान जीव है - यह बस बोलने न चुनने का निर्णय लेता है।</Thrumbo.description>
   <!-- EN: horn -->
-  <Thrumbo.tools.horn.label>सिंग</Thrumbo.tools.horn.label>
+  <Thrumbo.tools.horn.label>सींग</Thrumbo.tools.horn.label>
   <!-- EN: left foot -->
-  <Thrumbo.tools.left_foot.label>बायां पाँव</Thrumbo.tools.left_foot.label>
+  <Thrumbo.tools.left_foot.label>बायां पैर</Thrumbo.tools.left_foot.label>
   <!-- EN: foot -->
   <Thrumbo.tools.left_foot.labelNoLocation>पैर</Thrumbo.tools.left_foot.labelNoLocation>
   <!-- EN: right foot -->
-  <Thrumbo.tools.right_foot.label>दायां पाँव</Thrumbo.tools.right_foot.label>
+  <Thrumbo.tools.right_foot.label>दायां पैर</Thrumbo.tools.right_foot.label>
   <!-- EN: foot -->
   <Thrumbo.tools.right_foot.labelNoLocation>पैर</Thrumbo.tools.right_foot.labelNoLocation>
   <!-- EN: head -->
@@ -47,7 +47,7 @@
   <!-- EN: tortoise -->
   <Tortoise.label>कछुआ</Tortoise.label>
   <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
-  <Tortoise.description>यह भारी बख़्तरबंद भूमि-निवास करने वाला सरीसृप अपनी धीमी गति और आश्चर्यजनक रूप से क्रूर काटने के लिए जाना जाता है। अपने प्राकृतिक कवच के कारण, इसे मारना मुश्किल है और यह लंबे समय तक चलने वाली हाथापाई की लड़ाई में गंभीर क्षति पहुंचा सकता है।</Tortoise.description>
+  <Tortoise.description>यह भारी कवच वाला ज़मीन पर रहने वाला सरीसृप अपनी धीमी गति और आश्चर्यजनक रूप से क्रूर काटने के लिए जाना जाता है। अपने प्राकृतिक कवच के कारण, इसे मारना कठिन है और यह लंबे समय तक चलने वाले नज़दीकी युद्ध के दौरान गंभीर नुकसान पहुँचा सकता है।</Tortoise.description>
   <!-- EN: beak -->
   <Tortoise.tools.beak.label>चोंच</Tortoise.tools.beak.label>
   <!-- EN: head -->

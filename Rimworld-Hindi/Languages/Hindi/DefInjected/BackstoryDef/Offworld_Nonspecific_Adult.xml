@@ -191,7 +191,7 @@
   <Forester96.titleShortFemale>वनरक्षिका</Forester96.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent [PAWN_possessive] time building beautiful furniture for wealthy glitterworld clients. -->
-  <FurnitureBuilder83.description>{PAWN_gender ? [PAWN_nameDef] जंगलों के पास पली-बढ़ी। उसने अपना समय धनी ग्लिटरवर्ल्ड ग्राहकों के लिए सुंदर फर्नीचर बनाने में बिताया। : [PAWN_nameDef] जंगलों के पास पला-बढ़ा। उसने अपना समय धनी ग्लिटरवर्ल्ड ग्राहकों के लिए सुंदर फर्नीचर बनाने में बिताया।}</FurnitureBuilder83.description>
+  <FurnitureBuilder83.description>{PAWN_gender ? [PAWN_nameDef] जंगलों के पास पली-बढ़ी। उसने अपना समय अमीर चमकदार दुनिया के ग्राहकों के लिए सुंदर फर्नीचर बनाने में बिताया। : [PAWN_nameDef] जंगलों के पास पला-बढ़ा। उसने अपना समय अमीर चमकदार दुनिया के ग्राहकों के लिए सुंदर फर्नीचर बनाने में बिताया।}</FurnitureBuilder83.description>
   <!-- EN: furniture builder -->
   <FurnitureBuilder83.title>फर्नीचर निर्माता</FurnitureBuilder83.title>
   <FurnitureBuilder83.titleFemale>फर्नीचर निर्माता</FurnitureBuilder83.titleFemale>
@@ -247,7 +247,7 @@
   <Hunter89.titleShortFemale>शिकारी महिला</Hunter89.titleShortFemale>
   
   <!-- EN: On [PAWN_possessive] homeworld, [PAWN_nameDef] worked as a moderately successful inventor. [PAWN_pronoun] developed several minor technologies. -->
-  <Inventor6.description>{PAWN_gender ? अपने गृह ग्रह पर, [PAWN_nameDef] एक मध्यम रूप से सफल आविष्कारक के रूप में काम करती थी। उसने कई छोटी-मोटी तकनीकें विकसित कीं। : अपने गृह ग्रह पर, [PAWN_nameDef] एक मध्यम रूप से सफल आविष्कारक के रूप में काम करता था। उसने कई छोटी-मोटी तकनीकें विकसित कीं।}</Inventor6.description>
+  <Inventor6.description>{PAWN_gender ? अपने गृह ग्रह पर, [PAWN_nameDef] एक मध्यम रूप से सफल आविष्कारक के रूप में काम करती थी। उसने कई छोटी तकनीकों को विकसित किया था। : अपने गृह ग्रह पर, [PAWN_nameDef] एक मध्यम रूप से सफल आविष्कारक के रूप में काम करता था। उसने कई छोटी तकनीकों को विकसित किया।}</Inventor6.description>
   <!-- EN: inventor -->
   <Inventor6.title>आविष्कारक</Inventor6.title>
   <Inventor6.titleFemale>आविष्कारक</Inventor6.titleFemale>
@@ -372,7 +372,7 @@
   <Ranger96.titleShortFemale>रेंजर</Ranger96.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was part of a revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] traveled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training. -->
-  <Recruiter14.description>{PAWN_gender ? [PAWN_nameDef] एक प्रतिष्ठित मार्शल आर्टिस्ट समुदाय की सदस्य थीं, जो अपनी युद्ध कौशल और घायल लोगों का इलाज करने से इनकार करने की प्रथा दोनों के लिए कुख्यात थी।\n\nउन्होंने अपने गृह ग्रह की यात्रा की, उन युवाओं का मूल्यांकन किया जिनसे वह मिलीं ताकि यह निर्धारित किया जा सके कि वे प्रशिक्षण के लिए उपयुक्त हैं या नहीं। : [PAWN_nameDef] एक प्रतिष्ठित मार्शल आर्टिस्टों के समूह का हिस्सा था, जो अपनी युद्ध कौशल और घायल लोगों का इलाज करने से इनकार करने की प्रथा दोनों के लिए कुख्यात था।\n\nवह अपने गृह ग्रह की यात्रा करता रहा, उन युवाओं का मूल्यांकन करता रहा जिनसे वह मिला ताकि यह निर्धारित किया जा सके कि वे प्रशिक्षण के लिए उपयुक्त हैं या नहीं।}</Recruiter14.description>
+  <Recruiter14.description>{PAWN_gender ? [PAWN_nameDef] मार्शल आर्टिस्ट्स के एक पूजनीय संप्रदाय का हिस्सा थी, जो अपनी युद्ध कौशल और अपने घायल लोगों का इलाज करने से इनकार करने की प्रथा, दोनों के लिए कुख्यात थे।\n\nवह अपने गृह ग्रह पर यात्रा करती थी, और प्रशिक्षण के लिए उपयुक्तता निर्धारित करने हेतु मिलने वाले युवाओं का परीक्षण करती थी। : [PAWN_nameDef] मार्शल आर्टिस्ट्स के एक पूजनीय संप्रदाय का हिस्सा था, जो अपनी युद्ध कौशल और अपने घायल लोगों का इलाज करने से इनकार करने की प्रथा, दोनों के लिए कुख्यात था।\n\nवह अपने गृह ग्रह पर यात्रा करता था, और जिन युवाओं से वह मिलता था, उन्हें प्रशिक्षण के लिए उपयुक्त होने का निर्णय लेने हेतु परखता था।}</Recruiter14.description>
   <!-- EN: recruiter -->
   <Recruiter14.title>भर्तीकर्ता</Recruiter14.title>
   <Recruiter14.titleFemale>भर्तीकर्ता</Recruiter14.titleFemale>

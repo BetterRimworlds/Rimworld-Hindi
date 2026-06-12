@@ -4,12 +4,12 @@
   <!-- EN: ship part (defoliator) -->
   <DefoliatorShipPart.label>जहाज भाग (पत्ती हटाने वाला)</DefoliatorShipPart.label>
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
-  <DefoliatorShipPart.description>एक प्राचीन जहाज़ का भाग, अज्ञात मूल के यान से अलग किया गया। यह हज़ारों वर्ष पुराना हो सकता है।\n\nइसमें एक उपकरण है जो अपने पास के वनस्पति जीवन को नष्ट कर देता है, लेकिन मांसल प्राणियों को सीधे प्रभावित नहीं करता है। इस प्रकार के हथियार कभी-कभी खेतों या जंगलों में बिखरे होते हैं ताकि दुश्मन की खाद्य आपूर्ति और छिपने की जगहों को स्थायी रूप से क्षेत्र को बर्बाद किए बिना हटाया जा सके। वे आमतौर पर कक्षीय-ड्रॉप मैकेनोइड सेनाओं से जुड़े होते हैं।</DefoliatorShipPart.description>
+  <DefoliatorShipPart.description>एक प्राचीन जहाज का हिस्सा, जो अज्ञात मूल के किसी यान से अलग हो गया है। यह हजारों साल पुराना हो सकता है।\n\nइसमें एक ऐसा उपकरण है जो मांस वाले जीवों को सीधे प्रभावित किए बिना अपने पास के वनस्पति जीवन को नष्ट कर देता है। इस प्रकार के हथियारों को कभी-कभी कृषि भूमि या जंगलों में दुश्मन की खाद्य आपूर्ति और छिपने के स्थानों को स्थायी रूप से क्षेत्र को बर्बाद किए बिना हटाने के लिए बिखेरा जाता है। वे आमतौर पर ऑर्बिटल-ड्रॉप मेकैनॉइड सेनाओं से जुड़े होते हैं।</DefoliatorShipPart.description>
   
   <!-- EN: ship part (psychic droner) -->
-  <PsychicDronerShipPart.label>जहाज भाग</PsychicDronerShipPart.label>
+  <PsychicDronerShipPart.label>जहाज़ का हिस्सा (मानसिक ड्रोनर)</PsychicDronerShipPart.label>
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself. -->
-  <PsychicDronerShipPart.description>एक प्राचीन यान का भाग, अज्ञात मूल के यान से अलग हो गया। यह हजारों वर्ष पुराना हो सकता है।\n\nइसमें एक मानसिक गड़बड़ी उपकरण है। अगम्य पुरातन प्रौद्योगिकियों का उपयोग करते हुए, यह एक मानसिक संकेत उत्पन्न करता है जो इसके आसपास के विस्तृत क्षेत्र में लोगों और जानवरों को पागल कर देता है।</PsychicDronerShipPart.description>
+  <PsychicDronerShipPart.description>एक प्राचीन जहाज का हिस्सा, जो अज्ञात मूल के किसी यान से अलग हो गया है। यह हजारों साल पुराना हो सकता है।\n\nइसमें एक मानसिक विक्षोभ उपकरण शामिल है। समझ से परे आर्कोटेकनोलॉजी का उपयोग करते हुए, यह एक ऐसा मानसिक संकेत उत्पन्न करता है जो अपने आसपास के एक विस्तृत दायरे में लोगों और जानवरों को पागल कर देता है।</PsychicDronerShipPart.description>
   
   <!-- EN: ship chunk -->
   <ShipChunk.label>जहाज खंड</ShipChunk.label>
@@ -21,11 +21,11 @@
   <!-- EN: imperial shuttle -->
   <Shuttle.label>साम्राज्यिक यान</Shuttle.label>
   <!-- EN: A spacer-tech uranium-powered shuttle designed for transit between surface and orbit, or between moons of a planetary system. To prevent unsanctioned use, the shuttle is locked to the pilot's bio-signature. Destroying the shuttle will yield a shuttle engine and other valuable resources. -->
-  <Shuttle.description>अंतरिक्ष युग तकनीक से संचालित यूरेनियम से चलने वाला शटल, जो सतह और कक्षा के बीच, या किसी ग्रह प्रणाली के चंद्रमाओं के बीच यात्रा के लिए डिज़ाइन किया गया है। अनधिकृत उपयोग को रोकने के लिए, शटल को पायलट के बायो-हस्ताक्षर से लॉक किया गया है। शटल को नष्ट करने से एक शटल इंजन और अन्य मूल्यवान संसाधन प्राप्त होंगे।</Shuttle.description>
+  <Shuttle.description>सतह और कक्षा के बीच, या किसी ग्रहीय प्रणाली के चंद्रमाओं के बीच आवाजाही के लिए डिज़ाइन किया गया एक अंतरिक्ष युग-तकनीकी यूरेनियम-संचालित शटल। अनधिकृत उपयोग को रोकने के लिए, शटल पायलट के बायो-सिग्नेचर से लॉक रहता है। शटल को नष्ट करने से एक शटल इंजन और अन्य मूल्यवान संसाधन प्राप्त होंगे।</Shuttle.description>
   
   <!-- EN: crashed shuttle -->
   <ShuttleCrashed.label>दुर्घटनाग्रस्त यान</ShuttleCrashed.label>
   <!-- EN: A spacer-tech uranium-powered shuttle designed for transit between surface and orbit, or between moons of a planetary system. To prevent unsanctioned use, the shuttle is locked to the pilot's bio-signature. Destroying the shuttle will yield a shuttle engine and other valuable resources. -->
-  <ShuttleCrashed.description>अंतरिक्ष युग तकनीक से संचालित यूरेनियम से चलने वाला शटल, जो सतह और कक्षा के बीच, या किसी ग्रह प्रणाली के चंद्रमाओं के बीच यात्रा के लिए डिज़ाइन किया गया है। अनधिकृत उपयोग को रोकने के लिए, शटल पायलट के बायो-हस्ताक्षर से लॉक है। शटल को नष्ट करने से शटल इंजन और अन्य मूल्यवान संसाधन प्राप्त होंगे।</ShuttleCrashed.description>
+  <ShuttleCrashed.description>सतह और कक्षा के बीच, या किसी ग्रहीय प्रणाली के चंद्रमाओं के बीच आवाजाही के लिए डिज़ाइन किया गया एक अंतरिक्ष युग-तकनीकी यूरेनियम-संचालित शटल। अनधिकृत उपयोग को रोकने के लिए, शटल पायलट के बायो-सिग्नेचर से लॉक रहता है। शटल को नष्ट करने से एक शटल इंजन और अन्य मूल्यवान संसाधन प्राप्त होंगे।</ShuttleCrashed.description>
   
 </LanguageData>

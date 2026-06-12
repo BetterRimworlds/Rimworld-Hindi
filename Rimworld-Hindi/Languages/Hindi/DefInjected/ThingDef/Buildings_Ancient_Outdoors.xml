@@ -9,7 +9,7 @@
   <!-- EN: ancient ruined APC -->
   <AncientAPC.label>प्राचीन खंडहर APC</AncientAPC.label>
   <!-- EN: The remains of an ancient armored troop carrier which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
-  <AncientAPC.description>किसी भारी हथियार से नष्ट हुए एक प्राचीन बख़्तरबंद सैनिक वाहक के अवशेष, जिसके सभी उपयोगी घटक बहुत पहले लूट लिए गए या खराब हो गए।</AncientAPC.description>
+  <AncientAPC.description>एक प्राचीन बख्तरबंद सैन्य वाहक के अवशेष जिसे किसी प्रकार के भारी हथियार द्वारा नष्ट कर दिया गया था। सभी उपयोगी घटक बहुत पहले ही लूट लिए गए थे या खराब हो चुके थे।</AncientAPC.description>
   
   <!-- EN: ancient ATM -->
   <AncientATM.label>प्राचीन एटीएम</AncientATM.label>
@@ -54,7 +54,7 @@
   <!-- EN: ancient macro-engine block -->
   <AncientLargeRustedEngineBlock.label>प्राचीन इंजन खंड</AncientLargeRustedEngineBlock.label>
   <!-- EN: A large, ancient engine block from some giant vehicle or power source. It's rusted through, and all the useful components are gone. No repair could salvage this. -->
-  <AncientLargeRustedEngineBlock.description>यह किसी विशाल वाहन या ऊर्जा स्रोत का एक बड़ा, प्राचीन इंजन ब्लॉक है। यह जंग से भरा हुआ है, और सभी उपयोगी घटक गायब हैं। कोई भी मरम्मत इसे बचा नहीं सकती।</AncientLargeRustedEngineBlock.description>
+  <AncientLargeRustedEngineBlock.description>किसी विशाल वाहन या ऊर्जा स्रोत का एक बड़ा, प्राचीन इंजन ब्लॉक। यह पूरी तरह से जंग खा चुका है, और सभी उपयोगी घटक जा चुके हैं। कोई भी मरम्मत इसे बचा नहीं सकती।</AncientLargeRustedEngineBlock.description>
   
   <!-- EN: ancient long crate -->
   <AncientLongCrate.label>प्राचीन लंबा बक्सा</AncientLongCrate.label>
@@ -64,12 +64,12 @@
   <!-- EN: ancient mega-cannon barrel -->
   <AncientMegaCannonBarrel.label>प्राचीन तोप नली</AncientMegaCannonBarrel.label>
   <!-- EN: A barrel from a long-range cannon for artillery or anti-ship use. When it was new, it must have been frighteningly powerful. Now, it's far beyond repair and every useful component has been looted. -->
-  <AncientMegaCannonBarrel.description>एक लंबी दूरी की तोप का बैरल, तोपखाने या जहाज़-विरोधी उपयोग के लिए। जब यह नया था, तो यह निश्चित रूप से भयानक रूप से शक्तिशाली रहा होगा। अब, यह मरम्मत से परे है और हर उपयोगी घटक लूट लिया गया है।</AncientMegaCannonBarrel.description>
+  <AncientMegaCannonBarrel.description>तोपखाने या जहाज-रोधी उपयोग के लिए लंबी दूरी की तोप का एक बैरल। जब यह नया था, तब यह निश्चित रूप से डरावना शक्तिशाली रहा होगा। अब, यह मरम्मत योग्य सीमा से बहुत बाहर है और हर उपयोगी घटक को लूट लिया गया है।</AncientMegaCannonBarrel.description>
   
   <!-- EN: ancient mega-cannon platform -->
   <AncientMegaCannonTripod.label>प्राचीन तोप मंच</AncientMegaCannonTripod.label>
   <!-- EN: A mounting platform that once held some sort of cannon. It has been broken for many years and every useful component was looted long ago. -->
-  <AncientMegaCannonTripod.description>एक माउंटिंग प्लेटफॉर्म जिस पर कभी तोप लगी हुई थी। यह कई वर्षों से टूटा हुआ है और हर उपयोगी घटक बहुत पहले ही लूटा जा चुका है।</AncientMegaCannonTripod.description>
+  <AncientMegaCannonTripod.description>एक माउंटिंग प्लेटफॉर्म जिसमें कभी किसी प्रकार की तोप हुआ करती थी। यह कई वर्षों से टूटा हुआ है और हर उपयोगी घटक बहुत पहले ही लूट लिया गया था।</AncientMegaCannonTripod.description>
   
   <!-- EN: ancient warsprinter remains -->
   <AncientMiniWarwalkerRemains.label>प्राचीन युद्ध-अवशेष</AncientMiniWarwalkerRemains.label>
@@ -134,7 +134,7 @@
   <!-- EN: ancient nav beacon -->
   <AncientShipBeacon.label>प्राचीन पथ-संकेतक</AncientShipBeacon.label>
   <!-- EN: An ancient, broken ship navigation beacon. Every useful component was looted long ago. -->
-  <AncientShipBeacon.description>एक प्राचीन, टूटा हुआ जहाज़ नेविगेशन बीकन। हर उपयोगी घटक बहुत पहले ही लूट लिया गया था।</AncientShipBeacon.description>
+  <AncientShipBeacon.description>एक प्राचीन, टूटा हुआ जहाज नेविगेशन बीकन। हर उपयोगी घटक बहुत पहले लूट लिया गया था।</AncientShipBeacon.description>
   
   <!-- EN: ancient shopping cart -->
   <AncientShoppingCart.label>प्राचीन गाड़ी</AncientShoppingCart.label>
@@ -149,10 +149,10 @@
   <!-- EN: ancient ruined tank -->
   <AncientTank.label>प्राचीन खंडित टैंक</AncientTank.label>
   <!-- EN: The remains of an ancient tank which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
-  <AncientTank.description>एक प्राचीन टैंक के अवशेष, जो किसी भारी हथियार से नष्ट हो गया था। उपयोगी घटक बहुत पहले ही लूटे या खराब हो गए हैं।</AncientTank.description>
+  <AncientTank.description>एक प्राचीन टैंक के अवशेष जिसे किसी प्रकार के भारी हथियार द्वारा नष्ट कर दिया गया था। सभी उपयोगी घटक बहुत पहले ही लूट लिए गए थे या खराब हो चुके थे।</AncientTank.description>
   
   <!-- EN: ancient tank trap -->
-  <AncientTankTrap.label>प्राचीन टैंक रोधक</AncientTankTrap.label>
+  <AncientTankTrap.label>प्राचीन टैंक जाल</AncientTankTrap.label>
   <!-- EN: An defensive fortification for stopping vehicles. It's been deteriorating for many years. -->
   <AncientTankTrap.description>यह वाहनों को रोकने के लिए एक रक्षात्मक किलेबंदी है। यह कई वर्षों से खराब हो रही है।</AncientTankTrap.description>
   
@@ -174,17 +174,17 @@
   <!-- EN: ancient warwalker claw -->
   <AncientWarwalkerClaw.label>प्राचीन युद्धक पंजा</AncientWarwalkerClaw.label>
   <!-- EN: The assault claw of an ancient mid-scale warwalker. This weapon specialized in tearing through heavy plasteel armor at close range. Its valuable components were looted long ago. -->
-  <AncientWarwalkerClaw.description>एक प्राचीन मध्यम आकार के युद्ध-चलक का आक्रमण पंजा। यह हथियार करीबी दूरी पर भारी प्लास्टील कवच को फाड़ने में विशेषज्ञ था। इसके मूल्यवान घटकों को बहुत पहले लूटा जा चुका है।</AncientWarwalkerClaw.description>
+  <AncientWarwalkerClaw.description>एक प्राचीन मध्यम-स्तर के वॉरवॉकर का हमलावर पंजा। यह हथियार करीबी दूरी पर भारी प्लास्टील कवच को फाड़ने में माहिर था। इसके बहुमूल्य घटक बहुत पहले ही लूट लिए गए थे।</AncientWarwalkerClaw.description>
   
   <!-- EN: ancient warwalker foot -->
   <AncientWarwalkerFoot.label>प्राचीन युद्धयात्री पैर</AncientWarwalkerFoot.label>
   <!-- EN: A massive foot from an ancient warwalker. It seems to have been torn free from its owner by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
-  <AncientWarwalkerFoot.description>एक प्राचीन वॉकर से विशाल पैर। ऐसा लगता है कि यह किसी भारी हथियार से अपने मालिक से अलग हो गया था। सभी उपयोगी घटक बहुत पहले ही लूटे या खराब हो गए थे।</AncientWarwalkerFoot.description>
+  <AncientWarwalkerFoot.description>एक प्राचीन वॉकर का एक विशाल पैर। ऐसा लगता है कि इसे किसी प्रकार के भारी हथियार द्वारा इसके स्वामी से अलग कर दिया गया था। सभी उपयोगी घटक बहुत पहले ही लूट लिए गए थे या खराब हो चुके थे।</AncientWarwalkerFoot.description>
   
   <!-- EN: ancient warwalker leg -->
   <AncientWarwalkerLeg.label>प्राचीन युद्धक पैर</AncientWarwalkerLeg.label>
   <!-- EN: The shattered leg of a mid-scale warwalker that fell here long ago. It has been picked clean by looters, and no valuable components remain. -->
-  <AncientWarwalkerLeg.description>यह एक लंबे समय पहले गिरे हुए मध्यम आकार के युद्ध-वॉकर का टूटा हुआ पैर है। इसे लुटेरों ने पूरी तरह से खाली कर दिया है, और कोई भी मूल्यवान घटक शेष नहीं है।</AncientWarwalkerLeg.description>
+  <AncientWarwalkerLeg.description>एक मध्यम-स्तर के वॉरवॉकर का टूटा हुआ पैर जो बहुत समय पहले यहाँ गिरा था। लुटेरों ने इसे पूरी तरह साफ कर दिया है, और अब इसमें कोई मूल्यवान घटक नहीं बचे हैं।</AncientWarwalkerLeg.description>
   
   <!-- EN: ancient warwalker shell -->
   <AncientWarwalkerShell.label>प्राचीन युद्धक कवच</AncientWarwalkerShell.label>
@@ -207,8 +207,8 @@
   <AncientWheel.description>कोई वाहन का प्राचीन पहिया। रबर खराब हो गया है और धातु मुड़ी हुई और जंग लगी हुई है।</AncientWheel.description>
   
   <!-- EN: mechanoid slag chunk -->
-  <ChunkMechanoidSlag.label>मेकैनॉइड धातु खंड</ChunkMechanoidSlag.label>
+  <ChunkMechanoidSlag.label>मेकैनॉइड स्लैग का टुकड़ा</ChunkMechanoidSlag.label>
   <!-- EN: The remains of a smashed mechanoid. While useless in its current form, it can be smelted to recover steel. -->
-  <ChunkMechanoidSlag.description>एक कुचले हुए मैकेनॉइड के अवशेष। वर्तमान रूप में अनुपयोगी होने के बावजूद, इसे स्टील प्राप्त करने के लिए पिघलाया जा सकता है।</ChunkMechanoidSlag.description>
+  <ChunkMechanoidSlag.description>एक कुचले हुए मेकैनॉइड के अवशेष। अपने वर्तमान रूप में बेकार होने के बावजूद, स्टील प्राप्त करने के लिए इसे पिघलाया जा सकता है।</ChunkMechanoidSlag.description>
   
 </LanguageData>

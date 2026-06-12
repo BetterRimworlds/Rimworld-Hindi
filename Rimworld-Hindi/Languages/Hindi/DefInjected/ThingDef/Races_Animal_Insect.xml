@@ -4,7 +4,7 @@
   <!-- EN: megascarab -->
   <Megascarab.label>मेगास्कारब</Megascarab.label>
   <!-- EN: A genetically-engineered war insect that resembles a massive beetle. Once the worker caste of an artificial ecosystem of insects designed to fight mechanoid invasions, it is less deadly than its larger cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually.\n\nEngineered to thrive in mechanoid-ravaged environments, war insects like this move faster after being exposed to polluted terrain. -->
-  <Megascarab.description>एक आनुवंशिक रूप से इंजीनियर युद्ध कीट जो एक विशाल भृंग जैसा दिखता है। एक बार यह यांत्रिक आक्रमणों से लड़ने के लिए डिज़ाइन किए गए कृत्रिम कीट पारिस्थितिकी तंत्र के श्रमिक वर्ग थे, यह अपने बड़े चचेरे भाइयों की तुलना में कम घातक है। फिर भी, इसका आकार और कठोर खोल इसे हमला करते समय खतरनाक बनाते हैं। एक यूसोशल प्राणी होने के कारण, यह व्यक्तिगत रूप से प्रजनन नहीं कर सकता।\n\nयांत्रिक रूप से तबाह हुए वातावरण में पनपने के लिए इंजीनियर किए गए, इस तरह के युद्ध कीट प्रदूषित इलाके के संपर्क में आने के बाद तेज़ी से चलते हैं।</Megascarab.description>
+  <Megascarab.description>एक आनुवंशिक रूप से इंजीनियर किया गया युद्ध कीट जो एक विशाल भृंग के समान दिखता है। मेकैनॉइड आक्रमणों से लड़ने के लिए डिज़ाइन किए गए कीटों के एक कृत्रिम पारिस्थितिकी तंत्र की श्रमिक जाति होने के नाते, यह अपने बड़े चचेरे भाइयों की तुलना में कम घातक है। फिर भी, इसका आकार और कठोर कवच हमले के समय इसे खतरनाक बना देता है। एक यूसोशियल जीव होने के नाते, यह व्यक्तिगत रूप से प्रजनन नहीं कर सकता है।\n\nमेकैनॉइड द्वारा तबाह किए गए वातावरण में पनपने के लिए इंजीनियर किए गए, इस तरह के युद्ध कीट प्रदूषित भूभाग के संपर्क में आने के बाद तेज़ी से चलते हैं।</Megascarab.description>
   <!-- EN: mandibles -->
   <Megascarab.tools.mandibles.label>जबड़े</Megascarab.tools.mandibles.label>
   <!-- EN: head -->
@@ -13,20 +13,20 @@
   <!-- EN: megaspider -->
   <Megaspider.label>विशाल मकड़ी</Megaspider.label>
   <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insect the size of a bear. Its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain.\n\nEngineered to fight mechanoids in toxic environments, war insects like this move faster after being exposed to polluted terrain. -->
-  <Megaspider.description>विशाल मकड़ी मकड़ी नहीं है, यह एक आनुवंशिक रूप से इंजीनियर किया गया विशाल कीट है जो एक भालू के आकार का है। इसका मोटा काइटिनस कवच इसे मारना मुश्किल बनाता है, जबकि इसके लंबे रिपर-ब्लेड इसे करीबी मुकाबले में घातक बनाते हैं। हालाँकि, यह खुले इलाके में काफी धीमा है।\n\nमेकैनॉइड्स से लड़ने के लिए इंजीनियर किए गए जहरीले वातावरण में, इस तरह के युद्ध कीट प्रदूषित इलाके के संपर्क में आने के बाद तेज़ी से चलते हैं।</Megaspider.description>
+  <Megaspider.description>वास्तव में मकड़ी नहीं, विशाल मकड़ी एक आनुवंशिक रूप से इंजीनियर किया गया भालू के आकार का विशाल कीट है। इसका मोटा काइटिनस कवच इसे मारना कठिन बनाता है, जबकि इसके लंबे रिपर-ब्लेड्स इसे पास की लड़ाई में घातक बनाते हैं। हालाँकि, खुले इलाके में यह काफी धीमा होता है।\n\nविषैले वातावरण में मेकैनॉइड्स से लड़ने के लिए इंजीनियर किए गए, इस तरह के युद्ध कीट प्रदूषित इलाके के संपर्क में आने के बाद अधिक तेज़ी से चलते हैं।</Megaspider.description>
   <!-- EN: insect meat -->
   <Megaspider.race.meatLabel>कीट मांस</Megaspider.race.meatLabel>
   <!-- EN: head claw -->
-  <Megaspider.tools.head_claw.label>पंजा</Megaspider.tools.head_claw.label>
+  <Megaspider.tools.head_claw.label>सिर का पंजा</Megaspider.tools.head_claw.label>
   <!-- EN: head -->
   <Megaspider.tools.head.label>सिर</Megaspider.tools.head.label>
   
   <!-- EN: spelopede -->
   <Spelopede.label>गुफा-कीट</Spelopede.label>
   <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground.\n\nEngineered to thrive in mechanoid-ravaged environments, war insects like this move faster after being exposed to polluted terrain. -->
-  <Spelopede.description>एक भेड़ के आकार का मध्यम आकार का जैव-इंजीनियर्ड कीड़े जैसा जीव। स्पेलोपोड एक छत्ते का मध्य वर्ग है, जो अधिकांश कार्य कार्यों के साथ-साथ अपनी खुदाई करने वाले पंजे से लड़ता भी है। यह युद्ध में खतरनाक है, लेकिन खुली जमीन पर धीमा है।\n\nमैकेनॉयड-विनाशित वातावरण में पनपने के लिए इंजीनियर किया गया, इस तरह के युद्ध कीड़े प्रदूषित इलाके के संपर्क में आने के बाद तेज़ी से चलते हैं।</Spelopede.description>
+  <Spelopede.description>एक भेड़ के आकार का मध्यम आकार का जैव-अभियांत्रिकी कीट-प्राणी। गुफा-कीट एक छत्ते की मध्य जाति है, जो अपने खोदने वाले पंजों से अधिकांश कार्य कार्यों के साथ-साथ लड़ने का भी काम संभालती है। यह युद्ध में खतरनाक है, लेकिन खुले मैदान में धीमी गति वाली है।\n\nमेकैनॉइड द्वारा तबाह किए गए वातावरण में पनपने के लिए निर्मित, इस तरह के युद्ध कीट प्रदूषित भूभाग के संपर्क में आने के बाद अधिक तेज़ी से चलते हैं।</Spelopede.description>
   <!-- EN: head claw -->
-  <Spelopede.tools.head_claw.label>पंजा</Spelopede.tools.head_claw.label>
+  <Spelopede.tools.head_claw.label>सिर का पंजा</Spelopede.tools.head_claw.label>
   <!-- EN: head -->
   <Spelopede.tools.head.label>सिर</Spelopede.tools.head.label>
   

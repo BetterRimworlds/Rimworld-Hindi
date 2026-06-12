@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: ambrosia addiction -->
-  <AmbrosiaAddiction.label>अमृत व्यसन</AmbrosiaAddiction.label>
+  <AmbrosiaAddiction.label>अम्ब्रोसिया की लत</AmbrosiaAddiction.label>
   <!-- EN: A chemical addiction to ambrosia. Long-term presence of ambrosia has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of ambrosia, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <AmbrosiaAddiction.description>अमृत के प्रति रासायनिक लत। लंबे समय तक अमृत की उपस्थिति के कारण कोशिकीय स्तर पर तंत्रिका संबंधी अनुकूलन हो गया है, इसलिए मस्तिष्क अब दवा के बिना ठीक से कार्य नहीं कर सकता।\n\nनियमित अमृत की खुराक के बिना, वापसी के लक्षण शुरू हो जाएंगे। हालाँकि, लंबे समय तक परहेज मस्तिष्क को अपनी सामान्य स्थिति में वापस अनुकूलित करने के लिए मजबूर कर देगा, जिससे लत दूर हो जाएगी।</AmbrosiaAddiction.description>
+  <AmbrosiaAddiction.description>अम्ब्रोसिया की रासायनिक लत। अम्ब्रोसिया की दीर्घकालिक उपस्थिति ने कोशिकीय स्तर पर तंत्रिका संबंधी अनुकूलन पैदा कर दिए हैं, इसलिए मस्तिष्क अब इस दवा के बिना ठीक से कार्य नहीं कर सकता है।\n\nअम्ब्रोसिया की नियमित खुराक के बिना, विड्रॉल लक्षण शुरू हो जाएंगे। हालाँकि, लंबे समय तक परहेज करने से मस्तिष्क को अपनी सामान्य स्थिति में वापस अनुकूलित होने के लिए मजबूर होना पड़ेगा, जिससे लत दूर हो जाएगी।</AmbrosiaAddiction.description>
   <!-- EN: withdrawal -->
   <AmbrosiaAddiction.stages.withdrawal.label>निकासी</AmbrosiaAddiction.stages.withdrawal.label>
   
   <!-- EN: ambrosia warmth -->
-  <AmbrosiaHigh.label>अमृत गर्मी</AmbrosiaHigh.label>
+  <AmbrosiaHigh.label>अम्ब्रोसिया गर्माहट</AmbrosiaHigh.label>
   <!-- EN: Ambrosia chemicals in the bloodstream. It lifts the mood. -->
-  <AmbrosiaHigh.description>रक्तधारा में एम्ब्रोसिया रसायन। यह मनोदशा को बढ़ाता है।</AmbrosiaHigh.description>
+  <AmbrosiaHigh.description>रक्तप्रवाह में अम्ब्रोसिया रसायन। यह मनोदशा को बेहतर बनाता है।</AmbrosiaHigh.description>
   
   <!-- EN: ambrosia tolerance -->
-  <AmbrosiaTolerance.label>अमृत सहनशीलता</AmbrosiaTolerance.label>
+  <AmbrosiaTolerance.label>अम्ब्रोसिया सहनशीलता</AmbrosiaTolerance.label>
   <!-- EN: A built-up tolerance to ambrosia. The more severe this tolerance is, the more ambrosia it takes to get the same effect. -->
-  <AmbrosiaTolerance.description>अमृत के प्रति सहनशीलता का निर्माण। यह सहनशीलता जितनी अधिक होगी, समान प्रभाव प्राप्त करने के लिए उतनी ही अधिक अमृत की आवश्यकता होगी।</AmbrosiaTolerance.description>
+  <AmbrosiaTolerance.description>अम्ब्रोसिया के प्रति विकसित सहनशीलता। यह सहनशीलता जितनी अधिक गंभीर होगी, समान प्रभाव प्राप्त करने के लिए उतने ही अधिक अम्ब्रोसिया की आवश्यकता होगी।</AmbrosiaTolerance.description>
   <!-- EN: small -->
   <AmbrosiaTolerance.stages.small.label>छोटा</AmbrosiaTolerance.stages.small.label>
   <!-- EN: large -->

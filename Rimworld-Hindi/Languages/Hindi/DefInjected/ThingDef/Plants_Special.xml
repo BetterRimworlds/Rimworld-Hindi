@@ -17,9 +17,9 @@
   <Dye.description>टिंक्टोरिया पौधे से निकाला गया रंग। इसका उपयोग दीवारों, इमारतों और अन्य चीज़ों का रंग बदलने के लिए किया जा सकता है।</Dye.description>
   
   <!-- EN: ambrosia bush -->
-  <Plant_Ambrosia.label>अमृत झाड़ी</Plant_Ambrosia.label>
+  <Plant_Ambrosia.label>अम्ब्रोसिया झाड़ी</Plant_Ambrosia.label>
   <!-- EN: A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods. -->
-  <Plant_Ambrosia.description>एक दुर्लभ जंगली झाड़ी जो अमृत फल देती है। अमृत फल स्वादिष्ट होता है और नशीले मूड बूस्ट का उत्पादन करता है। अमृत की खेती नहीं की जा सकती, जो जंगली अमृत के बागों को बहुत मूल्यवान बनाता है।\n\nइसकी दुर्लभता, सुंदरता और वांछनीयता के कारण ही अमृत का नाम प्राचीन ग्रीक देवताओं के भोजन के नाम पर रखा गया था।</Plant_Ambrosia.description>
+  <Plant_Ambrosia.description>एक दुर्लभ जंगली झाड़ी जो अम्ब्रोसिया फल प्रदान करती है। अम्ब्रोसिया फल स्वादिष्ट होता है और नशीले पदार्थ की तरह मनोदशा में वृद्धि करता है। अम्ब्रोसिया की खेती नहीं की जा सकती, जो जंगली अम्ब्रोसिया के झुरमुटों को बहुत मूल्यवान बनाता है।\n\nइसकी दुर्लभता, सुंदरता और वांछनीयता ही कारण है कि अम्ब्रोसिया का नाम प्राचीन ग्रीक देवताओं के भोजन के नाम पर रखा गया था।</Plant_Ambrosia.description>
   
   <!-- EN: timbershroom -->
   <Plant_Timbershroom.label>लकड़ी मशरूम</Plant_Timbershroom.label>

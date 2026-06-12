@@ -14,7 +14,7 @@
   <MessageRaidersStealing>{0} से {1} ने चोरी करने और चले जाने का फैसला किया है।</MessageRaidersStealing>
 
   <!-- EN: The mechanoids sense no more targets and are moving on. -->
-  <MechanoidsMovingOn>मेकैनॉइड्स को अब कोई लक्ष्य नहीं दिख रहा है और वे आगे बढ़ रहे हैं।</MechanoidsMovingOn>
+  <MechanoidsMovingOn>मेकैनॉइड्स को अब कोई लक्ष्य महसूस नहीं हो रहा है और वे आगे बढ़ रहे हैं।</MechanoidsMovingOn>
 
   <!-- EN: {0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}. -->
   <MessageCaravanDetectedRaidArrived>{0} से {1} आ गए हैं और हमला कर रहे हैं! और आ रहे हैं और {2} में पहुंचेंगे।</MessageCaravanDetectedRaidArrived>
@@ -175,7 +175,7 @@
   <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>पशु शैय्या उपलब्ध नहीं हैं।</MessageNoAnimalBeds>
   <!-- EN: Warning: {PAWN_nameDef}'s medicine restriction ({RESTRICTIONLABEL}) prevents doing this operation. Consider changing {PAWN_possessive} medicine restriction. -->
-  <MessageWarningNoMedicineForRestriction>चेतावनी: {PAWN_nameDef} की दवा प्रतिबंध ({RESTRICTIONLABEL}) इस ऑपरेशन को करने से रोकता है। {PAWN_possessive} दवा प्रतिबंध बदलने पर विचार करें।</MessageWarningNoMedicineForRestriction>
+  <MessageWarningNoMedicineForRestriction>चेतावनी: {PAWN_nameDef} की दवा संबंधी प्रतिबंध ({RESTRICTIONLABEL}) इस ऑपरेशन को करने से रोकता है। {PAWN_possessive} दवा संबंधी प्रतिबंध बदलने पर विचार करें।</MessageWarningNoMedicineForRestriction>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
   <PawnDiedBecauseOf>{PAWN_labelShort} की मृत्यु हो गई। कारण: {1}।</PawnDiedBecauseOf>
@@ -201,7 +201,7 @@
   <MessageGaveBirth>{0} ने जन्म दिया।</MessageGaveBirth>
   
   <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
-  <MessagePsylinkNoSensitivity>{PAWN_labelShort} साइकलिंक का उपयोग करने में सक्षम नहीं होगा क्योंकि {PAWN_pronoun} में शून्य मानसिक संवेदनशीलता है।</MessagePsylinkNoSensitivity>
+  <MessagePsylinkNoSensitivity>जब तक {PAWN_pronoun} की मानसिक संवेदनशीलता शून्य रहेगी, तब तक {PAWN_labelShort} साइलिंक का उपयोग नहीं कर पाएगा।</MessagePsylinkNoSensitivity>
   <!-- EN: {PAWN_labelShort} has lost a {1} implant level due to {2}. -->
   <MessageLostImplantLevelFromHediff>{PAWN_labelShort} ने {2} के कारण एक {1} इम्प्लांट स्तर खो दिया है।</MessageLostImplantLevelFromHediff>
   <!-- EN: {PAWN_labelShort} has suffered {1} points of brain damage due to {2}. -->
@@ -343,38 +343,38 @@
   <MessageRescueeDidntJoin>[PAWN_nameDef] ठीक हो गया है और जाने का फैसला किया है।</MessageRescueeDidntJoin>
   
   <!-- EN: Some transport pods are unreachable. -->
-  <MessageTransporterUnreachable>कुछ परिवहन पॉड अप्राप्य हैं।</MessageTransporterUnreachable>
+  <MessageTransporterUnreachable>कुछ परिवहन पॉड तक नहीं पहुँचा जा सकता।</MessageTransporterUnreachable>
   <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
-  <MessageTransportersNotAdjacent>चुने हुए परिवहन पॉड से जुड़े सभी पॉड लांचर आसन्न होने चाहिए।</MessageTransportersNotAdjacent>
+  <MessageTransportersNotAdjacent>चयनित परिवहन पॉड्स से जुड़े सभी पॉड लॉन्चर आस-पास होने चाहिए।</MessageTransportersNotAdjacent>
   
   <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
-  <MessageTransportersLoadCanceled_TransporterDestroyed>लोडिंग प्रक्रिया रद्द कर दी गई है क्योंकि एक परिवहन पॉड नष्ट हो गया है।</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <MessageTransportersLoadCanceled_TransporterDestroyed>लोडिंग प्रक्रिया रद्द कर दी गई है क्योंकि परिवहन पॉड्स में से एक नष्ट हो गया है।</MessageTransportersLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because the shuttle has been destroyed. -->
   <MessageTransporterSingleLoadCanceled_TransporterDestroyed>लोडिंग प्रक्रिया रद्द कर दी गई है क्योंकि शटल नष्ट हो गया है।</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
   <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>लोडिंग प्रक्रिया रद्द कर दी गई है क्योंकि एक पॉड लांचर नष्ट हो गया है।</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
   
   <!-- EN: Assigned items and people will now be loaded into the transport pods. -->
-  <MessageTransportersLoadingProcessStarted>नियुक्त वस्तुएं और लोग अब परिवहन पॉड में लोड किए जाएंगे।</MessageTransportersLoadingProcessStarted>
+  <MessageTransportersLoadingProcessStarted>निर्धारित वस्तुएं और लोग अब परिवहन पॉड्स में लोड किए जाएंगे।</MessageTransportersLoadingProcessStarted>
   <!-- EN: Assigned items and people will now be loaded into the transport pod. -->
-  <MessageTransporterSingleLoadingProcessStarted>नियुक्त वस्तुएं और लोग अब परिवहन पॉड में लोड किए जाएंगे।</MessageTransporterSingleLoadingProcessStarted>
+  <MessageTransporterSingleLoadingProcessStarted>निर्धारित वस्तुएं और लोग अब परिवहन पॉड में लोड किए जाएंगे।</MessageTransporterSingleLoadingProcessStarted>
   <!-- EN: Assigned items and people will now be loaded into the shuttle. -->
   <MessageShuttleLoadingProcessStarted>नियुक्त वस्तुएं और लोग अब शटल में लाद दिए जाएंगे।</MessageShuttleLoadingProcessStarted>
 
   <!-- EN: Your transport pods have arrived. -->
-  <MessageTransportPodsArrived>आपके परिवहन पॉड आ गए हैं।</MessageTransportPodsArrived>
+  <MessageTransportPodsArrived>आपके परिवहन पॉड पहुँच गए हैं।</MessageTransportPodsArrived>
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
-  <MessageTransportPodsArrivedAndLost>आपके परिवहन पॉड आ गए हैं, लेकिन चूंकि अंदर कोई उपनिवेशवादी नहीं थे, इसलिए सामग्री खो गई।</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndLost>आपके परिवहन पॉड आ गए हैं, लेकिन चूंकि उनके अंदर कोई उपनिवेशवादी नहीं थे, इसलिए सामग्री खो गई है।</MessageTransportPodsArrivedAndLost>
   <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
-  <MessageTransportPodsArrivedAndAddedToCaravan>आपके परिवहन पॉड आ गए हैं। सामग्री को {0} में जोड़ा गया है।</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageTransportPodsArrivedAndAddedToCaravan>आपके परिवहन पॉड पहुँच गए हैं। सामग्री को {0} में जोड़ दिया गया है।</MessageTransportPodsArrivedAndAddedToCaravan>
   
   <!-- EN: Transport pod loading complete. Launch when ready. -->
-  <MessageFinishedLoadingTransporters>परिवहन पोड लोडिंग पूर्ण। तैयार होने पर प्रक्षेपित करें।</MessageFinishedLoadingTransporters>
+  <MessageFinishedLoadingTransporters>परिवहन पॉड लोडिंग पूर्ण। तैयार होने पर लॉन्च करें।</MessageFinishedLoadingTransporters>
   <!-- EN: {SHUTTLE_label} is loaded with required cargo and can launch when ready. -->
   <MessageFinishedLoadingShuttle>{SHUTTLE_label} आवश्यक माल से भरा है और तैयार होने पर प्रक्षेपित हो सकता है।</MessageFinishedLoadingShuttle>
 
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
-  <MessageCantLoadMoreIntoTransporters>आपका {1} परिवहन पॉड लोड करना समाप्त नहीं कर सकता क्योंकि कुछ वस्तुएं या लोग अनुपलब्ध हो गए ({2_labelShort})।</MessageCantLoadMoreIntoTransporters>
+  <MessageCantLoadMoreIntoTransporters>आपका {1} ट्रांसपोर्ट पॉड्स की लोडिंग पूरी नहीं कर सकता क्योंकि कुछ वस्तुएं या लोग अनुपलब्ध हो गए हैं ({2_labelShort})।</MessageCantLoadMoreIntoTransporters>
   <!-- EN: Your {1} can't finish loading the shuttle because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoShuttle>आपका {1} शटल लोड करना पूरा नहीं कर सकता क्योंकि कुछ वस्तुएं या लोग अनुपलब्ध हो गए हैं ({2_labelShort}).</MessageCantLoadMoreIntoShuttle>
   <!-- EN: Your {1} can't finish entering the {0} because some items or people became unavailable ({2_labelShort}). -->
@@ -385,7 +385,7 @@
   <!-- EN: {OBJECT_labelCap} is not a valid destination. -->
   <MessageWorldObjectIsInvalid>{OBJECT_labelCap} मान्य गंतव्य नहीं है।</MessageWorldObjectIsInvalid>
   <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
-  <MessageTransportPodsDestinationIsTooFar>प्रत्येक पॉड लॉन्चर को इतनी दूर ट्रांसपोर्ट पॉड भेजने के लिए कम से कम {0}x रासायनिक ईंधन की आवश्यकता होगी।</MessageTransportPodsDestinationIsTooFar>
+  <MessageTransportPodsDestinationIsTooFar>प्रत्येक पॉड लॉन्चर को इतनी दूर ट्रांसपोर्ट पॉड्स भेजने के लिए कम से कम {0}x रासायनिक ईंधन की आवश्यकता होगी।</MessageTransportPodsDestinationIsTooFar>
   
   <!-- EN: The caravan has been reformed. -->
   <MessageReformedCaravan>कारवां का पुनर्निर्माण किया गया है।</MessageReformedCaravan>
@@ -430,9 +430,9 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{0} से {1} आपके {2} पर हमला कर रहे हैं।</MessageDefendersAttacking>
   <!-- EN: Mechanoids have been gestated and will defend their cluster. -->
-  <MessageMechanoidsAssembled>मेकैनॉइड्स का विकास हो गया है और वे अपने समूह की रक्षा करेंगे।</MessageMechanoidsAssembled>
+  <MessageMechanoidsAssembled>मेकैनॉइड्स को विकसित किया गया है और वे अपने क्लस्टर की रक्षा करेंगे।</MessageMechanoidsAssembled>
   <!-- EN: Remaining mechanoids to gestate -->
-  <MessageMechanoidsLeftToAssemble>शेष मेकैनॉइड्स को विकसित होना है।</MessageMechanoidsLeftToAssemble>
+  <MessageMechanoidsLeftToAssemble>प्रजनन के लिए शेष मेकैनॉइड्स</MessageMechanoidsLeftToAssemble>
   <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
   <MessageMechanoidsReinforcementsDrop>मैक ड्रॉप बीकन ने पास में ड्रॉप पॉड में सुदृढीकरण को बुलाया है।</MessageMechanoidsReinforcementsDrop>
 
@@ -653,7 +653,7 @@
   <MessageStrippingWillAngerFaction>चेतावनी: {PAWN_nameDef} को छीनने से {PAWN_factionName} क्रोधित हो जाएगा।</MessageStrippingWillAngerFaction>
 
   <!-- EN: Cannot shoot in melee. -->
-  <MessageCantShootInMelee>निकट युद्ध में गोली चलाना संभव नहीं है।</MessageCantShootInMelee>
+  <MessageCantShootInMelee>नज़दीकी युद्ध में गोली नहीं चला सकते।</MessageCantShootInMelee>
 
   <!-- EN: None of your {0} can accept this quest now. -->
   <MessageNoColonistCanAcceptQuest>इनमें से कोई भी {0} अब इस खोज को स्वीकार नहीं कर सकता।</MessageNoColonistCanAcceptQuest>
@@ -757,9 +757,9 @@
   <!-- EN: this role cannot be played by someone else. -->
   <MessageRitualRoleCannotReplaceRequiredPawn>यह भूमिका किसी और द्वारा नहीं निभाई जा सकती।</MessageRitualRoleCannotReplaceRequiredPawn>
   <!-- EN: {0_labelShort} cannot connect to a Gauranlen tree because {0_possessive} connection was recently torn. -->
-  <MessageRitualRolePawnRecentlyTornConnection>{0_labelShort} एक गौरवलेन पेड़ से जुड़ नहीं सकता क्योंकि {0_possessive} कनेक्शन हाल ही में टूट गया था।</MessageRitualRolePawnRecentlyTornConnection>
+  <MessageRitualRolePawnRecentlyTornConnection>{0_labelShort} एक गौरालेन वृक्ष से नहीं जुड़ सकता क्योंकि इसका संबंध हाल ही में टूट गया है।</MessageRitualRolePawnRecentlyTornConnection>
   <!-- EN: {0_labelShort} has the same ideoligion as the converter. -->
-  <MessageRitualRolePawnHasSameIdeo>{0_labelShort} परिवर्तक के समान विचारधारा रखता है।</MessageRitualRolePawnHasSameIdeo>
+  <MessageRitualRolePawnHasSameIdeo>{0_labelShort} का विचारधारा (ideoligion) परिवर्तक के समान ही है।</MessageRitualRolePawnHasSameIdeo>
   <!-- EN: {0_labelShort} must be capable of wardening. -->
   <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort} को पहरा देने में सक्षम होना चाहिए।</MessageRitualRoleMustBeCapableOfWardening>
   <!-- EN: {0} must be capable of {1}. -->

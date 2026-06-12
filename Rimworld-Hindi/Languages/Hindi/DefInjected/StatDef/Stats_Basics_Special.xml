@@ -50,13 +50,13 @@
   <PsychicEntropyRecoveryRateOffset.formatString>{0} प्रति सेकंड</PsychicEntropyRecoveryRateOffset.formatString>
   
   <!-- EN: psychic sensitivity factor -->
-  <PsychicSensitivityFactor.label>मानसिक संवेदनशीलता गुणक</PsychicSensitivityFactor.label>
+  <PsychicSensitivityFactor.label>मानसिक संवेदनशीलता कारक</PsychicSensitivityFactor.label>
   <!-- EN: A factor applied to the user's psychic sensitivity. -->
-  <PsychicSensitivityFactor.description>उपयोगकर्ता की मानसिक संवेदनशीलता पर लागू एक कारक।</PsychicSensitivityFactor.description>
+  <PsychicSensitivityFactor.description>उपयोगकर्ता की मानसिक संवेदनशीलता पर लागू किया गया एक कारक।</PsychicSensitivityFactor.description>
   
   <!-- EN: psychic sensitivity offset -->
-  <PsychicSensitivityOffset.label>मानसिक संवेदनशीलता अंतर</PsychicSensitivityOffset.label>
+  <PsychicSensitivityOffset.label>मानसिक संवेदनशीलता विचलन</PsychicSensitivityOffset.label>
   <!-- EN: An offset applied to the user's psychic sensitivity. -->
-  <PsychicSensitivityOffset.description>उपयोगकर्ता की मानसिक संवेदनशीलता पर लागू एक बदलाव।</PsychicSensitivityOffset.description>
+  <PsychicSensitivityOffset.description>उपयोगकर्ता की मानसिक संवेदनशीलता पर लागू एक ऑफसेट।</PsychicSensitivityOffset.description>
   
 </LanguageData>

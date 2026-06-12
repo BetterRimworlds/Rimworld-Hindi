@@ -19,7 +19,7 @@
   <!-- EN: boomalope -->
   <Boomalope.label>बूमालोप</Boomalope.label>
   <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
-  <Boomalope.description>रासायनिक उत्पादन के लिए इंजीनियर किया गया, बूमलोप अपनी पीठ पर अस्थिर रसायनों की एक बड़ी थैली उगाता है। अपने आकार के लिए कमजोर और नाजुक होने के बावजूद, अन्य जानवरों ने इसके मरने पर होने वाले विशाल विस्फोट के कारण इससे बचना सीख लिया है। इसे सावधानीपूर्वक दुधा निकालकर केमफ्यूल प्राप्त किया जा सकता है।</Boomalope.description>
+  <Boomalope.description>रसायनों के उत्पादन के लिए निर्मित, बूमालोप अपनी पीठ पर अस्थिर रसायनों की एक बड़ी थैली विकसित करता है। हालांकि यह अपने आकार के हिसाब से कमजोर और नाजुक होता है, लेकिन अन्य जानवरों ने मरने पर होने वाले विशाल विस्फोट के कारण इससे बचना सीख लिया है। रासायनिक ईंधन का उत्पादन करने के लिए इसे दुहा जा सकता है - बहुत सावधानी से।</Boomalope.description>
   <!-- EN: head -->
   <Boomalope.tools.head.label>सिर</Boomalope.tools.head.label>
   <!-- EN: left hoof -->
@@ -27,7 +27,7 @@
   <!-- EN: hoof -->
   <Boomalope.tools.left_hoof.labelNoLocation>खुर</Boomalope.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
-  <Boomalope.tools.right_hoof.label>दाहिना खुर</Boomalope.tools.right_hoof.label>
+  <Boomalope.tools.right_hoof.label>दायां खुर</Boomalope.tools.right_hoof.label>
   <!-- EN: hoof -->
   <Boomalope.tools.right_hoof.labelNoLocation>खुर</Boomalope.tools.right_hoof.labelNoLocation>
   
@@ -152,7 +152,7 @@
   <!-- EN: muffalo -->
   <Muffalo.label>मफ्फालो</Muffalo.label>
   <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
-  <Muffalo.description>बफ़ेलो से उतरे और ठंडे और गर्म दोनों वातावरणों के लिए अनुकूलित एक बड़ा झुंड वाला शाकाहारी जानवर। क्रोधित मफ्फालो घातक होते हैं, जबकि पालतू मफ्फालो काफी शांत होते हैं और उन्हें पैक जानवरों के रूप में इस्तेमाल किया जा सकता है।\n\nकोई निश्चित रूप से नहीं जानता कि वे नीले क्यों हैं—यह संभवतः एक प्रारंभिक आनुवंशिक संशोधन परीक्षण भी हो सकता है जिसे कभी बदला नहीं गया।</Muffalo.description>
+  <Muffalo.description>भैंसों से उत्पन्न एक बड़ा झुंड में रहने वाला शाकाहारी जीव जो ठंडे और गर्म दोनों वातावरणों के अनुकूल ढल गया है। हालाँकि क्रोधित मफ्फालो घातक होते हैं, पालतू मफ्फालो काफी शांत होते हैं और उन्हें भार ढोने वाले जानवरों के रूप में उपयोग किया जा सकता है।\n\nकोई भी पूरी तरह से निश्चित नहीं है कि वे नीले क्यों हैं - यह शायद कोई प्रारंभिक आनुवंशिक संशोधन परीक्षण भी हो सकता है जिसे कभी बदला ही नहीं गया।</Muffalo.description>
   <!-- EN: head -->
   <Muffalo.tools.head.label>सिर</Muffalo.tools.head.label>
   <!-- EN: left hoof -->
@@ -160,7 +160,7 @@
   <!-- EN: hoof -->
   <Muffalo.tools.left_hoof.labelNoLocation>खुर</Muffalo.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
-  <Muffalo.tools.right_hoof.label>दाहिना खुर</Muffalo.tools.right_hoof.label>
+  <Muffalo.tools.right_hoof.label>दायां खुर</Muffalo.tools.right_hoof.label>
   <!-- EN: hoof -->
   <Muffalo.tools.right_hoof.labelNoLocation>खुर</Muffalo.tools.right_hoof.labelNoLocation>
   

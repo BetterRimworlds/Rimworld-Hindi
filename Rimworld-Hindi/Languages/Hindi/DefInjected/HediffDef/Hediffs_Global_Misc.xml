@@ -42,14 +42,14 @@
   <CatatonicBreakdown.labelNoun>कैटैटोनिक टूटन</CatatonicBreakdown.labelNoun>
   
   <!-- EN: covered in firefoam -->
-  <CoveredInFirefoam.label>अग्नि-फोम से ढका</CoveredInFirefoam.label>
+  <CoveredInFirefoam.label>फायरफोम से ढका हुआ</CoveredInFirefoam.label>
   <!-- EN: Covered in a fire-retardant foam. -->
   <CoveredInFirefoam.description>अग्नि-प्रतिरोधी फोम से ढका हुआ।</CoveredInFirefoam.description>
   
   <!-- EN: cryptosleep sickness -->
   <CryptosleepSickness.label>क्रिप्टोस्लीप बीमारी</CryptosleepSickness.label>
   <!-- EN: After-effects of using a cryptosleep pod. Cryptosleep suspends and replaces many bodily functions in order to prevent aging and death. Upon exiting cryptosleep, the body takes time to restart and rebalance its natural metabolic processes. While this is ongoing, the patient suffers from nausea, dizziness, and a sense of fuzziness in the mind. -->
-  <CryptosleepSickness.description>क्रिप्टोस्लीप पॉड के उपयोग के बाद होने वाले प्रभाव। क्रिप्टोस्लीप उम्र बढ़ने और मृत्यु को रोकने के लिए कई शारीरिक कार्यों को निलंबित और प्रतिस्थापित कर देता है। क्रिप्टोस्लीप से बाहर निकलने पर, शरीर को पुनः आरंभ करने और अपने प्राकृतिक चयापचय प्रक्रियाओं को संतुलित करने में समय लगता है। इस प्रक्रिया के दौरान, मरीज़ को मतली, चक्कर आना और मन में धुंधलापन महसूस होता है।</CryptosleepSickness.description>
+  <CryptosleepSickness.description>क्रिप्टोस्लीप पॉड के उपयोग के बाद के प्रभाव। बुढ़ापे और मृत्यु को रोकने के लिए क्रिप्टोस्लीप कई शारीरिक कार्यों को निलंबित और प्रतिस्थापित कर देता है। क्रिप्टोस्लीप से बाहर निकलने पर, शरीर को अपनी प्राकृतिक चयापचय प्रक्रियाओं को पुनरारंभ करने और पुनर्संतुलित करने में समय लगता है। जब तक यह प्रक्रिया जारी रहती है, रोगी मतली, चक्कर आने और मस्तिष्क में धुंधलेपन के अहसास से पीड़ित होता है।</CryptosleepSickness.description>
   <!-- EN: After-effects of using a cryptosleep pod including dizziness, nausea, and vomiting. -->
   <CryptosleepSickness.descriptionShort>क्रिप्टोस्लीप पॉड के उपयोग के बाद के प्रभाव जिनमें चक्कर आना, मतली और उल्टी शामिल हैं।</CryptosleepSickness.descriptionShort>
   
@@ -112,16 +112,16 @@
   <!-- EN: psychic coma -->
   <PsychicComa.label>मानसिक कोमा</PsychicComa.label>
   <!-- EN: A form of benign coma during which the brain recovers from a psychic overload. -->
-  <PsychicComa.description>मानसिक अधिभार से उबरने के दौरान मस्तिष्क की एक सौम्य कोमा अवस्था।</PsychicComa.description>
+  <PsychicComa.description>एक प्रकार की सौम्य कोमा अवस्था जिसमें मस्तिष्क साइकिक ओवरलोड से उबरता है।</PsychicComa.description>
   <!-- EN: a psychic coma -->
   <PsychicComa.labelNoun>मानसिक कोमा</PsychicComa.labelNoun>
   
   <!-- EN: psychic hangover -->
-  <PsychicHangover.label>मानसिक थकान</PsychicHangover.label>
+  <PsychicHangover.label>मानसिक हैंगओवर</PsychicHangover.label>
   <!-- EN: An after-effect of neural heat. Psychic hangover is bothersome, but not dangerous. -->
-  <PsychicHangover.description>तंत्रिका ताप का एक परिणाम। मानसिक हैंगओवर परेशान करने वाला है, लेकिन खतरनाक नहीं है।</PsychicHangover.description>
+  <PsychicHangover.description>न्यूरल हीट का एक दुष्प्रभाव। साइकिक हैंगओवर कष्टप्रद है, लेकिन खतरनाक नहीं।</PsychicHangover.description>
   <!-- EN: a psychic hangover -->
-  <PsychicHangover.labelNoun>मानसिक थकान</PsychicHangover.labelNoun>
+  <PsychicHangover.labelNoun>मानसिक हैंगओवर</PsychicHangover.labelNoun>
   <!-- EN: forming -->
   <PsychicHangover.stages.forming.label>बन रहा</PsychicHangover.stages.forming.label>
   <!-- EN: buzzing -->
@@ -135,7 +135,7 @@
   <!-- EN: psychic shock -->
   <PsychicShock.label>मानसिक आघात</PsychicShock.label>
   <!-- EN: A state of psychic chaos in the brain and mind. Caused by psychic attacks or critical level of neural heat, this effect is debilitating until it wears off. -->
-  <PsychicShock.description>मस्तिष्क और मन में मानसिक अराजकता की स्थिति। मानसिक हमलों या तंत्रिका ताप के गंभीर स्तर के कारण होने वाला यह प्रभाव, ठीक होने तक दुर्बल करने वाला होता है।</PsychicShock.description>
+  <PsychicShock.description>मस्तिष्क और मन में मनोवैज्ञानिक अराजकता की एक स्थिति। मनोवैज्ञानिक हमलों या तंत्रिका ऊष्मा के गंभीर स्तर के कारण होने वाला यह प्रभाव, इसके समाप्त होने तक दुर्बल करने वाला होता है।</PsychicShock.description>
   <!-- EN: a psychic shock -->
   <PsychicShock.labelNoun>मानसिक आघात</PsychicShock.labelNoun>
   

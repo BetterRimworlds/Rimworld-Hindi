@@ -104,7 +104,7 @@
   <CorpsesInsect.label>कीट लाशें</CorpsesInsect.label>
   
   <!-- EN: mechanoid corpses -->
-  <CorpsesMechanoid.label>मेकैनॉइड लाशें</CorpsesMechanoid.label>
+  <CorpsesMechanoid.label>मेकैनॉइड शव</CorpsesMechanoid.label>
   
   <!-- EN: drugs -->
   <Drugs.label>दवाएँ</Drugs.label>
@@ -155,7 +155,7 @@
   <Medicine.label>दवा</Medicine.label>
   
   <!-- EN: mortar shells -->
-  <MortarShells.label>मोर्टार गोले</MortarShells.label>
+  <MortarShells.label>मोर्टार शेल</MortarShells.label>
   
   <!-- EN: neurotrainers -->
   <Neurotrainers.label>न्यूरो प्रशिक्षक</Neurotrainers.label>
@@ -212,7 +212,7 @@
   <WeaponsMelee.label>नज़दीकी युद्ध हथियार</WeaponsMelee.label>
   
   <!-- EN: persona weapons -->
-  <WeaponsMeleeBladelink.label>व्यक्तिगत हथियार</WeaponsMeleeBladelink.label>
+  <WeaponsMeleeBladelink.label>व्यक्तित्व हथियार</WeaponsMeleeBladelink.label>
   
   <!-- EN: ranged weapons -->
   <WeaponsRanged.label>दूरस्थ हथियार</WeaponsRanged.label>

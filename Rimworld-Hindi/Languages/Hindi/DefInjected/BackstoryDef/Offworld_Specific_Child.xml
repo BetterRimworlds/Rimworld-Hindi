@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] was born during a time of unrest on [PAWN_possessive] homeworld, as climate change threatened mass starvation and flooding. As [PAWN_pronoun] grew up the situation worsened - billions died and peaceful states descended into anarchy. [PAWN_nameDef] and [PAWN_possessive] parents did whatever they had to do to survive. -->
-  <ApocalypseSurvivor23.description>{PAWN_gender ? [PAWN_nameDef] अपने गृह ग्रह पर अशांति के समय पैदा हुई थीं, क्योंकि जलवायु परिवर्तन ने बड़े पैमाने पर भुखमरी और बाढ़ का खतरा पैदा कर दिया था। जैसे-जैसे वह बड़ी हुईं, स्थिति और खराब होती गई - अरबों लोग मर गए और शांतिपूर्ण राज्य अराजकता में डूब गए। [PAWN_nameDef] और उनके माता-पिता ने जीवित रहने के लिए जो कुछ भी करना पड़ा, किया। : [PAWN_nameDef] अपने गृह ग्रह पर अशांति के समय पैदा हुआ था, क्योंकि जलवायु परिवर्तन ने बड़े पैमाने पर भुखमरी और बाढ़ का खतरा पैदा कर दिया था। जैसे-जैसे वह बड़ा हुआ, स्थिति और खराब होती गई - अरबों लोग मर गए और शांतिपूर्ण राज्य अराजकता में डूब गए। [PAWN_nameDef] और उसके माता-पिता ने जीवित रहने के लिए जो कुछ भी करना पड़ा, किया।}</ApocalypseSurvivor23.description>
+  <ApocalypseSurvivor23.description>{PAWN_gender ? [PAWN_nameDef] का जन्म अपने गृह ग्रह पर अशांति के समय हुआ था, जब जलवायु परिवर्तन बड़े पैमाने पर भुखमरी और बाढ़ का खतरा पैदा कर रहा था। जैसे-जैसे वह बड़ी हुई, स्थिति और खराब होती गई - अरबों लोग मारे गए और शांतिपूर्ण राज्य अराजकता में बदल गए। [PAWN_nameDef] और उसके माता-पिता ने जीवित रहने के लिए जो कुछ भी आवश्यक था, वह किया। : [PAWN_nameDef] का जन्म अपने गृह ग्रह पर अशांति के समय हुआ था, जब जलवायु परिवर्तन बड़े पैमाने पर भुखमरी और बाढ़ के खतरे पैदा कर रहा था। जैसे-जैसे वह बड़ा हुआ स्थिति और खराब होती गई - अरबों लोग मारे गए और शांतिपूर्ण राज्य अराजकता में बदल गए। [PAWN_nameDef] और उसके माता-पिता ने जीवित रहने के लिए जो कुछ भी आवश्यक था, वह किया।}</ApocalypseSurvivor23.description>
   <!-- EN: apocalypse survivor -->
   <ApocalypseSurvivor23.title>प्रलय उत्तरजीवी</ApocalypseSurvivor23.title>
   <ApocalypseSurvivor23.titleFemale>प्रलय उत्तरजीवी</ApocalypseSurvivor23.titleFemale>
@@ -29,10 +29,10 @@
   <CaveworldTunneler48.titleShortFemale>सुरंग खोदने वाली</CaveworldTunneler48.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] never knew [PAWN_possessive] parents. [PAWN_possessive] earliest memories were of drudgery in the mines and workhouses of [PAWN_possessive] industrial world.\n\nBecause of this, [PAWN_pronoun] never received a proper education. -->
-  <IndustrialOrphan13.description>{PAWN_gender ? [PAWN_nameDef] को कभी अपने माता-पिता का पता नहीं चला। उसकी शुरुआती यादें उसके औद्योगिक दुनिया के खानों और वर्कहाउसों में की गई कड़ी मेहनत की हैं।\n\nइसी वजह से, उसे कभी उचित शिक्षा नहीं मिल पाई। : [PAWN_nameDef] को कभी अपने माता-पिता का पता नहीं चला। उसकी शुरुआती यादें उसके औद्योगिक दुनिया के खानों और कार्यशालाओं में की गई कड़ी मेहनत की हैं।\n\nइसी वजह से, उसे कभी उचित शिक्षा नहीं मिल पाई।}</IndustrialOrphan13.description>
+  <IndustrialOrphan13.description>{PAWN_gender ? [PAWN_nameDef] ने अपने माता-पिता को कभी नहीं जाना। उसकी सबसे पुरानी यादें उसके औद्योगिक युग की खदानों और कार्यशालाओं में किए गए कठिन परिश्रम की थीं।\n\nइस कारण से, उसे कभी उचित शिक्षा नहीं मिल सकी। : [PAWN_nameDef] अपने माता-पिता को कभी नहीं जान पाया। उसकी शुरुआती यादें उसके औद्योगिक युग की खानों और कार्यशालाओं में किए गए कठिन परिश्रम की थीं।\n\nइस कारण से, उसे कभी उचित शिक्षा नहीं मिल सकी।}</IndustrialOrphan13.description>
   <!-- EN: industrial orphan -->
-  <IndustrialOrphan13.title>औद्योगिक अनाथ</IndustrialOrphan13.title>
-  <IndustrialOrphan13.titleFemale>औद्योगिक अनाथ</IndustrialOrphan13.titleFemale>
+  <IndustrialOrphan13.title>औद्योगिक युग का अनाथ</IndustrialOrphan13.title>
+  <IndustrialOrphan13.titleFemale>औद्योगिक युग की अनाथ</IndustrialOrphan13.titleFemale>
   <!-- EN: orphan -->
   <IndustrialOrphan13.titleShort>अनाथ बालक</IndustrialOrphan13.titleShort>
   <IndustrialOrphan13.titleShortFemale>अनाथ लड़की</IndustrialOrphan13.titleShortFemale>
@@ -56,17 +56,17 @@
   <ShelterChild50.titleShortFemale>आश्रित बालिका</ShelterChild50.titleShortFemale>
   
   <!-- EN: On the most corrupt urbworlds, scientists without a moral compass commit unspeakable atrocities in the name of research. [PAWN_nameDef] was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn [PAWN_objective] into a perfect super-soldier. -->
-  <TestSubject15.description>वैज्ञानिकों ने सबसे भ्रष्ट शहरी दुनियाओं में नैतिकताहीन होकर अनुसंधान के नाम पर अकल्पनीय अत्याचार किए। [PAWN_nameDef] को जन्म से ही एक सीलबंद सुविधा में अकेले रखा गया था और उसे एक आदर्श सुपर-सैनिक बनाने के प्रयास में विभिन्न व्यवहारिक प्रयोगों के अधीन किया गया था।</TestSubject15.description>
+  <TestSubject15.description>{PAWN_gender ? सबसे भ्रष्ट शहरी दुनियाएँ में, बिना किसी नैतिक दिशा-निर्देश वाले वैज्ञानिक अनुसंधान के नाम पर अकथनीय अत्याचार करते हैं। [PAWN_nameDef] को जन्म से ही एक सीलबंद सुविधा में अकेला रखा गया था और उसे एक आदर्श सुपर-सैनिक में बदलने के प्रयास में विभिन्न प्रकार के व्यवहार संबंधी प्रयोगों का शिकार बनाया गया था। : सबसे भ्रष्ट शहरी दुनियाएँ में, बिना किसी नैतिक दिशा-निर्देश वाले वैज्ञानिक शोध के नाम पर अकथनीय अत्याचार करते हैं। [PAWN_nameDef] को जन्म से ही एक सीलबंद सुविधा में अकेला रखा गया था और उसे एक आदर्श सुपर-सैनिक बनाने के प्रयास में विभिन्न प्रकार के व्यवहार संबंधी प्रयोगों का शिकार बनाया गया था।}</TestSubject15.description>
   <!-- EN: test subject -->
   <TestSubject15.title>परीक्षण विषय</TestSubject15.title>
   <!-- EN: testee -->
   <TestSubject15.titleShort>{PAWN_gender ? परीक्षार्थी महिला : परीक्षार्थी}</TestSubject15.titleShort>
   
   <!-- EN: The urbworlds - ancient and deep industrial cityscapes bursting with humanity and poison. [PAWN_nameDef] grew up in the dark, unwanted reaches of such a place. [PAWN_pronoun] had to fight for every scrap of food. -->
-  <UrbworldUrchin61.description>शहरी दुनियाँ—प्राचीन और गहन औद्योगिक परिदृश्य जो मानवता और विष से भरे हुए हैं। [PAWN_nameDef] का पालन-पोषण ऐसे स्थान के अंधेरे, अवांछित कोनों में हुआ। उसे हर टुकड़े भोजन के लिए लड़ना पड़ा।</UrbworldUrchin61.description>
+  <UrbworldUrchin61.description>{PAWN_gender ? शहरी दुनियाएँ - प्राचीन और गहरी औद्योगिक युग की शहरनुमा आकृतियाँ जो मानवता और ज़हर से भरी हुई हैं। [PAWN_nameDef] ऐसी ही किसी जगह के अंधेरे, अवांछित छोरों में पली-बढ़ी। उसे भोजन के हर एक टुकड़े के लिए लड़ना पड़ा। : शहरी दुनियाएँ - प्राचीन और गहरी औद्योगिक युग की शहरनुमा आकृतियाँ जो मानवता और ज़हर से भरी हुई हैं। [PAWN_nameDef] ऐसी ही किसी जगह के अंधेरे, अवांछित छोरों में पला-बढ़ा। उसे भोजन के हर एक टुकड़े के लिए लड़ना पड़ा।}</UrbworldUrchin61.description>
   <!-- EN: urbworld urchin -->
-  <UrbworldUrchin61.title>शहरी आवारा</UrbworldUrchin61.title>
-  <UrbworldUrchin61.titleFemale>शहरी आवारा</UrbworldUrchin61.titleFemale>
+  <UrbworldUrchin61.title>शहरी दुनिया का अनाथ बच्चा</UrbworldUrchin61.title>
+  <UrbworldUrchin61.titleFemale>शहरी दुनिया की अनाथ बच्ची</UrbworldUrchin61.titleFemale>
   <!-- EN: urchin -->
   <UrbworldUrchin61.titleShort>भिखारी बालक</UrbworldUrchin61.titleShort>
   <UrbworldUrchin61.titleShortFemale>बेघर लड़की</UrbworldUrchin61.titleShortFemale>

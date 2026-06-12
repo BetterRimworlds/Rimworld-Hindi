@@ -65,7 +65,7 @@
   <FireKeeper44.titleShortFemale>अग्नि रक्षक</FireKeeper44.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] tended the muffalo herds, keeping them safe from predators and treating sick animals. It was quiet work, but [PAWN_pronoun] enjoyed being away from people. -->
-  <Herder19.description>{PAWN_gender ? पशुपालक ने मफ़ालो झुंड की देखभाल की, उन्हें शिकारियों से सुरक्षित रखा और बीमार जानवरों का इलाज किया। यह शांत काम था, लेकिन उसे लोगों से दूर रहना पसंद था। : [PAWN_nameDef] ने मफ़ालो झुंडों की देखभाल की, उन्हें शिकारियों से सुरक्षित रखा और बीमार जानवरों का इलाज किया। यह शांत काम था, लेकिन उसे लोगों से दूर रहना पसंद था।}</Herder19.description>
+  <Herder19.description>{PAWN_gender ? [PAWN_nameDef] मफ्फालो के झुंडों की देखभाल करती थी, उन्हें शिकारियों से सुरक्षित रखती थी और बीमार जानवरों का इलाज करती थी। यह शांत काम था, लेकिन उसे लोगों से दूर रहना पसंद था। : [PAWN_nameDef] मफ्फालो के झुंडों की देखभाल करता था, उन्हें शिकारियों से सुरक्षित रखता था और बीमार जानवरों का उपचार करता था। यह शांत काम था, लेकिन उसे लोगों से दूर रहना पसंद था।}</Herder19.description>
   <!-- EN: herder -->
   <Herder19.title>पशुपालक</Herder19.title>
   <Herder19.titleFemale>पशुचारिणी</Herder19.titleFemale>
@@ -109,7 +109,7 @@
   <SoleSurvivor21.titleShort>उत्तरजीवी</SoleSurvivor21.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up in a tribe, running around the village, moving with the muffalo herds, learning essential skills from [PAWN_possessive] parents.\n\n[PAWN_pronoun] never learned to read and never saw a machine that wasn't an ancient ruin. -->
-  <TribeChild40.description>{PAWN_gender ? [PAWN_nameDef] एक जनजाति में पली-बढ़ी, गाँव के चारों ओर दौड़ती हुई, मफ़ालो झुंडों के साथ घूमती हुई, अपने माता-पिता से आवश्यक कौशल सीखती हुई।\n\nउसने कभी पढ़ना नहीं सीखा और उसने कभी भी ऐसी मशीन नहीं देखी जो प्राचीन खंडहर न हो। : [PAWN_nameDef] एक जनजाति में बड़ा हुआ, गाँव के चारों ओर दौड़ता हुआ, मफलो झुंडों के साथ घूमता हुआ, अपने माता-पिता से आवश्यक कौशल सीखता हुआ।\n\nउसने कभी पढ़ना नहीं सीखा और कभी भी ऐसी मशीन नहीं देखी जो प्राचीन खंडहर न हो।}</TribeChild40.description>
+  <TribeChild40.description>{PAWN_gender ? [PAWN_nameDef] एक जनजाति में पली-बढ़ी, गाँव में इधर-उधर दौड़ते हुए, मफ्फालो के झुंडों के साथ चलते हुए, अपने माता-पिता से आवश्यक कौशल सीखते हुए।\n\nउसने कभी पढ़ना नहीं सीखा और उसने कभी ऐसी मशीन नहीं देखी जो कोई प्राचीन अवशेष न हो। : [PAWN_nameDef] एक जनजाति में पला-बढ़ा, गाँव में इधर-उधर दौड़ते हुए, मफ्फालो के झुंडों के साथ चलते हुए, और अपने माता-पिता से आवश्यक कौशल सीखते हुए।\n\nउसने कभी पढ़ना नहीं सीखा और उसने कभी ऐसी कोई मशीन नहीं देखी जो किसी प्राचीन अवशेष के अलावा कुछ न हो।}</TribeChild40.description>
   <!-- EN: tribe child -->
   <TribeChild40.title>जनजातीय बालक</TribeChild40.title>
   <TribeChild40.titleFemale>जनजातीय बालिका</TribeChild40.titleFemale>

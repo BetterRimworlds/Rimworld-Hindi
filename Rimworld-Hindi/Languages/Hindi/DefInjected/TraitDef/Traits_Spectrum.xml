@@ -117,19 +117,19 @@
   <!-- EN: psychically hypersensitive -->
   <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>मानसिक संवेदनशीलता</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
   <!-- EN: [PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>{PAWN_gender ? [PAWN_nameDef] का मन एक मानसिक ट्यूनिंग कांटा जैसा है। वह मानसिक घटनाओं के प्रति अत्यधिक संवेदनशील है। : [PAWN_nameDef] का दिमाग एक मानसिक ट्यूनिंग कांटा जैसा है। वह मानसिक घटनाओं के प्रति अत्यधिक संवेदनशील है।}</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>[PAWN_nameDef] का मन एक साइकिक ट्यूनिंग फोर्क की तरह है। वह मानसिक घटनाओं के प्रति अत्यंत संवेदनशील है।</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
   <!-- EN: psychically sensitive -->
   <PsychicSensitivity.degreeDatas.psychically_sensitive.label>मानसिक संवेदनशीलता</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
   <!-- EN: [PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>[PAWN_nameDef] की मानसिक क्षमताएं मानसिक घटनाओं के प्रति असाधारण रूप से संवेदनशील हैं।</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>[PAWN_nameDef] का मन मानसिक घटनाओं के प्रति असामान्य रूप से संवेदनशील है।</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
   <!-- EN: psychically dull -->
   <PsychicSensitivity.degreeDatas.psychically_dull.label>मानसिक मंदता</PsychicSensitivity.degreeDatas.psychically_dull.label>
   <!-- EN: [PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_dull.description>{PAWN_gender ? [PAWN_nameDef] की मानसिक क्षमता दूसरों से तालमेल नहीं बिठा पाती है। वह मानसिक घटनाओं से उतनी प्रभावित नहीं होती है। : [PAWN_nameDef] का मन दूसरों के साथ मानसिक रूप से तालमेल बिठाने में असमर्थ है। वह मानसिक घटनाओं से उतना प्रभावित नहीं होता है।}</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>{PAWN_gender ? [PAWN_nameDef] का मन दूसरों के साथ मानसिक रूप से तालमेल नहीं बिठा पाता है। वह मानसिक घटनाओं से उतनी प्रभावित नहीं होती है। : [PAWN_nameDef] का मन दूसरों के साथ मानसिक रूप से तालमेल नहीं बिठा पाता है। वह मानसिक घटनाओं से उतना प्रभावित नहीं होता है।}</PsychicSensitivity.degreeDatas.psychically_dull.description>
   <!-- EN: psychically deaf -->
   <PsychicSensitivity.degreeDatas.psychically_deaf.label>मानसिक बहरापन</PsychicSensitivity.degreeDatas.psychically_deaf.label>
   <!-- EN: [PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_deaf.description>{PAWN_gender ? [PAWN_nameDef] की मानसिकता दूसरों से अलग मानसिक आवृत्ति पर काम करती है। वह मानसिक घटनाओं से प्रभावित ही नहीं होती है। : [PAWN_nameDef] का दिमाग़ दूसरों से अलग मानसिक आवृत्ति पर काम करता है। वह बस मानसिक घटनाओं से प्रभावित नहीं होता है।}</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>{PAWN_gender ? [PAWN_nameDef] का मन बाकी सभी से अलग एक मानसिक आवृत्ति (psychic frequency) पर काम करता है। वह बस मानसिक घटनाओं से प्रभावित नहीं होती है। : [PAWN_nameDef] का दिमाग बाकी सभी से अलग एक मानसिक आवृत्ति (psychic frequency) पर काम करता है। वह बस मानसिक घटनाओं (psychic phenomena) से प्रभावित नहीं होता है।}</PsychicSensitivity.degreeDatas.psychically_deaf.description>
   
   <!-- EN: careful shooter -->
   <ShootingAccuracy.degreeDatas.careful_shooter.label>सटीक निशानेबाज</ShootingAccuracy.degreeDatas.careful_shooter.label>

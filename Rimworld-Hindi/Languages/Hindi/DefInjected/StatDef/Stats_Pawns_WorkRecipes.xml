@@ -12,14 +12,14 @@
   <ButcheryFleshSpeed.description>इस व्यक्ति की मांसल जीवों को काटने की गति।</ButcheryFleshSpeed.description>
   
   <!-- EN: mechanoid shredding efficiency -->
-  <ButcheryMechanoidEfficiency.label>मेकैनॉइड कतरन दक्षता</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.label>मेकैनॉइड श्रेडिंग दक्षता</ButcheryMechanoidEfficiency.label>
   <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
-  <ButcheryMechanoidEfficiency.description>इस व्यक्ति द्वारा संसाधन हेतु किसी मृत मैकेनोइड को तोड़ने पर प्राप्त सामग्री की मात्रा।\n\nवास्तविक मात्रा मैकेनोइड के आकार से भी संबंधित है।</ButcheryMechanoidEfficiency.description>
+  <ButcheryMechanoidEfficiency.description>जब यह व्यक्ति संसाधनों के लिए एक मृत मेकैनॉइड को नष्ट करता है, तो प्राप्त होने वाली सामग्री की मात्रा।\n\nवास्तविक मात्रा मेकैनॉइड के आकार से भी संबंधित होती है।</ButcheryMechanoidEfficiency.description>
   
   <!-- EN: mechanoid shredding speed -->
-  <ButcheryMechanoidSpeed.label>मेकैनॉइड कतरन गति</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.label>मेकैनॉइड श्रेडिंग गति</ButcheryMechanoidSpeed.label>
   <!-- EN: The speed at which this person can shred a mechanoid for resources. -->
-  <ButcheryMechanoidSpeed.description>यह व्यक्ति किसी मैकेनॉइड को संसाधनों के लिए कितनी तेज़ी से नष्ट कर सकता है।</ButcheryMechanoidSpeed.description>
+  <ButcheryMechanoidSpeed.description>संसाधनों के लिए यह व्यक्ति जिस गति से एक मेकैनॉइड को नष्ट कर सकता है।</ButcheryMechanoidSpeed.description>
   
   <!-- EN: cooking speed -->
   <CookSpeed.label>पाक गति</CookSpeed.label>
@@ -29,7 +29,7 @@
   <!-- EN: drug cooking speed -->
   <DrugCookingSpeed.label>दवा पकाने की गति</DrugCookingSpeed.label>
   <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
-  <DrugCookingSpeed.description>यह व्यक्ति कितनी तेज़ी से बीयर और चाय बनाता है, या स्मोकलीफ जोड़ों जैसे साधारण नशीले पदार्थ बनाता है।</DrugCookingSpeed.description>
+  <DrugCookingSpeed.description>जिस गति से यह व्यक्ति बीयर और चाय बनाता है, या स्मोकलीफ जॉइंट्स जैसे सरल नशीले पदार्थ तैयार करता है।</DrugCookingSpeed.description>
   
   <!-- EN: drug synthesis speed -->
   <DrugSynthesisSpeed.label>दवा निर्माण गति</DrugSynthesisSpeed.label>
@@ -46,7 +46,7 @@
   <!-- EN: general labor speed -->
   <GeneralLaborSpeed.label>श्रम गति</GeneralLaborSpeed.label>
   <!-- EN: The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production. -->
-  <GeneralLaborSpeed.description>यह व्यक्ति पत्थर के ब्लॉक बनाने, रिफाइनरी में रासायनिक ईंधन बनाने, वस्तुओं को जलाने, कपड़े सिलने, कला बनाने, कवच और हथियार बनाने या स्लैग पिघलाने जैसे सामान्य श्रम को कितनी तेजी से करता है। यह आँकड़ा उन गतिविधियों पर लागू होता है जिनमें कोई कौशल शामिल नहीं है, साथ ही उन गतिविधियों पर भी जिनमें कौशल उत्पाद की गुणवत्ता को प्रभावित करता है न कि उत्पादन की गति को।</GeneralLaborSpeed.description>
+  <GeneralLaborSpeed.description>वह गति जिस पर यह व्यक्ति पत्थर के ब्लॉक बनाने, रिफाइनरी में रासायनिक ईंधन बनाने, वस्तुओं को जलाने, कपड़े सिलने, कला बनाने, कवच और हथियार बनाने या स्लैग को पिघलाने जैसे सामान्य श्रम कार्य करता है। यह आँकड़ा उन गतिविधियों पर लागू होता है जिनमें कोई कौशल शामिल नहीं है, साथ ही उन पर भी जहाँ कौशल उत्पादन की गति के बजाय उत्पाद की गुणवत्ता को प्रभावित करता है।</GeneralLaborSpeed.description>
   
   <!-- EN: smelting speed -->
   <SmeltingSpeed.label>पिघलाने की गति</SmeltingSpeed.label>

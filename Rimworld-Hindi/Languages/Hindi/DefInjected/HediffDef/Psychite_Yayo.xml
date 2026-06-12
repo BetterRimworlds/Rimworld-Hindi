@@ -4,14 +4,14 @@
   <!-- EN: psychite addiction -->
   <PsychiteAddiction.label>साइकाइट व्यसन</PsychiteAddiction.label>
   <!-- EN: A chemical addiction to psychite. Long-term presence of psychite has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of psychite from drugs like flake or yayo, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <PsychiteAddiction.description>साइकाइट की एक रासायनिक लत। लंबे समय तक साइकाइट की उपस्थिति ने कोशिकीय स्तर पर तंत्रिका संबंधी अनुकूलन का कारण बनाया है, इसलिए मस्तिष्क अब दवा के बिना ठीक से कार्य नहीं कर सकता।\n\nफ्लैक या यायो जैसी दवाओं से साइकाइट की नियमित खुराक के बिना, वापसी के लक्षण शुरू हो जाएंगे। हालाँकि, विस्तारित संयम मस्तिष्क को अपनी सामान्य स्थिति में वापस अनुकूलित करने के लिए मजबूर करेगा, जिससे लत दूर हो जाएगी।</PsychiteAddiction.description>
+  <PsychiteAddiction.description>साइकाइट की रासायनिक लत। साइकाइट की दीर्घकालिक उपस्थिति ने कोशिकीय स्तर पर तंत्रिका संबंधी अनुकूलन पैदा कर दिए हैं, इसलिए मस्तिष्क अब दवा के बिना ठीक से कार्य नहीं कर सकता है।\n\nफ्लेक या यायो जैसी दवाओं से साइकाइट की नियमित खुराक के बिना, विड्रॉल के लक्षण शुरू हो जाएंगे। हालाँकि, लंबे समय तक परहेज करने से मस्तिष्क को अपनी सामान्य स्थिति में वापस अनुकूलित होने के लिए मजबूर होना पड़ेगा, जिससे लत दूर हो जाएगी।</PsychiteAddiction.description>
   <!-- EN: withdrawal -->
   <PsychiteAddiction.stages.withdrawal.label>निकासी</PsychiteAddiction.stages.withdrawal.label>
   
   <!-- EN: psychite tolerance -->
   <PsychiteTolerance.label>साइकाइट सहनशीलता</PsychiteTolerance.label>
   <!-- EN: A built-up tolerance to psychite. The more severe this tolerance is, the more psychite-based drugs like yayo or flake it takes to get the same effect. -->
-  <PsychiteTolerance.description>साइकाइट के प्रति सहनशीलता का निर्माण। यह सहनशीलता जितनी गंभीर होगी, यायो या फ्लेक जैसे साइकाइट-आधारित ड्रग्स से समान प्रभाव प्राप्त करने के लिए उतनी ही अधिक मात्रा की आवश्यकता होगी।</PsychiteTolerance.description>
+  <PsychiteTolerance.description>साइक़ाइट के प्रति विकसित हुई सहनशीलता। यह सहनशीलता जितनी गंभीर होगी, यायो या फ्लेक जैसे साइक़ाइट-आधारित ड्रग्स का समान प्रभाव प्राप्त करने के लिए उतनी ही अधिक मात्रा की आवश्यकता होगी।</PsychiteTolerance.description>
   <!-- EN: small -->
   <PsychiteTolerance.stages.small.label>छोटा</PsychiteTolerance.stages.small.label>
   <!-- EN: large -->
@@ -20,10 +20,10 @@
   <PsychiteTolerance.stages.massive.label>विशाल</PsychiteTolerance.stages.massive.label>
   
   <!-- EN: high on yayo -->
-  <YayoHigh.label>यायो उच्च</YayoHigh.label>
+  <YayoHigh.label>यायो के नशे में</YayoHigh.label>
   <!-- EN: Active yayo in the bloodstream. Generates an intense euphoric high. -->
-  <YayoHigh.description>रक्तप्रवाह में सक्रिय यायो। तीव्र आनंददायक उच्च उत्पन्न करता है।</YayoHigh.description>
+  <YayoHigh.description>रक्तप्रवाह में सक्रिय यायो। एक तीव्र उत्साहजनक उच्चता उत्पन्न करता है।</YayoHigh.description>
   <!-- EN: a yayo high -->
-  <YayoHigh.labelNoun>यायो उच्च</YayoHigh.labelNoun>
+  <YayoHigh.labelNoun>यायो का नशा</YayoHigh.labelNoun>
   
 </LanguageData>

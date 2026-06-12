@@ -7,25 +7,25 @@
   <!-- EN: burning power cell -->
   <BurningPowerCell.label>जलता ऊर्जा सेल</BurningPowerCell.label>
   <!-- EN: A damaged mechanoid power generation unit. The cell has been destabilized by the death of the mechanoid, and is burning down in seconds. When critically damaged, this cell will explode. -->
-  <BurningPowerCell.description>एक क्षतिग्रस्त मैकेनॉइड बिजली उत्पादन इकाई। कोशिका मैकेनॉइड की मृत्यु से अस्थिर हो गई है, और कुछ ही सेकंड में जल जाएगी। गंभीर रूप से क्षतिग्रस्त होने पर, यह कोशिका विस्फोट कर देगी।</BurningPowerCell.description>
+  <BurningPowerCell.description>एक क्षतिग्रस्त मेकैनॉइड बिजली उत्पादन इकाई। मेकैनॉइड की मृत्यु से सेल अस्थिर हो गया है, और कुछ ही सेकंड में जलकर नष्ट होने वाला है। गंभीर रूप से क्षतिग्रस्त होने पर, यह सेल फट जाएगा।</BurningPowerCell.description>
   
   <!-- EN: mech node -->
   <Gloomlight.label>मैक नोड</Gloomlight.label>
   <!-- EN: A self-powered mechanoid node of unknown function. Mech nodes can be deconstructed to yield valuable resources - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
-  <Gloomlight.description>यह एक स्व-संचालित यांत्रिक नोड है जिसका कार्य अज्ञात है। यांत्रिक नोड को मूल्यवान संसाधन प्राप्त करने के लिए विघटित किया जा सकता है - लेकिन केवल तभी जब उन्हें अक्षुण्ण रूप से कैप्चर किया जाए। आंतरिक माइक्रो पावर सेल यूनिट को बहुत अधिक क्षति होने पर विफल हो जाएगी और सामग्री को बर्बाद कर देगी।</Gloomlight.description>
+  <Gloomlight.description>अज्ञात कार्य वाला एक स्व-संचालित मेकैनॉइड नोड। मेकनोड्स को मूल्यवान संसाधन प्राप्त करने के लिए विघटित किया जा सकता है - लेकिन केवल तभी जब उन्हें सुरक्षित रूप से पकड़ा जाए। यदि इकाई को बहुत अधिक नुकसान पहुँचता है, तो आंतरिक माइक्रो पावर सेल जलकर सामग्री को नष्ट कर देगा।</Gloomlight.description>
   <!-- EN: Deconstruct for valuable resources. -->
   <Gloomlight.comps.CompInspectString.inspectString>मूल्यवान संसाधनों के लिए विघटन।</Gloomlight.comps.CompInspectString.inspectString>
   
   <!-- EN: mini-slugger -->
   <Gun_MiniTurretMech.label>छोटा प्रहारक</Gun_MiniTurretMech.label>
   <!-- EN: An automatic turret-mounted slug-thrower. -->
-  <Gun_MiniTurretMech.description>एक स्वचालित तोप-माउंटेड स्लग-थ्रोवर।</Gun_MiniTurretMech.description>
+  <Gun_MiniTurretMech.description>एक स्वचालित तोप-स्थापित स्लग-थ्रोअर।</Gun_MiniTurretMech.description>
   <!-- EN: mini-slugger -->
   <Gun_MiniTurretMech.verbs.Verb_Shoot.label>छोटा प्रहारक</Gun_MiniTurretMech.verbs.Verb_Shoot.label>
   
   <!-- EN: mini-slugger turret -->
   <Turret_AutoMiniTurret.label>मिनी-स्लगर तोप</Turret_AutoMiniTurret.label>
   <!-- EN: A self-powered defense turret mounted with a weak but long-ranged slug-thrower. May explode when damaged. -->
-  <Turret_AutoMiniTurret.description>एक स्व-संचालित रक्षा तोप, जिसमें कमजोर लेकिन लंबी दूरी का स्लग-थ्रोवर लगा है। क्षति होने पर विस्फोट हो सकता है।</Turret_AutoMiniTurret.description>
+  <Turret_AutoMiniTurret.description>एक स्व-संचालित रक्षा तोप जिसमें एक कमजोर लेकिन लंबी दूरी तक मार करने वाला स्लग-थ्रोअर लगा है। क्षतिग्रस्त होने पर यह फट सकती है।</Turret_AutoMiniTurret.description>
   
 </LanguageData>

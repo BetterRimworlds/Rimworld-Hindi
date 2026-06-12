@@ -5,11 +5,11 @@
   <Alphabeavers.label>अल्फा बीवर</Alphabeavers.label>
   
   <!-- EN: ambrosia sprout -->
-  <AmbrosiaSprout.label>एम्ब्रोसिया अंकुर</AmbrosiaSprout.label>
+  <AmbrosiaSprout.label>अम्ब्रोसिया अंकुर</AmbrosiaSprout.label>
   <!-- EN: Ambrosia sprout -->
-  <AmbrosiaSprout.letterLabel>एम्ब्रोज़िया अंकुर</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.letterLabel>अम्ब्रोसिया अंकुर</AmbrosiaSprout.letterLabel>
   <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
-  <AmbrosiaSprout.letterText>रहस्यमय एम्ब्रोसिया झाड़ी का एक समूह पास में उग आया है! यदि आप पौधों को बढ़ने का इंतज़ार करते हैं, तो आप स्वादिष्ट, सुखद और थोड़े नशे की लत वाले फल की कटाई कर सकेंगे।</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterText>पास में ही रहस्यमयी अम्ब्रोसिया झाड़ियों का एक झुरमुट उग आया है! यदि आप पौधों के बढ़ने का इंतज़ार करते हैं, तो आप स्वादिष्ट, सुखद और थोड़े व्यसनी फल की कटाई कर पाएंगे।</AmbrosiaSprout.letterText>
   
   <!-- EN: cold snap -->
   <ColdSnap.label>ठंडी लहर</ColdSnap.label>
@@ -61,7 +61,7 @@
   <RansomDemand.letterLabel>फिरौती मांग</RansomDemand.letterLabel>
   
   <!-- EN: transport pod crash -->
-  <RefugeePodCrash.label>परिवहन पोड दुर्घटना</RefugeePodCrash.label>
+  <RefugeePodCrash.label>परिवहन पॉड क्रैश</RefugeePodCrash.label>
   
   <!-- EN: resource pod crash -->
   <ResourcePodCrash.label>संसाधन पोड दुर्घटना</ResourcePodCrash.label>
@@ -73,7 +73,7 @@
   <ShortCircuit.label>शॉर्ट सर्किट</ShortCircuit.label>
   
   <!-- EN: thrumbos pass -->
-  <ThrumboPasses.label>थ्रमबो मार्ग</ThrumboPasses.label>
+  <ThrumboPasses.label>थ्रम्बोज़ मार्ग</ThrumboPasses.label>
   
   <!-- EN: toxic fallout -->
   <ToxicFallout.label>विषाक्त परिणाम</ToxicFallout.label>

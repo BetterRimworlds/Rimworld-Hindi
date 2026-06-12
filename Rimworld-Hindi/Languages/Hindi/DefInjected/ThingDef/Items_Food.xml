@@ -4,7 +4,7 @@
   <!-- EN: kibble -->
   <Kibble.label>चारा</Kibble.label>
   <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
-  <Kibble.description>मिश्रित मांस और पौधों के स्रोतों से बना पशु आहार। मनुष्य इसे खा सकते हैं, लेकिन उन्हें यह बिल्कुल भी पसंद नहीं आता।</Kibble.description>
+  <Kibble.description>मिश्रित मांस और पौधों के स्रोतों से बना पशु आहार। मनुष्य इसे खा सकते हैं, लेकिन उन्हें यह वास्तव में बिल्कुल पसंद नहीं आता है।</Kibble.description>
   
   <!-- EN: fine meal -->
   <MealFine.label>अच्छा भोजन</MealFine.label>
@@ -44,7 +44,7 @@
   <!-- EN: simple meal -->
   <MealSimple.label>साधारण भोजन</MealSimple.label>
   <!-- EN: A simple meal quickly cooked from one main ingredient. -->
-  <MealSimple.description>एक साधारण भोजन जो एक मुख्य सामग्री से जल्दी से बनाया जाता है।</MealSimple.description>
+  <MealSimple.description>एक मुख्य सामग्री से जल्दी बनाया गया साधारण भोजन।</MealSimple.description>
   
   <!-- EN: packaged survival meal -->
   <MealSurvivalPack.label>तैयार भोजन</MealSurvivalPack.label>
@@ -54,6 +54,6 @@
   <!-- EN: pemmican -->
   <Pemmican.label>पेमिकन</Pemmican.label>
   <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
-  <Pemmican.description>वसा और वनस्पति भोजन का संरक्षित, मैश किया हुआ मिश्रण। स्वाद फीका है, लेकिन अप्रिय नहीं। यह प्रशीतन के बिना बहुत लंबे समय तक चलता है। यात्रा के लिए बढ़िया।</Pemmican.description>
+  <Pemmican.description>वसा और वनस्पति भोजन का एक संरक्षित मसला हुआ मिश्रण। स्वाद फीका है, लेकिन बुरा नहीं है। यह बिना प्रशीतन के बहुत लंबे समय तक चलता है। यात्रा के लिए बेहतरीन है।</Pemmican.description>
   
 </LanguageData>

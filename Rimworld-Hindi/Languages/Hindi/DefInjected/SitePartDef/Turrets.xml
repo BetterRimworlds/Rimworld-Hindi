@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: turrets -->
-  <Turrets.label>बुर्ज</Turrets.label>
+  <Turrets.label>तोपें</Turrets.label>
   <!-- EN: A group of turrets. -->
-  <Turrets.description>टरेट का समूह।</Turrets.description>
+  <Turrets.description>A group of turrets.</Turrets.description>
   <!-- EN: There are enemy turrets in this area. -->
-  <Turrets.arrivedLetter>इस क्षेत्र में शत्रु बुर्ज हैं।</Turrets.arrivedLetter>
+  <Turrets.arrivedLetter>इस क्षेत्र में दुश्मन की तोपें हैं।</Turrets.arrivedLetter>
   
 </LanguageData>

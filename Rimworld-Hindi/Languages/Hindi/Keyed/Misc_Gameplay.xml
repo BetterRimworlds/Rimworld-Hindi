@@ -121,7 +121,7 @@
   <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
   <RenounceTitleWillLosePermitPoints>{PAWN_nameDef} को {FACTION_name} के साथ {POINTS} अप्रयुक्त परमिट अंक खोने पड़ेंगे।</RenounceTitleWillLosePermitPoints>
   <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
-  <RenounceTitleWillKeepPsylinkLevels>वह प्यादा अपने सभी साइलिंक स्तर और साइकास्ट बनाए रखेगा।</RenounceTitleWillKeepPsylinkLevels>
+  <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun} अपने सभी {PAWN_possessive} psylink स्तरों और psycasts को बनाए रखेगा।</RenounceTitleWillKeepPsylinkLevels>
   <!-- EN: unknown -->
   <UnknownLower>अज्ञात</UnknownLower>
   <!-- EN: On -->
@@ -257,7 +257,7 @@
   <!-- EN: Trading with {0}. -->
   <CaravanTrading>{0} के साथ व्यापार।</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>मृतदेह द्वारा पहना जाने से दूषित।</WasWornByCorpse>
+  <WasWornByCorpse>एक शव द्वारा पहने जाने के कारण दूषित।</WasWornByCorpse>
   <!-- EN: T -->
   <WornByCorpseChar>टी</WornByCorpseChar>
   <!-- EN: unroofed -->
@@ -463,7 +463,7 @@
   <!-- EN: Required -->
   <Required>आवश्यक</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>चेतावनी: परिवहन पॉड का उपयोग करके आप व्यापार अनुरोध पूरे नहीं कर सकते।\nयदि आप माल भेजते हैं, तो बस्ती उन्हें उपहार के रूप में स्वीकार करेगी लेकिन वे आपको पुरस्कृत नहीं करेंगे।\n\nव्यापार के लिए, कारवां के साथ बस्ती तक पहुँचें!\n\nक्या आप निश्चित हैं कि आप लोड किए गए माल को गुट को उपहार में देना चाहते हैं?</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>चेतावनी: आप ट्रांसपोर्ट पॉड्स का उपयोग करके व्यापार अनुरोध पूरे नहीं कर सकते।\nयदि आप सामान भेजते हैं, तो बस्ती उन्हें उपहार के रूप में स्वीकार कर लेगी लेकिन वे आपको कोई पुरस्कार नहीं देंगे।\n\nव्यापार करने के लिए, एक कारवां के साथ बस्ती के पास जाएँ!\n\nक्या आप निश्चित रूप से इस लदे हुए सामान को गुट को उपहार में देना चाहते हैं?</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
   <PrisonerLower>कैदी</PrisonerLower>
   <!-- EN: prisoners -->
@@ -507,7 +507,7 @@
   <!-- EN: Sealed -->
   <DormantCompSealed>सील</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
-  <DormantCompBeacon>मेकैनॉइड्स गिराने के लिए तैयार।</DormantCompBeacon>
+  <DormantCompBeacon>मेकैनॉइड्स गिराने के लिए तैयार</DormantCompBeacon>
   <!-- EN: Expired -->
   <DormantCompExpired>समाप्त</DormantCompExpired>
   <!-- EN: Initiates in -->
@@ -664,7 +664,7 @@
   <!-- EN: Contains {0} / {1} wort. -->
   <ContainsWort>में {0} / {1} शामिल है।</ContainsWort>
   <!-- EN: Contains {0} / {1} beer. -->
-  <ContainsBeer>{0} / {1} बीयर शामिल है।</ContainsBeer>
+  <ContainsBeer>इसमें {0} / {1} बीयर शामिल है।</ContainsBeer>
   <!-- EN: Fermented -->
   <Fermented>किण्वित</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
@@ -1341,9 +1341,9 @@
   <!-- EN: This building can not support attachments. -->
   <CannotSupportAttachment>यह इमारत संलग्नकों का समर्थन नहीं कर सकती।</CannotSupportAttachment>
   <!-- EN: Must place with head attached to ship structural beam. -->
-  <MustPlaceHeadOnShipBeam>जहाज़ संरचनात्मक बीम से जुड़े सिर के साथ रखना होगा।</MustPlaceHeadOnShipBeam>
+  <MustPlaceHeadOnShipBeam>इसे जहाज़ संरचनात्मक बीम से सिर जुड़ा हुआ रखकर रखना चाहिए।</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>हॉपर की आवश्यकता वाली किसी चीज़ के पास रखा जाना चाहिए।</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>इसे ऐसी किसी चीज़ के पास रखा जाना चाहिए जिसे हॉपर की आवश्यकता हो।</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
   <MustPlaceOnSteamGeyser>भाप झरने पर सीधे रखा जाना चाहिए।</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
@@ -1383,21 +1383,21 @@
   <!-- EN: Ready for launch. -->
   <ShipReportCanLaunch>प्रक्षेपण के लिए तैयार।</ShipReportCanLaunch>
   <!-- EN: Missing critical component -->
-  <ShipReportMissingPart>घटक गंभीर रूप से गायब है</ShipReportMissingPart>
+  <ShipReportMissingPart>महत्वपूर्ण घटक गायब है</ShipReportMissingPart>
   <!-- EN: requires -->
   <ShipReportMissingPartRequires>आवश्यकताएँ</ShipReportMissingPartRequires>
   <!-- EN: No full cryptosleep caskets -->
-  <ShipReportNoFullPods>कोई पूर्ण क्रिप्टोस्लीप ताबूत नहीं।</ShipReportNoFullPods>
+  <ShipReportNoFullPods>कोई पूर्ण क्रिप्टोस्लीप ताबूत नहीं</ShipReportNoFullPods>
   <!-- EN: Hibernating component -->
-  <ShipReportHibernating>निष्क्रिय घटक</ShipReportHibernating>
+  <ShipReportHibernating>सुप्त घटक</ShipReportHibernating>
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>घटक अभी तैयार नहीं है</ShipReportNotReady>
   <!-- EN: No settlement to return to. Form a settlement first. -->
   <ShipNoSettlementToReturnTo>कोई बस्ती लौटने के लिए नहीं। पहले बस्ती बनाएं।</ShipNoSettlementToReturnTo> 
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>(*Name)चार्लोन व्हाइटस्टोन(/Name) रिएक्टर के शीतनिष्क्रियण पुनर्प्राप्ति क्रम शुरू करने के लिए तैयार है।\n\nवे आपको चेतावनी देते हैं कि इस प्रक्रिया में लगभग 15 दिन लगेंगे, और ऊर्जा हस्ताक्षर बहुत दूर से पता लगाए जा सकते हैं।\n\nइस प्रकार का ऊर्जा हस्ताक्षर अंतरतारकीय उड़ान क्षमता दर्शाता है, और यह हताश हमलावरों के गिरोह और घातक मशीनों के झुंड को आकर्षित करेगा।\n\nआप पर ऐसी तीव्रता से हमला किया जाएगा जैसा आपने पहले कभी नहीं देखा होगा। सुनिश्चित करें कि आपकी सुरक्षा पहले से तैयार है।</HibernateWarning>
+  <HibernateWarning>(*Name)Charlon Whitestone(/Name) रिएक्टर के सुप्तावस्था रिकवरी अनुक्रम को शुरू करने के लिए तैयार है।\n\nयह चेतावनी देता है कि इस प्रक्रिया में लगभग 15 दिन लगेंगे, और ऊर्जा संकेत लंबी दूरी से पता लगाने योग्य होगा।\n\nइस प्रकार का ऊर्जा संकेत अंतरतारकीय उड़ान क्षमता का संकेत देता है, और यह हताश हमलावरों के गिरोह और घातक मेकैनॉइड्स के झुंड को आकर्षित करेगा।\n\nआप पर ऐसी तीव्रता से हमला किया जाएगा जो आपने पहले कभी नहीं देखी होगी। सुनिश्चित करें कि आपकी रक्षा प्रणालियाँ पहले से तैयार हैं।</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarningStandalone>रिएक्टर चालू होने के लिए तैयार है।\n\nइस प्रक्रिया में लगभग 15 दिन लगेंगे, और ऊर्जा हस्ताक्षर बहुत दूर से पता लगाए जा सकते हैं। इस प्रकार का ऊर्जा हस्ताक्षर अंतरतारकीय उड़ान क्षमता दर्शाता है, और यह हताश हमलावरों के गिरोह और घातक मशीनों के झुंड को आकर्षित करेगा।\n\nआप पर ऐसी तीव्रता से हमला किया जाएगा जैसा आपने पहले कभी नहीं देखा होगा। सुनिश्चित करें कि आपकी सुरक्षा पहले से तैयार है।</HibernateWarningStandalone>
+  <HibernateWarningStandalone>रिएक्टर चालू होने के लिए तैयार है।\n\nइस प्रक्रिया में लगभग 15 दिन लगेंगे, और ऊर्जा संकेत लंबी दूरी से पहचाने जा सकेंगे। इस प्रकार का ऊर्जा संकेत अंतरतारकीय उड़ान क्षमता को दर्शाता है, और यह हताश हमलावरों के गिरोह तथा घातक मेकैनॉइड्स के झुंडों को आकर्षित करेगा।\n\nआप पर ऐसी तीव्रता से हमला किया जाएगा जो आपने पहले कभी नहीं देखी होगी। सुनिश्चित करें कि आपकी रक्षा प्रणालियाँ पहले से तैयार हैं।</HibernateWarningStandalone>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
   <HibernateWarningPacifist>(*नाम)चार्लोन व्हाइटस्टोन(/नाम) रिएक्टर के शीतनिद्रा पुनर्प्राप्ति क्रम शुरू करने के लिए तैयार है। वे आपको चेतावनी देते हैं कि इस प्रक्रिया में लगभग 15 दिन लगेंगे।</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
@@ -1411,7 +1411,7 @@
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
   <SkillNeurotrainerDescription>एक बार इस्तेमाल होने वाली मैकेनाइट्स की अत्यधिक खुराक जो एक विशिष्ट कौशल को प्रशिक्षित करती है।\n\nखुराक आंख की कक्षा के माध्यम से दी जाती है। एक बार मस्तिष्क में जारी होने के बाद, मैकेनाइट्स जल्दी से विषय के कौशल को एक विशिष्ट क्षेत्र में सुधार करते हैं, आवश्यकतानुसार खुद को तंत्रिका ऊतक में परिवर्तित करते हैं।</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <SkillNeurotrainerUsed>{USER_labelShort} ने {1} न्यूरो प्रशिक्षक का उपयोग करके स्तर {2} से स्तर {3} तक प्रगति की।</SkillNeurotrainerUsed>
+  <SkillNeurotrainerUsed>{USER_labelShort} ने स्तर {2} से स्तर {3} तक जाने के लिए {1} न्यूरो प्रशिक्षक का उपयोग किया।</SkillNeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -1469,7 +1469,7 @@
   <!-- EN: You've launched the ship! -->
   <GameOverShipLaunchedIntro>आपने यान प्रक्षेपित कर दिया!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunchedEnding>आपका मशीन व्यक्तित्व अब जहाज को सुरक्षित स्थान पर ले जाने का प्रयास करेगा। यह इस प्रणाली में एक समृद्ध ग्रह पा सकता है। या, यह किसी अन्य तारे की ओर सदियों लंबी यात्रा कर सकता है। यह यहाँ एक नई चमकदार दुनिया बनाने के लिए किसी क्षुद्रग्रह पर बर्फ के नीचे कुछ हज़ार वर्षों तक छिपने का भी निर्णय ले सकता है।\n\nआप जागने पर जानेंगे।</GameOverShipLaunchedEnding>
+  <GameOverShipLaunchedEnding>आपका मशीन व्यक्तित्व अब जहाज को एक सुरक्षित स्थान की ओर ले जाने का प्रयास करेगा। इसे इस प्रणाली में एक समृद्ध ग्रह मिल सकता है। या, यह दूसरे तारे तक सदियों लंबी यात्रा कर सकता है। यह यहाँ एक नई चमकदार दुनिया बनाने के लिए किसी के आने के इंतज़ार में, एक क्षुद्रग्रह पर बर्फ के नीचे छिपने का निर्णय भी ले सकता है।\n\nजब आप जागेंगे तब आपको पता चलेगा।</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
   <GameOverColonistsEscaped>ये उपनिवेशवादी भाग गए:\n\n{0}</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->
@@ -1663,11 +1663,11 @@
   <!-- EN: Fall rate: {0} / s ({1}s until zero) -->
   <PawnTooltipPsychicEntropyStats>गिरने की दर: {0} / सेकंड ({1} सेकंड में शून्य)</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
-  <PawnTooltipPsychicEntropyDesc>मानसिक ताप, मानसिक शक्ति का उपयोग करने के बाद बढ़ता है। सामान्य सीमा से अधिक होने पर, यह कई दिनों तक चलने वाला मानसिक विघटन उत्पन्न कर सकता है।\n\nमानसिक ताप समय के साथ स्वाभाविक रूप से कम होता है। इस प्रक्रिया को एल्टेक्स वस्त्र पहनकर या दर्द में रहकर तेज किया जा सकता है।</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyDesc>मनोवैज्ञानिक शक्ति का उपयोग करने के बाद तंत्रिका ऊष्मा (neural heat) बढ़ जाती है। सामान्य सीमा से अधिक होने पर कई दिनों तक चलने वाला मनोवैज्ञानिक ब्रेकडाउन हो सकता है।\n\nतंत्रिका ऊष्मा समय के साथ स्वाभाविक रूप से कम हो जाती है। इस प्रक्रिया को एल्टेक्स परिधान पहनने या दर्द में होने से तेज़ किया जा सकता है।</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
   <PawnTooltipPsychicEntropyPainFocus>दर्द प्रोत्साहन\n\nदर्द मन को केंद्रित करता है और तंत्रिका ऊष्मा अपव्यय को तेज करता है।\n\nदर्द स्तर: {0}\nऊष्मा पुनर्प्राप्ति बोनस: {1}</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
-  <PawnTooltipPsychicEntropyLimit>न्यूरल हीट लिमिटर टॉगल करें। अपनी हीट सीमा से अधिक होने पर मानसिक विघटन हो सकता है जो दिनों तक चल सकता है। इससे स्थायी क्षति नहीं होगी।</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsychicEntropyLimit>न्यूरल हीट लिमिटर को चालू या बंद करें। आपकी हीट लिमिट से अधिक होने पर कुछ दिनों तक चलने वाला मानसिक ब्रेकडाउन हो सकता है। इससे स्थायी क्षति नहीं होगी।</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
   <PawnTooltipPsyfocus>साइकोफोकस: {0}</PawnTooltipPsyfocus>
   
@@ -1677,13 +1677,13 @@
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
-  <Reward_Pawn_DropPod>एक {0_age} वर्षीय {0_title} जिसका नाम {0_nameDef} है, एक परिवहन पॉड में आएगा {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
+  <Reward_Pawn_DropPod>{0_nameDef} नाम का एक {0_age}-वर्षीय {0_title} ({0_relationInfoInParentheses}) एक परिवहन पॉड में पहुँचेगा</Reward_Pawn_DropPod>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
   <Reward_Pawn_WalkIn>एक {0_age} वर्षीय {0_title} जिसका नाम {0_nameDef} है, आएगा और आपके साथ जुड़ जाएगा {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
   <Reward_Pawn_Caravan>एक {0_age} वर्षीय {0_title} जिसका नाम {0_nameDef} है, आपके साथ {0_relationInfoInParentheses} शामिल होगा।</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):\n\n{0} -->
-  <Reward_Items>संसाधनों के साथ परिवहन पॉड आ रहे हैं (कुल मूल्य {1}):\n\n{0}</Reward_Items>
+  <Reward_Items>निम्नलिखित संसाधनों के साथ परिवहन पॉड पहुँचेंगे (कुल मूल्य {1}):\n\n{0}</Reward_Items>
   <!-- EN: you will receive (total value {1}):\n\n{0} -->
   <Reward_Items_Caravan>आपको (कुल मूल्य {1}) प्राप्त होगा:\n\n{0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
@@ -1705,9 +1705,9 @@
   <!-- EN: Visitors' help -->
   <Reward_VisitorsHelp_Label>विज़िटर सहायता</Reward_VisitorsHelp_Label>
   <!-- EN: New psylink level -->
-  <Reward_BestowingCeremony_Label>साइलिंक स्तर</Reward_BestowingCeremony_Label>
+  <Reward_BestowingCeremony_Label>नया साइलिंक स्तर</Reward_BestowingCeremony_Label>
   <!-- EN: {PAWNNAME} gains psylink -->
-  <Reward_BestowingCeremony>{PAWNNAME} साइलिंक प्राप्त करता है।</Reward_BestowingCeremony>
+  <Reward_BestowingCeremony>{PAWNNAME} को साइलिंक प्राप्त हुआ</Reward_BestowingCeremony>
   <!-- EN: Shuttle loot -->
   <Reward_ShuttleLoot_Label>शटल लूट</Reward_ShuttleLoot_Label>
   <!-- EN: you can deconstruct and loot the shuttle -->
@@ -1733,7 +1733,7 @@
   <!-- EN: (existing bond) -->
   <BladelinkAlreadyBonded>संबंध</BladelinkAlreadyBonded>
   <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
-  <BladelinkAlreadyBondedDialog>एक व्यक्ति एक समय में केवल एक व्यक्तित्व हथियार से ही जुड़ाव कर सकता है।\n\n{WEAPON_labelShort} को लैस करने और जुड़ाव करने के लिए, {PAWN_nameDef} का वर्तमान जुड़ा हुआ हथियार {BONDEDWEAPON_labelShort} पहले नष्ट किया जाना चाहिए।</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedDialog>एक व्यक्ति एक समय में केवल एक ही पर्सोना हथियार के साथ जुड़ सकता है।\n\n{WEAPON_labelShort} को सुसज्जित करने और उसके साथ जुड़ने के लिए, {PAWN_nameDef} के वर्तमान में जुड़े हुए हथियार {BONDEDWEAPON_labelShort} को पहले नष्ट किया जाना चाहिए।</BladelinkAlreadyBondedDialog>
   <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
   <BladelinkAlreadyBondedMessage>{PAWN_nameDef} पहले से ही {BONDEDWEAPON_labelShort} से बंधा हुआ है।</BladelinkAlreadyBondedMessage>
 

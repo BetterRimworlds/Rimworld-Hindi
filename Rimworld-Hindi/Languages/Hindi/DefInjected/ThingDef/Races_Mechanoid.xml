@@ -4,28 +4,28 @@
   <!-- EN: centipede blaster -->
   <Mech_CentipedeBlaster.label>सेंटिपीड ब्लास्टर</Mech_CentipedeBlaster.label>
   <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
-  <Mech_CentipedeBlaster.description>भारी युद्ध यांत्रिक जीव जो दर्जनों छोटी टांगों पर सरकते हैं। उनका मोटा कवच और मारक क्षमता उन्हें गुच्छित स्थिर रक्षकों के खिलाफ बहुत प्रभावी बनाती है। वे कुछ हद तक मोबाइल हिट-एंड-रन रणनीति के प्रति संवेदनशील हैं।</Mech_CentipedeBlaster.description>
+  <Mech_CentipedeBlaster.description>भारी लड़ाकू मेकैनॉइड्स जो दर्जनों छोटे पैरों पर फिसलते हैं। उनका मोटा कवच और मारक क्षमता उन्हें एक साथ जमा हुए स्थिर रक्षकों के विरुद्ध बहुत प्रभावी बनाती है। वे गतिशील हिट-एंड-रन रणनीति के प्रति कुछ हद तक संवेदनशील होते हैं।</Mech_CentipedeBlaster.description>
   <!-- EN: head -->
   <Mech_CentipedeBlaster.tools.head.label>सिर</Mech_CentipedeBlaster.tools.head.label>
   
   <!-- EN: centipede burner -->
   <Mech_CentipedeBurner.label>सेंटिपीड बर्नर</Mech_CentipedeBurner.label>
   <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
-  <Mech_CentipedeBurner.description>भारी युद्ध यांत्रिक जीव जो दर्जनों छोटी टांगों पर सरकते हैं। उनका मोटा कवच और मारक क्षमता उन्हें गुच्छित स्थिर रक्षकों के खिलाफ बहुत प्रभावी बनाती है। वे कुछ हद तक मोबाइल हिट-एंड-रन रणनीति के प्रति संवेदनशील हैं।</Mech_CentipedeBurner.description>
+  <Mech_CentipedeBurner.description>भारी लड़ाकू मेकैनॉइड्स जो दर्जनों छोटे पैरों पर फिसलते हैं। इनका मोटा कवच और मारक क्षमता इन्हें एक जगह जमा हुए स्थिर रक्षकों के विरुद्ध बहुत प्रभावी बनाती है। ये गतिशील हिट-एंड-रन रणनीति के प्रति कुछ हद तक संवेदनशील होते हैं।</Mech_CentipedeBurner.description>
   <!-- EN: head -->
   <Mech_CentipedeBurner.tools.head.label>सिर</Mech_CentipedeBurner.tools.head.label>
   
   <!-- EN: centipede gunner -->
   <Mech_CentipedeGunner.label>सेंटिपीड गनर</Mech_CentipedeGunner.label>
   <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
-  <Mech_CentipedeGunner.description>भारी युद्ध यांत्रिक जीव जो दर्जनों छोटी टांगों पर सरकते हैं। उनका मोटा कवच और मारक क्षमता उन्हें गुच्छित स्थिर रक्षकों के खिलाफ बहुत प्रभावी बनाती है। वे कुछ हद तक मोबाइल हिट-एंड-रन रणनीति के प्रति संवेदनशील हैं।</Mech_CentipedeGunner.description>
+  <Mech_CentipedeGunner.description>भारी लड़ाकू मेकैनॉइड्स जो दर्जनों छोटे पैरों पर फिसलते हैं। इनका मोटा कवच और मारक क्षमता इन्हें एक साथ जमा हुए स्थिर रक्षकों के विरुद्ध बहुत प्रभावी बनाती है। ये गतिशील हिट-एंड-रन रणनीति के प्रति कुछ हद तक संवेदनशील होते हैं।</Mech_CentipedeGunner.description>
   <!-- EN: head -->
   <Mech_CentipedeGunner.tools.head.label>सिर</Mech_CentipedeGunner.tools.head.label>
   
   <!-- EN: lancer -->
   <Mech_Lancer.label>लांसर</Mech_Lancer.label>
   <!-- EN: Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. -->
-  <Mech_Lancer.description>मध्यम और लंबी दूरी की लड़ाई के लिए निर्मित, तेज़, मानव-आकार के युद्ध यांत्रिक जीव। इनके शरीर हल्के होते हैं, जिससे ये करीबी दूरी पर, विशेष रूप से हाथापाई की लड़ाई में, कमजोर लक्ष्य बन जाते हैं।</Mech_Lancer.description>
+  <Mech_Lancer.description>मध्यम और लंबी दूरी के युद्ध के लिए बनाए गए तेज़ मानव-आकार के लड़ाकू मेकैनॉइड्स। इनके शरीर हल्के होते हैं, जो इन्हें नज़दीकी युद्ध में - विशेष रूप से नज़दीकी युद्ध के दौरान - असुरक्षित लक्ष्य बनाते हैं।</Mech_Lancer.description>
   <!-- EN: left fist -->
   <Mech_Lancer.tools.left_fist.label>बायां मुट्ठी</Mech_Lancer.tools.left_fist.label>
   <!-- EN: fist -->
@@ -40,7 +40,7 @@
   <!-- EN: pikeman -->
   <Mech_Pikeman.label>भालाधारी</Mech_Pikeman.label>
   <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. -->
-  <Mech_Pikeman.description>एक अनाड़ी बहु-पैर वाला युद्ध यांत्रिक, जो लंबी दूरी के हथियार मंच के रूप में विशेषज्ञता रखता है। दूरी पर प्रभावी होने के बावजूद, यह करीबी लड़ाई और हाथापाई में कमजोर है।\n\nयांत्रिक युद्धों के अनुभवी जानते हैं कि अक्सर, एक भालाधारी के आसपास सबसे सुरक्षित जगह उसे छूना है।</Mech_Pikeman.description>
+  <Mech_Pikeman.description>एक भारी और बहु-पैर वाला लड़ाकू मेकैनॉइड जो लंबी दूरी के हथियार प्लेटफॉर्म के रूप में विशेषज्ञ है। दूरी पर प्रभावी होने के बावजूद, यह कम दूरी की लड़ाई और नज़दीकी युद्ध में कमजोर है।\n\nमेकैनॉइड युद्धों के अनुभवी जानते हैं कि अक्सर, एक भालाधारी के पास रहने के लिए सबसे सुरक्षित जगह उसे छूना ही है।</Mech_Pikeman.description>
   <!-- EN: front left leg -->
   <Mech_Pikeman.tools.front_left_leg.label>बायां अगला पैर</Mech_Pikeman.tools.front_left_leg.label>
   <!-- EN: leg -->
@@ -55,7 +55,7 @@
   <!-- EN: scyther -->
   <Mech_Scyther.label>साइदर</Mech_Scyther.label>
   <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use their two arm blades to lop off limbs or gut their victims alive. -->
-  <Mech_Scyther.description>तेज़, पतला, मानव-आकार का युद्ध यांत्रिक, जो तीव्र पहुँच और निकट-सीमा युद्ध में विशेषज्ञता रखता है। उनके शरीर बिंदुओं और ब्लेडों से ढके होते हैं, लेकिन वे मुख्य रूप से अपने दो बांह ब्लेड का उपयोग अंगों को काटने या अपने पीड़ितों को जीवित फाड़ने के लिए करते हैं।</Mech_Scyther.description>
+  <Mech_Scyther.description>तेज़, छरहरे और मानव-आकार के लड़ाकू मेकैनॉइड्स जो तीव्र आक्रमण और करीबी मुकाबले में विशेषज्ञ हैं। उनके शरीर नुकीले सिरों और ब्लेडों से ढके होते हैं, लेकिन वे मुख्य रूप से अपने दो हाथ के ब्लेडों का उपयोग अंगों को काटने या अपने शिकार को जीवित चीरने के लिए करते हैं।</Mech_Scyther.description>
   <!-- EN: left blade -->
   <Mech_Scyther.tools.left_blade.label>बायां ब्लेड</Mech_Scyther.tools.left_blade.label>
   <!-- EN: blade -->
@@ -70,7 +70,7 @@
   <!-- EN: termite -->
   <Mech_Termite.label>दीमक</Mech_Termite.label>
   <!-- EN: A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. -->
-  <Mech_Termite.description>एक मध्यम आकार का मैकेनोइड। दीमकें बिल बनाने, खोदने और रक्षात्मक संरचनाओं को तोड़ने में विशेषज्ञ होती हैं। रक्षकों को यह तय करने की आवश्यकता है कि क्या दीमक को उनके बचाव में खुदाई करने से पहले उसे खत्म करने का प्रयास करें, या उसे उस जगह पर ले जाएं जहां वह उभरती है।</Mech_Termite.description>
+  <Mech_Termite.description>एक मध्यम आकार का मेकैनॉइड। दीमक बिल खोदने, खुदाई करने और रक्षात्मक संरचनाओं को तोड़ने में विशेषज्ञ होते हैं। रक्षकों को यह निर्णय लेने की आवश्यकता है कि क्या दीमक द्वारा उनकी सुरक्षा뚫ने से पहले उसे खत्म करने का प्रयास किया जाए, या जहाँ वह प्रकट हो वहाँ उसका सामना किया जाए।</Mech_Termite.description>
   <!-- EN: head -->
   <Mech_Termite.tools.head.label>सिर</Mech_Termite.tools.head.label>
   

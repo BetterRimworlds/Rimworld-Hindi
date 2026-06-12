@@ -13,7 +13,7 @@
   <!-- EN: tainted {0} -->
   <DeadMansApparel.stages.tainted.label>दूषित {0}</DeadMansApparel.stages.tainted.label>
   <!-- EN: I am wearing a piece of apparel that someone died in. It creeps me out and feels dirty. -->
-  <DeadMansApparel.stages.tainted.description>मैं एक ऐसा परिधान पहने हुए हूँ जिसमें किसी की मृत्यु हुई थी। यह मुझे डराता है और गंदा महसूस होता है।</DeadMansApparel.stages.tainted.description>
+  <DeadMansApparel.stages.tainted.description>मैं ऐसा पहनावा पहने हुए हूँ जिसमें किसी की मृत्यु हुई थी। यह मुझे डराता है और गंदा महसूस कराता है।</DeadMansApparel.stages.tainted.description>
   <!-- EN: tainted {0} (+1) -->
   <DeadMansApparel.stages.tainted_1.label>दूषित {0} (+1)</DeadMansApparel.stages.tainted_1.label>
   <!-- EN: I am wearing two pieces of apparel that someone died in. It creeps me out and feels dirty. -->

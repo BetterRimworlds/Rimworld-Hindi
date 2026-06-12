@@ -23,34 +23,34 @@
   <ExtractMetalFromSlag.jobString>धातु गलाकर ढलना।</ExtractMetalFromSlag.jobString>
   
   <!-- EN: make chemfuel from organics -->
-  <Make_ChemfuelFromOrganics.label>रासायनिक ईंधन से जैविक</Make_ChemfuelFromOrganics.label>
+  <Make_ChemfuelFromOrganics.label>जैविक पदार्थों से रासायनिक ईंधन बनाएँ</Make_ChemfuelFromOrganics.label>
   <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
-  <Make_ChemfuelFromOrganics.description>जैविक फीडस्टॉक से बायोफ्यूल निकालकर केमफ्यूल का एक बैच बनाएं।</Make_ChemfuelFromOrganics.description>
+  <Make_ChemfuelFromOrganics.description>जैविक फीडस्टॉक से बायोफ्यूल निकालकर रासायनिक ईंधन का एक बैच बनाएं।</Make_ChemfuelFromOrganics.description>
   <!-- EN: feedstock -->
   <Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>सामग्री</Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>
   <!-- EN: Refining chemfuel from organics. -->
   <Make_ChemfuelFromOrganics.jobString>जैविक पदार्थों से रासायनिक ईंधन को परिष्कृत करना।</Make_ChemfuelFromOrganics.jobString>
   
   <!-- EN: make chemfuel from wood -->
-  <Make_ChemfuelFromWood.label>लकड़ी से रासायनिक ईंधन</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.label>लकड़ी से रासायनिक ईंधन बनाएँ</Make_ChemfuelFromWood.label>
   <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
-  <Make_ChemfuelFromWood.description>लॉग से लकड़ी गैस निकालकर और उसे संघनित करके रासायनिक ईंधन का एक बैच बनाएं।</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.description>लॉग्स से लकड़ी की गैस निकालकर और उसे संघनित करके रासायनिक ईंधन का एक बैच बनाएं।</Make_ChemfuelFromWood.description>
   <!-- EN: Refining chemfuel from wood. -->
   <Make_ChemfuelFromWood.jobString>लकड़ी से रासायनिक ईंधन को परिष्कृत करना।</Make_ChemfuelFromWood.jobString>
   
   <!-- EN: make component -->
-  <Make_ComponentIndustrial.label>घटक निर्माण</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.label>घटक बनाएँ</Make_ComponentIndustrial.label>
   <!-- EN: Make a component. -->
   <Make_ComponentIndustrial.description>एक घटक बनाएँ।</Make_ComponentIndustrial.description>
   <!-- EN: Making component. -->
-  <Make_ComponentIndustrial.jobString>घटक बना रहे हैं.</Make_ComponentIndustrial.jobString>
+  <Make_ComponentIndustrial.jobString>घटक बना रहे हैं।</Make_ComponentIndustrial.jobString>
   
   <!-- EN: make advanced component -->
-  <Make_ComponentSpacer.label>उन्नत घटक</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.label>उन्नत घटक बनाएँ</Make_ComponentSpacer.label>
   <!-- EN: Make an advanced component. -->
-  <Make_ComponentSpacer.description>उन्नत घटक बनाएँ।</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.description>एक उन्नत घटक बनाएँ।</Make_ComponentSpacer.description>
   <!-- EN: Making advanced component. -->
-  <Make_ComponentSpacer.jobString>उन्नत घटक बना रहे हैं.</Make_ComponentSpacer.jobString>
+  <Make_ComponentSpacer.jobString>उन्नत घटक बना रहे हैं।</Make_ComponentSpacer.jobString>
   
   <!-- EN: make patchleather -->
   <Make_Patchleather.label>चमड़ा पैच</Make_Patchleather.label>
@@ -69,14 +69,14 @@
   <!-- EN: smelt apparel -->
   <SmeltApparel.label>वस्त्र पिघलाना</SmeltApparel.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
-  <SmeltApparel.description>गर्मी और शक्तिशाली विद्युत चुम्बकों का उपयोग करके धातु के परिधान जैसे कवच को उपयोगी संसाधनों में तोड़ा जा सकता है।</SmeltApparel.description>
+  <SmeltApparel.description>कवच जैसे धात्विक परिधानों को उपयोगी संसाधनों में तोड़ने के लिए गर्मी और शक्तिशाली विद्युत चुंबकों का उपयोग करें।</SmeltApparel.description>
   <!-- EN: Smelting apparel. -->
   <SmeltApparel.jobString>वस्त्र पिघलाना।</SmeltApparel.jobString>
   
   <!-- EN: smelt or destroy thing -->
   <SmeltOrDestroyThing.label>पिघलाना/नष्ट करना</SmeltOrDestroyThing.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic things like weapons and armor into useful resources, or destroy them if they are not smeltable. -->
-  <SmeltOrDestroyThing.description>गर्मता और शक्तिशाली विद्युत चुम्बकों का उपयोग हथियारों और कवच जैसे धातुई वस्तुओं को उपयोगी संसाधनों में तोड़ने के लिए करें, या यदि वे पिघलने योग्य नहीं हैं तो उन्हें नष्ट कर दें।</SmeltOrDestroyThing.description>
+  <SmeltOrDestroyThing.description>हथियारों और कवच जैसी धात्विक वस्तुओं को उपयोगी संसाधनों में तोड़ने के लिए गर्मी और शक्तिशाली विद्युत चुंबकों का उपयोग करें, या यदि वे पिघलने योग्य नहीं हैं तो उन्हें नष्ट कर दें।</SmeltOrDestroyThing.description>
   <!-- EN: Smelting/destroying things. -->
   <SmeltOrDestroyThing.jobString>पिघलाना/नष्ट करना।</SmeltOrDestroyThing.jobString>
   

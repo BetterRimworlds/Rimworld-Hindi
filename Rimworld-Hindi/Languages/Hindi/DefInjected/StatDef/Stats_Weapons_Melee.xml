@@ -12,19 +12,19 @@
   <MeleeWeapon_AverageArmorPenetration.description>नज़दीकी युद्ध में औसत कवच भेदन।</MeleeWeapon_AverageArmorPenetration.description>
   
   <!-- EN: melee damage per second -->
-  <MeleeWeapon_AverageDPS.label>नज़दीकी युद्ध प्रति सेकंड क्षति</MeleeWeapon_AverageDPS.label>
+  <MeleeWeapon_AverageDPS.label>प्रति सेकंड नज़दीकी युद्ध क्षति</MeleeWeapon_AverageDPS.label>
   <!-- EN: Average damage dealt per second in melee combat, if all attacks hit. -->
-  <MeleeWeapon_AverageDPS.description>नज़दीकी युद्ध में प्रति सेकंड औसत नुकसान, यदि सभी हमले लगते हैं।</MeleeWeapon_AverageDPS.description>
+  <MeleeWeapon_AverageDPS.description>नज़दीकी युद्ध में प्रति सेकंड किया गया औसत नुकसान, यदि सभी हमले सटीक बैठें।</MeleeWeapon_AverageDPS.description>
   
   <!-- EN: melee cooldown -->
-  <MeleeWeapon_CooldownMultiplier.label>नज़दीकी युद्ध शीतकाल</MeleeWeapon_CooldownMultiplier.label>
+  <MeleeWeapon_CooldownMultiplier.label>नज़दीकी युद्ध कूलडाउन</MeleeWeapon_CooldownMultiplier.label>
   <!-- EN: A multiplier on attack delay for weapons made of this material. -->
   <MeleeWeapon_CooldownMultiplier.description>इस सामग्री से बने हथियारों के लिए हमले की देरी पर एक गुणक।</MeleeWeapon_CooldownMultiplier.description>
   
   <!-- EN: melee damage multiplier -->
   <MeleeWeapon_DamageMultiplier.label>नज़दीकी युद्ध क्षति गुणक</MeleeWeapon_DamageMultiplier.label>
   <!-- EN: A damage multiplier applied to melee combat. -->
-  <MeleeWeapon_DamageMultiplier.description>नज़दीकी युद्ध में क्षति गुणक लागू किया गया।</MeleeWeapon_DamageMultiplier.description>
+  <MeleeWeapon_DamageMultiplier.description>नज़दीकी युद्ध में लागू होने वाला एक क्षति गुणक।</MeleeWeapon_DamageMultiplier.description>
   
   <!-- EN: sharp damage -->
   <SharpDamageMultiplier.label>तीव्र क्षति</SharpDamageMultiplier.label>

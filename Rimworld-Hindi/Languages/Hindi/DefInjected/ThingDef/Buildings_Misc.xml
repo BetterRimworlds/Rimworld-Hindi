@@ -4,7 +4,7 @@
   <!-- EN: ancient cryptosleep casket -->
   <AncientCryptosleepCasket.label>प्राचीन क्रिप्टोस्लीप ताबूत</AncientCryptosleepCasket.label>
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
-  <AncientCryptosleepCasket.description>यह क्रिप्टोस्लीप ताबूत ऐसा लग रहा है जैसे यह बहुत लंबे समय से यहाँ है। कौन जानता है इसमें क्या हो सकता है?</AncientCryptosleepCasket.description>
+  <AncientCryptosleepCasket.description>यह क्रिप्टोस्लीप ताबूत ऐसा लगता है जैसे यह यहाँ बहुत लंबे समय से है। कौन जानता है कि इसमें क्या हो सकता है?</AncientCryptosleepCasket.description>
   
   <!-- EN: caravan hitching spot -->
   <CaravanPackingSpot.label>कारवाँ जोड़ना स्थान</CaravanPackingSpot.label>
@@ -52,7 +52,7 @@
   <EggBox.description>अंडों को रखने के लिए नर्म सामग्री से बना एक डिब्बा। अंडा देने वाले जानवर, यदि संभव हो तो, अंडे के डिब्बों में अंडे देंगे ताकि समय बचाया जा सके। यह डिब्बा बाहरी वातावरण में अंडों के खराब होने से भी बचाता है, हालांकि यह तापमान से होने वाले नुकसान से नहीं बचाता।</EggBox.description>
   
   <!-- EN: firefoam popper -->
-  <FirefoamPopper.label>अग्निफोम प्रस्फोटक</FirefoamPopper.label>
+  <FirefoamPopper.label>फायरफोम पॉपर</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
   <FirefoamPopper.description>आग लगने पर, यह सुरक्षा उपकरण फूटता है और अपने चारों ओर एक वृत्ताकार क्षेत्र में अग्निरोधी फोम का छिड़काव करता है। इसे मैन्युअल रूप से भी सक्रिय किया जा सकता है।</FirefoamPopper.description>
   <!-- EN: Trigger {0_label} -->
@@ -86,7 +86,7 @@
   <!-- EN: multi-analyzer -->
   <MultiAnalyzer.label>बहु-विश्लेषक</MultiAnalyzer.label>
   <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
-  <MultiAnalyzer.description>उच्च तकनीक अनुसंधान बेंच के पास रखने पर अनुसंधान की गति बढ़ती है और नए अनुसंधान परियोजनाएं खुलती हैं। प्रत्येक अनुसंधान बेंच केवल एक मल्टी-एनालाइज़र का उपयोग कर सकती है।</MultiAnalyzer.description>
+  <MultiAnalyzer.description>हाई-टेक रिसर्च बेंच के पास रखे जाने पर अनुसंधान गति बढ़ाता है और नए अनुसंधान प्रोजेक्ट्स को अनलॉक करता है। प्रत्येक रिसर्च बेंच केवल एक मल्टी-एनालाइज़र का उपयोग कर सकती है।</MultiAnalyzer.description>
   
   <!-- EN: orbital trade beacon -->
   <OrbitalTradeBeacon.label>कक्षीय व्यापार बीकन</OrbitalTradeBeacon.label>
@@ -106,7 +106,7 @@
   <!-- EN: pod launcher -->
   <PodLauncher.label>पॉड लांचर</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
-  <PodLauncher.description>एक परिवहन पॉड लॉन्च करने के लिए ईंधन भरने का बंदरगाह। पॉड लांचर एक समूह के रूप में लॉन्च कर सकते हैं—लेकिन लांचर एक दूसरे के बगल में रखे जाने चाहिए।</PodLauncher.description>
+  <PodLauncher.description>एक परिवहन पॉड को लॉन्च करने के लिए एक ईंधन बंदरगाह। पॉड लॉन्चर एक समूह के रूप में लॉन्च कर सकते हैं - लेकिन लॉन्चरों को एक दूसरे के बगल में रखा जाना चाहिए।</PodLauncher.description>
   
   <!-- EN: sarcophagus -->
   <Sarcophagus.label>शवागार</Sarcophagus.label>
@@ -129,13 +129,13 @@
   <ToolCabinet.description>कार्यस्थल के पास रखने पर कार्य गति बढ़ती है। एक कार्यस्थल अधिकतम दो उपकरण अलमारियाँ का उपयोग कर सकता है।</ToolCabinet.description>
   
   <!-- EN: transport pod -->
-  <TransportPod.label>परिवहन पोड</TransportPod.label>
+  <TransportPod.label>परिवहन पॉड</TransportPod.label>
   <!-- EN: A launchable cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
   <TransportPod.description>एक प्रक्षेपण योग्य कार्गो पॉड जो लोगों, वस्तुओं या जानवरों को ले जा सकता है। इसका उपयोग उपहार भेजने, लोगों या आपूर्ति का परिवहन करने, आश्चर्यजनक हमलों या लड़ाई को मजबूत करने के लिए किया जा सकता है।</TransportPod.description>
   
   <!-- EN: vitals monitor -->
-  <VitalsMonitor.label>जीवन निगरानी</VitalsMonitor.label>
+  <VitalsMonitor.label>महत्वपूर्ण संकेत मॉनिटर</VitalsMonitor.label>
   <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
-  <VitalsMonitor.description>अस्पताल के बिस्तर के ठीक बगल में रखने पर चिकित्सा देखभाल की गुणवत्ता, सर्जरी की सफलता की संभावना और प्रतिरक्षा प्राप्त करने की गति बढ़ जाती है। यह केवल अस्पताल के बिस्तरों के लिए काम करता है—सामान्य बिस्तर इससे लाभान्वित नहीं होंगे। एक ही बिस्तर से एक से अधिक महत्वपूर्ण संकेत मॉनिटर जोड़ने का कोई प्रभाव नहीं पड़ेगा।</VitalsMonitor.description>
+  <VitalsMonitor.description>अस्पताल के बिस्तर के ठीक बगल में रखे जाने पर चिकित्सा उपचार की गुणवत्ता, सर्जरी की सफलता की संभावना और रोग प्रतिरोधक क्षमता बढ़ने की गति को बढ़ाता है। यह केवल अस्पताल के बिस्तरों के लिए काम करता है - सामान्य बिस्तरों को कोई लाभ नहीं होगा। एक ही बिस्तर से एक से अधिक महत्वपूर्ण संकेत मॉनिटर जोड़ने का कोई प्रभाव नहीं पड़ेगा।</VitalsMonitor.description>
   
 </LanguageData>

@@ -81,13 +81,13 @@
   <!-- EN: Damaged -->
   <StatsReport_HasHediffExplanation>क्षतिग्रस्त</StatsReport_HasHediffExplanation>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
-  <StatsReport_MeleeDPSExplanation>DPS = Melee damage * Melee hit chance / Cooldown in seconds</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDPSExplanation>DPS = नज़दीकी युद्ध क्षति * नज़दीकी युद्ध प्रहार की संभावना / सेकंड में कूलडाउन</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
   <StatsReport_MeleeDamage>नज़दीकी युद्ध क्षति</StatsReport_MeleeDamage>
   <!-- EN: Cooldown -->
   <StatsReport_Cooldown>ठंडा होना</StatsReport_Cooldown>
   <!-- EN: Melee hit chance -->
-  <StatsReport_MeleeHitChance>नज़दीकी युद्ध लगने की संभावना</StatsReport_MeleeHitChance>
+  <StatsReport_MeleeHitChance>नज़दीकी युद्ध प्रहार संभावना</StatsReport_MeleeHitChance>
   <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0} के</StatsReport_CooldownFormat>
   <!-- EN: Blocked by fences -->
@@ -185,11 +185,11 @@
   <!-- EN: Stuff -->
   <Stat_Stuff_Name>सामग्री</Stat_Stuff_Name>
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
-  <Stat_Stuff_Desc>यह चीज़ जिस सामग्री से बनी है। यह कई अन्य आँकड़ों को प्रभावित करता है, जिसमें हथियार क्षति, परिधान कवच और इन्सुलेशन, वस्तु और इमारत हिट पॉइंट, सौंदर्य, बाज़ार मूल्य और बहुत कुछ शामिल है।</Stat_Stuff_Desc>
+  <Stat_Stuff_Desc>जिस सामग्री से यह चीज़ बनी है। यह हथियार के नुकसान, परिधान कवच और इन्सुलेशन, वस्तु और निर्माण हिट पॉइंट्स, सुंदरता, बाजार मूल्य, और बहुत कुछ सहित कई अन्य आंकड़ों को प्रभावित करता है।</Stat_Stuff_Desc>
   <!-- EN: Weapon -->
   <Stat_Weapon_Name>हथियार</Stat_Weapon_Name>
   <!-- EN: The weapon used by this turret. -->
-  <Stat_Weapon_Desc>इस तोप द्वारा इस्तेमाल किया गया हथियार।</Stat_Weapon_Desc>
+  <Stat_Weapon_Desc>इस तोप द्वारा उपयोग किया जाने वाला हथियार।</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
   <Stat_HitPoints_Desc>वस्तु के नष्ट होने से पहले वह कितनी क्षति सह सकती है।</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
@@ -199,7 +199,7 @@
   <!-- EN: Which facilities can be used to produce this. -->
   <Stat_Thing_CreatedAt_Desc>यह किस सुविधा का उपयोग करके बनाया जा सकता है।</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
-  <Stat_Thing_Damage_Desc>यह हथियार कितना नुकसान पहुँचाता है।\n\nलक्ष्य के कवच से इसे मोड़ा या कम किया जा सकता है।</Stat_Thing_Damage_Desc>
+  <Stat_Thing_Damage_Desc>यह हथियार जितना नुकसान पहुँचाता है।\n\nइसे लक्ष्य के कवच द्वारा विक्षेपित या कम किया जा सकता है।</Stat_Thing_Damage_Desc>
   <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
   <Stat_Thing_Drug_MedicineXpGainFactor_Desc>डॉक्टरों को इस उपकरण से मरीज़ की देखभाल करते समय मिलने वाले अनुभव की मात्रा पर एक गुणक।</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
   <!-- EN: The attributes of this plant. -->
@@ -213,7 +213,7 @@
   <!-- EN: Certain apparel is generally preferred by one gender. Anyone else may be unhappy wearing it. -->
   <Stat_Thing_Apparel_Gender_Desc>कुछ परिधान सामान्यतः एक लिंग द्वारा पसंद किए जाते हैं। कोई अन्य व्यक्ति उन्हें पहनने से नाखुश हो सकता है।</Stat_Thing_Apparel_Gender_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
-  <Stat_Thing_Apparel_Covers_Desc>कवच उन शारीरिक अंगों की रक्षा नहीं करता है जिन्हें यह आड़ में नहीं रखता।</Stat_Thing_Apparel_Covers_Desc>
+  <Stat_Thing_Apparel_Covers_Desc>यह शरीर के किन हिस्सों को आड़ प्रदान करता है।\n\nकवच उन शरीर के अंगों की रक्षा नहीं करता है जिन्हें यह कवर नहीं करता है।</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
   <Stat_Thing_Apparel_Layer_Desc>यह परिधान परतें भरता है।\n\nकिसी भी शारीरिक अंग के लिए, प्रत्येक परत में केवल एक परिधान पहना जा सकता है।</Stat_Thing_Apparel_Layer_Desc>
   <!-- EN: The minimum soil fertility that this plant requires to grow. -->
@@ -261,7 +261,7 @@
   <!-- EN: How close this creature is to adulthood.\n\nGrowth requires nourishment. A hungry animal will grow at a slower rate compared to a well-fed one. -->
   <Stat_Race_Growth_Desc>यह जीव वयस्कता के कितने करीब है।\n\nविकास के लिए पोषण आवश्यक है। भूखे जानवर की वृद्धि दर, अच्छी तरह से पोषित जानवर की तुलना में धीमी होगी।</Stat_Race_Growth_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
-  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>How much time passes between when a melee attack with this weapon begins and when it hits.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>इस हथियार के साथ एक नज़दीकी युद्ध हमला शुरू होने और उसके लगने के बीच कितना समय बीतता है।</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
   <!-- EN: How much time passes between when a ranged attack begins aiming and when it fires. -->
   <Stat_Thing_Weapon_RangedWarmupTime_Desc>रेंज्ड हमले के लक्ष्य साधने और फायर होने के बीच कितना समय बीतता है।</Stat_Thing_Weapon_RangedWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
@@ -295,7 +295,7 @@
   <!-- EN: Which stat governs the quality or amount of output.\n\nThe higher the stat of the worker is, the higher the quality or yield will be. -->
   <Stat_Recipe_EfficiencyStat_Desc>कार्यकर्ता की क्षमता जितनी अधिक होगी, गुणवत्ता या उपज उतनी ही अधिक होगी।</Stat_Recipe_EfficiencyStat_Desc>
   <!-- EN: A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used. -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>यह ऑपरेशन सफल होने की संभावना पर एक गुणक है। अधिक कठिन ऑपरेशनों में कम गुणक होते हैं।\n\nसर्जरी की वास्तविक सफलता की संभावना डॉक्टर, सुविधाओं और इस्तेमाल की गई दवा से भी प्रभावित होती है।</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>इस ऑपरेशन के सफल होने की संभावना पर एक गुणक। अधिक कठिन ऑपरेशनों में कम गुणक होते हैं।\n\nसर्जरी की सफलता की वास्तविक संभावना डॉक्टर, सुविधाओं और उपयोग की जाने वाली दवा से भी प्रभावित होती है।</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
   <!-- EN: Can't fail -->
   <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>असफलता असंभव।</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
   <!-- EN: Performing this operation is safe for the patient. -->

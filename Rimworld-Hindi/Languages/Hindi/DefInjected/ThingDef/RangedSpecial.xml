@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: orbital bombardment targeter -->
-  <OrbitalTargeterBombardment.label>लक्ष्यक</OrbitalTargeterBombardment.label>
+  <OrbitalTargeterBombardment.label>कक्षीय बमबारी लक्ष्यक</OrbitalTargeterBombardment.label>
   <!-- EN: An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently. -->
   <OrbitalTargeterBombardment.description>एक कक्षीय बमबारी प्रणाली के लिए एक प्राचीन लक्ष्यीकरण उपकरण। यह इकाई एक लक्ष्य को निर्दिष्ट करती है और निर्देशांक को उपग्रहों के एक नेटवर्क में प्रसारित करती है, जो तब गतिज प्रभावकों के साथ लक्ष्य क्षेत्र पर बमबारी करते हैं। इस इकाई को अनधिकृत उपयोगकर्ताओं को स्वीकार करने के लिए पुनः प्रोग्राम किया गया है, लेकिन एक बार उपयोग किए जाने के बाद, नेटवर्क अतिक्रमण का पता लगाएगा और लिंक को स्थायी रूप से काट देगा।</OrbitalTargeterBombardment.description>
   <!-- EN: charge -->
@@ -10,10 +10,10 @@
   <!-- EN: on cooldown -->
   <OrbitalTargeterBombardment.comps.CompApparelReloadable.cooldownGerund>ठंडा होना</OrbitalTargeterBombardment.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: orbital bombardment targeter -->
-  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>लक्ष्यनिर्देशक</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
+  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>कक्षीय बमबारी लक्ष्यक</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
   
   <!-- EN: orbital power beam targeter -->
-  <OrbitalTargeterPowerBeam.label>कक्षीय ऊर्जा बीम लक्षक</OrbitalTargeterPowerBeam.label>
+  <OrbitalTargeterPowerBeam.label>कक्षीय शक्ति बीम लक्ष्यक</OrbitalTargeterPowerBeam.label>
   <!-- EN: An ancient targeting unit for a network of power-collection satellites. Once aimed at a target, it directs ancient satellites to begin beaming power down in a massive column of electromagnetic energy. This power can safely be collected in a giant absorption dish. Since you have no absorption dish, you'll be aiming it at enemies, at which point the power column will turn the area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut themselves down, and permanently deactivate the targeter. -->
   <OrbitalTargeterPowerBeam.description>यह शक्ति-संग्रहण उपग्रहों के नेटवर्क के लिए एक प्राचीन लक्ष्यीकरण इकाई है। एक बार लक्ष्य पर केंद्रित होने के बाद, यह प्राचीन उपग्रहों को विद्युतचुंबकीय ऊर्जा के एक विशाल स्तंभ में शक्ति प्रसारित करना शुरू करने का निर्देश देता है। इस शक्ति को एक विशाल अवशोषण डिश में सुरक्षित रूप से एकत्र किया जा सकता है। चूंकि आपके पास अवशोषण डिश नहीं है, इसलिए आप इसे शत्रुओं पर लक्षित करेंगे, जिस बिंदु पर शक्ति स्तंभ क्षेत्र को हजार डिग्री सेल्सियस के नरक में बदल देगा। यह तब तक जारी रहेगा जब तक कि उपग्रह असुरक्षित लक्ष्यीकरण का पता नहीं लगा लेते, खुद को बंद नहीं कर देते, और लक्ष्यीकरण इकाई को स्थायी रूप से निष्क्रिय नहीं कर देते।</OrbitalTargeterPowerBeam.description>
   <!-- EN: charge -->
@@ -21,10 +21,10 @@
   <!-- EN: on cooldown -->
   <OrbitalTargeterPowerBeam.comps.CompApparelReloadable.cooldownGerund>ठंडा होना</OrbitalTargeterPowerBeam.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: orbital power beam targeter -->
-  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>कक्षीय ऊर्जा बीम लक्षक</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
+  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>कक्षीय शक्ति बीम लक्ष्यक</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
   
   <!-- EN: tornado generator -->
-  <TornadoGenerator.label>तूफान जनरेटर</TornadoGenerator.label>
+  <TornadoGenerator.label>टॉरनेडो जनरेटर</TornadoGenerator.label>
   <!-- EN: An ancient control unit for a network of weather-control satellites. This device has had certain failsafes bypassed; it is capable of causing a massive air current disturbance, which will generate a tornado at a chosen location. The weather network will detect this unauthorized intrusion and lock out the device after use, but the tornado will be left to spend its energy normally. -->
   <TornadoGenerator.description>एक मौसम-नियंत्रण उपग्रहों के नेटवर्क के लिए प्राचीन नियंत्रण इकाई। इस उपकरण में कुछ सुरक्षा उपाय निष्क्रिय कर दिए गए हैं; यह एक बड़े वायु प्रवाह में गड़बड़ी पैदा करने में सक्षम है, जो चुने हुए स्थान पर एक बवंडर उत्पन्न करेगा। मौसम नेटवर्क इस अनधिकृत हस्तक्षेप का पता लगाएगा और उपयोग के बाद उपकरण को लॉक कर देगा, लेकिन बवंडर अपनी ऊर्जा सामान्य रूप से खर्च करेगा।</TornadoGenerator.description>
   <!-- EN: charge -->
@@ -32,6 +32,6 @@
   <!-- EN: on cooldown -->
   <TornadoGenerator.comps.CompApparelReloadable.cooldownGerund>ठंडा होना</TornadoGenerator.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: tornado generator -->
-  <TornadoGenerator.verbs.Verb_Spawn.label>तूफान जनरेटर</TornadoGenerator.verbs.Verb_Spawn.label>
+  <TornadoGenerator.verbs.Verb_Spawn.label>टॉरनेडो जनरेटर</TornadoGenerator.verbs.Verb_Spawn.label>
   
 </LanguageData>

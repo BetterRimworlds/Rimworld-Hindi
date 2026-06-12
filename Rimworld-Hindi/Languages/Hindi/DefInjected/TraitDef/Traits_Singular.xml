@@ -42,7 +42,7 @@
   <Brawler.degreeDatas.brawler.label>मुक्केबाज</Brawler.degreeDatas.brawler.label>
   <Brawler.degreeDatas.brawler.labelFemale>मुक्केबाज</Brawler.degreeDatas.brawler.labelFemale>
   <!-- EN: {PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon. -->
-  <Brawler.degreeDatas.brawler.description>{PAWN_gender ? {PAWN_nameDef} को नज़दीकी युद्ध में लड़ने में मज़ा आता है। {PAWN_possessive} सटीकता नज़दीकी युद्ध में बहुत बढ़ जाती है, लेकिन अगर {PAWN_pronoun} से दूर से वार करने वाला हथियार ले जाने को कहा जाए तो {PAWN_pronoun} बहुत दुखी हो जाएगी। : {PAWN_nameDef} को नज़दीकी युद्ध में लड़ने में मज़ा आता है। {PAWN_possessive} सटीकता नज़दीकी युद्ध में बहुत बढ़ जाती है, लेकिन {PAWN_pronoun} को अगर दूर से वार करने वाले हथियार ले जाने के लिए कहा जाए तो वह बहुत दुखी हो जाएगा।}</Brawler.degreeDatas.brawler.description>
+  <Brawler.degreeDatas.brawler.description>{PAWN_gender ? {PAWN_nameDef} को बहुत करीब से और व्यक्तिगत रूप से लड़ना पसंद है। नज़दीकी युद्ध में {PAWN_possessive} सटीकता काफी बढ़ जाती है, लेकिन यदि उसे दूर के हथियार चलाने के लिए कहा जाए तो {PAWN_pronoun} बहुत नाखुश होगी। : {PAWN_nameDef} को बहुत करीब से और व्यक्तिगत रूप से लड़ना पसंद है। नज़दीकी युद्ध में {PAWN_possessive} सटीकता काफी बढ़ जाती है, लेकिन यदि उसे दूर के हथियार ले जाने के लिए कहा जाए तो {PAWN_pronoun} बहुत नाखुश होगा।}</Brawler.degreeDatas.brawler.description>
   
   <!-- EN: cannibal -->
   <Cannibal.degreeDatas.cannibal.label>मानवभक्षी</Cannibal.degreeDatas.cannibal.label>

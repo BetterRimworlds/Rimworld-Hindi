@@ -31,7 +31,7 @@
   <!-- EN: Need defenses -->
   <NeedDefenses>रक्षा की जरूरत</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>आप यहाँ कुछ समय से हैं और संभवतः देखे जा चुके हैं। समुद्री डाकू छापे जल्द ही शुरू होंगे।\n\nआपको रेत के बोरे या जाल जैसे बचावों की तैयारी करनी चाहिए।</NeedDefensesDesc>
+  <NeedDefensesDesc>आप यहाँ कुछ समय से हैं और शायद आपको देख लिया गया है। समुद्री डाकू छापे जल्द ही शुरू हो जाएंगे।\n\nआपको रेत की थैलियों या जाल जैसे बचाव के प्रबंध करने चाहिए।</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
   <NeedDoctor>डॉक्टर की जरूरत</NeedDoctor>
@@ -56,9 +56,9 @@
   <!-- EN: Low medicine -->
   <LowMedicine>कम दवा</LowMedicine>
   <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
-  <LowMedicineDesc>भंडारण में आपके पास केवल {0} दवाएँ बची हैं।\n\nव्यापारियों से और दवाएँ खरीदें।</LowMedicineDesc>
+  <LowMedicineDesc>भंडार में केवल {0} दवाएं बची हैं।\n\nव्यापारियों से और दवा खरीदें।</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
-  <NoMedicineDesc>आपके भंडारण में अब कोई दवा नहीं बची है।\n\nव्यापारियों से अधिक दवा खरीदें।</NoMedicineDesc>
+  <NoMedicineDesc>भंडार में अब कोई दवा नहीं बची है।\n\nव्यापारियों से और दवा खरीदें।</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
   <NeedColonistBeds>कॉलोनिस्ट बिस्तर चाहिए</NeedColonistBeds>
@@ -96,14 +96,14 @@
   <ExhaustionDesc>ये उपनिवेशवादी थके हुए हैं और उन्हें आराम की ज़रूरत है:\n{0}\n\nउन्हें आराम करने दें। उन्हें उपनिवेशवादियों के उपयोग के लिए चिह्नित एक बिस्तर की आवश्यकता होगी। साथ ही, सुनिश्चित करें कि उन्हें मसौदा नहीं बनाया गया है।</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
-  <NeedFoodHopper>भोजन हॉपर चाहिए</NeedFoodHopper>
+  <NeedFoodHopper>भोजन हॉपर की आवश्यकता है</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>आपके पास एक पोषक तत्व डिस्पेंसर है जिसके बगल में कोई हॉपर नहीं है।\n\nकाम करने के लिए, पेस्ट डिस्पेंसर को कच्चा भोजन से भरे एक आसन्न हॉपर से खींचना चाहिए।\n\nडिस्पेंसर के बगल में एक हॉपर बनाएं।</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
 
   <!-- EN: Need meal source -->
   <NeedMealSource>भोजन स्रोत</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>कच्चे भोजन से उचित भोजन तैयार करने का आपके पास कोई तरीका नहीं है।\n\nएक स्टोव, कैम्पफ़ायर या पोषक वितरक बनाएँ।\n\n(यह जेल की कोठरी में नहीं हो सकता, अन्यथा उपनिवेशवादी इसका उपयोग नहीं कर सकते।)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
   <NeedJoySource>मनोरंजन विविधता</NeedJoySource>
@@ -140,7 +140,7 @@
   <!-- EN: Shield user has ranged weapon -->
   <ShieldUserHasRangedWeapon>ढाल उपयोगकर्ता के पास दूरस्थ हथियार है।</ShieldUserHasRangedWeapon>
   <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
-  <ShieldUserHasRangedWeaponDesc>आपके एक उपनिवेशवादी के पास शील्ड बेल्ट है और वे एक दूरी से चलने वाला हथियार ले जा रहे हैं। वे शील्ड के माध्यम से अपना हथियार नहीं चला पाएंगे (सिर्फ उन लक्ष्यों पर जो पहले से ही उनसे छू रहे हैं)।</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>आपके एक उपनिवेशवादी के पास ढाल बेल्ट है और वे एक लंबी दूरी का हथियार ले जा रहे हैं। वे ढाल के माध्यम से अपना हथियार नहीं चला पाएंगे (उन लक्ष्यों को छोड़कर जो पहले से ही उन्हें छू रहे हैं)।</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
   <NeedResearchProject>शोध परियोजना</NeedResearchProject>
@@ -206,7 +206,7 @@
   <!-- EN: Hunter has shield and ranged weapon -->
   <HunterHasShieldAndRangedWeapon>शिकारी के पास ढाल और दूरस्थ हथियार है।</HunterHasShieldAndRangedWeapon>
   <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
-  <HunterHasShieldAndRangedWeaponDesc>आपके शिकारी में से एक दूरी से वार करने वाले हथियार का उपयोग कर रहा है और एक ढाल बेल्ट पहने हुए है जो दूरी पर गोली चलाने से रोकता है।\n\nजब तक ढाल नहीं हटाई जाती, तब तक वे शिकार नहीं कर पाएंगे।</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>आपका एक शिकारी दूर के हथियार का उपयोग कर रहा है और ढाल बेल्ट पहने हुए है जो दूर से गोलीबारी करने से रोकता है।\n\nजब तक ढाल नहीं हटाई जाती, वे शिकार नहीं कर पाएंगे।</HunterHasShieldAndRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
   <NeedWarmClothes>गर्म कपड़े चाहिए।</NeedWarmClothes>
@@ -259,11 +259,11 @@
   <!-- EN: Countdown activator {0} -->
   <ActivatorCountdown>काउंटडाउन सक्रियक {0}</ActivatorCountdown>
   <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDesc>एक उलटी गिनती सक्रियक टिक रहा है, जो आस-पास के मेकैनॉइड्स को जगाने की तैयारी कर रहा है।</ActivatorCountdownDesc>
+  <ActivatorCountdownDesc>एक काउंटडाउन एक्टिवेटर टिक-टिक कर रहा है, जो पास के मेकैनॉइड्स को जगाने की तैयारी कर रहा है।</ActivatorCountdownDesc>
   <!-- EN: {0} countdown activators -->
   <ActivatorCountdownMultiple>{0} सक्रियक गिनती</ActivatorCountdownMultiple>
   <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
-  <ActivatorCountdownDescMultiple>{0} काउंटडाउन एक्टिवेटर टिक रहे हैं, जो आस-पास के मेकैनॉइड्स को जगाने की तैयारी कर रहे हैं।</ActivatorCountdownDescMultiple>
+  <ActivatorCountdownDescMultiple>वहाँ {0} काउंटडाउन एक्टिवेटर्स टिक-टिक कर रहे हैं, जो पास के मेकैनॉइड्स को जगाने की तैयारी कर रहे हैं।</ActivatorCountdownDescMultiple>
 
   <!-- EN: Quest expires in {0} -->
   <QuestExpiresSoon>क्वेस्ट {0} में समाप्त होगी।</QuestExpiresSoon>

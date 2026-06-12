@@ -14,7 +14,7 @@
   <!-- EN: bluefur -->
   <Leather_Bluefur.label>नीलाफर</Leather_Bluefur.label>
   <!-- EN: The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates. -->
-  <Leather_Bluefur.description>मफ्फालो का रोयेंदार खाल। इसकी विशिष्ट नीली रंगत से पहचाना जाता है। ठंडे जलवायु में तापमान विनियमन में अच्छा।</Leather_Bluefur.description>
+  <Leather_Bluefur.description>मफ्फालो की रोएँदार खाल। अपने विशिष्ट नीले रंग के कारण पहचानी जाती है। ठंडी जलवायु में तापमान विनियमन के लिए अच्छी है।</Leather_Bluefur.description>
 
   <!-- EN: camelhide -->
   <Leather_Camel.label>उंट चमड़ा</Leather_Camel.label>
@@ -100,7 +100,7 @@
   <!-- EN: thrumbofur -->
   <Leather_Thrumbo.label>थ्रमबोफर</Leather_Thrumbo.label>
   <!-- EN: Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength. -->
-  <Leather_Thrumbo.description>थ्रम्बो का रोयेंदार खाल। शानदार और असाधारण रूप से टिकाऊ। इसके इन्सुलेशन और शक्ति के लिए उच्चतम गुणवत्ता वाले शिल्प के लिए उपयोग किया जाता है।</Leather_Thrumbo.description>
+  <Leather_Thrumbo.description>एक थ्रम्बो की फर वाली खाल। शानदार और असाधारण रूप से टिकाऊ। अपने इन्सुलेशन और मजबूती के लिए उच्चतम गुणवत्ता वाले शिल्प के लिए उपयोग किया जाता है।</Leather_Thrumbo.description>
 
   <!-- EN: wolfskin -->
   <Leather_Wolf.label>भेड़िया खाल</Leather_Wolf.label>

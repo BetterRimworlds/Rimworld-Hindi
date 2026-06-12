@@ -16,9 +16,9 @@
   <UnfinishedApparel.description>एक परिधान का अधूरा टुकड़ा।</UnfinishedApparel.description>
   
   <!-- EN: unfinished simple armor -->
-  <UnfinishedArmor.label>अधूरा सरल कवच</UnfinishedArmor.label>
+  <UnfinishedArmor.label>अधूरा साधारण कवच</UnfinishedArmor.label>
   <!-- EN: An unfinished piece of simple armor. -->
-  <UnfinishedArmor.description>एक अधूरा साधारण कवच का टुकड़ा।</UnfinishedArmor.description>
+  <UnfinishedArmor.description>साधारण कवच का एक अधूरा टुकड़ा।</UnfinishedArmor.description>
   
   <!-- EN: unfinished belt -->
   <UnfinishedBelt.label>अधूरा बेल्ट</UnfinishedBelt.label>
@@ -36,7 +36,7 @@
   <UnfinishedGun.description>किसी प्रकार की अधूरी बंदूक।</UnfinishedGun.description>
   
   <!-- EN: unfinished bionic -->
-  <UnfinishedHealthItemBionic.label>अधूरा बायोनिक</UnfinishedHealthItemBionic.label>
+  <UnfinishedHealthItemBionic.label>अधूना बायोनिक</UnfinishedHealthItemBionic.label>
   <!-- EN: An unfinished bionic. -->
   <UnfinishedHealthItemBionic.description>एक अधूरा बायोनिक।</UnfinishedHealthItemBionic.description>
   
@@ -53,7 +53,7 @@
   <!-- EN: unfinished metal armor -->
   <UnfinishedMetallicTechArmor.label>अधूरा धातु कवच</UnfinishedMetallicTechArmor.label>
   <!-- EN: An unfinished piece of metal armor. -->
-  <UnfinishedMetallicTechArmor.description>एक अधूरा धातु कवच।</UnfinishedMetallicTechArmor.description>
+  <UnfinishedMetallicTechArmor.description>धातु के कवच का एक अधूरा टुकड़ा।</UnfinishedMetallicTechArmor.description>
   
   <!-- EN: unfinished pack -->
   <UnfinishedPack.label>अधूरा पैकेट</UnfinishedPack.label>
@@ -68,7 +68,7 @@
   <!-- EN: unfinished advanced armor -->
   <UnfinishedTechArmor.label>अधूरा उन्नत कवच</UnfinishedTechArmor.label>
   <!-- EN: An unfinished piece of high-tech armor. -->
-  <UnfinishedTechArmor.description>एक अधूरा उच्च-तकनीकी कवच।</UnfinishedTechArmor.description>
+  <UnfinishedTechArmor.description>उच्च-तकनीकी कवच का एक अधूरा हिस्सा।</UnfinishedTechArmor.description>
   
   <!-- EN: unfinished weapon -->
   <UnfinishedWeapon.label>अधूरा हथियार</UnfinishedWeapon.label>

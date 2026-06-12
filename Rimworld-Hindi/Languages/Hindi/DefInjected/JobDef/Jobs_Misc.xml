@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: applying TargetB. -->
-  <ApplyTechprint.reportString>लक्ष्यबी लागू करना।</ApplyTechprint.reportString>
+  <ApplyTechprint.reportString>TargetB लागू किया जा रहा है।</ApplyTechprint.reportString>
   
   <!-- EN: melee attacking TargetA. -->
-  <AttackMelee.reportString>निकटवर्ती हमला: TargetA</AttackMelee.reportString>
+  <AttackMelee.reportString>TargetA पर नज़दीकी युद्ध हमला।</AttackMelee.reportString>
   
   <!-- EN: attacking TargetA. -->
-  <AttackStatic.reportString>लक्ष्यA पर आक्रमण।</AttackStatic.reportString>
+  <AttackStatic.reportString>TargetA पर हमला कर रहे हैं।</AttackStatic.reportString>
   
   <!-- EN: beating fire out. -->
   <BeatFire.reportString>आग बुझाना।</BeatFire.reportString>
@@ -38,34 +38,34 @@
   <ClearSnow.reportString>बर्फ़ साफ़ करना।</ClearSnow.reportString>
   
   <!-- EN: delivering TargetA. -->
-  <DeliverToBed.reportString>लक्ष्य A पहुंचाना।</DeliverToBed.reportString>
+  <DeliverToBed.reportString>TargetA पहुँचाना।</DeliverToBed.reportString>
   
   <!-- EN: delivering TargetA. -->
-  <DeliverToCell.reportString>लक्ष्य A पहुंचाना।</DeliverToCell.reportString>
+  <DeliverToCell.reportString>TargetA पहुँचाना।</DeliverToCell.reportString>
   
   <!-- EN: dismissing trader. -->
   <DismissTrader.reportString>व्यापारी बर्खास्त।</DismissTrader.reportString>
   
   <!-- EN: dropping TargetA. -->
-  <DropEquipment.reportString>लक्ष्यA गिराया जा रहा है।</DropEquipment.reportString>
+  <DropEquipment.reportString>TargetA को छोड़ना।</DropEquipment.reportString>
   
   <!-- EN: Ejecting fuel from TargetA. -->
-  <EjectFuel.reportString>लक्ष्यए से ईंधन निकाला जा रहा है।</EjectFuel.reportString>
+  <EjectFuel.reportString>TargetA से ईंधन बाहर निकाला जा रहा है।</EjectFuel.reportString>
   
   <!-- EN: emptying TargetA. -->
-  <EmptyThingContainer.reportString>लक्ष्य A खाली करना।</EmptyThingContainer.reportString>
+  <EmptyThingContainer.reportString>TargetA खाली करना।</EmptyThingContainer.reportString>
   
   <!-- EN: entering cryptosleep casket. -->
-  <EnterCryptosleepCasket.reportString>क्रिप्टोस्लीप ताबूत में प्रवेश।</EnterCryptosleepCasket.reportString>
+  <EnterCryptosleepCasket.reportString>क्रिप्टोस्लीप ताबूत में प्रवेश कर रहे हैं।</EnterCryptosleepCasket.reportString>
   
   <!-- EN: entering TargetA. -->
-  <EnterPortal.reportString>लक्ष्यA प्रवेश कर रहा है।</EnterPortal.reportString>
+  <EnterPortal.reportString>TargetA में प्रवेश कर रहे हैं।</EnterPortal.reportString>
   
   <!-- EN: entering TargetA. -->
-  <EnterTransporter.reportString>लक्ष्यA प्रवेश कर रहा है।</EnterTransporter.reportString>
+  <EnterTransporter.reportString>TargetA में प्रवेश कर रहे हैं।</EnterTransporter.reportString>
   
   <!-- EN: equipping TargetA. -->
-  <Equip.reportString>लक्ष्यA लैस करना।</Equip.reportString>
+  <Equip.reportString>TargetA को सुसज्जित कर रहे हैं।</Equip.reportString>
   
   <!-- EN: extinguishing fires nearby. -->
   <ExtinguishFiresNearby.reportString>आसपास आग बुझाना।</ExtinguishFiresNearby.reportString>
@@ -74,7 +74,7 @@
   <ExtinguishSelf.reportString>आत्म-शमन।</ExtinguishSelf.reportString>
   
   <!-- EN: filling TargetA. -->
-  <FillFermentingBarrel.reportString>लक्ष्यA भरना</FillFermentingBarrel.reportString>
+  <FillFermentingBarrel.reportString>TargetA भर रहा है।</FillFermentingBarrel.reportString>
   
   <!-- EN: fleeing. -->
   <Flee.reportString>भागना.</Flee.reportString>
@@ -86,19 +86,19 @@
   <Flick.reportString>फ़्लिकिंग स्विच।</Flick.reportString>
   
   <!-- EN: following TargetA. -->
-  <Follow.reportString>लक्ष्यA का अनुसरण करना</Follow.reportString>
+  <Follow.reportString>TargetA का अनुसरण कर रहे हैं</Follow.reportString>
   
   <!-- EN: following TargetA. -->
-  <FollowClose.reportString>लक्ष्यA का अनुसरण करना</FollowClose.reportString>
+  <FollowClose.reportString>TargetA का अनुसरण कर रहा है</FollowClose.reportString>
   
   <!-- EN: following TargetA. -->
-  <FollowRoper.reportString>लक्ष्यA का अनुसरण करना</FollowRoper.reportString>
+  <FollowRoper.reportString>TargetA का अनुसरण कर रहा है</FollowRoper.reportString>
   
   <!-- EN: making TargetA wear TargetB. -->
-  <ForceTargetWear.reportString>लक्ष्यA को लक्ष्यB पहनाना।</ForceTargetWear.reportString>
+  <ForceTargetWear.reportString>TargetA को TargetB पहनने के लिए प्रेरित करना।</ForceTargetWear.reportString>
   
   <!-- EN: taking TargetA. -->
-  <GiveToPackAnimal.reportString>लक्ष्यA लेना</GiveToPackAnimal.reportString>
+  <GiveToPackAnimal.reportString>TargetA ले रहे हैं।</GiveToPackAnimal.reportString>
   
   <!-- EN: moving. -->
   <Goto.reportString>चलना.</Goto.reportString>
@@ -113,34 +113,34 @@
   <GotoWander.reportString>आवारागर्दी</GotoWander.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulCorpseToPublicPlace.reportString>ढोना लक्ष्यA.</HaulCorpseToPublicPlace.reportString>
+  <HaulCorpseToPublicPlace.reportString>TargetA की ढुलाई करना।</HaulCorpseToPublicPlace.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToPortal.reportString>ढोना लक्ष्यA.</HaulToPortal.reportString>
+  <HaulToPortal.reportString>TargetA की ढुलाई करना।</HaulToPortal.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToTransporter.reportString>ले जाना लक्ष्यA.</HaulToTransporter.reportString>
+  <HaulToTransporter.reportString>TargetA की ढुलाई।</HaulToTransporter.reportString>
   
   <!-- EN: idling. -->
   <IdleWhileDespawned.reportString>निष्क्रियता।</IdleWhileDespawned.reportString>
   
   <!-- EN: igniting TargetA. -->
-  <Ignite.reportString>लक्ष्यA प्रज्वलित करना।</Ignite.reportString>
+  <Ignite.reportString>TargetA को प्रज्वलित कर रहे हैं।</Ignite.reportString>
   
   <!-- EN: inducing TargetA to escape. -->
-  <InducePrisonerToEscape.reportString>लक्ष्यA को भागने के लिए प्रेरित करना।</InducePrisonerToEscape.reportString>
+  <InducePrisonerToEscape.reportString>TargetA को भागने के लिए प्रेरित करना।</InducePrisonerToEscape.reportString>
   
   <!-- EN: consuming TargetA. -->
-  <Ingest.reportString>लक्ष्यA का भक्षण।</Ingest.reportString>
+  <Ingest.reportString>TargetA का उपभोग कर रहा है।</Ingest.reportString>
   
   <!-- EN: installing TargetB in TargetA. -->
-  <InstallImplant.reportString>लक्ष्यए में लक्ष्यबी स्थापित किया जा रहा है।</InstallImplant.reportString>
+  <InstallImplant.reportString>TargetA में TargetB इंस्टॉल किया जा रहा है।</InstallImplant.reportString>
   
   <!-- EN: insulting TargetA. -->
-  <Insult.reportString>अपमानजनक लक्ष्यA.</Insult.reportString>
+  <Insult.reportString>TargetA का अपमान करना।</Insult.reportString>
   
   <!-- EN: activating TargetA. -->
-  <InteractThing.reportString>लक्ष्यA सक्रियण।</InteractThing.reportString>
+  <InteractThing.reportString>TargetA सक्रिय कर रहा है।</InteractThing.reportString>
   
   <!-- EN: lying down. -->
   <LayDown.reportString>लेटना।</LayDown.reportString>
@@ -155,70 +155,70 @@
   <Lovin.reportString>प्रेम।</Lovin.reportString>
   
   <!-- EN: operating turret. -->
-  <ManTurret.reportString>संचालित बुर्ज.</ManTurret.reportString>
+  <ManTurret.reportString>तोप चलाना।</ManTurret.reportString>
   
   <!-- EN: helping TargetA. -->
-  <OfferHelp.reportString>सहायक TargetA.</OfferHelp.reportString>
+  <OfferHelp.reportString>TargetA की सहायता करना</OfferHelp.reportString>
   
   <!-- EN: opening TargetA. -->
-  <Open.reportString>लक्ष्यA खोलना</Open.reportString>
+  <Open.reportString>TargetA खोल रहा है।</Open.reportString>
   
   <!-- EN: picking up TargetA. -->
-  <PickupToHold.reportString>लक्ष्यA उठाना।</PickupToHold.reportString>
+  <PickupToHold.reportString>TargetA उठा रहा है।</PickupToHold.reportString>
   
   <!-- EN: reading TargetA -->
-  <Reading.reportString>लक्ष्यA पढ़ना</Reading.reportString>
+  <Reading.reportString>TargetA पढ़ना</Reading.reportString>
   
   <!-- EN: rearming TargetA. -->
-  <RearmTurret.reportString>लक्ष्यA पुनःसज्जित करना।</RearmTurret.reportString>
+  <RearmTurret.reportString>TargetA को पुनर्रायुद्ध करना।</RearmTurret.reportString>
   
   <!-- EN: rearming TargetA. -->
-  <RearmTurretAtomic.reportString>लक्ष्यA पुनःसज्जित करना।</RearmTurretAtomic.reportString>
+  <RearmTurretAtomic.reportString>TargetA को पुनर्रायुद्ध करना।</RearmTurretAtomic.reportString>
   
   <!-- EN: refueling TargetA. -->
-  <Refuel.reportString>लक्ष्यA को ईंधन भरना।</Refuel.reportString>
+  <Refuel.reportString>TargetA को रिफ्यूलिंग।</Refuel.reportString>
   
   <!-- EN: refueling TargetA. -->
-  <RefuelAtomic.reportString>लक्ष्यA को ईंधन भरना।</RefuelAtomic.reportString>
+  <RefuelAtomic.reportString>TargetA को रिफ्यूलिंग।</RefuelAtomic.reportString>
   
   <!-- EN: reloading TargetA. -->
-  <Reload.reportString>लक्ष्यA पुनः लोड हो रहा है।</Reload.reportString>
+  <Reload.reportString>TargetA को रीलोड किया जा रहा है।</Reload.reportString>
   
   <!-- EN: removing TargetA. -->
-  <RemoveApparel.reportString>लक्ष्यA हटाना।</RemoveApparel.reportString>
+  <RemoveApparel.reportString>TargetA को हटाना</RemoveApparel.reportString>
   
   <!-- EN: resurrecting TargetA. -->
-  <Resurrect.reportString>लक्ष्यA को पुनर्जीवित करना।</Resurrect.reportString>
+  <Resurrect.reportString>TargetA को पुनर्जीवित कर रहे हैं।</Resurrect.reportString>
   
   <!-- EN: fighting with TargetA. -->
-  <SocialFight.reportString>लक्ष्य ए से लड़ाई।</SocialFight.reportString>
+  <SocialFight.reportString>TargetA के साथ लड़ना।</SocialFight.reportString>
   
   <!-- EN: staring. -->
   <StandAndStare.reportString>तकटकी।</StandAndStare.reportString>
   
   <!-- EN: stripping TargetA. -->
-  <Strip.reportString>लक्ष्यA छीनना।</Strip.reportString>
+  <Strip.reportString>TargetA को उतारना।</Strip.reportString>
   
   <!-- EN: taking beer out of TargetA. -->
-  <TakeBeerOutOfFermentingBarrel.reportString>टारगेटए से बीयर निकाल रहा है।</TakeBeerOutOfFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>TargetA से बीयर बाहर ले जा रहे हैं।</TakeBeerOutOfFermentingBarrel.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
-  <TakeCountToInventory.reportString>लक्ष्यA को सूची में ले जाया जा रहा है।</TakeCountToInventory.reportString>
+  <TakeCountToInventory.reportString>TargetA को इन्वेंट्री में ले जा रहे हैं।</TakeCountToInventory.reportString>
   
   <!-- EN: grabbing TargetA from TargetB. -->
-  <TakeFromOtherInventory.reportString>लक्ष्यबी से लक्ष्यए प्राप्त करना।</TakeFromOtherInventory.reportString>
+  <TakeFromOtherInventory.reportString>TargetB से TargetA को उठाना।</TakeFromOtherInventory.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
-  <TakeInventory.reportString>लक्ष्यA को सूची में ले जाया जा रहा है।</TakeInventory.reportString>
+  <TakeInventory.reportString>TargetA को इन्वेंट्री में ले जा रहे हैं।</TakeInventory.reportString>
   
   <!-- EN: trading with TargetA. -->
-  <TradeWithPawn.reportString>टारगेटए से व्यापार।</TradeWithPawn.reportString>
+  <TradeWithPawn.reportString>TargetA के साथ व्यापार।</TradeWithPawn.reportString>
   
   <!-- EN: triggering TargetA. -->
-  <TriggerObject.reportString>लक्ष्यA सक्रिय किया जा रहा।</TriggerObject.reportString>
+  <TriggerObject.reportString>TargetA को सक्रिय करना।</TriggerObject.reportString>
   
   <!-- EN: unloading TargetA. -->
-  <UnloadInventory.reportString>लक्ष्यA अनलोडिंग।</UnloadInventory.reportString>
+  <UnloadInventory.reportString>TargetA को उतारना।</UnloadInventory.reportString>
   
   <!-- EN: unloading inventory. -->
   <UnloadYourInventory.reportString>सूची उतारना।</UnloadYourInventory.reportString>
@@ -227,10 +227,10 @@
   <UseArtifact.reportString>सक्रिय कलाकृति.</UseArtifact.reportString>
   
   <!-- EN: using TargetA. -->
-  <UseItem.reportString>लक्ष्यA.</UseItem.reportString>
+  <UseItem.reportString>TargetA का उपयोग कर रहे हैं।</UseItem.reportString>
   
   <!-- EN: using neurotrainer. -->
-  <UseNeurotrainer.reportString>श्रम, कार्य, और प pawn कर्तव्य</UseNeurotrainer.reportString>
+  <UseNeurotrainer.reportString>न्यूरो प्रशिक्षक का उपयोग कर रहे हैं।</UseNeurotrainer.reportString>
   
   <!-- EN: Doing something. -->
   <UseVerbOnThing.reportString>कुछ कर रहा।</UseVerbOnThing.reportString>
@@ -269,6 +269,6 @@
   <Wait_Wander.reportString>आवारागर्दी</Wait_Wander.reportString>
   
   <!-- EN: wearing TargetA. -->
-  <Wear.reportString>लक्ष्यA पहने हुए।</Wear.reportString>
+  <Wear.reportString>TargetA पहनना।</Wear.reportString>
   
 </LanguageData>

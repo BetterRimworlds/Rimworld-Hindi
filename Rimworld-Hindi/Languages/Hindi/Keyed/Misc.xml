@@ -4,7 +4,7 @@
   <!-- EN: Autosaving -->
   <Autosaving>स्वचालित सहेजना</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>तीनों आप अपनी क्रायोस्लीप शवपेटिकाओं में सायरन और धातु फटने की आवाज़ के साथ जागते हैं। आप मुश्किल से ही भागने वाले पॉड तक पहुँच पाते हैं, इससे पहले कि जहाज फट जाए।\n\nकुछ समय बाद, आप इस अज्ञात रिमवर्ल्ड पर उतरते हैं।\n\nजैसे-जैसे टुकड़े-टुकड़े हुए स्टारशिप के टुकड़े आपके चारों ओर गिरते हैं, आप जीवित रहने की योजना बनाना शुरू करते हैं।</GameStartDialog>
+  <GameStartDialog>आप तीनों सायरन और फटने वाली धातु की आवाज़ के साथ अपने क्रिप्टोस्लीप ताबूतों में जागते हैं। जहाज़ के बिखरने से ठीक पहले आप मुश्किल से बचाव पॉड्स तक पहुँच पाते हैं।\n\nकुछ समय बाद, आप इस अज्ञात रिमवर्ल्ड पर उतरते हैं।\n\nजैसे-जैसे फटे हुए स्टारशिप के टुकड़े आपके चारों ओर गिरते हैं, आप जीवित रहने की योजनाएँ बनाना शुरू करते हैं।</GameStartDialog>
   <!-- EN: Colony -->
   <Colony>कॉलोनी</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->
@@ -198,7 +198,7 @@
   <East>पूर्व</East>
 
   <!-- EN: applying techprint ({0}) -->
-  <ApplyingTechprint>तकनीकी ब्लूप्रिंट ({0}) लागू करना</ApplyingTechprint>
+  <ApplyingTechprint>तकनीकी ब्लूप्रिंट ({0}) लागू किया जा रहा है</ApplyingTechprint>
 
   <!-- Apparel Looks -->
   <!-- EN: variant of -->

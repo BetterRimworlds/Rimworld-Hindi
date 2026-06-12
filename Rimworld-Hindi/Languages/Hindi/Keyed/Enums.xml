@@ -151,13 +151,13 @@
   <!-- EN: no medical care -->
   <MedicalCareCategory_NoCare>चिकित्सा नहीं</MedicalCareCategory_NoCare>
   <!-- EN: doctor care, but no medicine -->
-  <MedicalCareCategory_NoMeds>डॉक्टर की देखभाल, लेकिन कोई दवा नहीं।</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_NoMeds>डॉक्टर की देखभाल, लेकिन कोई दवा नहीं</MedicalCareCategory_NoMeds>
   <!-- EN: herbal medicine or worse -->
-  <MedicalCareCategory_HerbalOrWorse>हर्बल दवा या बदतर</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_HerbalOrWorse>जड़ी-बूटी वाली दवा या उससे भी बुरा</MedicalCareCategory_HerbalOrWorse>
   <!-- EN: industrial-tech medicine or worse -->
-  <MedicalCareCategory_NormalOrWorse>औद्योगिक युग-तकनीकी दवा या बदतर</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>औद्योगिक युग-तकनीकी दवा या उससे भी बदतर</MedicalCareCategory_NormalOrWorse>
   <!-- EN: best quality medicine -->
-  <MedicalCareCategory_Best>सर्वोत्तम गुणवत्ता दवा</MedicalCareCategory_Best>
+  <MedicalCareCategory_Best>सर्वश्रेष्ठ गुणवत्ता वाली दवा</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <!-- EN: Ignore -->

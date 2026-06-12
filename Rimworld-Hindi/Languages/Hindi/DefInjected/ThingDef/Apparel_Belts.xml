@@ -4,6 +4,6 @@
   <!-- EN: shield belt -->
   <Apparel_ShieldBelt.label>ढाल बेल्ट</Apparel_ShieldBelt.label>
   <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP. -->
-  <Apparel_ShieldBelt.description>यह एक प्रक्षेप्य-विकर्षक उपकरण है। यह आने वाले प्रक्षेप्यों या छर्रों को रोकने का प्रयास करेगा, लेकिन हाथापाई हमलों या गर्मी के खिलाफ कुछ नहीं करता है। यह पहनने वाले को बाहर से गोली चलाने से रोकता है, और ईएमपी से टकराने पर तुरंत बंद हो जाता है।</Apparel_ShieldBelt.description>
+  <Apparel_ShieldBelt.description>एक प्रक्षेप्य-प्रतिकर्षण उपकरण। यह आने वाले प्रक्षेप्यों या छर्रों को रोकने का प्रयास करेगा, लेकिन नज़दीकी युद्ध हमलों या गर्मी के विरुद्ध कुछ नहीं करता है। यह पहनने वाले को बाहर की ओर गोली चलाने से रोकता है, और EMP से टकराने पर तुरंत बंद हो जाता है।</Apparel_ShieldBelt.description>
   
 </LanguageData>

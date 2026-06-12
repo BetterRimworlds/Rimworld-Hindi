@@ -9,7 +9,7 @@
   <!-- EN: ate fine meal -->
   <AteFineMeal.stages.ate_fine_meal.label>अच्छा भोजन खाया</AteFineMeal.stages.ate_fine_meal.label>
   <!-- EN: I ate a really tasty fine meal. Yum! -->
-  <AteFineMeal.stages.ate_fine_meal.description>मैंने एक बहुत ही स्वादिष्ट अच्छा भोजन खाया। यम!</AteFineMeal.stages.ate_fine_meal.description>
+  <AteFineMeal.stages.ate_fine_meal.description>मैंने वास्तव में एक बहुत ही स्वादिष्ट अच्छा भोजन खाया। यम!</AteFineMeal.stages.ate_fine_meal.description>
   
   <!-- EN: cooked cannibalism -->
   <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>पका हुआ नरभक्षण</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>
@@ -44,17 +44,17 @@
   <!-- EN: ate kibble -->
   <AteKibble.stages.ate_kibble.label>चारा खाया</AteKibble.stages.ate_kibble.label>
   <!-- EN: I had to eat animal kibble. It's like I don't get to be human any more. -->
-  <AteKibble.stages.ate_kibble.description>मुझे पशु आहार खाना पड़ा। ऐसा लगता है कि अब मैं इंसान नहीं रह गया/रही गई।</AteKibble.stages.ate_kibble.description>
+  <AteKibble.stages.ate_kibble.description>मुझे जानवरों का चारा खाना पड़ा। ऐसा लगता है जैसे अब मैं इंसान नहीं रह गया/गयी हूँ।</AteKibble.stages.ate_kibble.description>
   
   <!-- EN: ate lavish meal -->
-  <AteLavishMeal.stages.ate_lavish_meal.label>शानदार भोजन किया</AteLavishMeal.stages.ate_lavish_meal.label>
+  <AteLavishMeal.stages.ate_lavish_meal.label>शानदार भोजन खाया</AteLavishMeal.stages.ate_lavish_meal.label>
   <!-- EN: That lavish meal was amazing. It nourished my body and my soul. -->
-  <AteLavishMeal.stages.ate_lavish_meal.description>वह शानदार भोजन अद्भुत था। इसने मेरे शरीर और मेरी आत्मा दोनों को पोषण दिया।</AteLavishMeal.stages.ate_lavish_meal.description>
+  <AteLavishMeal.stages.ate_lavish_meal.description>वह शानदार भोजन अद्भुत था। इसने मेरे शरीर और मेरी आत्मा को पोषण दिया।</AteLavishMeal.stages.ate_lavish_meal.description>
   
   <!-- EN: ate raw food -->
   <AteRawFood.stages.ate_raw_food.label>कच्चा भोजन खाया</AteRawFood.stages.ate_raw_food.label>
   <!-- EN: I had to eat raw food. We should be cooking that kind of food before eating it. We're not animals. -->
-  <AteRawFood.stages.ate_raw_food.description>मुझे कच्चा भोजन खाना पड़ा। हमें उस तरह के भोजन को खाने से पहले पकाना चाहिए। हम जानवर नहीं हैं।</AteRawFood.stages.ate_raw_food.description>
+  <AteRawFood.stages.ate_raw_food.description>मुझे कच्चा भोजन खाना पड़ा। हमें खाने से पहले उस तरह के भोजन को पकाना चाहिए। हम जानवर नहीं हैं।</AteRawFood.stages.ate_raw_food.description>
   
   <!-- EN: ate rotten food -->
   <AteRottenFood.stages.ate_rotten_food.label>गला हुआ भोजन</AteRottenFood.stages.ate_rotten_food.label>

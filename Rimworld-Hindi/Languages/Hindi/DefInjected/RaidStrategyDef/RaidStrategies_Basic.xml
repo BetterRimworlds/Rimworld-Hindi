@@ -29,7 +29,7 @@
   <ImmediateAttackFriendly.letterLabelFriendly>दोस्त</ImmediateAttackFriendly.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
-  <ImmediateAttackSmart.arrivalTextEnemy>वे तुरंत हमला कर रहे हैं।\n\nसावधान रहें - वे अपनी रणनीति में असामान्य रूप से चतुर लगते हैं। वे आपके बुर्जों की फायरिंग रेंज से बचेंगे और आपके कुछ जालों को भांप लेंगे।</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.arrivalTextEnemy>वे तुरंत हमला कर रहे हैं।\n\nसावधान रहें - वे अपनी रणनीति में असामान्य रूप से चतुर प्रतीत होते हैं। वे आपकी तोपें के मारक्षेत्र से बचेंगे और आपके कुछ जाल को पहचान लेंगे।</ImmediateAttackSmart.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
   <ImmediateAttackSmart.arrivalTextFriendly>वे तुरंत मदद के लिए आ रहे हैं।</ImmediateAttackSmart.arrivalTextFriendly>
   <!-- EN: Raid -->

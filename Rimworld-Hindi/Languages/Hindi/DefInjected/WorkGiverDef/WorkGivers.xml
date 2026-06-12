@@ -389,9 +389,9 @@
   <!-- EN: fix broken-down buildings -->
   <FixBrokenDownBuilding.label>टूटी इमारतें ठीक करें</FixBrokenDownBuilding.label>
   <!-- EN: replacing broken components in -->
-  <FixBrokenDownBuilding.gerund>टूटे हुए घटकों को बदलना</FixBrokenDownBuilding.gerund>
+  <FixBrokenDownBuilding.gerund>में टूटे हुए घटक बदलना</FixBrokenDownBuilding.gerund>
   <!-- EN: replace broken components in -->
-  <FixBrokenDownBuilding.verb>टूटे हुए घटक बदलें</FixBrokenDownBuilding.verb>
+  <FixBrokenDownBuilding.verb>में टूटे हुए घटक बदलें</FixBrokenDownBuilding.verb>
   
   <!-- EN: flick switches -->
   <Flick.label>स्विच चालू करें</Flick.label>
@@ -562,7 +562,7 @@
   <PlantSeed.verb>पौधा लगाना</PlantSeed.verb>
   
   <!-- EN: rearm turrets -->
-  <RearmTurrets.label>तोपें पुनः लोड करें</RearmTurrets.label>
+  <RearmTurrets.label>तोपें पुन:सज्ज करें</RearmTurrets.label>
   <!-- EN: rearming -->
   <RearmTurrets.gerund>पुनःहथियारबंदी</RearmTurrets.gerund>
   <!-- EN: rearm -->
@@ -660,16 +660,16 @@
   <Strip.verb>छीलना</Strip.verb>
   
   <!-- EN: study archotech structures -->
-  <StudyArchotechStructures.label>आर्कोटेक संरचना अध्ययन</StudyArchotechStructures.label>
+  <StudyArchotechStructures.label>आर्कोटेक संरचनाओं का अध्ययन</StudyArchotechStructures.label>
   <!-- EN: studying -->
   <StudyArchotechStructures.gerund>अध्ययन</StudyArchotechStructures.gerund>
   <!-- EN: study -->
   <StudyArchotechStructures.verb>अध्ययन</StudyArchotechStructures.verb>
   
   <!-- EN: take beer out of fermenting barrels -->
-  <TakeBeerOutOfFermentingBarrel.label>किण्वन बैरल से बीयर निकालें</TakeBeerOutOfFermentingBarrel.label>
+  <TakeBeerOutOfFermentingBarrel.label>किण्वित पीपों से बीयर निकालना</TakeBeerOutOfFermentingBarrel.label>
   <!-- EN: taking beer from -->
-  <TakeBeerOutOfFermentingBarrel.gerund>बीयर लेकर</TakeBeerOutOfFermentingBarrel.gerund>
+  <TakeBeerOutOfFermentingBarrel.gerund>से बीयर लेना</TakeBeerOutOfFermentingBarrel.gerund>
   <!-- EN: take beer -->
   <TakeBeerOutOfFermentingBarrel.verb>बीयर लें</TakeBeerOutOfFermentingBarrel.verb>
   

@@ -9,7 +9,7 @@
   <!-- EN: brewery -->
   <Brewery.label>शराबखाना</Brewery.label>
   <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
-  <Brewery.description>बीयर उत्पादन के लिए मस्ट मिलाने के लिए आवश्यक सभी उपकरणों के साथ एक कार्य केंद्र। मस्ट को अंततः बीयर बनने के लिए किण्वित किया जाना चाहिए।</Brewery.description>
+  <Brewery.description>बीयर उत्पादन के लिए वॉर्ट मिलाने हेतु आवश्यक सभी उपकरणों से युक्त एक कार्य केंद्र। वॉर्ट को अंततः बीयर बनने के लिए किण्वित किया जाना चाहिए।</Brewery.description>
   
   <!-- EN: butcher spot -->
   <ButcherSpot.label>कसाई स्थल</ButcherSpot.label>
@@ -64,7 +64,7 @@
   <!-- EN: fermenting barrel -->
   <FermentingBarrel.label>किण्वन बैरल</FermentingBarrel.label>
   <!-- EN: A barrel for fermenting raw wort into beer. -->
-  <FermentingBarrel.description>कच्चे वर्ट को बीयर में किण्वित करने के लिए एक बैरल।</FermentingBarrel.description>
+  <FermentingBarrel.description>कच्चे वर्ट को बीयर में किण्वित करने के लिए एक पीपा।</FermentingBarrel.description>
   
   <!-- EN: fueled smithy -->
   <FueledSmithy.label>ईंधन भट्टी</FueledSmithy.label>
@@ -89,7 +89,7 @@
   <!-- EN: hopper -->
   <Hopper.label>हॉपर</Hopper.label>
   <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
-  <Hopper.description>मशीनों जैसे पोषक पेस्ट डिस्पेंसर के उपयोग के लिए संसाधन रखता है।</Hopper.description>
+  <Hopper.description>पोषक पेस्ट डिस्पेंसर जैसी मशीनों द्वारा उपयोग के लिए संसाधनों को रखता है।</Hopper.description>
   
   <!-- EN: hydroponics basin -->
   <HydroponicsBasin.label>हाइड्रोपोनिक्स बेसिन</HydroponicsBasin.label>
@@ -99,7 +99,7 @@
   <!-- EN: nutrient paste dispenser -->
   <NutrientPasteDispenser.label>पोषक पेस्ट डिस्पेंसर</NutrientPasteDispenser.label>
   <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
-  <NutrientPasteDispenser.description>एक मशीन जो आस-पास के हॉपर में रखे जैविक फीडस्टॉक से खाद्य पोषक पेस्ट का संश्लेषण करती है। यह किसी भी अन्य भोजन उत्पादन विधि की तुलना में कम सामग्री और समय का उपयोग करता है—लेकिन किसी को भी पोषक पेस्ट खाना पसंद नहीं है। यह कच्चा भोजन स्वीकार करता है, लेकिन घास जैसे खुरदरे पौधों के पदार्थ नहीं।</NutrientPasteDispenser.description>
+  <NutrientPasteDispenser.description>एक मशीन जो बगल के हॉपरों में रखे जैविक कच्चे माल से खाने योग्य पोषक पेस्ट का संश्लेषण करती है। यह किसी भी अन्य भोजन उत्पादन विधि की तुलना में कम सामग्री और समय का उपयोग करती है - लेकिन किसी को भी पोषक पेस्ट खाना पसंद नहीं है। यह कच्चा भोजन स्वीकार करती है, लेकिन घास जैसे खुरदरे पौधों के अवशेषों को नहीं।</NutrientPasteDispenser.description>
   
   <!-- EN: simple research bench -->
   <SimpleResearchBench.label>सरल अनुसंधान बेंच</SimpleResearchBench.label>
@@ -114,7 +114,7 @@
   <!-- EN: machining table -->
   <TableMachining.label>मशीनिंग टेबल</TableMachining.label>
   <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
-  <TableMachining.description>बंदूकें और गोला-बारूद जैसी मशीनरी को इकट्ठा करने या मृत मेकैनॉइड्स को तोड़ने के लिए एक कार्य केंद्र।</TableMachining.description>
+  <TableMachining.description>बंदूक और गोला-बारूद जैसी मशीनरी को जोड़ने, या मृत मेकैनॉइड्स को तोड़ने के लिए एक कार्य स्टेशन।</TableMachining.description>
   
   <!-- EN: art bench -->
   <TableSculpting.label>कला बेंच</TableSculpting.label>

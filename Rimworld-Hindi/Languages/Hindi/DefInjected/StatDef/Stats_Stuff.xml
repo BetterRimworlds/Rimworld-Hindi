@@ -4,21 +4,21 @@
   <!-- EN: Armor - Blunt -->
   <StuffPower_Armor_Blunt.label>कवच - कुंद</StuffPower_Armor_Blunt.label>
   <!-- EN: Armor against blunt damage like club impacts, rock falls, and explosions. -->
-  <StuffPower_Armor_Blunt.description>कुंद क्षति जैसे क्लब के प्रभाव, चट्टानों का गिरना और विस्फोटों के विरुद्ध कवच।</StuffPower_Armor_Blunt.description>
+  <StuffPower_Armor_Blunt.description>गदा के प्रहार, चट्टान गिरने और विस्फोटों जैसे कुंद क्षति (blunt damage) के विरुद्ध कवच।</StuffPower_Armor_Blunt.description>
   <!-- EN: Armor - Blunt (material factor) -->
   <StuffPower_Armor_Blunt.labelForFullStatList>कवच - कुंद (सामग्री कारक)</StuffPower_Armor_Blunt.labelForFullStatList>
   
   <!-- EN: Armor - Heat -->
   <StuffPower_Armor_Heat.label>कवच - ताप</StuffPower_Armor_Heat.label>
   <!-- EN: Armor against temperature-related damage like burns. -->
-  <StuffPower_Armor_Heat.description>तापमान-संबंधी क्षति जैसे जलने से बचाव के लिए कवच।</StuffPower_Armor_Heat.description>
+  <StuffPower_Armor_Heat.description>जलन जैसे तापमान से संबंधित नुकसान के विरुद्ध कवच।</StuffPower_Armor_Heat.description>
   <!-- EN: Armor - Heat (material factor) -->
-  <StuffPower_Armor_Heat.labelForFullStatList>कवच - ताप (सामग्री कारक)</StuffPower_Armor_Heat.labelForFullStatList>
+  <StuffPower_Armor_Heat.labelForFullStatList>कवच - ऊष्मा (सामग्री कारक)</StuffPower_Armor_Heat.labelForFullStatList>
   
   <!-- EN: Armor - Sharp -->
   <StuffPower_Armor_Sharp.label>कवच - तीक्ष्ण</StuffPower_Armor_Sharp.label>
   <!-- EN: Armor against sharp damage like bullets, knife stabs, and animal bites. -->
-  <StuffPower_Armor_Sharp.description>गोली, चाकू के वार और जानवरों के काटने जैसे तीक्ष्ण क्षति के विरुद्ध कवच।</StuffPower_Armor_Sharp.description>
+  <StuffPower_Armor_Sharp.description>गोलियों, चाकू के वार और जानवरों के काटने जैसे नुकीले नुकसान के विरुद्ध कवच।</StuffPower_Armor_Sharp.description>
   <!-- EN: Armor - Sharp (material factor) -->
   <StuffPower_Armor_Sharp.labelForFullStatList>कवच - तीक्ष्ण (सामग्री कारक)</StuffPower_Armor_Sharp.labelForFullStatList>
   

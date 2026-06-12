@@ -2,69 +2,69 @@
 <LanguageData>
   
   <!-- EN: bionic arm -->
-  <BionicArm.label>बायोनिक बांह</BionicArm.label>
+  <BionicArm.label>बायोनिक हाथ</BionicArm.label>
   <!-- EN: An installed bionic arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
-  <BionicArm.description>एक स्थापित बायोनीक हाथ। शांत मिनी-सर्वो महान शक्ति प्रदान करते हैं, जबकि बायो जेल तंत्रिका-लिंक उत्कृष्ट नियंत्रण प्रदान करता है। एक जाली-धूल उपचार प्रणाली इसे क्षति से उबरने देती है। यह लगभग हर तरह से एक जैविक हाथ से बेहतर है।</BionicArm.description>
+  <BionicArm.description>एक स्थापित बायोनिक हाथ। शांत मिनी-सर्वो अत्यधिक शक्ति प्रदान करते हैं, जबकि बायोजेल नर्व-लिंक उत्कृष्ट नियंत्रण देता है। एक लैटिस-डस्ट हीलिंग सिस्टम इसे क्षति से उबरने की अनुमति देता है। यह लगभग हर तरह से एक जैविक हाथ से बेहतर है।</BionicArm.description>
   <!-- EN: fist -->
   <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>मुट्ठी</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a bionic arm -->
-  <BionicArm.labelNoun>बायोनिक बांह</BionicArm.labelNoun>
+  <BionicArm.labelNoun>एक बायोनिक हाथ</BionicArm.labelNoun>
   
   <!-- EN: bionic ear -->
   <BionicEar.label>बायोनिक कान</BionicEar.label>
   <!-- EN: An installed bionic ear. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
-  <BionicEar.description>स्थापित बायोनीक कान। अदृश्य त्वचीय माइक्रोफोन की एक श्रृंखला ध्वनि को पकड़ती है और इसे एक बायो जेल तंत्रिका इंटरफ़ेस में प्रेषित करती है जो सीधे श्रवण तंत्रिका से जुड़ती है। यह इतनी संवेदनशील है कि बिल्ली को देखने से पहले उसकी आवाज़ सुन सकती है, तेज़ शोर से क्षतिग्रस्त नहीं होती है, और स्वचालित रूप से शोर वाले वातावरण में सार्थक ध्वनियों को चुनने के लिए खुद को ट्यून करती है।</BionicEar.description>
+  <BionicEar.description>एक स्थापित बायोनिक कान। अदृश्य सबडर्मल माइक्रोफोन का एक समूह ध्वनि को पकड़ता है और इसे एक बायो जेल तंत्रिका इंटरफ़ेस पर प्रसारित करता है जो सीधे श्रवण तंत्रिका से जुड़ता है। यह बिल्ली को देखने से पहले ही उसे सुनने के लिए पर्याप्त संवेदनशील है, तेज़ शोर से क्षतिग्रस्त नहीं हो सकता है, और शोर भरे वातावरण में सार्थक ध्वनियों को चुनने के लिए स्वचालित रूप से खुद को ट्यून कर लेता है।</BionicEar.description>
   <!-- EN: a bionic ear -->
-  <BionicEar.labelNoun>बायोनिक कान</BionicEar.labelNoun>
+  <BionicEar.labelNoun>एक बायोनिक कान</BionicEar.labelNoun>
   
   <!-- EN: bionic eye -->
   <BionicEye.label>बायोनिक आँख</BionicEye.label>
   <!-- EN: An installed bionic eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
-  <BionicEye.description>स्थापित बायोनीक आँख। इसके बायो जेल तंत्रिका-लिंक, आंतरिक सिग्नल प्री-प्रोसेसर और विस्तृत-स्पेक्ट्रम सेंसर के साथ, यह लगभग हर तरह से एक जैविक आँख से बेहतर है। एक जाली-धूल उपचार प्रणाली इसे क्षति से उबरने देती है।</BionicEye.description>
+  <BionicEye.description>एक स्थापित बायोनिक आँख। अपने बायो जेल नर्व-लिंक, आंतरिक सिग्नल प्री-प्रोसेसर और वाइड-स्पेक्ट्रम सेंसर के साथ, यह लगभग हर तरह से एक जैविक आँख से बेहतर है। एक लैटिस-डस्ट हीलिंग सिस्टम इसे क्षति से उबरने की अनुमति देता है।</BionicEye.description>
   <!-- EN: a bionic eye -->
-  <BionicEye.labelNoun>बायोनिक आँख</BionicEye.labelNoun>
+  <BionicEye.labelNoun>एक बायोनिक आँख</BionicEye.labelNoun>
   
   <!-- EN: bionic heart -->
   <BionicHeart.label>बायोनिक हृदय</BionicHeart.label>
   <!-- EN: An installed bionic heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
-  <BionicHeart.description>एक स्थापित बायोनीक हृदय। इसमें यथार्थवादी हृदय गति के लिए सिंथेटिक मांसपेशी फाइबर हैं, साथ ही उच्च तनाव के दौरान तीव्र परिसंचरण के लिए एक उच्च-प्रवाह पंप भी है। यह लगभग हर तरह से जैविक हृदय से बेहतर है।</BionicHeart.description>
+  <BionicHeart.description>एक स्थापित बायोनिक हृदय। इसमें वास्तविक धड़कन के लिए सिंथेटिक मांसपेशी फाइबर हैं, साथ ही उच्च तनाव के दौरान तीव्र परिसंचरण के लिए एक हाई-फ्लो पंप भी है। यह लगभग हर तरह से एक जैविक हृदय से बेहतर है।</BionicHeart.description>
   <!-- EN: a bionic heart -->
-  <BionicHeart.labelNoun>बायोनिक हृदय</BionicHeart.labelNoun>
+  <BionicHeart.labelNoun>एक बायोनिक हृदय</BionicHeart.labelNoun>
   
   <!-- EN: bionic jaw -->
   <BionicJaw.label>बायोनिक जबड़ा</BionicJaw.label>
   <!-- EN: An installed bionic jaw. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion. -->
-  <BionicJaw.description>एक स्थापित बायोनेटिक जबड़ा। बायोसिंथेटिक हड्डी से बना, प्लास्टील दांत प्रतिस्थापनों और गति की पूरी श्रृंखला के लिए सूक्ष्म सर्वोमोटर के साथ।</BionicJaw.description>
+  <BionicJaw.description>एक स्थापित बायोनिक जबड़ा। यह बायोसिंथेटिक हड्डी से बना है, जिसमें प्लास्टील दांतों के प्रतिस्थापन और गति की पूरी रेंज के लिए माइक्रो सर्वोमोटर्स का एक सेट है।</BionicJaw.description>
   <!-- EN: a bionic jaw -->
-  <BionicJaw.labelNoun>बायोनिक जबड़ा</BionicJaw.labelNoun>
+  <BionicJaw.labelNoun>एक बायोनिक जबड़ा</BionicJaw.labelNoun>
   
   <!-- EN: bionic leg -->
   <BionicLeg.label>बायोनिक पैर</BionicLeg.label>
   <!-- EN: An installed bionic leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
-  <BionicLeg.description>एक स्थापित बायोनीक पैर। इसके बायो जेल तंत्रिका-लिंक, शक्तिशाली मिनी-सर्वो और जाली-धूल उपचार प्रणाली के साथ, यह लगभग हर तरह से एक जैविक पैर से बेहतर है।</BionicLeg.description>
+  <BionicLeg.description>एक स्थापित बायोनिक पैर। अपने बायो जेल नर्व-लिंक, शक्तिशाली मिनी-सर्वो और लैटिस-डस्ट हीलिंग सिस्टम के साथ, यह लगभग हर तरह से एक जैविक पैर से बेहतर है।</BionicLeg.description>
   <!-- EN: a bionic leg -->
-  <BionicLeg.labelNoun>बायोनिक पैर</BionicLeg.labelNoun>
+  <BionicLeg.labelNoun>एक बायोनिक पैर</BionicLeg.labelNoun>
   
   <!-- EN: bionic spine -->
   <BionicSpine.label>बायोनिक रीढ़</BionicSpine.label>
   <!-- EN: An installed bionic spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
-  <BionicSpine.description>स्थापित बायोनीक रीढ़ की हड्डी। एक बायो जेल तंत्रिका गुच्छन एक आर्टिकुलेटेड प्लास्टील कोर के नीचे से गुजरता है, जो एक जाली-धूल उपचार प्रणाली से घिरा हुआ है। यह एक जैविक रीढ़ की हड्डी के प्रदर्शन से मेल खाता है।</BionicSpine.description>
+  <BionicSpine.description>एक स्थापित बायोनिक रीढ़। एक बायो जेल तंत्रिका बंडल एक जोड़दार प्लास्टील कोर के नीचे चलता है, जो लैटिस-डस्ट हीलिंग सिस्टम से घिरा होता है। यह एक जैविक रीढ़ के प्रदर्शन से मेल खाता है।</BionicSpine.description>
   <!-- EN: a bionic spine -->
-  <BionicSpine.labelNoun>बायोनिक रीढ़</BionicSpine.labelNoun>
+  <BionicSpine.labelNoun>एक बायोनिक रीढ़</BionicSpine.labelNoun>
   
   <!-- EN: bionic stomach -->
   <BionicStomach.label>बायोनिक पेट</BionicStomach.label>
   <!-- EN: An installed bionic stomach. A person with this has a much lower chance of getting food poisoning, and is immune to some stomach diseases. An integrated lattice-dust healing system automatically repairs any damage to the artificial organ. It is better than a biological stomach in almost every way. -->
-  <BionicStomach.description>स्थापित बायोनीक पेट। इस स्थिति वाले व्यक्ति को खाद्य विषाक्तता होने की संभावना बहुत कम होती है, और यह कुछ पेट रोगों से प्रतिरक्षित होता है। एक एकीकृत जाली-धूल उपचार प्रणाली स्वचालित रूप से कृत्रिम अंग को होने वाले किसी भी नुकसान की मरम्मत करती है। यह लगभग हर तरह से एक जैविक पेट से बेहतर है।</BionicStomach.description>
+  <BionicStomach.description>एक स्थापित बायोनिक पेट। इसे रखने वाले व्यक्ति में फूड पॉइजनिंग होने की संभावना बहुत कम होती है, और वे पेट की कुछ बीमारियों के प्रति प्रतिरोधी होते हैं। एक एकीकृत लैटिस-डस्ट हीलिंग सिस्टम कृत्रिम अंग को होने वाली किसी भी क्षति की स्वचालित रूप से मरम्मत करता है। यह लगभग हर तरह से एक जैविक पेट से बेहतर है।</BionicStomach.description>
   <!-- EN: a bionic stomach -->
-  <BionicStomach.labelNoun>बायोनिक पेट</BionicStomach.labelNoun>
+  <BionicStomach.labelNoun>एक बायोनिक पेट</BionicStomach.labelNoun>
   
   <!-- EN: bionic tongue -->
   <BionicTongue.label>बायोनिक जीभ</BionicTongue.label>
   <!-- EN: An installed bionic tongue. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
-  <BionicTongue.description>एक स्थापित बायोनीक जीभ। सिंथेटिक चिकनी-फाइबर से बनी और न्यूरोजेल इंटरफेस के माध्यम से जुड़ी, यह बोलने, खाने और स्वाद लेने में एक प्राकृतिक जीभ के प्रदर्शन से मेल खा सकती है।</BionicTongue.description>
+  <BionicTongue.description>एक स्थापित बायोनिक जीभ। सिंथेटिक चिकने-तंतुओं से बनी और न्यूरोजेल इंटरफ़ेस के माध्यम से जुड़ी हुई, यह बोलने, खाने और चखने में एक प्राकृतिक जीभ के प्रदर्शन से मेल खा सकती है।</BionicTongue.description>
   <!-- EN: a bionic tongue -->
-  <BionicTongue.labelNoun>बायोनिक जीभ</BionicTongue.labelNoun>
+  <BionicTongue.labelNoun>एक बायोनिक जीभ</BionicTongue.labelNoun>
   
   <!-- EN: death acidifier -->
   <DeathAcidifier.label>मृत्यु अम्लीकरण</DeathAcidifier.label>

@@ -14,7 +14,7 @@
   <!-- EN: devilstrand -->
   <Plant_Devilstrand.label>डेविलस्ट्रैंड</Plant_Devilstrand.label>
   <!-- EN: This fragile mushroom was genetically engineered to produce a silk net that is both difficult to tear and soft to the touch. While the mushroom takes a very long time to grow, only exotic ultra-tech fabrics outperform its devilstrand fibers.\n\nSome say it's called devilstrand because of its red color. Others think it owes its name to the greed it inspires in people. -->
-  <Plant_Devilstrand.description>यह नाजुक मशरूम आनुवंशिक रूप से रेशम का जाल बनाने के लिए इंजीनियर किया गया है जो फटने में मुश्किल और स्पर्श करने में नरम दोनों है। हालाँकि मशरूम को बढ़ने में बहुत लंबा समय लगता है, केवल विदेशी अल्ट्रा युग के कपड़े ही इसके डेविलस्ट्रैंड रेशों से बेहतर प्रदर्शन करते हैं।\n\nकुछ लोग कहते हैं कि इसे डेविलस्ट्रैंड इसलिए कहा जाता है क्योंकि इसका रंग लाल है। अन्य का मानना है कि यह अपना नाम उन लालच को देता है जो यह लोगों में प्रेरित करता है।</Plant_Devilstrand.description>
+  <Plant_Devilstrand.description>इस नाजुक मशरूम को आनुवंशिक रूप से एक ऐसा रेशमी जाल बनाने के लिए विकसित किया गया है जिसे फाड़ना कठिन और छूने में कोमल दोनों है। हालाँकि इस मशरूम को बढ़ने में बहुत लंबा समय लगता है, केवल विदेशी अल्ट्रा युग के कपड़े ही इसके डेविलस्ट्रैंड रेशों से बेहतर प्रदर्शन कर पाते हैं।\n\nकुछ लोग कहते हैं कि इसे इसके लाल रंग के कारण डेविलस्ट्रैंड कहा जाता है। अन्य लोग सोचते हैं कि यह नाम लोगों में पैदा होने वाले लालच का परिणाम है।</Plant_Devilstrand.description>
   
   <!-- EN: haygrass -->
   <Plant_Haygrass.label>घास</Plant_Haygrass.label>
@@ -24,12 +24,12 @@
   <!-- EN: healroot -->
   <Plant_Healroot.label>उपचार जड़</Plant_Healroot.label>
   <!-- EN: A slow-growing plant which yields herbal medicine when harvested. Sowing and harvesting healroot are both very labor-intensive tasks because of its delicate shoots.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues. -->
-  <Plant_Healroot.description>धीरे-धीरे बढ़ने वाला पौधा जो कटाई पर औषधीय दवा देता है। हीलरूट बोना और काटना दोनों ही बहुत श्रमसाध्य कार्य हैं क्योंकि इसकी कोंपलें नाजुक होती हैं।\n\nहीलरूट को सदियों से बसने वालों द्वारा चयनात्मक रूप से उगाया गया है। जनजातीय लोग इसे कभी-कभी &amp;quot;हीलर का हाथ&amp;quot; भी कहते हैं - यह उपनाम इसे इसके पाँच प्रमुख औषधीय गुणों के कारण मिला है।</Plant_Healroot.description>
+  <Plant_Healroot.description>एक धीरे बढ़ने वाला पौधा जो कटाई के समय जड़ी-बूटी वाली दवा प्रदान करता है। अपनी नाजुक कोपलों के कारण हीलरूट की बुवाई और कटाई दोनों ही बहुत श्रम-साध्य कार्य हैं।\n\nहीलरूट को बसने वालों द्वारा सदियों से चुनिंदा रूप से विकसित किया गया है। कबीले के लोगों द्वारा इसे कभी-कभी "उपचारक का हाथ" भी कहा जाता है - एक ऐसा उपनाम जो इसके पांच प्रमुख औषधीय गुणों के कारण है।</Plant_Healroot.description>
   
   <!-- EN: hop plant -->
   <Plant_Hops.label>हॉप पौधा</Plant_Hops.label>
   <!-- EN: A flowering crop that yields hops, an essential ingredient in beer. -->
-  <Plant_Hops.description>एक पुष्पीय फसल जो हॉप्स पैदा करती है, जो बीयर में एक आवश्यक घटक है।</Plant_Hops.description>
+  <Plant_Hops.description>एक फूल वाली फसल जो हॉप्स पैदा करती है, जो बीयर में एक आवश्यक सामग्री है।</Plant_Hops.description>
   
   <!-- EN: potato plant -->
   <Plant_Potato.label>आलू पौधा</Plant_Potato.label>
@@ -47,9 +47,9 @@
   <Plant_Rice.description>एक छोटी, तेज़ी से बढ़ने वाली फसल जो खाने योग्य छोटे अनाज देती है। इसकी महान पोषण संबंधी उपज और आसान खेती ने इसे कई महान सभ्यताओं के आर्थिक केंद्र बना दिया है। चावल जल्दी उगता है, लेकिन यह मिट्टी की उर्वरता के प्रति संवेदनशील है और खराब मिट्टी में अच्छा प्रदर्शन नहीं करेगा।</Plant_Rice.description>
   
   <!-- EN: smokeleaf plant -->
-  <Plant_Smokeleaf.label>स्मोकलीफ पौधा</Plant_Smokeleaf.label>
+  <Plant_Smokeleaf.label>स्मोकलीफ का पौधा</Plant_Smokeleaf.label>
   <!-- EN: A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive. -->
-  <Plant_Smokeleaf.description>पत्तियों में मौजूद रसायनों के मनोवैज्ञानिक प्रभावों के लिए उगाई जाने वाली एक पत्तीदार फसल। स्मोकलीफ की पत्तियों को क्राफ्टिंग स्पॉट पर जोड़ में तैयार किया जा सकता है। स्मोकलीफ उपयोगकर्ता को आराम महसूस कराती है, लेकिन प्रेरणा कम करती है, और यह व्यसनकारी हो सकती है।</Plant_Smokeleaf.description>
+  <Plant_Smokeleaf.description>एक पत्तेदार फसल जिसे इसकी पत्तियों में मौजूद रसायनों के मनोवैज्ञानिक प्रभावों के लिए उगाया जाता है। स्मोकलीफ की पत्तियों को क्राफ्टिंग स्पॉट पर जॉइंट्स में तैयार किया जा सकता है। स्मोकलीफ उपयोग करने वाले को तनावमुक्त महसूस कराता है, लेकिन प्रेरणा को कम करता है, और इसकी लत लग सकती है।</Plant_Smokeleaf.description>
   
   <!-- EN: strawberry plant -->
   <Plant_Strawberry.label>स्ट्रॉबेरी पौधा</Plant_Strawberry.label>

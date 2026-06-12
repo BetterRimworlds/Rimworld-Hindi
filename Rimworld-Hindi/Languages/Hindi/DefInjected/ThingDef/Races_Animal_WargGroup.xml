@@ -4,17 +4,17 @@
   <!-- EN: warg -->
   <Warg.label>वार्ग</Warg.label>
   <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
-  <Warg.description>भारी मांसपेशियों वाले भेड़िया जैसे जीव, जिनमें क्रूर अस्वाभाविक पंजे और अविश्वसनीय रूप से शक्तिशाली काटने की क्षमता होती है। वे केवल मांस या लाशें ही खाते हैं। यदि जंगल में परेशान किया जाए, तो वे हमला करने की बहुत संभावना रखते हैं।\n\nवैज्ञानिकों का कहना है कि वार्ग्स हथियारबंद सैन्य जानवरों के वंशज हैं जिन्हें जनसंख्या नियंत्रण के लिए बनाया गया था। अंधविश्वासी उन्हें क्रोधित देवता के उपकरण के रूप में देखते हैं।</Warg.description>
+  <Warg.description>भारी मांसपेशियों वाले भेड़िए जैसे जीव जिनके पास हिंसक अस्वाभाविक पंजे और अत्यधिक शक्तिशाली जबड़ा होता है। वे केवल मांस या शव ही खाएंगे। यदि जंगल में परेशान किया जाए, तो उनके हमला करने की बहुत अधिक संभावना होती है।\n\nवैज्ञानिकों का कहना है कि वार्ग्स जनसंख्या दमन के लिए बनाए गए हथियारबंद सैन्य जानवरों के वंशज हैं। अंधविश्वासी उन्हें एक क्रोधित देवता के उपकरण के रूप में देखते हैं।</Warg.description>
   <!-- EN: left claw -->
   <Warg.tools.left_claw.label>बायां पंजा</Warg.tools.left_claw.label>
   <!-- EN: claw -->
-  <Warg.tools.left_claw.labelNoLocation>पंजे</Warg.tools.left_claw.labelNoLocation>
+  <Warg.tools.left_claw.labelNoLocation>पंज़ा</Warg.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Warg.tools.right_claw.label>दायां पंजा</Warg.tools.right_claw.label>
   <!-- EN: claw -->
-  <Warg.tools.right_claw.labelNoLocation>पंजे</Warg.tools.right_claw.labelNoLocation>
+  <Warg.tools.right_claw.labelNoLocation>पंज़ा</Warg.tools.right_claw.labelNoLocation>
   <!-- EN: razorfangs -->
-  <Warg.tools.razorfangs.label>दाँतदार पंजे</Warg.tools.razorfangs.label>
+  <Warg.tools.razorfangs.label>रेज़रफेंग्स</Warg.tools.razorfangs.label>
   <!-- EN: head -->
   <Warg.tools.head.label>सिर</Warg.tools.head.label>
   

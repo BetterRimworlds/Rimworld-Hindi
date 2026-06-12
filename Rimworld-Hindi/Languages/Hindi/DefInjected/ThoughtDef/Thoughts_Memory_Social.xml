@@ -54,12 +54,12 @@
   <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>मैं पूर्ण निषेधी हूँ; मैं कभी भी स्वेच्छा से नशीले पदार्थ नहीं लूंगा। लेकिन मुझे मजबूर किया गया! मुझे अशुद्ध महसूस हो रहा है।</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>
   
   <!-- EN: forced me to take luciferium -->
-  <ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>लूसिफेरियम लेने को मजबूर किया</ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>
+  <ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>लूसिफेरियम लेने के लिए मजबूर किया</ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>
   
   <!-- EN: forced to take luciferium -->
-  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>लूसिफेरियम लेने को मजबूर</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>लूसिफेरियम लेने के लिए मजबूर</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>
   <!-- EN: I'm a body purist; I would never take luciferium by choice. But I was forced! I feel unclean. -->
-  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>मैं शरीर शुद्धतावादी हूँ; मैं कभी भी स्वेच्छा से ल्यूसिफ़ेरियम नहीं लूंगा। लेकिन मुझे मजबूर किया गया! मैं अशुद्ध महसूस करता हूँ।</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>मैं शरीर की शुद्धता में विश्वास रखने वाला हूँ; मैं अपनी मर्जी से कभी लूसिफेरियम नहीं लेता। लेकिन मुझे मजबूर किया गया! मैं अपवित्र महसूस कर रहा हूँ।</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>
   
   <!-- EN: got some lovin' -->
   <GotSomeLovin.stages.got_some_lovin.label>प्यार</GotSomeLovin.stages.got_some_lovin.label>

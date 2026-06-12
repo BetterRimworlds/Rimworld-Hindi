@@ -110,7 +110,7 @@
   <AngryStudent88.titleShortFemale>छात्रा</AngryStudent88.titleShortFemale>
   
   <!-- EN: Born on a medieval farm, [PAWN_nameDef] was tasked with caring for domestic animals. [PAWN_pronoun] grew to love them.\n\nWith time, [PAWN_pronoun] learned to tame wild animals. [PAWN_pronoun] dreamed of one day meeting a thrumbo and taming it. -->
-  <AnimalCaretaker20.description>{PAWN_gender ? मध्ययुगीन खेत पर जन्मी, [PAWN_nameDef] को घरेलू जानवरों की देखभाल करने का काम सौंपा गया था। वह उनसे प्यार करने लगी।\n\nसमय के साथ, उसने जंगली जानवरों को पालना सीखा। उसने एक थ्रमबो से मिलने और उसे पालने का सपना देखा। : मध्ययुगीन खेत पर जन्मे, [PAWN_nameDef] को घरेलू जानवरों की देखभाल करने का काम सौंपा गया था। उसने उनसे प्यार करना सीख लिया।\n\nसमय के साथ, उसने जंगली जानवरों को पालना सीखा। उसने एक थ्रमबो से मिलने और उसे पालने का सपना देखा।}</AnimalCaretaker20.description>
+  <AnimalCaretaker20.description>{PAWN_gender ? एक मध्ययुग के खेत में जन्मी, [PAWN_nameDef] को पालतू जानवरों की देखभाल करने का काम सौंपा गया था। वह उनसे प्रेम करने लगी।\n\nसमय के साथ, उसने जंगली जानवरों को वश में करना सीख लिया। उसने एक दिन थ्रम्बो से मिलने और उसे वश में करने का सपना देखा। : एक मध्ययुग के खेत में जन्मे, [PAWN_nameDef] को पालतू जानवरों की देखभाल करने का काम सौंपा गया था। वह उनसे प्रेम करने लगा।\n\nसमय के साथ, उसने जंगली जानवरों को वश में करना सीख लिया। उसने एक दिन थ्रम्बो से मिलने और उसे वश में करने का सपना देखा।}</AnimalCaretaker20.description>
   <!-- EN: animal caretaker -->
   <AnimalCaretaker20.title>पशुपालक</AnimalCaretaker20.title>
   <AnimalCaretaker20.titleFemale>पशु पालक</AnimalCaretaker20.titleFemale>
@@ -146,7 +146,7 @@
   <ApocalypseChild23.titleShortFemale>सर्वनाश की साक्षी</ApocalypseChild23.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was chosen at an early age by the village elders to keep the sacred rituals of the Oracle.\n\nAn irrepressibly curious child, [PAWN_nameDef] caused a religious crisis for [PAWN_possessive] tribe when [PAWN_pronoun] accidentally flipped a switch to open the "tombs" of the Gods - cryptosleep caskets inhabited by some very confused ancestors. -->
-  <ApprenticeOracle83.description>{PAWN_gender ? ओरेकल की पवित्र अनुष्ठानों को बनाए रखने के लिए [PAWN_nameDef] को कम उम्र में ही गाँव के बुजुर्गों द्वारा चुना गया था।\n\nएक अदम्य जिज्ञासु बच्ची, [PAWN_nameDef] ने अपने कबीले के लिए एक धार्मिक संकट पैदा कर दिया जब उसने गलती से एक स्विच फ्लिप कर दिया जिससे देवताओं की &amp;quot;मकबरों&amp;quot; खुल गईं - क्रिप्टोस्लीप कफन जिनमें कुछ बहुत भ्रमित पूर्वज रहते थे। : [PAWN_nameDef] को कम उम्र में ही गाँव के बुजुर्गों ने ओरेकल की पवित्र अनुष्ठानों को बनाए रखने के लिए चुना था।\n\nएक अथक जिज्ञासु बच्चा होने के कारण, [PAWN_nameDef] ने अपने कबीले के लिए एक धार्मिक संकट पैदा कर दिया जब उसने गलती से एक स्विच फ्लिप कर दिया जिससे देवताओं की &amp;quot;मकबरों&amp;quot; खुल गईं - क्रिप्टोस्लीप कफन जिनमें कुछ बहुत भ्रमित पूर्वज रहते थे।}</ApprenticeOracle83.description>
+  <ApprenticeOracle83.description>{PAWN_gender ? [PAWN_nameDef] को कम उम्र में ही गाँव के बुजुर्गों द्वारा ओरेकल (Oracle) के पवित्र अनुष्ठानों को बनाए रखने के लिए चुना गया था।\n\nएक बेहद जिज्ञासु बच्ची, [PAWN_nameDef] ने अनजाने में देवताओं के "मकबरों" - क्रिप्टोस्लीप ताबूत जिनमें कुछ बहुत ही भ्रमित पूर्वज निवास कर रहे थे - को खोलने के लिए एक स्विच घुमा दिया, जिससे उसके कबीले में एक धार्मिक संकट पैदा हो गया। : [PAWN_nameDef] को कम उम्र में ही गाँव के बुजुर्गों द्वारा ओरेकल (Oracle) के पवित्र अनुष्ठानों को बनाए रखने के लिए चुना गया था।\n\nएक बेहद जिज्ञासु बच्चा, [PAWN_nameDef] ने अपनी जनजाति के लिए एक धार्मिक संकट पैदा कर दिया था जब उसने गलती से देवताओं के "मकबरों" - क्रिप्टोस्लीप ताबूत को खोलने के लिए एक स्विच घुमा दिया था - जिनमें कुछ बहुत ही भ्रमित पूर्वज निवास कर रहे थे।}</ApprenticeOracle83.description>
   <!-- EN: apprentice oracle -->
   <ApprenticeOracle83.title>भविष्यवक्ता प्रशिक्षु</ApprenticeOracle83.title>
   <ApprenticeOracle83.titleFemale>शिक्ष्या भविष्यवक्ता</ApprenticeOracle83.titleFemale>
@@ -164,7 +164,7 @@
   <ApprenticeSmith37.titleShortFemale>शिक्ष्यार्थी महिला</ApprenticeSmith37.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up on one of the urbworlds and had to fend for [PAWN_objective]self all [PAWN_possessive] life. [PAWN_pronoun] never trusted anyone, relying on [PAWN_possessive] persuasiveness and cunning to survive.\n\n[PAWN_pronoun] soon became skilled with firearms and knives as well as words. -->
-  <ArtfulDodger78.description>{PAWN_gender ? [PAWN_nameDef] शहरी दुनियाएँ में पली-बढ़ी और उसे जीवन भर खुद का बचाव करना पड़ा। उसने कभी किसी पर भरोसा नहीं किया, अपनी चालाकी और चतुराई पर निर्भर रहकर जीवित रही।\n\nवह जल्द ही हथियारों और चाकू के साथ-साथ शब्दों में भी कुशल हो गई। : [PAWN_nameDef] शहरी दुनियाएँ में पला-बढ़ा और उसे जीवन भर खुद ही अपनी रक्षा करनी पड़ी। उसने कभी किसी पर भरोसा नहीं किया, अपनी चालाकी और चतुराई पर निर्भर रहकर जीवित रहा।\n\nवह जल्द ही हथियारों और चाकूओं के साथ-साथ शब्दों में भी कुशल हो गया।}</ArtfulDodger78.description>
+  <ArtfulDodger78.description>{PAWN_gender ? [PAWN_nameDef] शहरी दुनियाएँ में से एक में पली-बढ़ी और उसे जीवन भर अपना पेट खुद पालना पड़ा। उसने कभी किसी पर भरोसा नहीं किया, जीवित रहने के लिए अपनी वाक्पटुता और चालाकी पर निर्भर रही।\n\nजल्द ही वह शब्दों के साथ-साथ आग्नेयास्त्रों और चाकू चलाने में भी कुशल हो गई। : [PAWN_nameDef] शहरी दुनियाएँ में से एक पर पला-बढ़ा और उसे जीवन भर अपना पेट खुद पालना पड़ा। उसने कभी किसी पर भरोसा नहीं किया, और जीवित रहने के लिए अपनी वाक्पटुता और चालाकी पर ही निर्भर रहा।\n\nजल्द ही वह शब्दों के साथ-साथ आग्नेयास्त्रों और चाकू चलाने में भी कुशल हो गया।}</ArtfulDodger78.description>
   <!-- EN: artful dodger -->
   <ArtfulDodger78.title>चालाक धोखेबाज़</ArtfulDodger78.title>
   <ArtfulDodger78.titleFemale>कलात्मक धोखेबाज़</ArtfulDodger78.titleFemale>
@@ -173,7 +173,7 @@
   <ArtfulDodger78.titleShortFemale>चंचल घुमक्कड़ महिला</ArtfulDodger78.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up on a [PAWN_possessive] family's glitterworld farm. They were one of the last farms on the planet that preferred traditional farming methods to glitterworld technology. -->
-  <ArtisanFarmer23.description>{PAWN_gender ? [PAWN_nameDef] एक चमकते हुए ग्रह पर अपने परिवार के खेत में पली-बढ़ी। वे ग्रह पर अंतिम खेतों में से एक थे जिन्होंने चमकते हुए ग्रह की तकनीक की तुलना में पारंपरिक खेती के तरीकों को पसंद किया। : [PAWN_nameDef] का पालन-पोषण उसके परिवार के ग्लिटरवर्ल्ड फार्म पर हुआ। वे ग्रह पर अंतिम फार्मों में से एक थे जिन्होंने ग्लिटरवर्ल्ड तकनीक की तुलना में पारंपरिक खेती के तरीकों को पसंद किया।}</ArtisanFarmer23.description>
+  <ArtisanFarmer23.description>{PAWN_gender ? [PAWN_nameDef] अपने परिवार के चमकदार दुनिया वाले खेत में पली-बढ़ी। वे इस ग्रह के उन आखिरी खेतों में से एक थे जो चमकदार दुनिया की तकनीक के बजाय पारंपरिक खेती के तरीकों को पसंद करते थे। : [PAWN_nameDef] अपने परिवार के चमकदार दुनिया वाले खेत पर पला-बढ़ा। वे इस ग्रह के उन अंतिम खेतों में से एक थे जो चमकदार दुनिया की तकनीक के बजाय पारंपरिक खेती के तरीकों को पसंद करते थे।}</ArtisanFarmer23.description>
   <!-- EN: artisan farmer -->
   <ArtisanFarmer23.title>कारीगर किसान</ArtisanFarmer23.title>
   <ArtisanFarmer23.titleFemale>कारीगर किसान</ArtisanFarmer23.titleFemale>
@@ -182,7 +182,7 @@
   <ArtisanFarmer23.titleShortFemale>किसान महिला</ArtisanFarmer23.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up in a house near a bustling midworld metropolis.\n\n[PAWN_pronoun] was talented at art and creative work, but often acted strangely, and thus had few friends. -->
-  <ArtisticWeirdo56.description>{PAWN_gender ? [PAWN_nameDef] एक व्यस्त मध्य-विश्व महानगर के पास एक घर में पली-बढ़ी।\n\nवह कला और रचनात्मक कार्यों में प्रतिभाशाली थी, लेकिन अक्सर अजीब व्यवहार करती थी, और इसलिए उसके बहुत कम दोस्त थे। : [PAWN_nameDef] एक व्यस्त मध्य-विश्व महानगर के पास एक घर में बड़ा हुआ।\n\nवह कला और रचनात्मक कार्यों में प्रतिभाशाली था, लेकिन अक्सर अजीब व्यवहार करता था, और इसलिए उसके बहुत कम दोस्त थे।}</ArtisticWeirdo56.description>
+  <ArtisticWeirdo56.description>{PAWN_gender ? [PAWN_nameDef] एक हलचल भरी मध्य दुनिया के महानगर के पास एक घर में पली-बढ़ी।\n\nवह कला और रचनात्मक कार्यों में प्रतिभाशाली थी, लेकिन अक्सर अजीब व्यवहार करती थी, और इस कारण उसके बहुत कम मित्र थे। : [PAWN_nameDef] एक हलचल भरी मध्य दुनिया के महानगर के पास एक घर में पला-बढ़ा।\n\nवह कला और रचनात्मक कार्यों में प्रतिभाशाली था, लेकिन अक्सर अजीब व्यवहार करता था, और इस कारण उसके बहुत कम मित्र थे।}</ArtisticWeirdo56.description>
   <!-- EN: artistic weirdo -->
   <ArtisticWeirdo56.title>कलात्मक सनकी</ArtisticWeirdo56.title>
   <ArtisticWeirdo56.titleFemale>कलात्मक सनकी महिला</ArtisticWeirdo56.titleFemale>
@@ -225,7 +225,7 @@
   <AspiringPopIdol28.titleShortFemale>पॉप गायिका</AspiringPopIdol28.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was professional athlete at early age. Thanks to [PAWN_possessive] skills, [PAWN_pronoun] was able to leave [PAWN_possessive] homeworld and enroll in a glitterworld university of science and technology.\n\nBecause of [PAWN_possessive] demanding schedule and introverted nature, [PAWN_pronoun] became socially inept. -->
-  <Athlete47.description>{PAWN_gender ? [PAWN_nameDef] कम उम्र में ही एक पेशेवर एथलीट थी। अपनी प्रतिभा के कारण, वह अपने गृह ग्रह को छोड़कर विज्ञान और प्रौद्योगिकी के एक चमकते ग्रह विश्वविद्यालय में दाखिला लेने में सक्षम हुई।\n\nअपनी व्यस्त दिनचर्या और अंतर्मुखी स्वभाव के कारण, वह सामाजिक रूप से अनाड़ी हो गई। : [PAWN_nameDef] कम उम्र में ही एक पेशेवर एथलीट था। अपनी प्रतिभा के कारण, वह अपने गृह ग्रह को छोड़ने और विज्ञान और प्रौद्योगिकी के एक चमकते ग्रह विश्वविद्यालय में दाखिला लेने में सक्षम था।\n\nअपनी व्यस्त दिनचर्या और अंतर्मुखी स्वभाव के कारण, वह सामाजिक रूप से अनाड़ी हो गया।}</Athlete47.description>
+  <Athlete47.description>{PAWN_gender ? [PAWN_nameDef] कम उम्र में एक पेशेवर एथलीट थी। अपने कौशल के कारण, वह अपने गृह ग्रह को छोड़कर एक चमकदार दुनिया के विज्ञान और प्रौद्योगिकी विश्वविद्यालय में दाखिला लेने में सक्षम रही।\n\nअपने कठिन कार्यक्रम और अंतर्मुखी स्वभाव के कारण, वह सामाजिक रूप से अकुशल हो गई। : [PAWN_nameDef] कम उम्र में एक पेशेवर एथलीट था। अपने कौशल के कारण, वह अपने गृह ग्रह को छोड़कर एक चमकदार दुनिया के विज्ञान और प्रौद्योगिकी विश्वविद्यालय में दाखिला लेने में सक्षम हुआ।\n\nअपने कठिन कार्यक्रम और अंतर्मुखी स्वभाव के कारण, वह सामाजिक रूप से अकुशल हो गया।}</Athlete47.description>
   <!-- EN: athlete -->
   <Athlete47.title>एथलीट</Athlete47.title>
   <Athlete47.titleFemale>महिला खिलाड़ी</Athlete47.titleFemale>
@@ -261,7 +261,7 @@
   <BlacksmithsSon73.titleShortFemale>लोहार महिला</BlacksmithsSon73.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was born under auspicious circumstances to a midworld spiritual group and held in reverence throughout [PAWN_possessive] childhood.\n\n[PAWN_pronoun] learned to take care of the poor and give succor to the faithful from an early age. -->
-  <BlessedChild46.description>{PAWN_gender ? [PAWN_nameDef] का जन्म एक मध्य-विश्व आध्यात्मिक समूह में शुभ परिस्थितियों में हुआ था और बचपन भर उसका सम्मान किया गया।\n\nउसने कम उम्र से ही गरीबों की देखभाल करना और विश्वासियों को सहारा देना सीखा। : [PAWN_nameDef] का जन्म एक मध्य-विश्व आध्यात्मिक समूह में शुभ परिस्थितियों में हुआ था और अपने बचपन में उन्हें सम्मान दिया गया था।\n\nउन्होंने कम उम्र से ही गरीबों की देखभाल करना और विश्वासियों को राहत पहुँचाना सीखा।}</BlessedChild46.description>
+  <BlessedChild46.description>{PAWN_gender ? [PAWN_nameDef] का जन्म एक मध्य दुनिया के आध्यात्मिक समूह में शुभ परिस्थितियों में हुआ था और अपने पूरे बचपन में उन्हें अत्यंत सम्मान दिया गया।\n\nउन्होंने कम उम्र से ही गरीबों की देखभाल करना और विश्वासियों को सहायता प्रदान करना सीख लिया था। : [PAWN_nameDef] का जन्म मध्य दुनिया के एक आध्यात्मिक समूह में शुभ परिस्थितियों में हुआ था और अपने पूरे बचपन में उन्हें अत्यंत सम्मान दिया गया।\n\nउन्होंने कम उम्र से ही गरीबों की देखभाल करना और विश्वासियों को सहायता प्रदान करना सीख लिया था।}</BlessedChild46.description>
   <!-- EN: blessed child -->
   <BlessedChild46.title>आशीर्वादित बालक</BlessedChild46.title>
   <BlessedChild46.titleFemale>धन्य बालिका</BlessedChild46.titleFemale>
@@ -288,7 +288,7 @@
   <BoneCollector14.titleShortFemale>शिष्या</BoneCollector14.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] youth in the library, reading every book [PAWN_pronoun] could about the technical marvels of space travel, the engineering ingenuity of the space-faring pioneers, and the horrible yet fascinating tales of mechanoid wars. [PAWN_pronoun] vowed that one day, [PAWN_pronoun] would see these things for [PAWN_objective]self. -->
-  <Bookworm3.description>{PAWN_gender ? [PAWN_nameDef] ने अपना बचपन पुस्तकालय में बिताया, जहाँ उसने अंतरिक्ष यात्रा के तकनीकी चमत्कारों, अंतरिक्ष-यात्रा करने वाले अग्रणी लोगों की इंजीनियरिंग प्रतिभा और मैकेनोइड युद्धों की भयानक फिर भी आकर्षक कहानियों के बारे में हर किताब पढ़ी। उसने कसम खाई कि एक दिन, वह स्वयं इन चीजों को देखेगी। : [PAWN_nameDef] ने अपना बचपन पुस्तकालय में बिताया, जहाँ उन्होंने अंतरिक्ष यात्रा के तकनीकी चमत्कारों, अंतरिक्ष-यात्रा करने वाले अग्रणी लोगों की इंजीनियरिंग प्रतिभा और मैकेनॉइड युद्धों की भयानक फिर भी आकर्षक कहानियों के बारे में हर किताब पढ़ी। उन्होंने कसम खाई कि एक दिन, वह स्वयं ये चीजें देखेंगे।}</Bookworm3.description>
+  <Bookworm3.description>{PAWN_gender ? [PAWN_nameDef] ने अपना युवावस्था पुस्तकालय में बिताया, जहाँ उसने अंतरिक्ष यात्रा के तकनीकी चमत्कारों, अंतरिक्ष यात्री अग्रदूतों की इंजीनियरिंग कुशलता और मेकैनॉइड युद्धों की भयानक फिर भी आकर्षक कहानियों के बारे में हर संभव किताब पढ़ी। उसने कसम खाई कि एक दिन, वह इन चीजों को खुद अपनी आँखों से देखेगी। : [PAWN_nameDef] ने अपना युवावस्था पुस्तकालय में बिताई, जहाँ उसने अंतरिक्ष यात्रा के तकनीकी चमत्कारों, अंतरिक्ष यात्रियों की इंजीनियरिंग कुशलता और मेकैनॉइड युद्धों की भयानक लेकिन दिलचस्प कहानियों के बारे में हर संभव किताब पढ़ी। उसने कसम खाई कि एक दिन, वह इन चीजों को खुद अपनी आँखों से देखेगा।}</Bookworm3.description>
   <!-- EN: bookworm -->
   <Bookworm3.title>पुस्तककृमि</Bookworm3.title>
   <Bookworm3.titleFemale>पुस्तक-कीड़ा</Bookworm3.titleFemale>
@@ -297,7 +297,7 @@
   <Bookworm3.titleShortFemale>पुस्तककृमि</Bookworm3.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was in a boy scout troop on a midworld.\n\n[PAWN_pronoun] learned many survival skills including how to thrive in the outdoors and how to tend to basic wounds. -->
-  <BoyScout42.description>{PAWN_gender ? [PAWN_nameDef] एक मध्य-विश्व पर एक बालक स्काउट दल में थी।\n\nउसने कई उत्तरजीविता कौशल सीखे जिनमें बाहरी वातावरण में पनपने और बुनियादी घावों की देखभाल करना शामिल है। : [PAWN_nameDef] एक मध्य-विश्व पर एक बॉय स्काउट दल में था।\n\nउसने कई जीवित रहने के कौशल सीखे जिनमें बाहरी वातावरण में पनपने और बुनियादी घावों की देखभाल करना शामिल है।}</BoyScout42.description>
+  <BoyScout42.description>{PAWN_gender ? [PAWN_nameDef] एक मध्य दुनिया में बॉय स्काउट दल में थी।\n\nउसने कई उत्तरजीविता कौशल सीखे, जिसमें खुले वातावरण में फलना-फूलना और बुनियादी घावों की देखभाल करना शामिल था। : [PAWN_nameDef] एक मध्य दुनिया में बॉय स्काउट दल का हिस्सा था।\n\nउसने जीवित रहने के कई कौशल सीखे, जिसमें खुले वातावरण में फलना-फूलना और बुनियादी घावों की देखभाल करना शामिल था।}</BoyScout42.description>
   <!-- EN: boy scout -->
   <BoyScout42.title>बॉय स्काउट</BoyScout42.title>
   <BoyScout42.titleFemale>बालिका स्काउट</BoyScout42.titleFemale>
@@ -306,7 +306,7 @@
   <BoyScout42.titleShortFemale>स्काउट</BoyScout42.titleShortFemale>
   
   <!-- EN: War may never change - but the cast of characters does.\n\nBorn on a violent urbworld, [PAWN_nameDef] was trained from a young age to fight the wars of others, and became rather good at it. -->
-  <BoySoldier14.description>{PAWN_gender ? युद्ध कभी नहीं बदलेगा—लेकिन पात्रों का समूह बदलता रहता है।\n\nएक हिंसक शहरी दुनिया में जन्मी, [PAWN_nameDef] को कम उम्र से ही दूसरों के युद्ध लड़ने के लिए प्रशिक्षित किया गया था, और वह इसमें काफी अच्छी हो गई। : युद्ध कभी नहीं बदलेगा—लेकिन पात्रों का समूह बदलता रहता है।\n\nएक हिंसक शहरी दुनिया पर जन्मे, [PAWN_nameDef] को कम उम्र से ही दूसरों के युद्ध लड़ने के लिए प्रशिक्षित किया गया था, और वह इसमें काफी अच्छा हो गया।}</BoySoldier14.description>
+  <BoySoldier14.description>{PAWN_gender ? युद्ध कभी नहीं बदल सकता - लेकिन पात्रों की टोली बदल जाती है।\n\nएक हिंसक शहरी दुनिया में जन्मी, [PAWN_nameDef] को कम उम्र से ही दूसरों के युद्ध लड़ने के लिए प्रशिक्षित किया गया था, और वह इसमें काफी कुशल हो गई थी। : युद्ध कभी नहीं बदल सकता - लेकिन पात्रों की टोली बदल जाती है।\n\nएक हिंसक शहरी दुनिया में जन्मे, [PAWN_nameDef] को कम उम्र से ही दूसरों के युद्ध लड़ने के लिए प्रशिक्षित किया गया था, और वह इसमें काफी कुशल हो गया था।}</BoySoldier14.description>
   <!-- EN: boy soldier -->
   <BoySoldier14.title>लड़का सैनिक</BoySoldier14.title>
   <BoySoldier14.titleFemale>लड़की सैनिक</BoySoldier14.titleFemale>
@@ -315,7 +315,7 @@
   <BoySoldier14.titleShortFemale>सैनिक महिला</BoySoldier14.titleShortFemale>
   
   <!-- EN: Born on a steam-powered midworld wracked by a century of economic crises, [PAWN_nameDef] went to work at a young age. Scrounging, shoe-polishing, sewing - [PAWN_pronoun] did it all. But [PAWN_pronoun] was most known as a brothel gofer, delivering all manner of aphrodisiacs and chemicals to the girls' rooms. -->
-  <BrothelGofer84.description>{PAWN_gender ? स्टीम-संचालित मध्य-विश्व में जन्मी, जो एक सदी के आर्थिक संकटों से त्रस्त थी, [PAWN_nameDef] ने कम उम्र में ही काम करना शुरू कर दिया। उसने इधर-उधर से चीजें बटोरीं, जूतों को पॉलिश किया, सिलाई की - उसने सब कुछ किया। लेकिन वह एक वेश्यालय में सहायक के रूप में सबसे ज्यादा जानी जाती थी, जो लड़कियों के कमरों में हर तरह के कामोत्तेजक और रसायन पहुंचाती थी। : एक भाप-चालित मध्य-विश्व पर जन्मे, जो एक सदी के आर्थिक संकटों से त्रस्त था, [PAWN_nameDef] ने कम उम्र में ही काम करना शुरू कर दिया। उसने इधर-उधर से चीजें बटोरीं, जूते पॉलिश किए, सिलाई की - उसने सब कुछ किया। लेकिन वह वेश्यालय का सहायक बनकर सबसे ज्यादा प्रसिद्ध हुआ, जो लड़कियों के कमरों में हर तरह के कामोत्तेजक और रसायन पहुंचाता था।}</BrothelGofer84.description>
+  <BrothelGofer84.description>{PAWN_gender ? एक शताब्दी के आर्थिक संकटों से त्रस्त, भाप से चलने वाली मध्य दुनिया में जन्मी, [PAWN_nameDef] बहुत कम उम्र में ही काम करने निकल पड़ी थी। कबाड़ बीनना, जूते पॉलिश करना, सिलाई करना - उसने सब कुछ किया। लेकिन वह एक वेश्यालय की दाई (gofer) के रूप में सबसे अधिक जानी जाती थी, जो लड़कियों के कमरों में हर प्रकार के कामोत्तेजक और रसायन पहुँचाया करती थी। : एक शताब्दी के आर्थिक संकटों से त्रस्त, भाप से चलने वाली मध्य दुनिया में जन्मे, [PAWN_nameDef] ने कम उम्र में ही काम करना शुरू कर दिया था। कबाड़ इकट्ठा करना, जूते पॉलिश करना, सिलाई करना - उसने सब कुछ किया। लेकिन वह एक वेश्यालय के दूत के रूप में सबसे अधिक जाना जाता था, जो लड़कियों के कमरों में हर प्रकार की कामोत्तेजक वस्तुएं और रसायन पहुँचाता था।}</BrothelGofer84.description>
   <!-- EN: brothel gofer -->
   <BrothelGofer84.title>वेश्यालय सहायक</BrothelGofer84.title>
   <BrothelGofer84.titleFemale>वेश्यालय में सहायक</BrothelGofer84.titleFemale>
@@ -351,7 +351,7 @@
   <Cadet96.titleShortFemale>कैडेट शिक्षार्थी</Cadet96.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was born on a urbworld merchant ship to an entrepreneurial mother and an absent father. Born male, [PAWN_pronoun] disliked boy stuff, and got into [PAWN_possessive] mother's things all the time.\n\nEventually, [PAWN_pronoun] traveled with [PAWN_possessive] mother to a glitterworld and spent [PAWN_possessive] savings on a body [PAWN_pronoun] was happy with. -->
-  <CaravanChild53.description>{PAWN_gender ? [PAWN_nameDef] एक शहरी दुनिया के व्यापारी जहाज पर एक उद्यमी माँ और एक अनुपस्थित पिता के यहाँ जन्मी थी। पुरुष के रूप में जन्मी, उसे लड़कों की चीजें पसंद नहीं थीं, और वह हमेशा अपनी माँ की चीजों में घुस जाती थी।\n\nअंततः, वह अपनी माँ के साथ एक चमकती दुनिया की यात्रा की और एक ऐसे शरीर पर अपने सारे पैसे खर्च कर दिए जिससे वह खुश थी। : [PAWN_nameDef] एक शहरी दुनिया के व्यापारी जहाज पर एक उद्यमी माँ और एक अनुपस्थित पिता के यहाँ पैदा हुआ था। पुरुष के रूप में पैदा होने के बावजूद, उसे लड़कों की चीजें पसंद नहीं थीं, और वह हमेशा अपनी माँ की चीजों में घुस जाता था।\n\nअंततः, वह अपनी माँ के साथ एक चमकती दुनिया की यात्रा की और एक ऐसे शरीर पर अपनी बचत खर्च कर दी जिससे वह खुश था।}</CaravanChild53.description>
+  <CaravanChild53.description>{PAWN_gender ? [PAWN_nameDef] का जन्म एक शहरी दुनिया के व्यापारी जहाज पर एक उद्यमी माँ और एक अनुपस्थित पिता के यहाँ हुआ था। पुरुष के रूप में पैदा होने के बावजूद, उसे लड़कों वाली चीज़ें नापसंद थीं, और वह हर समय अपनी माँ की चीज़ों में लगी रहती थी।\n\nअंततः, वह अपनी माँ के साथ एक चमकदार दुनिया की यात्रा पर गई और अपनी बचत को एक ऐसे शरीर पर खर्च कर दिया जिससे वह खुश थी। : [PAWN_nameDef] का जन्म एक शहरी दुनिया के व्यापारी जहाज पर एक उद्यमी माँ और एक अनुपस्थित पिता के यहाँ हुआ था। पुरुष के रूप में जन्मे, उसे लड़कों वाली चीज़ें नापसंद थीं, और वह हर समय अपनी माँ की चीज़ों में उलझा रहता था।\n\nअंततः, वह अपनी माँ के साथ एक चमकदार दुनिया की यात्रा पर गया और अपनी बचत एक ऐसे शरीर पर खर्च कर दी जिससे वह खुश था।}</CaravanChild53.description>
   <!-- EN: caravan child -->
   <CaravanChild53.title>कारवाँ बालक</CaravanChild53.title>
   <CaravanChild53.titleFemale>कारवाँ की बच्ची</CaravanChild53.titleFemale>
@@ -432,7 +432,7 @@
   <ChildProdigy76.titleShortFemale>प्रतिभाशाली</ChildProdigy76.titleShortFemale>
   
   <!-- EN: A frightfully intelligent child, [PAWN_nameDef] was kidnapped by a glitterworld corporation and forced to research technologies for weaponizing anti-matter.\n\n[PAWN_pronoun] vowed never to invent anything again. -->
-  <ChildResearcher32.description>{PAWN_gender ? एक अत्यंत बुद्धिमान बच्ची, [PAWN_nameDef] को एक चमकते हुए ग्रह की निगम द्वारा अपहरण कर लिया गया और उसे एंटी-मैटर को हथियार बनाने के लिए प्रौद्योगिकियों पर शोध करने के लिए मजबूर किया गया।\n\nउसने कसम खाई कि वह फिर कभी कुछ भी आविष्कार नहीं करेगी। : एक भयानक रूप से बुद्धिमान बालक, [PAWN_nameDef] को एक चमकती दुनिया की निगम द्वारा अपहरण कर लिया गया और उसे एंटी-मैटर को हथियार बनाने के लिए प्रौद्योगिकियों पर शोध करने के लिए मजबूर किया गया।\n\nउसने कसम खाई कि वह फिर कभी कुछ भी आविष्कार नहीं करेगा।}</ChildResearcher32.description>
+  <ChildResearcher32.description>{PAWN_gender ? एक भयानक रूप से बुद्धिमान बच्ची, [PAWN_nameDef] का एक चमकदार दुनिया की कॉर्पोरेशन द्वारा अपहरण कर लिया गया था और उसे एंटी-मैटर को हथियार बनाने के लिए तकनीकों पर शोध करने के लिए मजबूर किया गया था।\n\nउसने फिर कभी कुछ भी आविष्कार न करने की कसम खाई। : एक भयानक रूप से बुद्धिमान बच्चा, [PAWN_nameDef] को एक चमकदार दुनिया के निगम द्वारा अगवा कर लिया गया था और उसे एंटी-मैटर को हथियार बनाने की तकनीकों पर शोध करने के लिए मजबूर किया गया था।\n\nउसने फिर कभी कुछ भी आविष्कार न करने की शपथ ली।}</ChildResearcher32.description>
   <!-- EN: child researcher -->
   <ChildResearcher32.title>बाल वैज्ञानिक</ChildResearcher32.title>
   <ChildResearcher32.titleFemale>बाल अन्वेषक</ChildResearcher32.titleFemale>
@@ -477,7 +477,7 @@
   <CircusPerformer37.titleShortFemale>कलाकारिणी</CircusPerformer37.titleShortFemale>
   
   <!-- EN: In the ultra-competitive environs of [PAWN_possessive] glitterworld school, [PAWN_nameDef] always offered to play the class clown to diffuse tension.\n\n[PAWN_pronoun] developed a sense of social desperation from this, as well as an appreciation for the artistic side of comedy. -->
-  <ClassClown96.description>{PAWN_gender ? अपनी चमकती हुई विद्यालय की अत्यधिक प्रतिस्पर्धी परिस्थितियों में, [PAWN_nameDef] हमेशा तनाव को कम करने के लिए कक्षा का मसखरा बनने की पेशकश करती थी।\n\nउसने इससे सामाजिक हताशा की भावना विकसित की, साथ ही हास्य की कलात्मक पक्ष की सराहना भी की। : उसकी चमकती दुनिया के विद्यालय के अत्यधिक प्रतिस्पर्धी माहौल में, [PAWN_nameDef] हमेशा तनाव कम करने के लिए कक्षा का मसखरा बनने की पेशकश करता था।\n\nउसे इससे सामाजिक हताशा की भावना विकसित हुई, साथ ही हास्य की कलात्मक पक्ष की सराहना भी हुई।}</ClassClown96.description>
+  <ClassClown96.description>In the ultra-competitive environs of [PAWN_possessive] glitterworld school, [PAWN_nameDef] always offered to play the class clown to diffuse tension.\n\n[PAWN_pronoun] developed a sense of social desperation from this, as well as an appreciation for the artistic side of comedy.</ClassClown96.description>
   <!-- EN: class clown -->
   <ClassClown96.title>मज़ाकिया मसख़रा</ClassClown96.title>
   <ClassClown96.titleFemale>मज़ाकिया विदूषक</ClassClown96.titleFemale>
@@ -513,7 +513,7 @@
   <Colonist22.titleShortFemale>उपनिवेशी महिला</Colonist22.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was born the child of two doctors in a small colony. Because of [PAWN_possessive] parents, [PAWN_pronoun] was always interested in science and medicine.\n\n[PAWN_nameDef] never really got along with other children, and as a result became withdrawn and unsociable. -->
-  <ColonyKid47.description>{PAWN_gender ? [PAWN_nameDef] दो डॉक्टरों के छोटे से उपनिवेश में जन्मी बच्ची थी। अपने माता-पिता के कारण, वह हमेशा विज्ञान और चिकित्सा में रुचि रखती थी।\n\n[PAWN_nameDef] कभी भी अन्य बच्चों के साथ अच्छी तरह से नहीं मिली, और परिणामस्वरूप वह अंतर्मुखी और असामाजिक बन गई। : [PAWN_nameDef] एक छोटे से उपनिवेश में दो डॉक्टरों के बच्चे के रूप में पैदा हुआ था। अपने माता-पिता के कारण, वह हमेशा विज्ञान और चिकित्सा में रुचि रखता था।\n\n[PAWN_nameDef] कभी भी अन्य बच्चों के साथ घुल-मिल नहीं पाया, और परिणामस्वरूप वह अंतर्मुखी और असामाजिक बन गया।}</ColonyKid47.description>
+  <ColonyKid47.description>{PAWN_gender ? [PAWN_nameDef] का जन्म एक छोटी बस्ती में दो डॉक्टरों की संतान के रूप में हुआ था। अपने माता-पिता के कारण, उसकी रुचि हमेशा विज्ञान और दवा में रही।\n\n[PAWN_nameDef] का अन्य बच्चों के साथ कभी वास्तव में तालमेल नहीं बैठ पाया, और परिणामस्वरूप वह अंतर्मुखी और असामाजिक हो गई। : [PAWN_nameDef] का जन्म एक छोटी बस्ती में दो डॉक्टरों के बच्चे के रूप में हुआ था। अपने माता-पिता के कारण, उसकी रुचि हमेशा विज्ञान और दवा में रही।\n\n[PAWN_nameDef] का दूसरे बच्चों के साथ कभी वास्तव में तालमेल नहीं बैठ पाया, और परिणामस्वरूप वह अंतर्मुखी और असामाजिक हो गया।}</ColonyKid47.description>
   <!-- EN: colony kid -->
   <ColonyKid47.title>कॉलोनी का लड़का</ColonyKid47.title>
   <ColonyKid47.titleFemale>कॉलोनी की बच्ची</ColonyKid47.titleFemale>
@@ -538,7 +538,7 @@
   <Computer80.titleShort>{PAWN_gender ? कंप्यूटर विशेषज्ञ महिला : कंप्यूटर विशेषज्ञ}</Computer80.titleShort>
   
   <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood on [PAWN_possessive] computer, typing away, never knowing when to get up and eat.\n\n[PAWN_pronoun] had a very narrow interest: hacking cryptosleep safety protocols. -->
-  <ComputerGeek62.description>{PAWN_gender ? [PAWN_nameDef] ने अपना बचपन अधिकतर कंप्यूटर पर टाइप करते हुए बिताया, और उसे कभी पता नहीं चलता था कि उठकर खाना कब खाना है।\n\nउसकी रुचि बहुत संकीर्ण थी: क्रिप्टोस्लीप सुरक्षा प्रोटोकॉल को हैक करना। : [PAWN_nameDef] ने अपना बचपन ज़्यादातर कंप्यूटर पर बिताया, टाइप करता रहा, और उसे कभी पता ही नहीं चला कि कब उठकर खाना खाना है।\n\nउसकी रुचि बहुत सीमित थी: क्रिप्टोस्लीप सुरक्षा प्रोटोकॉल को हैक करना।}</ComputerGeek62.description>
+  <ComputerGeek62.description>{PAWN_gender ? [PAWN_nameDef] ने अपना अधिकांश बचपन अपने कंप्यूटर पर टाइप करते हुए बिताया, उसे कभी पता ही नहीं चलता था कि कब उठकर खाना है।\n\nउसकी रुचि बहुत सीमित थी: क्रिप्टोस्लीप सुरक्षा प्रोटोकॉल को हैक करना। : [PAWN_nameDef] ने अपना अधिकांश बचपन अपने कंप्यूटर पर बिताया, टाइप करते हुए, यह कभी न जानते हुए कि कब उठना है और खाना है।\n\nउसकी रुचि बहुत सीमित थी: क्रिप्टोस्लीप सुरक्षा प्रोटोकॉल को हैक करना।}</ComputerGeek62.description>
   <!-- EN: computer geek -->
   <ComputerGeek62.title>कंप्यूटर विशेषज्ञ</ComputerGeek62.title>
   <ComputerGeek62.titleFemale>कंप्यूटर विशेषज्ञ महिला</ComputerGeek62.titleFemale>
@@ -556,7 +556,7 @@
   <ConstructionGrunt84.titleShortFemale>बनाने वाली</ConstructionGrunt84.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] formative years on a glitterworld in the core region, where [PAWN_pronoun] and [PAWN_possessive] friends pursued lives of idle pleasure.\n\nAs [PAWN_pronoun] grew up, [PAWN_pronoun] began to find the life of ease unfulfilling. [PAWN_pronoun] decided to look for a more challenging path. -->
-  <CoreDilettante33.description>{PAWN_gender ? [PAWN_nameDef] ने अपने शुरुआती वर्ष कोर क्षेत्र में एक चमकते हुए ग्रह पर बिताए, जहाँ उसने और उसके दोस्तों ने आलस्यपूर्ण सुखों का जीवन जिया।\n\nजैसे-जैसे वह बड़ी हुई, उसे आसानी से मिलने वाला जीवन अधूरा लगने लगा। उसने अधिक चुनौतीपूर्ण मार्ग की तलाश करने का फैसला किया। : [PAWN_nameDef] ने अपने शुरुआती वर्ष कोर क्षेत्र में एक चमकते हुए ग्रह पर बिताए, जहाँ उन्होंने और उनके दोस्तों ने आलस्यपूर्ण सुखों का पीछा किया।\n\nजैसे-जैसे वह बड़ा हुआ, उसे आसानी से जीने वाला जीवन अधूरा लगने लगा। उसने अधिक चुनौतीपूर्ण मार्ग की तलाश करने का फैसला किया।}</CoreDilettante33.description>
+  <CoreDilettante33.description>{PAWN_gender ? [PAWN_nameDef] ने अपने शुरुआती वर्ष कोर क्षेत्र की एक चमकदार दुनिया में बिताए, जहाँ वह और उसके दोस्त आलसी सुख-सुविधाओं का जीवन जीते थे।\n\nजैसे-जैसे वह बड़ी हुई, उसे यह आरामदायक जीवन अधूरा लगने लगा। उसने एक अधिक चुनौतीपूर्ण मार्ग खोजने का निर्णय लिया। : [PAWN_nameDef] ने अपने शुरुआती वर्ष कोर क्षेत्र की एक चमकदार दुनिया में बिताए, जहाँ उसने और उसके दोस्तों ने आलसी सुख-सुविधाओं का जीवन जिया।\n\nजैसे-जैसे वह बड़ा हुआ, उसे यह सुखी जीवन अधूरा लगने लगा। उसने एक अधिक चुनौतीपूर्ण मार्ग खोजने का निर्णय लिया।}</CoreDilettante33.description>
   <!-- EN: core dilettante -->
   <CoreDilettante33.title>मुख्य शौकीन</CoreDilettante33.title>
   <CoreDilettante33.titleFemale>कोर शौकीन</CoreDilettante33.titleFemale>
@@ -581,7 +581,7 @@
   <CorpBredStudent54.titleShortFemale>छात्रा</CorpBredStudent54.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up in a colony owned by a large glitterworld corporation. All children had virtual reality devices attached by force, and were raised in a brutal digital world.\n\nConstantly forced to fight others for the entertainment of the wealthy, gunplay and tactics became the center of [PAWN_nameDef]'s universe. -->
-  <CorporateSlave22.description>{PAWN_gender ? [PAWN_nameDef] एक बड़े ग्लिटरवर्ल्ड निगम के स्वामित्व वाली कॉलोनी में पली-बढ़ी। सभी बच्चों को जबरदस्ती वर्चुअल रियलिटी डिवाइस लगाए गए थे, और उन्हें एक क्रूर डिजिटल दुनिया में पाला गया।\n\nअमीर लोगों के मनोरंजन के लिए दूसरों से लगातार लड़ने के लिए मजबूर, बंदूक चलाना और रणनीति [PAWN_nameDef]&amp;apos;s के ब्रह्मांड का केंद्र बन गया। : [PAWN_nameDef] एक बड़े ग्लिटरवर्ल्ड निगम के स्वामित्व वाली कॉलोनी में बड़ा हुआ। सभी बच्चों को जबरदस्ती वर्चुअल रियलिटी डिवाइस लगाए गए थे, और उन्हें एक क्रूर डिजिटल दुनिया में पाला गया।\n\nअमीर लोगों के मनोरंजन के लिए दूसरों से लड़ने के लिए लगातार मजबूर, बंदूक चलाना और रणनीति [PAWN_nameDef] के ब्रह्मांड का केंद्र बन गया।}</CorporateSlave22.description>
+  <CorporateSlave22.description>{PAWN_gender ? [PAWN_nameDef] एक विशाल चमकदार दुनिया निगम के स्वामित्व वाली एक कॉलोनी में पली-बढ़ी। सभी बच्चों को जबरदस्ती वर्चुअल रियलिटी डिवाइस से जोड़ा गया था, और उनका पालन-पोषण एक क्रूर डिजिटल दुनिया में किया गया था।\n\nअमीरों के मनोरंजन के लिए दूसरों से लड़ने के लिए लगातार मजबूर किए जाने के कारण, बंदूक चलाना और रणनीति बनाना [PAWN_nameDef] के ब्रह्मांड का केंद्र बन गए। : [PAWN_nameDef] एक बड़ी चमकदार दुनिया के निगम के स्वामित्व वाली एक कॉलोनी में पला-बढ़ा। सभी बच्चों को जबरदस्ती वर्चुअल रियलिटी डिवाइस से जोड़ा गया था, और उनका पालन-पोषण एक क्रूर डिजिटल दुनिया में किया गया था।\n\nअमीरों के मनोरंजन के लिए दूसरों से लड़ने के लिए लगातार मजबूर किए जाने के कारण, बंदूक चलाना और रणनीति बनाना [PAWN_nameDef] के ब्रह्मांड का केंद्र बन गए।}</CorporateSlave22.description>
   <!-- EN: corporate slave -->
   <CorporateSlave22.title>निगमित दास</CorporateSlave22.title>
   <CorporateSlave22.titleFemale>निगमित दासी</CorporateSlave22.titleFemale>
@@ -617,7 +617,7 @@
   <CowFarmer39.titleShortFemale>किसान महिला</CowFarmer39.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was adopted child of a notorious crime boss. [PAWN_pronoun] was taught all facets of the family business, from smuggling to inventive ways of killing.\n\nWhen the family was attacked, [PAWN_possessive] father ordered [PAWN_objective] to hide in a secret cryptosleep vault. -->
-  <CrimeBossChild39.description>{PAWN_gender ? [PAWN_nameDef] एक कुख्यात अपराध सरगना की दत्तक पुत्री थी। उसे परिवार के व्यवसाय के सभी पहलुओं को सिखाया गया, तस्करी से लेकर मारने के रचनात्मक तरीकों तक।\n\nजब परिवार पर हमला हुआ, तो उसके पिता ने उसे एक गुप्त क्रिप्टोस्लीप वॉल्ट में छिपने का आदेश दिया। : [PAWN_nameDef] एक कुख्यात अपराध सरगना का दत्तक पुत्र था। उसे परिवार के व्यवसाय के सभी पहलुओं को सिखाया गया, तस्करी से लेकर मारने के रचनात्मक तरीकों तक।\n\nजब परिवार पर हमला हुआ, तो उसके पिता ने उसे एक गुप्त क्रिप्टोस्लीप वॉल्ट में छिपने का आदेश दिया।}</CrimeBossChild39.description>
+  <CrimeBossChild39.description>{PAWN_gender ? [PAWN_nameDef] एक कुख्यात अपराध सिंडिकेट के बॉस की गोद ली हुई बेटी थी। उसे तस्करी से लेकर मारने के नए तरीकों तक, पारिवारिक व्यवसाय के सभी पहलुओं की शिक्षा दी गई थी।\n\nजब परिवार पर हमला हुआ, तो उसके पिता ने उसे एक गुप्त क्रिप्टोस्लीप वॉल्ट में छिपने का आदेश दिया। : [PAWN_nameDef] एक कुख्यात अपराध सिंडिकेट के बॉस का दत्तक पुत्र था। उसे तस्करी से लेकर मारने के नए तरीकों तक, पारिवारिक व्यवसाय के सभी पहलुओं की शिक्षा दी गई थी।\n\nजब परिवार पर हमला हुआ, तो उसके पिता ने उसे एक गुप्त क्रिप्टोस्लीप वॉल्ट में छिपने का आदेश दिया।}</CrimeBossChild39.description>
   <!-- EN: crime boss' child -->
   <CrimeBossChild39.title>अपराध सरगना का बेटा</CrimeBossChild39.title>
   <CrimeBossChild39.titleFemale>अपराध सरगना की बेटी</CrimeBossChild39.titleFemale>
@@ -635,7 +635,7 @@
   <CuriousChild33.titleShortFemale>जिज्ञासु</CuriousChild33.titleShortFemale>
   
   <!-- EN: Born on a glitterworld, [PAWN_nameDef] was very interested in the process of documenting information, and quickly became senior glitterpedia recorder.\n\n[PAWN_pronoun] was effective at self-study, but [PAWN_pronoun] lacked social experience. -->
-  <DataDecoder39.description>{PAWN_gender ? एक चमकते ग्रह पर जन्मी, [PAWN_nameDef] को जानकारी दर्ज करने की प्रक्रिया में बहुत रुचि थी, और वह जल्दी ही चमकते विकिपीडिया की वरिष्ठ रिकॉर्डर बन गई।\n\nवह स्व-अध्ययन में प्रभावी थी, लेकिन उसमें सामाजिक अनुभव की कमी थी। : एक चमकते ग्रह पर जन्मा, [PAWN_nameDef] को जानकारी दर्ज करने की प्रक्रिया में बहुत रुचि थी, और वह जल्दी ही चमकते विकिपीडिया का वरिष्ठ रिकॉर्डर बन गया।\n\nवह स्व-अध्ययन में प्रभावी था, लेकिन उसमें सामाजिक अनुभव की कमी थी।}</DataDecoder39.description>
+  <DataDecoder39.description>{PAWN_gender ? एक चमकदार दुनिया में जन्मी, [PAWN_nameDef] जानकारी को प्रलेखित करने की प्रक्रिया में बहुत रुचि रखती थी, और जल्द ही एक वरिष्ठ ग्लिटरपीडिया रिकॉर्डर बन गई।\n\nवह स्व-अध्ययन में प्रभावी थी, लेकिन उसमें सामाजिक अनुभव की कमी थी। : एक चमकदार दुनिया में जन्मे, [PAWN_nameDef] जानकारी को प्रलेखित करने की प्रक्रिया में बहुत रुचि रखते थे, और जल्द ही एक वरिष्ठ ग्लिटरपीडिया रिकॉर्डर बन गए।\n\nवह स्व-अध्ययन में प्रभावी थे, लेकिन उनमें सामाजिक अनुभव की कमी थी।}</DataDecoder39.description>
   <!-- EN: data decoder -->
   <DataDecoder39.title>डेटा डिकोडर</DataDecoder39.title>
   <DataDecoder39.titleFemale>डेटा डिकोडर</DataDecoder39.titleFemale>
@@ -689,7 +689,7 @@
   <DisasterSurvivor65.titleShortFemale>उत्तरजीवी</DisasterSurvivor65.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up isolated on a trash planet. A dumping ground for surrounding glitterworlds, it was a harsh home. As a baby, [PAWN_pronoun] sucked on the tap of a discarded nutrient paste dispenser for comfort.\n\nIn these desperate circumstances, against all odds, [PAWN_pronoun] survived - and thrived. -->
-  <DiscardedYouth93.description>{PAWN_gender ? कचरा ग्रह पर [PAWN_nameDef] का पालन-पोषण एकांत में हुआ। आसपास की चमकदार दुनियाएँ यहाँ कचरा डंप करती थीं, इसलिए यह एक कठोर घर था। एक शिशु के रूप में, उसने आराम के लिए एक त्याग किए गए पोषक पेस्ट डिस्पेंसर के नल को चूस लिया।\n\nइन हताश परिस्थितियों में, सभी बाधाओं के बावजूद, वह जीवित रही - और फली-फूली। : कचरा ग्रह पर [PAWN_nameDef] का पालन-पोषण एकांत में हुआ। आसपास की चमकदार दुनियाएँ यहाँ कचरा डंप करती थीं, इसलिए यह एक कठोर घर था। एक शिशु के रूप में, उसने आराम के लिए एक त्याग किए गए पोषक पेस्ट डिस्पेंसर के नल को चूस लिया।\n\nइन हताश परिस्थितियों में, सभी बाधाओं के बावजूद, वह जीवित रहा - और फला-फूला।}</DiscardedYouth93.description>
+  <DiscardedYouth93.description>{PAWN_gender ? [PAWN_nameDef] एक कचरे वाले ग्रह पर अलग-थलग रहकर बड़ी हुई। आसपास की चमकदार दुनियाएँ के लिए डंपिंग ग्राउंड होने के कारण, यह एक कठोर घर था। एक बच्ची के रूप में, वह सांत्वना के लिए एक फेंके गए पोषक पेस्ट डिस्पेंसर के नल को चूसती थी।\n\nइन हताश परिस्थितियों में, तमाम बाधाओं के बावजूद, वह जीवित रही - और फल-फूल रही। : [PAWN_nameDef] एक कचरे वाले ग्रह पर अलग-थलग रहकर बड़ा हुआ। आसपास की चमकदार दुनियाएँ के लिए डंपिंग ग्राउंड होने के कारण, यह एक कठोर घर था। एक बच्चे के रूप में, वह सांत्वना के लिए एक फेंके गए पोषक पेस्ट डिस्पेंसर के नल को चूसता था।\n\nइन हताश परिस्थितियों में, तमाम बाधाओं के बावजूद, वह जीवित रहा - और फला-फूला।}</DiscardedYouth93.description>
   <!-- EN: discarded youth -->
   <DiscardedYouth93.title>त्यागा हुआ युवा</DiscardedYouth93.title>
   <DiscardedYouth93.titleFemale>त्यागी युवती</DiscardedYouth93.titleFemale>
@@ -707,7 +707,7 @@
   <DisciplinedFarmer28.titleShortFemale>किसान महिला</DisciplinedFarmer28.titleShortFemale>
   
   <!-- EN: Born on an urbworld to the ruler of three megacities, [PAWN_nameDef]'s prospects looked good - until a violent insurrection overthrew [PAWN_possessive] family. Exile introduced [PAWN_nameDef] to hard work and combat, but some high-born squeamishness remains. -->
-  <DisplacedNoble67.description>{PAWN_gender ? एक शहरी ग्रह पर तीन महानगरों के शासक की पुत्री के रूप में जन्मी, [PAWN_nameDef] के भविष्य के अवसर अच्छे दिख रहे थे — जब तक कि एक हिंसक विद्रोह ने उसके परिवार को उखाड़ नहीं फेंका। निर्वासन ने [PAWN_nameDef] को कठिन परिश्रम और युद्ध से परिचित कराया, लेकिन कुछ उच्च-जाति की झिझक अभी भी शेष है। : एक शहरी ग्रह पर तीन महानगरों के शासक के पुत्र के रूप में जन्मे, [PAWN_nameDef] के भविष्य के अवसर अच्छे दिख रहे थे — जब तक कि एक हिंसक विद्रोह ने उसके परिवार को उखाड़ नहीं फेंका। निर्वासन ने [PAWN_nameDef] को कठिन परिश्रम और युद्ध से परिचित कराया, लेकिन कुछ उच्च-जाति की झिझक अभी भी शेष है।}</DisplacedNoble67.description>
+  <DisplacedNoble67.description>{PAWN_gender ? तीन मेगासिटी के शासक की एक शहरी दुनिया में जन्मी, [PAWN_nameDef] की संभावनाएं बहुत अच्छी दिख रही थीं - जब तक कि एक हिंसक विद्रोह ने उसके परिवार को उखाड़ नहीं फेंका। निर्वासन ने [PAWN_nameDef] को कठिन परिश्रम और युद्ध से परिचित कराया, लेकिन उसमें अभी भी कुछ उच्च-वर्गीय संकोच बाकी है। : तीन मेगासिटीज के शासक के यहाँ एक शहरी दुनिया में जन्मे, [PAWN_nameDef] की संभावनाएं बहुत अच्छी लग रही थीं - जब तक कि एक हिंसक विद्रोह ने उसके परिवार को उखाड़ नहीं फेंका। निर्वासन ने [PAWN_nameDef] को कठिन परिश्रम और युद्ध से परिचित कराया, लेकिन उसमें अभी भी कुछ उच्च-कुलीन संकोच बाकी है।}</DisplacedNoble67.description>
   <!-- EN: displaced noble -->
   <DisplacedNoble67.title>विस्थापित कुलीन</DisplacedNoble67.title>
   <DisplacedNoble67.titleFemale>विस्थापित कुलीन महिला</DisplacedNoble67.titleFemale>
@@ -770,7 +770,7 @@
   <Empath47.titleShortFemale>भावुक संवेदी महिला</Empath47.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up on a glitterworld, training in rapier arts and singing. [PAWN_pronoun] spent several years as an energetic teen pop idol.\n\nHowever, [PAWN_pronoun] decided that the music and modeling industries were not paying [PAWN_objective] enough attention, so [PAWN_pronoun] left. -->
-  <EnergeticPopIdol61.description>{PAWN_gender ? [PAWN_nameDef] एक चमकते हुए ग्रह पर पली-बढ़ी, जहाँ उसने रैपियर कला और गायन का प्रशिक्षण लिया। उसने कई साल एक ऊर्जावान किशोर पॉप आइडल के रूप में बिताए।\n\nहालाँकि, उसने फैसला किया कि संगीत और मॉडलिंग उद्योग उस पर पर्याप्त ध्यान नहीं दे रहे हैं, इसलिए वह चली गई। : [PAWN_nameDef] एक चमकते हुए ग्रह पर बड़ा हुआ, जहाँ उसने रैपियर कला और गायन का प्रशिक्षण लिया। उसने कई साल एक ऊर्जावान किशोर पॉप आइडल के रूप में बिताए।\n\nहालाँकि, उसने फैसला किया कि संगीत और मॉडलिंग उद्योग उसे पर्याप्त ध्यान नहीं दे रहे हैं, इसलिए वह चला गया।}</EnergeticPopIdol61.description>
+  <EnergeticPopIdol61.description>{PAWN_gender ? [PAWN_nameDef] एक चमकदार दुनिया में पली-बढ़ी, जहाँ उसने रेपियर कला और गायन का प्रशिक्षण लिया। उसने कई वर्ष एक ऊर्जावान किशोर पॉप आइडल के रूप में बिताए।\n\nहालाँकि, उसने निर्णय लिया कि संगीत और मॉडलिंग उद्योग उसे पर्याप्त ध्यान नहीं दे रहे हैं, इसलिए वह चली गई। : [PAWN_nameDef] एक चमकदार दुनिया में पला-बढ़ा, जहाँ उसने रेपियर कला और गायन का प्रशिक्षण लिया। उसने कई वर्ष एक ऊर्जावान किशोर पॉप आइडल के रूप में बिताए।\n\nहालाँकि, उसने निर्णय लिया कि संगीत और मॉडलिंग उद्योग उसे पर्याप्त ध्यान नहीं दे रहे हैं, इसलिए वह छोड़ कर चला गया।}</EnergeticPopIdol61.description>
   <!-- EN: energetic pop idol -->
   <EnergeticPopIdol61.title>उत्साही पॉप आइडल</EnergeticPopIdol61.title>
   <EnergeticPopIdol61.titleFemale>उत्साही पॉप आइडल</EnergeticPopIdol61.titleFemale>
@@ -788,7 +788,7 @@
   <ExiledPrince58.titleShortFemale>राजकुमारी</ExiledPrince58.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up in a large factory city on an industrial world.\n\nSince poverty was rampant and food scarce, [PAWN_pronoun] worked for whatever wages [PAWN_pronoun] could get. This wasn't an easy life, but [PAWN_nameDef] never shied away from a hard day's work. -->
-  <FactoryDrone58.description>{PAWN_gender ? [PAWN_nameDef] एक औद्योगिक दुनिया के एक बड़े कारखाने शहर में पली-बढ़ी।\n\nचूंकि गरीबी व्यापक थी और भोजन दुर्लभ था, इसलिए उसने जो भी मजदूरी मिल सके, उसके लिए काम किया। यह जीवन आसान नहीं था, लेकिन [PAWN_nameDef] कभी भी कड़ी मेहनत से पीछे नहीं हटी। : [PAWN_nameDef] एक औद्योगिक दुनिया के एक बड़े कारखाने शहर में पला-बढ़ा।\n\nचूंकि गरीबी व्यापक थी और भोजन दुर्लभ था, इसलिए उसने जो भी मजदूरी मिल सके उसके लिए काम किया। यह जीवन आसान नहीं था, लेकिन [PAWN_nameDef] कभी भी कड़ी मेहनत से पीछे नहीं हटा।}</FactoryDrone58.description>
+  <FactoryDrone58.description>{PAWN_gender ? [PAWN_nameDef] एक औद्योगिक युग वाले विश्व के एक बड़े कारखाने वाले शहर में पली-बढ़ी।\n\nचूंकि गरीबी चरम पर थी और भोजन की कमी थी, इसलिए उसने जितनी भी मजदूरी मिल सके, उसके लिए काम किया। यह कोई आसान जीवन नहीं था, लेकिन [PAWN_nameDef] कभी कठिन परिश्रम से पीछे नहीं हटी। : [PAWN_nameDef] एक औद्योगिक युग वाले ग्रह पर एक बड़े कारखाने वाले शहर में पला-बढ़ा।\n\nचूंकि गरीबी चरम पर थी और भोजन की कमी थी, इसलिए उसने जितनी भी मजदूरी मिल सके, उसके लिए काम किया। यह कोई आसान जीवन नहीं था, लेकिन [PAWN_nameDef] कभी कठिन परिश्रम से पीछे नहीं हटा।}</FactoryDrone58.description>
   <!-- EN: factory drone -->
   <FactoryDrone58.title>कारखाना सेवक</FactoryDrone58.title>
   <FactoryDrone58.titleFemale>कारखाना कर्मी</FactoryDrone58.titleFemale>
@@ -797,7 +797,7 @@
   <FactoryDrone58.titleShortFemale>मज़दूरिन</FactoryDrone58.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was born on a glitterworld falling into chaos. [PAWN_possessive] father was killed in action.\n\n[PAWN_pronoun] struggled for a scholarship at Utmaior Academy and had to prove [PAWN_possessive] right to be there. A child genius, [PAWN_pronoun] was bullied as a charity case and couldn't make friends with the other kids. -->
-  <FallenProdigy40.description>{PAWN_gender ? [PAWN_nameDef] एक चमकते हुए ग्रह पर अराजकता में पैदा हुई थी। उसके पिता युद्ध में मारे गए थे।\n\nउसने उत्मायोर अकादमी में छात्रवृत्ति के लिए संघर्ष किया और उसे वहां रहने का अपना अधिकार साबित करना पड़ा। एक बाल प्रतिभाशाली होने के कारण, उसे दान के मामले के रूप में धमकाया गया और वह अन्य बच्चों से दोस्ती करने में असमर्थ रही। : [PAWN_nameDef] एक चमकते हुए ग्रह पर अराजकता में पैदा हुआ था। उसके पिता युद्ध में मारे गए थे।\n\nउसने उत्मायोर अकादमी में छात्रवृत्ति के लिए संघर्ष किया और उसे वहां रहने का अपना अधिकार साबित करना पड़ा। एक बाल प्रतिभाशाली होने के कारण, उसे दान के मामले के रूप में धमकाया गया और वह अन्य बच्चों से दोस्ती करने में असमर्थ रहा।}</FallenProdigy40.description>
+  <FallenProdigy40.description>{PAWN_gender ? [PAWN_nameDef] का जन्म एक अराजकता में डूबती हुई चमकदार दुनिया में हुआ था। उसके पिता युद्ध में मारे गए थे।\n\nउसने उत्मायोर अकादमी में छात्रवृत्ति के लिए कड़ा संघर्ष किया और वहां रहने के अपने अधिकार को साबित करना पड़ा। एक बाल प्रतिभा होने के बावजूद, उसे एक दान पात्र मानकर प्रताड़ित किया गया और वह अन्य बच्चों के साथ दोस्ती नहीं कर सकी। : [PAWN_nameDef] का जन्म अराजकता में डूबती एक चमकदार दुनिया में हुआ था। उसके पिता युद्ध के दौरान मारे गए थे।\n\nउसने उत्मायोर अकादमी (Utmaior Academy) में छात्रवृत्ति पाने के लिए कड़ा संघर्ष किया और वहां रहने के अपने अधिकार को साबित करना पड़ा। एक बाल प्रतिभा होने के बावजूद, उसे एक दान पात्र के रूप में प्रताड़ित किया गया और वह अन्य बच्चों के साथ दोस्ती नहीं कर सका।}</FallenProdigy40.description>
   <!-- EN: fallen prodigy -->
   <FallenProdigy40.title>गिर गया प्रतिभाशाली</FallenProdigy40.title>
   <FallenProdigy40.titleFemale>गिरती हुई प्रतिभाशाली</FallenProdigy40.titleFemale>
@@ -865,7 +865,7 @@
   <FarmMechanic1.titleShortFemale>मैकेनिकी</FarmMechanic1.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] and [PAWN_possessive] family lived a hard but prosperous life along with their fellow colonists on an outlying rimworld.\n\nOne day, a group of mechanoids attacked, killing everyone aside from [PAWN_nameDef]. [PAWN_pronoun] then lived alone in the desert until a group of raiders found him. -->
-  <FeralChild85.description>{PAWN_gender ? [PAWN_nameDef] और उनके परिवार ने एक बाहरी रिमवर्ल्ड में अपने साथी उपनिवेशवादियों के साथ एक कठिन लेकिन समृद्ध जीवन व्यतीत किया।\n\nएक दिन, मैकेनोइड्स के एक समूह ने हमला किया, जिससे हर कोई [PAWN_nameDef] को छोड़कर मर गया। फिर वह रेगिस्तान में अकेली रहीं जब तक कि डाकुओं का एक समूह उसे नहीं मिल गया। : [PAWN_nameDef] और उनके परिवार ने एक बाहरी रिमवर्ल्ड में अपने साथी उपनिवेशवादियों के साथ एक कठिन लेकिन समृद्ध जीवन व्यतीत किया।\n\nएक दिन, मैकेनोइड्स के एक समूह ने हमला किया, जिससे हर कोई [PAWN_nameDef] को छोड़कर मर गया। फिर वह रेगिस्तान में अकेला रहता रहा जब तक कि डाकुओं का एक समूह उसे नहीं मिल गया।}</FeralChild85.description>
+  <FeralChild85.description>{PAWN_gender ? [PAWN_nameDef] और उसका परिवार एक बाहरी रिमवर्ल्ड पर अपने साथी उपनिवेशवादियों के साथ एक कठिन लेकिन समृद्ध जीवन जी रहे थे।\n\nएक दिन, मेकैनॉइड्स के एक समूह ने हमला कर दिया, जिससे [PAWN_nameDef] के अलावा सभी मारे गए। फिर वह तब तक अकेले रेगिस्तान में रही जब तक कि हमलावरों के एक समूह ने उसे ढूंढ नहीं लिया। : [PAWN_nameDef] और उसका परिवार एक बाहरी रिमवर्ल्ड पर अपने साथी उपनिवेशवादियों के साथ एक कठिन लेकिन समृद्ध जीवन जीते थे।\n\nएक दिन, मेकैनॉइड्स के एक समूह ने हमला कर दिया, जिससे [PAWN_nameDef] के अलावा सभी मारे गए। इसके बाद वह तब तक अकेले रेगिस्तान में रहा जब तक कि हमलावरों के एक समूह ने उसे ढूंढ नहीं लिया।}</FeralChild85.description>
   <!-- EN: feral child -->
   <FeralChild85.title>जंगली बालक</FeralChild85.title>
   <FeralChild85.titleFemale>जंगली बच्ची</FeralChild85.titleFemale>
@@ -883,7 +883,7 @@
   <FeralChild96.titleShortFemale>जंगली महिला</FeralChild96.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was the son of a medieval farmer, and was expected to follow in [PAWN_possessive] footsteps. [PAWN_pronoun] was brought up as a kind, well trained farm boy.\n\n[PAWN_pronoun] lived in an unusual feudal kingdom which co-existed with a midworld society which was itself well-known for genetic manipulation. -->
-  <FeudalFarmBoy0.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुगीन किसान की बेटी थी, और उससे भी अपने पदचिन्हों का पालन करने की उम्मीद की गई थी। उसे एक दयालु, प्रशिक्षित खेत लड़के के रूप में पाला गया था।\n\nवह एक असामान्य सामंती राज्य में रहती थी जो एक मध्य-विश्व समाज के साथ सह-अस्तित्व में थी जो स्वयं आनुवंशिक हेरफेर के लिए प्रसिद्ध थी। : [PAWN_nameDef] एक मध्ययुगीन किसान का पुत्र था, और उससे भी उसके पदचिन्हों का अनुसरण करने की अपेक्षा की गई थी। उसे एक दयालु, प्रशिक्षित खेत लड़के के रूप में पाला गया था।\n\nवह एक असामान्य सामंती राज्य में रहता था जो एक मध्य-विश्व समाज के साथ सह-अस्तित्व में था जो स्वयं आनुवंशिक हेरफेर के लिए प्रसिद्ध था।}</FeudalFarmBoy0.description>
+  <FeudalFarmBoy0.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुग के किसान की बेटी थी, और उससे अपने पदचिन्हों पर चलने की अपेक्षा की जाती थी। उसका पालन-पोषण एक दयालु, सुशिक्षित किसान कन्या के रूप में किया गया था।\n\nवह एक असामान्य सामंती साम्राज्य में रहती थी जो एक मध्य दुनिया समाज के साथ सह-अस्तित्व में था, जो स्वयं आनुवंशिक हेरफेर के लिए प्रसिद्ध था। : [PAWN_nameDef] एक मध्ययुग के किसान का पुत्र था, और उससे उसके पदचिन्हों पर चलने की अपेक्षा की जाती थी। उसका पालन-पोषण एक दयालु, सुशिक्षित कृषि बालक के रूप में किया गया था।\n\nवह एक असामान्य सामंती साम्राज्य में रहता था जो एक मध्य दुनिया समाज के साथ सह-अस्तित्व में था, जो स्वयं आनुवंशिक हेरफेर के लिए प्रसिद्ध था।}</FeudalFarmBoy0.description>
   <!-- EN: feudal farm boy -->
   <FeudalFarmBoy0.title>सामंती किसान लड़का</FeudalFarmBoy0.title>
   <FeudalFarmBoy0.titleFemale>सामंती किसान लड़की</FeudalFarmBoy0.titleFemale>
@@ -918,7 +918,7 @@
   <ForestChild83.titleShortFemale>वन बालिका</ForestChild83.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up as an apprentice in the foundries of an industrial world. This experience gave [PAWN_objective] metalworking skills and strong muscles, but stunted [PAWN_possessive] artistic development. -->
-  <FoundryApprentice76.description>{PAWN_gender ? [PAWN_nameDef] एक औद्योगिक दुनिया के फाउंड्री में प्रशिक्षु के रूप में पली-बढ़ी। इस अनुभव ने उसे धातु कार्य कौशल और मजबूत मांसपेशियां दीं, लेकिन उसकी कलात्मक विकास को बाधित कर दिया। : [PAWN_nameDef] एक औद्योगिक दुनिया के फाउंड्री में प्रशिक्षु के रूप में बड़ा हुआ। इस अनुभव ने उसे धातु कार्य कौशल और मजबूत मांसपेशियां दीं, लेकिन उसकी कलात्मक विकास को बाधित कर दिया।}</FoundryApprentice76.description>
+  <FoundryApprentice76.description>{PAWN_gender ? [PAWN_nameDef] एक औद्योगिक युग के फाउंड्री में एक प्रशिक्षु के रूप में पली-बढ़ी। इस अनुभव ने उसे धातुगिरी के कौशल और मजबूत मांसपेशियां दीं, लेकिन उसके कलात्मक विकास को बाधित कर दिया। : [PAWN_nameDef] एक औद्योगिक युग के फाउंड्री में एक प्रशिक्षु के रूप में पला-बढ़ा। इस अनुभव ने उसे धातुगिरी के कौशल और मजबूत मांसपेशियां दीं, लेकिन उसके कलात्मक विकास को बाधित कर दिया।}</FoundryApprentice76.description>
   <!-- EN: foundry apprentice -->
   <FoundryApprentice76.title>लोहार प्रशिक्षु</FoundryApprentice76.title>
   <FoundryApprentice76.titleFemale>लोहार शिक्षिका</FoundryApprentice76.titleFemale>
@@ -936,7 +936,7 @@
   <Freethinker38.titleShortFemale>विचार्वती</Freethinker38.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] inherited a sense of duty from [PAWN_possessive] father, and began a law enforcement career on [PAWN_possessive] frontier homeworld.\n\n[PAWN_pronoun] tried to uphold the law with honor, but the corruption and greed of local government officials often discouraged him. -->
-  <FrontierMarshal54.description>[PAWN_nameDef] ने अपने पिता से कर्तव्य की भावना विरासत में पाई, और अपने सीमावर्ती गृह ग्रह पर कानून प्रवर्तन करियर शुरू किया।\n\nउसने सम्मान के साथ कानून का पालन करने की कोशिश की, लेकिन स्थानीय सरकारी अधिकारियों का भ्रष्टाचार और लालच अक्सर उसे हतोत्साहित करता था।</FrontierMarshal54.description>
+  <FrontierMarshal54.description>[PAWN_nameDef] को अपने पिता से कर्तव्य की भावना विरासत में मिली थी, और उन्होंने अपने सीमावर्ती गृहग्रह पर कानून प्रवर्तन करियर की शुरुआत की।\n\nउसने सम्मान के साथ कानून बनाए रखने की कोशिश की, लेकिन स्थानीय सरकारी अधिकारियों के भ्रष्टाचार और लालच ने अक्सर उसे हतोत्साहित किया।</FrontierMarshal54.description>
   <!-- EN: frontier marshal -->
   <FrontierMarshal54.title>सीमा रक्षक</FrontierMarshal54.title>
   <FrontierMarshal54.titleFemale>सीमा रक्षक</FrontierMarshal54.titleFemale>
@@ -972,7 +972,7 @@
   <GangMember16.titleShortFemale>गुंडा लड़की</GangMember16.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up homeless on an urbworld. [PAWN_pronoun] was forced to fight and struggle for everything, making [PAWN_objective] hard and ruthless long before adulthood.\n\n[PAWN_nameDef] would have stayed in those streets, had [PAWN_pronoun] not been injured in a shootout and had [PAWN_possessive] body confiscated for use by one of the worldwide city's ruling corporations. -->
-  <GangMember83.description>{PAWN_gender ? [PAWN_nameDef] एक शहरी दुनिया में बेघर पली-बढ़ी। उसे हर चीज़ के लिए लड़ना और संघर्ष करना पड़ा, जिससे वह वयस्क होने से पहले ही कठोर और निर्दयी बन गई।\n\n[PAWN_nameDef] उन सड़कों पर ही रहती, अगर वह गोलीबारी में घायल न होती और उसका शरीर दुनिया भर के शहर की शासक कंपनियों में से एक द्वारा उपयोग के लिए जब्त न कर लिया जाता। : [PAWN_nameDef] एक शहरी दुनिया में बेघर बड़ा हुआ। उसे हर चीज़ के लिए लड़ना और संघर्ष करना पड़ा, जिसने उसे वयस्क होने से पहले ही कठोर और निर्दयी बना दिया।\n\n[PAWN_nameDef] उन सड़कों पर ही रहता, अगर वह गोलीबारी में घायल नहीं होता और उसका शरीर दुनिया भर के शहर की शासक निगमों में से एक द्वारा उपयोग के लिए जब्त नहीं कर लिया जाता।}</GangMember83.description>
+  <GangMember83.description>{PAWN_gender ? [PAWN_nameDef] एक शहरी दुनिया में बेघर होकर पली-बढ़ी। उसे हर चीज़ के लिए लड़ने और संघर्ष करने के लिए मजबूर किया गया, जिसने उसे वयस्क होने से बहुत पहले ही कठोर और निर्दयी बना दिया था।\n\nयदि [PAWN_nameDef] एक गोलीबारी में घायल न हुई होती और उसका शरीर विश्वव्यापी शहर के शासन करने वाले निगमों में से एक द्वारा उपयोग के लिए जब्त न कर लिया गया होता, तो वह उन्हीं गलियों में रह जाती। : [PAWN_nameDef] एक शहरी दुनिया में बेघर होकर पला-बढ़ा। उसे हर चीज़ के लिए लड़ने और संघर्ष करने के लिए मजबूर किया गया, जिसने उसे वयस्क होने से बहुत पहले ही कठोर और निर्दयी बना दिया था।\n\nयदि [PAWN_nameDef] एक गोलीबारी में घायल न हुआ होता और वैश्विक शहर के शासन करने वाले निगमों में से एक द्वारा उसके शरीर को उपयोग के लिए जब्त न कर लिया गया होता, तो वह उन्हीं गलियों में रह जाता।}</GangMember83.description>
   <!-- EN: gang member -->
   <GangMember83.title>गुंडा सदस्य</GangMember83.title>
   <GangMember83.titleFemale>गुंडा सदस्य</GangMember83.titleFemale>
@@ -981,28 +981,28 @@
   <GangMember83.titleShortFemale>गुंडा महिला</GangMember83.titleShortFemale>
   
   <!-- EN: The daughter of a glitterworld influencer and his genetically-engineered 'perfect mate', [PAWN_nameDef] grew up learning to rub shoulders with the cream of the crop - though [PAWN_pronoun] always preferred [PAWN_possessive] personal space, reading books and tinkering with tech. -->
-  <GlitterworldKid85.description>{PAWN_gender ? एक चमकदार दुनिया की प्रभावशाली व्यक्ति की बेटी और उसके आनुवंशिक रूप से इंजीनियर किए गए 'परिपूर्ण साथी', [PAWN_nameDef] का पालन-पोषण अभिजात वर्ग के साथ घुलने-मिलने में हुआ - हालाँकि उसने हमेशा अपनी व्यक्तिगत जगह को पसंद किया, किताबें पढ़ीं और तकनीक से छेड़छाड़ की। : एक चमकदार दुनिया के प्रभावशाली व्यक्ति और उसकी आनुवंशिक रूप से इंजीनियर 'परिपूर्ण साथी' का बेटा, [PAWN_nameDef] ऐसा बड़ा हुआ कि वह अभिजात वर्ग के साथ घुलमिल जाता था - हालाँकि उसने हमेशा अपनी व्यक्तिगत जगह को पसंद किया, किताबें पढ़ीं और तकनीक से छेड़छाड़ की।}</GlitterworldKid85.description>
+  <GlitterworldKid85.description>{PAWN_gender ? एक चमकदार दुनिया की इन्फ्लुएंसर और उसके आनुवंशिक रूप से निर्मित 'परफेक्ट मेट' की बेटी, [PAWN_nameDef] ने समाज के सबसे प्रतिष्ठित लोगों के बीच रहना सीखते हुए अपना बचपन बिताया - हालाँकि वह हमेशा अपनी व्यक्तिगत जगह को प्राथमिकता देती थी, किताबें पढ़ने और तकनीक के साथ प्रयोग करने में। : एक चमकदार दुनिया के इन्फ्लुएंसर और उसकी आनुवंशिक रूप से निर्मित 'परफेक्ट मेट' की बेटी का बेटा होने के नाते, [PAWN_nameDef] ने समाज के सबसे प्रतिष्ठित लोगों के बीच रहना सीखते हुए अपना बचपन बिताया - हालाँकि वह हमेशा अपनी व्यक्तिगत जगह, किताबें पढ़ने और तकनीक के साथ प्रयोग करने को ही प्राथमिकता देता था।}</GlitterworldKid85.description>
   <!-- EN: glitterworld kid -->
-  <GlitterworldKid85.title>चमकदार दुनिया का बालक</GlitterworldKid85.title>
+  <GlitterworldKid85.title>चमकदार दुनिया का बच्चा</GlitterworldKid85.title>
   <GlitterworldKid85.titleFemale>चमकदार दुनिया की बच्ची</GlitterworldKid85.titleFemale>
   <!-- EN: glitterkid -->
   <GlitterworldKid85.titleShort>चमकदार बच्चा</GlitterworldKid85.titleShort>
   <GlitterworldKid85.titleShortFemale>चमकदार बच्ची</GlitterworldKid85.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] loved technology from the day [PAWN_pronoun] was born. [PAWN_pronoun] had a mechanoid companion which [PAWN_pronoun] tried to modify.\n\n[PAWN_possessive] obsession with technology meant that [PAWN_pronoun] never appreciated arts or culture. -->
-  <GlitterworldNerd20.description>{PAWN_gender ? तकनीशियन [PAWN_nameDef] ने जन्म से ही तकनीक को प्यार किया। उसके पास एक मैकेनोइड साथी था जिसे उसने संशोधित करने की कोशिश की।\n\nतकनीक के प्रति उसका जुनून इतना था कि उसने कभी भी कला या संस्कृति की सराहना नहीं की। : तकनीकप्रेमी [PAWN_nameDef] का जन्म से ही तकनीक से प्रेम था। उसके पास एक मैकेनोइड साथी था जिसे उसने संशोधित करने की कोशिश की।\n\nतकनीक के प्रति उसका जुनून इतना था कि उसने कभी भी कला या संस्कृति की सराहना नहीं की।}</GlitterworldNerd20.description>
+  <GlitterworldNerd20.description>{PAWN_gender ? [PAWN_nameDef] अपने जन्म के दिन से ही तकनीक से प्रेम करती थी। उसके पास एक मेकैनॉइड साथी था जिसे वह संशोधित करने की कोशिश करती थी।\n\nतकनीक के प्रति उसके जुनून का अर्थ था कि उसने कभी कला या संस्कृति की सराहना नहीं की। : [PAWN_nameDef] अपने जन्म के दिन से ही तकनीक से प्रेम करता था। उसके पास एक मेकैनॉइड साथी था जिसे वह संशोधित करने की कोशिश करता रहता था।\n\nतकनीक के प्रति उसके जुनून का अर्थ यह था कि उसने कभी कला या संस्कृति की सराहना नहीं की।}</GlitterworldNerd20.description>
   <!-- EN: glitterworld nerd -->
-  <GlitterworldNerd20.title>चमकदार-दुनिया का ज्ञानी</GlitterworldNerd20.title>
-  <GlitterworldNerd20.titleFemale>चमकदार-दुनिया की विदुषी</GlitterworldNerd20.titleFemale>
+  <GlitterworldNerd20.title>चमकदार दुनिया का कीड़ा</GlitterworldNerd20.title>
+  <GlitterworldNerd20.titleFemale>चमकदार दुनिया की पढ़ाकू</GlitterworldNerd20.titleFemale>
   <!-- EN: nerd -->
   <GlitterworldNerd20.titleShort>गीक/तकनीकी उत्साही</GlitterworldNerd20.titleShort>
   <GlitterworldNerd20.titleShortFemale>गीक महिला</GlitterworldNerd20.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up in a glitterworld royal household. [PAWN_pronoun] was groomed from a young age to marry into another planet's royal family.\n\nUnfortunately, [PAWN_possessive] crooked teeth made [PAWN_objective] undesirable to suitors, so [PAWN_pronoun] became bitter and resentful. -->
-  <GlitterworldRoyal24.description>{PAWN_gender ? [PAWN_nameDef] एक चमकती दुनिया के शाही परिवार में पली-बढ़ी। उसे कम उम्र से ही दूसरे ग्रह के शाही परिवार में शादी करने के लिए तैयार किया गया था।\n\nदुर्भाग्य से, उसके टेढ़े-मेढ़े दांतों के कारण वह संभावित वर के लिए अवांछनीय हो गई, इसलिए वह कड़वी और द्वेषपूर्ण हो गई। : [PAWN_nameDef] एक चमकती दुनिया के शाही परिवार में पला-बढ़ा। उसे कम उम्र से ही दूसरे ग्रह के शाही परिवार में शादी करने के लिए तैयार किया गया था।\n\nदुर्भाग्य से, उसके टेढ़े-मेढ़े दांतों के कारण वह संभावित वर के लिए अवांछनीय था, इसलिए वह कड़वा और द्वेषपूर्ण हो गया।}</GlitterworldRoyal24.description>
+  <GlitterworldRoyal24.description>{PAWN_gender ? [PAWN_nameDef] एक चमकदार दुनिया के शाही परिवार में पली-बढ़ी। उसे कम उम्र से ही दूसरे ग्रह के शाही परिवार में विवाह करने के लिए तैयार किया गया था।\n\nदुर्भाग्यवश, उसके टेढ़े-मेढ़े दांतों ने उसे सुयोग्य वर-नेवरों की दृष्टि में अवांछनीय बना दिया, जिससे वह कड़वाहट और आक्रोश से भर गई। : [PAWN_nameDef] एक चमकदार दुनिया के शाही परिवार में पला-बढ़ा। उसे कम उम्र से ही दूसरे ग्रह के शाही परिवार में विवाह करने के लिए तैयार किया गया था।\n\nदुर्भाग्यवश, उसके टेढ़े-मेढ़े दांतों ने उसे प्रस्ताव देने वालों की नज़र में अवांछनीय बना दिया, जिससे वह कड़वाहट और आक्रोश से भर गया।}</GlitterworldRoyal24.description>
   <!-- EN: glitterworld royal -->
-  <GlitterworldRoyal24.title>चमकदार दुनिया का शाही व्यक्ति</GlitterworldRoyal24.title>
-  <GlitterworldRoyal24.titleFemale>चमकदार दुनिया की राजकुमारी</GlitterworldRoyal24.titleFemale>
+  <GlitterworldRoyal24.title>चमकदार दुनिया का शाही सदस्य</GlitterworldRoyal24.title>
+  <GlitterworldRoyal24.titleFemale>चमकदार दुनिया की शाही महिला</GlitterworldRoyal24.titleFemale>
   <!-- EN: royalty -->
   <GlitterworldRoyal24.titleShort>राजकुमार वंशज</GlitterworldRoyal24.titleShort>
   <GlitterworldRoyal24.titleShortFemale>राजकुमारी वंशानुगत पदवी</GlitterworldRoyal24.titleShortFemale>
@@ -1017,7 +1017,7 @@
   <GNomeSculptor34.titleShortFemale>मूर्तिकार महिला</GNomeSculptor34.titleShortFemale>
   
   <!-- EN: Growing up in a urbworld, [PAWN_nameDef] never had it easy. Every day was a struggle and pollution, hunger, and gangs of older kids.\n\nIn the little space [PAWN_pronoun] had to [PAWN_objective]self, [PAWN_pronoun] studied [PAWN_possessive] passion - guns, combat tactics, and war history. -->
-  <GunKid30.description>{PAWN_gender ? शहरी दुनिया में पली-बढ़ी [PAWN_nameDef] को कभी आसान जीवन नहीं मिला। हर दिन संघर्ष था और प्रदूषण, भूख, और बड़े बच्चों के गिरोहों से जूझना पड़ा।\n\nअपनी थोड़ी सी जगह में, उसने अपने जुनून का अध्ययन किया - बंदूकें, युद्ध रणनीति, और युद्ध का इतिहास। : शहरी दुनिया में पले-बढ़े, [PAWN_nameDef] का जीवन कभी आसान नहीं रहा। हर दिन संघर्ष था और प्रदूषण, भूख, और बड़े बच्चों के गिरोहों से जूझना पड़ता था।\n\nअपनी थोड़ी सी जगह में, उसने अपने जुनून का अध्ययन किया - बंदूकें, युद्ध रणनीति, और युद्ध का इतिहास।}</GunKid30.description>
+  <GunKid30.description>{PAWN_gender ? शहरी दुनिया में पली-बढ़ी, [PAWN_nameDef] के लिए जीवन कभी आसान नहीं रहा। हर दिन एक संघर्ष था और प्रदूषण, भूख, और बड़े बच्चों के गिरोह उसकी नियति थे।\n\nउस छोटे से स्थान में जो केवल उसका अपना था, उसने अपने जुनून का अध्ययन किया - बंदूकें, युद्ध की रणनीति, और युद्ध का इतिहास। : एक शहरी दुनिया में बड़े होते हुए, [PAWN_nameDef] के लिए कभी कुछ भी आसान नहीं था। हर दिन एक संघर्ष था और प्रदूषण, भूख, और बड़े बच्चों के गिरोह उसका पीछा नहीं छोड़ते थे।\n\nउस छोटे से स्थान में जो उसके पास खुद के लिए था, उसने अपने जुनून का अध्ययन किया - बंदूकें, युद्ध की रणनीति, और युद्ध का इतिहास।}</GunKid30.description>
   <!-- EN: gun kid -->
   <GunKid30.title>बंदूक बालक</GunKid30.title>
   <GunKid30.titleFemale>बंदूक की बच्ची</GunKid30.titleFemale>
@@ -1026,7 +1026,7 @@
   <GunKid30.titleShortFemale>बंदूक वाली बच्ची</GunKid30.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a professional gymnast at an early age. Thanks to [PAWN_possessive] skills, [PAWN_pronoun] was able to enroll in a glitterworld university.\n\nBecause of the lack of career opportunities in gymnastics, [PAWN_pronoun] left the university unemployed and carrying an enormous debt. -->
-  <Gymnast48.description>{PAWN_gender ? [PAWN_nameDef] बहुत कम उम्र में एक पेशेवर जिम्नास्ट थीं। अपनी क्षमताओं के कारण, वह एक चमकती दुनिया के विश्वविद्यालय में दाखिला लेने में सक्षम थीं।\n\nजिम्नास्टिक में करियर के अवसरों की कमी के कारण, उन्होंने विश्वविद्यालय छोड़ दिया, बेरोजगार और एक भारी कर्ज के साथ। : [PAWN_nameDef] कम उम्र में ही एक पेशेवर जिम्नास्ट था। अपनी क्षमताओं के कारण, वह एक चमकती दुनिया के विश्वविद्यालय में दाखिला लेने में सक्षम था।\n\nजिम्नास्टिक में करियर के अवसरों की कमी के कारण, वह विश्वविद्यालय से बेरोजगार और भारी कर्ज लेकर चला गया।}</Gymnast48.description>
+  <Gymnast48.description>{PAWN_gender ? [PAWN_nameDef] कम उम्र में एक पेशेवर जिमनास्ट थी। अपने कौशल के कारण, वह एक चमकदार दुनिया के विश्वविद्यालय में दाखिला लेने में सक्षम रही।\n\nजिमनास्टिक में करियर के अवसरों की कमी के कारण, उसने बिना किसी नौकरी के और भारी कर्ज के साथ विश्वविद्यालय छोड़ दिया। : [PAWN_nameDef] कम उम्र में एक पेशेवर जिम्नास्ट था। अपने कौशल के कारण, वह एक चमकदार दुनिया के विश्वविद्यालय में प्रवेश लेने में सक्षम रहा।\n\nजिम्नास्टिक में करियर के अवसरों की कमी के कारण, उसने भारी कर्ज लेकर और बेरोजगार होकर विश्वविद्यालय छोड़ दिया।}</Gymnast48.description>
   <!-- EN: gymnast -->
   <Gymnast48.title>जिम्नास्ट</Gymnast48.title>
   <Gymnast48.titleFemale>जिम्नास्ट</Gymnast48.titleFemale>
@@ -1141,14 +1141,14 @@
   <IdealisticCadet64.titleShortFemale>कैडेट शिक्षार्थी</IdealisticCadet64.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] studied on an imperial midworld where guns were banned and self-defense study was encouraged. The relative safety allowed [PAWN_objective] to focus on [PAWN_possessive] botanical research. -->
-  <ImperialStudent49.description>{PAWN_gender ? [PAWN_nameDef] ने एक शाही मध्य-विश्व में अध्ययन किया जहाँ बंदूकों पर प्रतिबंध था और आत्मरक्षा के अध्ययन को प्रोत्साहित किया गया था। सापेक्षिक सुरक्षा ने उसे उसके वनस्पति अनुसंधान पर ध्यान केंद्रित करने की अनुमति दी। : [PAWN_nameDef] ने एक शाही मध्य-विश्व में अध्ययन किया जहाँ बंदूकों पर प्रतिबंध था और आत्मरक्षा के अध्ययन को प्रोत्साहित किया गया था। सापेक्षिक सुरक्षा ने उसे अपने वनस्पति अनुसंधान पर ध्यान केंद्रित करने की अनुमति दी।}</ImperialStudent49.description>
+  <ImperialStudent49.description>{PAWN_gender ? [PAWN_nameDef] ने एक शाही मध्य दुनिया में पढ़ाई की जहाँ बंदूकों पर प्रतिबंध था और आत्मरक्षा के अध्ययन को प्रोत्साहित किया जाता था। सापेक्ष सुरक्षा ने उन्हें अपने वनस्पति अनुसंधान पर ध्यान केंद्रित करने की अनुमति दी। : [PAWN_nameDef] ने एक शाही मध्य दुनिया में पढ़ाई की जहाँ बंदूकों पर प्रतिबंध था और आत्मरक्षा के अध्ययन को प्रोत्साहित किया जाता था। सापेक्ष सुरक्षा ने उसे अपने वनस्पति अनुसंधान पर ध्यान केंद्रित करने की अनुमति दी।}</ImperialStudent49.description>
   <!-- EN: imperial student -->
   <ImperialStudent49.title>{PAWN_gender ? साम्राज्यिक छात्रा : साम्राज्यिक छात्र}</ImperialStudent49.title>
   <!-- EN: student -->
   <ImperialStudent49.titleShort>{PAWN_gender ? छात्रा : छात्र}</ImperialStudent49.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up on the streets of a world in the early stages of its industrial revolution. [PAWN_pronoun] passed [PAWN_possessive] days stealing, begging and tinkering with discarded machine scraps, always on the lookout for a way to escape poverty. -->
-  <IndworldUrchin73.description>{PAWN_gender ? [PAWN_nameDef] एक ऐसी दुनिया की सड़कों पर पली-बढ़ी जो अपने औद्योगिक क्रांति के शुरुआती चरणों में थी। उसने अपने दिन चोरी करते, भीख माँगते और त्याग किए गए मशीन के टुकड़ों से छेड़छाड़ करते हुए बिताए, हमेशा गरीबी से बचने का एक तरीका तलाशती रही। : [PAWN_nameDef] एक ऐसे संसार की सड़कों पर पला-बढ़ा जहाँ औद्योगिक क्रांति अपने शुरुआती चरण में थी। उसने अपने दिन चोरी करके, भीख माँगकर और त्याग दिए गए मशीन के टुकड़ों से छेड़छाड़ करके बिताए, हमेशा गरीबी से निकलने का रास्ता तलाशते हुए।}</IndworldUrchin73.description>
+  <IndworldUrchin73.description>{PAWN_gender ? [PAWN_nameDef] एक ऐसे विश्व की सड़कों पर पली-बढ़ी जो अपने औद्योगिक युग के शुरुआती चरणों में था। उसने अपने दिन चोरी करने, भीख माँगने और फेंके गए मशीन के कबाड़ के साथ छेड़छाड़ करने में बिताए, वह हमेशा गरीबी से बचने का कोई रास्ता तलाशती रहती थी। : [PAWN_nameDef] एक ऐसे विश्व की सड़कों पर पला-बढ़ा जो अपने औद्योगिक युग के शुरुआती चरणों में था। उसने अपने दिन चोरी करने, भीख माँगने और फेंके गए मशीन के कबाड़ के साथ छेड़छाड़ करने में बिताए, वह हमेशा गरीबी से बचने का कोई रास्ता तलाशता रहता था।}</IndworldUrchin73.description>
   <!-- EN: indworld urchin -->
   <IndworldUrchin73.title>गली का आवारा बालक</IndworldUrchin73.title>
   <IndworldUrchin73.titleFemale>गली की आवारा लड़की</IndworldUrchin73.titleFemale>
@@ -1164,16 +1164,16 @@
   <Infantry99.titleShort>पैदल सैनिक</Infantry99.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s wealthy parents provided everything [PAWN_pronoun] ever wanted. After discovering joywires, [PAWN_pronoun] became obsessed. Once [PAWN_possessive] parents realized what happened, they cut [PAWN_objective] off.\n\nUncaring and often violent, [PAWN_pronoun] sought [PAWN_possessive] next joywire fix by any means possible. -->
-  <JoywireAddict76.description>{PAWN_gender ? [PAWN_nameDef] के धनी माता-पिता ने उसे हमेशा जो कुछ भी चाहिए था, वह प्रदान किया। जॉयवायर की खोज करने के बाद, वह इससे ग्रस्त हो गई। जब उसके माता-पिता को यह पता चला, तो उन्होंने उससे संबंध तोड़ दिया।\n\nउसकी परवाह नहीं थी और वह अक्सर हिंसक थी, उसने किसी भी तरह से अपना अगला जॉयवायर फिक्स पाने की कोशिश की। : [PAWN_nameDef] के धनी माता-पिता ने उसे हमेशा जो कुछ भी चाहा, वह प्रदान किया। जॉयवायर की खोज करने के बाद, वह उनसे ग्रस्त हो गया। जब उसके माता-पिता को यह पता चला, तो उन्होंने उससे संबंध तोड़ लिया।\n\nअपरवाह और अक्सर हिंसक, उसने किसी भी कीमत पर अपने अगले जॉयवायर फिक्स की तलाश की।}</JoywireAddict76.description>
+  <JoywireAddict76.description>{PAWN_gender ? [PAWN_nameDef] के अमीर माता-पिता ने उसे वह सब कुछ दिया जिसकी उसने कभी चाहत की थी। आनंद तार की खोज करने के बाद, वह इनके प्रति जुनूनी हो गई। जब उसके माता-पिता को पता चला कि क्या हुआ है, तो उन्होंने उससे सारे संबंध तोड़ लिए।\n\nलापरवाह और अक्सर हिंसक, वह किसी भी तरह से अपने अगले आनंद तार के नशे की तलाश में रहती थी। : [PAWN_nameDef] के धनी माता-पिता ने उसे वह सब कुछ दिया जिसकी उसने कभी चाहत की थी। आनंद तार की खोज करने के बाद, वह इसके प्रति जुनूनी हो गया। जब उसके माता-पिता को पता चला कि क्या हुआ है, तो उन्होंने उसका साथ छोड़ दिया।\n\nलापरवाह और अक्सर हिंसक, वह किसी भी तरह से अपने अगले आनंद तार के नशे की तलाश में रहता था।}</JoywireAddict76.description>
   <!-- EN: joywire addict -->
-  <JoywireAddict76.title>आनंद-तार व्यसनग्रस्त</JoywireAddict76.title>
-  <JoywireAddict76.titleFemale>आनंद-व्यसनग्रस्त महिला</JoywireAddict76.titleFemale>
+  <JoywireAddict76.title>आनंद तार का आदी</JoywireAddict76.title>
+  <JoywireAddict76.titleFemale>आनंद तार की आदी</JoywireAddict76.titleFemale>
   <!-- EN: addict -->
   <JoywireAddict76.titleShort>लतवाला व्यक्ति</JoywireAddict76.titleShort>
   <JoywireAddict76.titleShortFemale>व्यसनी महिला</JoywireAddict76.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was abandoned as a newborn, and grew up among the animals of [PAWN_possessive] homeworld's dense jungles.\n\nWhen [PAWN_pronoun] was a teenager, a traveling doctor found [PAWN_objective] injured near a road, hissing and meowing. [PAWN_pronoun] rescued [PAWN_objective] and took [PAWN_objective] on as an apprentice. -->
-  <JungleKid35.description>{PAWN_gender ? [PAWN_nameDef] को एक नवजात शिशु के रूप में त्याग दिया गया था, और वह अपने गृह ग्रह के घने जंगलों के जानवरों के बीच पली-बढ़ी।\n\nजब वह एक किशोरी थी, तो एक यात्रा करने वाले डॉक्टर ने उसे सड़क के पास घायल पाया, वह फुफकार रही थी और म्याऊँ कर रही थी। उसने उसे बचाया और उसे एक शिक्षिका के रूप में स्वीकार कर लिया। : [PAWN_nameDef] को नवजात शिशु के रूप में त्याग दिया गया था, और वह अपने गृह ग्रह के घने जंगलों के जानवरों के बीच पला-बढ़ा।\n\nजब वह किशोर था, तो एक यात्रा करने वाला डॉक्टर उसे सड़क के पास घायल अवस्था में मिला, वह फुफकार रहा था और म्याऊँ कर रहा था। उसने उसे बचाया और उसे अपने शिष्य के रूप में ले लिया।}</JungleKid35.description>
+  <JungleKid35.description>{PAWN_gender ? [PAWN_nameDef] को नवजात अवस्था में ही छोड़ दिया गया था, और वह अपने गृहग्रह के घने जंगलों में जानवरों के बीच पली-बढ़ी।\n\nजब वह किशोर थी, तब एक भ्रमणशील डॉक्टर ने उसे सड़क के पास घायल अवस्था में पाया, जो फुफकार रही थी और म्याऊँ कर रही थी। उसने उसे बचा लिया और अपना प्रशिक्षु बना लिया। : [PAWN_nameDef] को एक नवजात के रूप में छोड़ दिया गया था, और वह अपने गृहग्रह के घने जंगलों के जानवरों के बीच पला-बढ़ा।\n\nजब वह किशोर था, तब एक भ्रमणशील डॉक्टर ने उसे सड़क के पास घायल अवस्था में पाया, जो फुफकार रहा था और म्याऊँ कर रहा था। उसने उसे बचा लिया और अपना प्रशिक्षु बना लिया।}</JungleKid35.description>
   <!-- EN: jungle kid -->
   <JungleKid35.title>जंगल का बालक</JungleKid35.title>
   <JungleKid35.titleFemale>जंगल की बच्ची</JungleKid35.titleFemale>
@@ -1182,7 +1182,7 @@
   <JungleKid35.titleShortFemale>जंगली बच्ची</JungleKid35.titleShortFemale>
   
   <!-- EN: Left for dead at a young age, [PAWN_nameDef] was rescued by an old man who ran an urbworld junkyard. The old man forced [PAWN_nameDef] to do dangerous, demanding work.\n\n[PAWN_nameDef] became very familiar with machines, but [PAWN_pronoun] grew up with almost no other experiences. -->
-  <JunkyardMechanic51.description>{PAWN_gender ? छोटी उम्र में मरने के लिए छोड़ दी गई, [PAWN_nameDef] को एक बूढ़े व्यक्ति ने बचाया जिसने एक शहरी दुनिया के कबाड़खाने का संचालन किया। बूढ़े व्यक्ति ने [PAWN_nameDef] को खतरनाक, मांगलिक काम करने के लिए मजबूर किया।\n\n[PAWN_nameDef] मशीनों से बहुत परिचित हो गई, लेकिन वह लगभग बिना किसी अन्य अनुभव के बड़ी हुई। : छोटे उम्र में मृत मानकर छोड़ दिया गया, [PAWN_nameDef] को एक बूढ़े व्यक्ति ने बचाया जिसने एक शहरी दुनिया के कबाड़खाने का संचालन किया। बूढ़े व्यक्ति ने [PAWN_nameDef] को खतरनाक, मांगलिक काम करने के लिए मजबूर किया।\n\n[PAWN_nameDef] मशीनों से बहुत परिचित हो गया, लेकिन वह लगभग बिना किसी अन्य अनुभव के बड़ा हुआ।}</JunkyardMechanic51.description>
+  <JunkyardMechanic51.description>{PAWN_gender ? कम उम्र में मरने के लिए छोड़ दी गई, [PAWN_nameDef] को एक बूढ़े व्यक्ति द्वारा बचाया गया था जो एक शहरी दुनिया के कबाड़खाने को चलाता था। उस बूढ़े व्यक्ति ने [PAWN_nameDef] को खतरनाक और कठिन काम करने के लिए मजबूर किया।\n\n[PAWN_nameDef] मशीनों के साथ बहुत परिचित हो गई, लेकिन वह लगभग बिना किसी अन्य अनुभव के बड़ी हुई। : कम उम्र में मरने के लिए छोड़ दिए गए, [PAWN_nameDef] को एक बूढ़े व्यक्ति ने बचाया जो एक शहरी दुनिया के कबाड़खाने को चलाता था। उस बूढ़े व्यक्ति ने [PAWN_nameDef] को खतरनाक और कठिन काम करने के लिए मजबूर किया।\n\n[PAWN_nameDef] मशीनों से बहुत परिचित हो गया, लेकिन वह लगभग बिना किसी अन्य अनुभव के बड़ा हुआ।}</JunkyardMechanic51.description>
   <!-- EN: junkyard mechanic -->
   <JunkyardMechanic51.title>कबाड़ यार्ड मैकेनिक</JunkyardMechanic51.title>
   <!-- EN: mechanic -->
@@ -1216,7 +1216,7 @@
   <LabGrownChild22.titleShortFemale>प्रयोगशाला-उत्पन्न</LabGrownChild22.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] lost [PAWN_possessive] parents in an industrial accident and grew up in an orphans' labor camp. The camp overseers worked their charges mercilessly - but at least [PAWN_pronoun] was clothed and fed. -->
-  <LaborCampOrphan91.description>{PAWN_gender ? [PAWN_nameDef] ने एक औद्योगिक दुर्घटना में अपने माता-पिता को खो दिया और वह अनाथ श्रम शिविर में पली-बढ़ी। शिविर के पर्यवेक्षकों ने अपने प्रभारितों के साथ बेरहमी से व्यवहार किया - लेकिन कम से कम उसे कपड़े और भोजन तो मिला ही था। : [PAWN_nameDef] ने एक औद्योगिक दुर्घटना में अपने माता-पिता को खो दिया और वह अनाथ श्रम शिविर में बड़ा हुआ। शिविर के पर्यवेक्षकों ने अपने कैदियों पर बेरहमी से काम करवाया - लेकिन कम से कम उसे कपड़े और भोजन तो मिला।}</LaborCampOrphan91.description>
+  <LaborCampOrphan91.description>{PAWN_gender ? [PAWN_nameDef] ने एक औद्योगिक युग की दुर्घटना में अपने माता-पिता को खो दिया और अनाथों के श्रम शिविर में पली-बढ़ी। शिविर के निरीक्षक अपने अधीन लोगों से बेरहमी से काम लेते थे - लेकिन कम से कम उसे कपड़े और भोजन तो मिलता था। : [PAWN_nameDef] ने एक औद्योगिक युग की दुर्घटना में अपने माता-पिता को खो दिया और अनाथों के श्रम शिविर में पला-बढ़ा। शिविर के निरीक्षक अपने अधीन लोगों से निर्दयतापूर्वक काम लेते थे - लेकिन कम से कम उसे कपड़े और भोजन तो मिलता था।}</LaborCampOrphan91.description>
   <!-- EN: labor camp orphan -->
   <LaborCampOrphan91.title>श्रम शिविर अनाथ</LaborCampOrphan91.title>
   <LaborCampOrphan91.titleFemale>श्रम शिविर अनाथ</LaborCampOrphan91.titleFemale>
@@ -1250,16 +1250,16 @@
   <MarineCadet73.titleShort>कैडेट</MarineCadet73.titleShort>
   
   <!-- EN: The only son of a well respected mechanoid inventor, [PAWN_nameDef] had access to the materials to subvert and modify [PAWN_possessive] father's creations.\n\n[PAWN_pronoun] used drugs to increase [PAWN_possessive] productivity. Unfortunately, the side-effects included persistent delusions of being mechanized, which limited [PAWN_possessive] social life. -->
-  <MechanoidHacker93.description>{PAWN_gender ? महान यांत्रिक आविष्कारक की एकमात्र पुत्री, [PAWN_nameDef] को अपने पिता की रचनाओं को तोड़-मरोड़ कर बदलने के लिए आवश्यक सामग्री तक पहुँच प्राप्त थी।\n\nउसने अपनी उत्पादकता बढ़ाने के लिए नशीली दवाओं का इस्तेमाल किया। दुर्भाग्य से, इसके दुष्प्रभावों में यांत्रिक होने की लगातार भ्रांति शामिल थी, जिसने उसके सामाजिक जीवन को सीमित कर दिया। : महान यांत्रिक आविष्कारक का एकमात्र पुत्र, [PAWN_nameDef] को अपने पिता की रचनाओं को तोड़-मरोड़ कर बदलने के लिए सामग्री उपलब्ध थी।\n\nउसने अपनी उत्पादकता बढ़ाने के लिए नशीली दवाओं का इस्तेमाल किया। दुर्भाग्य से, दुष्प्रभावों में यांत्रिक होने की लगातार भ्रम शामिल थे, जिसने उसके सामाजिक जीवन को सीमित कर दिया।}</MechanoidHacker93.description>
+  <MechanoidHacker93.description>{PAWN_gender ? एक अत्यंत सम्मानित मेकैनॉइड आविष्कारक की इकलौती बेटी होने के नाते, [PAWN_nameDef] के पास अपने पिता की रचनाओं को बदलने और उनमें संशोधन करने के लिए आवश्यक सामग्रियों तक पहुँच थी।\n\nउसने अपनी उत्पादकता बढ़ाने के लिए नशीली दवाओं का उपयोग किया। दुर्भाग्यवश, इसके दुष्प्रभावों में मशीनीकृत होने का निरंतर भ्रम शामिल था, जिसने उसके सामाजिक जीवन को सीमित कर दिया। : एक अत्यंत सम्मानित मेकैनॉइड आविष्कारक के इकलौते पुत्र होने के नाते, [PAWN_nameDef] के पास अपने पिता की रचनाओं को बदलने और उनमें संशोधन करने के लिए आवश्यक सामग्रियों तक पहुँच थी।\n\nउसने अपनी उत्पादकता बढ़ाने के लिए नशीली दवाओं का उपयोग किया। दुर्भाग्य से, इसके दुष्प्रभावों में मशीनीकृत होने का निरंतर भ्रम शामिल था, जिसने उसके सामाजिक जीवन को सीमित कर दिया।}</MechanoidHacker93.description>
   <!-- EN: mechanoid hacker -->
-  <MechanoidHacker93.title>मैकेनॉयड हैकर</MechanoidHacker93.title>
+  <MechanoidHacker93.title>मेकैनॉइड हैकर</MechanoidHacker93.title>
   <!-- EN: mechacker -->
   <MechanoidHacker93.titleShort>{PAWN_gender ? मैकेनिकल विशेषज्ञ : मैकेनिक}</MechanoidHacker93.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up in an urbworld as the only child of a pair of mechanoid designers.\nThey encouraged [PAWN_possessive] interest in the machines. Eventually, [PAWN_pronoun] became obsessed with building [PAWN_possessive] own.\n\nUnfortunately this also lead to [PAWN_objective] being a loner as [PAWN_pronoun] preferred technical books to friends. -->
-  <MechanoidNerd10.description>{PAWN_gender ? [PAWN_nameDef] एक शहरी दुनिया में यांत्रिक जीव डिजाइनरों के एक जोड़े की एकमात्र संतान के रूप में पली-बढ़ी।\nउन्होंने मशीनों में उसकी रुचि को प्रोत्साहित किया। अंततः, वह अपनी खुद की मशीनें बनाने के प्रति जुनूनी हो गई।\n\nदुर्भाग्य से इससे वह एकाकी भी हो गई क्योंकि उसने दोस्तों की तुलना में तकनीकी पुस्तकों को अधिक पसंद किया। : [PAWN_nameDef] एक शहरी दुनिया में यांत्रिक जीव डिजाइनरों के एक जोड़े के एकमात्र बच्चे के रूप में बड़े हुए।\nउन्होंने मशीनों में उसकी रुचि को प्रोत्साहित किया। अंततः, वह अपनी खुद की मशीनें बनाने के प्रति जुनूनी हो गया।\n\nदुर्भाग्य से इससे वह अकेला पड़ गया क्योंकि उसने दोस्तों की तुलना में तकनीकी पुस्तकों को अधिक पसंद किया।}</MechanoidNerd10.description>
+  <MechanoidNerd10.description>{PAWN_gender ? [PAWN_nameDef] एक शहरी दुनिया में दो मेकैनॉइड डिजाइनरों की इकलौती संतान के रूप में पली-बढ़ी।\nउन्होंने मशीनों में उसकी रुचि को प्रोत्साहित किया। अंततः, वह अपने स्वयं के मशीन बनाने के प्रति जुनूनी हो गई।\n\nदुर्भाग्य से, इसने उसे एक अकेला व्यक्ति भी बना दिया क्योंकि वह दोस्तों के बजाय तकनीकी किताबों को अधिक पसंद करती थी। : [PAWN_nameDef] एक शहरी दुनिया में दो मेकैनॉइड डिजाइनरों की इकलौती संतान के रूप में पला-बढ़ा।\nउन्होंने मशीनों में उसकी रुचि को प्रोत्साहित किया। अंततः, वह अपने स्वयं के मशीन बनाने के प्रति जुनूनी हो गया।\n\nदुर्भाग्य से, इसने उसे एक अकेला व्यक्ति भी बना दिया क्योंकि वह दोस्तों के बजाय तकनीकी किताबों को पसंद करता था।}</MechanoidNerd10.description>
   <!-- EN: mechanoid nerd -->
-  <MechanoidNerd10.title>मैकेनॉयड विशेषज्ञ</MechanoidNerd10.title>
+  <MechanoidNerd10.title>मेकैनॉइड नर्ड</MechanoidNerd10.title>
   <!-- EN: mechanerd -->
   <MechanoidNerd10.titleShort>{PAWN_gender ? मैकेनिकल विशेषज्ञ महिला : मैकेनिकल विशेषज्ञ}</MechanoidNerd10.titleShort>
   
@@ -1271,14 +1271,14 @@
   <MedicalHelper27.titleShort>चिकित्सा सहायक</MedicalHelper27.titleShort>
   
   <!-- EN: Born into a long line of doctors, [PAWN_nameDef] was tutored in all fields of medicine, from herbal ointments to the modern synthetic drugs. [PAWN_pronoun] also picked up a healthy disdain for lower class work. -->
-  <MedicalStudent38.description>{PAWN_gender ? डॉक्टरों की एक लंबी कतार में जन्मी, [PAWN_nameDef] को हर्बल मलहम से लेकर आधुनिक सिंथेटिक दवाओं तक, चिकित्सा के सभी क्षेत्रों में प्रशिक्षित किया गया। उसने निम्न वर्ग के कार्यों के प्रति एक स्वस्थ तिरस्कार भी प्राप्त किया। : एक लंबे समय से डॉक्टरों के परिवार में जन्मे, [PAWN_nameDef] को चिकित्सा के सभी क्षेत्रों में प्रशिक्षित किया गया, हर्बल मलहम से लेकर आधुनिक सिंथेटिक दवाओं तक। उन्होंने निम्न वर्ग के कार्यों के प्रति एक स्वस्थ तिरस्कार भी प्राप्त किया।}</MedicalStudent38.description>
+  <MedicalStudent38.description>{PAWN_gender ? डॉक्टरों की एक लंबी वंशावली में जन्मी, [PAWN_nameDef] को जड़ी-बूटियों के लेप से लेकर आधुनिक सिंथेटिक दवाओं तक, दवा के सभी क्षेत्रों में प्रशिक्षित किया गया था। उसने निम्न वर्ग के काम के प्रति एक स्वस्थ तिरस्कार भी अपना लिया था। : डॉक्टरों की एक लंबी वंशानुगत परंपरा में जन्मे, [PAWN_nameDef] को जड़ी-बूटियों के लेप से लेकर आधुनिक सिंथेटिक दवाओं तक, दवा के सभी क्षेत्रों में प्रशिक्षित किया गया था। उसने निम्न वर्ग के काम के प्रति एक स्वस्थ तिरस्कार भी विकसित कर लिया था।}</MedicalStudent38.description>
   <!-- EN: medical student -->
   <MedicalStudent38.title>{PAWN_gender ? चिकित्सा छात्रा : चिकित्सा छात्र}</MedicalStudent38.title>
   <!-- EN: student -->
   <MedicalStudent38.titleShort>{PAWN_gender ? छात्रा : छात्र}</MedicalStudent38.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up on a glitterworld in a family of doctors and chose to maintain the tradition.\n\n[PAWN_pronoun] had few friends, but got along with [PAWN_possessive] siblings very well. -->
-  <MedicalStudent96.description>{PAWN_gender ? [PAWN_nameDef] एक चमकते हुए ग्रह पर डॉक्टरों के परिवार में पली-बढ़ी और उसने परंपरा को बनाए रखने का फैसला किया।\n\nउसके बहुत कम दोस्त थे, लेकिन वह अपने भाई-बहनों के साथ बहुत अच्छी तरह से मिलती थी। : [PAWN_nameDef] एक चमकते हुए ग्रह पर डॉक्टरों के परिवार में बड़ा हुआ और परंपरा को बनाए रखने का फैसला किया।\n\nउसके बहुत कम दोस्त थे, लेकिन वह अपने भाई-बहनों के साथ बहुत अच्छे से मिलता था।}</MedicalStudent96.description>
+  <MedicalStudent96.description>{PAWN_gender ? [PAWN_nameDef] एक चमकदार दुनिया में डॉक्टरों के परिवार में पली-बढ़ी और उसने इस परंपरा को बनाए रखने का फैसला किया।\n\nउसके कुछ ही दोस्त थे, लेकिन वह अपने भाई-बहनों के साथ बहुत अच्छी तरह से रहती थी। : [PAWN_nameDef] एक चमकदार दुनिया में डॉक्टरों के परिवार में पला-बढ़ा और उसने इस परंपरा को बनाए रखने का फैसला किया।\n\nउसके कुछ ही मित्र थे, लेकिन वह अपने भाई-बहनों के साथ बहुत अच्छे से रहता था।}</MedicalStudent96.description>
   <!-- EN: medical student -->
   <MedicalStudent96.title>{PAWN_gender ? चिकित्सा छात्रा : चिकित्सा छात्र}</MedicalStudent96.title>
   <!-- EN: student -->
@@ -1287,15 +1287,15 @@
   <!-- EN: Born to a nomadic family in a feudal society, [PAWN_nameDef] was instructed in the arts of speechcraft, sleight of hand, horse riding.\n\n        [PAWN_pronoun] was always running around the camp doing odd jobs to help [PAWN_possessive] extended family. -->
   <MedievalNomad12.description>{PAWN_gender ? जन्म एक खानाबदोश परिवार में एक सामंती समाज में हुई, [PAWN_nameDef] को वाक् कला, हाथ की सफाई और घुड़सवारी का प्रशिक्षण दिया गया।\n\n        वह हमेशा अपने विस्तारित परिवार की मदद करने के लिए शिविर में इधर-उधर दौड़ती रहती थी। : एक सामंती समाज में खानाबदोश परिवार में जन्मे, [PAWN_nameDef] को वाक् कला, हाथ की सफाई और घुड़सवारी का प्रशिक्षण दिया गया था।\n\n        वह हमेशा अपने विस्तारित परिवार की मदद करने के लिए शिविर में इधर-उधर दौड़ता रहता था।}</MedievalNomad12.description>
   <!-- EN: medieval nomad -->
-  <MedievalNomad12.title>{PAWN_gender ? मध्ययुगीन खानाबदोश महिला : मध्यकालीन घुमंतू}</MedievalNomad12.title>
+  <MedievalNomad12.title>मध्ययुग का खानाबदोश</MedievalNomad12.title>
   <!-- EN: nomad -->
   <MedievalNomad12.titleShort>{PAWN_gender ? घुमक्कड़ महिला : घुमक्कड़ व्यक्ति}</MedievalNomad12.titleShort>
   
   <!-- EN: [PAWN_nameDef] lived on a planet where kings and queens ruled with little regard for the peasants beneath them. [PAWN_possessive] family owned a large farm, but the king took most of the food it produced. This left [PAWN_nameDef]'s family poor, and unable to pay for [PAWN_possessive] education. Instead, [PAWN_pronoun] was required to work the fields with [PAWN_possessive] parents, and never had time to practice creativity. -->
   <MedievalPlower14.description>{PAWN_gender ? [PAWN_nameDef] एक ऐसे ग्रह पर रहती थीं जहाँ राजा और रानियाँ अपने नीचे के किसानों की परवाह किए बिना शासन करते थे। उसके परिवार के पास एक बड़ा खेत था, लेकिन राजा उसकी उपज का अधिकांश भाग ले जाता था। इससे [PAWN_nameDef] का परिवार गरीब हो गया, और वह अपनी शिक्षा का खर्च नहीं उठा सकी। इसके बजाय, उसे अपने माता-पिता के साथ खेतों में काम करने के लिए मजबूर किया गया, और उसके पास रचनात्मकता का अभ्यास करने का समय कभी नहीं था। : [PAWN_nameDef] एक ऐसे ग्रह पर रहता था जहाँ राजा और रानियाँ अपने नीचे के किसानों की परवाह किए बिना शासन करते थे। उसके परिवार के पास एक बड़ा खेत था, लेकिन राजा उसकी उपज का अधिकांश भाग ले लेता था। इससे [PAWN_nameDef] का परिवार गरीब हो गया, और वह अपनी शिक्षा का खर्च नहीं उठा सका। इसके बजाय, उसे अपने माता-पिता के साथ खेतों में काम करने के लिए मजबूर किया गया, और उसके पास रचनात्मकता का अभ्यास करने का समय कभी नहीं था।}</MedievalPlower14.description>
   <!-- EN: medieval plower -->
-  <MedievalPlower14.title>मध्यकालीन हलवाहा</MedievalPlower14.title>
-  <MedievalPlower14.titleFemale>मध्यकालीन हलवाहा</MedievalPlower14.titleFemale>
+  <MedievalPlower14.title>मध्ययुग का हल चलाने वाला</MedievalPlower14.title>
+  <MedievalPlower14.titleFemale>मध्ययुग की हल चलाने वाली</MedievalPlower14.titleFemale>
   <!-- EN: plower -->
   <MedievalPlower14.titleShort>हलवाहा</MedievalPlower14.titleShort>
   <MedievalPlower14.titleShortFemale>किसान महिला</MedievalPlower14.titleShortFemale>
@@ -1303,26 +1303,26 @@
   <!-- EN: Born into slavery, [PAWN_nameDef] never knew [PAWN_possessive] parents. [PAWN_pronoun] eventually escaped from [PAWN_possessive] masters and boarded a military cargo ship, where [PAWN_pronoun] was pressed into military service. -->
   <MedievalSlave50.description>{PAWN_gender ? गुलामी में जन्मी, [PAWN_nameDef] को कभी अपने माता-पिता का ज्ञान नहीं हुआ। अंततः वह अपने मालिकों से भाग गई और एक सैन्य मालवाहक जहाज पर सवार हो गई, जहाँ उसे सैन्य सेवा में मजबूर किया गया। : गुलाम के रूप में पैदा हुए, [PAWN_nameDef] को कभी अपने माता-पिता का पता नहीं चला। अंततः वह अपने मालिकों से भाग गया और एक सैन्य मालवाहक जहाज पर सवार हो गया, जहाँ उसे सैन्य सेवा में शामिल होने के लिए मजबूर किया गया।}</MedievalSlave50.description>
   <!-- EN: medieval slave -->
-  <MedievalSlave50.title>मध्यकालीन दास</MedievalSlave50.title>
-  <MedievalSlave50.titleFemale>मध्यकालीन दासी</MedievalSlave50.titleFemale>
+  <MedievalSlave50.title>मध्ययुग का गुलाम</MedievalSlave50.title>
+  <MedievalSlave50.titleFemale>मध्ययुगीन दासी</MedievalSlave50.titleFemale>
   <!-- EN: slave -->
   <MedievalSlave50.titleShort>गुलाम</MedievalSlave50.titleShort>
   <MedievalSlave50.titleShortFemale>गुलामी दासी</MedievalSlave50.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up on a medieval planet as a knight in training. [PAWN_pronoun] trained directly under the king's war adviser for most of [PAWN_possessive] youth, and learned to fight with a sword and shield. -->
-  <MedievalSquire5.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुगीन ग्रह पर एक योद्धा के रूप में पली-बढ़ी। उसने अपने अधिकांश युवावस्था में सीधे राजा के युद्ध सलाहकार के अधीन प्रशिक्षण लिया, और तलवार और ढाल से लड़ना सीखा। : [PAWN_nameDef] एक मध्ययुगीन ग्रह पर एक शूरवीर के रूप में बड़ा हुआ। उसने अपने अधिकांश युवावस्था में सीधे राजा के युद्ध सलाहकार के अधीन प्रशिक्षण लिया, और तलवार और ढाल से लड़ना सीखा।}</MedievalSquire5.description>
+  <MedievalSquire5.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुग के ग्रह पर प्रशिक्षण ले रही एक योद्धा के रूप में पली-बढ़ी। उसने अपने युवावस्था के अधिकांश समय राजा के युद्ध सलाहकार के सीधे मार्गदर्शन में प्रशिक्षण लिया, और तलवार एवं ढाल से लड़ना सीखा। : [PAWN_nameDef] एक मध्ययुग के ग्रह पर प्रशिक्षण ले रहे एक शूरवीर के रूप में पला-बढ़ा। उसने अपने युवावस्था के अधिकांश समय राजा के युद्ध सलाहकार के सीधे मार्गदर्शन में प्रशिक्षण लिया, और तलवार एवं ढाल से लड़ना सीखा।}</MedievalSquire5.description>
   <!-- EN: medieval squire -->
-  <MedievalSquire5.title>मध्यकालीन सेवक</MedievalSquire5.title>
-  <MedievalSquire5.titleFemale>मध्यकालीन महिला प्रशिक्षु</MedievalSquire5.titleFemale>
+  <MedievalSquire5.title>मध्ययुग का प्रशिक्षु शूरवीर</MedievalSquire5.title>
+  <MedievalSquire5.titleFemale>मध्ययुग की प्रशिक्षु दासी</MedievalSquire5.titleFemale>
   <!-- EN: squire -->
   <MedievalSquire5.titleShort>अनुचर प्रशिक्षु</MedievalSquire5.titleShort>
   <MedievalSquire5.titleShortFemale>श्रीमती प्रशिक्षु</MedievalSquire5.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up poor and hungry on a medieval planet, learning to fend for [PAWN_objective]self.\n\nAt first, [PAWN_pronoun] only took what [PAWN_pronoun] needed. Then [PAWN_pronoun] learned to take what [PAWN_pronoun] wanted. -->
-  <MedievalThief74.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुगीन ग्रह पर गरीबी और भूख में पली-बढ़ी, और उसने खुद की रक्षा करना सीखा।\n\nशुरू में, उसने केवल वही लिया जिसकी उसे ज़रूरत थी। फिर उसने वह लेना सीखा जो वह चाहती थी। : [PAWN_nameDef] एक मध्ययुगीन ग्रह पर गरीबी और भूख में पला-बढ़ा, जिसने उसे आत्मनिर्भर बनना सिखाया।\n\nशुरुआत में, उसने केवल वही लिया जिसकी उसे ज़रूरत थी। फिर उसने वह लेना सीख लिया जो वह चाहता था।}</MedievalThief74.description>
+  <MedievalThief74.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुग के ग्रह पर गरीबी और भूख में पली-बढ़ी, जहाँ उसने अपना गुजारा करना सीखा।\n\nशुरुआत में, वह केवल उतना ही लेती थी जितनी उसे ज़रूरत होती थी। फिर उसने वह लेना सीख लिया जो वह चाहती थी। : [PAWN_nameDef] एक मध्ययुग के ग्रह पर गरीबी और भूख में पला-बढ़ा, जहाँ उसने अपना गुजारा करना सीखा।\n\nशुरुआत में, वह केवल उतना ही लेता था जितनी उसे जरूरत थी। फिर उसने वह लेना सीख लिया जो वह चाहता था।}</MedievalThief74.description>
   <!-- EN: medieval thief -->
-  <MedievalThief74.title>मध्यकालीन चोर</MedievalThief74.title>
-  <MedievalThief74.titleFemale>मध्यकालीन चोर</MedievalThief74.titleFemale>
+  <MedievalThief74.title>मध्ययुग का चोर</MedievalThief74.title>
+  <MedievalThief74.titleFemale>मध्ययुगीन चोर</MedievalThief74.titleFemale>
   <!-- EN: thief -->
   <MedievalThief74.titleShort>चोर</MedievalThief74.titleShort>
   <MedievalThief74.titleShortFemale>चोर (स्त्री)</MedievalThief74.titleShortFemale>
@@ -1345,24 +1345,24 @@
   <MercenaryRecruit36.titleShortFemale>भाड़े की सैनिक महिला</MercenaryRecruit36.titleShortFemale>
   
   <!-- EN: Growing up on a high-tech midworld with a flourishing space transit industry, [PAWN_nameDef] wished to leave for the stars and live among the growing spacer class.\n\n[PAWN_pronoun] excelled in [PAWN_possessive] studies, and gained entry to [PAWN_possessive] homeworld's most prestigious naval academy. -->
-  <MidworldCadet83.description>{PAWN_gender ? एक उच्च-तकनीकी मध्य-विश्व पर पली-बढ़ी [PAWN_nameDef] ने सितारों के लिए रवाना होने और बढ़ते अंतरिक्ष यात्री वर्ग के बीच रहने की इच्छा की।\n\nउसने अपनी पढ़ाई में उत्कृष्ट प्रदर्शन किया, और अपने गृह-विश्व की सबसे प्रतिष्ठित नौसेना अकादमी में प्रवेश प्राप्त किया। : एक उच्च-तकनीकी मध्य-विश्व पर जहाँ अंतरिक्ष पारगमन उद्योग फलता-फूलता था, [PAWN_nameDef] सितारों के लिए रवाना होने और बढ़ते अंतरिक्ष यात्री वर्ग के बीच रहने की इच्छा रखता था।\n\nउसने अपनी पढ़ाई में उत्कृष्ट प्रदर्शन किया, और अपने गृह-विश्व की सबसे प्रतिष्ठित नौसेना अकादमी में प्रवेश प्राप्त किया।}</MidworldCadet83.description>
+  <MidworldCadet83.description>{PAWN_gender ? एक उन्नत तकनीक वाली मध्य दुनिया पर पली-बढ़ी, जहाँ अंतरिक्ष पारगमन उद्योग फल-फूल रहा था, [PAWN_nameDef] सितारों की ओर निकल जाने और बढ़ते हुए अंतरिक्ष युग वर्ग के बीच रहने की इच्छा रखती थी।\n\nउसने अपनी पढ़ाई में उत्कृष्टता प्राप्त की, और अपने गृह ग्रह की सबसे प्रतिष्ठित नौसेना अकादमी में प्रवेश प्राप्त किया। : एक उन्नत तकनीक वाली मध्य दुनिया पर बड़े होते हुए, जहाँ अंतरिक्ष पारगमन उद्योग फल-फूल रहा था, [PAWN_nameDef] सितारों की ओर निकल जाने और बढ़ते हुए अंतरिक्ष युग वर्ग के बीच रहने की इच्छा रखता था।\n\nउसने अपनी पढ़ाई में उत्कृष्टता प्राप्त की, और अपने गृह ग्रह की सबसे प्रतिष्ठित नौसेना अकादमी में प्रवेश प्राप्त किया।}</MidworldCadet83.description>
   <!-- EN: midworld cadet -->
-  <MidworldCadet83.title>मध्यविश्व कैडेट</MidworldCadet83.title>
+  <MidworldCadet83.title>मध्य दुनिया कैडेट</MidworldCadet83.title>
   <!-- EN: cadet -->
   <MidworldCadet83.titleShort>{PAWN_gender ? कैडेट शिक्षार्थी : कैडेट प्रशिक्षु}</MidworldCadet83.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up in a quiet suburban neighborhood. [PAWN_pronoun] was never a master of social interaction, but [PAWN_possessive] interest in computers blossomed into a true talent at an early age. -->
   <MidworldGeek18.description>{PAWN_gender ? [PAWN_nameDef] एक शांत उपनगरीय इलाके में पली-बढ़ी। वह कभी भी सामाजिक बातचीत में कुशल नहीं थी, लेकिन कंप्यूटर में उसकी रुचि कम उम्र में ही एक वास्तविक प्रतिभा में खिल गई। : [PAWN_nameDef] एक शांत उपनगरीय इलाके में पला-बढ़ा। वह कभी भी सामाजिक बातचीत में कुशल नहीं रहा, लेकिन कंप्यूटर में उसकी रुचि कम उम्र में ही एक वास्तविक प्रतिभा में खिल उठी।}</MidworldGeek18.description>
   <!-- EN: midworld geek -->
-  <MidworldGeek18.title>{PAWN_gender ? मध्य-विश्व विशेषज्ञ महिला : मध्य-विश्व विशेषज्ञ}</MidworldGeek18.title>
+  <MidworldGeek18.title>मध्य दुनिया का कीक</MidworldGeek18.title>
   <!-- EN: geek -->
   <MidworldGeek18.titleShort>{PAWN_gender ? तकनीकी उत्साही महिला : तकनीकी उत्साही व्यक्ति}</MidworldGeek18.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born on a peaceful, unimportant midworld.\n\nWhile [PAWN_pronoun] had a few friends, [PAWN_pronoun] preferred to spend [PAWN_possessive] time in solitude, tinkering on [PAWN_possessive] autocycle while listening to netcasts, or plinking at plastic soldiers with a new rifle [PAWN_pronoun] had just put together. -->
-  <MidworldLoner80.description>{PAWN_gender ? [PAWN_nameDef] एक शांत, महत्वहीन मध्य-विश्व पर जन्मी थीं।\n\nहालांकि उसके कुछ दोस्त थे, लेकिन उसे अकेले में समय बिताना पसंद था, अपनी ऑटोसाइकिल पर काम करते हुए नेटकास्ट सुनना, या उसने अभी-अभी जो नई राइफल जोड़ी थी, उससे प्लास्टिक के सैनिकों पर निशाना साधना पसंद था। : [PAWN_nameDef] एक शांतिपूर्ण, महत्वहीन मध्य-विश्व पर पैदा हुआ था।\n\nहालांकि उसके कुछ दोस्त थे, लेकिन वह अपना समय अकेले बिताने, अपनी ऑटोसाइकिल पर काम करने, नेटकास्ट सुनने या अपनी नई असेंबल की हुई राइफल से प्लास्टिक के सैनिकों पर निशाना साधने को पसंद करता था।}</MidworldLoner80.description>
+  <MidworldLoner80.description>{PAWN_gender ? [PAWN_nameDef] का जन्म एक शांतिपूर्ण, महत्वहीन मध्य दुनिया में हुआ था।\n\nहालाँकि उसके कुछ मित्र थे, लेकिन वह अपना समय अकेले बिताना पसंद करती थी, नेटकास्ट सुनते हुए अपने ऑटोसाइकिल को ठीक करने में, या अपनी नई असेंबल की हुई राइफल से प्लास्टिक के सैनिकों पर निशाना साधने में। : [PAWN_nameDef] का जन्म एक शांतिपूर्ण, महत्वहीन मध्य दुनिया में हुआ था।\n\nहालाँकि उसके कुछ दोस्त थे, लेकिन वह अपना समय अकेले बिताना पसंद करता था, नेटकास्ट सुनते हुए अपने ऑटोसाइकिल को ठीक करने में, या अपनी नई असेंबल की हुई राइफल से प्लास्टिक के सैनिकों पर निशाना साधने में बिताता था।}</MidworldLoner80.description>
   <!-- EN: midworld loner -->
-  <MidworldLoner80.title>मध्य-विश्व एकाकी</MidworldLoner80.title>
-  <MidworldLoner80.titleFemale>मध्य-विश्व एकाकी महिला</MidworldLoner80.titleFemale>
+  <MidworldLoner80.title>मध्य दुनिया का अकेला रहने वाला</MidworldLoner80.title>
+  <MidworldLoner80.titleFemale>मध्य दुनिया की अकेली रहने वाली</MidworldLoner80.titleFemale>
   <!-- EN: loner -->
   <MidworldLoner80.titleShort>अकेला व्यक्ति</MidworldLoner80.titleShort>
   <MidworldLoner80.titleShortFemale>अकेली महिला</MidworldLoner80.titleShortFemale>
@@ -1370,8 +1370,8 @@
   <!-- EN: [PAWN_nameDef] was born into a loving but poor family.\n\n[PAWN_pronoun] discovered [PAWN_pronoun] had an artistic talent which [PAWN_pronoun] inherited from [PAWN_possessive] father. [PAWN_possessive] mother taught [PAWN_objective] the benefits of hard work and determination. As [PAWN_pronoun] grew older, [PAWN_nameDef] developed a fascination with technology and military history. -->
   <MidworldSketcher71.description>{PAWN_gender ? [PAWN_nameDef] एक प्यार करने वाले लेकिन गरीब परिवार में पैदा हुई थी।\n\nउसे पता चला कि उसके पास एक कलात्मक प्रतिभा है जो उसने अपने पिता से विरासत में पाई थी। उसकी माँ ने उसे कड़ी मेहनत और दृढ़ संकल्प के लाभों के बारे में सिखाया। जैसे-जैसे वह बड़ी हुई, [PAWN_nameDef] को प्रौद्योगिकी और सैन्य इतिहास से लगाव हो गया। : [PAWN_nameDef] एक प्यार करने वाले लेकिन गरीब परिवार में पैदा हुआ था।\n\nउसे अपनी कलात्मक प्रतिभा का पता चला जो उसने अपने पिता से विरासत में पाई थी। उसकी माँ ने उसे कड़ी मेहनत और दृढ़ संकल्प के लाभों के बारे में सिखाया। जैसे-जैसे वह बड़ा हुआ, [PAWN_nameDef] को प्रौद्योगिकी और सैन्य इतिहास से लगाव हो गया।}</MidworldSketcher71.description>
   <!-- EN: midworld sketcher -->
-  <MidworldSketcher71.title>मध्य-विश्व स्केचर</MidworldSketcher71.title>
-  <MidworldSketcher71.titleFemale>मध्य-विश्व स्केचर</MidworldSketcher71.titleFemale>
+  <MidworldSketcher71.title>मध्य दुनिया स्केचर</MidworldSketcher71.title>
+  <MidworldSketcher71.titleFemale>मध्य दुनिया स्केचर</MidworldSketcher71.titleFemale>
   <!-- EN: sketcher -->
   <MidworldSketcher71.titleShort>स्केचर, चित्रकार</MidworldSketcher71.titleShort>
   <MidworldSketcher71.titleShortFemale>चित्रकार महिला</MidworldSketcher71.titleShortFemale>
@@ -1402,7 +1402,7 @@
   <MilitaryChild82.titleShort>सैन्य</MilitaryChild82.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born on a midworld run by an intensely militaristic dictatorship.\n\nFrom a young age, [PAWN_pronoun] was trained to be a good soldier. They taught [PAWN_objective] how to use a gun and how to fight with melee weapons. -->
-  <MilitaryRecruit49.description>{PAWN_gender ? [PAWN_nameDef] का जन्म एक मध्य-विश्व पर हुआ जो एक गहन रूप से सैन्यवादी तानाशाही द्वारा शासित था।\n\nछोटी उम्र से ही, उसे एक अच्छी सैनिक बनने के लिए प्रशिक्षित किया गया था। उन्होंने उसे बंदूक चलाना और हाथापाई के हथियारों से लड़ना सिखाया। : [PAWN_nameDef] एक मध्य-विश्व में पैदा हुआ था जिस पर एक गहन रूप से सैन्यवादी तानाशाही का शासन था।\n\nछोटी उम्र से ही, उसे एक अच्छा सैनिक बनने के लिए प्रशिक्षित किया गया था। उन्होंने उसे बंदूक चलाना और हाथापाई के हथियारों से लड़ना सिखाया।}</MilitaryRecruit49.description>
+  <MilitaryRecruit49.description>{PAWN_gender ? [PAWN_nameDef] का जन्म एक अत्यंत सैन्यवादी तानाशाही द्वारा संचालित मध्य दुनिया में हुआ था।\n\nबचपन से ही, उसे एक अच्छी सैनिक बनने के लिए प्रशिक्षित किया गया था। उन्होंने उसे सिखाया कि बंदूक का उपयोग कैसे किया जाए और नज़दीकी युद्ध हथियारों से कैसे लड़ा जाए। : [PAWN_nameDef] का जन्म एक अत्यंत सैन्यवादी तानाशाही द्वारा संचालित मध्य दुनिया में हुआ था।\n\nबचपन से ही, उसे एक अच्छा सैनिक बनने के लिए प्रशिक्षित किया गया था। उन्होंने उसे सिखाया कि बंदूक का उपयोग कैसे किया जाए और नज़दीकी युद्ध हथियारों से कैसे लड़ा जाए।}</MilitaryRecruit49.description>
   <!-- EN: military recruit -->
   <MilitaryRecruit49.title>सैन्य भर्ती</MilitaryRecruit49.title>
   <MilitaryRecruit49.titleFemale>सैन्य भर्ती महिला</MilitaryRecruit49.titleFemale>
@@ -1461,14 +1461,14 @@
   <NavyPathfinder53.titleShortFemale>मार्गदर्शक (मार्गदर्शिका)</NavyPathfinder53.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was curious about everything. While other kids played tag in the suburbs of their industrial city, [PAWN_nameDef] read every book [PAWN_pronoun] could find about technology, robots, and weapons - whatever looked coolest.\n\n[PAWN_possessive] strong French accent kept [PAWN_objective] from making real friends. -->
-  <Nerd92.description>{PAWN_gender ? [PAWN_nameDef] हर चीज़ के बारे में उत्सुक थी। जबकि अन्य बच्चे उनके औद्योगिक शहर के उपनगरों में टैग खेलते थे, [PAWN_nameDef] ने तकनीक, रोबोट और हथियारों के बारे में हर किताब पढ़ी जो उसे मिल सकती थी - जो भी सबसे अच्छा दिखता था।\n\nउनकी प्रबल फ्रांसीसी उच्चारण ने उन्हें सच्चे दोस्त बनाने से रोक दिया। : [PAWN_nameDef] हर चीज़ के बारे में उत्सुक था। जबकि अन्य बच्चे उनके औद्योगिक शहर के उपनगरों में टैग खेलते थे, [PAWN_nameDef] ने तकनीक, रोबोट और हथियारों के बारे में जो भी सबसे अच्छा लगा, उसकी हर किताब पढ़ी।\n\nउनकी प्रबल फ्रांसीसी उच्चारण ने उन्हें सच्चे दोस्त बनाने से रोक दिया।}</Nerd92.description>
+  <Nerd92.description>{PAWN_gender ? [PAWN_nameDef] हर चीज़ के बारे में जिज्ञासु थी। जब अन्य बच्चे अपने औद्योगिक युग के शहर के उपनगरों में पकड़म-पकड़ाई खेलते थे, तब [PAWN_nameDef] तकनीक, रोबोट और हथियारों के बारे में मिलने वाली हर किताब पढ़ती थी - जो कुछ भी सबसे शानदार दिखता था।\n\nउसके कड़े फ्रांसीसी लहजे ने उसे असली दोस्त बनाने से रोक दिया। : [PAWN_nameDef] हर चीज़ के बारे में जिज्ञासु था। जब अन्य बच्चे अपने औद्योगिक युग के शहर के उपनगरों में पकड़म-पकड़ाई खेलते थे, तब [PAWN_nameDef] तकनीक, रोबोट और हथियारों के बारे में मिलने वाली हर किताब पढ़ता था - जो भी उसे सबसे शानदार लगता था।\n\nउसके कड़े फ्रांसीसी लहजे ने उसे असली दोस्त बनाने से रोक दिया।}</Nerd92.description>
   <!-- EN: nerd -->
   <Nerd92.title>उतावला बुद्धिमान व्यक्ति</Nerd92.title>
   <!-- EN: nerd -->
   <Nerd92.titleShort>उत्साही</Nerd92.titleShort>
   
   <!-- EN: [PAWN_nameDef] was fascinated with combat. [PAWN_possessive] parents traveled often, so [PAWN_pronoun] was able to sample many different fighting styles, from 76th-wave jujutsu to the infamous 'urbworld-style' karate.\n\nA polite child, most fighters accepted [PAWN_possessive] requests for training - but moving around often without finishing a tutelage made [PAWN_objective] lazy. -->
-  <NewAgeDuelist27.description>{PAWN_gender ? [PAWN_nameDef] को युद्ध से बहुत लगाव था। उसके माता-पिता अक्सर यात्रा करते थे, इसलिए उसे कई अलग-अलग युद्ध शैलियों का अनुभव करने का अवसर मिला, 76वीं लहर ज्युजित्सु से लेकर कुख्यात &amp;apos;अर्बवर्ल्ड-शैली&amp;apos; कराटे तक।\n\nएक विनम्र बच्ची होने के कारण, अधिकांश सेनानी उसकी प्रशिक्षण के अनुरोधों को स्वीकार कर लेते थे - लेकिन अक्सर घूमना और शिक्षा पूरी न करना उसे आलसी बना देता था। : [PAWN_nameDef] को युद्ध से बहुत लगाव था। उसके माता-पिता अक्सर यात्रा करते थे, इसलिए उसे कई अलग-अलग युद्ध शैलियों का अनुभव करने का मौका मिला, 76वीं लहर ज्युजित्सु से लेकर कुख्यात &amp;apos;अर्बवर्ल्ड-शैली&amp;apos; कराटे तक।\n\nएक विनम्र बच्चा होने के कारण, अधिकांश सेनानी उसकी प्रशिक्षण के अनुरोधों को स्वीकार कर लेते थे - लेकिन अक्सर घूमते रहने और शिक्षा पूरी न करने के कारण वह आलसी हो गया।}</NewAgeDuelist27.description>
+  <NewAgeDuelist27.description>{PAWN_gender ? [PAWN_nameDef] युद्ध के प्रति मंत्रमुग्ध थी। उसके माता-पिता अक्सर यात्रा करते थे, इसलिए वह 76वें-वेव जुजुत्सु से लेकर कुख्यात 'शहरी दुनिया-शैली' कराटे तक, कई अलग-अलग लड़ने की शैलियों का अनुभव करने में सक्षम थी।\n\nएक विनम्र बच्ची होने के नाते, अधिकांश योद्धाओं ने प्रशिक्षण के उसके अनुरोधों को स्वीकार कर लिया - लेकिन बिना किसी शिक्षा को पूरा किए अक्सर इधर-उधर घूमते रहने ने उसे आलसी बना दिया। : [PAWN_nameDef] युद्ध का दीवाना था। उसके माता-पिता अक्सर यात्रा करते थे, इसलिए वह 76वें-वेव जुजुत्सु से लेकर कुख्यात 'शहरी दुनिया-शैली' के कराटे तक, कई अलग-अलग युद्ध शैलियों का अनुभव करने में सक्षम था।\n\nएक विनम्र बच्चा होने के नाते, अधिकांश लड़ाकों ने प्रशिक्षण के उसके अनुरोधों को स्वीकार कर लिया - लेकिन बिना किसी शिक्षा को पूरा किए अक्सर इधर-उधर घूमते रहने की वजह से वह आलसी हो गया था।}</NewAgeDuelist27.description>
   <!-- EN: new age duelist -->
   <NewAgeDuelist27.title>नया युग द्वंद्ववादी</NewAgeDuelist27.title>
   <NewAgeDuelist27.titleFemale>नयी युग द्वंद्ववादी</NewAgeDuelist27.titleFemale>
@@ -1509,7 +1509,7 @@
   <OldMoneyHeir46.titleShort>{PAWN_gender ? उत्तराधिकारिणी : उत्तराधिकारी पुरुष}</OldMoneyHeir46.titleShort>
   
   <!-- EN: [PAWN_nameDef] was blessed with loving parents and a pleasant midworld life. [PAWN_pronoun] was an  optimistic and sociable kid who loved making friends and listening to their stories. [PAWN_possessive] imagination would run wild with ideas and questions. -->
-  <OptimisticChild30.description>{PAWN_gender ? [PAWN_nameDef] को प्यार करने वाले माता-पिता और एक सुखद मध्य-विश्व जीवन का आशीर्वाद मिला। वह एक आशावादी और मिलनसार बच्ची थी जिसे दोस्त बनाना और उनकी कहानियाँ सुनना पसंद था। उसकी कल्पना विचारों और सवालों से भर जाती थी। : [PAWN_nameDef] को प्यार करने वाले माता-पिता और एक सुखद मध्य-विश्व जीवन का आशीर्वाद मिला। वह एक आशावादी और मिलनसार बच्चा था जिसे दोस्त बनाना और उनकी कहानियाँ सुनना पसंद था। उसकी कल्पना विचारों और प्रश्नों से भर जाती थी।}</OptimisticChild30.description>
+  <OptimisticChild30.description>{PAWN_gender ? [PAWN_nameDef] को प्यार करने वाले माता-पिता और मध्य दुनिया के एक सुखद जीवन का आशीर्वाद प्राप्त था। वह एक आशावादी और मिलनसार बच्ची थी जिसे दोस्त बनाना और उनकी कहानियाँ सुनना बहुत पसंद था। उसकी कल्पना विचारों और सवालों से भर जाती थी। : [PAWN_nameDef] को प्यार करने वाले माता-पिता और मध्य दुनिया के एक सुखद जीवन का आशीर्वाद प्राप्त था। वह एक आशावादी और मिलनसार बच्चा था जिसे दोस्त बनाना और उनकी कहानियाँ सुनना बहुत पसंद था। उसकी कल्पना विचारों और सवालों से भर जाती थी।}</OptimisticChild30.description>
   <!-- EN: optimistic child -->
   <OptimisticChild30.title>आशावादी बालक</OptimisticChild30.title>
   <OptimisticChild30.titleFemale>आशावादी बालिका</OptimisticChild30.titleFemale>
@@ -1545,7 +1545,7 @@
   <Orphan25.titleShortFemale>अनाथ बालिका</Orphan25.titleShortFemale>
   
   <!-- EN: Born a quiet urbworld orphan, [PAWN_nameDef] was invited to join a traveling circus. [PAWN_possessive] small size and observant nature helped [PAWN_nameDef] become a noted acrobat.\n\nUnfortunately, [PAWN_possessive] violent tendencies brought [PAWN_possessive] acrobatic career to an early end. -->
-  <OrphanedAcrobat84.description>{PAWN_gender ? एक शांत शहरी दुनिया की अनाथ होकर जन्मी, [PAWN_nameDef] को एक यात्रा करने वाले सर्कस में शामिल होने के लिए आमंत्रित किया गया था। उसकी छोटी कद-काठी और अवलोकन करने की प्रकृति ने [PAWN_nameDef] को एक प्रसिद्ध एक्रोबेट बनने में मदद की।\n\nदुर्भाग्यवश, उसकी हिंसक प्रवृत्तियों ने उसके एक्रोबेटिक करियर को जल्दी ही समाप्त कर दिया। : एक शांत शहरी दुनिया के अनाथ के रूप में जन्मे, [PAWN_nameDef] को एक यात्रा करने वाले सर्कस में शामिल होने के लिए आमंत्रित किया गया था। उसका छोटा आकार और अवलोकनशील स्वभाव [PAWN_nameDef] को एक प्रसिद्ध एक्रोबेट बनने में मदद करता था।\n\nदुर्भाग्य से, उसकी हिंसक प्रवृत्तियों ने उसके एक्रोबेटिक करियर को जल्दी ही समाप्त कर दिया।}</OrphanedAcrobat84.description>
+  <OrphanedAcrobat84.description>{PAWN_gender ? एक शांत शहरी दुनिया की अनाथ के रूप में जन्मी, [PAWN_nameDef] को एक घूमते हुए सर्कस में शामिल होने का निमंत्रण मिला था। उसके छोटे कद और चौकस स्वभाव ने [PAWN_nameDef] को एक प्रसिद्ध कलाबाज बनने में मदद की।\n\nदुर्भाग्य से, उसकी हिंसक प्रवृत्तियों ने उसके कलाबाजी के करियर को समय से पहले ही समाप्त कर दिया। : एक शांत शहरी दुनिया के अनाथ के रूप में जन्मे, [PAWN_nameDef] को एक घूमते हुए सर्कस में शामिल होने का निमंत्रण मिला। उसके छोटे कद और चौकस स्वभाव ने [PAWN_nameDef] को एक प्रसिद्ध कलाबाज बनने में मदद की।\n\nदुर्भाग्य से, उसकी हिंसक प्रवृत्तियों ने उसके कलाबाजी के करियर को समय से पहले ही समाप्त कर दिया।}</OrphanedAcrobat84.description>
   <!-- EN: orphaned acrobat -->
   <OrphanedAcrobat84.title>अनाथ करतबबाज</OrphanedAcrobat84.title>
   <OrphanedAcrobat84.titleFemale>अनाथ करतबबाज</OrphanedAcrobat84.titleFemale>
@@ -1562,7 +1562,7 @@
   <OrphanOfWar60.titleShortFemale>अनाथ बालिका</OrphanOfWar60.titleShortFemale>
   
   <!-- EN: Born on a decadent glitterworld, [PAWN_nameDef] was given every expensive toy.\n\nThis pampered lifestyle caused [PAWN_objective] to miss many basic life lessons. [PAWN_pronoun] developed a special aversion to cooking, and always ordered the staff to do the kitchen work. -->
-  <Pampered87.description>{PAWN_gender ? एक शानदार दुनिया में जन्मी, [PAWN_nameDef] को हर महंगा खिलौना मिला।\n\nइस लाड़-प्यार भरे जीवन ने उसे कई बुनियादी जीवन सबक सीखने से वंचित कर दिया। उसने खाना पकाने के प्रति विशेष अरुचि विकसित कर ली, और हमेशा कर्मचारियों को रसोई का काम करने का आदेश देती थी। : एक शानदार दुनिया में जन्मे, [PAWN_nameDef] को हर महंगा खिलौना मिला।\n\nइस लाड़-प्यार भरे जीवन ने उसे कई बुनियादी जीवन सबक से वंचित कर दिया। उसने खाना पकाने के प्रति विशेष अरुचि विकसित कर ली, और हमेशा कर्मचारियों को रसोई का काम करने का आदेश देता था।}</Pampered87.description>
+  <Pampered87.description>{PAWN_gender ? एक विलासी चमकदार दुनिया में जन्मी, [PAWN_nameDef] को हर कीमती खिलौना दिया गया था।\n\nइस लाड़-प्यार वाली जीवनशैली के कारण वह जीवन के कई बुनियादी सबक सीखने से चूक गई। उसने खाना पकाने के प्रति एक विशेष अरुचि विकसित कर ली, और हमेशा कर्मचारियों को रसोई का काम करने का आदेश देती थी। : एक विलासी चमकदार दुनिया में जन्मे, [PAWN_nameDef] को हर कीमती खिलौना दिया गया था।\n\nइस लाड़-प्यार वाली जीवनशैली के कारण वह जीवन के कई बुनियादी सबक सीखने से चूक गया। उसने खाना पकाने के प्रति एक विशेष अरुचि विकसित कर ली, और हमेशा कर्मचारियों को रसोई का काम करने का आदेश देता था।}</Pampered87.description>
   <!-- EN: pampered -->
   <Pampered87.title>लाड़-प्यार से पाला हुआ</Pampered87.title>
   <Pampered87.titleFemale>लाड़ली</Pampered87.titleFemale>
@@ -1580,7 +1580,7 @@
   <PetKeeper7.titleShortFemale>पालतू पशु पालक महिला</PetKeeper7.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a student on a glitterworld. [PAWN_pronoun] had a hard time in school, since the other kids thought [PAWN_objective] rather strange.\n\n[PAWN_pronoun] always maintained a distance from these events, being continuously surprised by the many interesting and awkward ways life can go. -->
-  <Philosopher82.description>{PAWN_gender ? [PAWN_nameDef] एक चमकते हुए ग्रह पर एक छात्रा थी। उसे स्कूल में कठिनाई हुई, क्योंकि अन्य बच्चों को वह काफ़ी अजीब लगती थी।\n\nउसने हमेशा इन घटनाओं से दूरी बनाए रखी, लगातार इस बात से आश्चर्यचकित होती रही कि जीवन कितने दिलचस्प और अजीब तरीकों से आगे बढ़ सकता है। : [PAWN_nameDef] एक चमकते हुए ग्रह पर एक छात्र था। उसे स्कूल में कठिनाई हुई, क्योंकि अन्य बच्चों को वह काफी अजीब लगा।\n\nवह हमेशा इन घटनाओं से दूरी बनाए रखता था, लगातार इस बात से आश्चर्यचकित होता था कि जीवन कितने दिलचस्प और अजीब तरीकों से आगे बढ़ सकता है।}</Philosopher82.description>
+  <Philosopher82.description>{PAWN_gender ? [PAWN_nameDef] एक चमकदार दुनिया की छात्रा थी। स्कूल में उसका समय कठिन बीता, क्योंकि अन्य बच्चे उसे काफी अजीब समझते थे।\n\nवह इन घटनाओं से हमेशा दूरी बनाए रखती थी, जीवन के कई दिलचस्प और अजीब तरीकों से निरंतर चकित होती रहती थी। : [PAWN_nameDef] एक चमकदार दुनिया का छात्र था। स्कूल में उसका समय कठिन बीता, क्योंकि अन्य बच्चे उसे काफी अजीब समझते थे।\n\nवह इन घटनाओं से हमेशा दूरी बनाए रखता था, और जीवन के कई दिलचस्प और अजीब तरीकों से निरंतर चकित रहता था।}</Philosopher82.description>
   <!-- EN: philosopher -->
   <Philosopher82.title>दार्शनिक</Philosopher82.title>
   <Philosopher82.titleFemale>दार्शनिक</Philosopher82.titleFemale>
@@ -1598,7 +1598,7 @@
   <Pickpocket61.titleShortFemale>चोर (स्त्री)</Pickpocket61.titleShortFemale>
   
   <!-- EN: Orphaned and abandoned on the tumultuous streets of [PAWN_possessive] polluted, teeming homeworld, [PAWN_nameDef] survived by deft hand and fleet foot. A natural born thief and trickster, [PAWN_pronoun] rose to prominence early, running the notorious and violent urchin gang 'Doomben Rats'. -->
-  <Pickpocket82.description>{PAWN_gender ? अनाथ और अपने प्रदूषित, भीड़भाड़ वाले गृहलोक की अशांत सड़कों पर परित्यक्त, [PAWN_nameDef] ने कुशलतापूर्वक हाथों और तेज़ पैरों से जीवित रही। जन्मजात चोर और धोखेबाज़ होने के कारण, वह जल्दी ही प्रमुख बन गई, और कुख्यात और हिंसक आवारा गिरोह &amp;apos;डूम्बेन चूहे&amp;apos; का नेतृत्व किया। : अनाथ और अपने प्रदूषित, भीड़भाड़ वाले गृहलोक की अशांत सड़कों पर परित्यक्त, [PAWN_nameDef] ने कुशलतापूर्वक हाथ और तेज़ पैरों से जीवित रहा। जन्मजात चोर और धोखेबाज़, वह जल्दी ही प्रमुख हो गया, कुख्यात और हिंसक आवारा गिरोह &amp;apos;डूम्बेन चूहे&amp;apos; का नेतृत्व किया।}</Pickpocket82.description>
+  <Pickpocket82.description>{PAWN_gender ? अपने प्रदूषित और भीड़भाड़ वाले गृह-संसार की उथल-पुथल भरी गलियों में अनाथ और त्यागी गई, [PAWN_nameDef] ने अपने कुशल हाथों और तेज़ कदमों के दम पर जीवित रहना सीखा। एक जन्मजात चोर और छली, वह जल्द ही प्रसिद्ध हो गई, और कुख्यात एवं हिंसक अनाथ गिरोह 'Doomben Rats' का नेतृत्व करने लगी। : अपने प्रदूषित और भीड़भाड़ वाले गृहग्रह की उथल-पुथल भरी सड़कों पर अनाथ और त्यागा हुआ, [PAWN_nameDef] ने अपने कुशल हाथों और तेज़ कदमों के दम पर जीवित रहना सीखा। जन्मजात चोर और धोखेबाज होने के नाते, वह जल्द ही प्रसिद्ध हो गया, और कुख्यात एवं हिंसक अनाथ गिरोह 'Doomben Rats' का नेतृत्व करने लगा।}</Pickpocket82.description>
   <!-- EN: pickpocket -->
   <Pickpocket82.title>चोरी करने वाला</Pickpocket82.title>
   <Pickpocket82.titleFemale>चोरी करने वाली</Pickpocket82.titleFemale>
@@ -1624,7 +1624,7 @@
   <PitGladiator19.titleShortFemale>महिला योद्धा</PitGladiator19.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] loved boomrat pizza intensely. Rarely eating anything else, [PAWN_pronoun] was prone to bad health and low oxygen uptake.\n\n[PAWN_pronoun] loved bashing in the skulls of random creatures to see what was inside. -->
-  <PizzaLover94.description>{PAWN_gender ? पिज्जा, विशेष रूप से बूमरैट पिज्जा, [PAWN_nameDef] को बेहद पसंद थी। शायद ही कभी कुछ और खाती थी, वह खराब स्वास्थ्य और कम ऑक्सीजन ग्रहण करने की ओर प्रवृत्त थी।\n\nउसे यादृच्छिक प्राणियों के खोपड़ी को तोड़कर देखना कि अंदर क्या है, बहुत पसंद था। : [PAWN_nameDef] को बूमरैट पिज्जा से अत्यधिक प्रेम था। शायद ही कभी कुछ और खाते थे, वह खराब स्वास्थ्य और कम ऑक्सीजन ग्रहण करने के लिए प्रवण था।\n\nउन्हें यादृच्छिक प्राणियों की खोपड़ी तोड़ने में आनंद आता था ताकि यह देखा जा सके कि अंदर क्या है।}</PizzaLover94.description>
+  <PizzaLover94.description>{PAWN_gender ? [PAWN_nameDef] को विस्फोटक चूहा पिज्जा से गहरा लगाव था। शायद ही कभी कुछ और खाते हुए, वह खराब स्वास्थ्य और कम ऑक्सीजन ग्रहण करने की प्रवृत्ति रखती थी।\n\nउसे यह देखने के लिए यादृच्छिक जीवों की खोपड़ी फोड़ना पसंद था कि उनके अंदर क्या है। : [PAWN_nameDef] को विस्फोटक चूहा पिज्जा से गहरा लगाव था। शायद ही कभी कुछ और खाते हुए, वह खराब स्वास्थ्य और कम ऑक्सीजन ग्रहण करने की प्रवृत्ति का शिकार रहता था।\n\nउसे यह देखने के लिए यादृच्छिक जीवों की खोपड़ी फोड़ना पसंद था कि उनके अंदर क्या है।}</PizzaLover94.description>
   <!-- EN: pizza lover -->
   <PizzaLover94.title>पिज्जा प्रेमी</PizzaLover94.title>
   <PizzaLover94.titleFemale>पिज़्ज़ा प्रेमी महिला</PizzaLover94.titleFemale>
@@ -1642,7 +1642,7 @@
   <PlagueChild44.titleShortFemale>बालिका</PlagueChild44.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s childhood was cut short when a mysterious plague hit [PAWN_possessive] homeworld.\n\n[PAWN_pronoun] watched [PAWN_possessive] friends die, and [PAWN_possessive] compassion for humanity died with them. In its place a new thirst for knowledge emerged. -->
-  <PlagueProdigy12.description>{PAWN_gender ? [PAWN_nameDef] का बचपन उसके गृह ग्रह पर एक रहस्यमय महामारी के फैलने से अचानक समाप्त हो गया।\n\nउसने अपने दोस्तों को मरते हुए देखा, और मानवता के प्रति उसकी करुणा भी उनके साथ ही समाप्त हो गई। इसके स्थान पर ज्ञान की एक नई प्यास जागृत हुई। : [PAWN_nameDef] का बचपन उसके गृह ग्रह पर आई एक रहस्यमय महामारी से अचानक समाप्त हो गया।\n\nउसने अपने दोस्तों को मरते हुए देखा, और मानवता के प्रति उसकी करुणा भी उनके साथ ही मर गई। उसकी जगह ज्ञान की एक नई प्यास पैदा हुई।}</PlagueProdigy12.description>
+  <PlagueProdigy12.description>{PAWN_gender ? [PAWN_nameDef] का बचपन तब छोटा हो गया जब उसके गृहग्रह पर एक रहस्यमयी महामारी ने हमला कर दिया।\n\nउसने अपने दोस्तों को मरते हुए देखा, और मानवता के प्रति उसकी करुणा भी उनके साथ ही मर गई। उसके स्थान पर ज्ञान की एक नई प्यास उभर आई। : [PAWN_nameDef] का बचपन तब छोटा हो गया जब उसके गृहग्रह पर एक रहस्यमयी महामारी ने हमला कर दिया।\n\nउसने अपने दोस्तों को मरते हुए देखा, और मानवता के प्रति उसकी करुणा उनके साथ ही मर गई। उसके स्थान पर ज्ञान की एक नई प्यास उभर आई।}</PlagueProdigy12.description>
   <!-- EN: plague prodigy -->
   <PlagueProdigy12.title>{PAWN_gender ? महामारी प्रतिभाशाली महिला : रोग विशेषज्ञ बालक}</PlagueProdigy12.title>
   <!-- EN: prodigy -->
@@ -1650,7 +1650,7 @@
   <PlagueProdigy12.titleShortFemale>प्रतिभाशाली युवती</PlagueProdigy12.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] watched as a mysterious plague spread through [PAWN_possessive] town, killing [PAWN_possessive] family and friends.\n\n[PAWN_pronoun] learned some medicine from watching the plague doctors, but was mentally scarred by the ordeal. -->
-  <PlagueSurvivor39.description>{PAWN_gender ? [PAWN_nameDef] ने अपने शहर में एक रहस्यमय महामारी फैलते हुए देखी, जिसने उसके परिवार और दोस्तों को मार डाला।\n\nउसने प्लेग डॉक्टरों को देखते हुए कुछ चिकित्सा सीखी, लेकिन इस ordeal से मानसिक रूप से आहत हो गई। : [PAWN_nameDef] ने अपने शहर में एक रहस्यमय महामारी फैलते हुए देखी, जिसने उसके परिवार और दोस्तों को मार डाला।\n\nउसने प्लेग डॉक्टरों को देखते हुए कुछ चिकित्सा सीखी, लेकिन इस ordeal से मानसिक रूप से आहत हो गया।}</PlagueSurvivor39.description>
+  <PlagueSurvivor39.description>[PAWN_nameDef] ने अपने शहर में एक रहस्यमयी महामारी को फैलते हुए देखा, जिसने उसके परिवार और दोस्तों को मार डाला।\n\nउसने प्लेग डॉक्टरों को देखते हुए कुछ दवा सीखी, लेकिन इस कठिन अनुभव ने उसे मानसिक रूप से आहत कर दिया।</PlagueSurvivor39.description>
   <!-- EN: plague survivor -->
   <PlagueSurvivor39.title>महामारी से बचे हुए</PlagueSurvivor39.title>
   <PlagueSurvivor39.titleFemale>महामारी से बची हुई</PlagueSurvivor39.titleFemale>
@@ -1686,7 +1686,7 @@
   <PrivilegedChild86.titleShortFemale>विशेषाधिकार प्राप्त महिला</PrivilegedChild86.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was recognized as gifted early in [PAWN_possessive] glitterworld upbringing. Luckily, [PAWN_possessive] family was in a position to cultivate that genius through advanced education. [PAWN_possessive] training included science, leadership, and the arts. -->
-  <PrivilegedProdigy70.description>{PAWN_gender ? [PAWN_nameDef] को उनकी चमकती दुनिया में बचपन से ही प्रतिभाशाली माना गया था। सौभाग्य से, उनका परिवार उन्नत शिक्षा के माध्यम से उस प्रतिभा को विकसित करने की स्थिति में था। उनके प्रशिक्षण में विज्ञान, नेतृत्व और कला शामिल थे। : [PAWN_nameDef] को उनकी चमकती दुनिया में परवरिश के दौरान ही प्रतिभाशाली के रूप में पहचाना गया था। सौभाग्य से, उनका परिवार उन्नत शिक्षा के माध्यम से उस प्रतिभा को विकसित करने की स्थिति में था। उनके प्रशिक्षण में विज्ञान, नेतृत्व और कला शामिल थे।}</PrivilegedProdigy70.description>
+  <PrivilegedProdigy70.description>{PAWN_gender ? [PAWN_nameDef] को अपनी चमकदार दुनिया की परवरिश के शुरुआती दिनों में ही प्रतिभाशाली के रूप में पहचाना गया था। सौभाग्य से, उसका परिवार उन्नत शिक्षा के माध्यम से उस प्रतिभा को निखारने की स्थिति में था। उसके प्रशिक्षण में विज्ञान, नेतृत्व और कला शामिल थे। : [PAWN_nameDef] को उनके चमकदार दुनिया के पालन-पोषण के शुरुआती दिनों में ही प्रतिभाशाली के रूप में पहचाना गया था। सौभाग्य से, उनका परिवार उन्नत शिक्षा के माध्यम से उस प्रतिभा को निखारने की स्थिति में था। उनके प्रशिक्षण में विज्ञान, नेतृत्व और कला शामिल थे।}</PrivilegedProdigy70.description>
   <!-- EN: privileged prodigy -->
   <PrivilegedProdigy70.title>विशेषाधिकार प्राप्त प्रतिभाशाली</PrivilegedProdigy70.title>
   <PrivilegedProdigy70.titleFemale>विशेषाधिकार प्राप्त प्रतिभाशाली</PrivilegedProdigy70.titleFemale>
@@ -1736,7 +1736,7 @@
   <Punk30.titleShort>पंक</Punk30.titleShort>
   
   <!-- EN: On an industrial world, [PAWN_nameDef] learned early that if [PAWN_pronoun] wanted to eat, [PAWN_pronoun] had to work. So work [PAWN_pronoun] did. Kids fit in places adults can't, and where [PAWN_pronoun] was from, the safety laws were quite flexible.\n\n[PAWN_pronoun] was always a bit of a pyromaniac, and was banned from the kitchen after an unfortunate incident. -->
-  <PyroAssistant82.description>{PAWN_gender ? औद्योगिक दुनिया में, [PAWN_nameDef] ने जल्दी ही सीख लिया कि अगर उसे खाना खाना है, तो उसे काम करना होगा। इसलिए उसने काम किया। बच्चे उन जगहों पर फिट हो जाते हैं जहाँ वयस्क नहीं जा सकते, और जहाँ से वह आई थी, सुरक्षा कानून काफ़ी लचीले थे।\n\nवह हमेशा से थोड़ी पायरोमैनियाक रही है, और एक दुर्भाग्यपूर्ण घटना के बाद उसे रसोई से प्रतिबंधित कर दिया गया था। : औद्योगिक दुनिया में, [PAWN_nameDef] ने जल्दी सीख लिया कि अगर उसे खाना चाहिए तो उसे काम करना होगा। इसलिए उसने काम किया। बच्चे उन जगहों पर फिट हो जाते हैं जहाँ वयस्क नहीं जा सकते, और जहाँ से वह आया था, सुरक्षा कानून काफी लचीले थे।\n\nवह हमेशा थोड़ा पायरोमैनियाक रहा है, और एक दुर्भाग्यपूर्ण घटना के बाद उसे रसोई से प्रतिबंधित कर दिया गया था।}</PyroAssistant82.description>
+  <PyroAssistant82.description>{PAWN_gender ? एक औद्योगिक युग के ग्रह पर, [PAWN_nameDef] ने जल्दी ही सीख लिया था कि यदि वह खाना चाहती है, तो उसे काम करना होगा। इसलिए उसने काम किया। बच्चे उन जगहों में फिट हो जाते हैं जहाँ वयस्क नहीं जा सकते, और जहाँ से वह आई थी, वहाँ सुरक्षा कानून काफी लचीले थे।\n\nवह हमेशा से थोड़ी पायरोमैनियाक (आग लगाने की शौकीन) रही थी, और एक दुर्भाग्यपूर्ण घटना के बाद उसे रसोई से प्रतिबंधित कर दिया गया था। : एक औद्योगिक युग के ग्रह पर, [PAWN_nameDef] ने जल्दी ही यह सीख लिया था कि यदि वह खाना चाहता है, तो उसे काम करना होगा। इसलिए उसने काम किया। बच्चे उन जगहों में फिट हो जाते हैं जहाँ वयस्क नहीं जा सकते, और जहाँ से वह आया था, वहाँ सुरक्षा कानून काफी लचीले थे।\n\nवह हमेशा से थोड़ा आगबाज़ किस्म का था, और एक दुर्भाग्यपूर्ण घटना के बाद उसे रसोई से प्रतिबंधित कर दिया गया था।}</PyroAssistant82.description>
   <!-- EN: pyro assistant -->
   <PyroAssistant82.title>अग्नि सहायक</PyroAssistant82.title>
   <PyroAssistant82.titleFemale>अग्नि सहायक</PyroAssistant82.titleFemale>
@@ -1745,7 +1745,7 @@
   <PyroAssistant82.titleShortFemale>सहायिका उप-व्यक्तित्व कोर</PyroAssistant82.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was raised by doting parents on a midworld. Instead of playing with other children, [PAWN_pronoun] read books voraciously.\n\n[PAWN_pronoun] was not particularly rugged, and struggled with physical labor. -->
-  <QuietNerd97.description>{PAWN_gender ? [PAWN_nameDef] एक मध्य-विश्व पर लाड़-प्यार करने वाले माता-पिता द्वारा पली-बढ़ी। अन्य बच्चों के साथ खेलने के बजाय, उसने खूब किताबें पढ़ीं।\n\nवह विशेष रूप से मजबूत नहीं थी, और शारीरिक श्रम से जूझती रही। : [PAWN_nameDef] एक मध्य-विश्व पर लाड़-प्यार करने वाले माता-पिता द्वारा पाला गया था। अन्य बच्चों के साथ खेलने के बजाय, उसने खूब किताबें पढ़ीं।\n\nवह विशेष रूप से मजबूत नहीं था, और शारीरिक श्रम से जूझता रहा।}</QuietNerd97.description>
+  <QuietNerd97.description>{PAWN_gender ? [PAWN_nameDef] का पालन-पोषण एक मध्य दुनिया में लाड़-प्यार करने वाले माता-पिता द्वारा किया गया था। अन्य बच्चों के साथ खेलने के बजाय, उसने बड़े चाव से किताबें पढ़ीं।\n\nवह विशेष रूप से कठोर नहीं थी, और शारीरिक श्रम करने में उसे कठिनाई होती थी। : [PAWN_nameDef] का पालन-पोषण एक मध्य दुनिया में लाड़-प्यार करने वाले माता-पिता द्वारा किया गया था। अन्य बच्चों के साथ खेलने के बजाय, उसने बड़े चाव से किताबें पढ़ीं।\n\nवह विशेष रूप से कठोर नहीं था, और शारीरिक श्रम करने में उसे कठिनाई होती थी।}</QuietNerd97.description>
   <!-- EN: quiet nerd -->
   <QuietNerd97.title>शांत बुद्धिजीवी</QuietNerd97.title>
   <QuietNerd97.titleFemale>शांत बुद्धिजीवी महिला</QuietNerd97.titleFemale>
@@ -1807,7 +1807,7 @@
   <RebelWriter82.titleShortFemale>लेखिका</RebelWriter82.titleShortFemale>
   
   <!-- EN: Growing up on a flourishing glitterworld afforded [PAWN_nameDef] the chance to fully devote [PAWN_objective]self to [PAWN_possessive] studies.\n\nHaving taken a keen interest in genetic modification and neural augmentation from a young age, [PAWN_pronoun] had little time (or desire) for a regular childhood. -->
-  <ReclusiveProdigy96.description>{PAWN_gender ? एक समृद्ध चमकते हुए ग्रह पर पली-बढ़ी [PAWN_nameDef] को अपनी पढ़ाई के लिए पूरी तरह से समर्पित करने का अवसर मिला।\n\nजेनेटिक मॉडिफिकेशन और न्यूरल ऑगमेंटेशन में कम उम्र से ही गहरी रुचि होने के कारण, उसके पास सामान्य बचपन के लिए बहुत कम समय (या इच्छा) थी। : एक समृद्ध चमकते हुए ग्रह पर बड़े होने के कारण [PAWN_nameDef] को अपनी पढ़ाई के लिए पूरी तरह से समर्पित करने का अवसर मिला।\n\nजेनेटिक मॉडिफिकेशन और न्यूरल ऑगमेंटेशन में कम उम्र से ही गहरी रुचि रखने के कारण, उसके पास सामान्य बचपन के लिए बहुत कम समय (या इच्छा) थी।}</ReclusiveProdigy96.description>
+  <ReclusiveProdigy96.description>{PAWN_gender ? एक समृद्ध चमकदार दुनिया में पली-बढ़ी [PAWN_nameDef] को अपनी पढ़ाई के प्रति पूरी तरह समर्पित होने का अवसर मिला।\n\nबचपन से ही आनुवंशिक संशोधन और तंत्रिका संवर्धन में गहरी रुचि लेने के कारण, उसके पास एक सामान्य बचपन के लिए बहुत कम समय (या इच्छा) थी। : एक समृद्ध चमकदार दुनिया में बड़े होने के कारण [PAWN_nameDef] को अपनी पढ़ाई के प्रति पूरी तरह समर्पित होने का अवसर मिला।\n\nबचपन से ही आनुवंशिक संशोधन और तंत्रिका संवर्धन में गहरी रुचि लेने के कारण, उसके पास एक सामान्य बचपन के लिए बहुत कम समय (या इच्छा) थी।}</ReclusiveProdigy96.description>
   <!-- EN: reclusive prodigy -->
   <ReclusiveProdigy96.title>अंतर्मुखी प्रतिभाशाली बालक</ReclusiveProdigy96.title>
   <ReclusiveProdigy96.titleFemale>अंतर्मुखी प्रतिभाशाली महिला</ReclusiveProdigy96.titleFemale>
@@ -1816,7 +1816,7 @@
   <ReclusiveProdigy96.titleShortFemale>प्रतिभाशाली युवती</ReclusiveProdigy96.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] lived on a midworld where the government cared about the youth. \n\n[PAWN_pronoun] was one of the many children who were taken from their parents and forced into the new education programs. -->
-  <ReEducatedYouth23.description>{PAWN_gender ? [PAWN_nameDef] एक मध्य-विश्व में रहती थीं जहाँ सरकार युवाओं की परवाह करती थी।\n\nवह उन कई बच्चों में से एक थीं जिन्हें उनके माता-पिता से अलग कर लिया गया और नए शिक्षा कार्यक्रमों में मजबूरन शामिल किया गया। : [PAWN_nameDef] एक मध्य-विश्व में रहता था जहाँ सरकार युवाओं की परवाह करती थी।\n\nवह उन कई बच्चों में से एक था जिन्हें उनके माता-पिता से अलग कर लिया गया और नए शिक्षा कार्यक्रमों में मजबूरन शामिल किया गया।}</ReEducatedYouth23.description>
+  <ReEducatedYouth23.description>{PAWN_gender ? [PAWN_nameDef] एक मध्य दुनिया में रहती थी जहाँ सरकार युवाओं की परवाह करती थी।\n\nवह उन कई बच्चों में से एक थी जिन्हें उनके माता-पिता से ले जाया गया था और नए शिक्षा कार्यक्रमों में शामिल होने के लिए मजबूर किया गया था। : [PAWN_nameDef] एक मध्य दुनिया में रहता था जहाँ सरकार युवाओं की परवाह करती थी।\n\nवह उन कई बच्चों में से एक था जिन्हें उनके माता-पिता से अलग कर दिया गया था और नए शिक्षा कार्यक्रमों में शामिल होने के लिए मजबूर किया गया था।}</ReEducatedYouth23.description>
   <!-- EN: re-educated youth -->
   <ReEducatedYouth23.title>पुनः शिक्षित युवक</ReEducatedYouth23.title>
   <ReEducatedYouth23.titleFemale>पुनः शिक्षित युवती</ReEducatedYouth23.titleFemale>
@@ -1825,7 +1825,7 @@
   <ReEducatedYouth23.titleShortFemale>पुनः शिक्षित महिला</ReEducatedYouth23.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up on a midworld with loving parents, a cute pet and a lot of money - but no friends.\n\n[PAWN_pronoun] was always told by [PAWN_possessive] father that 'those peasants just want your money'. So, [PAWN_pronoun] spent most of [PAWN_possessive] time alone, or fighting other kids. -->
-  <RichBoy9.description>{PAWN_gender ? [PAWN_nameDef] एक मध्य-विश्व में प्यार करने वाले माता-पिता, एक प्यारे पालतू जानवर और बहुत सारे धन के साथ बड़ी हुई - लेकिन कोई दोस्त नहीं।\n\nउसे हमेशा उसके पिता ने बताया कि &amp;apos;ये किसान सिर्फ तुम्हारा पैसा चाहते हैं&amp;apos;। इसलिए, उसने अपना अधिकांश समय अकेले बिताया, या अन्य बच्चों से लड़ती रही। : [PAWN_nameDef] एक मध्य-विश्व में प्यार करने वाले माता-पिता, एक प्यारे पालतू जानवर और बहुत सारे धन के साथ बड़ा हुआ - लेकिन कोई दोस्त नहीं थे।\n\nउसे हमेशा उसके पिता ने बताया कि &amp;apos;ये किसान सिर्फ तुम्हारा पैसा चाहते हैं&amp;apos;। इसलिए, उसने अपना अधिकांश समय अकेला बिताया, या अन्य बच्चों से लड़ता रहा।}</RichBoy9.description>
+  <RichBoy9.description>{PAWN_gender ? [PAWN_nameDef] का पालन-पोषण एक मध्य दुनिया में प्यार करने वाले माता-पिता, एक प्यारे पालतू जानवर और बहुत सारे पैसे के साथ हुआ - लेकिन कोई दोस्त नहीं थे।\n\nउसके पिता उसे हमेशा कहते थे कि 'वे किसान सिर्फ तुम्हारा पैसा चाहते हैं'। इसलिए, उसने अपना अधिकांश समय अकेले, या अन्य बच्चों से लड़ते हुए बिताया। : [PAWN_nameDef] एक मध्य दुनिया में प्यार करने वाले माता-पिता, एक प्यारे पालतू जानवर और बहुत सारे पैसे के साथ पला-बढ़ा - लेकिन उसके कोई दोस्त नहीं थे।\n\nउसके पिता हमेशा उससे कहते थे कि 'वे किसान सिर्फ तुम्हारा पैसा चाहते हैं'। इसलिए, उसने अपना अधिकांश समय अकेले, या अन्य बच्चों से लड़ते हुए बिताया।}</RichBoy9.description>
   <!-- EN: rich boy -->
   <RichBoy9.title>अमीर लड़का</RichBoy9.title>
   <RichBoy9.titleFemale>अमीर लड़की</RichBoy9.titleFemale>
@@ -1896,7 +1896,7 @@
   <SentimentalChild55.titleShortFemale>अच्छी बच्ची</SentimentalChild55.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s family were space traders. One day, [PAWN_nameDef]'s cryptosleep pod failed in transit. [PAWN_pronoun] had to spend years awake on the ship as the other slept.\n\n[PAWN_pronoun] filled [PAWN_possessive] days creating beautiful contraptions from the ship's cargo - but [PAWN_pronoun] didn't learn a lot of basic planetary living skills. -->
-  <ShipChild46.description>[PAWN_nameDef] का परिवार अंतरिक्ष व्यापारी था। एक दिन, [PAWN_nameDef] का क्रिप्टोस्लीप पॉड यात्रा के दौरान विफल हो गया। उसे अन्य लोगों के सोते रहने के दौरान वर्षों तक जहाज पर जागते रहना पड़ा।\n\nउसने अपने दिन जहाज के माल से सुंदर उपकरण बनाकर बिताए - लेकिन उसने बुनियादी ग्रह जीवन कौशल बहुत कम सीखे।</ShipChild46.description>
+  <ShipChild46.description>{PAWN_gender ? [PAWN_nameDef] का परिवार अंतरिक्ष व्यापारी था। एक दिन, [PAWN_nameDef] का क्रिप्टोस्लीप पॉड यात्रा के दौरान विफल हो गया। जब अन्य लोग सो रहे थे, उसे जहाज पर जागते हुए कई साल बिताने पड़े।\n\nउसने जहाज के कार्गो से सुंदर यंत्र बनाकर अपने दिन बिताए - लेकिन उसने ग्रहों पर रहने के बुनियादी जीवन कौशल बहुत कम सीखे। : [PAWN_nameDef] का परिवार अंतरिक्ष व्यापारी था। एक दिन, [PAWN_nameDef] का क्रिप्टोस्लीप पॉड यात्रा के दौरान विफल हो गया। जब अन्य लोग सो रहे थे, उसे जहाज पर वर्षों तक जागते हुए बिताना पड़ा।\n\nउसने जहाज के कार्गो से सुंदर यंत्र बनाकर अपने दिन बिताए - लेकिन उसने ग्रहों पर रहने के बुनियादी जीवन कौशल बहुत कम सीखे।}</ShipChild46.description>
   <!-- EN: ship child -->
   <ShipChild46.title>जहाज़ का बच्चा</ShipChild46.title>
   <ShipChild46.titleFemale>जहाज़ की बच्ची</ShipChild46.titleFemale>
@@ -1946,7 +1946,7 @@
   <SlaveFarmer99.titleShortFemale>गुलामी दासी</SlaveFarmer99.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up in an isolated midworld village, surrounded by opticows and countryside.\n\n[PAWN_possessive] parents taught [PAWN_objective] a wide range of useful domestic skills, but a peaceful and secure childhood left [PAWN_objective] with little understanding of the harder parts of life. -->
-  <SmallTownKid41.description>{PAWN_gender ? [PAWN_nameDef] एक अलग-थलग मध्य-विश्व गाँव में पली-बढ़ी, जो ऑप्टिकॉ और ग्रामीण इलाकों से घिरा हुआ था।\n\nउसके माता-पिता ने उसे उपयोगी घरेलू कौशल की एक विस्तृत श्रृंखला सिखाई, लेकिन एक शांतिपूर्ण और सुरक्षित बचपन ने उसे जीवन के कठिन हिस्सों की कम समझ दी। : [PAWN_nameDef] एक अलग-थलग मध्य-विश्व गाँव में बड़ा हुआ, ऑप्टिकॉ और ग्रामीण इलाकों से घिरा हुआ।\n\nउसके माता-पिता ने उसे उपयोगी घरेलू कौशल की एक विस्तृत श्रृंखला सिखाई, लेकिन एक शांतिपूर्ण और सुरक्षित बचपन ने उसे जीवन के कठिन हिस्सों की कम समझ दी।}</SmallTownKid41.description>
+  <SmallTownKid41.description>{PAWN_gender ? [PAWN_nameDef] एक अलग-थलग मध्य दुनिया के गाँव में पली-बढ़ी, जहाँ वह ऑप्टिकौज़ और देहाती परिवेश से घिरी हुई थी।\n\nउसके माता-पिता ने उसे घरेलू कौशल की एक विस्तृत श्रृंखला सिखाई, लेकिन एक शांतिपूर्ण और सुरक्षित बचपन के कारण जीवन के कठिन हिस्सों के बारे में उसकी समझ बहुत कम रह गई। : [PAWN_nameDef] एक अलग-थलग मध्य दुनिया के गाँव में पला-बढ़ा, जहाँ वह ऑप्टिकौज़ और ग्रामीण इलाकों से घिरा हुआ था।\n\nउसके माता-पिता ने उसे उपयोगी घरेलू कौशल की एक विस्तृत श्रृंखला सिखाई, लेकिन एक शांतिपूर्ण और सुरक्षित बचपन ने उसे जीवन के कठिन हिस्सों की बहुत कम समझ दी।}</SmallTownKid41.description>
   <!-- EN: small town kid -->
   <SmallTownKid41.title>छोटे शहर का लड़का</SmallTownKid41.title>
   <SmallTownKid41.titleFemale>छोटी बस्ती की लड़की</SmallTownKid41.titleFemale>
@@ -1955,7 +1955,7 @@
   <SmallTownKid41.titleShortFemale>शहरी बालिका</SmallTownKid41.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s family never fit in. They were oddballs who couldn't conform to their regimented society. Because of this, they were forced into cryptosleep and sent to different rimworlds, never to see each other again. -->
-  <SocialPariah3.description>{PAWN_gender ? [PAWN_nameDef] का परिवार कभी भी फिट नहीं बैठा। वे अजीब लोग थे जो अपने व्यवस्थित समाज के अनुरूप नहीं हो सके। इस कारण से, उन्हें क्रिप्टोस्लीप में मजबूर किया गया और अलग-अलग रिमवर्ल्ड में भेज दिया गया, फिर कभी एक-दूसरे को देखने के लिए नहीं। : [PAWN_nameDef] का परिवार कभी भी फिट नहीं बैठा। वे अजीब लोग थे जो अपने व्यवस्थित समाज के अनुरूप नहीं हो सके। इस वजह से, उन्हें क्रिप्टोस्लीप में मजबूर किया गया और अलग-अलग रिमवर्ल्ड में भेज दिया गया, फिर कभी एक-दूसरे को देखने के लिए नहीं।}</SocialPariah3.description>
+  <SocialPariah3.description>{PAWN_gender ? [PAWN_nameDef] का परिवार कभी भी समाज में घुल-मिल नहीं पाया। वे ऐसे अजीबोगरीब लोग थे जो अपने अनुशासित समाज के अनुरूप खुद को ढाल नहीं सके। इस कारण, उन्हें क्रिप्टोस्लीप (cryptosleep) के लिए मजबूर किया गया और अलग-अलग रिमवर्ल्ड्स पर भेज दिया गया, ताकि वे फिर कभी एक-दूसरे को न देख सकें। : [PAWN_nameDef] का परिवार कभी भी समाज में घुल-मिल नहीं पाया। वे ऐसे अजीबोगरीब लोग थे जो अपने अनुशासित समाज के अनुरूप खुद को ढाल नहीं सके। इस कारणवश, उन्हें क्रिप्टोस्लीप (cryptosleep) के लिए मजबूर किया गया और अलग-अलग रिमवर्ल्ड्स पर भेज दिया गया, ताकि वे फिर कभी एक-दूसरे को न देख सकें।}</SocialPariah3.description>
   <!-- EN: social pariah -->
   <SocialPariah3.title>सामाजिक बहिष्कृत</SocialPariah3.title>
   <SocialPariah3.titleFemale>सामाजिक बहिष्कृत</SocialPariah3.titleFemale>
@@ -2016,8 +2016,8 @@
   <!-- EN: Born among stars to a spacefaring family, the [PAWN_nameDef] was the only survivor when [PAWN_possessive] family's ship was destroyed.\n\n[PAWN_pronoun] was forced to find a way to survive, and seek the joy of knowing another family. -->
   <SpacerOrphan77.description>{PAWN_gender ? अंतरिक्ष में एक घुमंतू परिवार में जन्मी, [PAWN_nameDef] अपनी परिवार की जहाज के नष्ट होने पर एकमात्र जीवित बची थी।\n\nउसे जीवित रहने का एक तरीका खोजना पड़ा, और किसी अन्य परिवार को जानने की खुशी की तलाश करनी पड़ी। : अंतरिक्ष में एक घुमंतू परिवार में जन्मे, [PAWN_nameDef] अपने परिवार के जहाज के नष्ट होने पर एकमात्र जीवित बचे थे।\n\nउन्हें जीवित रहने का एक तरीका खोजना पड़ा, और किसी अन्य परिवार को जानने की खुशी की तलाश करनी पड़ी।}</SpacerOrphan77.description>
   <!-- EN: spacer orphan -->
-  <SpacerOrphan77.title>अंतरिक्ष अनाथ</SpacerOrphan77.title>
-  <SpacerOrphan77.titleFemale>अंतरिक्ष अनाथ</SpacerOrphan77.titleFemale>
+  <SpacerOrphan77.title>अंतरिक्ष युग अनाथ</SpacerOrphan77.title>
+  <SpacerOrphan77.titleFemale>अंतरिक्ष युग अनाथ</SpacerOrphan77.titleFemale>
   <!-- EN: orphan -->
   <SpacerOrphan77.titleShort>अनाथ बालक</SpacerOrphan77.titleShort>
   <SpacerOrphan77.titleShortFemale>अनाथ बालिका</SpacerOrphan77.titleShortFemale>
@@ -2039,7 +2039,7 @@
   <SpaceyachtPilot89.titleShort>पायलट</SpaceyachtPilot89.titleShort>
   
   <!-- EN: [PAWN_nameDef] was the son of a fern farmer in the towering forests of Khalderia.\n\n[PAWN_pronoun] found [PAWN_possessive] first love in speeder racing, zipping in and out of the massive canopies and gorgeous vistas of [PAWN_possessive] homeworld. The seedy underworld of racing also forced [PAWN_objective] to learn to defend [PAWN_objective]self with a quick word or a quicker shot. -->
-  <SpeederRacer71.description>{PAWN_gender ? [PAWN_nameDef] खल्डरिया के ऊँचे जंगलों में एक फर्न किसान की बेटी थी।\n\nउन्हें अपने गृह ग्रह के विशाल चंदवा और शानदार दृश्यों में स्पीडर रेसिंग में अपना पहला प्यार मिला। रेसिंग की नीच दुनिया ने उन्हें एक त्वरित शब्द या तेज़ गोली से खुद का बचाव करना भी सिखाया। : [PAWN_nameDef] ख़ालदेरिया के ऊँचे जंगलों में एक फ़र्न किसान का बेटा था।\n\nउसे अपनी पहली मोहब्बत स्पीडर रेसिंग में मिली, वह अपने गृह ग्रह के विशाल चंदवा और शानदार दृश्यों के बीच तेज़ी से आगे-पीछे दौड़ता था। रेसिंग की नीच दुनिया ने उसे जल्दी से बात करके या तेज़ी से गोली चलाकर अपनी रक्षा करना भी सिखाया।}</SpeederRacer71.description>
+  <SpeederRacer71.description>{PAWN_gender ? [PAWN_nameDef] खालडेरिया के ऊंचे जंगलों में एक फर्न किसान की बेटी थी।\n\nउसने अपना पहला प्यार स्पीडर रेसिंग में पाया, जहाँ वह अपने गृहलोक के विशाल पेड़ों की छतरी और सुंदर दृश्यों के बीच से तेज़ी से निकलती थी। रेसिंग की संदिग्ध दुनिया ने उसे यह सीखने के लिए भी मजबूर किया कि कैसे एक तेज़ शब्द या उससे भी तेज़ गोली से अपनी रक्षा की जाए। : [PAWN_nameDef] खालडेरिया के ऊंचे जंगलों में एक फर्न किसान का बेटा था।\n\nउसने अपना पहला प्यार स्पीडर रेसिंग में पाया, अपने गृहलोक के विशाल पेड़ों की छतरी और सुंदर दृश्यों के बीच तेजी से निकलना। रेसिंग की संदिग्ध दुनिया ने उसे यह सीखने के लिए भी मजबूर किया कि कैसे एक सटीक शब्द या एक तेज़ गोली से अपना बचाव किया जाए।}</SpeederRacer71.description>
   <!-- EN: speeder racer -->
   <SpeederRacer71.title>{PAWN_gender ? गति-दौड़ प्रतियोगी : तेज़ रफ़्तार रेसर}</SpeederRacer71.title>
   <!-- EN: racer -->
@@ -2074,21 +2074,21 @@
   <SpoiledChild80.titleShortFemale>लाड़ली, बिगड़ैल महिला</SpoiledChild80.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a stableboy on a medieval planet, mucking dung almost every day to earn [PAWN_possessive] keep.\n\nBy the time [PAWN_pronoun] was exiting childhood, [PAWN_nameDef] had saved up enough money to pay a space trader to take [PAWN_objective] offworld. -->
-  <Stableboy49.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुगीन ग्रह पर अस्तबल का नौकर थी, जो अपना जीवन यापन करने के लिए लगभग हर दिन गोबर साफ करती थी।\n\nजब वह बचपन से बाहर निकल रही थी, [PAWN_nameDef] ने पर्याप्त धन जमा कर लिया था कि एक अंतरिक्ष व्यापारी उसे ग्रह से बाहर ले जाए। : [PAWN_nameDef] एक मध्ययुगीन ग्रह पर अस्तबल का नौकर था, जो अपना जीवन यापन करने के लिए लगभग हर दिन गोबर साफ करता था।\n\nजब वह बचपन से बाहर निकल रहा था, [PAWN_nameDef] ने पर्याप्त धन जमा कर लिया था कि एक अंतरिक्ष व्यापारी उसे ग्रह से बाहर ले जाए।}</Stableboy49.description>
+  <Stableboy49.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुग के ग्रह पर अस्तबल की कामगार थी, जो अपना गुजारा करने के लिए लगभग हर दिन गोबर साफ करती थी।\n\nजब तक वह अपने बचपन से बाहर निकल रही थी, [PAWN_nameDef] ने एक अंतरिक्ष व्यापारी को खुद को दूसरे ग्रह ले जाने के लिए भुगतान करने हेतु पर्याप्त पैसे बचा लिए थे। : [PAWN_nameDef] एक मध्ययुग के ग्रह पर अस्तबल का लड़का था, जो अपना गुजारा करने के लिए लगभग हर दिन गोबर साफ करता था।\n\nजब तक उसका बचपन समाप्त हो रहा था, [PAWN_nameDef] ने इतना पैसा बचा लिया था कि वह किसी अंतरिक्ष व्यापारी को खुद को दूसरे ग्रह ले जाने के लिए भुगतान कर सके।}</Stableboy49.description>
   <!-- EN: stableboy -->
   <Stableboy49.title>स्थिर लड़का</Stableboy49.title>
   <!-- EN: stableboy -->
   <Stableboy49.titleShort>स्थिर लड़का</Stableboy49.titleShort>
   
   <!-- EN: Raised on Amen-Ti, glitterworld capital of the Star Empire, [PAWN_nameFull] had an easy childhood.\n\nAs a youth, [PAWN_nameDef] decided that joining the Starforce would be [PAWN_possessive] way of giving back to the Empire. -->
-  <StarforceCadet79.description>{PAWN_gender ? अमेन-टी पर पली-बढ़ी, स्टार एम्पायर की चमकती राजधानी, [PAWN_nameFull] का बचपन आसान था।\n\nएक युवती के रूप में, [PAWN_nameDef] ने फैसला किया कि स्टारफोर्स में शामिल होना साम्राज्य को वापस देने का उसका तरीका होगा। : अमेन-टी पर पले-बढ़े, स्टार एम्पायर की चमकती राजधानी में, [PAWN_nameFull] का बचपन आसान था।\n\nएक युवा के रूप में, [PAWN_nameDef] ने फैसला किया कि स्टारफोर्स में शामिल होना साम्राज्य को वापस देने का उसका तरीका होगा।}</StarforceCadet79.description>
+  <StarforceCadet79.description>{PAWN_gender ? स्टार एम्पायर की चमकदार दुनिया के राजधानी, अमेन-टी पर पली-बढ़ी, [PAWN_nameFull] का बचपन बहुत आसान था।\n\nएक युवा के रूप में, [PAWN_nameDef] ने निर्णय लिया कि स्टारफोर्स में शामिल होना साम्राज्य को वापस देने का उनका तरीका होगा। : स्टार एम्पायर की चमकदार दुनिया राजधानी, अमेन-टी पर पले-बढ़े, [PAWN_nameFull] का बचपन बहुत आसान था।\n\nएक युवा के रूप में, [PAWN_nameDef] ने निर्णय लिया कि स्टारफोर्स में शामिल होना साम्राज्य को वापस देने का उनका तरीका होगा।}</StarforceCadet79.description>
   <!-- EN: starforce cadet -->
   <StarforceCadet79.title>स्टारफोर्स कैडेट</StarforceCadet79.title>
   <!-- EN: cadet -->
   <StarforceCadet79.titleShort>कैडेट</StarforceCadet79.titleShort>
   
   <!-- EN: Born on a medieval world, [PAWN_nameDef]'s first memory is of gazing up into the night's sky. \n\nEver since, [PAWN_pronoun] dreamed of squiring for a knight amidst the star-filled heavens. [PAWN_possessive] focus on that vision left [PAWN_objective] somewhat single-minded. -->
-  <StarSquire9.description>{PAWN_gender ? मध्ययुगीन दुनिया में जन्मी, [PAWN_nameDef] की पहली स्मृति रात के आकाश में ऊपर देखने की है।\n\nतब से, उसने तारों से भरे आकाश के बीच किसी शूरवीर के लिए एक प्रशिक्षु बनने का सपना देखा। उस दृष्टि पर उसका ध्यान केंद्रित रहने के कारण वह कुछ हद तक एकाग्रचित्त हो गई। : मध्ययुगीन दुनिया में जन्मे, [PAWN_nameDef] की पहली स्मृति रात के आकाश में ऊपर देखने की है।\n\nतब से, उसने तारों से भरे आकाश के बीच किसी शूरवीर के लिए एक सहायक बनने का सपना देखा। उस दृष्टि पर उसके ध्यान ने उसे कुछ हद तक एकनिष्ठ बना दिया।}</StarSquire9.description>
+  <StarSquire9.description>{PAWN_gender ? एक मध्ययुगीन दुनिया में जन्मी, [PAWN_nameDef] की पहली याद रात के आकाश को निहारने की है।\n\nतब से, उसने सितारों से भरे आसमान के बीच एक शूरवीर के सहायक बनने का सपना देखा। उस दृष्टि पर उसके ध्यान ने उसे कुछ हद तक एकध्रुवीय बना दिया। : एक मध्ययुगीन दुनिया में जन्मे, [PAWN_nameDef] की पहली याद रात के आकाश को निहारने की है।\n\nतब से, उसने सितारों से भरे आसमान के बीच एक शूरवीर के सहायक बनने का सपना देखा। उस दृष्टि पर उसके ध्यान ने उसे कुछ हद तक एकध्रुवीय बना दिया।}</StarSquire9.description>
   <!-- EN: star squire -->
   <StarSquire9.title>सितारा स्क्वाइर</StarSquire9.title>
   <StarSquire9.titleFemale>सितारा स्क्वायर</StarSquire9.titleFemale>
@@ -2115,7 +2115,7 @@
   <SteamworldTinker38.titleShortFemale>मैकेनिकी, कुशल कारीगर</SteamworldTinker38.titleShortFemale>
   
   <!-- EN: A steward on medieval merchant ships, [PAWN_nameDef] was well-traveled on [PAWN_possessive] homeworld by [PAWN_possessive] early teens.\n\nThe constant orders from [PAWN_possessive] captain, however, fostered a defiant streak, as well as a general disaste for anything [PAWN_pronoun] considered to be busywork. -->
-  <StewardsAssisant28.description>{PAWN_gender ? नौकरानी, [PAWN_nameDef] अपनी किशोरावस्था की शुरुआत तक अपने गृह ग्रह पर मध्ययुगीन व्यापारी जहाजों पर अच्छी तरह से यात्रा कर चुकी थी।\n\nहालांकि, उसके कप्तान के लगातार आदेशों ने एक विद्रोही प्रवृत्ति को बढ़ावा दिया, साथ ही किसी भी ऐसी चीज़ के प्रति सामान्य तिरस्कार भी पैदा किया जिसे वह व्यर्थ का काम मानती थी। : नौकरशाह मध्ययुगीन व्यापारी जहाजों पर, [PAWN_nameDef] अपनी किशोरावस्था की शुरुआत तक अपने गृह ग्रह पर खूब यात्रा कर चुका था।\n\nउसके कप्तान के लगातार आदेशों ने, हालांकि, एक विद्रोही प्रवृत्ति को बढ़ावा दिया, साथ ही किसी भी ऐसी चीज़ के प्रति सामान्य तिरस्कार भी पैदा किया जिसे वह व्यर्थ का काम मानता था।}</StewardsAssisant28.description>
+  <StewardsAssisant28.description>{PAWN_gender ? मध्ययुग के व्यापारी जहाजों पर एक प्रबंधक के रूप में, [PAWN_nameDef] अपने शुरुआती किशोरावस्था तक ही अपने गृह ग्रह पर काफी यात्रा कर चुकी थी।\n\nहालाँकि, उसके कप्तान के निरंतर आदेशों ने उसमें एक विद्रोही स्वभाव और किसी भी ऐसी चीज़ के प्रति सामान्य अरुचि पैदा कर दी जिसे वह केवल फालतू का काम समझती थी। : मध्ययुग के व्यापारी जहाजों पर एक प्रबंधक के रूप में, [PAWN_nameDef] अपनी किशोरावस्था की शुरुआत तक ही अपने गृहग्रह पर काफी यात्रा कर चुका था।\n\nहालाँकि, उसके कप्तान के निरंतर आदेशों ने उसमें एक विद्रोही स्वभाव और किसी भी ऐसी चीज़ के प्रति सामान्य अरुचि पैदा कर दी जिसे वह व्यर्थ का काम समझता था।}</StewardsAssisant28.description>
   <!-- EN: Steward's assistant -->
   <StewardsAssisant28.title>स्टेवर्ड सहायक</StewardsAssisant28.title>
   <!-- EN: Steward -->
@@ -2149,7 +2149,7 @@
   <StreetKid19.titleShortFemale>गली की बच्ची</StreetKid19.titleShortFemale>
   
   <!-- EN: Growing up on an industrial midworld where robberies and muggings weren't uncommon, [PAWN_nameDef] helped support [PAWN_possessive] family by making small trinkets and novelties to sell to passers-by.\n\n[PAWN_pronoun] learned early on that it wasn't always what [PAWN_pronoun] knew, but who [PAWN_pronoun] knew that would get [PAWN_objective] far in life. -->
-  <StreetPeddler66.description>{PAWN_gender ? औद्योगिक मध्य-विश्व में पली-बढ़ी [PAWN_nameDef] ने अपनी पारिवारिक आय में मदद करने के लिए छोटी-छोटी सजावटी वस्तुएँ और नवीनताएँ बनाकर राहगीरों को बेचीं।\n\nउसने जल्दी ही सीख लिया कि जीवन में आगे बढ़ने के लिए यह ज़रूरी नहीं था कि वह क्या जानती है, बल्कि वह किसे जानती है, यह ज़्यादा मायने रखता था। : औद्योगिक मध्य-विश्व में बड़े हुए, जहाँ डकैतियाँ और लूटपाट असामान्य नहीं थीं, [PAWN_nameDef] ने अपने परिवार का समर्थन करने के लिए छोटी-छोटी कलाकृतियाँ और नवीनताएँ बनाकर राहगीरों को बेचीं।\n\nउन्होंने जल्दी ही सीख लिया कि जीवन में आगे बढ़ने के लिए यह ज़रूरी नहीं था कि वह क्या जानते हैं, बल्कि वह किसे जानते हैं।}</StreetPeddler66.description>
+  <StreetPeddler66.description>{PAWN_gender ? एक औद्योगिक युग वाली मध्य दुनिया में पली-बढ़ी, जहाँ लूटपाट और झपटमारी आम बात थी, [PAWN_nameDef] ने राहगीरों को बेचने के लिए छोटे-मोटे आभूषण और अनोखी वस्तुएं बनाकर अपने परिवार का सहारा देने में मदद की।\n\nउसने बहुत पहले ही सीख लिया था कि जीवन में आगे बढ़ने के लिए केवल उसका ज्ञान ही काफी नहीं था, बल्कि उसकी पहचान और जान-पहचान भी उतनी ही महत्वपूर्ण थी। : एक औद्योगिक युग की मध्य दुनिया में बड़े होते हुए जहाँ लूटपाट और झपटमारी आम बात थी, [PAWN_nameDef] ने राहगीरों को बेचने के लिए छोटे-मोटे आभूषण और अनोखी वस्तुएं बनाकर अपने परिवार का सहारा देने में मदद की।\n\nउसने बहुत पहले ही यह सीख लिया था कि जीवन में उसे आगे ले जाने वाली चीज़ केवल उसका ज्ञान नहीं, बल्कि उसके जान-पहचान वाले लोग थे।}</StreetPeddler66.description>
   <!-- EN: street peddler -->
   <StreetPeddler66.title>सड़क विक्रेता</StreetPeddler66.title>
   <StreetPeddler66.titleFemale>सड़क विक्रेता</StreetPeddler66.titleFemale>
@@ -2167,7 +2167,7 @@
   <StreetUrchin45.titleShortFemale>गली की चूही</StreetUrchin45.titleShortFemale>
   
   <!-- EN: Born to a poor family on an urbworld, [PAWN_nameDef] was abandoned on the streets at a young age.\n\n[PAWN_pronoun] learned to steal and kill to survive the ruthless streets, gaining skills in melee and ranged combat. There was little time for talk in [PAWN_possessive] life. -->
-  <StreetUrchin53.description>{PAWN_gender ? शहरी दुनिया में एक गरीब परिवार में जन्मी, [PAWN_nameDef] को कम उम्र में ही सड़कों पर छोड़ दिया गया।\n\nउसने जीवित रहने के लिए चोरी और हत्या करना सीखा, जिससे उसे हाथापाई और लंबी दूरी की लड़ाई में कौशल प्राप्त हुआ। उसके जीवन में बातचीत के लिए बहुत कम समय था। : एक शहरी दुनिया में एक गरीब परिवार में जन्मे, [PAWN_nameDef] को कम उम्र में ही सड़कों पर छोड़ दिया गया था।\n\nउसने बेरहम सड़कों पर जीवित रहने के लिए चोरी और हत्या करना सीखा, जिससे उसे हाथापाई और लंबी दूरी की लड़ाई में कौशल प्राप्त हुआ। उसके जीवन में बातचीत के लिए बहुत कम समय था।}</StreetUrchin53.description>
+  <StreetUrchin53.description>{PAWN_gender ? एक शहरी दुनिया में एक गरीब परिवार में जन्मी, [PAWN_nameDef] को कम उम्र में ही सड़कों पर छोड़ दिया गया था।\n\nउसने क्रूर सड़कों पर जीवित रहने के लिए चोरी करना और मारना सीखा, जिससे उसने नज़दीकी युद्ध और दूरी से युद्ध में कौशल प्राप्त किया। उसके जीवन में बात करने के लिए बहुत कम समय था। : एक शहरी दुनिया में एक गरीब परिवार में जन्मे, [PAWN_nameDef] को कम उम्र में ही सड़कों पर छोड़ दिया गया था।\n\nउसने क्रूर सड़कों पर जीवित रहने के लिए चोरी करना और मारना सीखा, जिससे उसने नज़दीकी युद्ध और दूरी से युद्ध में कौशल प्राप्त किया। उसके जीवन में बात करने के लिए बहुत कम समय था।}</StreetUrchin53.description>
   <!-- EN: street urchin -->
   <StreetUrchin53.title>गली का आवारा बालक</StreetUrchin53.title>
   <StreetUrchin53.titleFemale>गली की आवारा लड़की</StreetUrchin53.titleFemale>
@@ -2244,7 +2244,7 @@
   <TechnicalKid1.titleShortFemale>तकनीकी बालिका</TechnicalKid1.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] hung around a group of local luddite farmers on [PAWN_possessive] midworld. They helped [PAWN_objective] practice shooting every single day, and passed on some basic farming skills. They also taught [PAWN_nameDef] how to focus on working hard with your hands instead of getting distracted by highfalutin' ideas and clever machines. -->
-  <TechScholar75.description>{PAWN_gender ? [PAWN_nameDef] अपने मध्य-विश्व पर स्थानीय लुडाइट किसानों के एक समूह के आसपास घूमती रही। उन्होंने उसे हर दिन शूटिंग का अभ्यास करने में मदद की, और कुछ बुनियादी खेती कौशल भी सिखाए। उन्होंने [PAWN_nameDef] को यह भी सिखाया कि ऊँचे विचारों और चतुर मशीनों से विचलित होने के बजाय अपने हाथों से कड़ी मेहनत पर ध्यान केंद्रित कैसे करें। : [PAWN_nameDef] अपने मध्य-विश्व पर स्थानीय लुडाइट किसानों के एक समूह के साथ घूमता था। उन्होंने उसे हर दिन शूटिंग का अभ्यास करने में मदद की, और कुछ बुनियादी खेती कौशल भी सिखाए। उन्होंने [PAWN_nameDef] को यह भी सिखाया कि ऊँचे विचारों और चतुर मशीनों से विचलित होने के बजाय अपने हाथों से कड़ी मेहनत पर ध्यान केंद्रित कैसे करें।}</TechScholar75.description>
+  <TechScholar75.description>{PAWN_gender ? [PAWN_nameDef] अपनी मध्य दुनिया में स्थानीय लुडाइट किसानों के एक समूह के साथ रहा करती थी। उन्होंने हर दिन उसे निशाना लगाने का अभ्यास करने में मदद की, और खेती के कुछ बुनियादी कौशल भी सिखाए। उन्होंने [PAWN_nameDef] को यह भी सिखाया कि कैसे ऊँचे-ऊँचे विचारों और चतुर मशीनों से विचलित होने के बजाय अपने हाथों से कड़ी मेहनत करने पर ध्यान केंद्रित किया जाए। : [PAWN_nameDef] अपनी मध्य दुनिया में स्थानीय लुडाइट किसानों के एक समूह के साथ रहा करता था। उन्होंने हर दिन उसे निशाना लगाने का अभ्यास करने में मदद की, और खेती के कुछ बुनियादी कौशल भी सिखाए। उन्होंने [PAWN_nameDef] को यह भी सिखाया कि कैसे ऊँचे-ऊँचे विचारों और चतुर मशीनों से विचलित होने के बजाय अपने हाथों से कड़ी मेहनत करने पर ध्यान केंद्रित किया जाए।}</TechScholar75.description>
   <!-- EN: farm kid -->
   <TechScholar75.title>किसान लड़का</TechScholar75.title>
   <TechScholar75.titleFemale>किसान लड़की</TechScholar75.titleFemale>
@@ -2278,7 +2278,7 @@
   <Tinkerer79.titleShortFemale>मर्मकार (Marmkar)</Tinkerer79.titleShortFemale>
   
   <!-- EN: Growing up on a an industrial planet, [PAWN_nameDef] started working in a chemical plant at age of six. Years of exposure to industrial toxins left [PAWN_objective] mentally scarred.\n\n[PAWN_pronoun] eventually blew up the facility and escaped the planet in a stolen cargo ship. -->
-  <ToxicChild96.description>{PAWN_gender ? औद्योगिक ग्रह पर पली-बढ़ी [PAWN_nameDef] ने छह वर्ष की आयु में एक रासायनिक संयंत्र में काम करना शुरू कर दिया। वर्षों तक औद्योगिक विषाक्त पदार्थों के संपर्क में रहने से वह मानसिक रूप से घायल हो गई।\n\nअंततः उसने उस सुविधा को उड़ा दिया और एक चोरी किए गए मालवाहक जहाज में ग्रह से भाग गई। : औद्योगिक ग्रह पर बड़ा हुआ, [PAWN_nameDef] ने छह वर्ष की आयु में एक रासायनिक संयंत्र में काम करना शुरू कर दिया। वर्षों तक औद्योगिक विषाक्त पदार्थों के संपर्क में रहने से वह मानसिक रूप से घायल हो गया।\n\nअंततः उसने उस सुविधा को उड़ा दिया और एक चोरी किए गए मालवाहक जहाज में ग्रह से भाग गया।}</ToxicChild96.description>
+  <ToxicChild96.description>{PAWN_gender ? एक औद्योगिक युग के ग्रह पर पली-बढ़ी, [PAWN_nameDef] ने छह साल की उम्र में एक रासायनिक कारखाने में काम करना शुरू कर दिया था। औद्योगिक विषाक्त पदार्थों के वर्षों के संपर्क ने उसे मानसिक रूप से आहत कर दिया था।\n\nउसने अंततः उस सुविधा को उड़ा दिया और एक चोरी किए गए कार्गो जहाज से ग्रह से भाग निकली। : एक औद्योगिक युग के ग्रह पर बड़े होते हुए, [PAWN_nameDef] ने छह साल की उम्र में एक केमिकल प्लांट में काम करना शुरू कर दिया था। औद्योगिक युग के विषाक्त पदार्थों के वर्षों के संपर्क ने उसे मानसिक रूप से आहत कर दिया।\n\nउसने अंततः उस सुविधा को उड़ा दिया और एक चोरी किए गए कार्गो जहाज से ग्रह से भाग निकला।}</ToxicChild96.description>
   <!-- EN: toxic child -->
   <ToxicChild96.title>विषाक्त बालक</ToxicChild96.title>
   <ToxicChild96.titleFemale>विषाक्त बच्ची</ToxicChild96.titleFemale>
@@ -2304,14 +2304,14 @@
   <TragicLoner87.titleShortFemale>अकेली महिला</TragicLoner87.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up on a medieval world. [PAWN_pronoun] learned the basics of alchemy and medicine in one the few monastic schools on [PAWN_possessive] planet. -->
-  <TraineeAlchemist64.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुगीन दुनिया में पली-बढ़ी। उसने अपने ग्रह के कुछ मठ विद्यालयों में से एक में रसायन विज्ञान और चिकित्सा की मूल बातें सीखीं। : [PAWN_nameDef] एक मध्ययुगीन दुनिया में पला-बढ़ा। उसने अपने ग्रह के कुछ मठ विद्यालयों में से एक में रसायन विज्ञान और चिकित्सा की मूल बातें सीखीं।}</TraineeAlchemist64.description>
+  <TraineeAlchemist64.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुगीन दुनिया में पली-बढ़ी। उसने अपने ग्रह के कुछ मठवासी स्कूलों में से एक में कीमिया और दवा की बुनियादी बातें सीखीं। : [PAWN_nameDef] एक मध्ययुगीन दुनिया में पला-बढ़ा। उसने अपने ग्रह के कुछ मठों में से एक स्कूल में कीमिया और दवा की बुनियादी बातें सीखीं।}</TraineeAlchemist64.description>
   <!-- EN: trainee alchemist -->
   <TraineeAlchemist64.title>{PAWN_gender ? प्रशिक्षु रसायनज्ञ : प्रशिक्षु रसायनशास्त्री}</TraineeAlchemist64.title>
   <!-- EN: alchemist -->
   <TraineeAlchemist64.titleShort>{PAWN_gender ? रसायनज्ञ महिला : रसायनज्ञ}</TraineeAlchemist64.titleShort>
   
   <!-- EN: A midworld child, [PAWN_nameDef]'s wealthy parents sent [PAWN_objective] to a nearby glitterworld to receive a better education.\n\n[PAWN_nameDef] was a talented student. However, due to [PAWN_possessive] family's wealth, [PAWN_pronoun] never had to do dumb labor. -->
-  <TransferStudent10.description>{PAWN_gender ? मध्य-विश्व की एक बच्ची, [PAWN_nameDef] के धनी माता-पिता ने उसे बेहतर शिक्षा प्राप्त करने के लिए एक निकटवर्ती चमकते ग्रह पर भेजा।\n\n[PAWN_nameDef] एक प्रतिभाशाली छात्रा थी। हालाँकि, अपने परिवार की संपत्ति के कारण, उसे कभी भी मूर्खतापूर्ण श्रम नहीं करना पड़ा। : एक मध्य-विश्व बालक, [PAWN_nameDef] के धनी माता-पिता ने उसे बेहतर शिक्षा प्राप्त करने के लिए एक निकटवर्ती चमकते ग्रह पर भेजा।\n\n[PAWN_nameDef] एक प्रतिभाशाली छात्र था। हालाँकि, अपने परिवार की संपत्ति के कारण, उसे कभी भी मूर्खतापूर्ण श्रम नहीं करना पड़ा।}</TransferStudent10.description>
+  <TransferStudent10.description>{PAWN_gender ? एक मध्य दुनिया की बच्ची, [PAWN_nameDef] के अमीर माता-पिता ने उसे बेहतर शिक्षा प्राप्त करने के लिए पास की एक चमकदार दुनिया में भेज दिया।\n\n[PAWN_nameDef] एक प्रतिभाशाली छात्रा थी। हालाँकि, अपने परिवार की संपत्ति के कारण, उसे कभी भी मूर्खतापूर्ण श्रम नहीं करना पड़ा। : एक मध्य दुनिया का बच्चा, [PAWN_nameDef] के अमीर माता-पिता ने उसे बेहतर शिक्षा प्राप्त करने के लिए पास की एक चमकदार दुनिया में भेज दिया।\n\n[PAWN_nameDef] एक प्रतिभाशाली छात्र था। हालाँकि, अपने परिवार की संपत्ति के कारण, उसे कभी भी मूर्खतापूर्ण श्रम नहीं करना पड़ा।}</TransferStudent10.description>
   <!-- EN: transfer student -->
   <TransferStudent10.title>स्थानांतरित छात्र</TransferStudent10.title>
   <TransferStudent10.titleFemale>स्थानांतरित छात्रा</TransferStudent10.titleFemale>
@@ -2319,7 +2319,7 @@
   <TransferStudent10.titleShort>{PAWN_gender ? छात्रा : छात्र}</TransferStudent10.titleShort>
   
   <!-- EN: [PAWN_nameDef] lived on a pleasant midworld.\n\n[PAWN_possessive] body purist mother fell sick with heart disease. In desperation, [PAWN_nameDef]'s father abducted innocent people and harvested their hearts. [PAWN_nameDef]'s father was arrested, but the child remained scarred from the experience. -->
-  <TraumatizedYouth87.description>{PAWN_gender ? [PAWN_nameDef] एक सुखद मध्य-विश्व पर रहती थी।\n\nउनकी शरीर शुद्धतावादी माँ को हृदय रोग हो गया। निराशा में, [PAWN_nameDef] के पिता ने निर्दोष लोगों का अपहरण किया और उनके हृदय निकाले। [PAWN_nameDef] के पिता को गिरफ्तार कर लिया गया, लेकिन बच्ची उस अनुभव से हमेशा के लिए आहत रही। : [PAWN_nameDef] एक सुखद मध्य-विश्व पर रहता था।\n\nउसकी शरीर शुद्धतावादी माँ को हृदय रोग हो गया। हताशा में, [PAWN_nameDef] के पिता ने निर्दोष लोगों का अपहरण किया और उनके हृदय निकाले। [PAWN_nameDef] के पिता को गिरफ्तार कर लिया गया, लेकिन बच्चा उस अनुभव से हमेशा के लिए आहत रहा।}</TraumatizedYouth87.description>
+  <TraumatizedYouth87.description>{PAWN_gender ? [PAWN_nameDef] एक सुखद मध्य दुनिया में रहती थी।\n\nउसकी शरीर-शुद्धतावादी माँ हृदय रोग से बीमार हो गई। हताशा में, [PAWN_nameDef] के पिता ने निर्दोष लोगों का अपहरण किया और उनके दिलों को निकाल लिया। [PAWN_nameDef] के पिता को गिरफ्तार कर लिया गया, लेकिन वह बच्ची इस अनुभव से आहत रह गई। : [PAWN_nameDef] एक सुखद मध्य दुनिया में रहता था।\n\nउसकी शरीर-शुद्धतावादी माँ हृदय रोग से बीमार हो गई। हताशा में, [PAWN_nameDef] के पिता ने निर्दोष लोगों का अपहरण किया और उनके दिलों को निकाल लिया। [PAWN_nameDef] के पिता को गिरफ्तार कर लिया गया, लेकिन वह बच्चा इस अनुभव से आहत रह गया।}</TraumatizedYouth87.description>
   <!-- EN: traumatized youth -->
   <TraumatizedYouth87.title>आघातग्रस्त युवा</TraumatizedYouth87.title>
   <TraumatizedYouth87.titleFemale>आघातग्रस्त युवती</TraumatizedYouth87.titleFemale>
@@ -2344,52 +2344,52 @@
   <TurtleHerder41.titleShort>{PAWN_gender ? पशुपालिका : पशुपालक}</TurtleHerder41.titleShort>
   
   <!-- EN: [PAWN_nameDef] had a privileged childhood on a major urbworld. Living in an apartment far above the dense poverty of the city, [PAWN_pronoun] spent most of [PAWN_possessive] time reading or drawing the cityscape [PAWN_pronoun] saw through [PAWN_possessive] window. -->
-  <UpperUrbworlder12.description>[PAWN_nameDef] का जन्म एक प्रमुख शहरी दुनिया में विशेषाधिकार प्राप्त बचपन में हुआ था। शहर की घनी गरीबी से बहुत ऊपर एक अपार्टमेंट में रहने के कारण, उसने अपना अधिकांश समय पढ़कर या अपनी खिड़की से देखे गए शहर के दृश्य को चित्रित करते हुए बिताया।</UpperUrbworlder12.description>
+  <UpperUrbworlder12.description>{PAWN_gender ? [PAWN_nameDef] का बचपन एक प्रमुख शहरी दुनिया में बहुत ही सुखद और विशेषाधिकार प्राप्त रहा। शहर की घनी गरीबी से बहुत ऊपर एक अपार्टमेंट में रहते हुए, उसने अपना अधिकांश समय पढ़ने या अपनी खिड़की से दिखने वाले शहर के दृश्य का चित्र बनाने में बिताया। : [PAWN_nameDef] का बचपन एक प्रमुख शहरी दुनिया में बहुत ही सुखी और विशेषाधिकार प्राप्त रहा। शहर की घनी गरीबी से बहुत ऊपर एक अपार्टमेंट में रहते हुए, उसने अपना अधिकांश समय पढ़ने या अपनी खिड़की से दिखने वाले शहर के दृश्यों का चित्र बनाने में बिताया।}</UpperUrbworlder12.description>
   <!-- EN: upper urbworlder -->
   <UpperUrbworlder12.title>ऊपरी शहरी दुनियावासी</UpperUrbworlder12.title>
   <!-- EN: high urber -->
   <UpperUrbworlder12.titleShort>उच्च शहरी</UpperUrbworlder12.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up on an urbworld military base. [PAWN_pronoun] was too young to fight, but [PAWN_pronoun] learned to make [PAWN_objective]self useful in other ways.\n\n[PAWN_pronoun] became familiar with guns and military equipment, but never really got in touch with the natural world. -->
-  <UrbworldArmyBrat84.description>{PAWN_gender ? [PAWN_nameDef] एक शहरी दुनिया के सैन्य अड्डे पर पली-बढ़ी। वह लड़ने के लिए बहुत छोटी थी, लेकिन उसने अन्य तरीकों से खुद को उपयोगी बनाना सीखा।\n\nवह बंदूकों और सैन्य उपकरणों से परिचित हो गई, लेकिन कभी भी वास्तव में प्राकृतिक दुनिया के संपर्क में नहीं आई। : [PAWN_nameDef] एक शहरी दुनिया के सैन्य अड्डे पर पला-बढ़ा। वह लड़ने के लिए बहुत छोटा था, लेकिन उसने अन्य तरीकों से खुद को उपयोगी बनाना सीखा।\n\nवह बंदूकों और सैन्य उपकरणों से परिचित हो गया, लेकिन कभी भी वास्तव में प्राकृतिक दुनिया के संपर्क में नहीं आया।}</UrbworldArmyBrat84.description>
+  <UrbworldArmyBrat84.description>{PAWN_gender ? [PAWN_nameDef] एक शहरी दुनिया के सैन्य अड्डे पर पली-बढ़ी। वह लड़ने के लिए बहुत छोटी थी, लेकिन उसने अन्य तरीकों से खुद को उपयोगी बनाना सीख लिया था।\n\nवह बंदूकों और सैन्य उपकरणों से परिचित हो गई, लेकिन प्रकृति की दुनिया से उसका कभी वास्तव में संपर्क नहीं हो पाया। : [PAWN_nameDef] एक शहरी दुनिया के सैन्य अड्डे पर पला-बढ़ा। वह लड़ने के लिए बहुत छोटा था, लेकिन उसने अन्य तरीकों से खुद को उपयोगी बनाना सीख लिया था।\n\nवह बंदूकों और सैन्य उपकरणों से परिचित हो गया, लेकिन प्राकृतिक दुनिया से उसका कभी वास्तव में संपर्क नहीं हो पाया।}</UrbworldArmyBrat84.description>
   <!-- EN: urbworld army brat -->
-  <UrbworldArmyBrat84.title>शहरी दुनिया का सैन्य पुत्र</UrbworldArmyBrat84.title>
-  <UrbworldArmyBrat84.titleFemale>शहरी सेना की बेटी</UrbworldArmyBrat84.titleFemale>
+  <UrbworldArmyBrat84.title>शहरी दुनिया का सेना पुत्र</UrbworldArmyBrat84.title>
+  <UrbworldArmyBrat84.titleFemale>शहरी दुनिया की सेना की बेटी</UrbworldArmyBrat84.titleFemale>
   <!-- EN: army brat -->
   <UrbworldArmyBrat84.titleShort>सैनिक का बेटा</UrbworldArmyBrat84.titleShort>
   <UrbworldArmyBrat84.titleShortFemale>सैन्य पृष्ठभूमि वाली महिला</UrbworldArmyBrat84.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] had an isolated upbringing on an urbworld. [PAWN_possessive] hatred of heights kept [PAWN_objective] indoors often, and made [PAWN_objective] an introverted child.\n\nWhen [PAWN_pronoun] did go out onto the catwalks of the city, [PAWN_pronoun] enjoyed playing war games, becoming proficient with various simulation weapons. -->
-  <UrbworldChild56.description>{PAWN_gender ? [PAWN_nameDef] का जन्म एक शहरी दुनिया में एकांत में हुआ था। ऊंचाइयों से उसकी नफ़रत ने उसे अक्सर घर के अंदर रखा, और उसे एक अंतर्मुखी बच्ची बना दिया।\n\nजब वह शहर के कैटवॉक पर बाहर जाती थी, तो उसे युद्ध खेल खेलना पसंद था, और वह विभिन्न सिमुलेशन हथियारों में कुशल हो गई। : [PAWN_nameDef] का जन्म एक शहरी दुनिया में एकांत में हुआ था। ऊंचाइयों से उसकी नफ़रत ने उसे अक्सर घर के अंदर रखा, और उसे एक अंतर्मुखी बच्चा बना दिया।\n\nजब वह शहर के कैटवॉक पर बाहर जाता था, तो उसे युद्ध खेल खेलना पसंद था, और वह विभिन्न सिमुलेशन हथियारों में कुशल हो गया।}</UrbworldChild56.description>
+  <UrbworldChild56.description>{PAWN_gender ? [PAWN_nameDef] का पालन-पोषण एक शहरी दुनिया में एकांत में हुआ था। ऊंचाइयों के प्रति उसके डर ने उसे अक्सर घर के भीतर ही रखा, जिससे वह एक अंतर्मुखी बच्ची बन गई।\n\nजब वह शहर के कैटवॉक पर बाहर निकलती थी, तो उसे युद्ध के खेल खेलना पसंद था, जिससे वह विभिन्न सिमुलेशन हथियारों में कुशल हो गई। : [PAWN_nameDef] का पालन-पोषण एक शहरी दुनिया में एकांत में हुआ था। ऊंचाइयों के प्रति उसके डर ने उसे अक्सर घर के भीतर ही रखा, जिससे वह एक अंतर्मुखी बच्चा बन गया।\n\nजब वह शहर के कैटवॉक पर बाहर जाता था, तो उसे युद्ध के खेल खेलना पसंद था, जिससे वह विभिन्न सिमुलेशन हथियारों में कुशल हो गया।}</UrbworldChild56.description>
   <!-- EN: urbworld child -->
-  <UrbworldChild56.title>शहरी बालक</UrbworldChild56.title>
-  <UrbworldChild56.titleFemale>शहरी बच्ची</UrbworldChild56.titleFemale>
+  <UrbworldChild56.title>शहरी दुनिया का बच्चा</UrbworldChild56.title>
+  <UrbworldChild56.titleFemale>शहरी दुनिया की बच्ची</UrbworldChild56.titleFemale>
   <!-- EN: urbkid -->
   <UrbworldChild56.titleShort>शहरी बालक</UrbworldChild56.titleShort>
   <UrbworldChild56.titleShortFemale>शहरी युवती</UrbworldChild56.titleShortFemale>
   
   <!-- EN: Born into bad circumstance on an overpopulated urbworld, [PAWN_nameDef] turned to small-time crime as a way to avoid starvation and hypothermia.\n\nRobbery and murder were daily activities for [PAWN_objective]. [PAWN_nameDef] learned that surviving was winning. -->
-  <UrbworldCriminal6.description>{PAWN_gender ? एक अतिजनसंख्या वाले शहरी ग्रह पर बुरी परिस्थितियों में जन्मी, [PAWN_nameDef] ने भुखमरी और हाइपोथर्मिया से बचने के लिए छोटे-मोटे अपराधों का सहारा लिया।\n\nलूटपाट और हत्या उसकी दैनिक गतिविधियाँ थीं। [PAWN_nameDef] ने सीखा कि जीवित रहना जीतना है। : एक अतिजनसंख्या वाले शहरी ग्रह पर प्रतिकूल परिस्थितियों में जन्मे, [PAWN_nameDef] ने भुखमरी और हाइपोथर्मिया से बचने के तरीके के रूप में छोटे-मोटे अपराधों का सहारा लिया।\n\nलूटपाट और हत्या उसकी दैनिक गतिविधियाँ थीं। [PAWN_nameDef] ने सीखा कि जीवित रहना जीतना था।}</UrbworldCriminal6.description>
+  <UrbworldCriminal6.description>{PAWN_gender ? एक अत्यधिक आबादी वाले शहरी दुनिया में खराब परिस्थितियों में पैदा हुई, [PAWN_nameDef] ने भुखमरी और हाइपोथर्मिया से बचने के तरीके के रूप में छोटे स्तर के अपराध का सहारा लिया।\n\nलूटपाट और हत्या उसके लिए दैनिक गतिविधियाँ थीं। [PAWN_nameDef] ने सीखा कि जीवित रहना ही जीतना है। : एक अत्यधिक आबादी वाली शहरी दुनिया में खराब परिस्थितियों में पैदा हुए, [PAWN_nameDef] ने भुखमरी और हाइपोथर्मिया से बचने के तरीके के रूप में छोटे स्तर के अपराध का सहारा लिया।\n\nलूटपाट और हत्या उसके लिए दैनिक गतिविधियाँ थीं। [PAWN_nameDef] ने सीखा कि जीवित रहना ही जीतना है।}</UrbworldCriminal6.description>
   <!-- EN: urbworld criminal -->
-  <UrbworldCriminal6.title>शहरी अपराधी</UrbworldCriminal6.title>
-  <UrbworldCriminal6.titleFemale>शहरी अपराधी महिला</UrbworldCriminal6.titleFemale>
+  <UrbworldCriminal6.title>शहरी दुनिया का अपराधी</UrbworldCriminal6.title>
+  <UrbworldCriminal6.titleFemale>शहरी दुनिया की अपराधी</UrbworldCriminal6.titleFemale>
   <!-- EN: criminal -->
   <UrbworldCriminal6.titleShort>{PAWN_gender ? अपराधी महिला : अपराधी व्यक्ति}</UrbworldCriminal6.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up in a dangerous urbworld. [PAWN_pronoun] quickly learned how to get [PAWN_possessive] daily meal - by crime. Such means left little to no space for cooking and growing activities. -->
-  <UrbworldHooligan12.description>{PAWN_gender ? [PAWN_nameDef] एक खतरनाक शहरी दुनिया में पली-बढ़ी। उसने जल्दी ही अपनी दैनिक भोजन प्राप्त करने का तरीका सीख लिया - अपराध के द्वारा। ऐसे साधनों ने खाना पकाने और खेती-बाड़ी जैसी गतिविधियों के लिए बहुत कम या कोई जगह नहीं छोड़ी। : [PAWN_nameDef] एक खतरनाक शहरी दुनिया में पला-बढ़ा। उसने जल्दी ही अपनी दैनिक भोजन प्राप्त करने का तरीका सीख लिया - अपराध के द्वारा। ऐसे साधनों ने खाना पकाने और खेती-बाड़ी जैसी गतिविधियों के लिए बहुत कम या कोई जगह नहीं छोड़ी।}</UrbworldHooligan12.description>
+  <UrbworldHooligan12.description>{PAWN_gender ? [PAWN_nameDef] एक खतरनाक शहरी दुनिया में पली-बढ़ी। उसने बहुत जल्दी सीख लिया कि अपना दैनिक भोजन कैसे प्राप्त किया जाए - अपराध के माध्यम से। ऐसे साधनों ने खाना पकाने और खेती करने जैसी गतिविधियों के लिए बहुत कम या कोई जगह नहीं छोड़ी थी। : [PAWN_nameDef] एक खतरनाक शहरी दुनिया में पला-बढ़ा। उसने बहुत जल्दी सीख लिया कि अपना दैनिक भोजन कैसे प्राप्त किया जाए - अपराध के माध्यम से। ऐसे साधनों ने खाना पकाने और खेती करने की गतिविधियों के लिए बहुत कम या कोई जगह नहीं छोड़ी थी।}</UrbworldHooligan12.description>
   <!-- EN: urbworld hooligan -->
-  <UrbworldHooligan12.title>शहरी गुंडा</UrbworldHooligan12.title>
-  <UrbworldHooligan12.titleFemale>शहरी गुंडा महिला</UrbworldHooligan12.titleFemale>
+  <UrbworldHooligan12.title>शहरी दुनिया का गुंडा</UrbworldHooligan12.title>
+  <UrbworldHooligan12.titleFemale>शहरी दुनिया की गुंडागर्दी करने वाली</UrbworldHooligan12.titleFemale>
   <!-- EN: hooligan -->
   <UrbworldHooligan12.titleShort>गुंडा बदमाश युवक</UrbworldHooligan12.titleShort>
   <UrbworldHooligan12.titleShortFemale>गुंडा महिला</UrbworldHooligan12.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was born in the darkest slums of [PAWN_possessive] urban homeworld. Neglected by [PAWN_possessive] mother, [PAWN_pronoun] learned to survive on [PAWN_possessive] own, battling for every scrap of food [PAWN_pronoun] saw.\n\nEventually, as [PAWN_possessive] talents exceeded [PAWN_possessive] peers, [PAWN_pronoun] ascended from the depths to the surface streets and left [PAWN_possessive] mother behind. -->
-  <UrbworldUrchin6.description>{PAWN_gender ? [PAWN_nameDef] अपने शहरी गृह-विश्व के सबसे अंधेरे झुग्गी-झोपड़ियों में जन्मी थी। अपनी माँ द्वारा उपेक्षित, उसने अपने दम पर जीवित रहना सीखा, हर टुकड़े भोजन के लिए संघर्ष किया।\n\nअंततः, जब उसकी प्रतिभा अपने साथियों से आगे निकल गई, तो वह गहराई से सतह की सड़कों पर चढ़ गई और अपनी माँ को पीछे छोड़ दिया। : [PAWN_nameDef] अपने शहरी गृह-विश्व के सबसे अंधेरे झुग्गी-झोपड़ियों में पैदा हुआ था। अपनी माँ द्वारा उपेक्षित, उसने अपने दम पर जीवित रहना सीखा, हर टुकड़े भोजन के लिए लड़ता रहा।\n\nअंततः, जब उसकी प्रतिभा अपने साथियों से आगे निकल गई, तो वह गहराई से सतह की सड़कों पर चढ़ गया और अपनी माँ को पीछे छोड़ दिया।}</UrbworldUrchin6.description>
+  <UrbworldUrchin6.description>{PAWN_gender ? [PAWN_nameDef] अपने शहरी गृह-ग्रह की सबसे अंधेरी बस्तियों में पैदा हुई थी। अपनी माँ द्वारा उपेक्षित किए जाने के कारण, उसने अकेले जीवित रहना सीखा, और भोजन के हर एक टुकड़े के लिए संघर्ष किया।\n\nअंततः, जैसे-जैसे उसकी प्रतिभा उसके साथियों से आगे बढ़ती गई, वह गहराइयों से निकलकर सतह की सड़कों तक पहुँच गई और अपनी माँ को पीछे छोड़ दिया। : [PAWN_nameDef] अपने शहरी गृह-ग्रह की सबसे अंधेरी बस्तियों में पैदा हुआ था। अपनी माँ द्वारा उपेक्षित किए जाने के कारण, उसने अकेले जीवित रहना सीखा, और भोजन के हर टुकड़े के लिए संघर्ष किया जो उसे दिखाई देता था।\n\nअंततः, जैसे-जैसे उसकी प्रतिभा उसके साथियों से आगे बढ़ी, वह गहराइयों से निकलकर सतह की सड़कों तक पहुँच गया और अपनी माँ को पीछे छोड़ दिया।}</UrbworldUrchin6.description>
   <!-- EN: urbworld urchin -->
-  <UrbworldUrchin6.title>शहरी आवारा</UrbworldUrchin6.title>
-  <UrbworldUrchin6.titleFemale>शहरी आवारा महिला</UrbworldUrchin6.titleFemale>
+  <UrbworldUrchin6.title>शहरी दुनिया का आवारा बच्चा</UrbworldUrchin6.title>
+  <UrbworldUrchin6.titleFemale>शहरी दुनिया की अनाथ बच्ची</UrbworldUrchin6.titleFemale>
   <!-- EN: urchin -->
   <UrbworldUrchin6.titleShort>आवारा बालक</UrbworldUrchin6.titleShort>
   <UrbworldUrchin6.titleShortFemale>बेघर लड़की</UrbworldUrchin6.titleShortFemale>
@@ -2397,8 +2397,8 @@
   <!-- EN: Abandoned among the filthy concrete spires, [PAWN_nameDef] never knew [PAWN_possessive] parents. [PAWN_pronoun] never received formal education, and often resorted to doing menial labor in exchange for food. Sometimes [PAWN_pronoun] lied, cheated, and stole to survive. -->
   <UrbworldUrchin90.description>{PAWN_gender ? बेतरतीब कंक्रीट के मीनारों के बीच परित्यक्त, [PAWN_nameDef] को कभी अपने माता-पिता का ज्ञान नहीं हुआ। उसे कभी औपचारिक शिक्षा नहीं मिली, और अक्सर भोजन के बदले में तुच्छ श्रम करने का सहारा लेती थी। कभी-कभी वह जीवित रहने के लिए झूठ बोलती, धोखा देती और चोरी करती थी। : गंदी कंक्रीट की मीनारों के बीच परित्यक्त, [PAWN_nameDef] को कभी अपने माता-पिता का पता नहीं चला। उसे कभी औपचारिक शिक्षा नहीं मिली, और अक्सर भोजन के बदले में तुच्छ श्रम करने का सहारा लेता था। कभी-कभी वह जीवित रहने के लिए झूठ बोलता, धोखा देता और चोरी करता था।}</UrbworldUrchin90.description>
   <!-- EN: urbworld urchin -->
-  <UrbworldUrchin90.title>शहरी आवारा</UrbworldUrchin90.title>
-  <UrbworldUrchin90.titleFemale>शहरी अनाथ</UrbworldUrchin90.titleFemale>
+  <UrbworldUrchin90.title>शहरी दुनिया का आवारा बच्चा</UrbworldUrchin90.title>
+  <UrbworldUrchin90.titleFemale>शहरी दुनिया की अनाथ बच्ची</UrbworldUrchin90.titleFemale>
   <!-- EN: urchin -->
   <UrbworldUrchin90.titleShort>आवारा बालक</UrbworldUrchin90.titleShort>
   <UrbworldUrchin90.titleShortFemale>बेघर लड़की</UrbworldUrchin90.titleShortFemale>
@@ -2412,7 +2412,7 @@
   <VatgrownAssassin20.titleShort>{PAWN_gender ? क्लोन प्रतिरूप : क्लोन किया हुआ व्यक्ति}</VatgrownAssassin20.titleShort>
   
   <!-- EN: Raised to be a combat medic, [PAWN_nameDef] was trained in firearms as well as medicine. [PAWN_possessive] favorite phrase when coming upon a wounded soldier was, "Life or death?" Most chose life. -->
-  <VatgrownMedic53.description>{PAWN_gender ? युद्धकालीन चिकित्सक के रूप में पली-बढ़ी, [PAWN_nameDef] को हथियारों के साथ-साथ चिकित्सा का भी प्रशिक्षण दिया गया था। घायल सैनिक को देखकर उनका पसंदीदा वाक्य था, &amp;quot;जीवन या मृत्यु?&amp;quot; अधिकांश ने जीवन चुना। : युद्ध क्षेत्र में चिकित्सा सहायक के रूप में पाला गया, [PAWN_nameDef] को हथियारों के साथ-साथ चिकित्सा में भी प्रशिक्षित किया गया था। घायल सैनिक को देखकर उनका पसंदीदा वाक्य था, &amp;quot;जीवन या मृत्यु?&amp;quot; अधिकांश ने जीवन चुना।}</VatgrownMedic53.description>
+  <VatgrownMedic53.description>{PAWN_gender ? एक कॉम्बैट मेडिक के रूप में पली-बढ़ी, [PAWN_nameDef] को आग्नेयास्त्रों के साथ-साथ दवा का भी प्रशिक्षण दिया गया था। किसी घायल सैनिक को देखने पर उसका पसंदीदा वाक्यांश होता था, "जीवन या मृत्यु?" अधिकांश ने जीवन को चुना। : एक कॉम्बैट मेडिक के रूप में पाले गए, [PAWN_nameDef] को दवाओं के साथ-साथ आग्नेयास्त्रों का भी प्रशिक्षण दिया गया था। किसी घायल सैनिक को देखने पर उनका पसंदीदा वाक्यांश होता था, "जीवन या मृत्यु?" अधिकांश ने जीवन को चुना।}</VatgrownMedic53.description>
   <!-- EN: vatgrown medic -->
   <VatgrownMedic53.title>{PAWN_gender ? कृत्रिम रूप से उगाई गई चिकित्सक : कृत्रिम रूप से उगाया गया चिकित्सक}</VatgrownMedic53.title>
   <!-- EN: medic -->
@@ -2428,14 +2428,14 @@
   <VatgrownScientist91.titleShortFemale>वैज्ञानिक महिला</VatgrownScientist91.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was vat-grown as a slave in an illegal urbworld laboratory. As a young child, [PAWN_pronoun] was taught only to cook, clean and serve [PAWN_possessive] masters. For most of [PAWN_possessive] childhood, [PAWN_pronoun] knew nothing else. -->
-  <VatgrownSlavegirl8.description>{PAWN_gender ? [PAWN_nameDef] को एक अवैध शहरी दुनिया की प्रयोगशाला में दास के रूप में कृत्रिम गर्भाशय में उगाया गया था। बचपन में, उसे केवल खाना बनाना, सफाई करना और अपने मालिकों की सेवा करना सिखाया गया था। अपने बचपन के अधिकांश समय तक, वह कुछ और नहीं जानती थी। : [PAWN_nameDef] को एक अवैध शहरी दुनिया की प्रयोगशाला में दास के रूप में कृत्रिम गर्भाशय में उगाया गया था। बचपन में, उसे केवल खाना बनाना, सफाई करना और अपने मालिकों की सेवा करना सिखाया गया था। अपने बचपन के अधिकांश समय तक, वह कुछ और नहीं जानता था।}</VatgrownSlavegirl8.description>
+  <VatgrownSlavegirl8.description>{PAWN_gender ? [PAWN_nameDef] को एक अवैध शहरी दुनिया प्रयोगशाला में एक गुलाम के रूप में vat-grown किया गया था। एक छोटी बच्ची के रूप में, उसे केवल खाना बनाना, सफाई करना और अपने स्वामियों की सेवा करना सिखाया गया था। अपने बचपन के अधिकांश समय में, वह इसके अलावा कुछ और नहीं जानती थी। : [PAWN_nameDef] को एक अवैध शहरी दुनिया प्रयोगशाला में एक गुलाम के रूप में vat-grown किया गया था। एक छोटे बच्चे के रूप में, उसे केवल खाना पकाने, सफाई करने और अपने स्वामियों की सेवा करने की शिक्षा दी गई थी। अपने बचपन के अधिकांश समय में, वह इसके अलावा कुछ और नहीं जानता था।}</VatgrownSlavegirl8.description>
   <!-- EN: vatgrown slavegirl -->
   <VatgrownSlavegirl8.title>वाट-बढ़ा हुआ दासी लड़की</VatgrownSlavegirl8.title>
   <!-- EN: slave girl -->
   <VatgrownSlavegirl8.titleShort>गुलामी दासी</VatgrownSlavegirl8.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up on a midworld, mostly locked in [PAWN_possessive] room, playing video games. [PAWN_pronoun] was warm-hearted, with a deep fondness for animals.\n\nAs [PAWN_pronoun] grew up, [PAWN_pronoun] turned to drugs to enhance [PAWN_possessive] reality. During these trying times [PAWN_pronoun] found passion and refuge in the gym. -->
-  <VideoGamer16.description>{PAWN_gender ? [PAWN_nameDef] एक मध्य-विश्व में पली-बढ़ी, ज्यादातर समय अपने कमरे में बंद रहती थी और वीडियो गेम खेलती थी। वह गर्मदिल की थी, और जानवरों के प्रति गहरा स्नेह रखती थी।\n\nजैसे-जैसे वह बड़ी हुई, उसने अपनी वास्तविकता को बढ़ाने के लिए नशीली दवाओं का सहारा लिया। इन कठिन समयों के दौरान उसने जिम में जुनून और शरण पाई। : [PAWN_nameDef] एक मध्य-विश्व पर पला-बढ़ा, ज़्यादातर समय अपने कमरे में बंद रहता था और वीडियो गेम खेलता था। वह गर्मदिल था, और जानवरों के प्रति गहरी पसंद रखता था।\n\nजैसे-जैसे वह बड़ा हुआ, उसने अपनी वास्तविकता को बढ़ाने के लिए नशीली दवाओं का सहारा लिया। इन कठिन समयों के दौरान उसे जिम में जुनून और शरण मिली।}</VideoGamer16.description>
+  <VideoGamer16.description>{PAWN_gender ? [PAWN_nameDef] एक मध्य दुनिया में पली-बढ़ी, ज्यादातर अपने कमरे में बंद रहकर, वीडियो गेम खेलते हुए। वह दयालु हृदय की थी, और जानवरों के प्रति उसका गहरा लगाव था।\n\nजैसे-जैसे वह बड़ी हुई, उसने अपनी वास्तविकता को बेहतर बनाने के लिए नशीली दवाओं का सहारा लिया। इन कठिन समयों के दौरान, उसने जिम में जुनून और शरण पाई। : [PAWN_nameDef] एक मध्य दुनिया में पला-बढ़ा, ज्यादातर अपने कमरे में बंद रहकर, वीडियो गेम खेलते हुए। वह दयालु हृदय का था, और जानवरों के प्रति उसका गहरा लगाव था।\n\nजैसे-जैसे वह बड़ा हुआ, उसने अपनी वास्तविकता को बेहतर बनाने के लिए नशीली दवाओं का सहारा लिया। इन कठिन समयों के दौरान, उसे जिम में जुनून और शरण मिली।}</VideoGamer16.description>
   <!-- EN: video gamer -->
   <VideoGamer16.title>वीडियो गेम खिलाड़ी</VideoGamer16.title>
   <VideoGamer16.titleFemale>वीडियो गेम खिलाड़ी</VideoGamer16.titleFemale>
@@ -2443,7 +2443,7 @@
   <VideoGamer16.titleShort>{PAWN_gender ? महिला खिलाड़ी : गेमर उत्साही खिलाड़ी}</VideoGamer16.titleShort>
   
   <!-- EN: [PAWN_nameDef] was raised in a glitterworld. Everything [PAWN_pronoun] wanted came to him. In school [PAWN_pronoun] was a social butterfly. At home, [PAWN_pronoun] spent [PAWN_possessive] time looking up the newest gadgets and playing [PAWN_possessive] favourite video games. -->
-  <VideoGamer55.description>{PAWN_gender ? [PAWN_nameDef] एक चमकती दुनिया में पली-बढ़ी। जो कुछ भी वह चाहती थी, उसे आसानी से मिल जाता था। स्कूल में वह सबकी प्रिय थी। घर पर, वह नवीनतम गैजेट्स देखने और अपने पसंदीदा वीडियो गेम खेलने में अपना समय बिताती थी। : [PAWN_nameDef] एक चमकती दुनिया में पला-बढ़ा। जो कुछ भी उसने चाहा, उसे आसानी से मिल गया। स्कूल में वह सबका प्रिय था। घर पर, वह नवीनतम गैजेट्स देखने और अपने पसंदीदा वीडियो गेम खेलने में अपना समय बिताता था।}</VideoGamer55.description>
+  <VideoGamer55.description>{PAWN_gender ? [PAWN_nameDef] का पालन-पोषण एक चमकदार दुनिया में हुआ था। वह जो कुछ भी चाहती थी, उसे मिल जाता था। स्कूल में वह बहुत मिलनसार थी। घर पर, वह अपना समय नए गैजेट्स के बारे में जानने और अपने पसंदीदा वीडियो गेम खेलने में बिताती थी। : [PAWN_nameDef] का पालन-पोषण एक चमकदार दुनिया में हुआ था। वह जो कुछ भी चाहता था, उसे मिल जाता था। स्कूल में वह बहुत मिलनसार था। घर पर, वह अपना समय नए गैजेट्स के बारे में जानने और अपने पसंदीदा वीडियो गेम खेलने में बिताता था।}</VideoGamer55.description>
   <!-- EN: video gamer -->
   <VideoGamer55.title>वीडियो गेम खिलाड़ी</VideoGamer55.title>
   <VideoGamer55.titleFemale>वीडियो गेम खिलाड़ी</VideoGamer55.titleFemale>
@@ -2502,7 +2502,7 @@
   <WastelandWanderer81.titleShortFemale>भटकती हुई महिला</WastelandWanderer81.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was born on a wealthy glitterworld. [PAWN_pronoun] studied at the Caspian school of Engineering, and excelled in mathematics and computer programming.\n\n[PAWN_nameDef] grew up in clean, sterile environments. [PAWN_pronoun] never saw a farm or livestock. -->
-  <WealthyStudent59.description>{PAWN_gender ? [PAWN_nameDef] एक धनी चमकते ग्रह पर जन्मी थीं। उन्होंने कैस्पियन इंजीनियरिंग स्कूल में अध्ययन किया, और गणित और कंप्यूटर प्रोग्रामिंग में उत्कृष्ट प्रदर्शन किया।\n\n[PAWN_nameDef] स्वच्छ, निष्फल वातावरण में पली-बढ़ीं। उन्होंने कभी कोई खेत या पशुधन नहीं देखा। : [PAWN_nameDef] एक धनी चमकती दुनिया पर पैदा हुआ था। उसने कैस्पियन इंजीनियरिंग स्कूल में पढ़ाई की, और गणित और कंप्यूटर प्रोग्रामिंग में उत्कृष्ट प्रदर्शन किया।\n\n[PAWN_nameDef] स्वच्छ, निष्फल वातावरण में बड़ा हुआ। उसने कभी कोई खेत या पशुधन नहीं देखा।}</WealthyStudent59.description>
+  <WealthyStudent59.description>{PAWN_gender ? [PAWN_nameDef] का जन्म एक समृद्ध चमकदार दुनिया में हुआ था। उसने कैस्पियन स्कूल ऑफ इंजीनियरिंग में पढ़ाई की, और गणित तथा कंप्यूटर प्रोग्रामिंग में महारत हासिल की।\n\n[PAWN_nameDef] स्वच्छ, बाँझ वातावरण में पली-बढ़ी। उसने कभी कोई खेत या पशुधन नहीं देखा था। : [PAWN_nameDef] का जन्म एक समृद्ध चमकदार दुनिया में हुआ था। उसने कैस्पियन स्कूल ऑफ इंजीनियरिंग में पढ़ाई की, और गणित तथा कंप्यूटर प्रोग्रामिंग में महारत हासिल की।\n\n[PAWN_nameDef] साफ-सुथरे, बाँझ वातावरण में पला-बढ़ा। उसने कभी कोई खेत या पशुधन नहीं देखा था।}</WealthyStudent59.description>
   <!-- EN: wealthy student -->
   <WealthyStudent59.title>{PAWN_gender ? धनी छात्रा : धनी छात्र}</WealthyStudent59.title>
   <!-- EN: student -->
@@ -2534,7 +2534,7 @@
   <WolfPackMember26.titleShort>{PAWN_gender ? जंगली महिला : जंगली, वनवासी, निर्जन}</WolfPackMember26.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up as a slave to a particularly nasty noble family on a medieval world. \n\nWhile [PAWN_pronoun] received no formal education, the harsh labor regimen made [PAWN_possessive] body strong. -->
-  <WorkCampSlave37.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुगीन दुनिया में एक विशेष रूप से क्रूर कुलीन परिवार की दासी के रूप में पली-बढ़ी।\n\nहालाँकि उसे कोई औपचारिक शिक्षा नहीं मिली, लेकिन कठोर श्रम शासन ने उसके शरीर को मजबूत बना दिया। : [PAWN_nameDef] एक मध्ययुगीन दुनिया में एक विशेष रूप से क्रूर कुलीन परिवार के गुलाम के रूप में बड़ा हुआ।\n\nहालाँकि उसे कोई औपचारिक शिक्षा नहीं मिली, लेकिन कठोर श्रम शासन ने उसके शरीर को मजबूत बना दिया।}</WorkCampSlave37.description>
+  <WorkCampSlave37.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुगीन दुनिया में एक विशेष रूप से क्रूर कुलीन परिवार की गुलाम के रूप में पली-बढ़ी।\n\nहालाँकि उसे कोई औपचारिक शिक्षा नहीं मिली, लेकिन कठोर श्रम व्यवस्था ने उसके शरीर को मजबूत बना दिया। : [PAWN_nameDef] एक मध्ययुगीन दुनिया में एक विशेष रूप से क्रूर कुलीन परिवार के गुलाम के रूप में पला-बढ़ा।\n\nहालाँकि उसे कोई औपचारिक शिक्षा नहीं मिली, लेकिन कठोर श्रम व्यवस्था ने उसके शरीर को मजबूत बना दिया।}</WorkCampSlave37.description>
   <!-- EN: work camp slave -->
   <WorkCampSlave37.title>श्रम शिविर दास</WorkCampSlave37.title>
   <WorkCampSlave37.titleFemale>श्रम शिविर दासी</WorkCampSlave37.titleFemale>
@@ -2543,7 +2543,7 @@
   <WorkCampSlave37.titleShortFemale>गुलामी दासी</WorkCampSlave37.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was raised by a world-hopping band of criminals. [PAWN_pronoun] learned not to leave evidence of [PAWN_possessive] presence in case the group had to leave in a hurry. [PAWN_pronoun] also learned about medicine and hand-to-hand combat from [PAWN_possessive] fellow criminals. -->
-  <WorldSlider42.description>{PAWN_gender ? [PAWN_nameDef] को अपराधियों के एक घुमंतू गिरोह ने पाला था। उसने सीखा कि अपनी उपस्थिति का कोई निशान न छोड़े, ताकि गिरोह को जल्दी से भागने की आवश्यकता हो। उसने अपने साथी अपराधियों से चिकित्सा और हाथापाई से लड़ने के बारे में भी सीखा। : [PAWN_nameDef] एक घुमंतू अपराधियों के गिरोह द्वारा पाला गया था। उसने सीखा कि अपनी उपस्थिति का कोई निशान न छोड़े ताकि गिरोह को जल्दी से भागने की आवश्यकता हो। उसने अपने साथी अपराधियों से चिकित्सा और हाथापाई से लड़ने के बारे में भी सीखा।}</WorldSlider42.description>
+  <WorldSlider42.description>{PAWN_gender ? [PAWN_nameDef] का पालन-पोषण दुनिया भर में घूमने वाले अपराधियों के एक गिरोह द्वारा किया गया था। उसने यह सीखा कि अपनी उपस्थिति के कोई सबूत न छोड़े, ताकि यदि समूह को जल्दबाजी में निकलना पड़े तो कोई समस्या न हो। उसने अपने साथी अपराधियों से दवा और हाथो-हाथ लड़ाई के बारे में भी सीखा। : [PAWN_nameDef] का पालन-पोषण दुनिया भर में घूमने वाले अपराधियों के एक गिरोह द्वारा किया गया था। उसने यह सीखा कि अपनी उपस्थिति के कोई सबूत न छोड़े, ताकि यदि समूह को जल्दबाजी में निकलना पड़े तो कोई समस्या न हो। उसने अपने साथी अपराधियों से दवा और हाथो-हाथ की लड़ाई के बारे में भी सीखा।}</WorldSlider42.description>
   <!-- EN: world slider -->
   <WorldSlider42.title>विश्व स्लाइडर</WorldSlider42.title>
   <WorldSlider42.titleFemale>विश्व स्लाइडर</WorldSlider42.titleFemale>
@@ -2569,7 +2569,7 @@
   <YoungPirate71.titleShort>{PAWN_gender ? समुद्री डाकू महिला : समुद्री डाकू}</YoungPirate71.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born and raised on a poor midworld, in the front passenger seat of [PAWN_possessive] mother's cab.\n\nWatching pedestrians and listening to the taxi passengers all day long, [PAWN_pronoun] soon became very good at figuring out someone's real purpose. -->
-  <YoungPsychologist58.description>{PAWN_gender ? [PAWN_nameDef] का जन्म और पालन-पोषण एक गरीब मध्य-विश्व में हुआ, उसकी माँ की टैक्सी की अगली यात्री सीट पर।\n\nदिन भर पैदल चलने वालों को देखकर और टैक्सी यात्रियों को सुनकर, वह जल्द ही किसी के वास्तविक उद्देश्य का पता लगाने में बहुत अच्छी हो गई। : [PAWN_nameDef] का जन्म और पालन-पोषण एक गरीब मध्य-विश्व में हुआ, उसकी माँ की टैक्सी की अगली यात्री सीट पर।\n\nपूरे दिन पैदल चलने वालों को देखकर और टैक्सी के यात्रियों को सुनकर, वह जल्द ही किसी के वास्तविक उद्देश्य का पता लगाने में बहुत अच्छा हो गया।}</YoungPsychologist58.description>
+  <YoungPsychologist58.description>{PAWN_gender ? [PAWN_nameDef] का जन्म और पालन-पोषण एक गरीब मध्य दुनिया में, अपनी माँ की टैक्सी की अगली यात्री सीट पर हुआ था।\n\nदिन भर पैदल यात्रियों को देखते हुए और टैक्सी के यात्रियों को सुनते हुए, वह जल्द ही किसी के वास्तविक उद्देश्य को समझने में बहुत कुशल हो गई। : [PAWN_nameDef] का जन्म और पालन-पोषण एक गरीब मध्य दुनिया में, अपनी माँ की टैक्सी की अगली यात्री सीट पर हुआ था।\n\nदिन भर पैदल यात्रियों को देखते हुए और टैक्सी के यात्रियों को सुनते हुए, वह जल्द ही किसी के वास्तविक उद्देश्य को समझने में बहुत कुशल हो गया।}</YoungPsychologist58.description>
   <!-- EN: young psychologist -->
   <YoungPsychologist58.title>युवा मनोवैज्ञानिक</YoungPsychologist58.title>
   <!-- EN: psych -->

@@ -44,7 +44,7 @@
   <!-- EN: EMP resistance -->
   <EMPResistance.label>ईएमपी प्रतिरोध</EMPResistance.label>
   <!-- EN: This mechanoid has special shielding and shock-dissipation filaments that reduce the effect of EMP damage by this percentage. This reduces the duration of stuns caused by EMP. -->
-  <EMPResistance.description>इस मैकेनॉइड में विशेष परिरक्षण और आघात-अपव्यय फिलामेंट हैं जो ईएमपी क्षति के प्रभाव को इस प्रतिशत से कम करते हैं। यह ईएमपी के कारण होने वाले अचेत की अवधि को कम करता है।</EMPResistance.description>
+  <EMPResistance.description>इस मेकैनॉइड में विशेष शील्डिंग और शॉक-डिसिपेशन फिलामेंट्स हैं जो इस प्रतिशत तक EMP क्षति के प्रभाव को कम करते हैं। यह EMP के कारण होने वाले स्टन की अवधि को कम करता है।</EMPResistance.description>
   
   <!-- EN: filth rate -->
   <FilthRate.label>गंदगी दर</FilthRate.label>
@@ -156,7 +156,7 @@
   <!-- EN: psychic sensitivity -->
   <PsychicSensitivity.label>मानसिक संवेदनशीलता</PsychicSensitivity.label>
   <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
-  <PsychicSensitivity.description>अधिक संवेदनशील लोग नकारात्मक मानसिक प्रभावों से अधिक पीड़ित होते हैं, और सकारात्मक प्रभावों से अधिक लाभान्वित होते हैं। उच्च मानसिक संवेदनशीलता तंत्रिका ताप सीमा को भी बढ़ाती है।</PsychicSensitivity.description>
+  <PsychicSensitivity.description>अधिक संवेदनशील लोग नकारात्मक मानसिक प्रभावों से अधिक पीड़ित होते हैं, और सकारात्मक प्रभावों से अधिक लाभान्वित होते हैं। उच्च मानसिक संवेदनशीलता तंत्रिका ऊष्मा सीमा को भी बढ़ाती है।</PsychicSensitivity.description>
   
   <!-- EN: sleep fall rate -->
   <RestFallRateFactor.label>नींद दर</RestFallRateFactor.label>

@@ -41,9 +41,9 @@
   <ClickingMessages.helpText>आप स्क्रीन के ऊपरी-बाएँ कोने में सूचनाओं पर क्लिक करके तुरंत कैमरे को उनके विषय पर केंद्रित कर सकते हैं।</ClickingMessages.helpText>
   
   <!-- EN: Cover and shooting -->
-  <CoverAndShooting.label>कवर और शूटिंग</CoverAndShooting.label>
+  <CoverAndShooting.label>आड़ और शूटिंग</CoverAndShooting.label>
   <!-- EN: The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree. -->
-  <CoverAndShooting.helpText>रेंज्ड युद्ध में करने योग्य सबसे महत्वपूर्ण चीज़ कवर का उपयोग करना है।\n\nकवर केवल तभी काम करता है जब आपका उपनिवेशवादी इसे छू रहा हो, और यह आपके उपनिवेशवादी और दुश्मन के बीच में हो।\n\nआप उपनिवेशवादियों को दीवार के कोनों के पीछे भी रख सकते हैं। वे गोली चलाने के लिए बाहर झुकेंगे।\n\nलगभग हर चीज़ का उपयोग कवर के रूप में किया जा सकता है, लेकिन कुछ चीज़ें दूसरों से बेहतर होती हैं। पेड़ के पीछे छिपना कुछ नहीं से बेहतर है, लेकिन रेत के बोरे के पीछे छिपना पेड़ का उपयोग करने से बेहतर है।</CoverAndShooting.helpText>
+  <CoverAndShooting.helpText>दूरी से युद्ध में करने के लिए सबसे महत्वपूर्ण चीज़ आड़ का उपयोग करना है।\n\nआड़ तभी काम करती है जब आपका उपनिवेशवादी उसे छू रहा हो, और यह आपके उपनिवेशवादी और दुश्मन के बीच हो।\n\nआप उपनिवेशवादियों को दीवार के कोनों के पीछे भी रख सकते हैं। वे गोली चलाने के लिए बाहर झुकेंगे।\n\nअधिकांश चीजों का उपयोग आड़ के रूप में किया जा सकता है, लेकिन कुछ चीजें दूसरों से बेहतर होती हैं। पेड़ के पीछे छिपना कुछ न होने से बेहतर है, लेकिन रेत की बोरियों के पीछे छिपना पेड़ का उपयोग करने से बेहतर है।</CoverAndShooting.helpText>
   
   <!-- EN: Item deterioration -->
   <Deterioration.label>वस्तु क्षरण</Deterioration.label>
@@ -80,12 +80,12 @@
   <!-- EN: Friendly fire safety -->
   <FriendlyFireSafety.label>मित्रवत आग सुरक्षा</FriendlyFireSafety.label>
   <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over their friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
-  <FriendlyFireSafety.helpText>मित्रवत आग कभी नहीं होती यदि निशानेबाज अपने सहयोगी के करीब हो।\n\nउदाहरण के लिए, आप एक तलवार चलाने वाले उपनिवेशवादी को सीधे एक बंदूक चलाने वाले के सामने सुरक्षित रूप से रख सकते हैं। निशानेबाज अपने मित्र के कंधे के ऊपर गोली चलाएगा।\n\nयह दूर और हाथापाई सेनानियों को संयोजित करने का एक अच्छा तरीका है।</FriendlyFireSafety.helpText>
+  <FriendlyFireSafety.helpText>यदि शूटर अपने सहयोगी के करीब है, तो मित्रवत गोलीबारी कभी नहीं होती है।\n\nउदाहरण के लिए, आप तलवार चलाने वाले उपनिवेशवादी को बंदूक चलाने वाले के ठीक सामने सुरक्षित रूप से रख सकते हैं। शूटर अपने मित्र के कंधे के ऊपर से गोली चलाएगा।\n\nयह दूरगामी और नज़दीकी युद्ध करने वाले योद्धाओं को मिलाने का एक अच्छा तरीका है।</FriendlyFireSafety.helpText>
   
   <!-- EN: Getting more traders -->
   <GettingMoreTraders.label>अधिक व्यापारी</GettingMoreTraders.label>
   <!-- EN: More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console. -->
-  <GettingMoreTraders.helpText>अधिक गुटों के साथ गठबंधन होने पर अधिक व्यापारी कारवां आपसे मिलने आएंगे।\n\nयदि आपके कोई सहयोगी नहीं हैं, तो कोई भी कारवां कभी नहीं आएगा!\n\nआप संचार कंसोल पर उन्हें बुलाकर सहयोगियों को व्यापार कारवां भेजने के लिए भुगतान भी कर सकते हैं।</GettingMoreTraders.helpText>
+  <GettingMoreTraders.helpText>यदि आप अधिक गुटों के साथ मित्रवत हैं, तो अधिक व्यापारी कारवां आपसे मिलने आएंगे।\n\nयदि आपका कोई सहयोगी नहीं है, तो कोई भी कारवां कभी नहीं आएगा!\n\nआप संचार कंसोल पर उन्हें बुलाकर व्यापार कारवां भेजने के लिए सहयोगियों को भुगतान भी कर सकते हैं।</GettingMoreTraders.helpText>
   
   <!-- EN: Growing zones -->
   <GrowingFood.label>खेती क्षेत्र</GrowingFood.label>
@@ -120,12 +120,12 @@
   <!-- EN: Medical operations -->
   <MedicalOperations.label>चिकित्सा संचालन</MedicalOperations.label>
   <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
-  <MedicalOperations.helpText>चिकित्सा ऑपरेशन निर्दिष्ट करने के लिए, जैसे अंग कटाई या कृत्रिम अंग स्थापना, किसी उपनिवेशवादी का स्वास्थ्य टैब खोलें, फिर संचालन उप-टैब पर स्विच करें।</MedicalOperations.helpText>
+  <MedicalOperations.helpText>अंग निकालने या कृत्रिम अंग लगाने जैसे चिकित्सा ऑपरेशन को सौंपने के लिए, किसी उपनिवेशवादी का HEALTH टैब खोलें, फिर OPERATIONS सब-टैब पर स्विच करें।</MedicalOperations.helpText>
   
   <!-- EN: Mining -->
   <Mining.label>खनन</Mining.label>
   <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
-  <Mining.helpText>आप आर्किटेक्ट मेनू खोलकर और ORDERS टैब चुनकर खनन के लिए स्थान निर्दिष्ट कर सकते हैं।\n\nकुछ खनन योग्य ब्लॉक STEEL, GOLD, PLASTEEL, और अन्य उपयोगी सामग्री उत्पन्न करते हैं।</Mining.helpText>
+  <Mining.helpText>ARCHITECT मेनू खोलकर और ORDERS टैब चुनकर आप खनन करने के स्थान को निर्धारित कर सकते हैं।\n\nकुछ खनन योग्य ब्लॉक STEEL, GOLD, प्लास्टील, और अन्य उपयोगी सामग्री प्रदान करते हैं।</Mining.helpText>
   
   <!-- EN: Outfits -->
   <Outfits.label>पोशाकें</Outfits.label>

@@ -11,7 +11,7 @@
   <!-- EN: detection chance -->
   <Ability_DetectChancePerEntropy.label>पता लगाने की संभावना</Ability_DetectChancePerEntropy.label>
   <!-- EN: The likelihood of this psychic power being detected when it is used.\n\nSome factions try to enforce laws which restrict some powers to those holding specific titles. When you use a power, there is a chance that the psychic signature will be detected at a distance, which leads to diplomatic consequences. -->
-  <Ability_DetectChancePerEntropy.description>इस मानसिक शक्ति के उपयोग के दौरान पता चलने की संभावना।\n\nकुछ गुट ऐसे कानून लागू करने का प्रयास करते हैं जो कुछ शक्तियों को विशिष्ट उपाधियों वाले लोगों तक सीमित करते हैं। जब आप किसी शक्ति का उपयोग करते हैं, तो मानसिक हस्ताक्षर की दूरी पर पता चलने की संभावना होती है, जिससे राजनयिक परिणाम हो सकते हैं।</Ability_DetectChancePerEntropy.description>
+  <Ability_DetectChancePerEntropy.description>जब इस मानसिक शक्ति का उपयोग किया जाता है, तो इसके पकड़े जाने की संभावना।\n\nकुछ गुट ऐसे कानून लागू करने का प्रयास करते हैं जो कुछ शक्तियों को केवल विशिष्ट पद धारकों तक ही सीमित रखते हैं। जब आप किसी शक्ति का उपयोग करते हैं, तो इस बात की संभावना होती है कि मानसिक संकेत दूर से ही पहचान लिया जाए, जिससे राजनयिक परिणाम हो सकते हैं।</Ability_DetectChancePerEntropy.description>
   
   <!-- EN: duration -->
   <Ability_Duration.label>अवधि</Ability_Duration.label>
@@ -46,7 +46,7 @@
   <Ability_Range.description>इस क्षमता के लक्ष्य की अधिकतम दूरी, या लक्ष्य स्थान के केंद्र तक की दूरी।</Ability_Range.description>
   
   <!-- EN: psylink level -->
-  <Ability_RequiredPsylink.label>साइलिंक स्तर</Ability_RequiredPsylink.label>
+  <Ability_RequiredPsylink.label>साइकलिंक स्तर</Ability_RequiredPsylink.label>
   <!-- EN: The minimum psylink level required to use this ability. -->
   <Ability_RequiredPsylink.description>इस क्षमता का उपयोग करने के लिए आवश्यक न्यूनतम साइलिंक स्तर।</Ability_RequiredPsylink.description>
   

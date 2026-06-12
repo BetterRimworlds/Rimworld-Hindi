@@ -9,7 +9,7 @@
   <!-- EN: joywire -->
   <Joywire.label>आनंद तार</Joywire.label>
   <!-- EN: A brain implant that stimulates the brain's pleasure centers. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures. -->
-  <Joywire.description>एक मस्तिष्क प्रत्यारोपण जो मस्तिष्क के आनंद केंद्रों को उत्तेजित करता है। हालाँकि यह उपयोगकर्ता के मनोदशा में नाटकीय रूप से सुधार करता है, खुशी की यह चादर वास्तविक चीज़ों पर ध्यान केंद्रित करना मुश्किल बना देती है। आनंद तार कई दुनियाओं पर अवैध हैं, और पूरी संस्कृतियों को नष्ट करने के लिए जाने जाते हैं।</Joywire.description>
+  <Joywire.description>एक मस्तिष्क प्रत्यारोपण जो मस्तिष्क के आनंद केंद्रों को उत्तेजित करता है। हालाँकि यह उपयोगकर्ता के मिजाज में नाटकीय रूप से सुधार करता है, लेकिन खुशी की यह परत किसी भी वास्तविक चीज़ पर ध्यान केंद्रित करना कठिन बना देती है। कई दुनियाओं में आनंद तार अवैध हैं, और इन्हें पूरी संस्कृतियों को नष्ट करने के लिए जाना जाता है।</Joywire.description>
   
   <!-- EN: painstopper -->
   <Painstopper.label>दर्द निवारक</Painstopper.label>
@@ -22,7 +22,7 @@
   <PowerClaw.description>यह एक युद्ध-उन्मुख हाथ प्रतिस्थापन है जिसमें प्रत्येक उंगली पर एक हुक वाला पंजा लगा हुआ यांत्रिक हाथ शामिल है। यह गहरा काटता है, और इतना मजबूत है कि एक हाथ अंडे को कुचलने की तरह खोपड़ी को कुचल सकता है। पंजे वापस लिए जा सकते हैं, जिससे यह गैर-लड़ाकू कार्यों के लिए एक प्राकृतिक हाथ जितना उपयोगी हो जाता है, हालांकि इसकी समग्र अनाड़ी गति को थोड़ा धीमा कर देती है।</PowerClaw.description>
   
   <!-- EN: prosthetic arm -->
-  <SimpleProstheticArm.label>कृत्रिम अंग भुजा</SimpleProstheticArm.label>
+  <SimpleProstheticArm.label>कृत्रिम अंग हाथ</SimpleProstheticArm.label>
   <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
   <SimpleProstheticArm.description>एक बांह का कृत्रिम अंग। यद्यपि इसमें तंत्रिका इंटरफेस का अभाव है, आंतरिक जोड़ों की जटिल व्यवस्था इसे प्राकृतिक गति की काफी हद तक नकल करने देती है। फिर भी, यह वास्तविक बांह से हीन है।</SimpleProstheticArm.description>
   

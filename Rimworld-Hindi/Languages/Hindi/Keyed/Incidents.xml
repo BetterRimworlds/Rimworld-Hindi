@@ -8,7 +8,7 @@
   <!-- EN: Mad {0} -->
   <LetterLabelAnimalInsanityMultiple>पागल {0}</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
-  <AnimalInsanityMultiple>किसी प्रकार की मानसिक तरंग ने परिदृश्य पर असर डाला है। आपके उपनिवेशवादी ठीक हैं, लेकिन…\n\nऐसा लगता है कि क्षेत्र के कई {0} पागल हो गए हैं।</AnimalInsanityMultiple>
+  <AnimalInsanityMultiple>किसी प्रकार की मानसिक लहर पूरे परिदृश्य पर छा गई है। आपके उपनिवेशवादी ठीक हैं, लेकिन…\n\nऐसा लगता है कि क्षेत्र के कई {0} पागल हो गए हैं।</AnimalInsanityMultiple>
 
   <!-- EN: Blight: {PLANTDEF_labelPlural} -->
   <LetterLabelCropBlight>रोग: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
@@ -30,9 +30,9 @@
   <FriendlyRaidLeaderPresent>एक {LEADER_factionPawnsPlural} - {LEADER_labelShort}, गुट का नेता है।</FriendlyRaidLeaderPresent>
 
   <!-- EN: Transport pod crash -->
-  <LetterLabelRefugeePodCrash>क्षतिग्रस्त पोड</LetterLabelRefugeePodCrash>
+  <LetterLabelRefugeePodCrash>परिवहन पॉड दुर्घटना</LetterLabelRefugeePodCrash>
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
-  <RefugeePodCrash>एक {PAWN_titleIndef} जिसका नाम {PAWN_nameDef} है, पास में एक परिवहन पॉड में दुर्घटनाग्रस्त हो रहा है। यदि {PAWN_pronoun} प्रभाव से बच जाता है, तो {PAWN_pronoun} बुरी तरह से घायल हो जाएगा।</RefugeePodCrash>
+  <RefugeePodCrash>{PAWN_titleIndef} जिसका नाम {PAWN_nameDef} है, पास ही एक ट्रांसपोर्ट पॉड में क्रैश हो रहा है। यदि {PAWN_pronoun} प्रभाव से बच जाता है, तो {PAWN_pronoun} बुरी तरह घायल हो जाएगा।</RefugeePodCrash>
   <!-- EN: {PAWN_nameDef} is a child of {AGE}. -->
   <RefugeePodCrash_Child>{PAWN_nameDef} {UMAR} साल का बच्चा है।</RefugeePodCrash_Child>
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
@@ -53,7 +53,7 @@
   <CargoPodCrash>आपके पास आस-पास दुर्घटनाग्रस्त होने वाले कार्गो पॉड्स का एक समूह पता चला है।\n\nशायद आपको मलबे में कुछ उपयोगी मिल जाए।</CargoPodCrash>
 
   <!-- EN: an electrical conduit -->
-  <AnElectricalConduit>विद्युत नलिका</AnElectricalConduit>
+  <AnElectricalConduit>एक विद्युत कंड्यूट</AnElectricalConduit>
   <!-- EN: A fault in {0} has caused a short circuit. -->
   <ShortCircuit>{0} में खराबी के कारण शॉर्ट सर्किट हो गया है।</ShortCircuit>
   <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
@@ -99,13 +99,13 @@
   <!-- EN: Manhunter pack -->
   <LetterLabelManhunterPackArrived>शिकारी दल</LetterLabelManhunterPackArrived>
   <!-- EN: A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
-  <ManhunterPackArrived>A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them.</ManhunterPackArrived>
+  <ManhunterPackArrived>मानव-शिकारी {0} का एक झुंड क्षेत्र में प्रवेश कर चुका है! स्कैरिया के रूप में जानी जाने वाली बीमारी से पागल हुए, वे मानव मांस की तलाश में इस क्षेत्र में भटकेंगे।\n\nजब तक वे किसी को दरवाजे से गुजरते नहीं देखते, वे दरवाजों पर हमला नहीं करेंगे। अंदर छिप जाएं और आप सुरक्षित रहेंगे। वे बंद पड़ी तोपें पर भी हमला नहीं करेंगे, इसलिए उन्हें बचाने के लिए अपनी तोपें बंद कर दें।\n\n{0} एक या दो दिनों में क्षेत्र छोड़ देंगे। आप छिपकर उनके जाने का इंतजार कर सकते हैं, या उनसे लड़ सकते हैं।</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
-  <MessageAnimalInsanityPulse>{SOURCE_label} ने एक मानसिक स्पंद उत्सर्जित किया है जिससे आस-पास के जानवर पागल हो गए हैं।</MessageAnimalInsanityPulse>
+  <MessageAnimalInsanityPulse>{SOURCE_label} ने एक मानसिक स्पंदन उत्सर्जित किया है जिसने आस-पास के जानवरों को पागल कर दिया है।</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
-  <LetterShipPartDroveColonistInsane>टूट-फूट जहाज़ के हिस्से ने एक केंद्रित मानसिक स्पंद उत्सर्जित किया है जिससे उपनिवेशवादी {0} पागल हो गया है।</LetterShipPartDroveColonistInsane>
+  <LetterShipPartDroveColonistInsane>क्रैश हुए जहाज के हिस्से से एक केंद्रित मानसिक स्पंदन (psychic pulse) निकला है जिसने उपनिवेशवादी {0} को पागल कर दिया है।</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
   <AwokeDaysAgo>जागा {0} दिन पहले</AwokeDaysAgo>
   <!-- EN: Activated {0} days ago -->
@@ -117,7 +117,7 @@
   <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>ड्रोन तीव्र</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>दुर्घटनाग्रस्त यान का भाग अब एक अधिक शक्तिशाली मानसिक ड्रोन उत्सर्जित कर रहा है। हर {0} मानवसदृश प्राणी अब अधिक परेशान, भयभीत और व्याकुल महसूस कर रहा है।</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>क्रैश हुआ जहाज का हिस्सा अब एक अधिक शक्तिशाली प्रकार की मानसिक गूँज (psychic drone) उत्सर्जित कर रहा है। क्षेत्र में मौजूद प्रत्येक {0} मानव जैसा जीव अब अधिक विचलित, भयभीत और शंकालु महसूस कर रहा है।</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
@@ -151,7 +151,7 @@
   <!-- EN: Rare thrumbos -->
   <LetterLabelThrumboPasses>दुर्लभ थ्रम्बोज़</LetterLabelThrumboPasses>
   <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
-  <LetterThrumboPasses>एक छोटा थ्रमबो झुंड क्षेत्र में भटक गया है।\n\nस्वभाव से शांत, ये दुर्लभ जीव जब सामना किया जाता है तो बेहद खतरनाक होते हैं। कुछ व्यापारी इनके कीमती चमड़े और सींग के लिए बहुत पैसा देने को तैयार हैं।\n\nथ्रमबो कुछ दिनों में क्षेत्र छोड़ देंगे।</LetterThrumboPasses>
+  <LetterThrumboPasses>थ्रम्बोज़ का एक छोटा झुंड इस क्षेत्र में भटकते हुए आ गया है।\n\nस्वभाव से शांतिप्रिय, ये दुर्लभ जीव सामना होने पर अत्यंत खतरनाक होते हैं। कुछ व्यापारी इनके कीमती चमड़े और सींग के लिए बहुत सारा पैसा देने को तैयार हैं।\n\nथ्रम्बोज़ कुछ दिनों में क्षेत्र छोड़ देंगे।</LetterThrumboPasses>
   
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
@@ -175,7 +175,7 @@
   <!-- EN: Ship found -->
   <EscapeShipFoundLabel>जहाज मिला</EscapeShipFoundLabel>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <EscapeShipFound>आपने (*Name)चार्लोन व्हाइटस्टोन(/Name) द्वारा भेजे गए निर्देशांकों तक पहुँच प्राप्त की है और छिपे हुए स्टारशिप की खोज की है।\n\nजहाज़ का रिएक्टर अभी भी गहरी निष्क्रियता मोड में है, इसलिए यह अभी उड़ान नहीं भर सकता। आप कंप्यूटर कोर के साथ इंटरैक्ट करके इसे शुरू कर सकते हैं।\n\n(*Name)चार्लोन व्हाइटस्टोन(/Name) आपको चेतावनी देता है कि स्टार्टअप प्रक्रिया में लगभग 15 दिन लगेंगे, और ऊर्जा हस्ताक्षर बहुत दूर से पता लगाया जा सकेगा। इस प्रकार का ऊर्जा हस्ताक्षर अंतरतारकीय उड़ान क्षमता को इंगित करता है, और यह हताश हमलावरों के गिरोह और घातक मशीनों के झुंड को आकर्षित करेगा।\n\nआप पर ऐसी तीव्रता से हमला किया जाएगा जैसा आपने पहले कभी नहीं देखा होगा। सुनिश्चित करें कि आपकी सुरक्षा पहले से तैयार है।</EscapeShipFound>
+  <EscapeShipFound>आप (*Name)Charlon Whitestone(/Name) द्वारा भेजे गए निर्देशांकों पर पहुँच गए हैं और छिपे हुए स्टारशिप की खोज कर ली है।\n\nजहाज़ का रिएक्टर अभी भी गहरी सुप्तावस्था (hibernation) मोड में है, इसलिए यह अभी उड़ान नहीं भर सकता। आप कंप्यूटर कोर के साथ इंटरैक्ट करके इसे शुरू कर सकते हैं।\n\n(*Name)Charlint Whitestone(/Name) आपको चेतावनी देते हैं कि स्टार्टअप प्रक्रिया में लगभग 15 दिन लगेंगे, और ऊर्जा का संकेत लंबी दूरी से पता लगाया जा सकेगा। इस प्रकार का ऊर्जा संकेत अंतरतारकीय उड़ान क्षमता को दर्शाता है, और यह हताश हमलावरों के गिरोह और घातक मेकैनॉइड्स के झुंड को आकर्षित करेगा।\n\nआप पर ऐसी तीव्रता से हमला किया जाएगा जो आपने पहले कभी नहीं देखी होगी। सुनिश्चित करें कि आपकी रक्षा प्रणालियाँ पहले से तैयार हैं।</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
   <EscapeShipFoundPeaceful>आपने (*Name)Charlon Whitestone(/Name) द्वारा भेजे गए निर्देशांकों तक पहुँच प्राप्त की और छिपा हुआ अंतरिक्ष यान खोज लिया।\n\nयान का रिएक्टर अभी भी गहरी निष्क्रियता मोड में है, इसलिए यह अभी उड़ान नहीं भर सकता। आप कंप्यूटर कोर के साथ इंटरैक्ट करके इसे शुरू कर सकते हैं।\n\n(*Name)Charlon Whitestone(/Name) आपको चेतावनी देता है कि स्टार्टअप प्रक्रिया में लगभग 15 दिन लगेंगे।</EscapeShipFoundPeaceful>
 

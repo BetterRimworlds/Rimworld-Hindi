@@ -63,22 +63,22 @@
   <!-- EN: psychic drone -->
   <PsychicDrone.label>मानसिक ड्रोन</PsychicDrone.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
-  <PsychicDrone.description>एक दूरस्थ आर्कोटेक्निक्स कक्षीय प्रवर्धक के माध्यम से मानसिक संकेत उत्सर्जित कर रहा है, जिससे लोग पागलपन की ओर बढ़ रहे हैं।</PsychicDrone.description>
+  <PsychicDrone.description>एक दूरस्थ आर्कोटेक एक कक्षीय एम्पलीफायर के माध्यम से मानसिक संकेत उत्सर्जित कर रहा है, जो लोगों को पागलपन की ओर धकेल रहा है।</PsychicDrone.description>
   <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
-  <PsychicDrone.descriptionFuture>एक [psychicDroneLevel] मानसिक ड्रोन [map_definite] के आसपास के क्षेत्र में [gameConditionDuration_duration] के लिए गुनगुनाएगा, सभी [psychicDroneGender] लिंग के लोगों को पागलपन की ओर धकेल देगा।</PsychicDrone.descriptionFuture>
+  <PsychicDrone.descriptionFuture>एक [psychicDroneLevel] मानसिक ड्रोन [gameConditionDuration_duration] के लिए [map_definite] के आसपास गूँजता रहेगा, जिससे [psychicDroneGender] लिंग के सभी लोगों को पागलपन की ओर धकेला जाएगा</PsychicDrone.descriptionFuture>
   <!-- EN: The psychic drone is ending. -->
-  <PsychicDrone.endMessage>साइक्लिक ड्रोन समाप्त हो रहा है।</PsychicDrone.endMessage>
+  <PsychicDrone.endMessage>मानसिक गूँज समाप्त हो रही है।</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <PsychicDrone.letterText>हर {0} उपनिवेशवादी को चिंता और क्रोध की लहर महसूस हो रही है!\n\nघृणा का कोई दूरस्थ इंजन हिल रहा है। यह एक कक्षीय प्रवर्धक के माध्यम से इस स्थल पर एक मानसिक ड्रोन को प्रक्षेपित कर रहा है, जो केवल {0} को प्रभावित करने के लिए ट्यून किया गया है। कुछ दिनों के लिए, कुछ लोगों का मूड काफी खराब हो जाएगा।\n\nड्रोन स्तर {1} है।</PsychicDrone.letterText>
+  <PsychicDrone.letterText>प्रत्येक {0} उपनिवेशवादी चिंता और क्रोध की एक लहर महसूस कर रहा है!\n\nनफरत का कोई दूरस्थ इंजन जाग रहा है। यह एक कक्षीय एम्पलीफायर के माध्यम से इस स्थल पर एक मानसिक गूँज (psychic drone) प्रसारित कर रहा है, जिसे केवल {0} को प्रभावित करने के लिए ट्यून किया गया है। कुछ दिनों के लिए, कुछ लोगों का मिजाज काफी खराब रहेगा।\n\nगूँज का स्तर {1} है।</PsychicDrone.letterText>
   
   <!-- EN: psychic soothe -->
   <PsychicSoothe.label>मानसिक शांति</PsychicSoothe.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, calming people and stabilizing their minds. -->
-  <PsychicSoothe.description>एक दूरस्थ आर्कोटेक्न एक कक्षीय एम्पलीफायर के माध्यम से मानसिक संकेत उत्सर्जित कर रहा है, जिससे लोग शांत हो रहे हैं और उनके मन स्थिर हो रहे हैं।</PsychicSoothe.description>
+  <PsychicSoothe.description>एक दूरस्थ आर्कोटेक एक कक्षीय एम्पलीफायर के माध्यम से मानसिक संकेत उत्सर्जित कर रहा है, जिससे लोगों को शांति मिल रही है और उनके मन स्थिर हो रहे हैं।</PsychicSoothe.description>
   <!-- EN: The psychic soothe is ending. -->
   <PsychicSoothe.endMessage>मानसिक शांति समाप्त हो रही है।</PsychicSoothe.endMessage>
   <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->
-  <PsychicSoothe.letterText>हर {0} उपनिवेशवादी संतुष्टि से मुस्कुरा रहा है!\n\nखुशी का कोई दूरस्थ इंजन हिल रहा है। यह एक कक्षीय प्रवर्धक के माध्यम से इस स्थल पर एक मानसिक ड्रोन प्रक्षेपित कर रहा है, जो केवल {0} को प्रभावित करने के लिए ट्यून किया गया है। कुछ दिनों के लिए, कुछ लोगों का मूड काफी बेहतर होगा।</PsychicSoothe.letterText>
+  <PsychicSoothe.letterText>प्रत्येक {0} उपनिवेशवादी संतोष के साथ मुस्कुराता है!\n\nखुशी का कोई दूरस्थ इंजन जाग रहा है। यह एक कक्षीय एम्पलीफायर के माध्यम से इस स्थल पर एक मानसिक गूंज (psychic drone) प्रसारित कर रहा है, जिसे केवल {0} को प्रभावित करने के लिए ट्यून किया गया है। कुछ दिनों के लिए, कुछ लोगों का मिजाज काफी बेहतर रहेगा।</PsychicSoothe.letterText>
   
   <!-- EN: solar flare -->
   <SolarFlare.label>सौर ज्वाला</SolarFlare.label>
@@ -98,7 +98,7 @@
   <!-- EN: The worst of the toxic fallout has settled. -->
   <ToxicFallout.endMessage>सबसे खराब जहरीली गिरावट शांत हो गई है।</ToxicFallout.endMessage>
   <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to nearly a quadrum. -->
-  <ToxicFallout.letterText>एक दूर की रासायनिक आग ने इस पूरे क्षेत्र में ज़हर का बादल छोड़ दिया है।\n\nकोई भी व्यक्ति या प्राणी जो छत के नीचे नहीं है, धीरे-धीरे जहरीली धूल के वायुमंडल से जमने से बीमार हो जाएगा।\n\nयह कुछ दिनों से लेकर लगभग चौथाई वर्ष तक कहीं भी चलेगा।</ToxicFallout.letterText>
+  <ToxicFallout.letterText>एक दूरस्थ रासायनिक आग ने इस पूरे क्षेत्र में ज़हरीले धुएं का गुबार छोड़ दिया है।\n\nबिना छत के रहने वाला कोई भी व्यक्ति या जीव वायुमंडल से जमने वाली विषाक्त धूल से धीरे-धीरे बीमार हो जाएगा।\n\nयह कुछ दिनों से लेकर लगभग एक चौथाई वर्ष तक जारी रहेगा।</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>ज्वालामुखी शीतकाल</VolcanicWinter.label>
@@ -109,6 +109,6 @@
   <!-- EN: Most of the ash has settled. -->
   <VolcanicWinter.endMessage>अधिकांश राख जम चुकी है।</VolcanicWinter.endMessage>
   <!-- EN: Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
-  <VolcanicWinter.letterText>दूर का ज्वालामुखी या आग वातावरण में भारी मात्रा में राख उगलना शुरू कर दिया है।\n\nवातावरण में राख सूर्य को अस्पष्ट कर देगी। तापमान गिरेगा और पौधों को धूप की कमी से नुकसान होगा। यह कुछ हफ्तों में गुजर सकता है, या यह कई चतुष्कोणों तक चल सकता है।</VolcanicWinter.letterText>
+  <VolcanicWinter.letterText>किसी दूर स्थित ज्वालामुखी या आग ने वायुमंडल में भारी मात्रा में राख उगलना शुरू कर दिया है।\n\nवायुमंडल में राख सूरज को धुंधला कर देगी। तापमान गिर जाएगा और सूरज की रोशनी की कमी के कारण पौधों को नुकसान होगा। यह कुछ हफ्तों में बीत सकता है, या कई चौथाई वर्ष तक चल सकता है।</VolcanicWinter.letterText>
   
 </LanguageData>

@@ -8,7 +8,7 @@
   <Bullet_Shell_EMP.label>ईएमपी शैल</Bullet_Shell_EMP.label>
   
   <!-- EN: firefoam shell -->
-  <Bullet_Shell_Firefoam.label>अग्निफोम कवच</Bullet_Shell_Firefoam.label>
+  <Bullet_Shell_Firefoam.label>फायरफोम शेल</Bullet_Shell_Firefoam.label>
   
   <!-- EN: high-explosive shell -->
   <Bullet_Shell_HighExplosive.label>विस्फोटक गोला</Bullet_Shell_HighExplosive.label>
@@ -22,31 +22,31 @@
   <!-- EN: antigrain warhead -->
   <Shell_AntigrainWarhead.label>विनाशक गोला</Shell_AntigrainWarhead.label>
   <!-- EN: An ultra-tech warhead powered by a grain of antimatter. Usually used by spacecraft or glitterworld war machines, it creates a huge explosion and starts fires around the target. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
-  <Shell_AntigrainWarhead.description>एक अति-तकनीकी युद्धशीर्ष जो प्रति-पदार्थ के एक दाने से संचालित होता है। आमतौर पर अंतरिक्ष यान या ग्लिटरवर्ल्ड युद्ध मशीनों द्वारा उपयोग किया जाता है, यह एक बड़ा विस्फोट बनाता है और लक्ष्य के आसपास आग लगाता है। इसे मोर्टार से दागा जा सकता है या जाल के रूप में स्थापित किया जा सकता है। क्षतिग्रस्त होने पर विस्फोट होता है।</Shell_AntigrainWarhead.description>
+  <Shell_AntigrainWarhead.description>एंटीमैटर के एक कण द्वारा संचालित एक अल्ट्रा युग वारहेड। आमतौर पर अंतरिक्ष यान या चमकदार दुनिया के युद्ध यंत्रों द्वारा उपयोग किया जाने वाला, यह एक विशाल विस्फोट पैदा करता है और लक्ष्य के आसपास आग लगा देता है। इसे मोर्टार से दागा जा सकता है या जाल के रूप में स्थापित किया जा सकता है। क्षतिग्रस्त होने पर फट जाता है।</Shell_AntigrainWarhead.description>
   
   <!-- EN: EMP shell -->
   <Shell_EMP.label>ईएमपी शैल</Shell_EMP.label>
   <!-- EN: A shell filled with batteries and antennas, for generating an electromagnetic pulse when detonated. Electromagnetic pulses temporarily disable electrical devices and mechanoids. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
-  <Shell_EMP.description>विस्फोट पर विद्युत चुम्बकीय तरंग उत्पन्न करने के लिए बैटरियों और एंटेना से भरा एक खोल। विद्युत चुम्बकीय तरंगें अस्थायी रूप से विद्युत उपकरणों और मशीनों को निष्क्रिय कर देती हैं। इसे मोर्टार से दागा जा सकता है या जाल के रूप में स्थापित किया जा सकता है। क्षति होने पर विस्फोट होता है।</Shell_EMP.description>
+  <Shell_EMP.description>बैटरी और एंटेना से भरा एक शेल, जो विस्फोट होने पर विद्युत चुम्बकीय स्पंद (इलेक्ट्रोमैग्नेटिक पल्स) उत्पन्न करने के लिए है। विद्युत चुम्बकीय स्पंद अस्थायी रूप से विद्युत उपकरणों और मेकैनॉइड्स को अक्षम कर देते हैं। इसे मोर्टार से दागा जा सकता है या जाल के रूप में स्थापित किया जा सकता है। क्षतिग्रस्त होने पर यह फट जाता है।</Shell_EMP.description>
   
   <!-- EN: firefoam shell -->
-  <Shell_Firefoam.label>अग्निफोम कवच</Shell_Firefoam.label>
+  <Shell_Firefoam.label>फायरफोम शेल</Shell_Firefoam.label>
   <!-- EN: A pressurized shell filled with fire-retardant foam. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
   <Shell_Firefoam.description>आग प्रतिरोधी फोम से भरा एक दबावयुक्त खोल। मोर्टार से दागा जा सकता है या जाल के रूप में स्थापित किया जा सकता है। क्षतिग्रस्त होने पर फट जाता है।</Shell_Firefoam.description>
   
   <!-- EN: high-explosive shell -->
   <Shell_HighExplosive.label>विस्फोटक गोला</Shell_HighExplosive.label>
   <!-- EN: A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
-  <Shell_HighExplosive.description>उच्च विस्फोटक से भरा एक खोल। इसे मोर्टार से दागा जा सकता है या जाल के रूप में स्थापित किया जा सकता है। क्षति होने पर विस्फोट होता है।</Shell_HighExplosive.description>
+  <Shell_HighExplosive.description>उच्च विस्फोटकों से भरा एक शेल। इसे मोर्टार से दागा जा सकता है या जाल के रूप में लगाया जा सकता है। क्षतिग्रस्त होने पर यह फट जाता है।</Shell_HighExplosive.description>
   
   <!-- EN: incendiary shell -->
   <Shell_Incendiary.label>ज्वलनशील गोला</Shell_Incendiary.label>
   <!-- EN: A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
-  <Shell_Incendiary.description>एक शेल ज्वलनशील जेल और एक छोटे विस्फोटक चार्ज से भरा है। विस्फोट होने पर आग लग जाती है। इसे मोर्टार से दागा जा सकता है या जाल के रूप में स्थापित किया जा सकता है। क्षतिग्रस्त होने पर विस्फोट होता है।</Shell_Incendiary.description>
+  <Shell_Incendiary.description>एक गोला जो ज्वलनशील जेल और एक छोटे विस्फोटक चार्ज से भरा होता है। विस्फोट होने पर आग लगा देता है। इसे मोर्टार से दागा जा सकता है या जाल के रूप में लगाया जा सकता है। क्षतिग्रस्त होने पर फट जाता है।</Shell_Incendiary.description>
   
   <!-- EN: smoke shell -->
   <Shell_Smoke.label>धुआँ गोला</Shell_Smoke.label>
   <!-- EN: A shell that generates a cloud of smoke when detonated, obscuring incoming shots and preventing turrets from locking on. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
-  <Shell_Smoke.description>विस्फोट होने पर धुएँ का बादल उत्पन्न करने वाला एक खोल, जो आने वाली गोलियों को अस्पष्ट करता है और बुर्ज को लॉक करने से रोकता है। इसे मोर्टार से दागा जा सकता है या जाल के रूप में स्थापित किया जा सकता है। क्षतिग्रस्त होने पर फट जाता है।</Shell_Smoke.description>
+  <Shell_Smoke.description>एक गोला जो विस्फोट होने पर धुएं का बादल बनाता है, जिससे आने वाली गोलियां छिप जाती हैं और तोपें निशाना लगाने से रुक जाती हैं। इसे मोर्टार से चलाया जा सकता है या जाल के रूप में लगाया जा सकता है। क्षतिग्रस्त होने पर यह फट जाता है।</Shell_Smoke.description>
   
 </LanguageData>

@@ -7,14 +7,14 @@
   <CocoonMegascarab.description>एक मेगास्कारब युक्त स्थिर कोकून।\n\nजब परिस्थितियाँ प्रतिकूल होती हैं, तो कीड़े कभी-कभी स्थिर कोकून बनाते हैं और भूमिगत हो जाते हैं। ये कोकून कीड़ों को वर्षों तक आग, अत्यधिक तापमान और अन्य खतरों से सुरक्षित रखते हैं।\n\nप्रदूषक कोकून को उत्तेजित कर सकते हैं और उन्हें सतह पर ला सकते हैं, और प्रबल प्रदूषक दूर से कोकून को आकर्षित कर सकते हैं।\n\nकोकून निष्क्रिय रहते हैं यदि वे परेशान न हों। यदि कोई कोकून परेशान या नष्ट हो जाता है, तो अंदर का कीड़ा जाग जाएगा और हमला करेगा, जिससे प्रक्रिया में अन्य आस-पास के कोकून भी सक्रिय हो जाएंगे।</CocoonMegascarab.description>
   
   <!-- EN: megaspider cocoon -->
-  <CocoonMegaspider.label>विशाल मकड़ी कोकून</CocoonMegaspider.label>
+  <CocoonMegaspider.label>विशाल मकड़ी का कोकून</CocoonMegaspider.label>
   <!-- EN: A stasis cocoon containing a megaspider.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
-  <CocoonMegaspider.description>एक स्थैतिक कोकून जिसमें विशाल मकड़ी है।\n\nजब परिस्थितियाँ प्रतिकूल होती हैं, तो कीड़े कभी-कभी स्थैतिक कोकून बनाते हैं और भूमिगत प्रवेश करते हैं। ये कोकून कीड़ों को वर्षों तक आग, अत्यधिक तापमान और अन्य खतरों से सुरक्षित रखते हैं।\n\nप्रदूषक कोकून को उत्तेजित कर सकते हैं और उन्हें सतह पर ला सकते हैं, और प्रबल प्रदूषक दूर से कोकून को आकर्षित कर सकते हैं।\n\nकोकून कुछ नहीं करते हैं यदि वे परेशान न हों। यदि कोई कोकून परेशान या नष्ट हो जाता है, तो अंदर का कीड़ा जाग जाएगा और हमला करेगा, जिससे प्रक्रिया में अन्य आस-पास के कोकून भी सक्रिय हो जाएंगे।</CocoonMegaspider.description>
+  <CocoonMegaspider.description>एक विशाल मकड़ी वाला एक स्टेसिस कोकून।\n\nजब परिस्थितियाँ प्रतिकूल होती हैं, तो कीट कभी-कभी स्टेसिस कोकून बनाते हैं और जमीन के नीचे बिल बना लेते हैं। ये कोकून कीटों को वर्षों तक आग, अत्यधिक तापमान और अन्य खतरों से सुरक्षित रखते हैं।\n\nप्रदूषक कोकून को उत्तेजित कर सकते हैं और उन्हें पुन: सतह पर आने का कारण बन सकते हैं, और शक्तिशाली प्रदूषक बहुत दूर से भी कोकून को आकर्षित कर सकते हैं।\n\nयदि उन्हें परेशान न किया जाए तो कोकून कुछ नहीं करते हैं। यदि किसी कोकून को परेशान या नष्ट कर दिया जाता है, तो उसके भीतर का कीट जाग जाएगा और हमला कर देगा, जिससे इस प्रक्रिया में अन्य पास के कोकून भी सक्रिय हो जाएंगे।</CocoonMegaspider.description>
   
   <!-- EN: spelopede cocoon -->
   <CocoonSpelopede.label>गुफा-कीट कोकून</CocoonSpelopede.label>
   <!-- EN: A stasis cocoon containing a spelopede.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
-  <CocoonSpelopede.description>एक स्थिर कोकून जिसमें गुफा-कीट है।\n\nजब परिस्थितियाँ प्रतिकूल होती हैं, तो कीड़े कभी-कभी स्थिर कोकून बनाते हैं और भूमिगत हो जाते हैं। ये कोकून कीड़ों को वर्षों तक आग, अत्यधिक तापमान और अन्य खतरों से सुरक्षित रखते हैं।\n\nप्रदूषक कोकून को उत्तेजित कर सकते हैं और उन्हें सतह पर ला सकते हैं, और प्रबल प्रदूषक दूर से भी कोकून को आकर्षित कर सकते हैं।\n\nकोकून कुछ नहीं करते हैं यदि वे परेशान न हों। यदि कोई कोकून परेशान या नष्ट हो जाता है, तो अंदर का कीड़ा जाग जाएगा और हमला करेगा, जिससे प्रक्रिया में अन्य आस-पास के कोकून भी सक्रिय हो जाएंगे।</CocoonSpelopede.description>
+  <CocoonSpelopede.description>एक गुफा-कीट वाला स्टैसिस कोकून।\n\nजब परिस्थितियाँ प्रतिकूल होती हैं, तो कीट कभी-कभी स्टैसिस कोकून बनाते हैं और जमीन के नीचे बिल बना लेते हैं। ये कोकून कीटों को वर्षों तक आग, अत्यधिक तापमान और अन्य खतरों से सुरक्षित रखते हैं।\n\nप्रदूषक कोकून को उत्तेजित कर सकते हैं और उन्हें पुन: सतह पर आने का कारण बन सकते हैं, और शक्तिशाली प्रदूषक बहुत दूर से भी कोकून को आकर्षित कर सकते हैं।\n\nयदि उन्हें परेशान न किया जाए तो कोकून कुछ नहीं करते हैं। यदि किसी कोकून को परेशान या नष्ट कर दिया जाता है, तो उसके भीतर का कीट जाग जाएगा और हमला करेगा, जिससे इस प्रक्रिया में अन्य पास के कोकून भी सक्रिय हो जाएंगे।</CocoonSpelopede.description>
   
   <!-- EN: collapsed rocks -->
   <CollapsedRocks.label>गिरे पत्थर</CollapsedRocks.label>
@@ -34,7 +34,7 @@
   <!-- EN: compacted machinery -->
   <MineableComponentsIndustrial.label>मशीनरी संकुचन</MineableComponentsIndustrial.label>
   <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
-  <MineableComponentsIndustrial.description>प्राचीन मशीनरी, समय के साथ संघनित। उपयोगी घटक प्राप्त करने के लिए खनन किया जा सकता है।</MineableComponentsIndustrial.description>
+  <MineableComponentsIndustrial.description>प्राचीन मशीनरी, जो समय के साथ संकुचित हो गई है। उपयोगी घटक प्राप्त करने के लिए इसे खनन किया जा सकता है।</MineableComponentsIndustrial.description>
   
   <!-- EN: gold ore -->
   <MineableGold.label>सोना अयस्क</MineableGold.label>
@@ -47,9 +47,9 @@
   <MineableJade.description>पत्थर जिसमें जेड के टुकड़े हैं।</MineableJade.description>
   
   <!-- EN: compacted plasteel -->
-  <MineablePlasteel.label>कॉम्पैक्ट प्लास्टील</MineablePlasteel.label>
+  <MineablePlasteel.label>संघनित प्लास्टील</MineablePlasteel.label>
   <!-- EN: Ancient compacted rubble rich in plasteel. -->
-  <MineablePlasteel.description>प्राचीन संघनित मलबा जिसमें प्लास्टील प्रचुर मात्रा में है।</MineablePlasteel.description>
+  <MineablePlasteel.description>प्लास्टील से भरपूर प्राचीन संकुचित मलबा।</MineablePlasteel.description>
   
   <!-- EN: silver ore -->
   <MineableSilver.label>चाँदी अयस्क</MineableSilver.label>

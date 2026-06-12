@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: The child of an illicit affair, [PAWN_nameDef] was brought up by ascetics in a medieval convent. [PAWN_pronoun] learned the value of hard work and submission, but was taught that technology is heretical and violence immoral. -->
-  <ConventChild16.description>{PAWN_gender ? अवैध संबंध की संतान, [PAWN_nameDef] को मध्ययुगीन मठ में तपस्वियों द्वारा पाला गया। उसने कड़ी मेहनत और अधीनता का मूल्य सीखा, लेकिन उसे सिखाया गया कि प्रौद्योगिकी विधर्मी है और हिंसा अनैतिक है। : अवैध संबंध का पुत्र, [PAWN_nameDef] को मध्ययुगीन मठ में तपस्वियों द्वारा पाला गया था। उसने कड़ी मेहनत और अधीनता का मूल्य सीखा, लेकिन उसे सिखाया गया कि प्रौद्योगिकी विधर्मी है और हिंसा अनैतिक है।}</ConventChild16.description>
+  <ConventChild16.description>{PAWN_gender ? एक अवैध संबंध की संतान, [PAWN_nameDef] का पालन-पोषण एक मध्ययुग के कॉन्वेंट में तपस्वियों द्वारा किया गया था। उसने कड़ी मेहनत और समर्पण का महत्व सीखा, लेकिन उसे यह सिखाया गया कि तकनीक पाखंड है और हिंसा अनैतिक है। : एक अवैध संबंध की संतान, [PAWN_nameDef] का पालन-पोषण एक मध्ययुग के कॉन्वेंट में तपस्वियों द्वारा किया गया था। उसने कड़ी मेहनत और समर्पण का मूल्य सीखा, लेकिन उसे यह सिखाया गया कि तकनीक पाखंड है और हिंसा अनैतिक है।}</ConventChild16.description>
   <!-- EN: convent child -->
   <ConventChild16.title>монастырь का बच्चा</ConventChild16.title>
   <ConventChild16.titleFemale>नन की बच्ची</ConventChild16.titleFemale>
@@ -11,21 +11,21 @@
   <ConventChild16.titleShortFemale>अवैध संतान</ConventChild16.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a minor noble in an old kingdom on a medieval world. [PAWN_pronoun] grew up in a manor made of handcut stone, served by servants of the lower classes.\n\nSuch a life teaches no technical skills and instils a lifelong aversion to manual labor - but [PAWN_nameDef] learned early the ways of social manipulation. -->
-  <MedievalLordling19.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुगीन दुनिया के एक पुराने साम्राज्य में एक छोटी सी कुलीन थी। वह हाथ से काटे गए पत्थर से बने एक हवेली में पली-बढ़ी, जो निम्न वर्ग के सेवकों द्वारा सेवित थी।\n\nऐसा जीवन कोई तकनीकी कौशल नहीं सिखाता है और शारीरिक श्रम के प्रति आजीवन अरुचि पैदा करता है - लेकिन [PAWN_nameDef] ने जल्दी ही सामाजिक हेरफेर के तरीके सीख लिए। : [PAWN_nameDef] एक मध्ययुगीन दुनिया के एक पुराने साम्राज्य में एक मामूली कुलीन था। वह हाथ से काटे गए पत्थर से बने एक हवेली में बड़ा हुआ, जो निम्न वर्ग के सेवकों द्वारा सेवित था।\n\nऐसा जीवन कोई तकनीकी कौशल नहीं सिखाता है और शारीरिक श्रम के प्रति आजीवन अरुचि पैदा करता है - लेकिन [PAWN_nameDef] ने जल्दी ही सामाजिक हेरफेर के तरीके सीख लिए।}</MedievalLordling19.description>
+  <MedievalLordling19.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुगीन दुनिया के पुराने साम्राज्य में एक मामूली कुलीन महिला थी। वह हाथ से तराशे गए पत्थरों से बनी एक हवेली में पली-बढ़ी, जहाँ निचली श्रेणी के सेवक उसकी सेवा करते थे।\n\nऐसा जीवन कोई तकनीकी कौशल नहीं सिखाता और शारीरिक श्रम के प्रति जीवन भर के लिए अरुचि पैदा कर देता है - लेकिन [PAWN_nameDef] ने सामाजिक हेरफेर के तरीकों को जल्दी ही सीख लिया था। : [PAWN_nameDef] एक मध्ययुगीन दुनिया के पुराने साम्राज्य में एक छोटा कुलीन था। वह हाथ से तराशे गए पत्थरों से बनी एक हवेली में पला-बढ़ा, जहाँ निचली श्रेणी के सेवक उसकी सेवा करते थे।\n\nऐसा जीवन कोई तकनीकी कौशल नहीं सिखाता और शारीरिक श्रम के प्रति जीवन भर के लिए अरुचि पैदा करता है - लेकिन [PAWN_nameDef] ने सामाजिक हेरफेर के तरीकों को जल्दी ही सीख लिया था।}</MedievalLordling19.description>
   <!-- EN: medieval lordling -->
-  <MedievalLordling19.title>मध्यकालीन सामंती शासक</MedievalLordling19.title>
+  <MedievalLordling19.title>मध्ययुग का सामंतपुत्र</MedievalLordling19.title>
   <!-- EN: medieval lady -->
-  <MedievalLordling19.titleFemale>मध्यकालीन महिला</MedievalLordling19.titleFemale>
+  <MedievalLordling19.titleFemale>मध्ययुग की महिला सामंत</MedievalLordling19.titleFemale>
   <!-- EN: lordling -->
   <MedievalLordling19.titleShort>युवा शासक</MedievalLordling19.titleShort>
   <!-- EN: lady -->
   <MedievalLordling19.titleShortFemale>महिला</MedievalLordling19.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up pulling carts and digging holes on a medieval world. Simple manual labor is [PAWN_possessive] oldest companion - along with the master's lash.\n\n[PAWN_pronoun] didn't learn to read until age nine. -->
-  <MedievalSlave49.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुगीन दुनिया में गाड़ियाँ खींचते और गड्ढे खोदते हुए बड़ी हुई। साधारण शारीरिक श्रम उसका सबसे पुराना साथी है - साथ ही मालिक की चाबुक भी।\n\nउसे नौ वर्ष की आयु तक पढ़ना नहीं आया। : [PAWN_nameDef] एक मध्ययुगीन दुनिया में गाड़ियाँ खींचते और गड्ढे खोदते हुए बड़ा हुआ। साधारण शारीरिक श्रम उसका सबसे पुराना साथी है - साथ ही मालिक की चाबुक भी।\n\nउसे नौ वर्ष की आयु तक पढ़ना नहीं आया।}</MedievalSlave49.description>
+  <MedievalSlave49.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुगीन दुनिया में गाड़ियाँ खींचते और गड्ढे खोदते हुए बड़ी हुई। साधारण शारीरिक श्रम उसके सबसे पुराने साथी हैं - मालिक की कोड़े की मार के साथ।\n\nउसने नौ साल की उम्र तक पढ़ना नहीं सीखा था। : [PAWN_nameDef] एक मध्ययुगीन दुनिया में गाड़ियाँ खींचते और गड्ढे खोदते हुए पला-बढ़ा। साधारण शारीरिक श्रम उसके सबसे पुराने साथी हैं - मालिक की कोड़े की मार के साथ।\n\nउसने नौ साल की उम्र तक पढ़ना नहीं सीखा था।}</MedievalSlave49.description>
   <!-- EN: medieval slave -->
-  <MedievalSlave49.title>मध्यकालीन दास</MedievalSlave49.title>
-  <MedievalSlave49.titleFemale>मध्यकालीन दासी</MedievalSlave49.titleFemale>
+  <MedievalSlave49.title>मध्ययुग का गुलाम</MedievalSlave49.title>
+  <MedievalSlave49.titleFemale>मध्ययुग की दासी</MedievalSlave49.titleFemale>
   <!-- EN: slave -->
   <MedievalSlave49.titleShort>गुलाम</MedievalSlave49.titleShort>
   <MedievalSlave49.titleShortFemale>गुलामी दासी</MedievalSlave49.titleShortFemale>

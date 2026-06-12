@@ -52,19 +52,19 @@
   <!-- EN: surgery success chance factor -->
   <SurgerySuccessChanceFactor.label>सर्जरी सफलता कारक</SurgerySuccessChanceFactor.label>
   <!-- EN: A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
-  <SurgerySuccessChanceFactor.description>यहाँ किए गए ऑपरेशन के सफल होने की संभावना का गुणक।\n\nसर्जरी की सफलता की संभावनाएँ कई अन्य कारकों से भी प्रभावित होती हैं, जिनमें सर्जन की क्षमता और इस्तेमाल की गई दवा शामिल है।</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.description>यहाँ किए जाने वाले ऑपरेशन के सफल होने की संभावना का एक गुणक।\n\nऑपरेशन की सफलता की संभावना कई अन्य कारकों से भी प्रभावित होती है, जिसमें सर्जन की क्षमता और उपयोग की गई दवा शामिल है।</SurgerySuccessChanceFactor.description>
   <!-- EN: Room cleanliness -->
   <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>कमरा स्वच्छता</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: trap melee damage -->
   <TrapMeleeDamage.label>जाल नज़दीकी युद्ध क्षति</TrapMeleeDamage.label>
   <!-- EN: How much damage this trap does on average per hit. Each trap hits multiple times.\n\nThe actual damage in any instance will vary randomly. -->
-  <TrapMeleeDamage.description>यह जाल प्रति प्रहार औसतन कितनी क्षति करता है। प्रत्येक जाल कई बार प्रहार करता है।\n\nकिसी भी उदाहरण में वास्तविक क्षति यादृच्छिक रूप से भिन्न होगी।</TrapMeleeDamage.description>
+  <TrapMeleeDamage.description>यह जाल प्रति प्रहार औसतन कितना नुकसान पहुँचाता है। प्रत्येक जाल कई बार प्रहार करता है।\n\nकिसी भी स्थिति में वास्तविक नुकसान यादृच्छिक रूप से भिन्न होगा।</TrapMeleeDamage.description>
   
   <!-- EN: trap spring chance -->
-  <TrapSpringChance.label>जाल स्प्रिंग संभावना</TrapSpringChance.label>
+  <TrapSpringChance.label>जाल सक्रिय होने की संभावना</TrapSpringChance.label>
   <!-- EN: The likelihood that the trap will spring when an unaware creature passes over it. -->
-  <TrapSpringChance.description>फंदा के सक्रिय होने की संभावना जब कोई अनजान प्राणी इसके ऊपर से गुजरे।</TrapSpringChance.description>
+  <TrapSpringChance.description>जब कोई अनभिज्ञ जीव इसके ऊपर से गुजरता है, तो जाल के सक्रिय होने की संभावना।</TrapSpringChance.description>
   
   <!-- EN: work efficiency factor -->
   <WorkTableEfficiencyFactor.label>कार्य दक्षता गुणक</WorkTableEfficiencyFactor.label>

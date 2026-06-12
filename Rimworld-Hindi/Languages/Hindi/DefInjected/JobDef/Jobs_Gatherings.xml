@@ -5,7 +5,7 @@
   <GiveSpeech.reportString>बातचीत</GiveSpeech.reportString>
   
   <!-- EN: marrying TargetA. -->
-  <MarryAdjacentPawn.reportString>लक्ष्यA से विवाह।</MarryAdjacentPawn.reportString>
+  <MarryAdjacentPawn.reportString>TargetA से विवाह करना।</MarryAdjacentPawn.reportString>
   
   <!-- EN: spectating. -->
   <SpectateCeremony.reportString>देखना.</SpectateCeremony.reportString>

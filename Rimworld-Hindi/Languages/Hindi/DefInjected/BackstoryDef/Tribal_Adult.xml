@@ -128,7 +128,7 @@
   <Herder33.titleShortFemale>पशुपालिका</Herder33.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] tracked, trapped and killed animals for their meat and leather.\n\n[PAWN_nameDef] used both ranged and melee weapons. Sometimes, [PAWN_pronoun] hunted alongside animals. -->
-  <Hunter74.description>{PAWN_gender ? शिकारी ने जानवरों का पीछा किया, उन्हें फंसाया और उनके मांस और चमड़े के लिए मार डाला।\n\nशिकारी ने दूर और निकट दोनों तरह के हथियारों का इस्तेमाल किया। कभी-कभी, वह जानवरों के साथ मिलकर शिकार करती थी। : [PAWN_nameDef] ने मांस और चमड़े के लिए जानवरों का पीछा किया, उन्हें फंसाया और मार डाला।\n\n[PAWN_nameDef] ने दूर और निकट दोनों तरह के हथियारों का इस्तेमाल किया। कभी-कभी, वह जानवरों के साथ मिलकर शिकार करता था।}</Hunter74.description>
+  <Hunter74.description>{PAWN_gender ? [PAWN_nameDef] मांस और चमड़े के लिए जानवरों का पीछा करती, उन्हें फँसाती और मार डालती थी।\n\n[PAWN_nameDef] दूर के और नज़दीकी युद्ध वाले दोनों प्रकार के हथियारों का उपयोग करती थी। कभी-कभी, वह जानवरों के साथ मिलकर शिकार करती थी। : [PAWN_nameDef] मांस और चमड़े के लिए जानवरों का पीछा करता, उन्हें फँसाता और मार डालता था।\n\n[PAWN_nameDef] दूर के और नज़दीकी युद्ध वाले दोनों प्रकार के हथियारों का उपयोग करता था। कभी-कभी, वह जानवरों के साथ मिलकर शिकार करता था।}</Hunter74.description>
   <!-- EN: hunter -->
   <Hunter74.title>शिकारी</Hunter74.title>
   <Hunter74.titleFemale>शिकारी महिला</Hunter74.titleFemale>
@@ -137,7 +137,7 @@
   <Hunter74.titleShortFemale>शिकारी महिला</Hunter74.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] chopped trees and hauled their lumber back to the tribe. [PAWN_pronoun] wielded [PAWN_possessive] axe with the finesse of an artist and the force of a charging muffalo. -->
-  <Logger16.description>[PAWN_nameDef] ने पेड़ काटे और उनकी लकड़ी को जनजाति तक पहुँचाया। उसने अपनी कुल्हाड़ी को एक कलाकार की कुशलता और एक चार्जिंग मफ़ालो की ताकत से चलाया।</Logger16.description>
+  <Logger16.description>{PAWN_gender ? [PAWN_nameDef] ने पेड़ों को काटा और उनकी लकड़ी को वापस कबीले तक पहुँचाया। उसने एक कलाकार की कुशलता और एक हमलावर मफ्फालो के बल के साथ अपनी कुल्हाड़ी चलाई। : [PAWN_nameDef] ने पेड़ों को काटा और उनकी लकड़ी को वापस कबीले तक पहुँचाया। उसने अपनी कुल्हाड़ी का उपयोग एक कलाकार की कुशलता और एक हमलावर मफ्फालो के बल के साथ किया।}</Logger16.description>
   <!-- EN: logger -->
   <Logger16.title>लकड़ी काटने वाला</Logger16.title>
   <Logger16.titleFemale>लकड़ी काटने वाली महिला</Logger16.titleFemale>
@@ -171,9 +171,9 @@
   <Malingerer28.titleShortFemale>झूठी बीमार महिला</Malingerer28.titleShortFemale>
   
   <!-- EN: Because of [PAWN_possessive] quiet wisdom and great strength, [PAWN_nameDef] became the spiritual guide for [PAWN_possessive] tribe. [PAWN_pronoun] had a special connection with the great spirit of the muffalo. -->
-  <MuffaloShaman95.description>{PAWN_gender ? अपनी शांत बुद्धिमत्ता और महान शक्ति के कारण, [PAWN_nameDef] अपनी जनजाति की आध्यात्मिक मार्गदर्शक बन गईं। उसका मफ़ालो की महान आत्मा से एक विशेष संबंध था। : अपनी शांत बुद्धिमत्ता और महान शक्ति के कारण, [PAWN_nameDef] अपनी जनजाति के लिए आध्यात्मिक मार्गदर्शक बन गए। उनका मफ़ालो की महान आत्मा से एक विशेष संबंध था।}</MuffaloShaman95.description>
+  <MuffaloShaman95.description>{PAWN_gender ? अपनी शांत बुद्धिमत्ता और महान शक्ति के कारण, [PAWN_nameDef] अपने कबीले की आध्यात्मिक मार्गदर्शक बन गई। मफ्फालो की महान आत्मा के साथ उसका एक विशेष संबंध था। : अपनी शांत बुद्धिमत्ता और महान शक्ति के कारण, [PAWN_nameDef] अपने कबीले के आध्यात्मिक मार्गदर्शक बन गए। मफ्फालो की महान आत्मा के साथ उनका एक विशेष संबंध था।}</MuffaloShaman95.description>
   <!-- EN: muffalo shaman -->
-  <MuffaloShaman95.title>मफ़ालो शमां</MuffaloShaman95.title>
+  <MuffaloShaman95.title>मफ्फालो शमन</MuffaloShaman95.title>
   <!-- EN: shaman -->
   <MuffaloShaman95.titleShort>शमनकर्ता</MuffaloShaman95.titleShort>
   
@@ -187,7 +187,7 @@
   <PlankCutter72.titleShortFemale>तख़्त काटने वाली</PlankCutter72.titleShortFemale>
   
   <!-- EN: Since [PAWN_possessive] tribe made contact with local outlanders, [PAWN_nameDef] contracted [PAWN_possessive] services out as a guide. Frequent contact with ancient technology made [PAWN_objective] comfortable with the lost machines. -->
-  <Scout59.description>{PAWN_gender ? चूंकि उसकी जनजाति ने स्थानीय बाहरी लोगों से संपर्क किया, [PAWN_nameDef] ने अपनी सेवाओं को एक मार्गदर्शक के रूप में प्रदान किया। प्राचीन तकनीक के साथ लगातार संपर्क ने उसे खोई हुई मशीनों से सहज बना दिया। : अपनी जनजाति ने स्थानीय बाहरी लोगों से संपर्क किया, जिसके बाद [PAWN_nameDef] ने एक मार्गदर्शक के रूप में अपनी सेवाएं प्रदान कीं। प्राचीन तकनीक के साथ लगातार संपर्क ने उसे खोई हुई मशीनों से सहज बना दिया।}</Scout59.description>
+  <Scout59.description>{PAWN_gender ? जब से उनके कबीले का स्थानीय बाहरी लोगों के साथ संपर्क हुआ है, [PAWN_nameDef] ने एक मार्गदर्शक के रूप में अपनी सेवाएँ देना शुरू कर दिया। प्राचीन तकनीक के साथ बार-बार होने वाले संपर्क ने उन्हें उन खोई हुई मशीनों के साथ सहज बना दिया। : जब से उसके कबीले का स्थानीय बाहरी लोगों के साथ संपर्क हुआ है, [PAWN_nameDef] ने एक मार्गदर्शक के रूप में अपनी सेवाएँ देना शुरू कर दिया। प्राचीन तकनीक के साथ बार-बार होने वाले संपर्क ने उसे उन खोई हुई मशीनों के साथ सहज बना दिया।}</Scout59.description>
   <!-- EN: scout -->
   <Scout59.title>जासूस</Scout59.title>
   <Scout59.titleFemale>जासूस</Scout59.titleFemale>

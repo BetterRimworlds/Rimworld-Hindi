@@ -164,7 +164,7 @@
   <TimeSpeed_Superfast.label>खेल गति: अति तीव्र</TimeSpeed_Superfast.label>
   
   <!-- EN: game speed: Ultra fast (debug) -->
-  <TimeSpeed_Ultrafast.label>अल्ट्रा युग गति</TimeSpeed_Ultrafast.label>
+  <TimeSpeed_Ultrafast.label>खेल की गति: अल्ट्रा युग तेज़ (डिबग)</TimeSpeed_Ultrafast.label>
   
   <!-- EN: toggle beauty display -->
   <ToggleBeautyDisplay.label>सौंदर्य प्रदर्शन</ToggleBeautyDisplay.label>

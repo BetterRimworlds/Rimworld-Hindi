@@ -50,7 +50,7 @@
   <!-- EN: melee -->
   <AllowBookMelee.label>नज़दीकी युद्ध</AllowBookMelee.label>
   <!-- EN: Allow books which teach melee skills. -->
-  <AllowBookMelee.description>नज़दीकी युद्ध कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookMelee.description>
+  <AllowBookMelee.description>उन किताबों की अनुमति दें जो नज़दीकी युद्ध कौशल सिखाती हैं।</AllowBookMelee.description>
   
   <!-- EN: mining -->
   <AllowBookMining.label>खनन</AllowBookMining.label>
@@ -94,9 +94,9 @@
   <AllowCorpsesStranger.description>अजनबियों और दुश्मनों के मृत शरीरों की अनुमति दें।</AllowCorpsesStranger.description>
   
   <!-- EN: allow tainted apparel -->
-  <AllowDeadmansApparel.label>दूषित वस्त्र</AllowDeadmansApparel.label>
+  <AllowDeadmansApparel.label>दूषित परिधान की अनुमति दें</AllowDeadmansApparel.label>
   <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
-  <AllowDeadmansApparel.description>मृत शरीर पर पहने गए कपड़ों को पहनने की अनुमति दें। अधिकांश मनुष्य मृत शरीर से दूषित कपड़ों को परेशान करने वाला मानते हैं, और व्यापारी इसे स्वीकार नहीं करेंगे।</AllowDeadmansApparel.description>
+  <AllowDeadmansApparel.description>ऐसे कपड़ों की अनुमति दें जो कभी किसी शव द्वारा पहने गए थे। अधिकांश मनुष्यों को शव-दूषित कपड़े विचलित करने वाले लगते हैं, और व्यापारी इन्हें स्वीकार नहीं करेंगे।</AllowDeadmansApparel.description>
   
   <!-- EN: allow females -->
   <AllowFemaleGender.label>मादा अनुमति दें</AllowFemaleGender.label>
@@ -138,7 +138,7 @@
   <!-- EN: allow clean apparel -->
   <AllowNonDeadmansApparel.label>साफ वस्त्र</AllowNonDeadmansApparel.label>
   <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
-  <AllowNonDeadmansApparel.description>लाश द्वारा कभी न पहने गए कपड़ों की अनुमति दें। अधिकांश मनुष्य लाश से दूषित कपड़ों को परेशान करने वाला मानते हैं, और व्यापारी इसे स्वीकार नहीं करेंगे।</AllowNonDeadmansApparel.description>
+  <AllowNonDeadmansApparel.description>ऐसे कपड़ों की अनुमति दें जो कभी किसी शव द्वारा नहीं पहने गए थे। अधिकांश मनुष्यों को शव-दूषित कपड़े विचलित करने वाले लगते हैं, और व्यापारी इन्हें स्वीकार नहीं करेंगे।</AllowNonDeadmansApparel.description>
   
   <!-- EN: allow non-smeltable -->
   <AllowNonSmeltableApparel.label>गैर-पिघलने योग्य</AllowNonSmeltableApparel.label>

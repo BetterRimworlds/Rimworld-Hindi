@@ -9,17 +9,17 @@
   <ButcherCorpseFlesh.jobString>कसाईगिरी.</ButcherCorpseFlesh.jobString>
   
   <!-- EN: shred mechanoid or drone -->
-  <ButcherCorpseMechanoid.label>मेकैनॉइड या ड्रोन टुकड़े</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.label>मेकैनॉइड या ड्रोन को नष्ट करें</ButcherCorpseMechanoid.label>
   <!-- EN: Shred a dead mechanoid or drone to salvage usable material. -->
-  <ButcherCorpseMechanoid.description>मृत मेकैनॉइड या ड्रोन को उपयोगी सामग्री निकालने के लिए टुकड़े-टुकड़े करें।</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.description>उपयोगी सामग्री निकालने के लिए एक मृत मेकैनॉइड या ड्रोन को नष्ट करें।</ButcherCorpseMechanoid.description>
   <!-- EN: Shredding mechanoid. -->
-  <ButcherCorpseMechanoid.jobString>मेकैनॉइड को चीरना।</ButcherCorpseMechanoid.jobString>
+  <ButcherCorpseMechanoid.jobString>मेकैनॉइड को फाड़ना।</ButcherCorpseMechanoid.jobString>
   
   <!-- EN: smash mechanoid or drone -->
-  <SmashCorpseMechanoid.label>मेकैनॉइड या ड्रोन तोड़ें</SmashCorpseMechanoid.label>
+  <SmashCorpseMechanoid.label>मेकैनॉइड या ड्रोन को कुचलें</SmashCorpseMechanoid.label>
   <!-- EN: Smash a dead mechanoid or drone with simple hand tools to salvage usable material. -->
-  <SmashCorpseMechanoid.description>एक मृत मेकैनॉइड या ड्रोन को साधारण हाथ उपकरणों से तोड़कर उपयोगी सामग्री प्राप्त करें।</SmashCorpseMechanoid.description>
+  <SmashCorpseMechanoid.description>उपयोगी सामग्री निकालने के लिए साधारण हस्त उपकरणों से एक मृत मेकैनॉइड या ड्रोन को तोड़ें।</SmashCorpseMechanoid.description>
   <!-- EN: Smashing mechanoid. -->
-  <SmashCorpseMechanoid.jobString>मेकैनॉइड तोड़ना।</SmashCorpseMechanoid.jobString>
+  <SmashCorpseMechanoid.jobString>मेकैनॉइड को कुचलना।</SmashCorpseMechanoid.jobString>
   
 </LanguageData>

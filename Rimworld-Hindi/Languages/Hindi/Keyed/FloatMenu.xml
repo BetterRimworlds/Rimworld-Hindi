@@ -60,7 +60,7 @@
   <!-- EN: Melee attack {1_labelShort} -->
   <MeleeAttack>नज़दीकी युद्ध हमला {1_labelShort}</MeleeAttack>
   <!-- EN: Melee attack {1_labelShort} to death -->
-  <MeleeAttackToDeath>नज़दीकी युद्ध आक्रमण से मृत्यु {1_labelShort}</MeleeAttackToDeath>
+  <MeleeAttackToDeath>{1_labelShort} के साथ मृत्यु तक नज़दीकी युद्ध हमला</MeleeAttackToDeath>
   <!-- EN: no path -->
   <NoPath>कोई रास्ता नहीं</NoPath>
   <!-- EN: burying -->
@@ -85,7 +85,7 @@
   <!-- EN: missing {0} -->
   <MissingMaterials>अनुपलब्ध {0}</MissingMaterials>
   <!-- EN: No medicine for restriction '{CATEGORY}'. -->
-  <NoMedicineMatchingCategory>प्रतिबंध '{CATEGORY}' के लिए कोई दवा नहीं।</NoMedicineMatchingCategory>
+  <NoMedicineMatchingCategory>प्रतिबंध '{CATEGORY}' के लिए कोई दवा नहीं है।</NoMedicineMatchingCategory>
   <!-- EN: under required skill {0} -->
   <UnderRequiredSkill>आवश्यक कौशल {0} के तहत</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
@@ -139,7 +139,7 @@
   <!-- EN: {0} skill too low -->
   <SkillTooLowForConstruction>{0} कौशल बहुत कम है</SkillTooLowForConstruction>
   <!-- EN: need components -->
-  <NoComponentsToRepair>घटक आवश्यक हैं।</NoComponentsToRepair>
+  <NoComponentsToRepair>घटक चाहिए</NoComponentsToRepair>
   <!-- EN: need {0} -->
   <NoFuelToRefuel>ज़रूरत {0}</NoFuelToRefuel>
   <!-- EN: need wort -->
@@ -240,15 +240,15 @@
   <CannotRescuePawn>बचाना संभव नहीं।</CannotRescuePawn>
 
   <!-- EN: Carry {1_labelShort} to cryptosleep casket -->
-  <CarryToCryptosleepCasket>{1_labelShort} को क्रिप्टोस्लीप ताबूत तक ले जाएं</CarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>{1_labelShort} को क्रिप्टोस्लीप ताबूत तक ले जाएँ</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
-  <CannotCarryToCryptosleepCasket>क्रिप्टोस्लीप ताबूत तक ले नहीं जा सकता।</CannotCarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>क्रिप्टोस्लीप ताबूत तक ले जाना संभव नहीं है</CannotCarryToCryptosleepCasket>
 
   <!-- EN: Carry {0_labelShort} to shuttle -->
   <CarryToShuttle>ले जाएं {0_labelShort} शटल तक</CarryToShuttle>
 
   <!-- EN: No available cryptosleep casket. -->
-  <NoCryptosleepCasket>कोई उपलब्ध क्रिप्टोस्लीप ताबूत नहीं।</NoCryptosleepCasket>
+  <NoCryptosleepCasket>कोई भी क्रिप्टोस्लीप ताबूत उपलब्ध नहीं है।</NoCryptosleepCasket>
   <!-- EN: Temporary faction members not allowed. -->
   <CryptosleepCasketGuestsNotAllowed>अस्थायी गुट सदस्य अनुमत नहीं हैं।</CryptosleepCasketGuestsNotAllowed>
   <!-- EN: Hosted prisoners not allowed. -->
@@ -455,7 +455,7 @@
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
-  <EnterCryptosleepCasket>क्रिप्टोस्लीप ताबूत</EnterCryptosleepCasket>
+  <EnterCryptosleepCasket>क्रिप्टोस्लीप ताबूत में प्रवेश करें</EnterCryptosleepCasket>
   <!-- EN: Open cryptosleep casket -->
   <OpenCryptosleepCasket>क्रिप्टोस्लीप ताबूत खोलें</OpenCryptosleepCasket>
   <!-- EN: Get in shuttle -->

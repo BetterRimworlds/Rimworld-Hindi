@@ -15,7 +15,7 @@
   <!-- EN: Sterilize a creature so it can no longer reproduce. -->
   <Sterilize.description>किसी जीव को बंध्या बनाइए ताकि वह अब प्रजनन न कर सके।</Sterilize.description>
   <!-- EN: sterilizing TargetA. -->
-  <Sterilize.jobString>TargetA को निष्कीटण।</Sterilize.jobString>
+  <Sterilize.jobString>TargetA को स्टरलाइज़ कर रहे हैं।</Sterilize.jobString>
   <!-- EN: {0} has successfully sterilized {1}. -->
   <Sterilize.successfullyRemovedHediffMessage>{0} ने सफलतापूर्वक {1} को निष्फल कर दिया।</Sterilize.successfullyRemovedHediffMessage>
   

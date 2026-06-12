@@ -4,10 +4,10 @@
   <!-- EN: flake -->
   <Flake.label>फ्लेक</Flake.label>
   <!-- EN: A flaky white preparation of psychite that can be smoked to induce a short but powerful euphoric state. While it is cheap to produce and extremely pleasurable to use, it is exceptionally addictive. Flake is known for destroying lives, communities, and entire societies. -->
-  <Flake.description>साइकाइट की एक परतदार सफ़ेद तैयारी है जिसे धूम्रपान करने से एक संक्षिप्त लेकिन शक्तिशाली आनंददायक अवस्था उत्पन्न होती है। यह बनाने में सस्ता और उपयोग करने में बेहद सुखद होने के बावजूद, यह असाधारण रूप से व्यसनकारी है। फ्लेक जीवन, समुदायों और पूरे समाजों को तबाह करने के लिए जाना जाता है।</Flake.description>
+  <Flake.description>साइकाइट का एक फ्लेक जैसा सफेद मिश्रण जिसे धूम्रपान करने से एक छोटा लेकिन शक्तिशाली उत्साहपूर्ण अवस्था उत्पन्न की जा सकती है। हालांकि इसका उत्पादन सस्ता है और उपयोग में अत्यंत सुखद है, फिर भी यह असाधारण रूप से व्यसनी है। फ्लेक जीवन, समुदायों और पूरे समाजों को नष्ट करने के लिए जाना जाता है।</Flake.description>
   <!-- EN: Smoke {0} -->
   <Flake.ingestible.ingestCommandString>धुआँ {0}</Flake.ingestible.ingestCommandString>
   <!-- EN: Smoking {0}. -->
-  <Flake.ingestible.ingestReportString>धूम्रपान {0}.</Flake.ingestible.ingestReportString>
+  <Flake.ingestible.ingestReportString>{0} धूम्रपान करना।</Flake.ingestible.ingestReportString>
   
 </LanguageData>

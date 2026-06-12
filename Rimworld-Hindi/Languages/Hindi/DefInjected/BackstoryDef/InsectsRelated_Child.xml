@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] grew up in the sludge-smeared sewers of a polluted industrial world.\n\n[PAWN_pronoun] befriended the strange insects in the darkness and learned to love them. -->
-  <SewerKid57.description>{PAWN_gender ? [PAWN_nameDef] एक प्रदूषित औद्योगिक दुनिया के कीचड़ से सने सीवरों में पली-बढ़ी।\n\nउसने अंधेरे में अजीब कीड़ों से दोस्ती की और उन्हें प्यार करना सीखा। : [PAWN_nameDef] प्रदूषित औद्योगिक दुनिया के कीचड़ से सने सीवरों में बड़ा हुआ।\n\nउसने अंधेरे में अजीब कीड़ों से दोस्ती की और उन्हें प्यार करना सीखा।}</SewerKid57.description>
+  <SewerKid57.description>{PAWN_gender ? [PAWN_nameDef] एक प्रदूषित औद्योगिक युग की कीचड़ से सने सीवरों में पली-बढ़ी।\n\nउसने अंधेरे में अजीबोगरीब कीड़ों से दोस्ती कर ली और उनसे प्यार करना सीख लिया। : [PAWN_nameDef] एक प्रदूषित औद्योगिक युग की कीचड़ से सने सीवर में पला-बढ़ा।\n\nउसने अंधेरे में अजीबोगरीब कीड़ों से दोस्ती कर ली और उनसे प्रेम करना सीख लिया।}</SewerKid57.description>
   <!-- EN: sewer kid -->
-  <SewerKid57.title>नाली बच्चा</SewerKid57.title>
+  <SewerKid57.title>गटर का बच्चा</SewerKid57.title>
   <!-- EN: sewer girl -->
-  <SewerKid57.titleFemale>गटर की लड़की</SewerKid57.titleFemale>
+  <SewerKid57.titleFemale>गटर लड़की</SewerKid57.titleFemale>
   <!-- EN: sewer boy -->
-  <SewerKid57.titleShort>गटर बालक</SewerKid57.titleShort>
+  <SewerKid57.titleShort>गटर का लड़का</SewerKid57.titleShort>
   <!-- EN: sewer girl -->
-  <SewerKid57.titleShortFemale>गटर की लड़की</SewerKid57.titleShortFemale>
+  <SewerKid57.titleShortFemale>गटर लड़की</SewerKid57.titleShortFemale>
   
 </LanguageData>

@@ -11,7 +11,7 @@
   <ChildSpy47.titleShortFemale>जासूस</ChildSpy47.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a child actor in films and TV shows. [PAWN_possessive] fame put [PAWN_objective] in contact with many different kinds of people, but also tended to get in the way of [PAWN_possessive] education. -->
-  <ChildStar74.description>{PAWN_gender ? [PAWN_nameDef] अपनी गृह दुनिया में एक बाल कलाकार के रूप में फिल्मों और टीवी शो में अपनी प्रसिद्धि के लिए जानी जाती थी। उसकी प्रसिद्धि ने उसे कई अलग-अलग प्रकार के लोगों के संपर्क में ला दिया, लेकिन इसने उसकी शिक्षा में अक्सर बाधा डाली। : [PAWN_nameDef] अपने गृह ग्रह पर एक बाल कलाकार के रूप में फिल्मों और टीवी शो में प्रसिद्ध थे। उनकी प्रसिद्धि ने उन्हें कई अलग-अलग प्रकार के लोगों के संपर्क में लाया, लेकिन इसने उनकी शिक्षा में अक्सर बाधा डाली।}</ChildStar74.description>
+  <ChildStar74.description>{PAWN_gender ? [PAWN_nameDef] अपने गृह ग्रह पर फिल्मों और टीवी शो में एक बाल कलाकार के रूप में काफी प्रसिद्ध थी। उसकी प्रसिद्धि ने उसे कई अलग-अलग प्रकार के लोगों के संपर्क में ला दिया, लेकिन इसकी वजह से उसकी शिक्षा में भी बाधा आने लगी। : [PAWN_nameDef] अपने गृहग्रह पर फिल्मों और टीवी शो में एक बाल अभिनेता के रूप में काफी प्रसिद्ध था। उसकी प्रसिद्धि ने उसे कई अलग-अलग प्रकार के लोगों के संपर्क में ला दिया, लेकिन इसकी वजह से उसकी शिक्षा में भी बाधा आने लगी थी।}</ChildStar74.description>
   <!-- EN: child star -->
   <ChildStar74.title>बाल कलाकार</ChildStar74.title>
   <ChildStar74.titleFemale>बाल कलाकार</ChildStar74.titleFemale>
@@ -98,7 +98,7 @@
   <ShopKid36.titleShortFemale>दुकान की बच्ची</ShopKid36.titleShortFemale>
   
   <!-- EN: As a child, [PAWN_nameDef] suffered from a rare disease. Quarantined in a hospital, [PAWN_pronoun] had minimal human contact and got little physical exercise. In the sterile hospital environment, however, [PAWN_pronoun] became very familiar with science and medicine. -->
-  <SicklyChild55.description>{PAWN_gender ? एक बच्चे के रूप में, [PAWN_nameDef] एक दुर्लभ बीमारी से पीड़ित थी। एक अस्पताल में संगरोध में रहने के कारण, उसका मनुष्यों से बहुत कम संपर्क था और उसे बहुत कम शारीरिक व्यायाम मिला। हालाँकि, बाँझ अस्पताल के वातावरण में, वह विज्ञान और चिकित्सा से बहुत अच्छी तरह परिचित हो गई। : एक बच्चे के रूप में, [PAWN_nameDef] एक दुर्लभ बीमारी से पीड़ित था। एक अस्पताल में संगरोध में रहने के कारण, उसका मनुष्यों से बहुत कम संपर्क था और उसे बहुत कम शारीरिक व्यायाम मिला। हालाँकि, बाँझ अस्पताल के वातावरण में, वह विज्ञान और चिकित्सा से बहुत परिचित हो गया।}</SicklyChild55.description>
+  <SicklyChild55.description>{PAWN_gender ? एक बच्चे के रूप में, [PAWN_nameDef] एक दुर्लभ बीमारी से पीड़ित थी। अस्पताल में क्वारंटाइन रहने के कारण, उसका मनुष्यों से संपर्क बहुत कम था और उसे बहुत कम शारीरिक व्यायाम मिल पाता था। हालाँकि, अस्पताल के उस बाँझ वातावरण में, वह विज्ञान और दवा से बहुत परिचित हो गई। : बचपन में, [PAWN_nameDef] एक दुर्लभ बीमारी से पीड़ित था। अस्पताल में क्वारंटाइन रहने के कारण, उसका मनुष्यों से संपर्क बहुत कम था और उसे बहुत कम शारीरिक व्यायाम मिल पाता था। हालाँकि, अस्पताल के उस बाँझ वातावरण में, वह विज्ञान और दवा से बहुत परिचित हो गया।}</SicklyChild55.description>
   <!-- EN: sickly child -->
   <SicklyChild55.title>बीमार बालक</SicklyChild55.title>
   <SicklyChild55.titleFemale>बीमार बच्ची</SicklyChild55.titleFemale>

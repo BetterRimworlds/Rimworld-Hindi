@@ -105,7 +105,7 @@
   <!-- EN: organ decay -->
   <OrganDecay.label>अंग क्षय</OrganDecay.label>
   <!-- EN: An untreatable degenerative disease affecting a single organ. The cause may be bacterial or viral. The illness seems to strike randomly from an unknown natural reservoir; it is not directly contagious between people.\n\nThis organ will slowly lose function before dying completely. Replace it with a bionic or natural organ. -->
-  <OrganDecay.description>एक असाध्य अपक्षयी रोग जो एक एकल अंग को प्रभावित करता है। कारण जीवाणु या वायरल हो सकता है। बीमारी किसी अज्ञात प्राकृतिक भंडार से बेतरतीब ढंग से फैलती प्रतीत होती है; यह लोगों के बीच सीधे संक्रामक नहीं है।\n\nयह अंग पूरी तरह से मरने से पहले धीरे-धीरे कार्यक्षमता खो देगा। इसे एक बायोनीक या प्राकृतिक अंग से बदलें।</OrganDecay.description>
+  <OrganDecay.description>एक एकल अंग को प्रभावित करने वाला एक लाइलाज अपक्षयी रोग। इसका कारण जीवाणु या विषाणु हो सकता है। यह बीमारी एक अज्ञात प्राकृतिक भंडार से यादृच्छिक रूप से आती हुई प्रतीत होती है; यह लोगों के बीच सीधे तौर पर संक्रामक नहीं है।\n\nयह अंग पूरी तरह से नष्ट होने से पहले धीरे-धीरे अपना कार्य खो देगा। इसे एक बायोनिक या प्राकृतिक अंग से बदल दें।</OrganDecay.description>
   <!-- EN: {PAWN_labelShort}'s {1} was destroyed by organ decay. -->
   <OrganDecay.comps.HediffComp_DestroyOrgan.messageText>{PAWN_labelShort} का {1} अंग क्षय से नष्ट हो गया।</OrganDecay.comps.HediffComp_DestroyOrgan.messageText>
   <!-- EN: minor -->

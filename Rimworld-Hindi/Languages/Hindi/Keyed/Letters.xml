@@ -21,7 +21,7 @@
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
   <LetterRelationsChange_Hostile>{0} के साथ संबंध पूरी तरह से टूट गए हैं। अब वे आपके प्रति शत्रुतापूर्ण हैं।</LetterRelationsChange_Hostile>  
   <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
-  <LetterRelationsChange_HostileGoodwillDescription>वे आपकी कॉलोनी और कारवां पर समय-समय पर छापे मारेंगे, और आपके साथ व्यापार करने से इनकार कर देंगे। यदि आप संबंध सुधारना चाहते हैं, तो आप अभी भी कारवां या परिवहन पॉड का उपयोग करके उन्हें उपहार दे सकते हैं।\n\nयह इसलिए हुआ क्योंकि सद्भावना ({0}) {1} से नीचे गिर गई है। तटस्थ संबंध बहाल करने के लिए, सद्भावना को फिर से {2} तक पहुंचना होगा।</LetterRelationsChange_HostileGoodwillDescription>
+  <LetterRelationsChange_HostileGoodwillDescription>वे आपकी कॉलोनी और कारवानों पर समय-समय पर छापे करेंगे, और आपके साथ व्यापार करने से इनकार कर देंगे। यदि आप संबंधों में सुधार करना चाहते हैं, तो आप अभी भी कारवानों या परिवहन पॉड्स का उपयोग करके उन्हें उपहार दे सकते हैं।\n\nऐसा इसलिए हुआ क्योंकि सद्भावना ({0}) {1} से नीचे गिर गई है। तटस्थ संबंधों को बहाल करने के लिए, सद्भावना को फिर से {2} तक पहुँचना होगा।</LetterRelationsChange_HostileGoodwillDescription>
   <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
   <LetterRelationsChange_HostileGoodwillDescription_NoGifting>वे आपकी कॉलोनी और कारवां पर समय-समय पर छापे मारेंगे, और आपके साथ व्यापार करने से इनकार कर देंगे।\n\nयह इसलिए हुआ क्योंकि सद्भावना ({0}) {1} से नीचे गिर गई है। तटस्थ संबंध बहाल करने के लिए, सद्भावना को फिर से {2} तक पहुंचना होगा।</LetterRelationsChange_HostileGoodwillDescription_NoGifting>
 
@@ -57,7 +57,7 @@
   <!-- EN: A new area has been revealed. -->
   <AreaRevealed>एक नया क्षेत्र उजागर हुआ है।</AreaRevealed>
   <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
-  <AreaRevealedWithMechanoids>एक नया क्षेत्र उजागर हुआ है। इसमें प्राचीन, शत्रुतापूर्ण मैकेनॉइड्स हैं।</AreaRevealedWithMechanoids>
+  <AreaRevealedWithMechanoids>एक नया क्षेत्र प्रकट हुआ है। इसमें प्राचीन, शत्रुतापूर्ण मेकैनॉइड्स शामिल हैं।</AreaRevealedWithMechanoids>
 
   <!-- EN: A roof has collapsed because it was too far from any support. -->
   <RoofCollapsed>छत गिर गई क्योंकि यह किसी भी सहारे से बहुत दूर थी।</RoofCollapsed>
@@ -79,7 +79,7 @@
   <!-- EN: Birthday -->
   <LetterLabelBirthday>जन्मदिन</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
-  <BirthdayChronological>आज {0} का कालानुक्रमिक जन्मदिन है! जैविक रूप से, {1} {3} वर्ष का है।\n\nकालानुक्रमिक रूप से, {1} अभी {2} वर्ष का हुआ।\n\nध्यान दें कि चूंकि लोग क्रायोस्लीप में रहते हुए बूढ़े नहीं होते हैं, इसलिए कालानुक्रमिक जन्मदिन जैविक जन्मदिन से अलग है।</BirthdayChronological>
+  <BirthdayChronological>आज {0} का कालानुक्रमिक जन्मदिन है! जैविक रूप से, {1} की आयु {3} वर्ष है।\n\nकालानुक्रमिक रूप से, {1} अभी {2} वर्ष के हुए हैं।\n\nध्यान दें कि चूंकि क्रिप्टोस्लीप के दौरान उम्र नहीं बढ़ती है, इसलिए कालानुक्रमिक जन्मदिन जैविक जन्मदिन से अलग होता है।</BirthdayChronological>
   <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
   <LetterBirthdayBiological>{0_nameFull} ने {1} की जैविक आयु प्राप्त कर ली है।</LetterBirthdayBiological>
   <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
@@ -121,9 +121,9 @@
   <AnimalManhunterOthers>अन्य {1_kindBasePlural} भी क्रोधित हो गए हैं!</AnimalManhunterOthers>
 
   <!-- EN: {1_labelShort} hit trap -->
-  <LetterFriendlyTrapSprungLabel>मार जाल</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprungLabel>{1_labelShort} जाल से टकराया</LetterFriendlyTrapSprungLabel>
   <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
-  <LetterFriendlyTrapSprung>{1_labelShort} अनजाने में एक जाल में फंस गया और उसे नुकसान पहुंचा।</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprung>{1_labelShort} ने अनजाने में एक जाल सक्रिय कर दिया है और उससे क्षति हुई है।</LetterFriendlyTrapSprung>
 
   <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
   <LetterHealthComplications>{PAWN_labelShort} को एक स्वास्थ्य स्थिति विकसित हुई है:\n\n  {1}\n\nइसका कारण बना:\n\n  {2}</LetterHealthComplications>
@@ -222,7 +222,7 @@
   <!-- EN: Rejected proposal -->
   <LetterLabelRejectedProposal>अस्वीकृत प्रस्ताव</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>आने वाले दिनों या चतुष्कोणों में, वे अपनी विवाह समारोह आयोजित करेंगे और सभी उपनिवेशवादियों को आमंत्रित करेंगे। समारोह कहाँ होता है, इसे नियंत्रित करने के लिए विवाह स्थल रखने पर विचार करें।</LetterAcceptedProposal>
+  <LetterAcceptedProposal>आने वाले दिनों या चौथाई वर्ष में किसी समय, उनकी विवाह समारोह होगा और सभी उपनिवेशवादियों को आमंत्रित किया जाएगा। यदि आप समारोह के स्थान को नियंत्रित करना चाहते हैं, तो एक विवाह स्थल रखने पर विचार करें।</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
   <LetterAcceptedProposal_NameChange>{PAWN_label} अपना अंतिम नाम बदलकर {1} कर देगा।</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
@@ -361,7 +361,7 @@
   <!-- EN: Persona Core Offer -->
   <LetterLabelAICoreOffer>व्यक्तित्व कोर प्रस्ताव</LetterLabelAICoreOffer>
   <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
-  <LetterAICoreOffer>{PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested.</LetterAICoreOffer>
+  <LetterAICoreOffer>{1} का {PAWN_definite} आपसे जानकारी के एक प्रस्ताव के साथ संपर्क करता है: एक व्यक्तित्व कोर का स्थान, जिसकी आपको अंतरिक्ष यान बनाने के लिए आवश्यकता होगी। वे आपको सूचित करते हैं कि यह वस्तु काफी दुर्लभ है और आमतौर पर इसके मालिक इसे भारी सुरक्षा में रखते हैं।\n\nयदि आप रुचि रखते हैं तो अपने कम्स कंसोल से उन्हें कॉल करें।</LetterAICoreOffer>
 
   <!-- Crafting letters -->
   <!-- EN: Legendary Work -->
@@ -406,7 +406,7 @@
   <!-- EN: Faction base proximity -->
   <LetterLabelFactionBaseProximity>गुट आधार निकटता</LetterLabelFactionBaseProximity>
   <!-- EN: Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by: -->
-  <LetterFactionBaseProximity>क्योंकि आप अन्य गुटों के इतने करीब हैं, उन्हें लगता है कि आप उनके क्षेत्र में अतिक्रमण कर रहे हैं।\n\nपिछले चौथाई वर्ष में, गुट संबंधों में कमी आई है:</LetterFactionBaseProximity>
+  <LetterFactionBaseProximity>चूंकि आप अन्य गुटों के बहुत करीब हैं, उन्हें लगता है कि आप उनके क्षेत्र पर अतिक्रमण कर रहे हैं।\n\nपिछले चौथाई वर्ष के लिए, गुट संबंध कम हो गए हैं:</LetterFactionBaseProximity>
 
   <!-- Caravans battlefield victory -->
   <!-- EN: Caravan battle won -->
@@ -464,7 +464,7 @@
   <!-- EN: Pods arrived -->
   <LetterLabelQuestDropPodsArrived>पॉड आए</LetterLabelQuestDropPodsArrived>
   <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
-  <LetterQuestDropPodsArrived>परिवहन पॉड निम्नलिखित सामग्री के साथ पहुंचे:\n\n{0}</LetterQuestDropPodsArrived>
+  <LetterQuestDropPodsArrived>निम्नलिखित सामग्री वाले ट्रांसपोर्ट पॉड्स आ गए हैं:\n\n{0}</LetterQuestDropPodsArrived>
 
   <!-- Quest items added to caravan inventory -->
   <!-- EN: {CARAVAN_label} received items -->
@@ -517,19 +517,19 @@
   
   <!-- Techprints -->
   <!-- EN: Techprint applied: {PROJECT_label} -->
-  <LetterTechprintAppliedLabel>तकनीकी ब्लूप्रिंट लागू: {PROJECT_label}</LetterTechprintAppliedLabel>
+  <LetterTechprintAppliedLabel>तकनीकी ब्लूप्रिंट लागू किया गया: {PROJECT_label}</LetterTechprintAppliedLabel>
   <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
-  <LetterTechprintAppliedPartIntro>तकनीकी ब्लूप्रिंट अनुसंधान परियोजना पर लागू किया गया है: {PROJECT_label}.</LetterTechprintAppliedPartIntro>
+  <LetterTechprintAppliedPartIntro>शोध परियोजना: {PROJECT_label} पर एक तकनीकी ब्लूप्रिंट लागू किया गया है।</LetterTechprintAppliedPartIntro>
   <!-- EN: You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
-  <LetterTechprintAppliedPartJustUnlocked>आपने परियोजना के तकनीकी ब्लूप्रिंट आवश्यकताओं को पूरा कर लिया है! आपके शोधकर्ता अब अनुसंधान बेंच पर प्रौद्योगिकी का उपयोग करने के तरीके पर शोध करना शुरू कर सकते हैं।</LetterTechprintAppliedPartJustUnlocked>
+  <LetterTechprintAppliedPartJustUnlocked>आपने परियोजना की तकनीकी ब्लूप्रिंट आवश्यकताओं को पूरा कर लिया है! आपके शोधकर्ता अब अपने अनुसंधान बेंचों पर वास्तव में तकनीक का उपयोग कैसे किया जाए, इस पर शोध करना शुरू कर सकते हैं।</LetterTechprintAppliedPartJustUnlocked>
   <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
-  <LetterTechprintAppliedPartNotUnlockedYet>इस परियोजना की तकनीकी ब्लूप्रिंट आवश्यकताएँ अभी तक पूरी नहीं हुई हैं। अब तक {0} तकनीकी ब्लूप्रिंट लागू किए गए हैं। परियोजना को कुल {1} की आवश्यकता है।</LetterTechprintAppliedPartNotUnlockedYet>
+  <LetterTechprintAppliedPartNotUnlockedYet>इस परियोजना की तकनीकी ब्लूप्रिंट आवश्यकताएँ अभी तक पूरी नहीं हुई हैं। अब तक {0} तकनीकी ब्लूप्रिंट लागू किए गए हैं। इस परियोजना को कुल मिलाकर {1} की आवश्यकता है।</LetterTechprintAppliedPartNotUnlockedYet>
   <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
-  <LetterTechprintAppliedPartAlreadyUnlocked>इस परियोजना की तकनीकी ब्लूप्रिंट आवश्यकताएँ पहले ही पूरी हो चुकी थीं। अतिरिक्त तकनीकी ब्लूप्रिंट ने {PROJECT_label} पर आपके अनुसंधान प्रयासों को आगे बढ़ाया। शेष अनुसंधान कार्य का आधा भाग, {0} अंक, पूरा हो गया है।</LetterTechprintAppliedPartAlreadyUnlocked>
+  <LetterTechprintAppliedPartAlreadyUnlocked>इस परियोजना की तकनीकी ब्लूप्रिंट आवश्यकताएँ पहले ही पूरी हो चुकी थीं। अतिरिक्त तकनीकी ब्लूप्रिंट ने {PROJECT_label} पर आपके अनुसंधान प्रयासों को आगे बढ़ाया है। शेष अनुसंधान कार्य का आधा हिस्सा, {0} अंक, पूरा कर लिया गया है।</LetterTechprintAppliedPartAlreadyUnlocked>
   <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
-  <LetterTechprintAppliedPartAlreadyResearched>यह परियोजना पहले से ही पूरी तरह से शोधित है, इसलिए तकनीकी ब्लूप्रिंट ने आपके ज्ञान को बिल्कुल भी आगे नहीं बढ़ाया।</LetterTechprintAppliedPartAlreadyResearched>
+  <LetterTechprintAppliedPartAlreadyResearched>यह परियोजना पहले से ही पूरी तरह से शोधित है, इसलिए तकनीकी ब्लूप्रिंट ने आपके ज्ञान को बिल्कुल भी नहीं बढ़ाया।</LetterTechprintAppliedPartAlreadyResearched>
   <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
-  <LetterTechprintAppliedPartExpAwarded>तकनीकी ब्लूप्रिंट लागू करके, {PAWN_labelShort} को {0} अनुभव {1} कौशल में प्राप्त हुआ।</LetterTechprintAppliedPartExpAwarded>
+  <LetterTechprintAppliedPartExpAwarded>तकनीकी ब्लूप्रिंट को लागू करके, {PAWN_labelShort} ने {1} कौशल में {0} अनुभव प्राप्त किया।</LetterTechprintAppliedPartExpAwarded>
   
   <!-- Quest Completed -->
   <!-- EN: Quest completed -->

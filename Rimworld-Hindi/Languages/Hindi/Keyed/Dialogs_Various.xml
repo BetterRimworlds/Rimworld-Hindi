@@ -337,7 +337,7 @@
   <!-- EN: Count equipped -->
   <IncludeEquipped>उपकरण गिनती</IncludeEquipped>
   <!-- EN: Count tainted -->
-  <IncludeTainted>दूषित गिनती</IncludeTainted>
+  <IncludeTainted>दूषित संख्या गिनें</IncludeTainted>
   <!-- EN: Only allowed ingredients -->
   <LimitToAllowedStuff>केवल अनुमत सामग्री</LimitToAllowedStuff>
   <!-- EN: Look everywhere -->
@@ -357,7 +357,7 @@
   <!-- EN: Armor penetration -->
   <ArmorPenetration>कवच भेदन</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
-  <ArmorPenetrationExplanation>कवच भेदन वह मात्रा है जो यह हथियार प्रत्येक हिट पर लक्ष्य के कवच को अनदेखा कर देगा।\n\nयदि कवच भेदन लक्ष्य के कवच से अधिक है, तो ऐसा लगता है जैसे लक्ष्य बिना कवच वाला है। अन्यथा, कवच भेदन को लक्ष्य के कवच से घटा दिया जाता है।</ArmorPenetrationExplanation>
+  <ArmorPenetrationExplanation>आर्मर भेदन वह मात्रा है जिसे यह हथियार लक्ष्य पर प्रत्येक बार प्रहार करते समय कवच की उपेक्षा करेगा।\n\nयदि आर्मर भेदन लक्ष्य के कवच से अधिक है, तो ऐसा होगा जैसे लक्ष्य बिना कवच का है। अन्यथा, आर्मर भेदन को लक्ष्य के कवच से घटा दिया जाता है।</ArmorPenetrationExplanation>
   <!-- EN: Building damage factor -->
   <BuildingDamageFactor>भवन क्षति कारक</BuildingDamageFactor>
   <!-- EN: Damage to all buildings is multiplied by this value. -->
@@ -465,7 +465,7 @@
   <!-- EN: Cover effectiveness -->
   <CoverEffectiveness>आड़ प्रभावशीलता</CoverEffectiveness>
   <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
-  <CoverEffectivenessExplanation>बंदूक की लड़ाई में आड़ के रूप में यह कितना प्रभावी है।\n\nउच्च प्रतिशत अधिक गोलियाँ रोकेंगे।</CoverEffectivenessExplanation>
+  <CoverEffectivenessExplanation>तथ्य के रूप में, बंदूक की लड़ाई में आड़ के रूप में उपयोग किए जाने पर यह कितना प्रभावी है।\n\nउच्च प्रतिशत अधिक शॉट्स को रोकेंगे।</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
   <MedicineXpGainFactor>अनुभव वृद्धि दर</MedicineXpGainFactor>
   <!-- EN: Mood change -->
@@ -569,13 +569,13 @@
   <!-- EN: Rearm cost -->
   <RearmCost>पुनःसज्जा लागत</RearmCost>
   <!-- EN: Resources needed to rearm this turret -->
-  <RearmCostExplanation>इस तोप को पुनः सशस्त्र करने के लिए आवश्यक संसाधन।</RearmCostExplanation>
+  <RearmCostExplanation>इस तोप को पुन: सुसज्जित करने के लिए आवश्यक संसाधन</RearmCostExplanation>
   <!-- EN: affected by difficulty -->
   <RearmCostExplanationDifficulty>कठिनाई से प्रभावित</RearmCostExplanationDifficulty>
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>गोलीबारी से पहले</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
-  <ShotsBeforeRearmExplanation>यह तोप पुनः सशस्त्र होने से पहले कितने शॉट चला सकती है।</ShotsBeforeRearmExplanation>
+  <ShotsBeforeRearmExplanation>पुनः शस्त्रास्त्रित करने से पहले यह तोप कितने शॉट दाग सकती है।</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
   <PowerConsumption>बिजली खपत</PowerConsumption>
   <!-- EN: Target -->
@@ -665,7 +665,7 @@
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
   <NegotiatorCapacityImpaired>यह व्यापार मूल्यों को प्रभावित करेगा।\n\nअधिक स्वस्थ वार्ताकार का उपयोग करने पर विचार करें।</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
-  <ConfirmTraderShortFunds>व्यापारी के पास इस लेन-देन को पूरी तरह से कवर करने के लिए पर्याप्त चांदी नहीं है। आगे बढ़ें?</ConfirmTraderShortFunds>
+  <ConfirmTraderShortFunds>Trader has insufficient silver to fully cover this transaction.  Proceed anyways?</ConfirmTraderShortFunds>
   <!-- EN: Sort by -->
   <SortBy>क्रमबद्ध करें</SortBy>
   <!-- EN: trader type -->
@@ -807,7 +807,7 @@
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
   <NutritionForagedPerDayTip>प्रतिदिन एकत्र किया गया पोषण। एकत्र की गई वास्तविक मात्रा बायोम की खाद्यता से भी प्रभावित होती है।\n\n{0}</NutritionForagedPerDayTip>
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
-  <NutritionEatenPerDayTip>प्रति दिन खाया गया पोषण। संदर्भ के लिए, साधारण भोजन में {0} पोषण होता है।</NutritionEatenPerDayTip>
+  <NutritionEatenPerDayTip>प्रतिदिन खाया गया पोषण। संदर्भ के लिए, साधारण भोजन में {0} पोषण होता है।</NutritionEatenPerDayTip>
   <!-- EN: Can eat -->
   <CanEat>खा सकता है</CanEat>
   <!-- EN: Legend -->
@@ -895,15 +895,15 @@
   <!-- EN: Load {0} -->
   <LoadTransporters>लोड {0}</LoadTransporters>
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
-  <TooBigTransportersMassUsage>नियुक्त लोग और वस्तुएं परिवहन पॉड के लिए बहुत भारी हैं।</TooBigTransportersMassUsage>
+  <TooBigTransportersMassUsage>निर्धारित लोग और वस्तुएं परिवहन पॉड्स के लिए बहुत भारी हैं।</TooBigTransportersMassUsage>
   <!-- EN: The assigned people and items are too heavy for the shuttle. -->
   <TooBigTransporterSingleMassUsage>नियुक्त लोग और वस्तुएं शटल के लिए बहुत भारी हैं।</TooBigTransporterSingleMassUsage>
   <!-- EN: You can't send empty transport pods. -->
-  <CantSendEmptyTransportPods>खाली परिवहन पॉड नहीं भेजे जा सकते।</CantSendEmptyTransportPods>
+  <CantSendEmptyTransportPods>आप खाली परिवहन पॉड नहीं भेज सकते।</CantSendEmptyTransportPods>
   <!-- EN: You can't send empty shuttle. -->
   <CantSendEmptyTransporterSingle>खाली शटल नहीं भेजा जा सकता।</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
-  <PawnCantReachTransporters>{1_labelShort} परिवहन पॉड तक नहीं पहुंच सकता।</PawnCantReachTransporters>
+  <PawnCantReachTransporters>{1_labelShort} परिवहन पॉड्स तक नहीं पहुँच सकता।</PawnCantReachTransporters>
   <!-- EN: {1_labelShort} can't reach the shuttle. -->
   <PawnCantReachTransporterSingle>{1_labelShort} शटल तक नहीं पहुंच सकता।</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
@@ -1235,7 +1235,7 @@
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->
   <AbilityCantGetInspiredNow>{0_labelShort} अभी प्रेरणा प्राप्त नहीं कर सकता।</AbilityCantGetInspiredNow>
   <!-- EN: {0_labelShort} must be of a different ideoligion than {1_labelShort}. -->
-  <AbilityMustBeNotSameIdeo>{0_labelShort} का विचारधारा {1_labelShort} से भिन्न होना चाहिए।</AbilityMustBeNotSameIdeo>
+  <AbilityMustBeNotSameIdeo>{0_labelShort} की विचारधारा {1_labelShort} से भिन्न होनी चाहिए।</AbilityMustBeNotSameIdeo>
   <!-- EN: {0_labelShort} must be of same ideoligion as {1_labelShort}. -->
   <AbilityMustBeSameIdeo>{0_labelShort} का विचारधारा {1_labelShort} के समान होना चाहिए।</AbilityMustBeSameIdeo>
   <!-- EN: {0_labelShort} must be sick or injured. -->
@@ -1265,9 +1265,9 @@
   <!-- EN: No chunks to skip. -->
   <AbilityNoChunkToSkip>महत्वपूर्ण नियम:\n- कोई स्पष्टीकरण, नोट्स, या कोष्ठक में टिप्पणी नहीं।\n- कोई एकाधिक विकल्प या विकल्प नहीं (</AbilityNoChunkToSkip>
   <!-- EN: Induce psychic love in -->
-  <PsychicLoveInduceIn>मानसिक प्रेम प्रेरित करें</PsychicLoveInduceIn>
+  <PsychicLoveInduceIn>में मानसिक प्रेम उत्पन्न करें</PsychicLoveInduceIn>
   <!-- EN: Psychic love for -->
-  <PsychicLoveFor>मानसिक प्रेम</PsychicLoveFor>
+  <PsychicLoveFor>के लिए मानसिक प्रेम</PsychicLoveFor>
   <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
   <FarskipConfirmTeleportingLodger>यदि आप {PAWN_labelShort} को किसी अन्य मानचित्र या कारवां में भेजते हैं, तो संबंधित खोज विफल हो जाएगी और {PAWN_pronoun} तुरंत चला जाएगा।\n\nक्या आप वास्तव में {PAWN_labelShort} को दूर भेजना चाहते हैं?</FarskipConfirmTeleportingLodger>
   

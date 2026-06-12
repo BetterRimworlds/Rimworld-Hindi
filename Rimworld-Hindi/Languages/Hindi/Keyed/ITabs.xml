@@ -125,7 +125,7 @@
   <!-- EN: Doctors care -->
   <DoctorsCare>चिकित्सा देखभाल</DoctorsCare>
   <!-- EN: Gets medicine -->
-  <GetsMedicine>दवा प्राप्त करता है</GetsMedicine>
+  <GetsMedicine>दवा प्राप्त करें</GetsMedicine>
   <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>भर्ती करें</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
@@ -406,7 +406,7 @@
   <!-- EN: The average nutrition provided by edible plants in this pen. -->
   <PenFoodTab_NaturalNutritionGrowthRateDescription>इस बाड़े में खाद्य पौधों द्वारा प्रदान किया गया औसत पोषण।</PenFoodTab_NaturalNutritionGrowthRateDescription>
   <!-- EN: The nutrition needed by animals currently in this pen.\n\nTo get more food, expand the pen to cover more wild plant growth, or deliver stockpiled food like haygrass to the pen. -->
-  <PenFoodTab_NutritionConsumptionDescription>इस बाड़े में मौजूद जानवरों को आवश्यक पोषण।\n\nअधिक भोजन प्राप्त करने के लिए, बाड़े का विस्तार करें ताकि अधिक जंगली वनस्पति आड़ में आ सके, या बाड़े में हेग्रास जैसे जमा किए गए भोजन की आपूर्ति करें।</PenFoodTab_NutritionConsumptionDescription>
+  <PenFoodTab_NutritionConsumptionDescription>The nutrition needed by animals currently in this pen.\n\nTo get more food, expand the pen to cover more wild plant growth, or deliver stockpiled food like haygrass to the pen.</PenFoodTab_NutritionConsumptionDescription>
   <!-- EN: Note: Plant growth rate varies due to seasons, weather, theft by wild animals, and other factors. These calculations are approximations. -->
   <PenFoodTab_NaturalNutritionGrowthRateSeasonal>पौधों की वृद्धि दर मौसम, मौसम, जंगली जानवरों द्वारा चोरी और अन्य कारकों के कारण भिन्न होती है। ये गणनाएँ अनुमान हैं।</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
 

@@ -6,21 +6,21 @@
   <!-- EN: A group of friendly {0} from {1} have dropped in right on top of you! -->
   <CenterDrop.textFriendly>दोस्ताना {0} का एक समूह {1} से सीधे आपके ऊपर गिरा है!</CenterDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods right on top of you. -->
-  <CenterDrop.textWillArrive>{0_pawnsPluralDef} परिवहन पॉड्स में सीधे आपके ऊपर उतरेगा।</CenterDrop.textWillArrive>
+  <CenterDrop.textWillArrive>{0_pawnsPluralDef} परिवहन पॉड्स में ठीक आपके ऊपर उतरेंगे।</CenterDrop.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDrop.textEnemy>एक समूह {0} से {1} परिवहन पॉड में पास में पहुंचे हैं।</EdgeDrop.textEnemy>
+  <EdgeDrop.textEnemy>{1} के {0} का एक समूह पास में ही परिवहन पॉड्स (transport pods) में आ पहुँचा है।</EdgeDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDrop.textFriendly>दोस्ताना {0} का एक समूह {1} से परिवहन पॉड में पास में आया है।</EdgeDrop.textFriendly>
+  <EdgeDrop.textFriendly>{1} के मित्रवत {0} का एक समूह पास में ही परिवहन पॉड्स (transport pods) में आ पहुँचा है।</EdgeDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
-  <EdgeDrop.textWillArrive>{0_pawnsPluralDef} परिवहन पॉड में आएंगे।</EdgeDrop.textWillArrive>
+  <EdgeDrop.textWillArrive>{0_pawnsPluralDef} परिवहन पॉड्स में पहुँचेंगे।</EdgeDrop.textWillArrive>
   
   <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDropGroups.textEnemy>कई अलग-अलग समूहों के {0} {1} से पास के परिवहन पॉड्स में पहुंचे हैं।</EdgeDropGroups.textEnemy>
+  <EdgeDropGroups.textEnemy>{1} के {0} के कई अलग-अलग समूह पास में ही ट्रांसपोर्ट पॉड्स में आए हैं।</EdgeDropGroups.textEnemy>
   <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDropGroups.textFriendly>कई अलग-अलग समूहों के मित्रवत {0} {1} से परिवहन पॉड्स में पास में पहुंचे हैं।</EdgeDropGroups.textFriendly>
+  <EdgeDropGroups.textFriendly>{1} के मित्रवत {0} के कई अलग-अलग समूह पास में ही परिवहन पॉड्स (transport pods) में आए हैं।</EdgeDropGroups.textFriendly>
   <!-- EN: Several separate groups of {0_pawnsPluralDef} will arrive in transport pods. -->
-  <EdgeDropGroups.textWillArrive>कई अलग-अलग समूहों के {0_pawnsPluralDef} परिवहन पॉड्स में आएंगे।</EdgeDropGroups.textWillArrive>
+  <EdgeDropGroups.textWillArrive>{0_pawnsPluralDef} के कई अलग-अलग समूह परिवहन पॉड्स में पहुँचेंगे।</EdgeDropGroups.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived nearby. -->
   <EdgeWalkIn.textEnemy>एक समूह {0} से {1} के पास आ गया है।</EdgeWalkIn.textEnemy>
@@ -54,17 +54,17 @@
   <MechClusterDrop.textWillArrive>मैक क्लस्टर ड्रॉप पॉड में पहुंचेगा।</MechClusterDrop.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
-  <RandomDrop.textEnemy>{0} का एक समूह {1} से परिवहन पॉड में आया है। उनके पॉड में खराबी आ गई है और वे पूरे क्षेत्र में बिखरे हुए उतर रहे हैं!</RandomDrop.textEnemy>
+  <RandomDrop.textEnemy>{1} के {0} का एक समूह परिवहन पॉड्स में आ गया है। उनके पॉड्स अनियंत्रित हो गए हैं और पूरे क्षेत्र में बिखरे हुए उतर रहे हैं!</RandomDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
-  <RandomDrop.textFriendly>दोस्ताना {0} का एक समूह {1} से परिवहन पॉड्स में आया है। उनके पॉड्स में खराबी आ गई है और वे पूरे क्षेत्र में बिखरे हुए उतर रहे हैं!</RandomDrop.textFriendly>
+  <RandomDrop.textFriendly>{1} के कुछ मित्रवत {0} परिवहन पॉड्स में आए हैं। उनके पॉड्स अनियंत्रित हो गए हैं और पूरे क्षेत्र में बिखरे हुए उतर रहे हैं!</RandomDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
-  <RandomDrop.textWillArrive>{0_pawnsPluralDef} परिवहन पॉड्स में आएंगे।</RandomDrop.textWillArrive>
+  <RandomDrop.textWillArrive>{0_pawnsPluralDef} परिवहन पॉड्स में पहुँचेंगे।</RandomDrop.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
-  <SpecificDropDebug.textEnemy>एक समूह {0} से {1} परिवहन पॉड में पास में पहुंचे हैं।</SpecificDropDebug.textEnemy>
+  <SpecificDropDebug.textEnemy>{1} के {0} का एक समूह पास ही परिवहन पॉड्स में आ पहुँचा है।</SpecificDropDebug.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
-  <SpecificDropDebug.textFriendly>दोस्ताना {0} का एक समूह {1} से परिवहन पॉड में पास में आया है।</SpecificDropDebug.textFriendly>
+  <SpecificDropDebug.textFriendly>{1} के मित्रवत {0} का एक समूह पास ही परिवहन पॉड्स में आ पहुँचा है।</SpecificDropDebug.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
-  <SpecificDropDebug.textWillArrive>{0_pawnsPluralDef} परिवहन पॉड्स में आएंगे।</SpecificDropDebug.textWillArrive>
+  <SpecificDropDebug.textWillArrive>{0_pawnsPluralDef} परिवहन पॉड्स में पहुँचेंगे।</SpecificDropDebug.textWillArrive>
   
 </LanguageData>

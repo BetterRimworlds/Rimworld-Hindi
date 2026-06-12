@@ -31,7 +31,7 @@
   <!-- EN: needle gun -->
   <Gun_Needle.label>सुई बंदूक</Gun_Needle.label>
   <!-- EN: A long-range weapon used by mechanoids. Named after its needle-like projectiles, it fires single shots with great accuracy. While it does less damage than charge weapons, it can reach over very long distances. -->
-  <Gun_Needle.description>मेकैनॉइड्स द्वारा इस्तेमाल किया जाने वाला एक लंबी दूरी का हथियार। इसकी सुई जैसी प्रक्षेप्य वस्तुओं के नाम पर, यह बहुत सटीकता के साथ एकल शॉट चलाता है। चार्ज हथियारों की तुलना में यह कम नुकसान पहुंचाता है, लेकिन यह बहुत लंबी दूरी तक पहुंच सकता है।</Gun_Needle.description>
+  <Gun_Needle.description>मेकैनॉइड्स द्वारा उपयोग किया जाने वाला एक लंबी दूरी का हथियार। अपने सुई जैसे प्रोजेक्टाइल्स के नाम पर आधारित, यह अत्यधिक सटीकता के साथ एकल शॉट फायर करता है। हालाँकि यह चार्ज हथियारों की तुलना में कम नुकसान पहुँचाता है, लेकिन यह बहुत लंबी दूरियों तक पहुँच सकता है।</Gun_Needle.description>
   <!-- EN: barrel -->
   <Gun_Needle.tools.barrel.label>बैरल</Gun_Needle.tools.barrel.label>
   <!-- EN: needle gun -->

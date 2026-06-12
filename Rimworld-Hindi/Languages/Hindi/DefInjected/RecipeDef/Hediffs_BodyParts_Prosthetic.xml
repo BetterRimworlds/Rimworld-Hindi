@@ -9,11 +9,11 @@
   <InstallCochlearImplant.jobString>कोक्लीयर इम्प्लांट लगाना।</InstallCochlearImplant.jobString>
   
   <!-- EN: install joywire -->
-  <InstallJoywire.label>आनंद तार स्थापित करें</InstallJoywire.label>
+  <InstallJoywire.label>आनंद तार लगाएँ</InstallJoywire.label>
   <!-- EN: Install a joywire. -->
   <InstallJoywire.description>एक आनंद तार स्थापित करें।</InstallJoywire.description>
   <!-- EN: Installing joywire. -->
-  <InstallJoywire.jobString>आनंद तार स्थापित करना।</InstallJoywire.jobString>
+  <InstallJoywire.jobString>आनंद तार स्थापित किया जा रहा है।</InstallJoywire.jobString>
   
   <!-- EN: install painstopper -->
   <InstallPainstopper.label>दर्द निवारक स्थापित करें</InstallPainstopper.label>
@@ -25,30 +25,30 @@
   <!-- EN: install power claw -->
   <InstallPowerClaw.label>शक्ति पंजा स्थापित करें</InstallPowerClaw.label>
   <!-- EN: Install a power claw. -->
-  <InstallPowerClaw.description>शक्ति पंजा स्थापित करें।</InstallPowerClaw.description>
+  <InstallPowerClaw.description>एक शक्ति पंजा स्थापित करें।</InstallPowerClaw.description>
   <!-- EN: Installing power claw. -->
-  <InstallPowerClaw.jobString>शक्ति पंजा स्थापित करना।</InstallPowerClaw.jobString>
+  <InstallPowerClaw.jobString>शक्ति पंजा स्थापित किया जा रहा है।</InstallPowerClaw.jobString>
   
   <!-- EN: install prosthetic arm -->
-  <InstallSimpleProstheticArm.label>कृत्रिम अंग हाथ स्थापित करें</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.label>कृत्रिम अंग हाथ लगाना</InstallSimpleProstheticArm.label>
   <!-- EN: Install a prosthetic arm. -->
-  <InstallSimpleProstheticArm.description>एक कृत्रिम अंग स्थापित करें।</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.description>एक कृत्रिम अंग वाला हाथ स्थापित करें।</InstallSimpleProstheticArm.description>
   <!-- EN: Installing prosthetic arm. -->
-  <InstallSimpleProstheticArm.jobString>कृत्रिम अंग हाथ स्थापित करना।</InstallSimpleProstheticArm.jobString>
+  <InstallSimpleProstheticArm.jobString>कृत्रिम अंग हाथ लगाया जा रहा है।</InstallSimpleProstheticArm.jobString>
   
   <!-- EN: install prosthetic heart -->
   <InstallSimpleProstheticHeart.label>कृत्रिम अंग हृदय स्थापित करें</InstallSimpleProstheticHeart.label>
   <!-- EN: Install a prosthetic heart. -->
-  <InstallSimpleProstheticHeart.description>एक कृत्रिम हृदय स्थापित करें।</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.description>एक कृत्रिम अंग हृदय स्थापित करें।</InstallSimpleProstheticHeart.description>
   <!-- EN: Installing prosthetic heart. -->
-  <InstallSimpleProstheticHeart.jobString>कृत्रिम हृदय स्थापित करना।</InstallSimpleProstheticHeart.jobString>
+  <InstallSimpleProstheticHeart.jobString>कृत्रिम अंग हृदय स्थापित किया जा रहा है।</InstallSimpleProstheticHeart.jobString>
   
   <!-- EN: install prosthetic leg -->
-  <InstallSimpleProstheticLeg.label>कृत्रिम अंग पैर स्थापित करें</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.label>कृत्रिम अंग पैर लगाना</InstallSimpleProstheticLeg.label>
   <!-- EN: Install a prosthetic leg. -->
-  <InstallSimpleProstheticLeg.description>एक कृत्रिम पैर स्थापित करें।</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.description>एक कृत्रिम अंग वाला पैर स्थापित करें।</InstallSimpleProstheticLeg.description>
   <!-- EN: Installing prosthetic leg. -->
-  <InstallSimpleProstheticLeg.jobString>कृत्रिम अंग पैर स्थापित करना।</InstallSimpleProstheticLeg.jobString>
+  <InstallSimpleProstheticLeg.jobString>कृत्रिम अंग पैर लगा रहा है।</InstallSimpleProstheticLeg.jobString>
   
   <!-- EN: remove painstopper -->
   <RemovePainstopper.label>दर्द निवारक हटाएं</RemovePainstopper.label>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: civil outlander union -->
-  <OutlanderCivil.label>नागरिक बाहरी संघ</OutlanderCivil.label>
+  <OutlanderCivil.label>नागरिक बाहरी व्यक्ति संघ</OutlanderCivil.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
   <OutlanderCivil.description>ये लोग दशकों या सदियों से यहाँ रह रहे हैं, और उन्होंने उस तकनीक का अधिकांश भाग खो दिया है जो उन्हें इस दुनिया में ले आई थी। वे आमतौर पर साधारण मशीनरी के साथ काम करते हैं और उन्नत बारूद हथियारों से अपनी रक्षा करते हैं।\n\nवे व्यापार, विश्वास और अस्तित्व के व्यावहारिक मामलों से चिंतित हैं।\n\nयह विशेष समूह सभ्य व्यवहार को उच्च सम्मान में रखता है।</OutlanderCivil.description>
   <!-- EN: prime councilor -->
@@ -15,7 +15,7 @@
   <OutlanderCivil.pawnsPlural>बाहरी लोग</OutlanderCivil.pawnsPlural>
   
   <!-- EN: rough outlander union -->
-  <OutlanderRough.label>कच्चा बाहरी संघ</OutlanderRough.label>
+  <OutlanderRough.label>कठोर बाहरी व्यक्ति संघ</OutlanderRough.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
   <OutlanderRough.description>ये लोग दशकों या सदियों से यहाँ रह रहे हैं, और उन्होंने उस तकनीक का अधिकांश भाग खो दिया है जो उन्हें इस दुनिया में लाई थी। वे आमतौर पर साधारण मशीनरी के साथ काम करते हैं और उन्नत बारूद हथियारों से अपनी रक्षा करते हैं।\n\nवे व्यापार, विश्वास और अस्तित्व के व्यावहारिक मामलों से चिंतित हैं।\n\nइस विशेष समूह में बर्बरता की प्रवृत्ति है।</OutlanderRough.description>
   <!-- EN: prime councilor -->

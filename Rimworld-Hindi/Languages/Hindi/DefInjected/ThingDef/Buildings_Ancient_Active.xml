@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: ancient cryptosleep pod -->
-  <AncientCryptosleepPod.label>प्राचीन शीतनिद्रा पॉड</AncientCryptosleepPod.label>
+  <AncientCryptosleepPod.label>प्राचीन क्रिप्टोस्लीप पॉड</AncientCryptosleepPod.label>
   <!-- EN: A single-use pod for preserving one person in a state of suspended animation. Unlike cryptosleep caskets, cryptosleep pods can only be used once. -->
-  <AncientCryptosleepPod.description>एक व्यक्ति को निलंबित एनीमेशन की स्थिति में संरक्षित करने के लिए एक बार इस्तेमाल होने वाला पॉड। क्रिप्टोस्लीप ताबूतों के विपरीत, क्रिप्टोस्लीप पॉड का उपयोग केवल एक बार किया जा सकता है।</AncientCryptosleepPod.description>
+  <AncientCryptosleepPod.description>एक व्यक्ति को निलंबित एनीमेशन की स्थिति में सुरक्षित रखने के लिए एक एकल-उपयोग वाला पॉड। क्रिप्टोस्लीप ताबूत के विपरीत, क्रिप्टोस्लीप पॉड का उपयोग केवल एक बार किया जा सकता है।</AncientCryptosleepPod.description>
   
   <!-- EN: ancient unstable fuel node -->
   <AncientFuelNode.label>प्राचीन अस्थिर ईंधन स्रोत</AncientFuelNode.label>

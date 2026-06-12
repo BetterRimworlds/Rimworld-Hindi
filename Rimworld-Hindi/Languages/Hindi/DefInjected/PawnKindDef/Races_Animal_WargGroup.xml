@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: warg --><!-- EN: wargo -->
-  <Warg.label>वारगो</Warg.label><!-- EN: wargos -->
-  <Warg.labelPlural>वॉरगोस</Warg.labelPlural>
+  <Warg.label>वर्गो</Warg.label><!-- EN: wargos -->
+  <Warg.labelPlural>वर्गोस</Warg.labelPlural>
   <!-- EN: warg puppy --><!-- EN: warguezno -->
   <Warg.lifeStages.warg_puppy.label>वार्गेज़नो</Warg.lifeStages.warg_puppy.label><!-- EN: warguezna -->
-  <Warg.lifeStages.warg_puppy.labelFemale>वॉरग्यूज़ना जीवन चक्र</Warg.lifeStages.warg_puppy.labelFemale><!-- EN: wargueznas -->
-  <Warg.lifeStages.warg_puppy.labelFemalePlural>वारगुज़नास जीवन चक्र</Warg.lifeStages.warg_puppy.labelFemalePlural><!-- EN: warguezno -->
-  <Warg.lifeStages.warg_puppy.labelMale>वॉरग्यूज़नो</Warg.lifeStages.warg_puppy.labelMale><!-- EN: wargueznos -->
-  <Warg.lifeStages.warg_puppy.labelMalePlural>वार्गेज़्नोस</Warg.lifeStages.warg_puppy.labelMalePlural>
+  <Warg.lifeStages.warg_puppy.labelFemale>वार्गुएज़ना</Warg.lifeStages.warg_puppy.labelFemale><!-- EN: wargueznas -->
+  <Warg.lifeStages.warg_puppy.labelFemalePlural>वार्गुज़नास</Warg.lifeStages.warg_puppy.labelFemalePlural><!-- EN: warguezno -->
+  <Warg.lifeStages.warg_puppy.labelMale>वार्गुएज़नो</Warg.lifeStages.warg_puppy.labelMale><!-- EN: wargueznos -->
+  <Warg.lifeStages.warg_puppy.labelMalePlural>वार्गुएज़नोस</Warg.lifeStages.warg_puppy.labelMalePlural>
   <!-- EN: warg puppies --><!-- EN: wargueznos -->
-  <Warg.lifeStages.warg_puppy.labelPlural>वार्गेज़्नोस</Warg.lifeStages.warg_puppy.labelPlural><!-- EN: wargo joven -->
-  <Warg.lifeStages.1.label>वारगो युवा</Warg.lifeStages.1.label><!-- EN: wargos jóvenes -->
-  <Warg.lifeStages.1.labelPlural>वार्गोस युवा</Warg.lifeStages.1.labelPlural><!-- EN: wargo -->
-  <Warg.lifeStages.2.label>वारगो</Warg.lifeStages.2.label><!-- EN: wargos -->
-  <Warg.lifeStages.2.labelPlural>वार्गोस</Warg.lifeStages.2.labelPlural>
+  <Warg.lifeStages.warg_puppy.labelPlural>वार्गुज़नोस</Warg.lifeStages.warg_puppy.labelPlural><!-- EN: wargo joven -->
+  <Warg.lifeStages.1.label>युवा वॉर्गो</Warg.lifeStages.1.label><!-- EN: wargos jóvenes -->
+  <Warg.lifeStages.1.labelPlural>युवा वर्गोस</Warg.lifeStages.1.labelPlural><!-- EN: wargo -->
+  <Warg.lifeStages.2.label>वर्गो</Warg.lifeStages.2.label><!-- EN: wargos -->
+  <Warg.lifeStages.2.labelPlural>वर्गोस</Warg.lifeStages.2.labelPlural>
   
 </LanguageData>

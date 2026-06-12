@@ -1314,7 +1314,7 @@
   <!-- EN: lámpara solar (en construcción) -->
   <Frame_SunLamp.label>सौर दीपक (निर्माण)</Frame_SunLamp.label>
   <!-- EN: Una lámpara industrial que ilumina brillantamente un área lo suficiente como para que crezcan plantas, pero consume muchísima energía. Se apaga automáticamente por la noche. -->
-  <Frame_SunLamp.description>एक औद्योगिक युग लैंप जो एक क्षेत्र को इतनी अच्छी तरह से प्रकाशित करता है कि पौधे बढ़ सकें, लेकिन बहुत अधिक ऊर्जा की खपत करता है। यह रात में स्वचालित रूप से बंद हो जाता है।</Frame_SunLamp.description>
+  <Frame_SunLamp.description>एक औद्योगिक युग का लैंप जो एक क्षेत्र को पौधों के बढ़ने के लिए पर्याप्त रूप से उज्ज्वल रूप से रोशन करता है, लेकिन बहुत अधिक ऊर्जा की खपत करता है। यह रात में स्वचालित रूप से बंद हो जाता है।</Frame_SunLamp.description>
   
   <!-- EN: mesa (1x2) (en construcción) -->
   <Frame_Table1x2c.label>टेबल (1x2)</Frame_Table1x2c.label>

@@ -39,7 +39,7 @@
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>मरम्मत सफलता दर</FixBrokenDownBuildingSuccessChance.label>
   <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
-  <FixBrokenDownBuildingSuccessChance.description>इस व्यक्ति के टूटी हुई इमारत को घटक का उपयोग करके सफलतापूर्वक मरम्मत करने की संभावना।\n\nविफल होने का अर्थ है समय और संसाधनों की बर्बादी।\nध्यान दें कि यह केवल मरम्मत के टूटने पर लागू होता है, जो क्षति से अलग है।</FixBrokenDownBuildingSuccessChance.description>
+  <FixBrokenDownBuildingSuccessChance.description>एक घटक का उपयोग करके इस व्यक्ति द्वारा एक खराब हुई इमारत को सफलतापूर्वक मरम्मत करने की संभावना।\n\nविफल होने का अर्थ है समय और संसाधनों की बर्बादी।\nध्यान दें कि यह केवल खराबी की मरम्मत करने पर लागू होता है, जो क्षति की मरम्मत करने से अलग है।</FixBrokenDownBuildingSuccessChance.description>
   
   <!-- EN: hacking speed -->
   <HackingSpeed.label>हैकिंग गति</HackingSpeed.label>
@@ -96,6 +96,6 @@
   <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
   <WorkSpeedGlobal.description>किसी भी तरह के कार्य करने में किसी व्यक्ति की गति पर एक गुणक।</WorkSpeedGlobal.description>
   <!-- EN: Offset from mechanitor -->
-  <WorkSpeedGlobal.parts.2.label>मैकेनिस्टर से ऑफ़सेट</WorkSpeedGlobal.parts.2.label>
+  <WorkSpeedGlobal.parts.2.label>मेकनीटर से ऑफसेट</WorkSpeedGlobal.parts.2.label>
   
 </LanguageData>

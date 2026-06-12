@@ -40,7 +40,7 @@
   <!-- EN: Undraft -->
   <CommandUndraftLabel>हटाएँ</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
-  <CommandToggleDraftDesc>सैन्य भर्ती टॉगल करें।\n\nभर्ती किए गए लोग आदेश मानते हैं और लड़ते हैं। वे काम नहीं करेंगे, न ही खाएंगे या आराम करेंगे।</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>चल नहीं सकता।</IsIncapped>
   <!-- EN: {0_labelShort} is participating in {1}. -->
@@ -49,7 +49,7 @@
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>आग लगाओ</CommandFireAtWillLabel>
   <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
-  <CommandFireAtWillDesc>स्वचालित रूप से गोलीबारी बंद/चालू करें।\n\nजब बंद किया जाता है, तो यह पात्र स्वचालित रूप से लंबी दूरी के लक्ष्यों पर गोली नहीं चलाएगा। यह नज़दीकी युद्ध से प्रभावित नहीं होता है।</CommandFireAtWillDesc>
+  <CommandFireAtWillDesc>अपनी मर्जी से गोली चलाना चालू या बंद करें।\n\nजब अक्षम हो, तो यह पात्र दूर के लक्ष्यों पर स्वचालित रूप से गोली नहीं चलाएगा। नज़दीकी युद्ध पर प्रभाव नहीं डालता है।</CommandFireAtWillDesc>
   
   <!-- EN: Clear prioritized work -->
   <CommandClearPrioritizedWork>प्राथमिक कार्य</CommandClearPrioritizedWork>
@@ -187,11 +187,11 @@
   <!-- EN: Set forced target -->
   <CommandSetForceAttackTarget>लक्ष्य निर्धारित करें</CommandSetForceAttackTarget>
   <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
-  <CommandSetForceAttackTargetDesc>यह तोप को एक लक्ष्य निर्धारित करता है जिस पर यह लगातार तब तक हमला करती रहेगी जब तक यह कर सकती है।</CommandSetForceAttackTargetDesc>
+  <CommandSetForceAttackTargetDesc>एक लक्ष्य निर्धारित करता है जिस पर इस तोप को जब तक संभव हो निरंतर हमला करना चाहिए।</CommandSetForceAttackTargetDesc>
   <!-- EN: Stop forced attack -->
   <CommandStopForceAttack>हमला रोकें</CommandStopForceAttack>
   <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
-  <CommandStopForceAttackDesc>तोप को अपनी इच्छानुसार आग लगाने की अनुमति देते हुए, जबरन हमले बंद कर देता है।</CommandStopForceAttackDesc>
+  <CommandStopForceAttackDesc>बलपूर्वक हमला करना रोकता है और तोप को अपनी इच्छानुसार चलाने की अनुमति देता है।</CommandStopForceAttackDesc>
   <!-- EN: Not currently force-attacking. -->
   <CommandStopAttackFailNotForceAttacking>हमला नहीं कर रहा।</CommandStopAttackFailNotForceAttacking>
   <!-- EN: Extract shell -->
@@ -203,7 +203,7 @@
   <!-- EN: Target below minimum range. -->
   <MessageTargetBelowMinimumRange>न्यूनतम सीमा से नीचे लक्ष्य.</MessageTargetBelowMinimumRange>
   <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
-  <MessageTurretWontFireBecauseHoldFire>चेतावनी: मोर्टार "आग रोकें" पर सेट होने के कारण फायर नहीं करेगा।</MessageTurretWontFireBecauseHoldFire>
+  <MessageTurretWontFireBecauseHoldFire>चेतावनी: मोर्टार फायर नहीं करेगा क्योंकि यह "होल्ड फायर" पर सेट है।</MessageTurretWontFireBecauseHoldFire>
   
   <!-- Ship computer core -->
   <!-- EN: Launch ship -->
@@ -217,7 +217,7 @@
   <!-- EN: Start ship -->
   <CommandShipStartup>जहाज़ शुरू करें</CommandShipStartup>
   <!-- EN: Wake up hibernating ship components. -->
-  <CommandShipStartupDesc>शीतल निष्क्रिय जहाज़ के घटक जगाएँ।</CommandShipStartupDesc>
+  <CommandShipStartupDesc>सुप्त जहाज के घटक को जगाएं।</CommandShipStartupDesc>
 
   <!-- Pod -->
   <!-- EN: Eject sleeper -->
@@ -277,7 +277,7 @@
   <!-- EN: Auto rearm -->
   <CommandAutoRearm>पुनःसक्रिय करें</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
-  <CommandAutoRearmDesc>यदि यह चालू है, तो यह जाल सक्रिय होने के बाद स्वचालित रूप से बदल दिया जाएगा।</CommandAutoRearmDesc>
+  <CommandAutoRearmDesc>यदि यह चालू है, तो इस जाल को सक्रिय होने के बाद स्वचालित रूप से बदल दिया जाएगा।</CommandAutoRearmDesc>
   
   <!-- Firefoam popper -->
   <!-- EN: Auto rebuild -->
@@ -303,7 +303,7 @@
   <!-- EN: Melee attack -->
   <CommandMeleeAttack>नज़दीकी युद्ध हमला</CommandMeleeAttack>
   <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
-  <CommandMeleeAttackDesc>चुने हुए उपनिवेशवादियों को केवल मुट्ठी और हाथापाई हथियारों का उपयोग करके निर्दिष्ट लक्ष्य पर हमला करने का आदेश दें।</CommandMeleeAttackDesc>
+  <CommandMeleeAttackDesc>चयनित कॉलोनिस्टों को केवल मुक्कों और नज़दीकी युद्ध हथियारों का उपयोग करके निर्धारित लक्ष्य पर हमला करने का आदेश दें।</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
   <!-- EN: Hold fire -->
@@ -517,7 +517,7 @@
   <!-- EN: Must be loaded first. -->
   <CommandLaunchGroupFailNotLoaded>महत्वपूर्ण नियम:\n- कोई स्पष्टीकरण, नोट्स या कोष्ठकीय टिप्पणी नहीं।\n- केवल एक अनुवाद - कोई विकल्प नहीं [केवल 1</CommandLaunchGroupFailNotLoaded>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
-  <CommandLaunchGroupFailNotConnectedToFuelingPort>इस लोडिंग समूह में कुछ परिवहन पॉड ईंधन भरने के पोर्ट से जुड़े नहीं हैं।</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>इस लोडिंग समूह के कुछ ट्रांसपोर्ट पॉड ईंधन भरने वाले पोर्ट से जुड़े नहीं हैं।</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Roof blocking launch. -->
   <CommandLaunchGroupFailUnderRoof>छत प्रक्षेपण अवरुद्ध।</CommandLaunchGroupFailUnderRoof>
   <!-- EN: Not enough fuel to launch. -->
@@ -535,7 +535,7 @@
   <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
   <CommandLoadTransporterDesc>चयनित परिवहनकों को प्रक्षेपण समूह के रूप में परिभाषित करता है। यह लोडिंग संवाद खोलता है ताकि आप तय कर सकें कि किसे और क्या अंदर लोड किया जाना चाहिए।</CommandLoadTransporterDesc>
   <!-- EN: The transport pod is not connected to a fueling port. -->
-  <CommandLoadTransporterFailNotConnectedToFuelingPort>परिवहन पोड ईंधन भरने वाले पोर्ट से जुड़ा नहीं है।</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>परिवहन पॉड ईंधन भरने वाले पोर्ट से जुड़ा नहीं है।</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
   <CommandLoadTransporterFailNoFuel>पॉड लांचर में ईंधन नहीं है।</CommandLoadTransporterFailNoFuel>
   
@@ -561,19 +561,19 @@
   <!-- EN: Select previous in launch group -->
   <CommandSelectPreviousTransporter>पिछला प्रक्षेपण समूह चुनें</CommandSelectPreviousTransporter>
   <!-- EN: Select previous transport pod in this launch group. -->
-  <CommandSelectPreviousTransporterDesc>इस प्रक्षेपण समूह में पिछला परिवहन पोड चुनें।</CommandSelectPreviousTransporterDesc>
+  <CommandSelectPreviousTransporterDesc>इस लॉन्च समूह में पिछले ट्रांसपोर्ट पॉड को चुनें।</CommandSelectPreviousTransporterDesc>
   
   <!-- Select all transporters -->
   <!-- EN: Select launch group -->
   <CommandSelectAllTransporters>चयन करें लॉन्च समूह</CommandSelectAllTransporters>
   <!-- EN: Select all transport pods in this launch group. -->
-  <CommandSelectAllTransportersDesc>इस प्रक्षेपण समूह में सभी परिवहन पॉड चुनें।</CommandSelectAllTransportersDesc>
+  <CommandSelectAllTransportersDesc>इस लॉन्च समूह के सभी ट्रांसपोर्ट पॉड्स का चयन करें।</CommandSelectAllTransportersDesc>
   
   <!-- Select next transporter -->
   <!-- EN: Select next in launch group -->
   <CommandSelectNextTransporter>अगला प्रक्षेपण समूह चुनें</CommandSelectNextTransporter>
   <!-- EN: Select next transport pod in this launch group. -->
-  <CommandSelectNextTransporterDesc>इस प्रक्षेपण समूह में अगला परिवहन पॉड चुनें।</CommandSelectNextTransporterDesc>
+  <CommandSelectNextTransporterDesc>इस लॉन्च समूह में अगले ट्रांसपोर्ट पॉड का चयन करें।</CommandSelectNextTransporterDesc>
   
   <!-- Vent -->
   <!-- EN: Designate open/close -->
@@ -753,9 +753,9 @@
 
   <!-- Auto-build pod -->
   <!-- EN: Auto build transport pod -->
-  <AutoBuildTransportPod>स्वचालित निर्माण परिवहन पोड</AutoBuildTransportPod>
+  <AutoBuildTransportPod>परिवहन पॉड का स्वचालित निर्माण</AutoBuildTransportPod>
   <!-- EN: If on, your colonists will automatically build a new transport pod when possible. -->
-  <AutoBuildTransportPodDesc>यदि चालू है, तो आपके उपनिवेशवादी जब भी संभव होगा स्वचालित रूप से एक नया परिवहन पॉड बनाएंगे।</AutoBuildTransportPodDesc>
+  <AutoBuildTransportPodDesc>यदि चालू है, तो आपके उपनिवेशवादी संभव होने पर स्वचालित रूप से एक नया परिवहन पॉड बनाएंगे।</AutoBuildTransportPodDesc>
   
   <!-- Hacking gizmo -->
   <!-- EN: Hack... -->

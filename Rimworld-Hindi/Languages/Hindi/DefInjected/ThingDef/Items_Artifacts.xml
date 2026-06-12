@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: psychic animal pulser -->
-  <PsychicAnimalPulser.label>मानसिक पशु स्पंदक</PsychicAnimalPulser.label>
+  <PsychicAnimalPulser.label>मानसिक पशु पल्सर</PsychicAnimalPulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected. -->
-  <PsychicAnimalPulser.description>एक बार उपयोग होने वाला व्यापक-तरंग मानसिक प्रभावक। मानसिक स्पंदित निम्न स्तर के दिमागों को भयावह कल्पनाओं से भर देता है, जिससे क्षेत्र के सभी जानवर मानव-शिकार के क्रोध में आ जाते हैं। वर्तमान में आपके नियंत्रण में मौजूद जानवर प्रभावित नहीं होंगे।</PsychicAnimalPulser.description>
+  <PsychicAnimalPulser.description>एक बार उपयोग होने वाला ब्रॉड-वेव साइकिक इफ़ेक्टर। यह साइकिक पल्स निम्न स्तर के मन को भयानक कल्पनाओं से भर देता है, जिससे क्षेत्र के सभी जानवर मानव-शिकारी क्रोध में आ जाते हैं। वर्तमान में आपके नियंत्रण में रहने वाले जानवरों पर इसका प्रभाव नहीं पड़ेगा।</PsychicAnimalPulser.description>
   <!-- EN: Activate {0_label} -->
   <PsychicAnimalPulser.comps.CompUsable.useLabel>सक्रिय करें {0_label}</PsychicAnimalPulser.comps.CompUsable.useLabel>
   
   <!-- EN: psychic soothe pulser -->
-  <PsychicSoothePulser.label>मानसिक शांति स्पंदक</PsychicSoothePulser.label>
+  <PsychicSoothePulser.label>मानसिक शांति पल्सर</PsychicSoothePulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region. -->
-  <PsychicSoothePulser.description>एक बार उपयोग करने वाला व्यापक-तरंग मानसिक प्रभावक। मानसिक स्पंदनाएँ आत्म-संतुष्टिदायक धारणा विकृतियाँ उत्पन्न करती हैं, जिससे क्षेत्र के सभी लोगों के मनोदशा को अस्थायी रूप से बढ़ावा मिलता है।</PsychicSoothePulser.description>
+  <PsychicSoothePulser.description>एक बार उपयोग होने वाला ब्रॉड-वेव साइकिक इफ़ेक्टर। यह साइकिक पल्स आत्म-संतुष्ट धारणात्मक विकृतियों को प्रेरित करता है, जिससे क्षेत्र में मौजूद सभी लोगों के मूड में अस्थायी वृद्धि होती है।</PsychicSoothePulser.description>
   <!-- EN: Activate {0_label} -->
   <PsychicSoothePulser.comps.CompUsable.useLabel>सक्रिय करें {0_label}</PsychicSoothePulser.comps.CompUsable.useLabel>
   

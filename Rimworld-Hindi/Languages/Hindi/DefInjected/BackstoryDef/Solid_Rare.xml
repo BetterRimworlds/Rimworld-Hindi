@@ -25,7 +25,7 @@
   <FeyCustomAdulthood.titleShort>{PAWN_gender ? खेल मास्टर (महिला) : खेल मास्टर}</FeyCustomAdulthood.titleShort>
   
   <!-- EN: Growing up sheltered in an urbworld archology, [PAWN_nameDef] distracted [PAWN_objective]self by playing wargames and painting miniatures. While [PAWN_pronoun] was never very good at the game itself, it helped to connect [PAWN_objective] with others. -->
-  <FeyCustomChildhood.description>{PAWN_gender ? शहरी दुनिया के आर्कोलॉजी में पर पली-बढ़ी [PAWN_nameDef] ने खुद को व्यस्त रखने के लिए युद्ध खेल खेले और लघु चित्र बनाए। हालाँकि वह खेल में कभी भी बहुत अच्छी नहीं थी, इसने उसे दूसरों से जुड़ने में मदद की। : शहरी दुनिया के आर्कोलॉजी में परवरिश पाए, [PAWN_nameDef] ने खुद को व्यस्त रखने के लिए युद्ध खेल खेले और लघु चित्र बनाए। हालाँकि वह खेल में कभी बहुत अच्छा नहीं रहा, इसने उसे दूसरों से जुड़ने में मदद की।}</FeyCustomChildhood.description>
+  <FeyCustomChildhood.description>{PAWN_gender ? एक शहरी दुनिया के आर्कोलॉजी में सुरक्षित रहकर पली-बढ़ी, [PAWN_nameDef] ने खुद का मन युद्ध के खेल खेलने और लघु आकृतियों को रंगने में लगाकर विचलित किया। हालाँकि वह स्वयं खेल में कभी बहुत अच्छी नहीं थी, लेकिन इसने दूसरों के साथ जुड़ने में उसकी मदद की। : एक शहरी दुनिया के आर्कोलॉजी में सुरक्षित रहकर बड़े होते हुए, [PAWN_nameDef] ने खुद को युद्ध के खेल खेलने और लघु आकृतियों (miniatures) को रंगने में व्यस्त रखा। हालाँकि वह स्वयं खेल में कभी बहुत अच्छा नहीं रहा, लेकिन इसने उसे दूसरों से जुड़ने में मदद की।}</FeyCustomChildhood.description>
   <!-- EN: wargame fanatic -->
   <FeyCustomChildhood.title>युद्ध-खेल उत्साही</FeyCustomChildhood.title>
   <FeyCustomChildhood.titleFemale>युद्ध-खेल उत्साही महिला</FeyCustomChildhood.titleFemale>
@@ -50,7 +50,7 @@
   <JoeCustomChildhood.titleShort>{PAWN_gender ? ढोलक वादिका : ड्रमर}</JoeCustomChildhood.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked on a peaceful glitterworld developing hyper-realistic war crime simulation software. -->
-  <LiamCustomAdulthood.description>[PAWN_nameDef] ने एक शांतिपूर्ण चमकते ग्रह पर अति-यथार्थवादी युद्ध अपराध सिमुलेशन सॉफ्टवेयर विकसित किया।</LiamCustomAdulthood.description>
+  <LiamCustomAdulthood.description>[PAWN_nameDef] ने अति-यथार्थवादी युद्ध अपराध सिमुलेशन सॉफ्टवेयर विकसित करने के लिए एक शांतिपूर्ण चमकदार दुनिया में काम किया था।</LiamCustomAdulthood.description>
   <!-- EN: simulation developer -->
   <LiamCustomAdulthood.title>सिमुलेशन डेवलपर</LiamCustomAdulthood.title>
   <LiamCustomAdulthood.titleFemale>सिमुलेशन डेवलपर</LiamCustomAdulthood.titleFemale>
@@ -59,7 +59,7 @@
   <LiamCustomAdulthood.titleShortFemale>सिम डेवलपर</LiamCustomAdulthood.titleShortFemale>
   
   <!-- EN: Born and raised on a glitterworld, [PAWN_nameDef] was obsessed with simulation software. [PAWN_pronoun] spent far too much time plugged in. -->
-  <LiamCustomChildhood.description>{PAWN_gender ? एक चमकते हुए ग्रह पर जन्मी और पली-बढ़ी, [PAWN_nameDef] सिमुलेशन सॉफ्टवेयर के प्रति जुनूनी थी। उसने बहुत अधिक समय प्लग इन करके बिताया। : एक चमकते हुए ग्रह पर पैदा हुए और पले-बढ़े, [PAWN_nameDef] सिमुलेशन सॉफ्टवेयर के प्रति आसक्त थे। उन्होंने बहुत अधिक समय प्लग इन करके बिताया।}</LiamCustomChildhood.description>
+  <LiamCustomChildhood.description>{PAWN_gender ? एक चमकदार दुनिया में जन्मी और पली-बढ़ी, [PAWN_nameDef] सिमुलेशन सॉफ़्टवेयर की दीवानी थी। उसने बहुत अधिक समय मशीनों से जुड़े रहने में बिताया। : एक चमकदार दुनिया में पैदा हुए और पले-बढ़े, [PAWN_nameDef] सिमुलेशन सॉफ्टवेयर का दीवाना था। उसने बहुत अधिक समय मशीन से जुड़े रहने में बिताया।}</LiamCustomChildhood.description>
   <!-- EN: sim addict -->
   <LiamCustomChildhood.title>सिम व्यसनग्रस्त</LiamCustomChildhood.title>
   <LiamCustomChildhood.titleFemale>सिम की आदी महिला</LiamCustomChildhood.titleFemale>
@@ -112,7 +112,7 @@
   <OskarCustomAdulthood.titleShort>{PAWN_gender ? मोडर (महिला) : मोडर}</OskarCustomAdulthood.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born on the dark edge of a tidally-locked urbworld. After an argument, [PAWN_possessive] father sold [PAWN_objective] to a local district lord as a slave artist.\n\nForced to create art or be punished, [PAWN_pronoun] withdrew and became unable to form relations with others. -->
-  <OskarCustomChildhood.description>{PAWN_gender ? [PAWN_nameDef] एक ज्वारीय-ताले वाले शहरी दुनिया के अंधेरे किनारे पर जन्मी थी। एक तर्क के बाद, उसके पिता ने उसे एक स्थानीय जिला स्वामी को दास कलाकार के रूप में बेच दिया।\n\nसजा से बचने के लिए कला बनाने के लिए मजबूर, वह संकुचित हो गई और दूसरों के साथ संबंध बनाने में असमर्थ हो गई। : [PAWN_nameDef] एक ज्वारीय-ताले वाले शहरी दुनिया के अंधेरे किनारे पर पैदा हुआ था। एक तर्क के बाद, उसके पिता ने उसे एक स्थानीय जिला स्वामी को दास कलाकार के रूप में बेच दिया।\n\nसजा से बचने के लिए कला बनाने के लिए मजबूर, वह संकुचित हो गया और दूसरों के साथ संबंध बनाने में असमर्थ हो गया।}</OskarCustomChildhood.description>
+  <OskarCustomChildhood.description>{PAWN_gender ? [PAWN_nameDef] का जन्म एक ज्वारीय रूप से लॉक (tidally-locked) शहरी दुनिया के अंधेरे किनारे पर हुआ था। एक बहस के बाद, उसके पिता ने उसे एक स्थानीय जिला स्वामी को एक दासी कलाकार के रूप में बेच दिया।\n\nकला बनाने या दंडित होने के लिए मजबूर होने के कारण, वह खुद में सिमट गई और दूसरों के साथ संबंध बनाने में असमर्थ हो गई। : [PAWN_nameDef] का जन्म एक ज्वारीय रूप से लॉक (tidally-locked) शहरी दुनिया के अंधेरे किनारे पर हुआ था। एक बहस के बाद, उसके पिता ने उसे एक गुलाम कलाकार के रूप में स्थानीय जिला लॉर्ड को बेच दिया।\n\nकला बनाने या दंडित होने के लिए मजबूर होने के कारण, वह अलग-थलग पड़ गया और दूसरों के साथ संबंध बनाने में असमर्थ हो गया।}</OskarCustomChildhood.description>
   <!-- EN: art slave -->
   <OskarCustomChildhood.title>कला दास</OskarCustomChildhood.title>
   <OskarCustomChildhood.titleFemale>कला दासी</OskarCustomChildhood.titleFemale>
@@ -136,7 +136,7 @@
   <TynanCustomChildhood.titleShort>{PAWN_gender ? विद्रोही युवती : विद्रोही युवक}</TynanCustomChildhood.titleShort>
   
   <!-- EN: [PAWN_nameDef] designed elaborate entertainment mazes for the glitterworld elite. Even now, [PAWN_pronoun] thinks of little else. -->
-  <WillCustomAdulthood.description>{PAWN_gender ? मनोरंजन के जटिल भूलभुलैयाएँ [PAWN_nameDef] ने चमकते हुए दुनिया के अभिजात वर्ग के लिए डिज़ाइन की थीं। यहाँ तक कि अब भी, वह इसके बारे में कुछ और नहीं सोचती है। : [PAWN_nameDef] ने ग्लिटरवर्ल्ड के अभिजात वर्ग के लिए विस्तृत मनोरंजन भूलभुलैयाएँ डिज़ाइन कीं। अभी भी, वह इसके बारे में कुछ और नहीं सोचता है।}</WillCustomAdulthood.description>
+  <WillCustomAdulthood.description>{PAWN_gender ? [PAWN_nameDef] ने चमकदार दुनिया के अभिजात वर्ग के लिए जटिल मनोरंजन भूलभुलैया डिजाइन की थीं। अब भी, वह इसके अलावा और कुछ कम ही सोच पाती हैं। : [PAWN_nameDef] ने चमकदार दुनिया के अभिजात वर्ग के लिए जटिल मनोरंजन भूलभुलैया डिजाइन की थीं। अब भी, वह इसके अलावा और कुछ कम ही सोच पाता है।}</WillCustomAdulthood.description>
   <!-- EN: labyrinth maker -->
   <WillCustomAdulthood.title>भूलभुलैया निर्माता</WillCustomAdulthood.title>
   <WillCustomAdulthood.titleFemale>भूलभुलैया निर्माता</WillCustomAdulthood.titleFemale>

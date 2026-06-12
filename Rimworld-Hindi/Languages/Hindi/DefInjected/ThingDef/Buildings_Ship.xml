@@ -14,12 +14,12 @@
   <!-- EN: ship cryptosleep casket -->
   <Ship_CryptosleepCasket.label>जहाज़ क्रिप्टोस्लीप ताबूत</Ship_CryptosleepCasket.label>
   <!-- EN: A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries and surviving atmospheric re-entry. -->
-  <Ship_CryptosleepCasket.description>एक क्रिप्टोस्लीप ताबूत जो अंतरिक्ष के खतरों के खिलाफ मजबूत किया गया है। यह सदियों तक किसी व्यक्ति को क्रिप्टोस्लीप में बनाए रखने और वायुमंडलीय पुन: प्रवेश से बचने में सक्षम है।</Ship_CryptosleepCasket.description>
+  <Ship_CryptosleepCasket.description>अंतरिक्ष के खतरों से सुरक्षित एक क्रिप्टोस्लीप ताबूत। किसी व्यक्ति को सदियों तक क्रिप्टोस्लीप में बनाए रखने और वायुमंडलीय पुन: प्रवेश में जीवित रहने में सक्षम।</Ship_CryptosleepCasket.description>
   
   <!-- EN: ship engine -->
   <Ship_Engine.label>जहाज़ इंजन</Ship_Engine.label>
   <!-- EN: A reactionless Johnson-Tanaka drive capable of launching a ship into orbit, and crawling across the vast expanses between stars. -->
-  <Ship_Engine.description>एक प्रतिक्रियाहीन जॉनसन-तनाका ड्राइव जो किसी जहाज को कक्षा में प्रक्षेपित करने और तारों के बीच विशाल विस्तार में रेंगने में सक्षम है।</Ship_Engine.description>
+  <Ship_Engine.description>एक प्रतिक्रियाहीन जॉनसन-तनाका ड्राइव जो एक जहाज को कक्षा में भेजने और सितारों के बीच के विशाल विस्तार में रेंगने में सक्षम है।</Ship_Engine.description>
   
   <!-- EN: ship reactor -->
   <Ship_Reactor.label>जहाज़ रिएक्टर</Ship_Reactor.label>

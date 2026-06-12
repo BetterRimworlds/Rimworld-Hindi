@@ -4,46 +4,46 @@
   <!-- EN: barricade -->
   <Barricade.label>अवरोध</Barricade.label>
   <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do. -->
-  <Barricade.description>आने वाली गोलियों से बचाव के लिए कमर तक ऊँची बाधा। बैरिकेड बदसूरत होते हैं, लेकिन अन्य नीची वस्तुओं की तुलना में बेहतर बचाव प्रदान करते हैं। बैरिकेड बाड़ के समान ही कुछ प्रकार के जानवरों को रोकेंगे।</Barricade.description>
+  <Barricade.description>आने वाली गोलियों से आड़ के रूप में उपयोग करने के लिए कमर तक ऊँची एक बाधा। बैरिकेड्स बदसूरत होते हैं, लेकिन अन्य कम ऊँचाई वाली वस्तुओं की तुलना में बेहतर आड़ प्रदान करते हैं। बैरिकेड्स कुछ प्रकार के जानवरों को उसी तरह रोकेंगे जैसे बाड़ रोकते हैं।</Barricade.description>
   
   <!-- EN: sandbags -->
   <Sandbags.label>रेत की बोरियां</Sandbags.label>
   <!-- EN: Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects. -->
-  <Sandbags.description>स्थानीय रूप से प्राप्त मिट्टी या रेत के बोरे, जिनका उपयोग आवरण के रूप में करने के लिए ढेर लगाया जाता है। रेत के बोरे बदसूरत होते हैं, लेकिन अन्य नीची वस्तुओं की तुलना में बेहतर आवरण प्रदान करते हैं।</Sandbags.description>
+  <Sandbags.description>स्थानीय स्तर पर प्राप्त मिट्टी या रेत की थैलियाँ, जिन्हें आड़ के रूप में उपयोग करने के लिए एक के ऊपर एक रखा गया है। रेत की थैलियाँ बदसूरत होती हैं, लेकिन अन्य कम ऊँचाई वाली वस्तुओं की तुलना में बेहतर आड़ प्रदान करती हैं।</Sandbags.description>
   
   <!-- EN: IED antigrain warhead trap -->
-  <TrapIED_AntigrainWarhead.label>आईईडी एंटीग्रेन वारहेड जाल</TrapIED_AntigrainWarhead.label>
+  <TrapIED_AntigrainWarhead.label>IED एंटीग्रेन वारहेड जाल</TrapIED_AntigrainWarhead.label>
   <!-- EN: An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_AntigrainWarhead.description>एक प्रति-पदार्थ-संचालित प्रति-अनाज युद्धशीर्षक एक ट्रिगर से जुड़ा है जो स्पर्श या गोली के प्रभाव पर विस्फोट करता है। चूंकि यह आसपास के भूभाग में छिपा हुआ है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। जानवर शांत होने पर इन्हें महसूस कर सकते हैं।</TrapIED_AntigrainWarhead.description>
+  <TrapIED_AntigrainWarhead.description>एक एंटीमैटर-संचालित एंटीग्रेन वारहेड जो एक ट्रिगर से जुड़ा होता है और स्पर्श या गोली लगने पर फट जाता है। चूंकि यह आसपास के इलाके में छिपा होता है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। शांत होने पर जानवर इन्हें महसूस कर सकते हैं।</TrapIED_AntigrainWarhead.description>
   
   <!-- EN: IED EMP trap -->
-  <TrapIED_EMP.label>आईईडी ईएमपी जाल</TrapIED_EMP.label>
+  <TrapIED_EMP.label>IED EMP जाल</TrapIED_EMP.label>
   <!-- EN: A pair of EMP shells connected to a trigger which detonates on touch or bullet impact. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_EMP.description>एक जोड़ी ईएमपी गोले एक ट्रिगर से जुड़े हैं जो स्पर्श या गोली लगने पर फट जाते हैं। विस्फोट कुछ सेकंड के लिए मशीनों को लकवा मार सकता है। चूंकि यह आसपास के भूभाग में छिपा हुआ है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। जानवर शांत होने पर इन्हें महसूस कर सकते हैं।</TrapIED_EMP.description>
+  <TrapIED_EMP.description>एक ट्रिगर से जुड़े EMP शेल की एक जोड़ी जो स्पर्श या गोली लगने पर फट जाते हैं। विस्फोट कुछ सेकंड के लिए मेकैनॉइड्स को पंगु बना सकता है। चूंकि यह आसपास के इलाके में छिपा होता है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। शांत होने पर जानवर इन्हें महसूस कर सकते हैं।</TrapIED_EMP.description>
   
   <!-- EN: IED firefoam trap -->
-  <TrapIED_Firefoam.label>जाल आग-रोधी</TrapIED_Firefoam.label>
+  <TrapIED_Firefoam.label>IED फायरफोम जाल</TrapIED_Firefoam.label>
   <!-- EN: A pair of firefoam shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Firefoam.description>एक जोड़ी फायरफोम शेल एक ट्रिगर से जुड़ी होती है जो स्पर्श या बुलेट प्रभाव पर विस्फोट करती है। चूंकि यह आसपास के भूभाग में छिपा हुआ है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। जानवर शांत होने पर इन्हें महसूस कर सकते हैं।</TrapIED_Firefoam.description>
+  <TrapIED_Firefoam.description>फायरफोम शेल की एक जोड़ी जो एक ट्रिगर से जुड़ी होती है और स्पर्श या गोली लगने पर फट जाती है। चूंकि यह आसपास के इलाके में छिपी होती है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। शांत होने पर जानवर इन्हें महसूस कर सकते हैं।</TrapIED_Firefoam.description>
   
   <!-- EN: IED trap -->
-  <TrapIED_HighExplosive.label>आईईडी जाल</TrapIED_HighExplosive.label>
+  <TrapIED_HighExplosive.label>IED जाल</TrapIED_HighExplosive.label>
   <!-- EN: A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_HighExplosive.description>एक उच्च-विस्फोटक गोले का जोड़ा जो एक ट्रिगर से जुड़ा है, जो स्पर्श या गोली लगने पर फट जाता है। चूंकि यह आसपास के भूभाग में छिपा हुआ है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। शांत होने पर जानवर इसे महसूस कर सकते हैं।</TrapIED_HighExplosive.description>
+  <TrapIED_HighExplosive.description>उच्च-विस्फोटक शेल की एक जोड़ी जो एक ट्रिगर से जुड़ी होती है जो स्पर्श या गोली लगने पर फट जाती है। चूंकि यह आसपास के इलाके में छिपा होता है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। शांत होने पर जानवर इन्हें महसूस कर सकते हैं।</TrapIED_HighExplosive.description>
   
   <!-- EN: IED incendiary trap -->
-  <TrapIED_Incendiary.label>जाल आग लगाने वाला</TrapIED_Incendiary.label>
+  <TrapIED_Incendiary.label>IED इन्सेन्डियरी जाल</TrapIED_Incendiary.label>
   <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Incendiary.description>एक प्रज्वलनशील गोले का जोड़ा जो एक ट्रिगर से जुड़ा है, जो स्पर्श या गोली लगने पर विस्फोट करता है। चूंकि यह आसपास के भूभाग में छिपा हुआ है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। शांत होने पर जानवर इन्हें महसूस कर सकते हैं।</TrapIED_Incendiary.description>
+  <TrapIED_Incendiary.description>एक जोड़ी इन्सेंडियरी शेल जो एक ट्रिगर से जुड़े होते हैं और स्पर्श या गोली लगने पर फट जाते हैं। चूंकि यह आसपास के इलाके में छिपा होता है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। शांत होने पर जानवर इन्हें महसूस कर सकते हैं।</TrapIED_Incendiary.description>
   
   <!-- EN: IED smoke trap -->
-  <TrapIED_Smoke.label>आईईडी धुआँ जाल</TrapIED_Smoke.label>
+  <TrapIED_Smoke.label>IED धुआं जाल</TrapIED_Smoke.label>
   <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Smoke.description>धुएँ के दो खोल एक ट्रिगर से जुड़े हैं जो स्पर्श या गोली लगने पर फट जाते हैं। चूंकि यह आसपास के भूभाग में छिपा हुआ है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। शांत होने पर जानवर इन्हें महसूस कर सकते हैं।</TrapIED_Smoke.description>
+  <TrapIED_Smoke.description>धुएं के खोल की एक जोड़ी जो एक ट्रिगर से जुड़ी होती है जो स्पर्श या गोली लगने पर फट जाती है। चूंकि यह आसपास के इलाके में छिपी होती है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। शांत होने पर जानवर इन्हें महसूस कर सकते हैं।</TrapIED_Smoke.description>
   
   <!-- EN: spike trap -->
-  <TrapSpike.label>काँटेदार जाल</TrapSpike.label>
+  <TrapSpike.label>नुकीला जाल</TrapSpike.label>
   <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapSpike.description>तनाव में पाँच स्पाइक्स, एक स्पर्श-सक्रिय ट्रिगर से जुड़े हैं। जब पीड़ित ट्रिगर को परेशान करता है, तो स्पाइक्स आगे बढ़ते हैं और पीड़ित को मारते हैं। चूंकि यह आसपास के इलाके में छिपा हुआ है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। जानवर शांत होने पर इन्हें महसूस कर सकते हैं।</TrapSpike.description>
+  <TrapSpike.description>तनाव के अधीन पांच स्पाइक्स, जो स्पर्श-सक्रिय ट्रिगर से जुड़े होते हैं। जब पीड़ित ट्रिगर को बाधित करता है, तो स्पाइक्स तेजी से बाहर निकलते हैं और पीड़ित पर प्रहार करते हैं। चूंकि यह आसपास के भूभाग में छिपा होता है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। शांत होने पर जानवर इन्हें महसूस कर सकते हैं।</TrapSpike.description>
   
 </LanguageData>

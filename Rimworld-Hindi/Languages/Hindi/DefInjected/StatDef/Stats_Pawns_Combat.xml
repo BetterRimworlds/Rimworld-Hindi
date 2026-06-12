@@ -14,44 +14,44 @@
   <!-- EN: melee armor penetration -->
   <MeleeArmorPenetration.label>नज़दीकी युद्ध कवच भेदन</MeleeArmorPenetration.label>
   <!-- EN: Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon. -->
-  <MeleeArmorPenetration.description>नज़दीकी युद्ध में सभी हमलों का औसत कवच भेदन।\n\nयह आँकड़ा वर्तमान में उपयोग किए जा रहे हथियार को भी शामिल करता है।</MeleeArmorPenetration.description>
+  <MeleeArmorPenetration.description>नज़दीकी युद्ध में सभी हमलों का औसत कवच भेदन।\n\nइस आँकले में वर्तमान में उपयोग किया जाने वाला हथियार शामिल है।</MeleeArmorPenetration.description>
   
   <!-- EN: melee cooldown -->
-  <MeleeCooldownFactor.label>नज़दीकी युद्ध शीतकाल</MeleeCooldownFactor.label>
+  <MeleeCooldownFactor.label>नज़दीकी युद्ध कूलडाउन</MeleeCooldownFactor.label>
   <!-- EN: A multiplier on the time this creature takes to recover after making a melee attack. -->
-  <MeleeCooldownFactor.description>नज़दीकी युद्ध हमले करने के बाद इस प्राणी को ठीक होने में लगने वाले समय पर एक गुणक।</MeleeCooldownFactor.description>
+  <MeleeCooldownFactor.description>नज़दीकी युद्ध हमला करने के बाद इस जीव को ठीक होने में लगने वाले समय पर एक गुणक।</MeleeCooldownFactor.description>
   
   <!-- EN: melee damage factor -->
   <MeleeDamageFactor.label>नज़दीकी युद्ध क्षति कारक</MeleeDamageFactor.label>
   <!-- EN: A multiplier on the amount of melee damage inflicted by this person. -->
-  <MeleeDamageFactor.description>A multiplier on the amount of melee damage inflicted by this person.</MeleeDamageFactor.description>
+  <MeleeDamageFactor.description>इस व्यक्ति द्वारा किए जाने वाले नज़दीकी युद्ध के नुकसान की मात्रा पर एक गुणक।</MeleeDamageFactor.description>
   
   <!-- EN: melee dodge chance -->
   <MeleeDodgeChance.label>नज़दीकी युद्ध बचाव संभावना</MeleeDodgeChance.label>
   <!-- EN: Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon. -->
-  <MeleeDodgeChance.description>निकटवर्ती हमले से बचने की संभावना जो अन्यथा लगते।\n\nपात्र लक्ष्य साधते या दूर से हथियार चलाते समय नहीं बचेंगे।</MeleeDodgeChance.description>
+  <MeleeDodgeChance.description>एक नज़दीकी युद्ध हमले से बचने की संभावना जो अन्यथा लग जाता।\n\nपात्र किसी भी दूरी वाले हथियार को निशाना लगाते या चलाते समय बचाव नहीं करेंगे।</MeleeDodgeChance.description>
   
   <!-- EN: melee DPS -->
   <MeleeDPS.label>नज़दीकी युद्ध DPS</MeleeDPS.label>
   <!-- EN: Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor. -->
-  <MeleeDPS.description>नज़दीकी युद्ध में प्रति सेकंड औसत क्षति।\n\nयह आँकड़ा लक्ष्य के बचाव, जैसे कि चकमा देना और कवच, को अनदेखा करता है।</MeleeDPS.description>
+  <MeleeDPS.description>नज़दीकी युद्ध में प्रति सेकंड औसत क्षति।\n\nयह आँकड़ा चकमा देने और कवच जैसे लक्ष्य के बचाव की अनदेखी करता है।</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
-  <MeleeHitChance.label>नज़दीकी युद्ध हिट संभावना</MeleeHitChance.label>
+  <MeleeHitChance.label>नज़दीकी युद्ध प्रहार संभावना</MeleeHitChance.label>
   <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
-  <MeleeHitChance.description>निकटवर्ती लक्ष्य को मारने की संभावना।\n\nलक्ष्य अभी भी बच सकता है भले ही हम मारते।</MeleeHitChance.description>
+  <MeleeHitChance.description>नज़दीकी युद्ध में लक्ष्य पर प्रहार करने की संभावना।\n\nयदि हम प्रहार कर भी देते, तो भी लक्ष्य अभी भी बच सकता है।</MeleeHitChance.description>
   
   <!-- EN: Mortar miss radius multiplier -->
-  <MortarMissRadiusFactor.label>मोर्टार चूक त्रिज्या गुणक</MortarMissRadiusFactor.label>
+  <MortarMissRadiusFactor.label>मोर्टार मिस रेडियस गुणक</MortarMissRadiusFactor.label>
   <!-- EN: A multiplier on the miss radius of a mortar used by this person. Smaller numbers means more accurate mortar shells. -->
-  <MortarMissRadiusFactor.description>यह व्यक्ति द्वारा उपयोग किए जाने वाले मोर्टार की मिस त्रिज्या पर एक गुणक है। छोटी संख्याएँ अधिक सटीक मोर्टार गोले दर्शाती हैं।</MortarMissRadiusFactor.description>
+  <MortarMissRadiusFactor.description>इस व्यक्ति द्वारा उपयोग किए जाने वाले मोर्टार के मिस रेडियस (miss radius) पर एक गुणक। छोटी संख्या का अर्थ है अधिक सटीक मोर्टार शेल।</MortarMissRadiusFactor.description>
   <!-- EN: Mortar miss radius multiplier -->
-  <MortarMissRadiusFactor.labelForFullStatList>मोर्टार चूक त्रिज्या गुणक</MortarMissRadiusFactor.labelForFullStatList>
+  <MortarMissRadiusFactor.labelForFullStatList>मोर्टार मिस रेडियस गुणक</MortarMissRadiusFactor.labelForFullStatList>
   
   <!-- EN: trap spring chance -->
-  <PawnTrapSpringChance.label>जाल स्प्रिंग संभावना</PawnTrapSpringChance.label>
+  <PawnTrapSpringChance.label>जाल सक्रिय होने की संभावना</PawnTrapSpringChance.label>
   <!-- EN: Chance to spring a trap the character is unaware of. -->
-  <PawnTrapSpringChance.description>चरित्र को पता नहीं चल पाने वाले जाल को सक्रिय करने की संभावना।</PawnTrapSpringChance.description>
+  <PawnTrapSpringChance.description>उस जाल के सक्रिय होने की संभावना जिससे पात्र अनभिज्ञ है।</PawnTrapSpringChance.description>
   
   <!-- EN: ranged cooldown multiplier -->
   <RangedCooldownFactor.label>दूरस्थ शीतलन गुणक</RangedCooldownFactor.label>

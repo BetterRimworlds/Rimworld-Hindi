@@ -4,15 +4,15 @@
   <!-- EN: boomrat -->
   <Boomrat.label>विस्फोटक चूहा</Boomrat.label>
   <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
-  <Boomrat.description>चाहे जानबूझकर आनुवंशिक हथियार के रूप में, या एक असामान्य रक्षा तंत्र के रूप में, ये कृंतक जैसे जीव मरने पर एक शक्तिशाली आग लगाने वाला विस्फोट उत्पन्न करते हैं।</Boomrat.description>
+  <Boomrat.description>या तो जानबूझकर किए गए आनुवंशिक हथियारकरण के माध्यम से, या एक असामान्य रक्षा तंत्र के रूप में, ये कृंतक जैसे जीव मारे जाने पर एक शक्तिशाली आग लगाने वाला विस्फोट उत्पन्न करते हैं।</Boomrat.description>
   <!-- EN: left claw -->
   <Boomrat.tools.left_claw.label>बायां पंजा</Boomrat.tools.left_claw.label>
   <!-- EN: claw -->
-  <Boomrat.tools.left_claw.labelNoLocation>पंजे</Boomrat.tools.left_claw.labelNoLocation>
+  <Boomrat.tools.left_claw.labelNoLocation>पंज़ा</Boomrat.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
   <Boomrat.tools.right_claw.label>दायां पंजा</Boomrat.tools.right_claw.label>
   <!-- EN: claw -->
-  <Boomrat.tools.right_claw.labelNoLocation>पंजे</Boomrat.tools.right_claw.labelNoLocation>
+  <Boomrat.tools.right_claw.labelNoLocation>पंज़ा</Boomrat.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
   <Boomrat.tools.head.label>सिर</Boomrat.tools.head.label>
   

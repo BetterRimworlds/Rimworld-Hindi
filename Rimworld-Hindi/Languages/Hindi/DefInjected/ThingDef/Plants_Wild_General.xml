@@ -19,7 +19,7 @@
   <!-- EN: wild healroot -->
   <Plant_HealrootWild.label>जंगली उपचारमूल</Plant_HealrootWild.label>
   <!-- EN: A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is hardier than domesticated healroot, but too difficult to cultivate. It is prized by tribespeople in colder climates. -->
-  <Plant_HealrootWild.description>धीरे-धीरे बढ़ने वाला पौधा जो कटाई पर औषधीय जड़ी-बूटी देता है।\n\nयह जंगली हीलरूट की नस्ल घरेलू हीलरूट से अधिक मजबूत है, लेकिन इसकी खेती करना बहुत मुश्किल है। यह ठंडे जलवायु में रहने वाले जनजातीय लोगों द्वारा पसंद किया जाता है।</Plant_HealrootWild.description>
+  <Plant_HealrootWild.description>एक धीमी गति से बढ़ने वाला पौधा जो कटाई करने पर जड़ी-बूटी वाली दवा देता है।\n\nहीलरूट की यह जंगली प्रजाति पालतू हीलरूट की तुलना में अधिक कठोर है, लेकिन इसकी खेती करना बहुत कठिन है। ठंडे जलवायु वाले कबीले के लोगों द्वारा इसे बेशकीमती माना जाता है।</Plant_HealrootWild.description>
   
   <!-- EN: tall grass -->
   <Plant_TallGrass.label>ऊँची घास</Plant_TallGrass.label>

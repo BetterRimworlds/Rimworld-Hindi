@@ -380,7 +380,7 @@
   <!-- EN: Major threats -->
   <Difficulty_AllowBigThreats_Label>गंभीर खतरे</Difficulty_AllowBigThreats_Label>
   <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
-  <Difficulty_AllowBigThreats_Info>बड़े खतरों जैसे छापे, संक्रमण, शिकारी झुंड, दुर्घटनाग्रस्त मेकैनॉइड जहाज़ और बहुत कुछ की अनुमति दें।</Difficulty_AllowBigThreats_Info>
+  <Difficulty_AllowBigThreats_Info>छापे, संक्रमण, मानव शिकारी झुंड, दुर्घटनाग्रस्त मेकैनॉइड जहाज और अन्य जैसे बड़े खतरों की अनुमति दें।</Difficulty_AllowBigThreats_Info>
   <!-- EN: Quest threats -->
   <Difficulty_AllowViolentQuests_Label>खतरे</Difficulty_AllowViolentQuests_Label>
   <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
@@ -415,7 +415,7 @@
   <!-- EN: Butchering yield -->
   <Difficulty_ButcherYieldFactor_Label>कसाई उपज</Difficulty_ButcherYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
-  <Difficulty_ButcherYieldFactor_Info>कसाई करने पर उत्पादित सामग्री की मात्रा समायोजित करें। इसमें मांस, चमड़ा और मेकैनॉइड्स को टुकड़े-टुकड़े करने से प्राप्त उपज शामिल है।</Difficulty_ButcherYieldFactor_Info>
+  <Difficulty_ButcherYieldFactor_Info>कसाईगिरी के दौरान उत्पादित सामग्री की मात्रा को समायोजित करें। इसमें मांस, चमड़ा, और मेकैनॉइड्स को नष्ट करने से प्राप्त उपज शामिल है।</Difficulty_ButcherYieldFactor_Info>
   <!-- EN: Research speed -->
   <Difficulty_ResearchSpeedFactor_Label>शोध गति</Difficulty_ResearchSpeedFactor_Label>
   <!-- EN: Adjust the speed of research. -->
@@ -429,9 +429,9 @@
   <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
   <Difficulty_RaidLootPointsFactor_Info>रेडर्स द्वारा ले जाए गए लूट के मूल्य को समायोजित करें।\n\nध्यान दें: रेड लूट मूल्य को खतरे के पैमाने की भरपाई के लिए स्वचालित रूप से बढ़ाया भी जाता है। यदि आप यह सेटिंग समायोजित करते हैं, तो आप एक अतिरिक्त गुणक जोड़ेंगे।</Difficulty_RaidLootPointsFactor_Info>
   <!-- EN: Turret rearm cost -->
-  <Difficulty_MaintenanceCostFactor_Label>तोप पुनः स्थापित लागत</Difficulty_MaintenanceCostFactor_Label>
+  <Difficulty_MaintenanceCostFactor_Label>तोप पुन:सज्जित लागत</Difficulty_MaintenanceCostFactor_Label>
   <!-- EN: Adjust the cost of rearming turrets. -->
-  <Difficulty_MaintenanceCostFactor_Info>Adjust the cost of rearming turrets.</Difficulty_MaintenanceCostFactor_Info>
+  <Difficulty_MaintenanceCostFactor_Info>तोपें फिर से सुसज्जित करने की लागत को समायोजित करें।</Difficulty_MaintenanceCostFactor_Info>
   <!-- EN: Scaria rot chance -->
   <Difficulty_ScariaRotChance_Label>स्केरिया सड़ने की संभावना</Difficulty_ScariaRotChance_Label>
   <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
@@ -499,21 +499,21 @@
   <!-- EN: Player tools -->
   <DifficultyPlayerToolsSection>उपकरण</DifficultyPlayerToolsSection>
   <!-- EN: Player can build traps -->
-  <Difficulty_AllowTraps_Label>जाल निर्माण</Difficulty_AllowTraps_Label>
+  <Difficulty_AllowTraps_Label>खिलाड़ी जाल बना सकता है</Difficulty_AllowTraps_Label>
   <!-- EN: Player can build traps like spike traps and IED traps. -->
-  <Difficulty_AllowTraps_Info>खिलाड़ी जाल जैसे स्पाइक जाल और आईईडी जाल बना सकते हैं।</Difficulty_AllowTraps_Info>
+  <Difficulty_AllowTraps_Info>खिलाड़ी स्पाइक जाल और IED जाल जैसे जाल बना सकते हैं।</Difficulty_AllowTraps_Info>
   <!-- EN: Player can build turrets -->
-  <Difficulty_AllowTurrets_Label>तोपें बन सकती हैं</Difficulty_AllowTurrets_Label>
+  <Difficulty_AllowTurrets_Label>तोपें बना सकते हैं</Difficulty_AllowTurrets_Label>
   <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
-  <Difficulty_AllowTurrets_Info>खिलाड़ी मिनी-तोपें, ऑटोकेनन तोपें और यूरेनियम स्लग तोपें जैसी स्थिर तोपें बना सकते हैं।\n\nयदि यह अक्षम है, तो भी आप कैप्चर की गई तोपों का उपयोग कर सकते हैं।</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowTurrets_Info>खिलाड़ी मिनी-तोपें, ऑटोकैनन तोपें, और यूरेनियम स्लग तोपें जैसी स्थिर तोपें बना सकते हैं।\n\nयदि यह अक्षम है, तब भी आप पकड़ी गई तोपें उपयोग कर सकते हैं।</Difficulty_AllowTurrets_Info>
   <!-- EN: Player can build mortars -->
-  <Difficulty_AllowMortars_Label>मोर्टार बनाए जा सकते हैं</Difficulty_AllowMortars_Label>
+  <Difficulty_AllowMortars_Label>मोर्टार बना सकते हैं</Difficulty_AllowMortars_Label>
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
-  <Difficulty_AllowMortars_Info>खिलाड़ी मोर्टार बना सकते हैं।\n\nभले ही यह अक्षम हो गया हो, आप कैप्चर किए गए मोर्टार का उपयोग करना जारी रख सकते हैं।</Difficulty_AllowMortars_Info>
+  <Difficulty_AllowMortars_Info>खिलाड़ी मोर्टार बना सकते हैं।\n\nयदि यह अक्षम है, तब भी आप पकड़े गए मोर्टार का उपयोग कर सकते हैं।</Difficulty_AllowMortars_Info>
   <!-- EN: Classic mortars -->
   <Difficulty_ClassicMortars_Label>क्लासिक मोर्टार</Difficulty_ClassicMortars_Label>
   <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
-  <Difficulty_ClassicMortars_Info>मोर्टार को बनाने या पुनः लोड करने के लिए प्रबलित बैरल की आवश्यकता नहीं होगी, और यह इस आसान पहुँच के लिए संतुलित हैं।</Difficulty_ClassicMortars_Info>
+  <Difficulty_ClassicMortars_Info>मोर्टार को बनाने या रीलोड करने के लिए सुदृढ़ बैरल की आवश्यकता नहीं होगी, और इस सुलभता के लिए इन्हें संतुलित किया गया है।</Difficulty_ClassicMortars_Info>
   
   <!-- EN: Adaptation -->
   <DifficultyAdaptationSection>अनुकूलन</DifficultyAdaptationSection>
@@ -539,7 +539,7 @@
   <!-- EN: Low pop conversion boost -->
   <Difficulty_LowPopConversionBoost_Label>जनसंख्या प्रोत्साहन</Difficulty_LowPopConversionBoost_Label>
   <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
-  <Difficulty_LowPopConversionBoost_Info>एक आरंभिक विचारधारा अनुयायी के साथ, उनकी विचारधारा में परिवर्तन की संभावना इस राशि से गुणा होती है। उनके विरुद्ध परिवर्तन प्रयासों का प्रभाव इस राशि से विभाजित होता है।\n\nदो आरंभिक विचारधारा अनुयायियों के साथ, प्रभाव आधा हो जाता है।\n\nतीन या अधिक आरंभिक विचारधारा अनुयायियों के साथ, इसका कोई प्रभाव नहीं पड़ता।</Difficulty_LowPopConversionBoost_Info>
+  <Difficulty_LowPopConversionBoost_Info>खिलाड़ी के शुरुआती विचारधारा वाले एकल उपनिवेशवादी के साथ, उनकी विचारधारा में परिवर्तन की संभावना इस राशि से गुणा हो जाती है। उनके विरुद्ध परिवर्तन के प्रयासों का प्रभाव उस राशि से विभाजित हो जाता है।\n\nखिलाड़ी की शुरुआती विचारधारा वाले दो उपनिवेशवादियों के साथ, प्रभाव आधा हो जाता है।\n\nखिलाड़ी की शुरुआती विचारधारा वाले तीन या अधिक उपनिवेशवादियों के साथ, इसका कोई प्रभाव नहीं पड़ता है।</Difficulty_LowPopConversionBoost_Info>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->

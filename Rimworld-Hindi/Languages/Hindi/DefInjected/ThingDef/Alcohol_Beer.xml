@@ -4,11 +4,11 @@
   <!-- EN: beer -->
   <Beer.label>बीयर</Beer.label>
   <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
-  <Beer.description>मानवता द्वारा पानी के अलावा कभी भी लिया गया पहला पेय। बीयर का स्वाद अच्छा हो सकता है, लेकिन इसका मुख्य प्रभाव नशा है। अत्यधिक सेवन से शराब के कारण बेहोशी और समय के साथ लत लग सकती है।</Beer.description>
+  <Beer.description>मानव जाति द्वारा पानी के अलावा सबसे पहले पिया गया पेय। बीयर का स्वाद अच्छा हो सकता है, लेकिन इसका मुख्य प्रभाव नशा करना है। अत्यधिक सेवन से शराब के कारण याददाश्त खोना और समय के साथ लत लग सकती है।</Beer.description>
   <!-- EN: Drink {0} -->
-  <Beer.ingestible.ingestCommandString>पीना {0}</Beer.ingestible.ingestCommandString>
+  <Beer.ingestible.ingestCommandString>{0} पिएं</Beer.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <Beer.ingestible.ingestReportString>पीना {0}.</Beer.ingestible.ingestReportString>
+  <Beer.ingestible.ingestReportString>{0} पीना।</Beer.ingestible.ingestReportString>
   <!-- EN: bottle -->
   <Beer.tools.bottle.label>बोतल</Beer.tools.bottle.label>
   <!-- EN: neck -->
@@ -17,6 +17,6 @@
   <!-- EN: wort -->
   <Wort.label>पौधा</Wort.label>
   <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
-  <Wort.description>अकिण्वित बीयर। इस पदार्थ को पीने योग्य बीयर बनने से पहले किण्वन बैरल में किण्वित करने की आवश्यकता है।</Wort.description>
+  <Wort.description>बिना किण्वित की गई बीयर। इस पदार्थ को पीने योग्य बीयर बनने से पहले एक किण्वन बैरल में किण्वित होने की आवश्यकता है।</Wort.description>
   
 </LanguageData>

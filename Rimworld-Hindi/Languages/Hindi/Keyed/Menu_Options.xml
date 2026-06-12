@@ -73,7 +73,7 @@
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>स्वचालित रूप से दुर्घटना पर मॉड कॉन्फ़िगरेशन रीसेट करें।</ResetModsConfigOnCrash>
   <!-- EN: Quick start has no cryptosleep sickness -->
-  <DisableQuickStartCryptoSickness>त्वरित शुरुआत में क्रिप्टोस्लीप बीमारी नहीं होती।</DisableQuickStartCryptoSickness>
+  <DisableQuickStartCryptoSickness>त्वरित शुरुआत में क्रिप्टोस्लीप बीमारी नहीं होती है</DisableQuickStartCryptoSickness>
   <!-- EN: Start game with dev palette on -->
   <StartDevPaletteOn>खेल डेवलपर पैलेट के साथ शुरू करें।</StartDevPaletteOn>
   <!-- EN: Open log on warnings -->
