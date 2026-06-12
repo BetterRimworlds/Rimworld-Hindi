@@ -49,7 +49,7 @@
   <!-- EN: smokeleaf plant -->
   <Plant_Smokeleaf.label>स्मोकलीफ का पौधा</Plant_Smokeleaf.label>
   <!-- EN: A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive. -->
-  <Plant_Smokeleaf.description>एक पत्तेदार फसल जिसे इसकी पत्तियों में मौजूद रसायनों के मनोवैज्ञानिक प्रभावों के लिए उगाया जाता है। स्मोकलीफ की पत्तियों को क्राफ्टिंग स्पॉट पर जॉइंट्स में तैयार किया जा सकता है। स्मोकलीफ उपयोग करने वाले को तनावमुक्त महसूस कराता है, लेकिन प्रेरणा को कम करता है, और इसकी लत लग सकती है।</Plant_Smokeleaf.description>
+  <Plant_Smokeleaf.description>पत्तियों में मौजूद रसायनों के मनोवैज्ञानिक प्रभावों के लिए उगाई जाने वाली एक पत्तेदार फसल। स्मोकलीफ की पत्तियों को कारीगरी स्थल पर जोड़ में तैयार किया जा सकता है। स्मोकलीफ उपयोगकर्ता को आराम महसूस कराती है, लेकिन प्रेरणा कम करती है, और यह व्यसनकारी हो सकती है।</Plant_Smokeleaf.description>
   
   <!-- EN: strawberry plant -->
   <Plant_Strawberry.label>स्ट्रॉबेरी पौधा</Plant_Strawberry.label>

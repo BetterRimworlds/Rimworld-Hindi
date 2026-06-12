@@ -73,12 +73,12 @@
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>फटा वस्त्र</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n{0}\n\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>ये उपनिवेशवादी फटे हुए कपड़े पहने हुए हैं, जिससे वे दुखी हो रहे हैं:\n{0}\n\nउन्हें ऐसे कपड़े दिलाएं जो इतने खराब क्षतिग्रस्त न हों।\n\nआप क्राफ्टिंग स्पॉट या टेलरिंग टेबल पर कपड़े सिल सकते हैं, या व्यापारियों से खरीद सकते हैं।</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>ये उपनिवेशी फटे हुए कपड़े पहने हुए हैं, जिससे वे दुखी हो रहे हैं:\n{0}\n\nउन्हें ऐसे कपड़े दिलाएं जो इतने खराब न हों।\n\nआप कारीगरी स्थल या सिलाई मेज पर कपड़े सिल सकते हैं, या व्यापारियों से खरीद सकते हैं।</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
   <AlertUnhappyNudity>असंतोषजनक नग्नता</AlertUnhappyNudity>
   <!-- EN: These colonists are nude and not happy about it:\n{0}\n\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
-  <AlertUnhappyNudityDesc>ये उपनिवेशवादी नग्न हैं और इससे खुश नहीं हैं:\n{0}\n\nउन्हें कुछ कपड़े दिलाएँ।\n\nआप क्राफ्टिंग स्पॉट या टेलरिंग टेबल पर पोशाक बना सकते हैं, या व्यापारियों से खरीद सकते हैं।</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudityDesc>ये उपनिवेशी नग्न हैं और इससे खुश नहीं हैं:\n{0}\n\nउन्हें कुछ कपड़े दिलाएँ।\n\nआप कारीगरी स्थल या सिलाई मेज पर परिधानों की सिलाई कर सकते हैं, या व्यापारियों से खरीद सकते हैं।</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
   <Starvation>भूख</Starvation>

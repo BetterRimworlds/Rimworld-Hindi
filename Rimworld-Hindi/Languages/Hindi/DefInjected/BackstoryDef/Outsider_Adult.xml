@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Worn out by the pressures of social interaction, [PAWN_nameDef] left [PAWN_possessive] crowded city to live a simple life in the wilderness. There, [PAWN_pronoun] spent [PAWN_possessive] days alone, tending [PAWN_possessive] garden and crafting the simple tools [PAWN_pronoun] needed to survive. -->
-  <Hermit82.description>{PAWN_gender ? सामाजिक संपर्क के दबावों से थककर, [PAWN_nameDef] ने अपने भीड़भाड़ वाले शहर को छोड़ दिया और जंगल में एक सरल जीवन जीने के लिए चली गई। वहाँ, उसने अपने दिन अकेले बिताए, अपने बगीचे की देखभाल की और अपने अस्तित्व के लिए आवश्यक सरल उपकरण बनाए। : सामाजिक संपर्क के दबावों से थककर, [PAWN_nameDef] ने अपने भीड़भाड़ वाले शहर को छोड़ दिया और जंगल में एक सरल जीवन जीने लगा। वहाँ, उसने अपने दिन अकेले बिताए, अपने बगीचे की देखभाल की और अपने अस्तित्व के लिए आवश्यक सरल उपकरण बनाए।}</Hermit82.description>
+  <Hermit82.description>{PAWN_gender ? सामाजिक बातचीत के दबाव से थककर, [PAWN_nameDef] ने अपने भीड़भाड़ वाले शहर को छोड़ दिया और जंगल में एक सरल जीवन जीने चली गई। वहाँ, उसने अपने दिन अकेले बिताए, अपनी बागवानी की देखभाल करते हुए और जीवित रहने के लिए आवश्यक साधारण उपकरण बनाने में कारीगरी करते हुए। : सामाजिक बातचीत के दबावों से थककर, [PAWN_nameDef] ने अपने भीड़भाड़ वाले शहर को छोड़ दिया और जंगल में एक सरल जीवन जीने लगा। वहाँ, उसने अपने दिन अकेले बिताए, अपनी बागवानी की देखभाल की और जीवित रहने के लिए आवश्यक साधारण उपकरण बनाने में कारीगरी की।}</Hermit82.description>
   <!-- EN: hermit -->
   <Hermit82.title>सन्यासी</Hermit82.title>
   <Hermit82.titleFemale>सन्यासी</Hermit82.titleFemale>

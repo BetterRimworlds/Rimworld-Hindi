@@ -4,7 +4,7 @@
   <!-- EN: smokeleaf joint -->
   <SmokeleafJoint.label>स्मोकलीफ जॉइंट</SmokeleafJoint.label>
   <!-- EN: Smokeleaf leaves prepared in small rolls for smoking. The drug improves mood, but also increases appetite, reduces focus and slows movement. Smokeleaf use can produce a dependency.\n\nJoints can be produced at a crafting spot without equipment, and are a fixture in many traditional low-industriousness cultures. -->
-  <SmokeleafJoint.description>स्मोकलीफ की पत्तियों को धूम्रपान के लिए छोटे रोल में तैयार किया जाता है। यह नशा मनोदशा में सुधार करता है, लेकिन भूख भी बढ़ाता है, ध्यान कम करता है और गति को धीमा कर देता है। स्मोकलीफ के उपयोग से निर्भरता पैदा हो सकती है।\n\nजॉइंट्स को बिना किसी उपकरण के क्राफ्टिंग स्पॉट पर बनाया जा सकता है, और ये कई पारंपरिक कम-औद्योगिक संस्कृतियों में एक स्थायी हिस्सा हैं।</SmokeleafJoint.description>
+  <SmokeleafJoint.description>स्मोकलीफ के पत्ते छोटे रोल में तैयार किए जाते हैं ताकि उन्हें पिया जा सके। यह दवा मनोदशा को बेहतर बनाती है, लेकिन भूख भी बढ़ाती है, ध्यान केंद्रित करने की क्षमता कम करती है और गति धीमी कर देती है। स्मोकलीफ का उपयोग निर्भरता पैदा कर सकता है।\n\nजॉइंट्स को बिना किसी उपकरण के कारीगरी स्थल पर बनाया जा सकता है, और ये कई पारंपरिक कम-उद्योगशील संस्कृतियों में एक आम बात हैं।</SmokeleafJoint.description>
   <!-- EN: Smoke {0} -->
   <SmokeleafJoint.ingestible.ingestCommandString>धुआँ {0}</SmokeleafJoint.ingestible.ingestCommandString>
   <!-- EN: Smoking {0}. -->

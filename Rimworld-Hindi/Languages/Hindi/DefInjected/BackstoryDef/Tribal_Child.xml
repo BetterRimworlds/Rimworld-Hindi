@@ -74,7 +74,7 @@
   <Herder19.titleShortFemale>पशुपालक</Herder19.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
-  <Hideaway7.description>{PAWN_gender ? [PAWN_nameDef] की अत्यधिक सुरक्षात्मक माता-पिता ने उसे लगभग हर दिन घर पर रहने के लिए प्रोत्साहित किया। हालाँकि उसके पास पढ़ने और शिल्प शौक को आगे बढ़ाने के लिए बहुत समय था, फिर भी वह सामान्य सामाजिक कौशल विकसित नहीं कर पाई। : [PAWN_nameDef] के अत्यधिक सुरक्षात्मक माता-पिता ने उसे लगभग हर दिन घर पर रहने के लिए प्रोत्साहित किया। हालाँकि उसके पास पढ़ने और शिल्प शौक को आगे बढ़ाने के लिए बहुत समय था, लेकिन वह कभी भी सामान्य सामाजिक कौशल विकसित नहीं कर पाया।}</Hideaway7.description>
+  <Hideaway7.description>{PAWN_gender ? [PAWN_nameDef] के अत्यधिक सुरक्षात्मक माता-पिता ने उसे लगभग हर दिन घर पर रहने के लिए प्रोत्साहित किया। हालाँकि उसके पास पढ़ने और कारीगरी की रुचियों को आगे बढ़ाने के लिए बहुत समय था, लेकिन उसने सामान्य सामाजिक कौशल विकसित नहीं किए। : [PAWN_nameDef] के अत्यधिक सुरक्षात्मक माता-पिता ने उसे लगभग हर दिन घर पर रहने के लिए प्रोत्साहित किया। हालाँकि उसके पास पढ़ने और कारीगरी की रुचियों को आगे बढ़ाने के लिए बहुत समय था, लेकिन वह कभी भी सामान्य सामाजिक कौशल विकसित नहीं कर पाया।}</Hideaway7.description>
   <!-- EN: hideaway -->
   <Hideaway7.title>छिपने का स्थान</Hideaway7.title>
   <Hideaway7.titleFemale>छुपाव</Hideaway7.titleFemale>

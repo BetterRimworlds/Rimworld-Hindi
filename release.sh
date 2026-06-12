@@ -8,7 +8,7 @@ MOD_VERSION=$(git describe --tags --abbrev=0)
 MOD=$(basename $PWD)
 MOD_ZIP=${MOD}-"${MOD_VERSION}".zip
 
-cd /rimworld/1.2/Mods
+cd /rimworld/1.6/Mods
 zip -r ${MOD_ZIP} ${MOD}
 cp -v ${MOD_ZIP} /tmp
 cp -v ${MOD_ZIP} $ORIG_PWD

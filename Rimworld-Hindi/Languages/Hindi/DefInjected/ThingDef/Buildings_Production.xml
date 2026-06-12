@@ -17,9 +17,9 @@
   <ButcherSpot.description>जानवरों को काटने का स्थान। उपकरणों की कमी के कारण, यहाँ काटने से प्रत्येक जीव का केवल 70% मांस और चमड़ा प्राप्त होता है।</ButcherSpot.description>
   
   <!-- EN: crafting spot -->
-  <CraftingSpot.label>शिल्प स्थान</CraftingSpot.label>
+  <CraftingSpot.label>कारीगरी स्थल</CraftingSpot.label>
   <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
-  <CraftingSpot.description>सरल वस्तुओं जैसे चाकू या धनुष बनाने का स्थान। उपकरणों की कमी के कारण यहां उत्पादन धीमा है।</CraftingSpot.description>
+  <CraftingSpot.description>चाकू या धनुष जैसे साधारण वस्तुओं की कारीगरी के लिए एक स्थान। उपकरणों की कमी के कारण यहाँ उत्पादन धीमा है।</CraftingSpot.description>
   
   <!-- EN: deep drill -->
   <DeepDrill.label>गहरा खनन</DeepDrill.label>

@@ -63,15 +63,15 @@
   
   <Crafting.label>पाककर्ता</Crafting.label>
   <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
-  <Crafting.description>कार्यस्थलों पर सामान्य अकुशल श्रम करें। इसमें पत्थर काटना, धातु गलाने और अन्य कार्य शामिल हैं।</Crafting.description>
+  <Crafting.description>कार्य स्टेशनों पर सामान्य कम कुशल श्रम करें। इसमें पत्थर काटना, धातु गलाने और बहुत कुछ शामिल है।</Crafting.description>
   <!-- EN: crafting -->
-  <Crafting.gerundLabel>बनाने का काम</Crafting.gerundLabel>
+  <Crafting.gerundLabel>कारीगरी</Crafting.gerundLabel>
   <!-- EN: craft -->
-  <Crafting.labelShort>बनाना</Crafting.labelShort>
+  <Crafting.labelShort>शिल्प बनाना</Crafting.labelShort>
   <!-- EN: Crafter -->
   <Crafting.pawnLabel>शिल्पकार</Crafting.pawnLabel>
   <!-- EN: Craft at -->
-  <Crafting.verb>बनाना</Crafting.verb><!-- EN: Craft at -->
+  <Crafting.verb>पर बनाएँ</Crafting.verb><!-- EN: Craft at -->
   
   <Doctor.label>बनाएँ</Doctor.label>
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->

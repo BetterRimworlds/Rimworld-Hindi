@@ -957,9 +957,9 @@
   <Frame_Cooler.description>एक एयर कूलिंग मशीन जिसे दीवार में लगाया जा सकता है। ठंडी हवा एक तरफ से बाहर निकलती है, जबकि निकास पाइप दूसरी तरफ बहुत अधिक गर्मी पैदा करता है। इसका उपयोग गर्मियों के दौरान कमरों को ठंडा करने या कोल्ड स्टोरेज बनाने के लिए किया जा सकता है।</Frame_Cooler.description>
   
   <!-- EN: punto de artesanía (en construcción) -->
-  <Frame_CraftingSpot.label>शिल्प कौशल बिंदु (निर्माण में)</Frame_CraftingSpot.label>
+  <Frame_CraftingSpot.label>शिल्प बिंदु (निर्माण में)</Frame_CraftingSpot.label>
   <!-- EN: Un lugar donde se pueden crear objetos simples como arcos y cuchillos. La producción aquí es lenta debido a la falta de herramientas. -->
-  <Frame_CraftingSpot.description>एक ऐसी जगह जहाँ धनुष और चाकू जैसी सरल वस्तुएँ बनाई जा सकती हैं। उपकरणों की कमी के कारण यहाँ उत्पादन धीमा है।</Frame_CraftingSpot.description>
+  <Frame_CraftingSpot.description>एक जगह जहाँ साधारण वस्तुएँ जैसे धनुष और चाकू बनाए जा सकते हैं। यहाँ उत्पादन उपकरणों की कमी के कारण धीमा है।</Frame_CraftingSpot.description>
   
   <!-- EN: sarcófago de criptosueño (en construcción) -->
   <Frame_CryptosleepCasket.label>क्रिप्टोस्लीप सार्कोफैगस (निर्माण में)</Frame_CryptosleepCasket.label>

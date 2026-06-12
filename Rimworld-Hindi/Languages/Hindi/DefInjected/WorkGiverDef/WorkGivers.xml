@@ -247,11 +247,11 @@
   <DoBillsStonecut.verb>पत्थर के टुकड़े काटना पर</DoBillsStonecut.verb>
   
   <!-- EN: make things at crafting spot -->
-  <DoBillsUseCraftingSpot.label>बनाने की चीज़ें</DoBillsUseCraftingSpot.label>
+  <DoBillsUseCraftingSpot.label>कारीगरी स्थान पर बनाना</DoBillsUseCraftingSpot.label>
   <!-- EN: crafting at -->
-  <DoBillsUseCraftingSpot.gerund>बनाने पर</DoBillsUseCraftingSpot.gerund>
+  <DoBillsUseCraftingSpot.gerund>कारीगरी पर</DoBillsUseCraftingSpot.gerund>
   <!-- EN: craft at -->
-  <DoBillsUseCraftingSpot.verb>बनाने पर</DoBillsUseCraftingSpot.verb>
+  <DoBillsUseCraftingSpot.verb>बनाएँ पर</DoBillsUseCraftingSpot.verb>
   
   <!-- EN: feed animals -->
   <DoctorFeedAnimals.label>पशु आहार</DoctorFeedAnimals.label>

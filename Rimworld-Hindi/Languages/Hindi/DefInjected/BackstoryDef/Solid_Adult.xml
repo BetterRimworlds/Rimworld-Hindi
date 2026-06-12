@@ -542,7 +542,7 @@
   <ComputerEngineer36.titleShortFemale>अभियंता</ComputerEngineer36.titleShortFemale>
   
   <!-- EN: After [PAWN_nameDef] had completed all of [PAWN_possessive] surgeries, [PAWN_pronoun] found that [PAWN_pronoun] had a lot of time and energy to dedicate to [PAWN_possessive] passion: trinket crafting. [PAWN_pronoun] spent years perfecting [PAWN_possessive] art as a jeweler, then left [PAWN_possessive] home world to sell [PAWN_possessive] wares across the galaxy. -->
-  <CoreworldJeweler19.description>{PAWN_gender ? [PAWN_nameDef] द्वारा अपनी सभी सर्जरी पूरी करने के बाद, उसने पाया कि उसके पास अपनी रुचि को समर्पित करने के लिए बहुत समय और ऊर्जा है: छोटी वस्तुओं का निर्माण। उसने वर्षों तक एक जौहरी के रूप में अपनी कला को पूर्ण किया, फिर अपनी कृतियों को आकाशगंगा में बेचने के लिए अपना गृह ग्रह छोड़ दिया। : [PAWN_nameDef] द्वारा अपनी सभी सर्जरी पूरी करने के बाद, उसे पता चला कि उसके पास अपनी रुचि को समर्पित करने के लिए बहुत समय और ऊर्जा है: छोटी वस्तुओं का निर्माण। उसने वर्षों तक एक जौहरी के रूप में अपनी कला को परिपूर्ण किया, फिर अपनी कृतियों को आकाशगंगा में बेचने के लिए अपनी गृह दुनिया छोड़ दी।}</CoreworldJeweler19.description>
+  <CoreworldJeweler19.description>{PAWN_gender ? [PAWN_nameDef] द्वारा अपनी सभी सर्जरी पूरी करने के बाद, उसे पता चला कि उसके पास अपनी रुचि को समर्पित करने के लिए बहुत समय और ऊर्जा है: छोटी-मोटी वस्तुओं की कारीगरी। उसने वर्षों तक एक जौहरी के रूप में अपनी कला को पूर्ण किया, फिर अपने ग्रह को छोड़कर आकाशगंगा भर में अपना माल बेचने चली गई। : [PAWN_nameDef] द्वारा अपनी सभी सर्जरी पूरी करने के बाद, उन्होंने पाया कि उसके पास अपने जुनून को समर्पित करने के लिए बहुत समय और ऊर्जा थी: छोटी वस्तुओं की कारीगरी। उसने वर्षों तक एक जौहरी के रूप में अपनी कला को पूर्ण किया, फिर अपनी कृतियों को आकाशगंगा भर में बेचने के लिए अपना गृह ग्रह छोड़ दिया।}</CoreworldJeweler19.description>
   <!-- EN: coreworld jeweler -->
   <CoreworldJeweler19.title>आभूषण कारीगर</CoreworldJeweler19.title>
   <CoreworldJeweler19.titleFemale>आभूषणकार</CoreworldJeweler19.titleFemale>
@@ -1196,7 +1196,7 @@
   <LostMarine81.titleShortFemale>गद्दार</LostMarine81.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s childhood soldier conditioning failed, and the experiment was shut down. [PAWN_pronoun] was abandoned, purposeless, friendless.\n\n[PAWN_nameDef] eventually found solace in physically demanding work. [PAWN_pronoun] especially liked building houses and crafting heavy armor. -->
-  <LostSoldier13.description>{PAWN_gender ? [PAWN_nameDef] का बचपन का सैनिक प्रशिक्षण विफल हो गया, और प्रयोग को बंद कर दिया गया। वह बिना किसी उद्देश्य और बिना किसी मित्र के, लावारिस छोड़ दी गई थी।\n\n[PAWN_nameDef] को अंततः शारीरिक रूप से कठिन काम में सुकून मिला। उसे विशेष रूप से घर बनाना और भारी कवच बनाना पसंद था। : [PAWN_nameDef] का बचपन का सैनिक प्रशिक्षण विफल हो गया, और प्रयोग को बंद कर दिया गया। वह अकेला, उद्देश्यहीन और मित्रहीन छोड़ दिया गया था।\n\n[PAWN_nameDef] को अंततः शारीरिक रूप से कठिन काम में सुकून मिला। उसे विशेष रूप से घर बनाना और भारी कवच बनाना पसंद था।}</LostSoldier13.description>
+  <LostSoldier13.description>{PAWN_gender ? [PAWN_nameDef] का बचपन में सैनिक बनाने का प्रशिक्षण विफल रहा, और प्रयोग बंद कर दिया गया। उसे त्याग दिया गया, वह उद्देश्यहीन, दोस्तहीन थी।\n\n[PAWN_nameDef] ने अंततः शारीरिक रूप से कठिन कार्यों में शांति पाई। उसे विशेष रूप से घर बनाना और भारी कवच की कारीगरी पसंद थी। : [PAWN_nameDef] का बचपन में सैनिक बनाने का प्रशिक्षण विफल रहा, और प्रयोग बंद कर दिया गया। उसे त्याग दिया गया, वह उद्देश्यहीन, अकेला था।\n\n[PAWN_nameDef] ने अंततः शारीरिक रूप से कठिन कार्यों में शांति पाई। उसे विशेष रूप से घर बनाना और भारी कवच की कारीगरी पसंद थी।}</LostSoldier13.description>
   <!-- EN: lost soldier -->
   <LostSoldier13.title>खोया हुआ सैनिक</LostSoldier13.title>
   <LostSoldier13.titleFemale>खोई हुई सैनिक</LostSoldier13.titleFemale>
@@ -2371,7 +2371,7 @@
   <ToasterRepairman22.titleShortFemale>मरम्मत करने वाली महिला</ToasterRepairman22.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a famous tool mechanic on a dusty rimworld.\n\nAfter [PAWN_possessive] firm closed due to scandal, [PAWN_pronoun] joined a tribe to survive, crafting fine knives and hammers, traveling, and dealing [PAWN_possessive] wares between settlements. -->
-  <ToolMechanic77.description>{PAWN_gender ? [PAWN_nameDef] एक धूल भरे रिमवर्ल्ड की प्रसिद्ध उपकरण मैकेनिक थीं।\n\nअपनी फर्म के घोटाले के कारण बंद होने के बाद, वह जीवित रहने के लिए एक जनजाति में शामिल हो गईं, बढ़िया चाकू और हथौड़े बनाती रहीं, यात्रा करती रहीं और बस्तियों के बीच अपने माल का सौदा करती रहीं। : [PAWN_nameDef] एक धूल भरे रिमवर्ल्ड में एक प्रसिद्ध उपकरण मैकेनिक था।\n\nअपनी फर्म के घोटाले के कारण बंद होने के बाद, वह जीवित रहने के लिए एक जनजाति में शामिल हो गया, बढ़िया चाकू और हथौड़े बनाए, यात्रा की, और बस्तियों के बीच अपने माल का सौदा किया।}</ToolMechanic77.description>
+  <ToolMechanic77.description>[PAWN_nameDef] was a famous tool mechanic on a dusty rimworld.\n\nAfter [PAWN_possessive] firm closed due to scandal, [PAWN_pronoun] joined a tribe to survive, crafting fine knives and hammers, traveling, and dealing [PAWN_possessive] wares between settlements.</ToolMechanic77.description>
   <!-- EN: tool mechanic -->
   <ToolMechanic77.title>उपकरण मैकेनिक</ToolMechanic77.title>
   <!-- EN: mechanic -->
@@ -2553,7 +2553,7 @@
   <VoidspaceRaider94.titleShort>समुद्री डाकू</VoidspaceRaider94.titleShort>
   
   <!-- EN: [PAWN_nameDef] continued to follow [PAWN_possessive] parents' nomadic ways, supporting [PAWN_objective]self with [PAWN_possessive] crafting skills. But wandering is a hard life, and [PAWN_pronoun] often thought of finding somewhere to settle down and put [PAWN_possessive] skills to good use. -->
-  <WanderingCrafter42.description>{PAWN_gender ? [PAWN_nameDef] अपने माता-पिता के खानाबदोश तरीकों का पालन करती रही, अपनी शिल्प कौशल से अपना निर्वाह करती रही। लेकिन भटकना एक कठिन जीवन है, और वह अक्सर कहीं बसने और अपनी क्षमताओं का उपयोग करने के बारे में सोचती थी। : [PAWN_nameDef] अपने माता-पिता के खानाबदोश तरीकों का पालन करता रहा, अपनी शिल्प कौशल से अपना भरण-पोषण करता रहा। लेकिन भटकना एक कठिन जीवन है, और वह अक्सर कहीं बसने और अपनी प्रतिभा का उपयोग करने के बारे में सोचता था।}</WanderingCrafter42.description>
+  <WanderingCrafter42.description>{PAWN_gender ? [PAWN_nameDef] ने अपने माता-पिता के खानाबदोश तरीकों का पालन जारी रखा, अपनी कारीगरी कौशल से अपना भरण-पोषण किया। लेकिन भटकना एक कठिन जीवन है, और वह अक्सर कहीं बसने और अपनी क्षमताओं का उपयोग करने के बारे में सोचती रहती थी। : [PAWN_nameDef] ने अपने माता-पिता के खानाबदोश तरीकों का पालन करना जारी रखा, अपनी कारीगरी कौशल से अपना भरण-पोषण किया। लेकिन भटकना एक कठिन जीवन है, और वह अक्सर कहीं बसने और अपनी क्षमताओं का उपयोग करने के बारे में सोचता था।}</WanderingCrafter42.description>
   <!-- EN: wandering crafter -->
   <WanderingCrafter42.title>घूमता शिल्पी</WanderingCrafter42.title>
   <WanderingCrafter42.titleFemale>भटकती शिल्पकार</WanderingCrafter42.titleFemale>

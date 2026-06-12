@@ -33,9 +33,9 @@
   <AllowBookCooking.description>खाना पकाने के कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookCooking.description>
   
   <!-- EN: crafting -->
-  <AllowBookCrafting.label>बनाने का काम</AllowBookCrafting.label>
+  <AllowBookCrafting.label>कारीगरी</AllowBookCrafting.label>
   <!-- EN: Allow books which teach crafting skills. -->
-  <AllowBookCrafting.description>शिल्प कौशल सिखाने वाली पुस्तकें अनुमति दें।</AllowBookCrafting.description>
+  <AllowBookCrafting.description>कारीगरी कौशल सिखाने वाली पुस्तकें अनुमति दी गई हैं।</AllowBookCrafting.description>
   
   <!-- EN: intellectual -->
   <AllowBookIntellectual.label>बौद्धिक</AllowBookIntellectual.label>
