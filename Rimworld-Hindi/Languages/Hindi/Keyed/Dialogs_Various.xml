@@ -122,7 +122,7 @@
   <!-- EN: Saving -->
   <SavingLongEvent>सहेज रहा है</SavingLongEvent>
   <!-- EN: (Permadeath) -->
-  <PermadeathModeSaveSuffix>स्थायी मृत्यु</PermadeathModeSaveSuffix>
+  <PermadeathModeSaveSuffix>(स्थायी मृत्यु)</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
   <SaveIsFromDifferentGameVersion>हम {0} चला रहे हैं लेकिन सहेजी गई डेटा {1} से है, जो कि एक अलग संस्करण है।\n\nइस डेटा को लोड करने का प्रयास शायद काम नहीं करेगा।</SaveIsFromDifferentGameVersion>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
@@ -260,7 +260,7 @@
   <!-- EN: Map size -->
   <MapSize>मानचित्र आकार</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
-  <MapSizeDesc>{0}x{0} ({1} कोशिकाएं)</MapSizeDesc>
+  <MapSizeDesc>{0}x{0} ({1} कोशिकाएं])</MapSizeDesc>
   <!-- EN: Small -->
   <MapSizeSmall>छोटा</MapSizeSmall>
   <!-- EN: Medium -->
@@ -268,7 +268,7 @@
   <!-- EN: Large -->
   <MapSizeLarge>बड़ा</MapSizeLarge>
   <!-- EN: Extreme (test) -->
-  <MapSizeExtreme>अति</MapSizeExtreme>
+  <MapSizeExtreme>अत्यधिक (परीक्षण)</MapSizeExtreme>
   <!-- EN: Starting season -->
   <MapStartSeason>शुरू मौसम</MapStartSeason>
   <!-- EN: Auto -->
@@ -307,7 +307,7 @@
   <Unlimited>असीमित</Unlimited>
   
   <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
-  <RecipeCannotHaveTargetCount>(यह नुस्खा लक्ष्य गिनती नहीं रख सकता क्योंकि इसमें कई या अप्रत्याशित उत्पाद हैं।)</RecipeCannotHaveTargetCount>
+  <RecipeCannotHaveTargetCount>(इस रेसिपी में कोई लक्षित काउंट नहीं हो सकता क्योंकि इसमें कई या अप्रत्याशित उत्पाद हैं।)</RecipeCannotHaveTargetCount>
   <!-- EN: Work amount -->
   <WorkAmount>कार्य मात्रा</WorkAmount>
   <!-- EN: Minimum skills: -->
@@ -326,7 +326,7 @@
   <BillRepeatTargetCountShort>{0} की ओर</BillRepeatTargetCountShort>
 
   <!-- EN: Pause when satisfied -->
-  <PauseWhenSatisfied>रोकें। \n\n(Roken)</PauseWhenSatisfied>
+  <PauseWhenSatisfied>संतुष्ट होने पर रोकें</PauseWhenSatisfied>
   <!-- EN: Unpause at -->
   <UnpauseWhenYouHave>रोक हटाएं</UnpauseWhenYouHave>
   <!-- EN: paused -->
@@ -367,7 +367,7 @@
   <!-- EN: Damage to all impassable buildings is multiplied by this value. -->
   <BuildingDamageFactorImpassableExplanation>अभेद्य इमारतों को होने वाला नुकसान इस मान से गुणा होता है।</BuildingDamageFactorImpassableExplanation>
   <!-- EN: Building damage factor (passable) -->
-  <BuildingDamageFactorPassable>निर्माण क्षति कारक (पारगम्य)</BuildingDamageFactorPassable>
+  <BuildingDamageFactorPassable>इमारत क्षति कारक (पार करने योग्य)</BuildingDamageFactorPassable>
   <!-- EN: Damage to all passable buildings is multiplied by this value. -->
   <BuildingDamageFactorPassableExplanation>सभी पारगम्य इमारतों को होने वाला नुकसान इस मान से गुणा किया जाता है।</BuildingDamageFactorPassableExplanation>
   <!-- EN: Accuracy -->
@@ -387,7 +387,7 @@
   <!-- EN: Charging -->
   <ChargingTime>चार्जिंग</ChargingTime>
   <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
-  <ChargingNext>अगली रिचार्ज (के लिए {1}) में: {0}\nचार्ज चक्र: {2}</ChargingNext>
+  <ChargingNext>अगला रीचार्ज ({1} के लिए) में: {0}\nचार्ज चक्र: {2}</ChargingNext>
   <!-- EN: Shut down -->
   <ShutDown>बंद करें</ShutDown>
   <!-- EN: Fire rate -->
@@ -603,7 +603,7 @@
   <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
   <MeditationFocusesDesc>इस वस्तु द्वारा प्रस्तुत ध्यान के प्रकार। ध्यान करने वाला व्यक्ति अपनी साइफोक्स प्राप्ति को बढ़ावा देने के लिए इस वस्तु पर ध्यान केंद्रित कर सकता है, लेकिन केवल तभी जब वे इसके ध्यान के प्रकारों में से किसी एक का उपयोग करने में सक्षम हों। प्रत्येक व्यक्ति पृष्ठभूमि, लक्षणों, सामाजिक स्थिति आदि के आधार पर विभिन्न ध्यान के प्रकारों का उपयोग कर सकता है।</MeditationFocusesDesc>
   <!-- EN: Can use {0} focus type because -->
-  <MeditationFocusCanUse>0 फोकस प्रकार का उपयोग कर सकते हैं क्योंकि</MeditationFocusCanUse>
+  <MeditationFocusCanUse>फोकस प्रकार का उपयोग कर सकते हैं क्योंकि</MeditationFocusCanUse>
   <!-- EN: {0} focus objects -->
   <MeditationFocusObjects>{0} फोकस वस्तुएं</MeditationFocusObjects>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
@@ -657,7 +657,7 @@
   <!-- EN: Negotiator -->
   <Negotiator>समझौताकर्ता</Negotiator>
   <!-- EN: Negotiator: {0} (+{1}) -->
-  <NegotiatorTradeDialogInfo>वार्तालापकर्ता: {0} (+{1})</NegotiatorTradeDialogInfo>
+  <NegotiatorTradeDialogInfo>वार्ताकार: {0} (+{1})</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>आपका वार्ताकार {1_labelShort} खराब स्वास्थ्य के कारण ठीक से बात नहीं कर सकता।</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
@@ -747,7 +747,7 @@
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>आपको कम से कम एक गैर-गिरित उपनिवेशवादी नियुक्त करना होगा।</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
-  <CaravanCouldNotFindExitSpot>चुना गया निकास स्थान {0} दुर्गम है।</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindExitSpot>चुना गया निकास स्थान ({0}) दुर्गम है।</CaravanCouldNotFindExitSpot>
   <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
   <CaravanCouldNotFindPackingSpot>कोई मान्य पैकिंग स्थान नहीं मिला। सुनिश्चित करें कि चुना गया निकास स्थान ({0}) सुलभ है।</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
@@ -773,7 +773,7 @@
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
   <DaysWorthOfFoodTooltip>कम से कम एक व्यक्ति या जानवर के भोजन से बाहर निकलने से पहले अनुमानित दिनों की संख्या। विभिन्न प्रजातियों के आहार अलग-अलग होते हैं, इसलिए एक दूसरे से पहले भोजन से बाहर निकल सकता है। यह मान मार्ग चुने जाने के बाद अधिक सटीक रूप से गणना की जाती है।\n\nप्रभावित:\n  - वर्तमान प्यादा सूची\n  - ले जाया गया भोजन प्रकार और मात्रा\n  - कारवां सदस्य और उनके आहार\n  - चारागाह दर\n  - क्या जानवर चर सकते हैं\n  - भोजन सड़ने तक का समय\n  - गर्म मौसम में भोजन तेज़ी से सड़ता है</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
-  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(केवल पहला वेपॉइंट लिया जाता है)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(केवल पहले वेपॉइंट पर विचार किया जाता है)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
   <DaysWorthOfFoodWarningDialog>आपके कारवां के पास केवल {0} दिनों का भोजन है और जल्दी ही भूख लगने लगेगी।</DaysWorthOfFoodWarningDialog>
   <!-- EN: Some peoples' diets don't allow most of the food in your caravan. If they're forced to eat it due to hunger, they will become unhappy. -->
@@ -857,13 +857,13 @@
   <!-- EN: Animals can graze -->
   <AnimalsCanGraze>चराई</AnimalsCanGraze>
   <!-- EN: (for {0} more days) -->
-  <PossibleToGrazeFor>({0} दिनों के लिए)</PossibleToGrazeFor>
+  <PossibleToGrazeFor>({0} और दिनों के लिए)</PossibleToGrazeFor>
   <!-- EN: (forever) -->
-  <PossibleToGrazeForever>हमेशा</PossibleToGrazeForever>
+  <PossibleToGrazeForever>(हमेशा के लिए)</PossibleToGrazeForever>
   <!-- EN: ({0}) -->
-  <CantGrazeBecauseOfBiome>{0}</CantGrazeBecauseOfBiome>
+  <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
   <!-- EN: (too cold for {0} more days) -->
-  <CantGrazeBecauseOfTemp>{0} दिनों के लिए बहुत ठंडा है।</CantGrazeBecauseOfTemp>
+  <CantGrazeBecauseOfTemp>({0} से अधिक दिन के लिए बहुत ठंडा)</CantGrazeBecauseOfTemp>
   <!-- EN: Total nutrition -->
   <TotalNutrition>कुल पोषण</TotalNutrition>
   <!-- EN: Not moving -->
@@ -933,13 +933,13 @@
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
   <HistoryUploadMessage>क्या आप गेम को संतुलित करने में डेवलपर्स की मदद करने के लिए अपने गेमप्ले डेटा रिकॉर्ड को रिमवर्ल्ड सर्वर पर अपलोड करना चाहते हैं? यदि आप सहमत हैं, तो आपका डेटा हर {0} दिनों में अपलोड किया जाएगा (और गेम के अंत जैसे कुछ अन्य दुर्लभ मामलों में)। गोपनीयता प्राथमिकताएं विकल्पों मेनू में बाद में बदली जा सकती हैं।</HistoryUploadMessage>
   <!-- EN: Even though history is sent anonymously, you can attach your name. -->
-  <HistoryUploadMessagePlayerName>ठीक है, मैं अनुवाद करूँगा। मेरा नाम अंजलि है।\n\nCRITICAL RULES:\n- NO explanations, notes, or parenthetical remarks\n- NO multiple options or alternatives (no slashes, no &amp;apos;or&amp;apos;)\n- DO NOT use di</HistoryUploadMessagePlayerName>
+  <HistoryUploadMessagePlayerName>भले ही इतिहास गुमनाम रूप से भेजा जाता है, आप अपना नाम जोड़ सकते हैं।</HistoryUploadMessagePlayerName>
   <!-- EN: Allow uploading gameplay data -->
   <HistoryUploadYes>गेमप्ले डेटा अपलोड करने की अनुमति दें।</HistoryUploadYes>
   <!-- EN: Do not allow uploading gameplay data -->
   <HistoryUploadNo>ठीक है। मैं निर्देशों का पालन करूँगा। \n\nNow, provide the RimWorld - General Game Text you want me to translate to Hindi. I am ready when you are.</HistoryUploadNo>
   <!-- EN: Upload only this time -->
-  <HistoryUploadYesOnce>महत्वपूर्ण नियम:\n- कोई स्पष्टीकरण, टिप्पणियाँ, या कोष्ठक में बातें नहीं।\n- कोई एकाधिक विकल्प या विकल्प</HistoryUploadYesOnce>
+  <HistoryUploadYesOnce>केवल इस बार अपलोड करें</HistoryUploadYesOnce>
   <!-- EN: Do not upload this time, ask me later -->
   <HistoryUploadNoOnce>Okay, I understand. I will wait for your signal before providing the Hindi translation of the RimWorld text. \n\nJust let me know when you are ready.</HistoryUploadNoOnce>
   
@@ -959,7 +959,7 @@
   <!-- EN: Rename this policy. -->
   <RenamePolicyTip>नाम बदलें</RenamePolicyTip>
   <!-- EN: Make this policy the default policy given to new colonists. -->
-  <DefaultPolicyTip>ज़रूरी नियम:\n- कोई स्पष्टीकरण, नोट्स, या कोष्ठकीय टिप्पणी नहीं।\n- कोई एकाधिक विकल्प या विकल्प नहीं (कोई स्लैश नहीं, कोई &amp;apos;या&amp;apos; नहीं)।\n- सभी विराम चिह्न बिल्कुल वैसे ही रखें</DefaultPolicyTip>
+  <DefaultPolicyTip>इस नीति को नए उपनिवेशी को दी जाने वाली डिफ़ॉल्ट नीति बनाएं।</DefaultPolicyTip>
   <!-- EN: Are you sure you want to delete the policy: {0}? -->
   <DeletePolicyConfirm>क्या आप नीति {0} को हटाना चाहते हैं?</DeletePolicyConfirm>
   <!-- EN: Delete -->
@@ -1001,7 +1001,7 @@
   <!-- EN: Keep in inventory -->
   <TakeToInventoryColumnLabel>सूची में रखें</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
-  <NoDrugsBrackets>बिना दवा</NoDrugsBrackets>
+  <NoDrugsBrackets>(कोई नशा नहीं)</NoDrugsBrackets>
   <!-- EN: Every day -->
   <EveryDay>हर दिन</EveryDay>
   <!-- EN: {0} times per day -->
@@ -1239,7 +1239,7 @@
   <!-- EN: {0_labelShort} must be of same ideoligion as {1_labelShort}. -->
   <AbilityMustBeSameIdeo>{0_labelShort} का विचारधारा {1_labelShort} के समान होना चाहिए।</AbilityMustBeSameIdeo>
   <!-- EN: {0_labelShort} must be sick or injured. -->
-  <AbilityMustBeSickOrInjured>{0_labelShort} बीमार या घायल है।</AbilityMustBeSickOrInjured>
+  <AbilityMustBeSickOrInjured>{0_labelShort} बीमार या घायल होना चाहिए।</AbilityMustBeSickOrInjured>
   <!-- EN: {0} can only counsel {1}s. -->
   <AbilityMustBeSameIdeoCounsel>{0} केवल {1}s को परामर्श दे सकता है।</AbilityMustBeSameIdeoCounsel>
   <!-- EN: {0_labelShort} is already considered guilty. -->
@@ -1263,7 +1263,7 @@
   <!-- EN: Need ally at target for navigation -->
   <AbilityNeedAllyToSkip>लक्ष्य पर नेविगेशन के लिए सहयोगी की आवश्यकता है।</AbilityNeedAllyToSkip>
   <!-- EN: No chunks to skip. -->
-  <AbilityNoChunkToSkip>महत्वपूर्ण नियम:\n- कोई स्पष्टीकरण, नोट्स, या कोष्ठक में टिप्पणी नहीं।\n- कोई एकाधिक विकल्प या विकल्प नहीं (</AbilityNoChunkToSkip>
+  <AbilityNoChunkToSkip>छोड़ने के लिए कोई टुकड़े नहीं।</AbilityNoChunkToSkip>
   <!-- EN: Induce psychic love in -->
   <PsychicLoveInduceIn>में मानसिक प्रेम उत्पन्न करें</PsychicLoveInduceIn>
   <!-- EN: Psychic love for -->

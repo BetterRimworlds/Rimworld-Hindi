@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: flu (animals) -->
-  <Disease_AnimalFlu.label>पशु फ्लू</Disease_AnimalFlu.label>
+  <Disease_AnimalFlu.label>फ्लू (जानवर)</Disease_AnimalFlu.label>
   <!-- EN: Animal disease: Flu -->
   <Disease_AnimalFlu.letterLabel>पशु रोग: फ्लू</Disease_AnimalFlu.letterLabel>
   <!-- EN: {0} of your animals have gotten sick from {2}.\n\nMake sure that they get proper treatment and rest as much as possible.\n\nThe following animals have gotten sick -->
   <Disease_AnimalFlu.letterText>{0} आपके जानवरों को {2} से बीमारी हो गई है।\n\nसुनिश्चित करें कि उन्हें उचित उपचार मिले और वे जितना संभव हो उतना आराम करें।\n\nनिम्नलिखित जानवर बीमार हो गए हैं</Disease_AnimalFlu.letterText>
   
   <!-- EN: plague (animals) -->
-  <Disease_AnimalPlague.label>पशु महामारी</Disease_AnimalPlague.label>
+  <Disease_AnimalPlague.label>प्लेग (जानवर)</Disease_AnimalPlague.label>
   <!-- EN: Animal disease: Plague -->
   <Disease_AnimalPlague.letterLabel>पशु रोग: प्लेग</Disease_AnimalPlague.letterLabel>
   <!-- EN: {0} of your animals have gotten sick from {2}.\n\nMake sure that they get proper treatment and rest as much as possible.\n\nThe following animals have gotten sick -->
@@ -57,7 +57,7 @@
   <!-- EN: Organ decay: {PAWN_labelShort} -->
   <Disease_OrganDecay.letterLabel>{PAWN_gender ? अंग क्षय: {PAWN_labelShort} : पवन अंग क्षय}</Disease_OrganDecay.letterLabel>
   <!-- EN: {PAWN_labelShort} has developed a flesh-eating infection known as organ decay in {PAWN_possessive} {2}!\n\nThe affected organ will slowly lose function over the next {3} days, before dying completely.\n\nIf you want {PAWN_labelShort} to stay healthy, install a replacement {2}. This could be a bionic, or a natural organ taken from a donor. -->
-  <Disease_OrganDecay.letterText>{PAWN_gender ? {PAWN_labelShort} के {2} में अंग क्षय (organ decay) के रूप में जानी जाने वाली मांस खाने वाले संक्रमण की समस्या विकसित हो गई है!\n\nप्रभावित अंग पूरी तरह से नष्ट होने से पहले, अगले {3} दिनों में धीरे-धीरे अपना कार्य करना बंद कर देगा।\n\nयदि आप चाहते हैं कि {PAWN_labelShort} स्वस्थ रहे, तो एक प्रतिस्थापन {2} लगा दें। यह एक बायोनिक हो सकता है, या किसी दाता से लिया गया एक प्राकृतिक अंग हो सकता है। : {PAWN_labelShort} के {2} में अंग क्षय (organ decay) के रूप में जानी जाने वाली मांस खाने वाले संक्रमण की समस्या विकसित हो गई है!\n\nप्रभावित अंग पूरी तरह से नष्ट होने से पहले, अगले {3} दिनों में धीरे-धीरे अपना कार्य करना बंद कर देगा।\n\nयदि आप चाहते हैं कि {PAWN_labelShort} स्वस्थ रहे, तो एक प्रतिस्थापन {2} स्थापित करें। यह एक बायोनिक हो सकता है, या किसी दाता से लिया गया एक प्राकृतिक अंग हो सकता है।}</Disease_OrganDecay.letterText>
+  <Disease_OrganDecay.letterText>{PAWN_labelShort} के {2} में अंग क्षय (organ decay) के रूप में जानी जाने वाली मांस खाने वाले संक्रमण की समस्या विकसित हो गई है!\n\nप्रभावित अंग पूरी तरह से नष्ट होने से पहले, अगले {3} दिन धीरे-धीरे अपना कार्य खो देगा।\n\nयदि आप चाहते हैं कि {PAWN_labelShort} स्वस्थ रहे, तो एक प्रतिस्थापन {2} स्थापित करें। यह एक बायोनिक, या किसी दाता से लिया गया प्राकृतिक अंग हो सकता है।</Disease_OrganDecay.letterText>
   
   <!-- EN: plague -->
   <Disease_Plague.label>महामारी</Disease_Plague.label>

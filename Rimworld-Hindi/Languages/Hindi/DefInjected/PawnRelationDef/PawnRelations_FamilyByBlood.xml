@@ -27,12 +27,12 @@
   <!-- EN: grandfather -->
   <Grandparent.label>दादाजी</Grandparent.label>
   <!-- EN: grandmother -->
-  <Grandparent.labelFemale>दादी (Dadi)</Grandparent.labelFemale>
+  <Grandparent.labelFemale>दादी</Grandparent.labelFemale>
   
   <!-- EN: granduncle -->
   <GranduncleOrGrandaunt.label>दादा का भाई</GranduncleOrGrandaunt.label>
   <!-- EN: grandaunt -->
-  <GranduncleOrGrandaunt.labelFemale>बड़ी चाची (Badi Chachi)</GranduncleOrGrandaunt.labelFemale>
+  <GranduncleOrGrandaunt.labelFemale>परदादी</GranduncleOrGrandaunt.labelFemale>
   
   <!-- EN: great grandson -->
   <GreatGrandchild.label>पोता का पोता</GreatGrandchild.label>

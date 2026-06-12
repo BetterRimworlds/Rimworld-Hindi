@@ -9,16 +9,16 @@
   <CenterDrop.textWillArrive>{0_pawnsPluralDef} परिवहन पॉड्स में ठीक आपके ऊपर उतरेंगे।</CenterDrop.textWillArrive>
   
   <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDrop.textEnemy>{1} के {0} का एक समूह पास में ही परिवहन पॉड्स (transport pods) में आ पहुँचा है।</EdgeDrop.textEnemy>
+  <EdgeDrop.textEnemy>{1} के {0} का एक समूह पास ही ट्रांसपोर्ट पॉड्स में आ पहुँचा है।</EdgeDrop.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDrop.textFriendly>{1} के मित्रवत {0} का एक समूह पास में ही परिवहन पॉड्स (transport pods) में आ पहुँचा है।</EdgeDrop.textFriendly>
+  <EdgeDrop.textFriendly>{1} के मित्रवत {0} का एक समूह पास में ही ट्रांसपोर्ट पॉड्स में आ पहुँचा है।</EdgeDrop.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
   <EdgeDrop.textWillArrive>{0_pawnsPluralDef} परिवहन पॉड्स में पहुँचेंगे।</EdgeDrop.textWillArrive>
   
   <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
   <EdgeDropGroups.textEnemy>{1} के {0} के कई अलग-अलग समूह पास में ही ट्रांसपोर्ट पॉड्स में आए हैं।</EdgeDropGroups.textEnemy>
   <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
-  <EdgeDropGroups.textFriendly>{1} के मित्रवत {0} के कई अलग-अलग समूह पास में ही परिवहन पॉड्स (transport pods) में आए हैं।</EdgeDropGroups.textFriendly>
+  <EdgeDropGroups.textFriendly>{1} के कई अलग-अलग मित्रवत {0} समूह पास ही ट्रांसपोर्ट पॉड्स में आए हैं।</EdgeDropGroups.textFriendly>
   <!-- EN: Several separate groups of {0_pawnsPluralDef} will arrive in transport pods. -->
   <EdgeDropGroups.textWillArrive>{0_pawnsPluralDef} के कई अलग-अलग समूह परिवहन पॉड्स में पहुँचेंगे।</EdgeDropGroups.textWillArrive>
   

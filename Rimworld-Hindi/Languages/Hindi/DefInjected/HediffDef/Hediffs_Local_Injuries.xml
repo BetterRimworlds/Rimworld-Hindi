@@ -115,9 +115,9 @@
   <!-- EN: chemical burn scar -->
   <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>रासायनिक जलन निशान</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off (chemical) -->
-  <ChemicalBurn.injuryProps.destroyedLabel>रासायनिक जलन</ChemicalBurn.injuryProps.destroyedLabel>
+  <ChemicalBurn.injuryProps.destroyedLabel>जला हुआ (रासायनिक)</ChemicalBurn.injuryProps.destroyedLabel>
   <!-- EN: Burned out (chemical) -->
-  <ChemicalBurn.injuryProps.destroyedOutLabel>रासायनिक थकावट</ChemicalBurn.injuryProps.destroyedOutLabel>
+  <ChemicalBurn.injuryProps.destroyedOutLabel>जला हुआ (रासायनिक)</ChemicalBurn.injuryProps.destroyedOutLabel>
   <!-- EN: a chemical burn -->
   <ChemicalBurn.labelNoun>रासायनिक जलन</ChemicalBurn.labelNoun>
   <!-- EN: {0} in the {1} -->

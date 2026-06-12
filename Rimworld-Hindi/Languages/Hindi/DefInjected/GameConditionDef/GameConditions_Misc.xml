@@ -49,7 +49,7 @@
   <!-- EN: An extreme wave of heat is baking the area. -->
   <HeatWave.description>क्षेत्र में गर्मी की एक चरम लहर पड़ रही है।</HeatWave.description>
   <!-- EN: a heat wave will bake the area around [map_definite] for [gameConditionDuration_duration], harming crops and possibly killing people or animals in uncooled areas -->
-  <HeatWave.descriptionFuture>एक ताप लहर [मानचित्र_निश्चित] के आसपास के क्षेत्र को [गेमकंडीशनड्यूरेशन_अवधि] तक भून देगी, फसलों को नुकसान पहुंचाएगी और संभवतः बिना ठंडा किए गए क्षेत्रों में लोगों या जानवरों को मार देगी।</HeatWave.descriptionFuture>
+  <HeatWave.descriptionFuture>एक ताप लहर [map_definite] के आसपास के क्षेत्र को [gameConditionDuration_duration] तक भून देगी, फसलों को नुकसान पहुंचाएगी और संभवतः बिना ठंडा किए गए क्षेत्रों में लोगों या जानवरों को मार देगी।</HeatWave.descriptionFuture>
   <!-- EN: The heat wave is over. -->
   <HeatWave.endMessage>गर्मी की लहर समाप्त हो गई।</HeatWave.endMessage>
   <!-- EN: An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool. -->
@@ -69,7 +69,7 @@
   <!-- EN: The psychic drone is ending. -->
   <PsychicDrone.endMessage>मानसिक गूँज समाप्त हो रही है।</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <PsychicDrone.letterText>प्रत्येक {0} उपनिवेशवादी चिंता और क्रोध की एक लहर महसूस कर रहा है!\n\nनफरत का कोई दूरस्थ इंजन जाग रहा है। यह एक कक्षीय एम्पलीफायर के माध्यम से इस स्थल पर एक मानसिक गूँज (psychic drone) प्रसारित कर रहा है, जिसे केवल {0} को प्रभावित करने के लिए ट्यून किया गया है। कुछ दिनों के लिए, कुछ लोगों का मिजाज काफी खराब रहेगा।\n\nगूँज का स्तर {1} है।</PsychicDrone.letterText>
+  <PsychicDrone.letterText>प्रत्येक {0} उपनिवेशी चिंता और क्रोध की एक लहर महसूस कर रहा है!\n\nनफरत का कोई दूरस्थ इंजन उत्तेजित हो रहा है। यह एक ऑर्बिटल एम्पलीफायर के माध्यम से इस स्थल पर एक साइकिक ड्रोन प्रोजेक्ट कर रहा है, जो केवल {0}s को प्रभावित करने के लिए ट्यून किया गया है। कुछ दिनों के लिए, कुछ लोगों की मनोदशा काफी खराब हो जाएगी।\n\nड्रोन का स्तर {1} है।</PsychicDrone.letterText>
   
   <!-- EN: psychic soothe -->
   <PsychicSoothe.label>मानसिक शांति</PsychicSoothe.label>
@@ -78,7 +78,7 @@
   <!-- EN: The psychic soothe is ending. -->
   <PsychicSoothe.endMessage>मानसिक शांति समाप्त हो रही है।</PsychicSoothe.endMessage>
   <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->
-  <PsychicSoothe.letterText>प्रत्येक {0} उपनिवेशवादी संतोष के साथ मुस्कुराता है!\n\nखुशी का कोई दूरस्थ इंजन जाग रहा है। यह एक कक्षीय एम्पलीफायर के माध्यम से इस स्थल पर एक मानसिक गूंज (psychic drone) प्रसारित कर रहा है, जिसे केवल {0} को प्रभावित करने के लिए ट्यून किया गया है। कुछ दिनों के लिए, कुछ लोगों का मिजाज काफी बेहतर रहेगा।</PsychicSoothe.letterText>
+  <PsychicSoothe.letterText>प्रत्येक {0} उपनिवेशी संतोष के साथ मुस्कुराता है!\n\nखुशी का कोई दूरस्थ इंजन जाग रहा है। यह एक ऑर्बिटल एम्पलीफायर के माध्यम से इस स्थल पर एक साइकिक ड्रोन प्रोजेक्ट कर रहा है, जो केवल {0}s को प्रभावित करने के लिए ट्यून किया गया है। कुछ दिनों के लिए, कुछ लोगों की मनोदशा काफी बेहतर होगी।</PsychicSoothe.letterText>
   
   <!-- EN: solar flare -->
   <SolarFlare.label>सौर ज्वाला</SolarFlare.label>

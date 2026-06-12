@@ -6,7 +6,7 @@
   <!-- EN: Cannot use: {0} -->
   <CannotUseReason>गंभीर: {0}</CannotUseReason>
   <!-- EN: Cannot use: EMP -->
-  <CannotUseSolarFlare>अक्षम करें</CannotUseSolarFlare>
+  <CannotUseSolarFlare>उपयोग नहीं कर सकते: EMP</CannotUseSolarFlare>
   <!-- EN: Cannot use: No power -->
   <CannotUseNoPower>बिजली नहीं है।</CannotUseNoPower>
   <!-- EN: Cannot use: No path -->
@@ -32,7 +32,7 @@
   <!-- EN: out of range -->
   <OutOfRange>सीमा से बाहर</OutOfRange>
   <!-- EN: too close -->
-  <TooClose>क्षतिग्रस्त नियम। \n\n(Kshatigrast Niyam.)</TooClose>
+  <TooClose>बहुत करीब</TooClose>
   <!-- EN: Cannot hit target -->
   <CannotHitTarget>लक्ष्य प्रहार नहीं कर सकता</CannotHitTarget>
   <!-- EN: {1_labelShort} is incapable of violence -->
@@ -109,7 +109,7 @@
   <!-- EN: no food matching restrictions -->
   <NoFoodMatchingRestrictions>कोई खाद्य मिलान प्रतिबंध नहीं।</NoFoodMatchingRestrictions>
   <!-- EN: No {0_label} -->
-  <NoIngredient>कोई {0_लेबल} नहीं</NoIngredient>
+  <NoIngredient>कोई {0_label} नहीं</NoIngredient>
   <!-- EN: below requirements of {0} -->
   <FoodBelowTitleRequirements>{0} की आवश्यकताएँ नीचे दी गई हैं।</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
@@ -209,7 +209,7 @@
   <!-- EN: Arrest {0} -->
   <Arrest>गिरफ्तार करें {0}</Arrest>
   <!-- EN: Try to arrest {1_labelShort} ({2} chance) -->
-  <TryToArrest>पकड़ना प्रयास करें {1_labelShort} ({2} संभावना)</TryToArrest>
+  <TryToArrest>{1_labelShort} को गिरफ्तार करने का प्रयास करें ({2} संभावना)</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>गिरफ्तारी संभव नहीं</CannotArrest>
   <!-- EN: {0} chance of arrest -->
@@ -229,7 +229,7 @@
   <TransferEntity>स्थानांतरण</TransferEntity> 
 
   <!-- EN: Rescue {1_labelShort} -->
-  <Rescue>बचाव</Rescue>
+  <Rescue>बचाव {1_labelShort}</Rescue>
   <!-- EN: Put {1_labelShort} somewhere safe -->
   <PutSomewhereSafe>{1_labelShort} को सुरक्षित स्थान पर रखें।</PutSomewhereSafe>
   <!-- EN: Taking {0_labelShort} to bed. -->
@@ -291,7 +291,7 @@
   <!-- EN: Equip {0} -->
   <Equip>सज्जित करें {0}</Equip>
   <!-- EN: (brawler will be unhappy) -->
-  <EquipWarningBrawler>(मुक्केबाज नाखुश होगा) \n\n(Mukkebaaz naakhush hoga)</EquipWarningBrawler>
+  <EquipWarningBrawler>(लड़ाकू नाखुश होगा)</EquipWarningBrawler>
   <!-- EN: Cannot equip {0} -->
   <CannotEquip>नहीं पहना जा सकता {0}</CannotEquip>
   <!-- EN: Cannot man {1_labelShort} -->
@@ -328,11 +328,11 @@
   <!-- EN: Cannot pick up {1_labelShort} -->
   <CannotPickUp>नहीं उठा सकते {1_labelShort}</CannotPickUp>
   <!-- EN: Cannot pick up {1_label} (all) -->
-  <CannotPickUpAll>{1_label} नहीं उठा जा सकता (सभी)</CannotPickUpAll>
+  <CannotPickUpAll>{1_label} (सभी) को नहीं उठाया जा सकता</CannotPickUpAll>
   <!-- EN: Pick up {1_labelShort} x1 -->
   <PickUpOne>उठाओ {1_labelShort} x1</PickUpOne>
   <!-- EN: Pick up {1_label} (all) -->
-  <PickUpAll>उठाओ {1_label} (सभी)</PickUpAll>
+  <PickUpAll>{1_label} (सभी) उठाएं</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>उठाओ {1_labelShort}…</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
@@ -557,7 +557,7 @@
   <!-- EN: Give to {0} -->
   <GiveToCaravan>को {0} दें</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
-  <GiveGiftViaTransportPods>{0} को उपहार दें ({1})</GiveGiftViaTransportPods>
+  <GiveGiftViaTransportPods>{0} ({1}) को उपहार के रूप में दें</GiveGiftViaTransportPods>
   <!-- EN: Not part of launch group -->
   <NotPartOfLaunchGroup>समूह में शामिल नहीं</NotPartOfLaunchGroup>
 

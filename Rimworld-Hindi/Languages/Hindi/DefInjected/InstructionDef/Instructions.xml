@@ -106,7 +106,7 @@
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>कॉलोनिस्टों को यहाँ भेजें\nआड़ के लिए सैंडबैग्स को छूते हुए</DownRaider.onMapInstruction>
   <!-- EN: Please focus on winning the fight! -->
-  <DownRaider.rejectInputMessage>रिमवर्ल्ड - ट्यूटोरियल और सीखने की अवधारणाएँ।\n\nमहत्वपूर्ण नियम:\n- कोई स्पष्टीकरण, नोट्स, या कोष्ठकीय टिप्पणी नहीं\n- कोई</DownRaider.rejectInputMessage>
+  <DownRaider.rejectInputMessage>कृपया लड़ाई जीतने पर ध्यान दें!</DownRaider.rejectInputMessage>
   <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
   <DownRaider.text>मैंने अब आपकी कॉलोनी पर हमला करने के लिए एक हमलावर भेजा है!\n\n1. {Key:TogglePause} दबाकर खेल को रोकें!\n2. स्क्रीन के नीचे-दाएं कोने में लाल अक्षर पढ़ें।\n3. अपने उपनिवेशवादियों को चुनने और DRAFT कमांड दबाकर उन्हें तैनात करें।\n4. रेत की थैलियों के वर्ग के भीतर, रेत की थैलियों को छूते हुए स्थानों पर भेजने के लिए राइट-क्लिक करें।\n5. अनपॉज करें।\n\nआड़ का लाभ उठाने के लिए उपनिवेशवादियों का आड़ को छूना आवश्यक है। एक बार जब आप आड़ में हों, तो हमलावर के पास आने का इंतज़ार करें। आपके उपनिवेशवादी स्वचालित रूप से गोली चलाएंगे।</DownRaider.text>
   <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Press left trigger button to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
@@ -195,7 +195,7 @@
   <!-- EN: Please drag a character from the "left behind" group (at the bottom-left) into the "selected" group (at the upper-left). -->
   <ReorderCharacters.rejectInputMessage>कृपया &amp;quot;छोड़ दिए गए&amp;quot; समूह (नीचे-बाएँ) से एक पात्र को &amp;quot;चयनित&amp;quot; समूह (ऊपर-बाएँ) में खींचें।</ReorderCharacters.rejectInputMessage>
   <!-- EN: Now you choose which characters you want to use.\n\nDRAG a character from the "left behind" part of the character list (at the bottom) into the "selected" part (at the top).\n\nOptionally, clicking a character will allow you inspect him or her. -->
-  <ReorderCharacters.text>अब आप उन पात्रों का चयन करें जिन्हें आप उपयोग करना चाहते हैं।\n\n&amp;quot;चरित्र सूची&amp;quot; के &amp;quot;छोड़ दिए गए&amp;quot; भाग से एक पात्र को &amp;quot;चयनित&amp;quot; भाग (ऊपर) में खींचें।\n\nवैकल्पिक रूप से, किसी पात्र पर क्लिक करने से आप उसका निरीक्षण कर सकते हैं।</ReorderCharacters.text>
+  <ReorderCharacters.text>अब आप चुनें कि आप किन पात्रों का उपयोग करना चाहते हैं।\n\nपात्र सूची के "पीछे छूटे हुए" भाग (नीचे) से एक पात्र को "चयनित" भाग (ऊपर) में खींचें।\n\nवैकल्पिक रूप से, किसी पात्र पर क्लिक करने से आप उनकी जांच कर सकते हैं।</ReorderCharacters.text>
   
   <!-- EN: Please choose a research project. -->
   <SelectResearchProject.rejectInputMessage>एक अनुसंधान परियोजना चुनें।</SelectResearchProject.rejectInputMessage>

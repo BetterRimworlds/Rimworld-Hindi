@@ -109,11 +109,11 @@
   <CookMealSimple.jobString>साधारण भोजन बना रहे हैं।</CookMealSimple.jobString>
   
   <!-- EN: cook simple meal x4 -->
-  <CookMealSimpleBulk.label>साधारण भोजन पकाएं x4</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.label>साधारण भोजन पकाएं x</CookMealSimpleBulk.label>
   <!-- EN: Cook 4 straightforward meals from one ingredient. -->
   <CookMealSimpleBulk.description>एक ही सामग्री से चार सरल भोजन पकाएं।</CookMealSimpleBulk.description>
   <!-- EN: Cooking 4 simple meals. -->
-  <CookMealSimpleBulk.jobString>4 साधारण भोजन बनाना।</CookMealSimpleBulk.jobString>
+  <CookMealSimpleBulk.jobString>साधारण भोजन  पका रहा है।</CookMealSimpleBulk.jobString>
   
   <!-- EN: cook packaged survival meal -->
   <CookMealSurvival.label>तैयार भोजन</CookMealSurvival.label>

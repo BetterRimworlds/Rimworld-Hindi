@@ -103,7 +103,7 @@
   <!-- EN: Need meal source -->
   <NeedMealSource>भोजन स्रोत</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>आपके पास कच्चे भोजन से उचित भोजन तैयार करने का कोई तरीका नहीं है।\n\nएक चूल्हा, अलाव, या पोषक डिस्पेंसर बनाएँ।\n\n(यह जेल की कोठरी में नहीं हो सकता, अन्यथा उपनिवेशवादी इसका उपयोग नहीं कर सकते।)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
   <NeedJoySource>मनोरंजन विविधता</NeedJoySource>
@@ -145,7 +145,7 @@
   <!-- EN: Need research project -->
   <NeedResearchProject>शोध परियोजना</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\n(Click to open the research menu.) -->
-  <NeedResearchProjectDesc>आपके पास अनुसंधान करने के लिए उपकरण हैं लेकिन आपने कोई परियोजना नहीं चुनी है।\n\n(अनुसंधान मेनू खोलने के लिए क्लिक करें।)</NeedResearchProjectDesc>
+  <NeedResearchProjectDesc>आपके पास अनुसंधान करने के लिए उपकरण हैं लेकिन आपने कोई परियोजना नहीं चुनी है।\n\n(मेन्यू खोलने के लिए क्लिक करें।)</NeedResearchProjectDesc>
 
   <!-- EN: 1 colonist idle -->
   <ColonistIdle>1 उपनिवेशक निष्क्रिय</ColonistIdle>
@@ -164,7 +164,7 @@
   <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
   <ColonistNeedsTreatmentDesc>इन लोगों को चिकित्सा उपचार की आवश्यकता है। इसके बिना, वे अपनी चोटों से मर सकते हैं, या उनकी चोटें स्थायी हो सकती हैं।\n{0}\n\nउन्हें चिकित्सा बिस्तर पर भेजकर उनका इलाज करें।\n\n(सबसे पहले, चिकित्सा बिस्तर का चयन करके और उसे चिकित्सा बिस्तर में बदलकर चिकित्सा बिस्तर निर्दिष्ट करें। फिर, घायल व्यक्ति का चयन करें और उसे रोगी बनाने के लिए चिकित्सा बिस्तर पर राइट-क्लिक करें।)</ColonistNeedsTreatmentDesc>
   <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDescController>इन लोगों को चिकित्सा उपचार की आवश्यकता है। इसके बिना, वे अपनी चोटों से मर सकते हैं, या उनकी चोटें स्थायी हो सकती हैं।\n{0}\n\nउन्हें चिकित्सा बिस्तर पर भेजकर उनका इलाज करें।\n\n(सबसे पहले, चिकित्सा बिस्तर का चयन करके और उसे चिकित्सा बिस्तर में बदलकर चिकित्सा बिस्तर निर्दिष्ट करें। फिर, घायल व्यक्ति का चयन करें और उन्हें रोगी बनाने के लिए चिकित्सा बिस्तर पर बाईं ट्रिगर बटन दबाएं।)</ColonistNeedsTreatmentDescController>
+  <ColonistNeedsTreatmentDescController>इन लोगों को चिकित्सा उपचार की आवश्यकता है। इसके बिना, वे अपने घावों से मर सकते हैं, या उनके घाव स्थायी हो सकते हैं।\n{0}\n\nउन्हें चिकित्सा बिस्तर पर भेजकर उनका उपचार करें।\n\n(सबसे पहले, एक चिकित्सा बिस्तर का चयन करके और उसे चिकित्सा बिस्तर के रूप में टॉगल करके उसे असाइन करें। फिर, घायल व्यक्ति को चुनें और उन्हें रोगी बनाने के लिए चिकित्सा बिस्तर पर बाएं ट्रिगर बटन को दबाएं।)</ColonistNeedsTreatmentDescController>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>ठंड लगना</AlertHypothermia>

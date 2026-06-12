@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: crashed ship part (incoming) -->
-  <CrashedShipPartIncoming.label>टूटा जहाज़ खंड (आने वाला)</CrashedShipPartIncoming.label>
+  <CrashedShipPartIncoming.label>क्रैश हुआ जहाज का हिस्सा (आने वाला)</CrashedShipPartIncoming.label>
   
   <!-- EN: drop pod (incoming) -->
-  <DropPodIncoming.label>गिरावट पोड</DropPodIncoming.label>
+  <DropPodIncoming.label>ड्रॉप पॉड (आ रहे हैं)</DropPodIncoming.label>
   
   <!-- EN: drop pod (incoming) -->
-  <DropPodIncomingMechanoidRapid.label>गिरावट पोड</DropPodIncomingMechanoidRapid.label>
+  <DropPodIncomingMechanoidRapid.label>ड्रॉप पॉड (आ रहा है)</DropPodIncomingMechanoidRapid.label>
   
   <!-- EN: drop pod (leaving) -->
-  <DropPodLeaving.label>छोड़कर पोड</DropPodLeaving.label>
+  <DropPodLeaving.label>ड्रॉप पॉड (निकल रहा है)</DropPodLeaving.label>
   
   <!-- EN: flying creature -->
   <FlyerArrival.label>उड़ने वाला जीव</FlyerArrival.label>
@@ -20,18 +20,18 @@
   <FlyerLeaving.label>उड़ने वाला जीव</FlyerLeaving.label>
   
   <!-- EN: meteorite (incoming) -->
-  <MeteoriteCraterIncoming.label>उल्कापिंड</MeteoriteCraterIncoming.label>
+  <MeteoriteCraterIncoming.label>उल्कापिंड (आने वाला)</MeteoriteCraterIncoming.label>
   
   <!-- EN: meteorite (incoming) -->
-  <MeteoriteIncoming.label>उल्कापिंड</MeteoriteIncoming.label>
+  <MeteoriteIncoming.label>उल्कापिंड (आने वाला)</MeteoriteIncoming.label>
   
   <!-- EN: ship chunk (incoming) -->
-  <ShipChunkIncoming.label>जहाज खंड (आगमन)</ShipChunkIncoming.label>
+  <ShipChunkIncoming.label>शिप चंक (आने वाला)</ShipChunkIncoming.label>
   
   <!-- EN: ship chunk (incoming) -->
-  <ShipChunkIncoming_SmallExplosion.label>जहाज खंड (आगमन)</ShipChunkIncoming_SmallExplosion.label>
+  <ShipChunkIncoming_SmallExplosion.label>शिप चंक (आने वाला)</ShipChunkIncoming_SmallExplosion.label>
   
   <!-- EN: shuttle (crashing) -->
-  <ShuttleCrashing.label>शटल</ShuttleCrashing.label>
+  <ShuttleCrashing.label>शटल (क्रैश हो रहा)</ShuttleCrashing.label>
   
 </LanguageData>

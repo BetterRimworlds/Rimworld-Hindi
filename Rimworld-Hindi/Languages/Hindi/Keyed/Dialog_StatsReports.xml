@@ -65,7 +65,7 @@
   <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
   <StatsReport_ReloadMarketValue>पुनः लोड करने का खर्च ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
   <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
-  <StatsReport_ReloadRemainingChargesMultipler>शेष {0} के लिए गुणक</StatsReport_ReloadRemainingChargesMultipler>
+  <StatsReport_ReloadRemainingChargesMultipler>शेष {CHARGENOUN_plural} के लिए गुणक ({0})</StatsReport_ReloadRemainingChargesMultipler>
   <!-- EN: Multiplier for mood {0} -->
   <StatsReport_MoodMultiplier>मूड के लिए गुणक {0}</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
@@ -162,7 +162,7 @@
   <!-- EN: Nearby artificial structures -->
   <StatsReport_NearbyArtificialStructures>आसपास की कृत्रिम संरचनाएं</StatsReport_NearbyArtificialStructures>
   <!-- EN: Satisfies user's title requirements -->
-  <StatsReport_SatisfiesTitle>महत्वपूर्ण नियम</StatsReport_SatisfiesTitle>
+  <StatsReport_SatisfiesTitle>उपयोगकर्ता की शीर्षक आवश्यकताओं को पूरा करता है</StatsReport_SatisfiesTitle>
 
   <!-- EN: Age -->
   <Stat_Age_Label>उम्र</Stat_Age_Label>
@@ -205,7 +205,7 @@
   <!-- EN: The attributes of this plant. -->
   <Stat_Thing_Plant_Attributes_Desc>इस पौधे के गुण।</Stat_Thing_Plant_Attributes_Desc>
   <!-- EN: Clothing (for nudity) -->
-  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>वस्त्र</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>कपड़े (नग्नता के लिए)</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
   <!-- EN: Whether nudists will consider this item to be a piece of clothing. If not, nudists will never be bothered by wearing this. -->
   <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>क्या नग्नवादी इस वस्तु को वस्त्र मानेंगे। यदि नहीं, तो नग्नवादियों को इसे पहनने से कोई परेशानी नहीं होगी।</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
   <!-- EN: Gender -->
@@ -563,7 +563,7 @@
   <!-- EN: This content came from the official expansion -->
   <Stat_Source_OfficialExpansionReport>ठीक है, मैं तैयार हूँ। मुझे टेक्स्ट दें।</Stat_Source_OfficialExpansionReport>
   <!-- EN: This content came from the mod -->
-  <Stat_Source_ModReport>महत्वपूर्ण नियम:\n- कोई स्पष्टीकरण, नोट्स या कोष्ठक में टिप्पणियाँ नहीं।\n- केवल एक अनुवाद - कोई विकल्प नहीं [केवल 1, कोई '</Stat_Source_ModReport>
+  <Stat_Source_ModReport>यह सामग्री मोड से आई है</Stat_Source_ModReport>
 
   <!-- EN: Contained book beauty -->
   <ContainedBookBeauty>पुस्तक सौंदर्य</ContainedBookBeauty>

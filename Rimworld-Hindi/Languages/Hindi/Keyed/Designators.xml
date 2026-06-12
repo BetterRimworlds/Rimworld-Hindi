@@ -46,7 +46,7 @@
   <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
   <DesignatorHaulThingsDesc>चट्टानों के टुकड़ों और अन्य वस्तुओं को डंपिंग क्षेत्रों में ले जाने के लिए चिह्नित करें। भोजन या लाशों जैसी चीजों के लिए आवश्यक नहीं है, जो हमेशा ले जाने योग्य होती हैं।</DesignatorHaulThingsDesc>
   <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
-  <MustHaulHaulables>सिर्फ़ ढोने योग्य लेकिन हमेशा न ढोने वाली चीज़ें निर्दिष्ट कर सकते हैं।</MustHaulHaulables>
+  <MustHaulHaulables>केवल ऐसी चीज़ों को नामित किया जा सकता है जिन्हें ढोया जा सकता है लेकिन जो हमेशा नहीं ढोई जातीं (जैसे पत्थर के टुकड़े)।</MustHaulHaulables>
 
   <!-- EN: Hunt -->
   <DesignatorHunt>शिकार</DesignatorHunt>
@@ -116,7 +116,7 @@
   <DesignatorAreaNoRoofExpandDesc>कॉलोनिस्ट इस क्षेत्र में छतें हटा देंगे (ऊपर के पहाड़ को छोड़कर, जिसे हटाया नहीं जा सकता)।</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
-  <DesignatorAreaIgnoreRoofExpand>छत क्षेत्र अनदेखा करें।\n\n(Chhat kshetra andekha karein.)</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>छत के क्षेत्र को अनदेखा करें</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
   <DesignatorAreaIgnoreRoofExpandDesc>कॉलोनिस्ट इस क्षेत्र में छतों को अनदेखा करेंगे।</DesignatorAreaIgnoreRoofExpandDesc>
 
@@ -140,7 +140,7 @@
   <!-- EN: Manage areas... -->
   <ManageAreas>क्षेत्र प्रबंध करें…</ManageAreas>
   <!-- EN: Manage auto-slaughter... -->
-  <ManageAutoSlaughter>स्वचालित वध प्रबंधित करें।</ManageAutoSlaughter>
+  <ManageAutoSlaughter>स्वचालित वध प्रबंधित करें…</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>एक ऐसा क्षेत्र बनाएं जहां आपके उपनिवेशवादी एक विशेष प्रकार का पौधा उगाने का प्रयास करेंगे।</DesignatorGrowingZoneDesc>

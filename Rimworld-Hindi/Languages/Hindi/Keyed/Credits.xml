@@ -44,15 +44,15 @@
   <!-- EN: Editor -->
   <Credits_Editor>संपादक</Credits_Editor>
   <!-- EN: French -->
-  <Credits_French>RÈGLES :\n- UNE seule traduction (pas d&amp;apos;alternatives)\n- Pas d&amp;apos;explications\n- N&amp;apos;UTILISEZ PAS de signes diacritiques/tashkeel\n- Préservez EXACTEMENT la ponctuation\n- Les verbes d&amp;apos;un seul mot sont des noms d&amp;apos;activités/de travail (nom/gérondif). &amp;apos;Mine&amp;apos; est l&amp;apos;exploitation minière, pas un pronom.</Credits_French>
+  <Credits_French>फ्रेंच</Credits_French>
   <!-- EN: Japanese -->
   <Credits_Japanese>危機的規則：\n- 説明、注釈、括弧内の備考は一切使用しない\n- 複数の選択肢や代替案は使用しない（スラッシュ、またはを使用しない）\n- 標点記号は正確に保持する\n- 英語が一単語の動詞の場合、活動/作業タイプの名前（名詞/動名詞）として翻訳する、コマンドとしては翻訳しない\n- 「Mine」は採掘/作業タイプ（所有格代</Credits_Japanese>
   <!-- EN: Korean -->
-  <Credits_Korean>위험 규칙:\n- 설명, 메모 또는 괄호 안의 언급은 절대 금지\n- 여러 옵션이나 대안은 절대 사용하지 마십시오 (슬래시, &amp;apos;또는&amp;apos; 없음)\n- 발음 구별 기호/타슈킬을 사용하지 마십시오 (Fatha, Kasra, Damma 없음)\n- 모든 구두점을 정확히 보존하십시오\n- 영어 단어가 하나의 동사이면 활동/작업 유형의</Credits_Korean>
+  <Credits_Korean>कोरियाई</Credits_Korean>
   <!-- EN: Polish -->
   <Credits_Polish>Polerowanie</Credits_Polish>
   <!-- EN: Russian -->
-  <Credits_Russian>Критически важные правила:\n- НИКАКИХ объяснений, заметок или дополнительных замечаний в скобках\n- НИКАКИХ нескольких вариантов или альтернатив (без косых черт, без «или»)\n- НЕ использовать диакритические знаки/ташкил (без Фатхи, Касры, Даммы)\n- Сохраняйте ВСЕ знаки препинания ТОЧНО\n- Если</Credits_Russian>
+  <Credits_Russian>रूसी</Credits_Russian>
   <!-- EN: Dutch -->
   <Credits_Dutch>डच</Credits_Dutch>
   <!-- EN: Turkish -->
@@ -62,7 +62,7 @@
   <!-- EN: Simplified Chinese -->
   <Credits_ChineseSimplified>紧急规则：\n- 不得解释、注释或带括号的说明\n- 不得提供多种选择或替代方案（不要使用斜杠，不要使用“或”）\n- 不要使用变音符号/ tashkeel（不要使用 Fatha、Kasra、Damma）\n- 确切保留所有标点符号\n- 如果英语是一个动词，将其翻译为活动/工作类型的名称（名词/动名词），而不是命令\n- “Mine” 是</Credits_ChineseSimplified>
   <!-- EN: Traditional Chinese -->
-  <Credits_ChineseTraditional>Here&amp;apos;s the translation guidance for Traditional Chinese, following the same CRITICAL RULES as the Hindi instructions:\n\nCRITICAL RULES:\n- NO explanations, notes, or parenthetical remarks\n- NO multiple options or alternatives (no slashes, no &amp;apos;or&amp;apos;)\n- DO NOT use diacritics/tashkeel (N/A for Chinese)\n- Preserve ALL punctuation EXACTLY\n- If the English is a one-word verb, translate it as the NAME of</Credits_ChineseTraditional>
+  <Credits_ChineseTraditional>पारंपरिक चीनी</Credits_ChineseTraditional>
 
   <!-- EN: and many other gracious volunteers! -->
   <AndOtherVolunteers>और कई अन्य दयालु स्वयंसेवक!</AndOtherVolunteers>

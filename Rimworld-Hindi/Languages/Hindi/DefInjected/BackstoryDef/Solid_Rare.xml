@@ -15,17 +15,17 @@
   <!-- EN: tinkerer -->
   <CynapseCustomChildhood.title>{PAWN_gender ? मर्मकार : मशीनों का कारीगर}</CynapseCustomChildhood.title>
   <!-- EN: tinkerer -->
-  <CynapseCustomChildhood.titleShort>{PAWN_gender ? मर्मकार (महिला) : मशीनों का कुशल कारीगर}</CynapseCustomChildhood.titleShort>
+  <CynapseCustomChildhood.titleShort>टिंकरेर</CynapseCustomChildhood.titleShort>
   
   <!-- EN: [PAWN_nameDef] spent all [PAWN_possessive] time running tabletop role-playing games as a way to connect socially with others. The game changed every year, and other players always loved [PAWN_possessive] worldbuilding and stories. -->
   <FeyCustomAdulthood.description>{PAWN_gender ? [PAWN_nameDef] ने हमेशा दूसरों के साथ सामाजिक रूप से जुड़ने के लिए टेबलटॉप रोल-प्लेइंग गेम चलाने में अपना सारा समय बिताया। खेल हर साल बदल जाता था, और अन्य खिलाड़ी हमेशा उसकी दुनिया बनाने और कहानियों को पसंद करते थे। : [PAWN_nameDef] ने अपना सारा समय टेबलटॉप रोल-प्लेइंग गेम चलाने में बिताया ताकि वह दूसरों के साथ सामाजिक रूप से जुड़ सके। खेल हर साल बदल जाता था, और अन्य खिलाड़ी हमेशा उसकी दुनिया बनाने और कहानियों को पसंद करते थे।}</FeyCustomAdulthood.description>
   <!-- EN: game master -->
   <FeyCustomAdulthood.title>{PAWN_gender ? खेल संचालिका : खेल मास्टर}</FeyCustomAdulthood.title>
   <!-- EN: game master -->
-  <FeyCustomAdulthood.titleShort>{PAWN_gender ? खेल मास्टर (महिला) : खेल मास्टर}</FeyCustomAdulthood.titleShort>
+  <FeyCustomAdulthood.titleShort>गेम मास्टर</FeyCustomAdulthood.titleShort>
   
   <!-- EN: Growing up sheltered in an urbworld archology, [PAWN_nameDef] distracted [PAWN_objective]self by playing wargames and painting miniatures. While [PAWN_pronoun] was never very good at the game itself, it helped to connect [PAWN_objective] with others. -->
-  <FeyCustomChildhood.description>{PAWN_gender ? एक शहरी दुनिया के आर्कोलॉजी में सुरक्षित रहकर पली-बढ़ी, [PAWN_nameDef] ने खुद का मन युद्ध के खेल खेलने और लघु आकृतियों को रंगने में लगाकर विचलित किया। हालाँकि वह स्वयं खेल में कभी बहुत अच्छी नहीं थी, लेकिन इसने दूसरों के साथ जुड़ने में उसकी मदद की। : एक शहरी दुनिया के आर्कोलॉजी में सुरक्षित रहकर बड़े होते हुए, [PAWN_nameDef] ने खुद को युद्ध के खेल खेलने और लघु आकृतियों (miniatures) को रंगने में व्यस्त रखा। हालाँकि वह स्वयं खेल में कभी बहुत अच्छा नहीं रहा, लेकिन इसने उसे दूसरों से जुड़ने में मदद की।}</FeyCustomChildhood.description>
+  <FeyCustomChildhood.description>{PAWN_gender ? एक अर्बवर्ल्ड आर्कोलॉजी में सुरक्षित वातावरण में खेती करते हुए बड़ी हुई, [PAWN_nameDef] ने खुद का ध्यान भटकाने के लिए युद्ध खेल खेलने और लघु आकृतियों को रंगने का सहारा लिया। हालाँकि वह स्वयं खेल में कभी बहुत अच्छी नहीं थी, लेकिन इसने उसे दूसरों से जुड़ने में मदद की। : एक अर्बवर्ल्ड आर्कोलॉजी में सुरक्षित वातावरण में खेती के दौरान बड़े होते हुए, [PAWN_nameDef] ने खुद को युद्ध के खेल खेलने और लघु आकृतियों को रंगने में व्यस्त रखा। हालाँकि वह स्वयं खेल में कभी बहुत अच्छा नहीं था, लेकिन इसने उसे दूसरों से जुड़ने में मदद की।}</FeyCustomChildhood.description>
   <!-- EN: wargame fanatic -->
   <FeyCustomChildhood.title>युद्ध-खेल उत्साही</FeyCustomChildhood.title>
   <FeyCustomChildhood.titleFemale>युद्ध-खेल उत्साही महिला</FeyCustomChildhood.titleFemale>
@@ -109,10 +109,10 @@
   <OskarCustomAdulthood.title>मॉड डिज़ाइनर</OskarCustomAdulthood.title>
   <OskarCustomAdulthood.titleFemale>मॉड डिज़ाइनर</OskarCustomAdulthood.titleFemale>
   <!-- EN: modder -->
-  <OskarCustomAdulthood.titleShort>{PAWN_gender ? मोडर (महिला) : मोडर}</OskarCustomAdulthood.titleShort>
+  <OskarCustomAdulthood.titleShort>मॉडर</OskarCustomAdulthood.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born on the dark edge of a tidally-locked urbworld. After an argument, [PAWN_possessive] father sold [PAWN_objective] to a local district lord as a slave artist.\n\nForced to create art or be punished, [PAWN_pronoun] withdrew and became unable to form relations with others. -->
-  <OskarCustomChildhood.description>{PAWN_gender ? [PAWN_nameDef] का जन्म एक ज्वारीय रूप से लॉक (tidally-locked) शहरी दुनिया के अंधेरे किनारे पर हुआ था। एक बहस के बाद, उसके पिता ने उसे एक स्थानीय जिला स्वामी को एक दासी कलाकार के रूप में बेच दिया।\n\nकला बनाने या दंडित होने के लिए मजबूर होने के कारण, वह खुद में सिमट गई और दूसरों के साथ संबंध बनाने में असमर्थ हो गई। : [PAWN_nameDef] का जन्म एक ज्वारीय रूप से लॉक (tidally-locked) शहरी दुनिया के अंधेरे किनारे पर हुआ था। एक बहस के बाद, उसके पिता ने उसे एक गुलाम कलाकार के रूप में स्थानीय जिला लॉर्ड को बेच दिया।\n\nकला बनाने या दंडित होने के लिए मजबूर होने के कारण, वह अलग-थलग पड़ गया और दूसरों के साथ संबंध बनाने में असमर्थ हो गया।}</OskarCustomChildhood.description>
+  <OskarCustomChildhood.description>{PAWN_gender ? [PAWN_nameDef] का जन्म एक ज्वारीय रूप से लॉक किए गए अर्बवर्ल्ड के अंधेरे किनारे पर हुआ था। एक बहस के बाद, उसके पिता ने उसे एक स्थानीय जिला स्वामी को एक दासी कलाकार के रूप में बेच दिया।\n\nकला बनाने या दंडित होने के लिए मजबूर होकर, वह अलग-थलग पड़ गई और दूसरों के साथ संबंध बनाने में असमर्थ हो गई। : [PAWN_nameDef] का जन्म एक ज्वारीय रूप से लॉक किए गए अर्बवर्ल्ड के अंधेरे किनारे पर हुआ था। एक बहस के बाद, उसके पिता ने उसे एक स्थानीय जिला लॉर्ड को एक दास कलाकार के रूप में बेच दिया।\n\nकला बनाने या दंडित होने के लिए मजबूर होने के कारण, वह अलग-थलग पड़ गया और दूसरों के साथ संबंध बनाने में असमर्थ हो गया।}</OskarCustomChildhood.description>
   <!-- EN: art slave -->
   <OskarCustomChildhood.title>कला दास</OskarCustomChildhood.title>
   <OskarCustomChildhood.titleFemale>कला दासी</OskarCustomChildhood.titleFemale>
@@ -129,7 +129,7 @@
   <TynanCustomAdulthood.titleShortFemale>गेम डेवलपर महिला</TynanCustomAdulthood.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] spent his childhood selling knockoff cigarettes to 15-year-olds. The cigarettes were often full of grass clippings. -->
-  <TynanCustomChildhood.description>[PAWN_nameDef] ने अपना बचपन 15 साल के बच्चों को नकली सिगरेट बेचते हुए बिताया। ये सिगरेट अक्सर घास के टुकड़ों से भरी होती थीं।</TynanCustomChildhood.description>
+  <TynanCustomChildhood.description>[PAWN_nameDef] ने अपना बचपन  साल के बच्चों को नकली सिगरेट बेचते हुए बिताया। ये सिगरेट अक्सर घास के टुकड़ों से भरी होती थीं।</TynanCustomChildhood.description>
   <!-- EN: punk -->
   <TynanCustomChildhood.title>{PAWN_gender ? विद्रोही युवती : विद्रोही}</TynanCustomChildhood.title>
   <!-- EN: punk -->
@@ -145,7 +145,7 @@
   <WillCustomAdulthood.titleShortFemale>भूलभुलैया निर्माता</WillCustomAdulthood.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up in a research camp on a deadworld. [PAWN_possessive] parents were astrobiologists studying mysterious labyrinthine formations beneath the planet's crust. [PAWN_pronoun] spent most of his time wandering those tunnels, wondering what otherworldly entity could have created them. -->
-  <WillCustomChildhood.description>{PAWN_gender ? [PAWN_nameDef] एक मृत ग्रह पर एक अनुसंधान शिविर में पली-बढ़ी। उसकी माता-पिता खगोल जीवविज्ञानी थे जो ग्रह की परत के नीचे रहस्यमय भूलभुलैया जैसी संरचनाओं का अध्ययन कर रहे थे। उसने अपना अधिकांश समय उन सुरंगों में घूमते हुए बिताया, आश्चर्य करते हुए कि उन्हें किस अलौकिक प्राणी ने बनाया होगा। : [PAWN_nameDef] एक मृत ग्रह पर एक अनुसंधान शिविर में बड़ा हुआ। उसके माता-पिता खगोल जीवविज्ञानी थे जो ग्रह की परत के नीचे रहस्यमय भूलभुलैया जैसी संरचनाओं का अध्ययन कर रहे थे। उसने अपना अधिकांश समय उन सुरंगों में घूमते हुए बिताया, आश्चर्य करते हुए कि उन्हें किस अलौकिक प्राणी ने बनाया होगा।}</WillCustomChildhood.description>
+  <WillCustomChildhood.description>{PAWN_gender ? [PAWN_nameDef] एक मृत ग्रह पर एक अनुसंधान शिविर में पली-बढ़ी। उसके माता-पिता खगोल जीवविज्ञानी थे जो ग्रह की परत के नीचे रहस्यमय भूलभुलैया जैसी संरचनाओं का अध्ययन कर रहे थे। उसने अपना अधिकांश समय उन सुरंगों में घूमते हुए बिताया, आश्चर्य करते हुए कि उन्हें किस अलौकिक प्राणी ने बनाया होगा। : [PAWN_nameDef] एक मृत ग्रह पर एक अनुसंधान शिविर में बड़ा हुआ। उसके माता-पिता खगोल जीवविज्ञानी थे जो ग्रह की परत के नीचे रहस्यमय भूलभुलैया जैसी संरचनाओं का अध्ययन कर रहे थे। उसने अपना अधिकांश समय उन सुरंगों में घूमते हुए बिताया, आश्चर्य करते हुए कि उन्हें किस अलौकिक प्राणी ने बनाया होगा।}</WillCustomChildhood.description>
   <!-- EN: maze child -->
   <WillCustomChildhood.title>भूलभुलैया का बच्चा</WillCustomChildhood.title>
   <WillCustomChildhood.titleFemale>भूलभुलैया का बच्चा</WillCustomChildhood.titleFemale>

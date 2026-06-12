@@ -119,7 +119,7 @@
   <!-- EN: Must designate plants. -->
   <MessageMustDesignatePlants>पौधे निर्दिष्ट करें।</MessageMustDesignatePlants>
   <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
-  <MessageMustDesignateHaulable>ज़रूरी नियम:\nमाल ढोने योग्य वस्तुओं को निर्दिष्ट करना होगा। कुछ वस्तुएं हमेशा माल ढोने योग्य होती हैं और उन्हें निर्दिष्ट नहीं किया जा सकता।</MessageMustDesignateHaulable>
+  <MessageMustDesignateHaulable>ढोने योग्य वस्तुओं को नामित करना आवश्यक है। कुछ वस्तुएं हमेशा ढोने योग्य होती हैं और उन्हें नामित नहीं किया जा सकता।</MessageMustDesignateHaulable>
   <!-- EN: Must designate impassable mineable rocks. -->
   <MessageMustDesignateMineable>अनिवार्य रूप से अगम्य खनन योग्य चट्टानों को निर्दिष्ट करें।</MessageMustDesignateMineable>
   <!-- EN: Must designate huntable animals. -->
@@ -245,7 +245,7 @@
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
   <MessageNewlyMarried>{PAWN1_labelShort} और {PAWN2_labelShort} ने विवाह किया। उपनिवेशवादी अब इस अवसर का जश्न मना रहे हैं।</MessageNewlyMarried>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
-  <MessageMarriageCeremonyAfterPartyFinished>{PAWN1_labelShort} और {PAWN2_labelShort} की विवाह ceremony समाप्त हो गई।</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageMarriageCeremonyAfterPartyFinished>{PAWN1_labelShort} और {PAWN2_labelShort} की विवाह समारोह समाप्त हो गई।</MessageMarriageCeremonyAfterPartyFinished>
   
   <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
   <MessageNewBondRelation>{HUMAN_labelShort} और {ANIMAL_labelShort} ने बंधन बनाया है।</MessageNewBondRelation>
@@ -639,7 +639,7 @@
   <!-- EN: Disable all mods before using this tool. -->
   <MessageDisableModsBeforeCleaningTranslationFiles>इस उपकरण का उपयोग करने से पहले सभी मॉड अक्षम करें।</MessageDisableModsBeforeCleaningTranslationFiles>
   <!-- EN: Unpack and then delete all compressed translation files for this language before using this tool. -->
-  <MessageUnpackBeforeCleaningTranslationFiles>ठीक है। \n\n(Okay.) \n\nI understand the instructions. I am ready to translate when you provide the English text. I acknowledge the critical rules regarding format, diacritics, verb treatment, and the specific meanings of &amp;quot;Mine&amp;quot; and &amp;quot;Train&amp;quot;. I also understand the instruction about unpacking and deleting</MessageUnpackBeforeCleaningTranslationFiles>
+  <MessageUnpackBeforeCleaningTranslationFiles>इस टूल का उपयोग करने से पहले इस भाषा के सभी कंप्रेस्ड ट्रांसलेशन फाइलों को अनपैक करें और फिर डिलीट कर दें।</MessageUnpackBeforeCleaningTranslationFiles>
   <!-- EN: Done. Affected folders: {0} -->
   <MessageTranslationFilesCleanupDone>पूर्ण। प्रभावित फ़ोल्डर: {0}</MessageTranslationFilesCleanupDone>
 
@@ -653,7 +653,7 @@
   <MessageStrippingWillAngerFaction>चेतावनी: {PAWN_nameDef} को छीनने से {PAWN_factionName} क्रोधित हो जाएगा।</MessageStrippingWillAngerFaction>
 
   <!-- EN: Cannot shoot in melee. -->
-  <MessageCantShootInMelee>नज़दीकी युद्ध में गोली नहीं चला सकते।</MessageCantShootInMelee>
+  <MessageCantShootInMelee>निकट युद्ध में गोली चलाना संभव नहीं है।</MessageCantShootInMelee>
 
   <!-- EN: None of your {0} can accept this quest now. -->
   <MessageNoColonistCanAcceptQuest>इनमें से कोई भी {0} अब इस खोज को स्वीकार नहीं कर सकता।</MessageNoColonistCanAcceptQuest>
@@ -759,7 +759,7 @@
   <!-- EN: {0_labelShort} cannot connect to a Gauranlen tree because {0_possessive} connection was recently torn. -->
   <MessageRitualRolePawnRecentlyTornConnection>{0_labelShort} एक गौरालेन वृक्ष से नहीं जुड़ सकता क्योंकि इसका संबंध हाल ही में टूट गया है।</MessageRitualRolePawnRecentlyTornConnection>
   <!-- EN: {0_labelShort} has the same ideoligion as the converter. -->
-  <MessageRitualRolePawnHasSameIdeo>{0_labelShort} का विचारधारा (ideoligion) परिवर्तक के समान ही है।</MessageRitualRolePawnHasSameIdeo>
+  <MessageRitualRolePawnHasSameIdeo>{0_labelShort} का विचारधर्म कनवर्टर के समान ही है।</MessageRitualRolePawnHasSameIdeo>
   <!-- EN: {0_labelShort} must be capable of wardening. -->
   <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort} को पहरा देने में सक्षम होना चाहिए।</MessageRitualRoleMustBeCapableOfWardening>
   <!-- EN: {0} must be capable of {1}. -->

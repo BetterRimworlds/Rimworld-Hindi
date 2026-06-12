@@ -2,64 +2,64 @@
 <LanguageData>
   
   <!-- EN: cama (animal) (anteproyecto) -->
-  <Blueprint_AnimalBed.label>जानवर</Blueprint_AnimalBed.label>
+  <Blueprint_AnimalBed.label>कैमा (पशु) (प्रारूप)</Blueprint_AnimalBed.label>
   
   <!-- EN: cajón de dormir (anteproyecto) -->
-  <Blueprint_AnimalSleepingBox.label>सोने का डिब्बा (प्रारूप)</Blueprint_AnimalSleepingBox.label>
+  <Blueprint_AnimalSleepingBox.label>स्लीपिंग केज (प्रारूप)</Blueprint_AnimalSleepingBox.label>
   
   <!-- EN: lugar para dormir (animal) (anteproyecto) -->
-  <Blueprint_AnimalSleepingSpot.label>जानवर का बिस्तर (ड्राफ्ट)</Blueprint_AnimalSleepingSpot.label>
+  <Blueprint_AnimalSleepingSpot.label>सोने की जगह (जानवर) (प्रारूप)</Blueprint_AnimalSleepingSpot.label>
   
   <!-- EN: sillón (anteproyecto) -->
-  <Blueprint_Armchair.label>कुर्सी</Blueprint_Armchair.label>
+  <Blueprint_Armchair.label>आर्मचेयर (प्रारूप)</Blueprint_Armchair.label>
   
   <!-- EN: puerta automática (anteproyecto) -->
-  <Blueprint_Autodoor.label>स्वचालित द्वार</Blueprint_Autodoor.label>
+  <Blueprint_Autodoor.label>ऑटोमैटिक दरवाज़ा (प्रारूप)</Blueprint_Autodoor.label>
   
   <!-- EN: batería (anteproyecto) -->
-  <Blueprint_Battery.label>बैटरी (प्रोटोटाइप)</Blueprint_Battery.label>
+  <Blueprint_Battery.label>बैटरी (प्रारूप)</Blueprint_Battery.label>
   
   <!-- EN: cama (anteproyecto) -->
-  <Blueprint_Bed.label>बिस्तर (प्रारूप)</Blueprint_Bed.label>
+  <Blueprint_Bed.label>बेड (प्रारूप)</Blueprint_Bed.label>
   
   <!-- EN: saco de dormir (anteproyecto) -->
-  <Blueprint_Bedroll.label>सोने का थैला (प्रारूप)</Blueprint_Bedroll.label>
+  <Blueprint_Bedroll.label>स्लीपिंग बैग (प्रारूप)</Blueprint_Bedroll.label>
   
   <!-- EN: saco de dormir doble (anteproyecto) -->
-  <Blueprint_BedrollDouble.label>दोहरा शयन बैग (प्रारूप)</Blueprint_BedrollDouble.label>
+  <Blueprint_BedrollDouble.label>डबल स्लीपिंग बैग (प्रोटोटाइप)</Blueprint_BedrollDouble.label>
   
   <!-- EN: mesa de billar (anteproyecto) -->
-  <Blueprint_BilliardsTable.label>बilliard टेबल (प्रारूप)</Blueprint_BilliardsTable.label>
+  <Blueprint_BilliardsTable.label>बिलियर्ड टेबल (प्रारूप)</Blueprint_BilliardsTable.label>
   
   <!-- EN: refinería de biocombustible (anteproyecto) -->
-  <Blueprint_BiofuelRefinery.label>बायोईंधन शोधनशाला (प्रारूप)</Blueprint_BiofuelRefinery.label>
+  <Blueprint_BiofuelRefinery.label>बायोफ्यूल रिफाइनरी (प्रारूप)</Blueprint_BiofuelRefinery.label>
   
   <!-- EN: cervecería (anteproyecto) -->
-  <Blueprint_Brewery.label>शराबखाना (प्रारूप)</Blueprint_Brewery.label>
+  <Blueprint_Brewery.label>बियरी (प्रारूप)</Blueprint_Brewery.label>
   
   <!-- EN: plataforma (anteproyecto) -->
   <Blueprint_Bridge.label>प्लेटफ़ॉर्म (प्रारूप)</Blueprint_Bridge.label>
   
   <!-- EN: punto de despiece (anteproyecto) -->
-  <Blueprint_ButcherSpot.label>विघटन बिंदु (प्रारूप)</Blueprint_ButcherSpot.label>
+  <Blueprint_ButcherSpot.label>डिस्मेंटलिंग पॉइंट (प्रारूप)</Blueprint_ButcherSpot.label>
   
   <!-- EN: hoguera (anteproyecto) -->
   <Blueprint_Campfire.label>होगुएरा (प्रारूप)</Blueprint_Campfire.label>
   
   <!-- EN: punto de carga para caravanas (anteproyecto) -->
-  <Blueprint_CaravanPackingSpot.label>कारवां चार्जिंग पॉइंट (प्रारूप)</Blueprint_CaravanPackingSpot.label>
+  <Blueprint_CaravanPackingSpot.label>काफिले के लिए चार्जिंग पॉइंट (प्रारूप)</Blueprint_CaravanPackingSpot.label>
   
   <!-- EN: generador de biocombustible (anteproyecto) -->
-  <Blueprint_ChemfuelPoweredGenerator.label>बायोईंधन जनरेटर (प्रारूप)</Blueprint_ChemfuelPoweredGenerator.label>
+  <Blueprint_ChemfuelPoweredGenerator.label>बायोफ्यूल जनरेटर (प्रोटोटाइप)</Blueprint_ChemfuelPoweredGenerator.label>
   
   <!-- EN: mesa de ajedrez (anteproyecto) -->
-  <Blueprint_ChessTable.label>शतरंज मेज (प्रारूप)</Blueprint_ChessTable.label>
+  <Blueprint_ChessTable.label>शतरंज की मेज (प्रारूप)</Blueprint_ChessTable.label>
   
   <!-- EN: consola de comunicaciones (anteproyecto) -->
-  <Blueprint_CommsConsole.label>संचार कंसोल (प्रारूप)</Blueprint_CommsConsole.label>
+  <Blueprint_CommsConsole.label>कम्युनिकेशन कंसोल (प्रारूप)</Blueprint_CommsConsole.label>
   
   <!-- EN: cemento (anteproyecto) -->
-  <Blueprint_Concrete.label>सीमेंटो (पूर्व-परियोजना)</Blueprint_Concrete.label>
+  <Blueprint_Concrete.label>सीमेंट (प्रारूप)</Blueprint_Concrete.label>
   
   <!-- EN: refrigerador (anteproyecto) -->
   <Blueprint_Cooler.label>रेफ्रिजरेटर (प्रारूप)</Blueprint_Cooler.label>
@@ -68,499 +68,499 @@
   <Blueprint_CraftingSpot.label>शिल्प बिंदु (प्रारूप)</Blueprint_CraftingSpot.label>
   
   <!-- EN: sarcófago de criptosueño (anteproyecto) -->
-  <Blueprint_CryptosleepCasket.label>क्रिप्टोस्लीप शवपेटी (प्रारूप)</Blueprint_CryptosleepCasket.label>
+  <Blueprint_CryptosleepCasket.label>क्रिप्टोस्लीप सार्कोफैगस (प्रारूप)</Blueprint_CryptosleepCasket.label>
   
   <!-- EN: taladro de profundidad (anteproyecto) -->
-  <Blueprint_DeepDrill.label>गहराई ड्रिल (प्रारूप)</Blueprint_DeepDrill.label>
+  <Blueprint_DeepDrill.label>डेप्थ ड्रिल (प्रारूप)</Blueprint_DeepDrill.label>
   
   <!-- EN: silla de comedor (anteproyecto) -->
-  <Blueprint_DiningChair.label>भोजन कुर्सी (प्रारूप)</Blueprint_DiningChair.label>
+  <Blueprint_DiningChair.label>डाइनिंग चेयर (प्रारूप)</Blueprint_DiningChair.label>
   
   <!-- EN: puerta (anteproyecto) -->
   <Blueprint_Door.label>दरवाजा (प्रारूप)</Blueprint_Door.label>
   
   <!-- EN: cama doble (anteproyecto) -->
-  <Blueprint_DoubleBed.label>दो बिस्तरीय (प्रारूप)</Blueprint_DoubleBed.label>
+  <Blueprint_DoubleBed.label>डबल बेड (प्रारूप)</Blueprint_DoubleBed.label>
   
   <!-- EN: lugar doble para dormir (anteproyecto) -->
-  <Blueprint_DoubleSleepingSpot.label>दोहरे सोने का स्थान (प्रारूप)</Blueprint_DoubleSleepingSpot.label>
+  <Blueprint_DoubleSleepingSpot.label>सोने के लिए दोहरा स्थान (प्रारूप)</Blueprint_DoubleSleepingSpot.label>
   
   <!-- EN: cómoda (anteproyecto) -->
-  <Blueprint_Dresser.label>बिस्तर (प्रारूप)</Blueprint_Dresser.label>
+  <Blueprint_Dresser.label>कोमोडा (प्रारूप)</Blueprint_Dresser.label>
   
   <!-- EN: laboratorio de drogas (anteproyecto) -->
-  <Blueprint_DrugLab.label>दवा प्रयोगशाला</Blueprint_DrugLab.label>
+  <Blueprint_DrugLab.label>ड्रग लैब (प्रारूप)</Blueprint_DrugLab.label>
   
   <!-- EN: crematorio eléctrico (anteproyecto) -->
-  <Blueprint_ElectricCrematorium.label>विद्युत दाह शलाका (प्रारूप)</Blueprint_ElectricCrematorium.label>
+  <Blueprint_ElectricCrematorium.label>इलेक्ट्रिक क्रिमेटोरियो (प्रारूप)</Blueprint_ElectricCrematorium.label>
   
   <!-- EN: fundición eléctrica (anteproyecto) -->
-  <Blueprint_ElectricSmelter.label>विद्युत ढलाई (प्रारूप)</Blueprint_ElectricSmelter.label>
+  <Blueprint_ElectricSmelter.label>इलेक्ट्रिक फाउंड्री (प्रारूप)</Blueprint_ElectricSmelter.label>
   
   <!-- EN: forja eléctrica (anteproyecto) -->
-  <Blueprint_ElectricSmithy.label>विद्युत भट्टी (प्रारूप)</Blueprint_ElectricSmithy.label>
+  <Blueprint_ElectricSmithy.label>इलेक्ट्रिक फोर्ज (प्रारूप)</Blueprint_ElectricSmithy.label>
   
   <!-- EN: cocina eléctrica (anteproyecto) -->
-  <Blueprint_ElectricStove.label>विद्युत रसोई (प्रारूप)</Blueprint_ElectricStove.label>
+  <Blueprint_ElectricStove.label>इलेक्ट्रिक कुकिंग (प्रारूप)</Blueprint_ElectricStove.label>
   
   <!-- EN: mesa de sastrería eléctrica (anteproyecto) -->
-  <Blueprint_ElectricTailoringBench.label>विद्युत सिलाई मेज़ (प्रारूप)</Blueprint_ElectricTailoringBench.label>
+  <Blueprint_ElectricTailoringBench.label>इलेक्ट्रिक टेलरिंग टेबल (प्रोटोटाइप)</Blueprint_ElectricTailoringBench.label>
   
   <!-- EN: mesilla de noche (anteproyecto) -->
   <Blueprint_EndTable.label>नाइटस्टैंड (प्रारूप)</Blueprint_EndTable.label>
   
   <!-- EN: mesa de ensamblaje (anteproyecto) -->
-  <Blueprint_FabricationBench.label>असेंबली टेबल (प्रोटोटाइप)</Blueprint_FabricationBench.label>
+  <Blueprint_FabricationBench.label>असेंबली टेबल (प्रारूप)</Blueprint_FabricationBench.label>
   
   <!-- EN: barril de fermentado (anteproyecto) -->
-  <Blueprint_FermentingBarrel.label>किण्वन बैरल (प्रारूप)</Blueprint_FermentingBarrel.label>
+  <Blueprint_FermentingBarrel.label>किण्वित बैरल (प्रारूप)</Blueprint_FermentingBarrel.label>
   
   <!-- EN: lanzador de espuma cortafuegos (anteproyecto) -->
-  <Blueprint_FirefoamPopper.label>फोम लॉन्चर फायरब्रेकर (प्रोटोटाइप)</Blueprint_FirefoamPopper.label>
+  <Blueprint_FirefoamPopper.label>फायरप्रूफ फोम लॉन्चर (प्रोटोटाइप)</Blueprint_FirefoamPopper.label>
   
   <!-- EN: baldosa de piedra de granito (anteproyecto) -->
-  <Blueprint_FlagstoneGranite.label>ग्रेनाइट पत्थर टाइल (प्रारूप)</Blueprint_FlagstoneGranite.label>
+  <Blueprint_FlagstoneGranite.label>ग्रैनाइट स्टोन टाइल (प्रारूप)</Blueprint_FlagstoneGranite.label>
   
   <!-- EN: baldosa de piedra caliza (anteproyecto) -->
   <Blueprint_FlagstoneLimestone.label>चूना पत्थर टाइल (प्रारूप)</Blueprint_FlagstoneLimestone.label>
   
   <!-- EN: baldosa de piedra de mármol (anteproyecto) -->
-  <Blueprint_FlagstoneMarble.label>संगमरमर पत्थर टाइल (प्रारूप)</Blueprint_FlagstoneMarble.label>
+  <Blueprint_FlagstoneMarble.label>मार्बल स्टोन टाइल (प्रारूप)</Blueprint_FlagstoneMarble.label>
   
   <!-- EN: baldosa de piedra arenisca (anteproyecto) -->
-  <Blueprint_FlagstoneSandstone.label>रेतले पत्थर का टाइल (प्रारूप)</Blueprint_FlagstoneSandstone.label>
+  <Blueprint_FlagstoneSandstone.label>सैंडस्टोन स्टोन टाइल (प्रारूप)</Blueprint_FlagstoneSandstone.label>
   
   <!-- EN: baldosa de piedra pizarra (anteproyecto) -->
-  <Blueprint_FlagstoneSlate.label>स्लेट पत्थर टाइल (प्रारूप)</Blueprint_FlagstoneSlate.label>
+  <Blueprint_FlagstoneSlate.label>स्लेट स्टोन टाइल्स (प्रारूप)</Blueprint_FlagstoneSlate.label>
   
   <!-- EN: televisión de pantalla plana (anteproyecto) -->
-  <Blueprint_FlatscreenTelevision.label>फ्लैट स्क्रीन टीवी</Blueprint_FlatscreenTelevision.label>
+  <Blueprint_FlatscreenTelevision.label>फ्लैट स्क्रीन टेलीविजन (प्रारूप)</Blueprint_FlatscreenTelevision.label>
   
   <!-- EN: forja de leña (anteproyecto) -->
-  <Blueprint_FueledSmithy.label>लकड़ी का काम (प्रारूप)</Blueprint_FueledSmithy.label>
+  <Blueprint_FueledSmithy.label>लकड़ी की भट्टी (प्रारूप)</Blueprint_FueledSmithy.label>
   
   <!-- EN: cocina de leña (anteproyecto) -->
-  <Blueprint_FueledStove.label>लकड़ी का चूल्हा (प्रारूप)</Blueprint_FueledStove.label>
+  <Blueprint_FueledStove.label>लकड़ी की रसोई (प्रारूप)</Blueprint_FueledStove.label>
   
   <!-- EN: tablero de juego de Ur (anteproyecto) -->
   <Blueprint_GameOfUrBoard.label>उर गेम बोर्ड (प्रारूप)</Blueprint_GameOfUrBoard.label>
   
   <!-- EN: generador geotérmico (anteproyecto) -->
-  <Blueprint_GeothermalGenerator.label>भू-तापीय जनरेटर (प्रारूप)</Blueprint_GeothermalGenerator.label>
+  <Blueprint_GeothermalGenerator.label>जियोथर्मल जनरेटर (प्रारूप)</Blueprint_GeothermalGenerator.label>
   
   <!-- EN: baldosa de oro (anteproyecto) -->
-  <Blueprint_GoldTile.label>सोने की टाइल</Blueprint_GoldTile.label>
+  <Blueprint_GoldTile.label>गोल्ड टाइल (प्रारूप)</Blueprint_GoldTile.label>
   
   <!-- EN: tumba (anteproyecto) -->
-  <Blueprint_Grave.label>टुम्बा (प्रारूप)</Blueprint_Grave.label>
+  <Blueprint_Grave.label>तुम्बा (प्रारूप)</Blueprint_Grave.label>
   
   <!-- EN: escáner de profundidad (anteproyecto) -->
-  <Blueprint_GroundPenetratingScanner.label>गहराई मापक</Blueprint_GroundPenetratingScanner.label>
+  <Blueprint_GroundPenetratingScanner.label>डेप्थ स्कैनर (प्रारूप)</Blueprint_GroundPenetratingScanner.label>
   
   <!-- EN: mesa de sastrería (anteproyecto) -->
   <Blueprint_HandTailoringBench.label>सिलाई मेज (प्रारूप)</Blueprint_HandTailoringBench.label>
   
   <!-- EN: calefactor (anteproyecto) -->
-  <Blueprint_Heater.label>हीटर</Blueprint_Heater.label>
+  <Blueprint_Heater.label>कैलेफ़ैक्टर (प्रारूप)</Blueprint_Heater.label>
   
   <!-- EN: mesa de investigación avanzada (anteproyecto) -->
-  <Blueprint_HiTechResearchBench.label>उन्नत अनुसंधान मेज़ (प्रारूप)</Blueprint_HiTechResearchBench.label>
+  <Blueprint_HiTechResearchBench.label>उन्नत अनुसंधान मेज (प्रारूप)</Blueprint_HiTechResearchBench.label>
   
   <!-- EN: vara de tiro al aro (anteproyecto) -->
-  <Blueprint_HoopstoneRing.label>गोली मारना</Blueprint_HoopstoneRing.label>
+  <Blueprint_HoopstoneRing.label>बास्केटबॉल शूटिंग वॉर (प्रारूप)</Blueprint_HoopstoneRing.label>
   
   <!-- EN: tolva (anteproyecto) -->
-  <Blueprint_Hopper.label>ढलाई</Blueprint_Hopper.label>
+  <Blueprint_Hopper.label>तोलवा (प्रारूप)</Blueprint_Hopper.label>
   
   <!-- EN: vara para herraduras (anteproyecto) -->
-  <Blueprint_HorseshoesPin.label>लोहार का ढांचा</Blueprint_HorseshoesPin.label>
+  <Blueprint_HorseshoesPin.label>नाल के लिए बार (प्रारूप)</Blueprint_HorseshoesPin.label>
   
   <!-- EN: cama hospitalaria (anteproyecto) -->
-  <Blueprint_HospitalBed.label>अस्पताल बिस्तर (प्रारूप)</Blueprint_HospitalBed.label>
+  <Blueprint_HospitalBed.label>अस्पताल का बिस्तर (प्रारूप)</Blueprint_HospitalBed.label>
   
   <!-- EN: contenedor hidropónico (anteproyecto) -->
-  <Blueprint_HydroponicsBasin.label>हाइड्रो कंटेनर</Blueprint_HydroponicsBasin.label>
+  <Blueprint_HydroponicsBasin.label>हाइड्रोपोनिक कंटेनर (प्रारूप)</Blueprint_HydroponicsBasin.label>
   
   <!-- EN: cama (animal) (anteproyecto) -->
-  <Blueprint_Install_AnimalBed.label>जानवर</Blueprint_Install_AnimalBed.label>
+  <Blueprint_Install_AnimalBed.label>कैमा (पशु) (प्रारूप)</Blueprint_Install_AnimalBed.label>
   
   <!-- EN: cajón de dormir (anteproyecto) -->
-  <Blueprint_Install_AnimalSleepingBox.label>सोने का डिब्बा (प्रारूप)</Blueprint_Install_AnimalSleepingBox.label>
+  <Blueprint_Install_AnimalSleepingBox.label>स्लीपिंग केबिन (प्रारूप)</Blueprint_Install_AnimalSleepingBox.label>
   
   <!-- EN: sillón (anteproyecto) -->
-  <Blueprint_Install_Armchair.label>कुर्सी</Blueprint_Install_Armchair.label>
+  <Blueprint_Install_Armchair.label>आर्मचेयर (प्रारूप)</Blueprint_Install_Armchair.label>
   
   <!-- EN: batería (anteproyecto) -->
-  <Blueprint_Install_Battery.label>बैटरी (प्रोटोटाइप)</Blueprint_Install_Battery.label>
+  <Blueprint_Install_Battery.label>बैटरी (प्रारूप)</Blueprint_Install_Battery.label>
   
   <!-- EN: cama (anteproyecto) -->
-  <Blueprint_Install_Bed.label>बिस्तर (प्रारूप)</Blueprint_Install_Bed.label>
+  <Blueprint_Install_Bed.label>बेड (प्रारूप)</Blueprint_Install_Bed.label>
   
   <!-- EN: saco de dormir (anteproyecto) -->
-  <Blueprint_Install_Bedroll.label>सोने का थैला (प्रारूप)</Blueprint_Install_Bedroll.label>
+  <Blueprint_Install_Bedroll.label>स्लीपिंग बैग (प्रारूप)</Blueprint_Install_Bedroll.label>
   
   <!-- EN: saco de dormir doble (anteproyecto) -->
-  <Blueprint_Install_BedrollDouble.label>दोहरा शयन बैग (प्रारूप)</Blueprint_Install_BedrollDouble.label>
+  <Blueprint_Install_BedrollDouble.label>डबल स्लीपिंग बैग (प्रोटोटाइप)</Blueprint_Install_BedrollDouble.label>
   
   <!-- EN: mesa de billar (anteproyecto) -->
-  <Blueprint_Install_BilliardsTable.label>बilliard टेबल (प्रारूप)</Blueprint_Install_BilliardsTable.label>
+  <Blueprint_Install_BilliardsTable.label>बिलियर्ड टेबल (प्रारूप)</Blueprint_Install_BilliardsTable.label>
   
   <!-- EN: cervecería (anteproyecto) -->
-  <Blueprint_Install_Brewery.label>शराबखाना (प्रारूप)</Blueprint_Install_Brewery.label>
+  <Blueprint_Install_Brewery.label>बियरी (प्रारूप)</Blueprint_Install_Brewery.label>
   
   <!-- EN: mesa de ajedrez (anteproyecto) -->
-  <Blueprint_Install_ChessTable.label>शतरंज मेज (प्रारूप)</Blueprint_Install_ChessTable.label>
+  <Blueprint_Install_ChessTable.label>शतरंज की मेज (प्रारूप)</Blueprint_Install_ChessTable.label>
   
   <!-- EN: taladro de profundidad (anteproyecto) -->
-  <Blueprint_Install_DeepDrill.label>गहराई ड्रिल (प्रारूप)</Blueprint_Install_DeepDrill.label>
+  <Blueprint_Install_DeepDrill.label>डेप्थ ड्रिल (प्रारूप)</Blueprint_Install_DeepDrill.label>
   
   <!-- EN: silla de comedor (anteproyecto) -->
-  <Blueprint_Install_DiningChair.label>भोजन कुर्सी (प्रारूप)</Blueprint_Install_DiningChair.label>
+  <Blueprint_Install_DiningChair.label>डाइनिंग चेयर (प्रारूप)</Blueprint_Install_DiningChair.label>
   
   <!-- EN: cama doble (anteproyecto) -->
-  <Blueprint_Install_DoubleBed.label>दो बिछावन (प्रारूप)</Blueprint_Install_DoubleBed.label>
+  <Blueprint_Install_DoubleBed.label>डबल बेड (प्रारूप)</Blueprint_Install_DoubleBed.label>
   
   <!-- EN: cómoda (anteproyecto) -->
-  <Blueprint_Install_Dresser.label>बिस्तर (प्रारूप)</Blueprint_Install_Dresser.label>
+  <Blueprint_Install_Dresser.label>कोमोडा (प्रारूप)</Blueprint_Install_Dresser.label>
   
   <!-- EN: laboratorio de drogas (anteproyecto) -->
-  <Blueprint_Install_DrugLab.label>दवा प्रयोगशाला</Blueprint_Install_DrugLab.label>
+  <Blueprint_Install_DrugLab.label>ड्रग लैब (प्रारूप)</Blueprint_Install_DrugLab.label>
   
   <!-- EN: fundición eléctrica (anteproyecto) -->
-  <Blueprint_Install_ElectricSmelter.label>विद्युत ढलाई (प्रारूप)</Blueprint_Install_ElectricSmelter.label>
+  <Blueprint_Install_ElectricSmelter.label>इलेक्ट्रिक फाउंड्री (प्रारूप)</Blueprint_Install_ElectricSmelter.label>
   
   <!-- EN: forja eléctrica (anteproyecto) -->
-  <Blueprint_Install_ElectricSmithy.label>विद्युत भट्टी (प्रारूप)</Blueprint_Install_ElectricSmithy.label>
+  <Blueprint_Install_ElectricSmithy.label>इलेक्ट्रिक फोर्ज (प्रारूप)</Blueprint_Install_ElectricSmithy.label>
   
   <!-- EN: cocina eléctrica (anteproyecto) -->
-  <Blueprint_Install_ElectricStove.label>विद्युत रसोई (प्रारूप)</Blueprint_Install_ElectricStove.label>
+  <Blueprint_Install_ElectricStove.label>इलेक्ट्रिक कुकिंग (प्रारूप)</Blueprint_Install_ElectricStove.label>
   
   <!-- EN: mesa de sastrería eléctrica (anteproyecto) -->
-  <Blueprint_Install_ElectricTailoringBench.label>विद्युत सिलाई मेज़ (प्रारूप)</Blueprint_Install_ElectricTailoringBench.label>
+  <Blueprint_Install_ElectricTailoringBench.label>इलेक्ट्रिक टेलरिंग टेबल (प्रोटोटाइप)</Blueprint_Install_ElectricTailoringBench.label>
   
   <!-- EN: mesilla de noche (anteproyecto) -->
   <Blueprint_Install_EndTable.label>नाइटस्टैंड (प्रारूप)</Blueprint_Install_EndTable.label>
   
   <!-- EN: barril de fermentado (anteproyecto) -->
-  <Blueprint_Install_FermentingBarrel.label>किण्वन बैरल (प्रारूप)</Blueprint_Install_FermentingBarrel.label>
+  <Blueprint_Install_FermentingBarrel.label>किण्वित बैरल (प्रारूप)</Blueprint_Install_FermentingBarrel.label>
   
   <!-- EN: lanzador de espuma cortafuegos (anteproyecto) -->
-  <Blueprint_Install_FirefoamPopper.label>फोम लांचर अग्निशामक (प्रोटोटाइप)</Blueprint_Install_FirefoamPopper.label>
+  <Blueprint_Install_FirefoamPopper.label>फायरप्रूफ फोम लॉन्चर (प्रोटोटाइप)</Blueprint_Install_FirefoamPopper.label>
   
   <!-- EN: televisión de pantalla plana (anteproyecto) -->
-  <Blueprint_Install_FlatscreenTelevision.label>फ्लैट स्क्रीन टीवी</Blueprint_Install_FlatscreenTelevision.label>
+  <Blueprint_Install_FlatscreenTelevision.label>फ्लैट स्क्रीन टेलीविजन (प्रारूप)</Blueprint_Install_FlatscreenTelevision.label>
   
   <!-- EN: forja de leña (anteproyecto) -->
-  <Blueprint_Install_FueledSmithy.label>लकड़ी का काम (प्रारूप)</Blueprint_Install_FueledSmithy.label>
+  <Blueprint_Install_FueledSmithy.label>लकड़ी की भट्टी (प्रारूप)</Blueprint_Install_FueledSmithy.label>
   
   <!-- EN: cocina de leña (anteproyecto) -->
-  <Blueprint_Install_FueledStove.label>लकड़ी का चूल्हा (प्रारूप)</Blueprint_Install_FueledStove.label>
+  <Blueprint_Install_FueledStove.label>लकड़ी की रसोई (प्रारूप)</Blueprint_Install_FueledStove.label>
   
   <!-- EN: tablero de juego de Ur (anteproyecto) -->
   <Blueprint_Install_GameOfUrBoard.label>उर गेम बोर्ड (प्रारूप)</Blueprint_Install_GameOfUrBoard.label>
   
   <!-- EN: vaina brillante (anteproyecto) -->
-  <Blueprint_Install_GlowPod.label>चमकदार नस (प्रारूप)</Blueprint_Install_GlowPod.label>
+  <Blueprint_Install_GlowPod.label>चमकदार शिरा (प्रारूप)</Blueprint_Install_GlowPod.label>
   
   <!-- EN: mesa de sastrería (anteproyecto) -->
   <Blueprint_Install_HandTailoringBench.label>सिलाई मेज (प्रारूप)</Blueprint_Install_HandTailoringBench.label>
   
   <!-- EN: calefactor (anteproyecto) -->
-  <Blueprint_Install_Heater.label>हीटर</Blueprint_Install_Heater.label>
+  <Blueprint_Install_Heater.label>कैलेफ़ैक्टर (प्रारूप)</Blueprint_Install_Heater.label>
   
   <!-- EN: vara de tiro al aro (anteproyecto) -->
-  <Blueprint_Install_HoopstoneRing.label>गोली मारना</Blueprint_Install_HoopstoneRing.label>
+  <Blueprint_Install_HoopstoneRing.label>बास्केटबॉल शूटिंग वॉर (प्रारूप)</Blueprint_Install_HoopstoneRing.label>
   
   <!-- EN: vara para herraduras (anteproyecto) -->
-  <Blueprint_Install_HorseshoesPin.label>लोहार का ढांचा</Blueprint_Install_HorseshoesPin.label>
+  <Blueprint_Install_HorseshoesPin.label>नाल के लिए बार (प्रारूप)</Blueprint_Install_HorseshoesPin.label>
   
   <!-- EN: cama hospitalaria (anteproyecto) -->
-  <Blueprint_Install_HospitalBed.label>अस्पताल बिस्तर (प्रारूप)</Blueprint_Install_HospitalBed.label>
+  <Blueprint_Install_HospitalBed.label>अस्पताल का बिस्तर (प्रारूप)</Blueprint_Install_HospitalBed.label>
   
   <!-- EN: quimiorreactor infinito (anteproyecto) -->
-  <Blueprint_Install_InfiniteChemreactor.label>क्विमियोरिएक्टर अनंत (प्रारूप)</Blueprint_Install_InfiniteChemreactor.label>
+  <Blueprint_Install_InfiniteChemreactor.label>अनंत कीमियोरिएक्टर (प्रारूप)</Blueprint_Install_InfiniteChemreactor.label>
   
   <!-- EN: megapantalla de televisión (anteproyecto) -->
-  <Blueprint_Install_MegascreenTelevision.label>मेगापेंटला टेलीविजन (पूर्व-प्रोजेक्ट)</Blueprint_Install_MegascreenTelevision.label>
+  <Blueprint_Install_MegascreenTelevision.label>टेलीविज़न मेगास्क्रीन (प्रारूप)</Blueprint_Install_MegascreenTelevision.label>
   
   <!-- EN: multi-analizador (anteproyecto) -->
-  <Blueprint_Install_MultiAnalyzer.label>मल्टी-विश्लेषक (प्रारूप)</Blueprint_Install_MultiAnalyzer.label>
+  <Blueprint_Install_MultiAnalyzer.label>मल्टी-एनालाइज़र (प्रारूप)</Blueprint_Install_MultiAnalyzer.label>
   
   <!-- EN: baliza de comercio orbital (anteproyecto) -->
-  <Blueprint_Install_OrbitalTradeBeacon.label>कक्षीय व्यापार बीकन</Blueprint_Install_OrbitalTradeBeacon.label>
+  <Blueprint_Install_OrbitalTradeBeacon.label>ऑर्बिटल ट्रेड बीकन (प्रोटोटाइप)</Blueprint_Install_OrbitalTradeBeacon.label>
   
   <!-- EN: maceta (anteproyecto) -->
-  <Blueprint_Install_PlantPot.label>बर्तन (प्रारूप)</Blueprint_Install_PlantPot.label>
+  <Blueprint_Install_PlantPot.label>गमला (प्रारूप)</Blueprint_Install_PlantPot.label>
   
   <!-- EN: mesa de póker (anteproyecto) -->
   <Blueprint_Install_PokerTable.label>पोकर टेबल (प्रारूप)</Blueprint_Install_PokerTable.label>
   
   <!-- EN: emanador psíquico (anteproyecto) -->
-  <Blueprint_Install_PsychicEmanator.label>मानसिक उत्सर्जक (प्रारूप)</Blueprint_Install_PsychicEmanator.label>
+  <Blueprint_Install_PsychicEmanator.label>साइकिक एमेनेटर (प्रोटोटाइप)</Blueprint_Install_PsychicEmanator.label>
   
   <!-- EN: cama real (anteproyecto) -->
-  <Blueprint_Install_RoyalBed.label>बिस्तर योजना</Blueprint_Install_RoyalBed.label>
+  <Blueprint_Install_RoyalBed.label>बेड रियल (प्रारूप)</Blueprint_Install_RoyalBed.label>
   
   <!-- EN: escultura enorme (anteproyecto) -->
-  <Blueprint_Install_SculptureGrand.label>विशाल प्रतिमा (प्रारूप)</Blueprint_Install_SculptureGrand.label>
+  <Blueprint_Install_SculptureGrand.label>विशाल मूर्तिकला (प्रारूप)</Blueprint_Install_SculptureGrand.label>
   
   <!-- EN: escultura grande (anteproyecto) -->
-  <Blueprint_Install_SculptureLarge.label>बड़ी मूर्ति (प्रारूप)</Blueprint_Install_SculptureLarge.label>
+  <Blueprint_Install_SculptureLarge.label>बड़ी मूर्तिकला (प्रारूप)</Blueprint_Install_SculptureLarge.label>
   
   <!-- EN: escultura pequeña (anteproyecto) -->
-  <Blueprint_Install_SculptureSmall.label>छोटा शिल्प</Blueprint_Install_SculptureSmall.label>
+  <Blueprint_Install_SculptureSmall.label>छोटी मूर्ति (प्रारूप)</Blueprint_Install_SculptureSmall.label>
   
   <!-- EN: estantería (anteproyecto) -->
-  <Blueprint_Install_Shelf.label>एस्टैंटेरिया (प्रारूप)</Blueprint_Install_Shelf.label>
+  <Blueprint_Install_Shelf.label>शेल्फ (प्रारूप)</Blueprint_Install_Shelf.label>
   
   <!-- EN: mesa de investigación básica (anteproyecto) -->
-  <Blueprint_Install_SimpleResearchBench.label>बुनियादी अनुसंधान मेज़ (प्रारूप)</Blueprint_Install_SimpleResearchBench.label>
+  <Blueprint_Install_SimpleResearchBench.label>बुनियादी अनुसंधान मेज (प्रारूप)</Blueprint_Install_SimpleResearchBench.label>
   
   <!-- EN: lámpara de pie (anteproyecto) -->
-  <Blueprint_Install_StandingLamp.label>फ़्लोर लैंप</Blueprint_Install_StandingLamp.label>
+  <Blueprint_Install_StandingLamp.label>फ्लोर लैंप (प्रारूप)</Blueprint_Install_StandingLamp.label>
   
   <!-- EN: taburete (anteproyecto) -->
-  <Blueprint_Install_Stool.label>स्टूल (प्रारूप)</Blueprint_Install_Stool.label>
+  <Blueprint_Install_Stool.label>टैबुरेट (प्रारूप)</Blueprint_Install_Stool.label>
   
   <!-- EN: lámpara solar (anteproyecto) -->
-  <Blueprint_Install_SunLamp.label>सौर दीपक (प्रारूप)</Blueprint_Install_SunLamp.label>
+  <Blueprint_Install_SunLamp.label>सोलर लैंप (प्रारूप)</Blueprint_Install_SunLamp.label>
   
   <!-- EN: mesa (1x2) (anteproyecto) -->
   <Blueprint_Install_Table1x2c.label>मेसा (1x2) (प्रारूप)</Blueprint_Install_Table1x2c.label>
   
   <!-- EN: mesa (2x2) (anteproyecto) -->
-  <Blueprint_Install_Table2x2c.label>मेसा (2x2)</Blueprint_Install_Table2x2c.label>
+  <Blueprint_Install_Table2x2c.label>मेसा (2x2) (प्रारूप)</Blueprint_Install_Table2x2c.label>
   
   <!-- EN: mesa (2x4) (anteproyecto) -->
   <Blueprint_Install_Table2x4c.label>मेसा (2x4) (प्रारूप)</Blueprint_Install_Table2x4c.label>
   
   <!-- EN: mesa (3x3) (anteproyecto) -->
-  <Blueprint_Install_Table3x3c.label>टेबल (3x3)</Blueprint_Install_Table3x3c.label>
+  <Blueprint_Install_Table3x3c.label>मेसा (3x3) (एंटीप्रोजेक्टो)</Blueprint_Install_Table3x3c.label>
   
   <!-- EN: mesa de carnicero (anteproyecto) -->
-  <Blueprint_Install_TableButcher.label>कसाई मेज (प्रारूप)</Blueprint_Install_TableButcher.label>
+  <Blueprint_Install_TableButcher.label>कसाई की मेज (प्रारूप)</Blueprint_Install_TableButcher.label>
   
   <!-- EN: mesa de maquinado (anteproyecto) -->
-  <Blueprint_Install_TableMachining.label>मशीनिंग टेबल (ड्राफ्ट)</Blueprint_Install_TableMachining.label>
+  <Blueprint_Install_TableMachining.label>मशीनिंग टेबल (प्रारूप)</Blueprint_Install_TableMachining.label>
   
   <!-- EN: mesa de escultor (anteproyecto) -->
-  <Blueprint_Install_TableSculpting.label>शिल्पकार मेज़ (प्रारूप)</Blueprint_Install_TableSculpting.label>
+  <Blueprint_Install_TableSculpting.label>मूर्तिकार की मेज (प्रारूप)</Blueprint_Install_TableSculpting.label>
   
   <!-- EN: mesa de cantería (anteproyecto) -->
-  <Blueprint_Install_TableStonecutter.label>पत्थर काटने की मेज</Blueprint_Install_TableStonecutter.label>
+  <Blueprint_Install_TableStonecutter.label>मेसा डी कैनटेरिया (प्रारूप)</Blueprint_Install_TableStonecutter.label>
   
   <!-- EN: telescopio (anteproyecto) -->
-  <Blueprint_Install_Telescope.label>दूरबीन (प्रारूप)</Blueprint_Install_Telescope.label>
+  <Blueprint_Install_Telescope.label>टेलीस्कोप (प्रारूप)</Blueprint_Install_Telescope.label>
   
   <!-- EN: armario de herramientas (anteproyecto) -->
-  <Blueprint_Install_ToolCabinet.label>उपकरण अलमारी (प्रारूप)</Blueprint_Install_ToolCabinet.label>
+  <Blueprint_Install_ToolCabinet.label>टूल कैबिनेट (प्रारूप)</Blueprint_Install_ToolCabinet.label>
   
   <!-- EN: televisión de tubo (anteproyecto) -->
   <Blueprint_Install_TubeTelevision.label>ट्यूब टेलीविजन (प्रारूप)</Blueprint_Install_TubeTelevision.label>
   
   <!-- EN: minitorreta (anteproyecto) -->
-  <Blueprint_Install_Turret_MiniTurret.label>मिनिटोरेटा (प्रोटोटाइप)</Blueprint_Install_Turret_MiniTurret.label>
+  <Blueprint_Install_Turret_MiniTurret.label>मिनीटोर्रेटा (प्रारूप)</Blueprint_Install_Turret_MiniTurret.label>
   
   <!-- EN: mortero (anteproyecto) -->
-  <Blueprint_Install_Turret_Mortar.label>मोर्टार</Blueprint_Install_Turret_Mortar.label>
+  <Blueprint_Install_Turret_Mortar.label>मोर्टार (प्रारूप)</Blueprint_Install_Turret_Mortar.label>
   
   <!-- EN: célula de energía vanométrica (anteproyecto) -->
-  <Blueprint_Install_VanometricPowerCell.label>वानोमेट्रिक ऊर्जा सेल (प्रारूप)</Blueprint_Install_VanometricPowerCell.label>
+  <Blueprint_Install_VanometricPowerCell.label>वैनोमेट्रिक ऊर्जा सेल (प्रारूप)</Blueprint_Install_VanometricPowerCell.label>
   
   <!-- EN: monitor de signos vitales (anteproyecto) -->
-  <Blueprint_Install_VitalsMonitor.label>महत्वपूर्ण संकेत मॉनिटर</Blueprint_Install_VitalsMonitor.label>
+  <Blueprint_Install_VitalsMonitor.label>वाइटल साइन मॉनिटर (प्रारूप)</Blueprint_Install_VitalsMonitor.label>
   
   <!-- EN: escáner de minerales de largo alcance (anteproyecto) -->
-  <Blueprint_LongRangeMineralScanner.label>दूरस्थ खनिज स्कैनर</Blueprint_LongRangeMineralScanner.label>
+  <Blueprint_LongRangeMineralScanner.label>लॉन्ग-रेंज मिनरल स्कैनर (प्रोटोटाइप)</Blueprint_LongRangeMineralScanner.label>
   
   <!-- EN: altar matrimonial (anteproyecto) -->
-  <Blueprint_MarriageSpot.label>विवाह वेदी (प्रारूप)</Blueprint_MarriageSpot.label>
+  <Blueprint_MarriageSpot.label>वैवाहिक वेदी (प्रारूप)</Blueprint_MarriageSpot.label>
   
   <!-- EN: baldosa metálicas (anteproyecto) -->
-  <Blueprint_MetalTile.label>धातु टाइलें (प्रारूप)</Blueprint_MetalTile.label>
+  <Blueprint_MetalTile.label>धातु की टाइलें (प्रारूप)</Blueprint_MetalTile.label>
   
   <!-- EN: bomba de humedad (anteproyecto) -->
-  <Blueprint_MoisturePump.label>गीला बम (प्रारूप)</Blueprint_MoisturePump.label>
+  <Blueprint_MoisturePump.label>नमी पंप (प्रारूप)</Blueprint_MoisturePump.label>
   
   <!-- EN: multi-analizador (anteproyecto) -->
-  <Blueprint_MultiAnalyzer.label>मल्टी-विश्लेषक (प्रारूप)</Blueprint_MultiAnalyzer.label>
+  <Blueprint_MultiAnalyzer.label>मल्टी-एनालाइज़र (प्रारूप)</Blueprint_MultiAnalyzer.label>
   
   <!-- EN: dispensador de pasta nutritiva (anteproyecto) -->
-  <Blueprint_NutrientPasteDispenser.label>पोषक पेस्ट वितरक (प्रारूप)</Blueprint_NutrientPasteDispenser.label>
+  <Blueprint_NutrientPasteDispenser.label>पोषक पेस्ट डिस्पेंसर (प्रारूप)</Blueprint_NutrientPasteDispenser.label>
   
   <!-- EN: baliza de comercio orbital (anteproyecto) -->
-  <Blueprint_OrbitalTradeBeacon.label>कक्षीय व्यापार बीकन</Blueprint_OrbitalTradeBeacon.label>
+  <Blueprint_OrbitalTradeBeacon.label>ऑर्बिटल ट्रेड बीकन (प्रोटोटाइप)</Blueprint_OrbitalTradeBeacon.label>
   
   <!-- EN: punto de fiestas (anteproyecto) -->
-  <Blueprint_PartySpot.label>पार्टी बिंदु (प्रारूप)</Blueprint_PartySpot.label>
+  <Blueprint_PartySpot.label>पार्टी पॉइंट (प्रारूप)</Blueprint_PartySpot.label>
   
   <!-- EN: refrigerador pasivo (anteproyecto) -->
-  <Blueprint_PassiveCooler.label>निष्क्रिय प्रशीतक (प्रारूप)</Blueprint_PassiveCooler.label>
+  <Blueprint_PassiveCooler.label>पैसिव रेफ्रिजरेटर (प्रारूप)</Blueprint_PassiveCooler.label>
   
   <!-- EN: baldosa de cemento (anteproyecto) -->
-  <Blueprint_PavedTile.label>सीमेंट टाइल</Blueprint_PavedTile.label>
+  <Blueprint_PavedTile.label>सीमेंट टाइल (प्रारूप)</Blueprint_PavedTile.label>
   
   <!-- EN: maceta (anteproyecto) -->
-  <Blueprint_PlantPot.label>बर्तन (प्रारूप)</Blueprint_PlantPot.label>
+  <Blueprint_PlantPot.label>गमला (प्रारूप)</Blueprint_PlantPot.label>
   
   <!-- EN: lanzadera de cápsulas (anteproyecto) -->
-  <Blueprint_PodLauncher.label>कैप्सूल लांचर (प्रोटोटाइप)</Blueprint_PodLauncher.label>
+  <Blueprint_PodLauncher.label>कैप्सूल लॉन्चर (प्रोटोटाइप)</Blueprint_PodLauncher.label>
   
   <!-- EN: mesa de póker (anteproyecto) -->
   <Blueprint_PokerTable.label>पोकर टेबल (प्रारूप)</Blueprint_PokerTable.label>
   
   <!-- EN: conducto eléctrico (anteproyecto) -->
-  <Blueprint_PowerConduit.label>विद्युत चालक (प्रारूप)</Blueprint_PowerConduit.label>
+  <Blueprint_PowerConduit.label>इलेक्ट्रिक कंडक्ट (प्रारूप)</Blueprint_PowerConduit.label>
   
   <!-- EN: interruptor (anteproyecto) -->
-  <Blueprint_PowerSwitch.label>अवरोधक (प्रारूप)</Blueprint_PowerSwitch.label>
+  <Blueprint_PowerSwitch.label>इंटरप्टर (प्रारूप)</Blueprint_PowerSwitch.label>
   
   <!-- EN: cama real (anteproyecto) -->
-  <Blueprint_RoyalBed.label>बिस्तर योजना</Blueprint_RoyalBed.label>
+  <Blueprint_RoyalBed.label>बेड रियल (प्रारूप)</Blueprint_RoyalBed.label>
   
   <!-- EN: sacos de arena (anteproyecto) -->
-  <Blueprint_Sandbags.label>रेत की बोरियाँ (प्रारूप)</Blueprint_Sandbags.label>
+  <Blueprint_Sandbags.label>रेत की थैलियाँ (प्रारूप)</Blueprint_Sandbags.label>
   
   <!-- EN: sarcófago (anteproyecto) -->
-  <Blueprint_Sarcophagus.label>शवपेटी (प्रारूप)</Blueprint_Sarcophagus.label>
+  <Blueprint_Sarcophagus.label>सार्कोफैगस (प्रारूप)</Blueprint_Sarcophagus.label>
   
   <!-- EN: estantería (anteproyecto) -->
-  <Blueprint_Shelf.label>एस्टेंटेरिया (प्रारूप)</Blueprint_Shelf.label>
+  <Blueprint_Shelf.label>शेल्फ (प्रारूप)</Blueprint_Shelf.label>
   
   <!-- EN: viga estructural de nave (anteproyecto) -->
-  <Blueprint_Ship_Beam.label>जहाज़ संरचनात्मक बीम (प्रारूप)</Blueprint_Ship_Beam.label>
+  <Blueprint_Ship_Beam.label>शिप स्ट्रक्चरल बीम (प्रारूप)</Blueprint_Ship_Beam.label>
   
   <!-- EN: ordenador central de nave (anteproyecto) -->
-  <Blueprint_Ship_ComputerCore.label>जहाज़ केंद्रीय कंप्यूटर (प्रारूप)</Blueprint_Ship_ComputerCore.label>
+  <Blueprint_Ship_ComputerCore.label>शिप का मुख्य कंप्यूटर (प्रारूप)</Blueprint_Ship_ComputerCore.label>
   
   <!-- EN: sarcófago de criptosueño de nave (anteproyecto) -->
-  <Blueprint_Ship_CryptosleepCasket.label>क्रिप्टोस्लीप सारकोफ़ेजस (प्रारूप)</Blueprint_Ship_CryptosleepCasket.label>
+  <Blueprint_Ship_CryptosleepCasket.label>स्पेस क्रायोसलीप सार्कोफैगस (प्रोटोटाइप)</Blueprint_Ship_CryptosleepCasket.label>
   
   <!-- EN: motor de nave (anteproyecto) -->
-  <Blueprint_Ship_Engine.label>जहाज इंजन (प्रारूप)</Blueprint_Ship_Engine.label>
+  <Blueprint_Ship_Engine.label>शिप मोटर (प्रारूप)</Blueprint_Ship_Engine.label>
   
   <!-- EN: reactor de nave (anteproyecto) -->
-  <Blueprint_Ship_Reactor.label>जहाज रिएक्टर (प्रारूप)</Blueprint_Ship_Reactor.label>
+  <Blueprint_Ship_Reactor.label>शिप रिएक्टर (प्रारूप)</Blueprint_Ship_Reactor.label>
   
   <!-- EN: módulo de sensores (anteproyecto) -->
-  <Blueprint_Ship_SensorCluster.label>सेंसर मॉड्यूल</Blueprint_Ship_SensorCluster.label>
+  <Blueprint_Ship_SensorCluster.label>सेंसर मॉड्यूल (प्रोटोटाइप)</Blueprint_Ship_SensorCluster.label>
   
   <!-- EN: baldosa de plata (anteproyecto) -->
-  <Blueprint_SilverTile.label>चाँदी की टाइलें</Blueprint_SilverTile.label>
+  <Blueprint_SilverTile.label>सिल्वर टाइल (प्रारूप)</Blueprint_SilverTile.label>
   
   <!-- EN: mesa de investigación básica (anteproyecto) -->
-  <Blueprint_SimpleResearchBench.label>बुनियादी अनुसंधान मेज़ (प्रारूप)</Blueprint_SimpleResearchBench.label>
+  <Blueprint_SimpleResearchBench.label>बुनियादी अनुसंधान मेज (प्रारूप)</Blueprint_SimpleResearchBench.label>
   
   <!-- EN: lugar para dormir (anteproyecto) -->
-  <Blueprint_SleepingSpot.label>सोने की जगह</Blueprint_SleepingSpot.label>
+  <Blueprint_SleepingSpot.label>सोने की जगह (प्रारूप)</Blueprint_SleepingSpot.label>
   
   <!-- EN: panel solar (anteproyecto) -->
-  <Blueprint_SolarGenerator.label>सोलर पैनल</Blueprint_SolarGenerator.label>
+  <Blueprint_SolarGenerator.label>सोलर पैनल (प्रारूप)</Blueprint_SolarGenerator.label>
   
   <!-- EN: lámpara de pie (anteproyecto) -->
-  <Blueprint_StandingLamp.label>फ़्लोर लैंप</Blueprint_StandingLamp.label>
+  <Blueprint_StandingLamp.label>फ्लोर लैंप (प्रारूप)</Blueprint_StandingLamp.label>
   
   <!-- EN: baldosa estéril (anteproyecto) -->
-  <Blueprint_SterileTile.label>बाँझ टाइल</Blueprint_SterileTile.label>
+  <Blueprint_SterileTile.label>बाल्दोसा स्टेरिल (प्रारूप)</Blueprint_SterileTile.label>
   
   <!-- EN: taburete (anteproyecto) -->
-  <Blueprint_Stool.label>स्टूल (प्रारूप)</Blueprint_Stool.label>
+  <Blueprint_Stool.label>टैबुरेट (प्रारूप)</Blueprint_Stool.label>
   
   <!-- EN: lámpara solar (anteproyecto) -->
-  <Blueprint_SunLamp.label>सौर दीपक (प्रारूप)</Blueprint_SunLamp.label>
+  <Blueprint_SunLamp.label>सोलर लैंप (प्रारूप)</Blueprint_SunLamp.label>
   
   <!-- EN: mesa (1x2) (anteproyecto) -->
-  <Blueprint_Table1x2c.label>मेसा (1x2) (प्रारूप)</Blueprint_Table1x2c.label>
+  <Blueprint_Table1x2c.label>मेसा (1x2) (एंटीप्रोजेक्टो)</Blueprint_Table1x2c.label>
   
   <!-- EN: mesa (2x2) (anteproyecto) -->
-  <Blueprint_Table2x2c.label>टेबल (2x2)</Blueprint_Table2x2c.label>
+  <Blueprint_Table2x2c.label>मेसा (2x2) (प्रारूप)</Blueprint_Table2x2c.label>
   
   <!-- EN: mesa (2x4) (anteproyecto) -->
   <Blueprint_Table2x4c.label>मेसा (2x4) (प्रारूप)</Blueprint_Table2x4c.label>
   
   <!-- EN: mesa (3x3) (anteproyecto) -->
-  <Blueprint_Table3x3c.label>टेबल (3x3)</Blueprint_Table3x3c.label>
+  <Blueprint_Table3x3c.label>मेसा (3x3) (एंटीप्रोजेक्टो)</Blueprint_Table3x3c.label>
   
   <!-- EN: mesa de carnicero (anteproyecto) -->
-  <Blueprint_TableButcher.label>कसाई मेज (प्रारूप)</Blueprint_TableButcher.label>
+  <Blueprint_TableButcher.label>कसाई की मेज (प्रारूप)</Blueprint_TableButcher.label>
   
   <!-- EN: mesa de maquinado (anteproyecto) -->
-  <Blueprint_TableMachining.label>मशीनिंग टेबल (ड्राफ्ट)</Blueprint_TableMachining.label>
+  <Blueprint_TableMachining.label>मशीनिंग टेबल (प्रारूप)</Blueprint_TableMachining.label>
   
   <!-- EN: mesa de escultor (anteproyecto) -->
-  <Blueprint_TableSculpting.label>शिल्पकार मेज़ (प्रारूप)</Blueprint_TableSculpting.label>
+  <Blueprint_TableSculpting.label>मूर्तिकार की मेज (प्रारूप)</Blueprint_TableSculpting.label>
   
   <!-- EN: mesa de cantería (anteproyecto) -->
-  <Blueprint_TableStonecutter.label>पत्थर काटने की मेज</Blueprint_TableStonecutter.label>
+  <Blueprint_TableStonecutter.label>मेसा डी कैनटेरिया (प्रारूप)</Blueprint_TableStonecutter.label>
   
   <!-- EN: baldosa de granito (anteproyecto) -->
-  <Blueprint_TileGranite.label>ग्रैनाइट टाइल</Blueprint_TileGranite.label>
+  <Blueprint_TileGranite.label>ग्रैनाइट टाइल (प्रारूप)</Blueprint_TileGranite.label>
   
   <!-- EN: baldosa de caliza (anteproyecto) -->
-  <Blueprint_TileLimestone.label>चूना पत्थर टाइल</Blueprint_TileLimestone.label>
+  <Blueprint_TileLimestone.label>चूना पत्थर टाइल (प्रारूप)</Blueprint_TileLimestone.label>
   
   <!-- EN: baldosa de mármol (anteproyecto) -->
-  <Blueprint_TileMarble.label>मार्बल टाइल</Blueprint_TileMarble.label>
+  <Blueprint_TileMarble.label>मार्बल टाइल (प्रारूप)</Blueprint_TileMarble.label>
   
   <!-- EN: baldosa de arenisca (anteproyecto) -->
-  <Blueprint_TileSandstone.label>रेतशिला टाइल</Blueprint_TileSandstone.label>
+  <Blueprint_TileSandstone.label>सैंडस्टोन टाइल (प्रारूप)</Blueprint_TileSandstone.label>
   
   <!-- EN: baldosa de pizarra (anteproyecto) -->
-  <Blueprint_TileSlate.label>स्लेट टाइल</Blueprint_TileSlate.label>
+  <Blueprint_TileSlate.label>स्लेट टाइल (प्रारूप)</Blueprint_TileSlate.label>
   
   <!-- EN: armario de herramientas (anteproyecto) -->
-  <Blueprint_ToolCabinet.label>उपकरण अलमारी (प्रारूप)</Blueprint_ToolCabinet.label>
+  <Blueprint_ToolCabinet.label>टूल कैबिनेट (प्रारूप)</Blueprint_ToolCabinet.label>
   
   <!-- EN: antorcha (anteproyecto) -->
-  <Blueprint_TorchLamp.label>टॉर्च</Blueprint_TorchLamp.label>
+  <Blueprint_TorchLamp.label>अंतोरचा (प्रारूप)</Blueprint_TorchLamp.label>
   
   <!-- EN: cápsula de transporte (anteproyecto) -->
-  <Blueprint_TransportPod.label>परिवहन कैप्सूल (प्रारूप)</Blueprint_TransportPod.label>
+  <Blueprint_TransportPod.label>ट्रांसपोर्ट कैप्सूल (प्रारूप)</Blueprint_TransportPod.label>
   
   <!-- EN: trampa de mina de antimateria (anteproyecto) -->
   <Blueprint_TrapIED_AntigrainWarhead.label>एंटीमैटर माइन ट्रैप (प्रोटोटाइप)</Blueprint_TrapIED_AntigrainWarhead.label>
   
   <!-- EN: trampa de mina PEM (anteproyecto) -->
-  <Blueprint_TrapIED_EMP.label>पीईएम माइन ट्रैप (प्रारूप)</Blueprint_TrapIED_EMP.label>
+  <Blueprint_TrapIED_EMP.label>PEM माइन ट्रैप (प्रारूप)</Blueprint_TrapIED_EMP.label>
   
   <!-- EN: trampa de mina de espuma cortafuegos (anteproyecto) -->
-  <Blueprint_TrapIED_Firefoam.label>फोम माइन ट्रैप (प्रोटोटाइप)</Blueprint_TrapIED_Firefoam.label>
+  <Blueprint_TrapIED_Firefoam.label>फायरप्रूफ फोम माइन ट्रैप (प्रोटोटाइप)</Blueprint_TrapIED_Firefoam.label>
   
   <!-- EN: trampa de mina explosiva (anteproyecto) -->
-  <Blueprint_TrapIED_HighExplosive.label>विस्फोटक खान जाल (प्रारूप)</Blueprint_TrapIED_HighExplosive.label>
+  <Blueprint_TrapIED_HighExplosive.label>विस्फोटक माइन ट्रैप (प्रोटोटाइप)</Blueprint_TrapIED_HighExplosive.label>
   
   <!-- EN: trampa de mina incendiaria (anteproyecto) -->
-  <Blueprint_TrapIED_Incendiary.label>ज्वलनशील खान ट्रैप (प्रारूप)</Blueprint_TrapIED_Incendiary.label>
+  <Blueprint_TrapIED_Incendiary.label>इन्सेन्डियरी माइन ट्रैप (प्रोटोटाइप)</Blueprint_TrapIED_Incendiary.label>
   
   <!-- EN: televisión de tubo (anteproyecto) -->
-  <Blueprint_TubeTelevision.label>ट्यूब टेलीविजन (प्रोटोटाइप)</Blueprint_TubeTelevision.label>
+  <Blueprint_TubeTelevision.label>ट्यूब टेलीविजन (प्रारूप)</Blueprint_TubeTelevision.label>
   
   <!-- EN: torreta de cañón automático (anteproyecto) -->
-  <Blueprint_Turret_Autocannon.label>स्वचालित तोप बुर्ज (प्रोटोटाइप)</Blueprint_Turret_Autocannon.label>
+  <Blueprint_Turret_Autocannon.label>ऑटोमैटिक कैनन टरेट (प्रोटोटाइप)</Blueprint_Turret_Autocannon.label>
   
   <!-- EN: minitorreta (anteproyecto) -->
-  <Blueprint_Turret_MiniTurret.label>मिनिटोरेटा (प्रोटोटाइप)</Blueprint_Turret_MiniTurret.label>
+  <Blueprint_Turret_MiniTurret.label>मिनीटोर्रेटा (प्रारूप)</Blueprint_Turret_MiniTurret.label>
   
   <!-- EN: mortero (anteproyecto) -->
-  <Blueprint_Turret_Mortar.label>मोर्टार</Blueprint_Turret_Mortar.label>
+  <Blueprint_Turret_Mortar.label>मोर्टार (प्रारूप)</Blueprint_Turret_Mortar.label>
   
   <!-- EN: cañón de uranio (anteproyecto) -->
-  <Blueprint_Turret_Sniper.label>यूरेनियम तोप (प्रोटोटाइप)</Blueprint_Turret_Sniper.label>
+  <Blueprint_Turret_Sniper.label>यूरेनियम कैनन (प्रारूप)</Blueprint_Turret_Sniper.label>
   
   <!-- EN: conducto de ventilación (anteproyecto) -->
-  <Blueprint_Vent.label>वेंटिलेशन कंडक्ट (प्रारूप)</Blueprint_Vent.label>
+  <Blueprint_Vent.label>वेंटिलेशन डक्ट (प्रारूप)</Blueprint_Vent.label>
   
   <!-- EN: monitor de signos vitales (anteproyecto) -->
-  <Blueprint_VitalsMonitor.label>महत्वपूर्ण संकेत मॉनिटर</Blueprint_VitalsMonitor.label>
+  <Blueprint_VitalsMonitor.label>वाइटल साइन मॉनिटर (प्रारूप)</Blueprint_VitalsMonitor.label>
   
   <!-- EN: muro (anteproyecto) -->
-  <Blueprint_Wall.label>ढांचा</Blueprint_Wall.label>
+  <Blueprint_Wall.label>दीवार (प्रारूप)</Blueprint_Wall.label>
   
   <!-- EN: generador hidroeléctrico (anteproyecto) -->
   <Blueprint_WatermillGenerator.label>हाइड्रोइलेक्ट्रिक जनरेटर (प्रारूप)</Blueprint_WatermillGenerator.label>
   
   <!-- EN: conducto impermeable (anteproyecto) -->
-  <Blueprint_WaterproofConduit.label>जलरोधक नाली (पूर्व-डिज़ाइन)</Blueprint_WaterproofConduit.label>
+  <Blueprint_WaterproofConduit.label>अभेद्य कंडक्टो (प्रारूप)</Blueprint_WaterproofConduit.label>
   
   <!-- EN: aeroturbina (anteproyecto) -->
   <Blueprint_WindTurbine.label>एरोटर्बाइन (प्रारूप)</Blueprint_WindTurbine.label>
@@ -569,7 +569,7 @@
   <Blueprint_WoodFiredGenerator.label>लकड़ी जनरेटर (प्रारूप)</Blueprint_WoodFiredGenerator.label>
   
   <!-- EN: suelo de madera (anteproyecto) -->
-  <Blueprint_WoodPlankFloor.label>लकड़ी का फर्श</Blueprint_WoodPlankFloor.label>
+  <Blueprint_WoodPlankFloor.label>लकड़ी का फर्श (प्रारूप)</Blueprint_WoodPlankFloor.label>
   
   <!-- EN: Cadáver de alpaca -->
   <Corpse_Alpaca.label>अल्पाका शव</Corpse_Alpaca.label>
@@ -852,97 +852,97 @@
   <Corpse_YorkshireTerrier.description>एक यॉर्कशायर का निर्जीव शरीर।</Corpse_YorkshireTerrier.description>
   
   <!-- EN: cama (animal) (en construcción) -->
-  <Frame_AnimalBed.label>पशु-बिस्तर</Frame_AnimalBed.label>
+  <Frame_AnimalBed.label>ऊँट (निर्माण में)</Frame_AnimalBed.label>
   <!-- EN: Una cama suave para animales. Cabe cualquier animal. -->
   <Frame_AnimalBed.description>एक नरम पशु बिस्तर। कोई भी जानवर इसमें आ सकता है।</Frame_AnimalBed.description>
   
   <!-- EN: cajón de dormir (en construcción) -->
-  <Frame_AnimalSleepingBox.label>सोने का डिब्बा (निर्माण में)</Frame_AnimalSleepingBox.label>
+  <Frame_AnimalSleepingBox.label>स्लीपिंग केबिन</Frame_AnimalSleepingBox.label>
   <!-- EN: Una cajita donde puede dormir un animal. Caben animales pequeños como pollos, gatos o perros pequeños. -->
   <Frame_AnimalSleepingBox.description>यह एक छोटा डिब्बा है जहाँ कोई जानवर सो सकता है। मुर्गियाँ, बिल्लियाँ या छोटे कुत्ते जैसे छोटे जानवर इसमें आ सकते हैं।</Frame_AnimalSleepingBox.description>
   
   <!-- EN: lugar para dormir (animal) (en construcción) -->
-  <Frame_AnimalSleepingSpot.label>जानवर का बिस्तर (निर्माण)</Frame_AnimalSleepingSpot.label>
+  <Frame_AnimalSleepingSpot.label>सोने की जगह (जानवर) (निर्माण में)</Frame_AnimalSleepingSpot.label>
   <!-- EN: Designa un lugar en el suelo donde dormirá un animal domesticado. -->
   <Frame_AnimalSleepingSpot.description>पालतू जानवर के सोने के लिए जमीन पर एक जगह निर्दिष्ट करें।</Frame_AnimalSleepingSpot.description>
   
   <!-- EN: sillón (en construcción) -->
-  <Frame_Armchair.label>कुर्सी (निर्माण)</Frame_Armchair.label>
+  <Frame_Armchair.label>आरामकुर्सी (निर्माणधीन)</Frame_Armchair.label>
   <!-- EN: Un asiento grande, suave y cómodo. Excelente para relajarse. Puede usarse junto a mesas, estaciones de trabajo y demás. -->
   <Frame_Armchair.description>एक बड़ा, नरम और आरामदायक आसन। आराम करने के लिए उत्कृष्ट। इसे मेजों, कार्यस्थलों और अन्य चीज़ों के साथ इस्तेमाल किया जा सकता है।</Frame_Armchair.description>
   
   <!-- EN: puerta automática (en construcción) -->
-  <Frame_Autodoor.label>स्वचालित द्वार</Frame_Autodoor.label>
+  <Frame_Autodoor.label>स्वचालित द्वार (निर्माणधीन)</Frame_Autodoor.label>
   <!-- EN: Separa habitaciones. La automatización de esta puerta permite a la gente pasar a traves de ella sin ser ralentizados. -->
   <Frame_Autodoor.description>कमरों को अलग करता है। इस दरवाजे का स्वचालन लोगों को धीमा किए बिना इससे गुजरने देता है।</Frame_Autodoor.description>
   
   <!-- EN: batería (en construcción) -->
-  <Frame_Battery.label>बैटरी (निर्माण)</Frame_Battery.label>
+  <Frame_Battery.label>बैटरी (निर्माण में)</Frame_Battery.label>
   <!-- EN: Almacena electricidad para uso posterior. Las baterías cargadas explotan cuando se incendian o se mojan. -->
   <Frame_Battery.description>बिजली को बाद में उपयोग के लिए संग्रहीत करता है। चार्ज की गई बैटरियाँ आग लगने या गीली होने पर फट जाती हैं।</Frame_Battery.description>
   
   <!-- EN: cama (en construcción) -->
-  <Frame_Bed.label>बिस्तर (निर्माण)</Frame_Bed.label>
+  <Frame_Bed.label>बनाई जा रही बेड</Frame_Bed.label>
   <!-- EN: Un acogedor colchón con sábanas sobre una estructura para descansar. -->
   <Frame_Bed.description>एक आरामदायक गद्दा, चादरों के साथ, आराम करने के लिए एक ढांचे पर।</Frame_Bed.description>
   
   <!-- EN: saco de dormir (en construcción) -->
-  <Frame_Bedroll.label>सोने की बोरी (निर्माण में)</Frame_Bedroll.label>
+  <Frame_Bedroll.label>स्लीपिंग बैग (निर्माण में)</Frame_Bedroll.label>
   <!-- EN: Una cama simple que se coloca en el suelo, generalmente hecha de tela o cuero, a menudo forrada con piel. Es ligero y puede enrollarse para facilitar el transporte, pero no es tan cómodo como una cama típica. Las caravanas pueden usar sacos de dormir mientras se mueven para dormir mejor. -->
   <Frame_Bedroll.description>एक साधारण बिस्तर जो ज़मीन पर रखा जाता है, आमतौर पर कपड़े या चमड़े से बना होता है, अक्सर खाल से पंक्तिबद्ध होता है। यह हल्का होता है और परिवहन में आसानी के लिए मोड़ा जा सकता है, लेकिन यह सामान्य बिस्तर जितना आरामदायक नहीं होता है। कारवां यात्रा करते समय बेहतर नींद के लिए स्लीपिंग बैग का उपयोग कर सकते हैं।</Frame_Bedroll.description>
   
   <!-- EN: saco de dormir doble (en construcción) -->
-  <Frame_BedrollDouble.label>दोहरा शयन बैग (निर्माण में)</Frame_BedrollDouble.label>
+  <Frame_BedrollDouble.label>डबल स्लीपिंग बैग (निर्माण में)</Frame_BedrollDouble.label>
   <!-- EN: Una simple cama doble que se sienta en el suelo, generalmente hecha de tela o cuero, a menudo forrada con piel. Es ligero y puede enrollarse para facilitar el transporte, pero no es tan cómodo como una cama típica.Las caravanas pueden usar sacos de dormir mientras se mueven para dormir mejor. -->
   <Frame_BedrollDouble.description>एक साधारण डबल बेड जो ज़मीन पर रखा जाता है, आमतौर पर कपड़े या चमड़े से बना होता है, अक्सर खाल से पंक्तिबद्ध होता है। यह हल्का होता है और परिवहन में आसानी के लिए मोड़ा जा सकता है, लेकिन यह एक सामान्य बिस्तर जितना आरामदायक नहीं होता है। कारवां चलते समय बेहतर नींद के लिए स्लीपिंग बैग का उपयोग कर सकते हैं।</Frame_BedrollDouble.description>
   
   <!-- EN: mesa de billar (en construcción) -->
-  <Frame_BilliardsTable.label>बilliard टेबल निर्माण</Frame_BilliardsTable.label>
+  <Frame_BilliardsTable.label>बिलियर्ड टेबल (निर्माणधीन)</Frame_BilliardsTable.label>
   <!-- EN: Una mesa con un suave tapete para jugar a múltiples variantes de juegos de billar. Permite entrenar la habilidad de disparo. -->
   <Frame_BilliardsTable.description>एक मुलायम चटाई वाला मेज़, जो कई तरह के बिलियर्ड्स गेम खेलने के लिए उपयुक्त है। यह निशानेबाज़ी कौशल का अभ्यास करने की अनुमति देता है।</Frame_BilliardsTable.description>
   
   <!-- EN: refinería de biocombustible (en construcción) -->
-  <Frame_BiofuelRefinery.label>बायोईंधन शोधनशाला (निर्माण)</Frame_BiofuelRefinery.label>
+  <Frame_BiofuelRefinery.label>बायोफ्यूल रिफाइनरी (निर्माणधीन)</Frame_BiofuelRefinery.label>
   <!-- EN: Refina materia biológica como la madera o la materia vegetal en biocombustible. -->
   <Frame_BiofuelRefinery.description>लकड़ी या वनस्पति पदार्थ जैसे जैविक पदार्थों को बायोफ्यूल में परिष्कृत करें।</Frame_BiofuelRefinery.description>
   
   <!-- EN: cervecería (en construcción) -->
-  <Frame_Brewery.label>शराबखाना (निर्माण)</Frame_Brewery.label>
+  <Frame_Brewery.label>ब्वररी (निर्माणधीन)</Frame_Brewery.label>
   <!-- EN: Una estación de trabajo con todo el equipo necesario para mezclar mosto para la producción de cerveza. El mosto debe fermentarse para que finalmente se convierta en cerveza. -->
   <Frame_Brewery.description>यह एक कार्य केंद्र है जिसमें बीयर उत्पादन के लिए मस्ट मिलाने के लिए आवश्यक सभी उपकरण हैं। मस्ट को किण्वित किया जाना चाहिए ताकि अंततः यह बीयर बन जाए।</Frame_Brewery.description>
   
   <!-- EN: plataforma (en construcción) -->
-  <Frame_Bridge.label>प्लेटफ़ॉर्म (निर्माण में)</Frame_Bridge.label>
+  <Frame_Bridge.label>प्लेटफ़ॉर्म (निर्माणधीन)</Frame_Bridge.label>
   <!-- EN: Terrain building in progress. -->
   <Frame_Bridge.description>भूभाग का निर्माण प्रगति पर है।</Frame_Bridge.description>
   
   <!-- EN: punto de despiece (en construcción) -->
-  <Frame_ButcherSpot.label>विघटन बिंदु (निर्माण में)</Frame_ButcherSpot.label>
+  <Frame_ButcherSpot.label>विखंडन बिंदु (निर्माण में)</Frame_ButcherSpot.label>
   <!-- EN: Un lugar para descuartizar animales. Debido a la falta de equipo, la carnicería solo produce el 70% de la carne y el cuero de cada criatura. -->
   <Frame_ButcherSpot.description>जानवरों को काटने की एक जगह। उपकरणों की कमी के कारण, कसाईख़ाना प्रत्येक प्राणी के केवल 70% मांस और चमड़ा पैदा करता है।</Frame_ButcherSpot.description>
   
   <!-- EN: hoguera (en construcción) -->
-  <Frame_Campfire.label>अग्नि कुंड (निर्माण में)</Frame_Campfire.label>
+  <Frame_Campfire.label>अलाव (निर्माणधीन)</Frame_Campfire.label>
   <!-- EN: Cocina alimentos y produce calor, y se agota después de unos días. Como con todas las fuentes de calor, debe ser ubicada en interiores para que pueda calentar un espacio cerrado. Reabastecible. -->
   <Frame_Campfire.description>यह भोजन पकाता है और गर्मी उत्पन्न करता है, और कुछ दिनों के बाद ख़त्म हो जाता है। सभी ताप स्रोतों की तरह, इसे एक बंद स्थान को गर्म करने के लिए अंदर रखा जाना चाहिए। पुनः भरा जा सकता है।</Frame_Campfire.description>
   
   <!-- EN: punto de carga para caravanas (en construcción) -->
-  <Frame_CaravanPackingSpot.label>कारवां चार्जिंग पॉइंट (निर्माण में)</Frame_CaravanPackingSpot.label>
+  <Frame_CaravanPackingSpot.label>काफिले के लिए लोडिंग पॉइंट (निर्माणधीन)</Frame_CaravanPackingSpot.label>
   <!-- EN: Designa un punto donde se formarán las caravanas. Ponlo cerca de tus provisiones para acelerar el proceso de carga. -->
   <Frame_CaravanPackingSpot.description>एक ऐसा बिंदु निर्दिष्ट करें जहाँ कारवां बनेंगे। प्रक्रिया को तेज़ करने के लिए इसे अपनी आपूर्ति के पास रखें।</Frame_CaravanPackingSpot.description>
   
   <!-- EN: generador de biocombustible (en construcción) -->
-  <Frame_ChemfuelPoweredGenerator.label>बायोईंधन जनरेटर (निर्माण में)</Frame_ChemfuelPoweredGenerator.label>
+  <Frame_ChemfuelPoweredGenerator.label>बायोफ्यूल जनरेटर (निर्माण में)</Frame_ChemfuelPoweredGenerator.label>
   <!-- EN: Produce energía consumiendo biocombustible. Debe ser reabastecido a mano periódicamente. -->
   <Frame_ChemfuelPoweredGenerator.description>बायो ईंधन का उपयोग करके ऊर्जा उत्पन्न करता है। इसे समय-समय पर हाथ से फिर से भरना आवश्यक है।</Frame_ChemfuelPoweredGenerator.description>
   
   <!-- EN: mesa de ajedrez (en construcción) -->
-  <Frame_ChessTable.label>शतरंज मेज</Frame_ChessTable.label>
+  <Frame_ChessTable.label>शतरंज की मेज (निर्माणधीन)</Frame_ChessTable.label>
   <!-- EN: El antiguo juego de los reyes. Divertido durante unas horas de vez en cuando, incluso jugando solo. Permite entrenar la habilidad intelectual. -->
   <Frame_ChessTable.description>प्राचीन राजाओं का खेल। कभी-कभी कुछ घंटों के लिए मनोरंजक, यहाँ तक कि अकेले खेलने में भी। यह बौद्धिक कौशल को प्रशिक्षित करने की अनुमति देता है।</Frame_ChessTable.description>
   
   <!-- EN: consola de comunicaciones (en construcción) -->
-  <Frame_CommsConsole.label>संचार कंसोल (निर्माण में)</Frame_CommsConsole.label>
+  <Frame_CommsConsole.label>संचार कंसोल (निर्माणधीन)</Frame_CommsConsole.label>
   <!-- EN: Permite el contacto con otras facciones y comerciantes en órbita. -->
   <Frame_CommsConsole.description>कक्षा में अन्य गुटों और व्यापारियों के साथ संपर्क की अनुमति देता है।</Frame_CommsConsole.description>
   
@@ -954,751 +954,751 @@
   <!-- EN: refrigerador (en construcción) -->
   <Frame_Cooler.label>रेफ्रिजरेटर (निर्माण में)</Frame_Cooler.label>
   <!-- EN: Un máquina de enfriamento del aire que puede ser empotrada en un muro. El aire frío sale por un lado, mientras que el tubo de escape produce mucho calor en el opuesto. Puede utilizarse para enfriar habitaciones durante el verano o para crear una habitación frigorífica. -->
-  <Frame_Cooler.description>एक दीवार में स्थापित किया जा सकने वाला वायु शीतलन उपकरण। ठंडी हवा एक तरफ से निकलती है, जबकि निकास ट्यूब विपरीत दिशा में बहुत गर्मी उत्पन्न करती है। इसका उपयोग गर्मियों में कमरों को ठंडा करने या एक शीतगृह बनाने के लिए किया जा सकता है।</Frame_Cooler.description>
+  <Frame_Cooler.description>एक एयर कूलिंग मशीन जिसे दीवार में लगाया जा सकता है। ठंडी हवा एक तरफ से बाहर निकलती है, जबकि निकास पाइप दूसरी तरफ बहुत अधिक गर्मी पैदा करता है। इसका उपयोग गर्मियों के दौरान कमरों को ठंडा करने या कोल्ड स्टोरेज बनाने के लिए किया जा सकता है।</Frame_Cooler.description>
   
   <!-- EN: punto de artesanía (en construcción) -->
-  <Frame_CraftingSpot.label>शिल्प बिंदु (निर्माण में)</Frame_CraftingSpot.label>
+  <Frame_CraftingSpot.label>शिल्प कौशल बिंदु (निर्माण में)</Frame_CraftingSpot.label>
   <!-- EN: Un lugar donde se pueden crear objetos simples como arcos y cuchillos. La producción aquí es lenta debido a la falta de herramientas. -->
-  <Frame_CraftingSpot.description>सरल वस्तुएँ जैसे धनुष और चाकू बनाने का स्थान। यहाँ उत्पादन उपकरणों की कमी के कारण धीमा है।</Frame_CraftingSpot.description>
+  <Frame_CraftingSpot.description>एक ऐसी जगह जहाँ धनुष और चाकू जैसी सरल वस्तुएँ बनाई जा सकती हैं। उपकरणों की कमी के कारण यहाँ उत्पादन धीमा है।</Frame_CraftingSpot.description>
   
   <!-- EN: sarcófago de criptosueño (en construcción) -->
-  <Frame_CryptosleepCasket.label>क्रिप्टोस्लीप शवपेटी (निर्माण)</Frame_CryptosleepCasket.label>
+  <Frame_CryptosleepCasket.label>क्रिप्टोस्लीप सार्कोफैगस (निर्माण में)</Frame_CryptosleepCasket.label>
   <!-- EN: Un sarcófago autoalimentado y diseñado para mantener a una persona en un estado de animación suspendida durante muchos años. -->
-  <Frame_CryptosleepCasket.description>एक आत्मनिर्भर ताबूत जो किसी व्यक्ति को कई वर्षों तक निलंबित एनीमेशन की स्थिति में रखने के लिए डिज़ाइन किया गया है।</Frame_CryptosleepCasket.description>
+  <Frame_CryptosleepCasket.description>एक स्व-पोषित सार्कोफैगस जिसे किसी व्यक्ति को कई वर्षों तक निलंबित एनीमेशन की स्थिति में रखने के लिए डिज़ाइन किया गया है।</Frame_CryptosleepCasket.description>
   
   <!-- EN: taladro de profundidad (en construcción) -->
-  <Frame_DeepDrill.label>गहराई ड्रिल</Frame_DeepDrill.label>
+  <Frame_DeepDrill.label>डेप्थ ड्रिल</Frame_DeepDrill.label>
   <!-- EN: Un taladro montado capaz de perforar corteza terrestre para extraer minerales de las profundidades. Usa un escáner de profundidad para detectar los recursos. Este taladro obtendrá pedazos de piedra de no haber otros recursos. Puede ser recolocado a voluntad. -->
-  <Frame_DeepDrill.description>एक माउंटेड ड्रिल जो पृथ्वी की परत को छेदने और गहराई से खनिज निकालने में सक्षम है। यह संसाधनों का पता लगाने के लिए एक गहराई स्कैनर का उपयोग करता है। यदि कोई अन्य संसाधन नहीं हैं तो यह ड्रिल पत्थर के टुकड़े प्राप्त करेगी। इसे इच्छानुसार पुनः स्थापित किया जा सकता है।</Frame_DeepDrill.description>
+  <Frame_DeepDrill.description>गहराई से खनिज निकालने के लिए पृथ्वी की पपड़ी को छेदने में सक्षम एक लगा हुआ ड्रिल। संसाधनों का पता लगाने के लिए यह एक गहराई स्कैनर का उपयोग करता है। अन्य संसाधन न होने पर यह ड्रिल पत्थर के टुकड़े प्राप्त कर सकता है। इसे इच्छानुसार पुन: स्थापित किया जा सकता है।</Frame_DeepDrill.description>
   
   <!-- EN: silla de comedor (en construcción) -->
-  <Frame_DiningChair.label>भोजन कुर्सी (निर्माण)</Frame_DiningChair.label>
+  <Frame_DiningChair.label>डाइनिंग चेयर (निर्माण में)</Frame_DiningChair.label>
   <!-- EN: Una silla cómoda y agradable. Puede usarse junto a mesas, estaciones de trabajo y demás. -->
-  <Frame_DiningChair.description>एक आरामदायक और सुखद कुर्सी। इसका उपयोग मेजों, कार्यस्थलों और अन्य चीज़ों के साथ किया जा सकता है।</Frame_DiningChair.description>
+  <Frame_DiningChair.description>एक आरामदायक और सुखद कुर्सी। इसका उपयोग मेजों, वर्कस्टेशन और अन्य चीजों के साथ किया जा सकता है।</Frame_DiningChair.description>
   
   <!-- EN: puerta (en construcción) -->
-  <Frame_Door.label>दरवाज़ा (निर्माण)</Frame_Door.label>
+  <Frame_Door.label>दरवाजा (निर्माणधीन)</Frame_Door.label>
   <!-- EN: Separa habitaciones. Debe ser abierta y cerrada manualmente, lo que ralentizará el paso de la gente dependiendo del material del que esté hecha. -->
-  <Frame_Door.description>कमरों को अलग करता है। इसे मैन्युअल रूप से खोला और बंद किया जाना चाहिए, जिससे लोगों का आवागमन इसकी सामग्री के आधार पर धीमा हो जाएगा।</Frame_Door.description>
+  <Frame_Door.description>कमरों को अलग करें। इसे मैन्युअल रूप से खोला और बंद किया जाना चाहिए, जिससे इसके निर्माण में उपयोग की गई सामग्री के आधार पर लोगों के आने-जाने की गति धीमी हो जाएगी।</Frame_Door.description>
   
   <!-- EN: cama doble (en construcción) -->
-  <Frame_DoubleBed.label>दो बिस्तरीय (निर्माण)</Frame_DoubleBed.label>
+  <Frame_DoubleBed.label>डबल बेड (निर्माण में)</Frame_DoubleBed.label>
   <!-- EN: Una simple cama matrimonial para dos personas. -->
-  <Frame_DoubleBed.description>एक साधारण डबल बेड दो लोगों के लिए।</Frame_DoubleBed.description>
+  <Frame_DoubleBed.description>दो लोगों के लिए एक साधारण डबल बेड।</Frame_DoubleBed.description>
   
   <!-- EN: lugar doble para dormir (en construcción) -->
-  <Frame_DoubleSleepingSpot.label>दोहरे सोने का स्थान (निर्माण में)</Frame_DoubleSleepingSpot.label>
+  <Frame_DoubleSleepingSpot.label>दोहरा सोने का स्थान (निर्माणधीन)</Frame_DoubleSleepingSpot.label>
   <!-- EN: Designa un lugar en el suelo donde dos personas deben dormir juntas. No es cómodo. -->
-  <Frame_DoubleSleepingSpot.description>ज़मीन पर एक जगह निर्दिष्ट करें जहाँ दो लोग एक साथ सो सकते हैं। यह आरामदायक नहीं है।</Frame_DoubleSleepingSpot.description>
+  <Frame_DoubleSleepingSpot.description>ज़मीन पर एक ऐसी जगह निर्धारित करें जहाँ दो लोगों को एक साथ सोना चाहिए। यह आरामदायक नहीं है।</Frame_DoubleSleepingSpot.description>
   
   <!-- EN: cómoda (en construcción) -->
-  <Frame_Dresser.label>बेड बन रहा है</Frame_Dresser.label>
+  <Frame_Dresser.label>कमोडा (निर्माण में)</Frame_Dresser.label>
   <!-- EN: Da una pequeña bonificación de comodidad a todas las camas cercanas. Colocar más de una cómoda cerca de la misma cama no tendrá ningún efecto. -->
-  <Frame_Dresser.description>आस-पास के सभी बिस्तरों को थोड़ी सी आराम सुविधा प्रदान करता है। एक ही बिस्तर के पास एक से अधिक आराम सुविधा रखने से कोई प्रभाव नहीं पड़ेगा।</Frame_Dresser.description>
+  <Frame_Dresser.description>पास के सभी बिस्तरों को थोड़ा आराम का बोनस देता है। एक ही बिस्तर के पास एक से अधिक आरामदायक वस्तु रखने से कोई प्रभाव नहीं पड़ेगा।</Frame_Dresser.description>
   
   <!-- EN: laboratorio de drogas (en construcción) -->
-  <Frame_DrugLab.label>दवा प्रयोगशाला</Frame_DrugLab.label>
+  <Frame_DrugLab.label>ड्रग लैब (निर्माणधीन)</Frame_DrugLab.label>
   <!-- EN: Una mesa de trabajo equipada con instrumentos de medición, quemadores y diversos contenedores para producir variedad de drogas. -->
-  <Frame_DrugLab.description>एक कार्यक्षेत्र जो मापने के उपकरणों, बर्नर और विभिन्न कंटेनरों से लैस है, जिसका उपयोग विभिन्न प्रकार की दवाएँ बनाने के लिए किया जाता है।</Frame_DrugLab.description>
+  <Frame_DrugLab.description>विभिन्न प्रकार की दवाओं के उत्पादन के लिए मापन उपकरणों, बर्नर और विभिन्न कंटेनरों से सुसज्जित एक कार्यमेज।</Frame_DrugLab.description>
   
   <!-- EN: crematorio eléctrico (en construcción) -->
-  <Frame_ElectricCrematorium.label>विद्युत दाह शला (निर्माण)</Frame_ElectricCrematorium.label>
+  <Frame_ElectricCrematorium.label>इलेक्ट्रिक क्रिमेटोरियो (निर्माण में)</Frame_ElectricCrematorium.label>
   <!-- EN: Un enorme crematorio de piedra que vaporiza cadáveres al alcanzar temperaturas extremadamente altas. -->
-  <Frame_ElectricCrematorium.description>एक विशाल पत्थर का श्मशान घाट जो अत्यधिक उच्च तापमान पर शवों को भाप में बदल देता है।</Frame_ElectricCrematorium.description>
+  <Frame_ElectricCrematorium.description>पत्थर का एक विशाल क्रिमेटोरियो जो अत्यधिक उच्च तापमान तक पहुँचने पर शवों को वाष्पित कर देता है।</Frame_ElectricCrematorium.description>
   
   <!-- EN: fundición eléctrica (en construcción) -->
-  <Frame_ElectricSmelter.label>विद्युत ढलाई (निर्माण में)</Frame_ElectricSmelter.label>
+  <Frame_ElectricSmelter.label>इलेक्ट्रिक फाउंड्री (निर्माण में)</Frame_ElectricSmelter.label>
   <!-- EN: Extrae metales aprovechables de pedazos de chatarra y otros objetos metálicos. Consume mucha energía. -->
-  <Frame_ElectricSmelter.description>कबाड़ और अन्य धातु वस्तुओं के टुकड़ों से उपयोगी धातुएँ निकालता है। यह बहुत अधिक ऊर्जा खपत करता है।</Frame_ElectricSmelter.description>
+  <Frame_ElectricSmelter.description>कबाड़ के टुकड़ों और अन्य धातु की वस्तुओं से उपयोगी धातु निकालें। बहुत अधिक ऊर्जा की खपत करता है।</Frame_ElectricSmelter.description>
   
   <!-- EN: forja eléctrica (en construcción) -->
-  <Frame_ElectricSmithy.label>विद्युत भट्टी (निर्माण)</Frame_ElectricSmithy.label>
+  <Frame_ElectricSmithy.label>इलेक्ट्रिक फोर्ज (निर्माण में)</Frame_ElectricSmithy.label>
   <!-- EN: Una estación alimentada por electricidad para forjar armas y herramientas no mecánicas. -->
-  <Frame_ElectricSmithy.description>बिजली से चलने वाला एक स्टेशन, जिसका उपयोग गैर-यांत्रिक हथियार और उपकरण बनाने के लिए किया जाता है।</Frame_ElectricSmithy.description>
+  <Frame_ElectricSmithy.description>गैर-यांत्रिक हथियारों और उपकरणों को बनाने के लिए बिजली से चलने वाला एक स्टेशन।</Frame_ElectricSmithy.description>
   
   <!-- EN: cocina eléctrica (en construcción) -->
-  <Frame_ElectricStove.label>विद्युत रसोई (निर्माण में)</Frame_ElectricStove.label>
+  <Frame_ElectricStove.label>इलेक्ट्रिक कुकिंग रेंज (निर्माण में)</Frame_ElectricStove.label>
   <!-- EN: Una cocina eléctrica con horno y encimera integrada para preparar alimentos. -->
-  <Frame_ElectricStove.description>एक इलेक्ट्रिक रसोई जिसमें ओवन और एकीकृत काउंटरटॉप भोजन तैयार करने के लिए है।</Frame_ElectricStove.description>
+  <Frame_ElectricStove.description>भोजन तैयार करने के लिए ओवन और एकीकृत कुकटॉप के साथ एक इलेक्ट्रिक किचन।</Frame_ElectricStove.description>
   
   <!-- EN: mesa de sastrería eléctrica (en construcción) -->
-  <Frame_ElectricTailoringBench.label>विद्युत सिलाई मेज (निर्माण में)</Frame_ElectricTailoringBench.label>
+  <Frame_ElectricTailoringBench.label>इलेक्ट्रिक टेलरिंग टेबल (निर्माण में)</Frame_ElectricTailoringBench.label>
   <!-- EN: Una mesa de trabajo con una máquina de coser para confeccionar ropas rápidamente. Puede trabajar sin electricidad al 50% de la velocidad normal. -->
-  <Frame_ElectricTailoringBench.description>एक कार्य मेज जिसमें कपड़े जल्दी बनाने के लिए सिलाई मशीन लगी है। यह सामान्य गति के 50% पर बिना बिजली के भी काम कर सकती है।</Frame_ElectricTailoringBench.description>
+  <Frame_ElectricTailoringBench.description>कपड़ों को तेज़ी से बनाने के लिए सिलाई मशीन के साथ एक कार्य मेज। यह सामान्य गति के 50% पर बिना बिजली के काम कर सकती है।</Frame_ElectricTailoringBench.description>
   
   <!-- EN: mesilla de noche (en construcción) -->
   <Frame_EndTable.label>नाइटस्टैंड (निर्माण में)</Frame_EndTable.label>
   <!-- EN: Una pequeña mesa de noche que hace que las camas cercanas sean un poco más cómodas. Debe ser colocada directamente junto a la cabecera de la cama. Colocar más de una mesilla cerca de la misma cama no tendrá ningún efecto. -->
-  <Frame_EndTable.description>एक छोटा बेडसाइड टेबल जो आस-पास के बिस्तरों को थोड़ा अधिक आरामदायक बनाता है। इसे सीधे बिस्तर के सिर के पास रखा जाना चाहिए। एक ही बिस्तर के पास एक से अधिक बेडसाइड टेबल रखने का कोई प्रभाव नहीं पड़ेगा।</Frame_EndTable.description>
+  <Frame_EndTable.description>एक छोटी सी नाइटस्टैंड जो पास के बिस्तरों को थोड़ा अधिक आरामदायक बनाती है। इसे सीधे बिस्तर के सिरहाने के बगल में रखा जाना चाहिए। एक ही बिस्तर के पास एक से अधिक नाइटस्टैंड रखने का कोई प्रभाव नहीं होगा।</Frame_EndTable.description>
   
   <!-- EN: mesa de ensamblaje (en construcción) -->
   <Frame_FabricationBench.label>असेंबली टेबल (निर्माण में)</Frame_FabricationBench.label>
   <!-- EN: Una mesa de trabajo equipada con herramientas avanzadas para producir maravillas tecnológicas a partir de materiales más sencillos. -->
-  <Frame_FabricationBench.description>एक कार्य मेज जो उन्नत उपकरणों से लैस है, सरल सामग्रियों से तकनीकी चमत्कार बनाने के लिए।</Frame_FabricationBench.description>
+  <Frame_FabricationBench.description>एक कार्यमेज जिसे साधारण सामग्रियों से तकनीकी चमत्कार बनाने के लिए उन्नत उपकरणों से सुसज्जित किया गया है।</Frame_FabricationBench.description>
   
   <!-- EN: barril de fermentado (en construcción) -->
-  <Frame_FermentingBarrel.label>किण्वन बैरल (निर्माण में)</Frame_FermentingBarrel.label>
+  <Frame_FermentingBarrel.label>किण्वित बैरल (निर्माण में)</Frame_FermentingBarrel.label>
   <!-- EN: Un barril para fermentar el mosto en bruto y convertirlo en cerveza. -->
-  <Frame_FermentingBarrel.description>कच्चे तरल को किण्वित करने और उसे बीयर में बदलने के लिए एक बैरल।</Frame_FermentingBarrel.description>
+  <Frame_FermentingBarrel.description>कच्चे माल्ट को किण्वित करने और उसे बीयर में बदलने के लिए एक बैरल।</Frame_FermentingBarrel.description>
   
   <!-- EN: lanzador de espuma cortafuegos (en construcción) -->
-  <Frame_FirefoamPopper.label>अग्नि-शमन फोम लॉन्चर (निर्माण में)</Frame_FirefoamPopper.label>
+  <Frame_FirefoamPopper.label>फायरप्रूफ फोम लॉन्चर (निर्माण में)</Frame_FirefoamPopper.label>
   <!-- EN: Cuando detecta un fuego, este dispositivo de seguridad revienta y llena de espuma cortafuegos una superficie circular a su alrededor. También puede activarse manualmente. -->
-  <Frame_FirefoamPopper.description>जब यह सुरक्षा उपकरण आग का पता लगाता है, तो यह फट जाता है और अपने चारों ओर एक गोलाकार क्षेत्र को अग्निरोधी फोम से भर देता है। इसे मैन्युअल रूप से भी सक्रिय किया जा सकता है।</Frame_FirefoamPopper.description>
+  <Frame_FirefoamPopper.description>जब यह आग का पता लगाता है, तो यह सुरक्षा उपकरण फट जाता है और अपने चारों ओर एक गोलाकार सतह को अग्निरोधक झाग से भर देता है। इसे मैन्युअल रूप से भी सक्रिय किया जा सकता है।</Frame_FirefoamPopper.description>
   
   <!-- EN: baldosa de piedra de granito (en construcción) -->
-  <Frame_FlagstoneGranite.label>ग्रेनाइट पत्थर टाइल (निर्माण में)</Frame_FlagstoneGranite.label>
+  <Frame_FlagstoneGranite.label>ग्रेनाइट स्टोन टाइल (निर्माण में)</Frame_FlagstoneGranite.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_FlagstoneGranite.description>भूभाग का निर्माण प्रगति पर है।</Frame_FlagstoneGranite.description>
+  <Frame_FlagstoneGranite.description>भूभाग निर्माण प्रगति पर है।</Frame_FlagstoneGranite.description>
   
   <!-- EN: baldosa de piedra caliza (en construcción) -->
-  <Frame_FlagstoneLimestone.label>चूना पत्थर टाइल</Frame_FlagstoneLimestone.label>
+  <Frame_FlagstoneLimestone.label>चूना पत्थर की टाइल (निर्माण में)</Frame_FlagstoneLimestone.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_FlagstoneLimestone.description>भूभाग का निर्माण प्रगति पर है।</Frame_FlagstoneLimestone.description>
+  <Frame_FlagstoneLimestone.description>टेरेन निर्माण प्रगति पर है।</Frame_FlagstoneLimestone.description>
   
   <!-- EN: baldosa de piedra de mármol (en construcción) -->
-  <Frame_FlagstoneMarble.label>संगमरमर पत्थर टाइल (निर्माण)</Frame_FlagstoneMarble.label>
+  <Frame_FlagstoneMarble.label>संगमरमर की पत्थर की टाइल (निर्माण में)</Frame_FlagstoneMarble.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_FlagstoneMarble.description>भूभाग का निर्माण प्रगति पर है।</Frame_FlagstoneMarble.description>
+  <Frame_FlagstoneMarble.description>भूभाग निर्माण प्रगति पर है।</Frame_FlagstoneMarble.description>
   
   <!-- EN: baldosa de piedra arenisca (en construcción) -->
-  <Frame_FlagstoneSandstone.label>रेतले पत्थर की टाइलें</Frame_FlagstoneSandstone.label>
+  <Frame_FlagstoneSandstone.label>सैंडस्टोन स्टोन टाइल (निर्माण में)</Frame_FlagstoneSandstone.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_FlagstoneSandstone.description>भूभाग का निर्माण प्रगति पर है।</Frame_FlagstoneSandstone.description>
+  <Frame_FlagstoneSandstone.description>टेरेन निर्माण प्रगति पर है।</Frame_FlagstoneSandstone.description>
   
   <!-- EN: baldosa de piedra pizarra (en construcción) -->
-  <Frame_FlagstoneSlate.label>पत्थर की स्लेट टाइल (निर्माण में)</Frame_FlagstoneSlate.label>
+  <Frame_FlagstoneSlate.label>स्लेट स्टोन टाइल्स (निर्माण में)</Frame_FlagstoneSlate.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_FlagstoneSlate.description>भूभाग का निर्माण प्रगति पर है।</Frame_FlagstoneSlate.description>
+  <Frame_FlagstoneSlate.description>टेरेन निर्माण प्रगति पर है।</Frame_FlagstoneSlate.description>
   
   <!-- EN: televisión de pantalla plana (en construcción) -->
-  <Frame_FlatscreenTelevision.label>फ्लैट स्क्रीन टीवी</Frame_FlatscreenTelevision.label>
+  <Frame_FlatscreenTelevision.label>फ्लैट स्क्रीन टेलीविजन (निर्माणधीन)</Frame_FlatscreenTelevision.label>
   <!-- EN: Un televisor de pantalla plana de alta tecnología con una imagen nítida y un color intenso. Capta transmisiones de satélites antiguos y tarjetas de datos ubícuas. -->
-  <Frame_FlatscreenTelevision.description>एक उच्च तकनीक वाला फ्लैट-स्क्रीन टेलीविजन जिसमें स्पष्ट छवि और तीव्र रंग हैं। यह पुराने उपग्रह प्रसारण और सर्वव्यापी डेटा कार्ड प्राप्त करता है।</Frame_FlatscreenTelevision.description>
+  <Frame_FlatscreenTelevision.description>एक उच्च तकनीक वाला फ्लैट स्क्रीन टेलीविजन जिसमें स्पष्ट छवि और गहरा रंग है। यह पुराने उपग्रहों के प्रसारण और सर्वव्यापी डेटा कार्ड को पकड़ता है।</Frame_FlatscreenTelevision.description>
   
   <!-- EN: forja de leña (en construcción) -->
-  <Frame_FueledSmithy.label>लकड़ी का काम</Frame_FueledSmithy.label>
+  <Frame_FueledSmithy.label>ईंधन भट्टी (निर्माणधीन)</Frame_FueledSmithy.label>
   <!-- EN: Una estación alimentada por quema de madera para forjar armas y herramientas no mecánicas. -->
-  <Frame_FueledSmithy.description>लकड़ी से चलने वाला एक स्टेशन, जो गैर-यांत्रिक हथियारों और उपकरणों को बनाने के लिए है।</Frame_FueledSmithy.description>
+  <Frame_FueledSmithy.description>गैर-यांत्रिक हथियारों और उपकरणों को बनाने के लिए लकड़ी जलाने से संचालित होने वाला एक स्टेशन।</Frame_FueledSmithy.description>
   
   <!-- EN: cocina de leña (en construcción) -->
-  <Frame_FueledStove.label>लकड़ी का चूल्हा (निर्माण में)</Frame_FueledStove.label>
+  <Frame_FueledStove.label>लकड़ी की रसोई (निर्माणधीन)</Frame_FueledStove.label>
   <!-- EN: Un horno y unas parrilas, alimentados por madera, para preparar alimentos. -->
-  <Frame_FueledStove.description>लकड़ी से चलने वाला ओवन और ग्रिल, भोजन तैयार करने के लिए।</Frame_FueledStove.description>
+  <Frame_FueledStove.description>भोजन तैयार करने के लिए लकड़ी से चलने वाला एक ओवन और कुछ ग्रिल।</Frame_FueledStove.description>
   
   <!-- EN: tablero de juego de Ur (en construcción) -->
   <Frame_GameOfUrBoard.label>उर गेम बोर्ड (निर्माण में)</Frame_GameOfUrBoard.label>
   <!-- EN: Fechado en el año 2500 a.C., este emocionante aunque exasperante juego de mesa puede ser jugado por una o dos personas. Permite entrenar la habilidad intelectual. -->
-  <Frame_GameOfUrBoard.description>2500 ईसा पूर्व में बंद, यह रोमांचक यद्यपि निराशाजनक बोर्ड गेम एक या दो लोगों द्वारा खेला जा सकता है। यह बौद्धिक कौशल को प्रशिक्षित करने की अनुमति देता है।</Frame_GameOfUrBoard.description>
+  <Frame_GameOfUrBoard.description>2500 ईसा पूर्व में निर्मित, यह रोमांचक लेकिन परेशान करने वाला बोर्ड गेम एक या दो लोगों द्वारा खेला जा सकता है। यह बौद्धिक कौशल को प्रशिक्षित करने की अनुमति देता है।</Frame_GameOfUrBoard.description>
   
   <!-- EN: generador geotérmico (en construcción) -->
-  <Frame_GeothermalGenerator.label>भू-तापीय जनरेटर (निर्माण में)</Frame_GeothermalGenerator.label>
+  <Frame_GeothermalGenerator.label>जियोथर्मल जनरेटर (निर्माण में)</Frame_GeothermalGenerator.label>
   <!-- EN: Produce electricidad mediante géiseres de vapor. Debe ser construido sobre un géiser de vápor. -->
-  <Frame_GeothermalGenerator.description>भाप वाले गीजर के माध्यम से बिजली उत्पन्न करें। इसे एक भाप वाले गीजर पर बनाया जाना चाहिए।</Frame_GeothermalGenerator.description>
+  <Frame_GeothermalGenerator.description>भाप के गीजर के माध्यम से बिजली का उत्पादन करें। इसे भाप के गीजर के ऊपर बनाया जाना चाहिए।</Frame_GeothermalGenerator.description>
   
   <!-- EN: baldosa de oro (en construcción) -->
-  <Frame_GoldTile.label>सोने की टाइल</Frame_GoldTile.label>
+  <Frame_GoldTile.label>सोने की टाइल (निर्माण में)</Frame_GoldTile.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_GoldTile.description>भूभाग का निर्माण प्रगति पर है।</Frame_GoldTile.description>
+  <Frame_GoldTile.description>टेरेन निर्माण प्रगति पर है।</Frame_GoldTile.description>
   
   <!-- EN: tumba (en construcción) -->
-  <Frame_Grave.label>टम्बा (निर्माण)</Frame_Grave.label>
+  <Frame_Grave.label>तुम्बा (निर्माण में)</Frame_Grave.label>
   <!-- EN: Un lugar decente para descansar en paz. Los colonos visitarán las tumbas ocupadas para divertirse a través de la meditación. -->
-  <Frame_Grave.description>एक शांत जगह में आराम करने के लिए। उपनिवेशवादी मनोरंजन के लिए ध्यान के माध्यम से अधिग्रहित कब्रों पर जाएँगे।</Frame_Grave.description>
+  <Frame_Grave.description>शांति से आराम करने के लिए एक उचित स्थान। उपनिवेशवादी ध्यान के माध्यम से मनोरंजन के लिए उपयोग की गई कब्रों पर आएंगे।</Frame_Grave.description>
   
   <!-- EN: escáner de profundidad (en construcción) -->
-  <Frame_GroundPenetratingScanner.label>गहराई स्कैनर</Frame_GroundPenetratingScanner.label>
+  <Frame_GroundPenetratingScanner.label>डेप्थ स्कैनर (निर्माण में)</Frame_GroundPenetratingScanner.label>
   <!-- EN: Un radar dirigido a las profundidades de la tierra, equipado con sonar y un sensor de imágenes magnético. Permite detectar (aunque no identificar) vetas minerales escondidas bajo tierra. Requiere muchísima energía. -->
-  <Frame_GroundPenetratingScanner.description>भूमि की गहराई में लक्षित एक रडार, सोनार और एक चुंबकीय इमेजिंग सेंसर से लैस। यह भूमिगत छिपी खनिज नसों का पता लगाने की अनुमति देता है (हालांकि उनकी पहचान नहीं करता है)। इसके लिए बहुत अधिक ऊर्जा की आवश्यकता होती है।</Frame_GroundPenetratingScanner.description>
+  <Frame_GroundPenetratingScanner.description>एक रडार जो पृथ्वी की गहराइयों की ओर निर्देशित है, सोनार और एक चुंबकीय इमेज सेंसर से सुसज्जित है। यह जमीन के नीचे छिपी खनिज शिराओं का पता लगाने (हालांकि पहचान नहीं) की अनुमति देता है। इसके लिए बहुत अधिक ऊर्जा की आवश्यकता होती है।</Frame_GroundPenetratingScanner.description>
   
   <!-- EN: mesa de sastrería (en construcción) -->
-  <Frame_HandTailoringBench.label>सिलाई मेज़ (निर्माण में)</Frame_HandTailoringBench.label>
+  <Frame_HandTailoringBench.label>सिलाई मेज (निर्माण में)</Frame_HandTailoringBench.label>
   <!-- EN: Una mesa de trabajo para confeccionar ropa a mano. Trabaja al 50% de la velocidad que la mesa eléctrica. -->
-  <Frame_HandTailoringBench.description>कपड़े हाथ से बनाने के लिए एक कार्य मेज़। यह विद्युत मेज़ की गति का 50% पर काम करता है।</Frame_HandTailoringBench.description>
+  <Frame_HandTailoringBench.description>हाथ से कपड़े बनाने के लिए एक कार्य मेज। यह इलेक्ट्रिक मेज की तुलना में 50% गति से काम करती है।</Frame_HandTailoringBench.description>
   
   <!-- EN: calefactor (en construcción) -->
-  <Frame_Heater.label>हीटर (निर्माण)</Frame_Heater.label>
+  <Frame_Heater.label>हीटर</Frame_Heater.label>
   <!-- EN: Un dispositivo que convierte la electricidad en calor. Puede apagarse o encenderse automáticamente cuando se alcance la temperatura deseada. -->
-  <Frame_Heater.description>एक उपकरण जो बिजली को गर्मी में परिवर्तित करता है। यह वांछित तापमान तक पहुंचने पर स्वचालित रूप से बंद या चालू हो सकता है।</Frame_Heater.description>
+  <Frame_Heater.description>एक उपकरण जो बिजली को गर्मी में बदलता है। वांछित तापमान प्राप्त होने पर इसे स्वचालित रूप से बंद या चालू किया जा सकता है।</Frame_Heater.description>
   
   <!-- EN: mesa de investigación avanzada (en construcción) -->
-  <Frame_HiTechResearchBench.label>उन्नत अनुसंधान मेज़ (निर्माण में)</Frame_HiTechResearchBench.label>
+  <Frame_HiTechResearchBench.label>उन्नत अनुसंधान मेज (निर्माण में)</Frame_HiTechResearchBench.label>
   <!-- EN: Una mesa de trabajo de alta tecnología con ordenadores y equipo de medición electrónico. Permite una investigación más rápida, y desbloquea proyectos de investigación avanzados. -->
-  <Frame_HiTechResearchBench.description>एक उच्च तकनीक कार्य मेज जिसमें कंप्यूटर और इलेक्ट्रॉनिक मापन उपकरण हैं। यह तेज़ी से अनुसंधान करने की अनुमति देता है, और उन्नत अनुसंधान परियोजनाओं को अनलॉक करता है।</Frame_HiTechResearchBench.description>
+  <Frame_HiTechResearchBench.description>कंप्यूटरों और इलेक्ट्रॉनिक मापन उपकरणों के साथ एक उच्च-तकनीकी कार्यमेज। यह अधिक तेज़ अनुसंधान की अनुमति देता है, और उन्नत अनुसंधान परियोजनाओं को अनलॉक करता है।</Frame_HiTechResearchBench.description>
   
   <!-- EN: vara de tiro al aro (en construcción) -->
-  <Frame_HoopstoneRing.label>गोली मारो क्षेत्र (निर्माण)</Frame_HoopstoneRing.label>
+  <Frame_HoopstoneRing.label>बास्केटबॉल शूटिंग वॉर (निर्माण में)</Frame_HoopstoneRing.label>
   <!-- EN: Un simple y antiguo juego consistente en unas pocas piedras y gran anillo en el suelo. Los jugadores lanzan las piedras desde una distancia e intentan que caigan dentro del aro. Es relajante, y permite entrenar la habilidad de disparo. -->
-  <Frame_HoopstoneRing.description>एक साधारण और प्राचीन खेल जिसमें कुछ पत्थर और ज़मीन पर एक बड़ा घेरा होता है। खिलाड़ी दूरी से पत्थर फेंकते हैं और उन्हें घेरे के अंदर गिराने का प्रयास करते हैं। यह आरामदायक है, और शूटिंग कौशल का अभ्यास करने की अनुमति देता है।</Frame_HoopstoneRing.description>
+  <Frame_HoopstoneRing.description>एक सरल और प्राचीन खेल जिसमें ज़मीन पर कुछ पत्थर और एक बड़ा घेरा होता है। खिलाड़ी एक निश्चित दूरी से पत्थरों को फेंकते हैं और उन्हें घेरे के भीतर गिराने का प्रयास करते हैं। यह तनावमुक्त करने वाला है, और शूटिंग कौशल का अभ्यास करने की अनुमति देता है।</Frame_HoopstoneRing.description>
   
   <!-- EN: tolva (en construcción) -->
-  <Frame_Hopper.label>ढलाई</Frame_Hopper.label>
+  <Frame_Hopper.label>टॉल्वा (निर्माणधीन)</Frame_Hopper.label>
   <!-- EN: Contiene las materias primas listas para su uso en máquinas como los dispensadores de pasta nutritiva. -->
-  <Frame_Hopper.description>इसमें पोषक पेस्ट डिस्पेंसर जैसे मशीनों में उपयोग के लिए तैयार कच्चा माल होता है।</Frame_Hopper.description>
+  <Frame_Hopper.description>इसमें न्यूट्रिएंट पेस्ट डिस्पेंसर जैसी मशीनों में उपयोग के लिए तैयार कच्चा माल शामिल है।</Frame_Hopper.description>
   
   <!-- EN: vara para herraduras (en construcción) -->
-  <Frame_HorseshoesPin.label>लोहारख़ाना</Frame_HorseshoesPin.label>
+  <Frame_HorseshoesPin.label>नाली के लिए सांचा (निर्माण में)</Frame_HorseshoesPin.label>
   <!-- EN: Un simple juego antiguo consistente en unas herraduras y un palo largo clavado en el suelo. Los jugadores lanzan las herraduras desde lejos e intentan que aterricen en el palo. Es relajante, y permite entrenar la habilidad de disparo. -->
-  <Frame_HorseshoesPin.description>एक साधारण प्राचीन खेल जिसमें लोहे के नाल और जमीन में गड़ा हुआ एक लंबा खंभा शामिल है। खिलाड़ी दूर से नाल फेंकते हैं और उन्हें खंभे पर उतारने का प्रयास करते हैं। यह आरामदायक है, और शूटिंग कौशल का अभ्यास करने की अनुमति देता है।</Frame_HorseshoesPin.description>
+  <Frame_HorseshoesPin.description>एक साधारण पुराना खेल जिसमें कुछ नाल और जमीन में गड़ा हुआ एक लंबा डंडा होता है। खिलाड़ी दूर से नाल फेंकते हैं और उन्हें डंडे पर गिराने का प्रयास करते हैं। यह आरामदायक है, और शूटिंग कौशल का अभ्यास करने की अनुमति देता है।</Frame_HorseshoesPin.description>
   
   <!-- EN: cama hospitalaria (en construcción) -->
-  <Frame_HospitalBed.label>अस्पताल बिस्तर (निर्माण)</Frame_HospitalBed.label>
+  <Frame_HospitalBed.label>अस्पताल का बिस्तर (निर्माण में)</Frame_HospitalBed.label>
   <!-- EN: Una cama designada específicamente para su uso en hospitales. Se ajusta al paciente y dispone de equipamiento adecuado, mejorando las posibilidades de un tratamiento médico exitoso. -->
-  <Frame_HospitalBed.description>अस्पतालों में उपयोग के लिए विशेष रूप से डिज़ाइन किया गया एक बिस्तर। यह रोगी के अनुरूप समायोजित होता है और उचित उपकरण प्रदान करता है, जिससे सफल चिकित्सा उपचार की संभावनाएँ बेहतर होती हैं।</Frame_HospitalBed.description>
+  <Frame_HospitalBed.description>एक बिस्तर जिसे विशेष रूप से अस्पतालों में उपयोग के लिए निर्धारित किया गया है। यह रोगी के अनुकूल होता है और इसमें उपयुक्त उपकरण उपलब्ध होते हैं, जिससे सफल चिकित्सा उपचार की संभावनाएँ बढ़ जाती हैं।</Frame_HospitalBed.description>
   
   <!-- EN: contenedor hidropónico (en construcción) -->
-  <Frame_HydroponicsBasin.label>हाइड्रो कंटेनर (निर्माण)</Frame_HydroponicsBasin.label>
+  <Frame_HydroponicsBasin.label>हाइड्रोपोनिक कंटेनर (निर्माणधीन)</Frame_HydroponicsBasin.label>
   <!-- EN: Un baño de nutrientes artificiales para el crecimiento vegetal. El bombeo de nutrientes debe funcionar continuamente; las plantas morirán si se corta la energía. -->
-  <Frame_HydroponicsBasin.description>पौधों की वृद्धि के लिए कृत्रिम पोषक तत्वों का स्नान। पोषक तत्वों के पंप को लगातार काम करना चाहिए; यदि बिजली बंद हो जाती है तो पौधे मर जाएंगे।</Frame_HydroponicsBasin.description>
+  <Frame_HydroponicsBasin.description>पौधों की वृद्धि के लिए एक कृत्रिम पोषक तत्व स्नान। पोषक तत्वों की पंपिंग निरंतर कार्य करनी चाहिए; यदि बिजली कट जाती है तो पौधे मर जाएंगे।</Frame_HydroponicsBasin.description>
   
   <!-- EN: escáner de minerales de largo alcance (en construcción) -->
-  <Frame_LongRangeMineralScanner.label>दूरस्थ खनिज स्कैनर</Frame_LongRangeMineralScanner.label>
+  <Frame_LongRangeMineralScanner.label>लॉन्ग-रेंज मिनरल स्कैनर (निर्माण में)</Frame_LongRangeMineralScanner.label>
   <!-- EN: Puede ser utilizado por los investigadores para detectar un tipo específico de mineral en todo el planeta. El tiempo requerido para encontrar el recurso es algo aleatorio, y depende de la habilidad del investigador. -->
-  <Frame_LongRangeMineralScanner.description>इसका उपयोग शोधकर्ताओं द्वारा ग्रह भर में एक विशिष्ट प्रकार के खनिज का पता लगाने के लिए किया जा सकता है। संसाधन को खोजने में लगने वाला समय कुछ हद तक यादृच्छिक होता है, और यह शोधकर्ता के कौशल पर निर्भर करता है।</Frame_LongRangeMineralScanner.description>
+  <Frame_LongRangeMineralScanner.description>इसका उपयोग शोधकर्ताओं द्वारा पूरे ग्रह पर एक विशिष्ट प्रकार के खनिज का पता लगाने के लिए किया जा सकता है। संसाधन खोजने के लिए आवश्यक समय कुछ हद तक यादृच्छिक होता है, और यह शोधकर्ता के कौशल पर निर्भर करता है।</Frame_LongRangeMineralScanner.description>
   
   <!-- EN: altar matrimonial (en construcción) -->
-  <Frame_MarriageSpot.label>विवाह वेदी (निर्माणधीन)</Frame_MarriageSpot.label>
+  <Frame_MarriageSpot.label>वैवाहिक वेदी (निर्माण में)</Frame_MarriageSpot.label>
   <!-- EN: Designa un lugar donde las ceremonias de matrimonio se llevarán a cabo. El público observará desde todos lados. -->
-  <Frame_MarriageSpot.description>विवाह समारोहों के लिए एक स्थान निर्दिष्ट करें। दर्शक हर तरफ से देखेंगे।</Frame_MarriageSpot.description>
+  <Frame_MarriageSpot.description>एक ऐसी जगह का डिज़ाइन तैयार करें जहाँ विवाह समारोह आयोजित किए जाएंगे। दर्शक हर तरफ से देखेंगे।</Frame_MarriageSpot.description>
   
   <!-- EN: baldosa metálicas (en construcción) -->
-  <Frame_MetalTile.label>धातु टाइलें (निर्माण)</Frame_MetalTile.label>
+  <Frame_MetalTile.label>धातु की टाइलें (निर्माण में)</Frame_MetalTile.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_MetalTile.description>भूभाग का निर्माण प्रगति पर है।</Frame_MetalTile.description>
+  <Frame_MetalTile.description>टेरेन निर्माण प्रगति पर है।</Frame_MetalTile.description>
   
   <!-- EN: bomba de humedad (en construcción) -->
-  <Frame_MoisturePump.label>गीला बम</Frame_MoisturePump.label>
+  <Frame_MoisturePump.label>नमी पंप (निर्माण में)</Frame_MoisturePump.label>
   <!-- EN: Suprime muy lentamente la humedad del terreno cercano, convirtiendo ciénagas y aguas poco profundas en suelo seco, y la arena blanda en arena normal. No afecta a aguas profundas. -->
-  <Frame_MoisturePump.description>धीरे-धीरे आस-पास की ज़मीन की नमी कम करता है, जिससे दलदल और उथले पानी सूखी ज़मीन में बदल जाते हैं, और नरम रेत सामान्य रेत में बदल जाती है। गहरे पानी पर कोई प्रभाव नहीं पड़ता।</Frame_MoisturePump.description>
+  <Frame_MoisturePump.description>यह पास की जमीन की नमी को बहुत धीरे-धीरे कम करता है, जिससे दलदल और उथला पानी सूखी मिट्टी में, और नरम रेत सामान्य रेत में बदल जाती है। यह गहरे पानी को प्रभावित नहीं करता है।</Frame_MoisturePump.description>
   
   <!-- EN: multi-analizador (en construcción) -->
-  <Frame_MultiAnalyzer.label>मल्टी-विश्लेषक (निर्माण में)</Frame_MultiAnalyzer.label>
+  <Frame_MultiAnalyzer.label>मल्टी-एनालाइज़र (निर्माण में)</Frame_MultiAnalyzer.label>
   <!-- EN: Aumenta la velocidad de la investigación al colocacarse al lado de una mesa de la investigación, y desbloquea nuevos proyectos de investigación. Cada mesa de investigación solo puede beneficiarse de un multi-analizador. -->
-  <Frame_MultiAnalyzer.description>अनुसंधान तालिका के बगल में रखने पर अनुसंधान की गति बढ़ जाती है, और नए अनुसंधान परियोजनाओं को अनलॉक करता है। प्रत्येक अनुसंधान तालिका केवल एक मल्टी-विश्लेषक से लाभान्वित हो सकती है।</Frame_MultiAnalyzer.description>
+  <Frame_MultiAnalyzer.description>एक रिसर्च टेबल के बगल में रखे जाने पर अनुसंधान की गति बढ़ाता है, और नए अनुसंधान प्रोजेक्ट्स को अनलॉक करता है। प्रत्येक रिसर्च टेबल केवल एक मल्टी-एनालाइज़र से लाभान्वित हो सकती है।</Frame_MultiAnalyzer.description>
   
   <!-- EN: dispensador de pasta nutritiva (en construcción) -->
-  <Frame_NutrientPasteDispenser.label>पोषक पेस्ट वितरक (निर्माण में)</Frame_NutrientPasteDispenser.label>
+  <Frame_NutrientPasteDispenser.label>पोषक पेस्ट डिस्पेंसर (निर्माण में)</Frame_NutrientPasteDispenser.label>
   <!-- EN: Una máquina que sintetiza una pasta nutritiva potable a partir de materias primas orgánicas en tolvas adyacentes. Consume menos ingredientes y tiempo que cualquier otro método de producción de comidas, pero a nadie le gusta comer pasta nutritiva. Acepta comida cruda, pero no materia vegetal como el heno. -->
-  <Frame_NutrientPasteDispenser.description>यह एक मशीन है जो आस-पास के हॉपर में मौजूद जैविक कच्चे माल से पीने योग्य पौष्टिक पेस्ट का संश्लेषण करती है। यह किसी भी अन्य भोजन उत्पादन विधि की तुलना में कम सामग्री और समय का उपयोग करता है, लेकिन किसी को भी पौष्टिक पेस्ट खाना पसंद नहीं है। यह कच्चा भोजन स्वीकार करता है, लेकिन घास जैसे वनस्पति पदार्थ नहीं।</Frame_NutrientPasteDispenser.description>
+  <Frame_NutrientPasteDispenser.description>एक मशीन जो आसन्न हॉपरों में मौजूद जैविक कच्चे माल से पीने योग्य पोषक पेस्ट का संश्लेषण करती है। यह भोजन उत्पादन के किसी भी अन्य तरीके की तुलना में कम सामग्री और समय लेती है, लेकिन किसी को भी पोषक पेस्ट खाना पसंद नहीं है। यह कच्चे भोजन को स्वीकार करती है, लेकिन घास जैसे वनस्पति पदार्थ को नहीं।</Frame_NutrientPasteDispenser.description>
   
   <!-- EN: baliza de comercio orbital (en construcción) -->
-  <Frame_OrbitalTradeBeacon.label>कक्षीय व्यापार बीकन (निर्माण)</Frame_OrbitalTradeBeacon.label>
+  <Frame_OrbitalTradeBeacon.label>ऑर्बिटल ट्रेड बीकन (निर्माण में)</Frame_OrbitalTradeBeacon.label>
   <!-- EN: Necesaria para el comercio orbital. Solo puedes vender bienes que estan cerca de una baliza de comercio orbital. Puede situarse en interiores. -->
-  <Frame_OrbitalTradeBeacon.description>कक्षा व्यापार के लिए आवश्यक है। आप केवल उन वस्तुओं को बेच सकते हैं जो कक्षा व्यापार बीकन के पास हैं। इसे घर के अंदर रखा जा सकता है।</Frame_OrbitalTradeBeacon.description>
+  <Frame_OrbitalTradeBeacon.description>ऑर्बिटल व्यापार के लिए आवश्यक। आप केवल वही वस्तुएं बेच सकते हैं जो ऑर्बिटल ट्रेड बीकन के पास स्थित हों। इसे अंदर रखा जा सकता है।</Frame_OrbitalTradeBeacon.description>
   
   <!-- EN: punto de fiestas (en construcción) -->
-  <Frame_PartySpot.label>पार्टी स्थल (निर्माणधीन)</Frame_PartySpot.label>
+  <Frame_PartySpot.label>पार्टी पॉइंट (निर्माणधीन)</Frame_PartySpot.label>
   <!-- EN: Designa un lugar alrededor del cual se celebrarán las fiestas. -->
-  <Frame_PartySpot.description>त्योहार मनाने के लिए एक जगह निर्दिष्ट करें।</Frame_PartySpot.description>
+  <Frame_PartySpot.description>एक ऐसा स्थान निर्धारित करें जिसके चारों ओर उत्सव मनाए जाएंगे।</Frame_PartySpot.description>
   
   <!-- EN: refrigerador pasivo (en construcción) -->
-  <Frame_PassiveCooler.label>निष्क्रिय प्रशीतक (निर्माण में)</Frame_PassiveCooler.label>
+  <Frame_PassiveCooler.label>पैसिव रेफ्रिजरेटर (निर्माण में)</Frame_PassiveCooler.label>
   <!-- EN: Un refrigerador tradicional sin uso de energía, que funciona por evaporación de agua. Debe reabastecerse con madera regularmente. No es lo bastante eficiente para refrigerar los alimentos. -->
-  <Frame_PassiveCooler.description>पानी के वाष्पीकरण से चलने वाला एक पारंपरिक, ऊर्जा-मुक्त रेफ्रिजरेटर। इसे नियमित रूप से लकड़ी से पुनः भरा जाना चाहिए। यह भोजन को ठंडा करने के लिए पर्याप्त कुशल नहीं है।</Frame_PassiveCooler.description>
+  <Frame_PassiveCooler.description>बिना ऊर्जा के उपयोग वाला एक पारंपरिक रेफ्रिजरेटर, जो पानी के वाष्पीकरण से काम करता है। इसे नियमित रूप से लकड़ी से फिर से भरना चाहिए। यह भोजन को ठंडा करने के लिए पर्याप्त कुशल नहीं है।</Frame_PassiveCooler.description>
   
   <!-- EN: baldosa de cemento (en construcción) -->
   <Frame_PavedTile.label>सीमेंट टाइल</Frame_PavedTile.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_PavedTile.description>भूभाग का निर्माण प्रगति पर है।</Frame_PavedTile.description>
+  <Frame_PavedTile.description>टेरेन निर्माण प्रगति पर है।</Frame_PavedTile.description>
   
   <!-- EN: maceta (en construcción) -->
-  <Frame_PlantPot.label>बर्तन (निर्माण)</Frame_PlantPot.label>
+  <Frame_PlantPot.label>गमला (निर्माण में)</Frame_PlantPot.label>
   <!-- EN: Planta flores decorativas aquí para mejorar el humor de los colonos que se encuentren cerca. -->
-  <Frame_PlantPot.description>कॉलोनियों के पास मौजूद लोगों के मनोबल को बेहतर बनाने के लिए यहां सजावटी फूल लगाएं।</Frame_PlantPot.description>
+  <Frame_PlantPot.description>पास के कॉलोनिस्टों का मूड सुधारने के लिए यहाँ सजावटी फूल उगाएं।</Frame_PlantPot.description>
   
   <!-- EN: lanzadera de cápsulas (en construcción) -->
-  <Frame_PodLauncher.label>कैप्सूल लांचर (निर्माण में)</Frame_PodLauncher.label>
+  <Frame_PodLauncher.label>कैप्सूल लॉन्चर (निर्माणधीन)</Frame_PodLauncher.label>
   <!-- EN: Un puerto para el abastecimiento y despegue de una cápsula de transporte. Las lanzaderas pueden lanzar las cápsulas como un grupo, pero para ello deben ser construidas adyacentes entre sí. -->
-  <Frame_PodLauncher.description>परिवहन कैप्सूल की आपूर्ति और प्रक्षेपण के लिए एक बंदरगाह। शटल कैप्सूल को एक समूह के रूप में लॉन्च कर सकते हैं, लेकिन इसके लिए उन्हें एक-दूसरे के बगल में बनाया जाना चाहिए।</Frame_PodLauncher.description>
+  <Frame_PodLauncher.description>एक परिवहन कैप्सूल की आपूर्ति और उड़ान भरने के लिए एक बंदरगाह। शटल कैप्सूल को एक समूह के रूप में लॉन्च कर सकते हैं, लेकिन इसके लिए उन्हें एक दूसरे के बगल में बनाया जाना चाहिए।</Frame_PodLauncher.description>
   
   <!-- EN: mesa de póker (en construcción) -->
-  <Frame_PokerTable.label>पोकर टेबल (निर्माण)</Frame_PokerTable.label>
+  <Frame_PokerTable.label>पोकर टेबल (निर्माण में)</Frame_PokerTable.label>
   <!-- EN: Una mesa diseñada para juegos de cartas como el póker. Una gran manera de probar tus habilidades estratégicas y algo de suerte. -->
-  <Frame_PokerTable.description>कार्ड गेम जैसे पोकर खेलने के लिए डिज़ाइन की गई एक मेज़। अपनी रणनीतिक कौशल और भाग्य का परीक्षण करने का एक शानदार तरीका।</Frame_PokerTable.description>
+  <Frame_PokerTable.description>पोकर जैसे कार्ड गेम के लिए डिज़ाइन की गई एक मेज। अपने रणनीतिक कौशल और कुछ भाग्य को परखने का एक शानदार तरीका।</Frame_PokerTable.description>
   
   <!-- EN: conducto eléctrico (en construcción) -->
-  <Frame_PowerConduit.label>विद्युत चालक</Frame_PowerConduit.label>
+  <Frame_PowerConduit.label>इलेक्ट्रिक कंडक्ट (निर्माण में)</Frame_PowerConduit.label>
   <!-- EN: Un conjunto de cables eléctricos que llevan energía. Se puede colocar debajo de paredes y otros edificios. -->
-  <Frame_PowerConduit.description>बिजली के तारों का एक समूह जो ऊर्जा ले जाते हैं। इसे दीवारों और अन्य इमारतों के नीचे रखा जा सकता है।</Frame_PowerConduit.description>
+  <Frame_PowerConduit.description>बिजली ले जाने वाले इलेक्ट्रिक केबलों का एक समूह। इसे दीवारों और अन्य इमारतों के नीचे रखा जा सकता है।</Frame_PowerConduit.description>
   
   <!-- EN: interruptor (en construcción) -->
-  <Frame_PowerSwitch.label>विघ्नक</Frame_PowerSwitch.label>
+  <Frame_PowerSwitch.label>इंटरप्टर (निर्माण में)</Frame_PowerSwitch.label>
   <!-- EN: Permite encender o apagar la electricidad. -->
-  <Frame_PowerSwitch.description>बिजली को चालू या बंद करने की अनुमति देता है।</Frame_PowerSwitch.description>
+  <Frame_PowerSwitch.description>यह बिजली को चालू या बंद करने की अनुमति देता है।</Frame_PowerSwitch.description>
   
   <!-- EN: cama real (en construcción) -->
-  <Frame_RoyalBed.label>वास्तविक बिस्तर (निर्माण)</Frame_RoyalBed.label>
+  <Frame_RoyalBed.label>बेड (निर्माणधीन)</Frame_RoyalBed.label>
   <!-- EN: Una lujosa cama con acabados de oro, digna de la nobleza. Muy cómoda y hermosa, es una obra de arte en sí misma. Espacio para dos. -->
-  <Frame_RoyalBed.description>एक शानदार बिस्तर जिसमें सोने की फिनिश है, जो कुलीनता के योग्य है। बहुत आरामदायक और सुंदर, यह स्वयं में एक कलाकृति है। दो लोगों के लिए जगह।</Frame_RoyalBed.description>
+  <Frame_RoyalBed.description>सोने की फिनिश के साथ एक शानदार बिस्तर, जो कुलीनता के योग्य है। बहुत आरामदायक और सुंदर, यह अपने आप में कला का एक नमूना है। दो लोगों के लिए जगह।</Frame_RoyalBed.description>
   
   <!-- EN: sacos de arena (en construcción) -->
-  <Frame_Sandbags.label>रेत की बोरियाँ</Frame_Sandbags.label>
+  <Frame_Sandbags.label>रेत की थैलियाँ (निर्माण में)</Frame_Sandbags.label>
   <!-- EN: Sacos de tierra o arena, apilados para usarse como cobertura. Los sacos de arena son feos, pero proporcionan mejor cobertura que otros objetos más bajos. -->
-  <Frame_Sandbags.description>मिट्टी या रेत से भरे बोरे, जिन्हें आवरण के रूप में उपयोग करने के लिए ढेर किया जाता है। रेत के बोरे बदसूरत होते हैं, लेकिन अन्य कम वस्तुओं की तुलना में बेहतर आवरण प्रदान करते हैं।</Frame_Sandbags.description>
+  <Frame_Sandbags.description>मिट्टी या रेत की थैलियां, जिन्हें कवर के रूप में उपयोग करने के लिए एक के ऊपर एक रखा गया है। रेत की थैलियां देखने में भद्दी होती हैं, लेकिन वे अन्य कम ऊंचाई वाली वस्तुओं की तुलना में बेहतर कवर प्रदान करती हैं।</Frame_Sandbags.description>
   
   <!-- EN: sarcófago (en construcción) -->
-  <Frame_Sarcophagus.label>शवपेटी (निर्माण)</Frame_Sarcophagus.label>
+  <Frame_Sarcophagus.label>निर्माणधीन सार्कोफैगस</Frame_Sarcophagus.label>
   <!-- EN: Un lugar de descanso final bellamente decorado para los muertos honrados dignos de ello. -->
-  <Frame_Sarcophagus.description>सम्मानित मृतकों के लिए खूबसूरती से सजाया गया अंतिम विश्राम स्थल।</Frame_Sarcophagus.description>
+  <Frame_Sarcophagus.description>मृतकों के लिए एक सुंदर रूप से सजाया गया अंतिम विश्राम स्थल, जो इसके योग्य सम्मानित मृतकों के लिए है।</Frame_Sarcophagus.description>
   
   <!-- EN: estantería (en construcción) -->
-  <Frame_Shelf.label>अलमारी (निर्माण में)</Frame_Shelf.label>
+  <Frame_Shelf.label>बनाई जा रही शेल्फ</Frame_Shelf.label>
   <!-- EN: Una estantería que puede contener tres veces más objetos que el suelo vacío. Los objetos almacenados en su interior nunca se deteriorarán y no afectarán a la belleza del entorno.\n\nDado que el espacio en los estantes es limitado, no pueden contener fragmentos, edificios, plantas y cadáveres grandes. -->
-  <Frame_Shelf.description>यह एक शेल्फ है जो खाली फर्श की तुलना में तीन गुना अधिक वस्तुएँ रख सकता है। इसके अंदर रखी वस्तुएँ कभी खराब नहीं होंगी और आसपास के वातावरण की सुंदरता को प्रभावित नहीं करेंगी।\n\nशेल्फ में जगह सीमित होने के कारण, यह टुकड़े, इमारतें, पौधे और बड़े शव नहीं रख सकता।</Frame_Shelf.description>
+  <Frame_Shelf.description>एक शेल्फ जो खाली जमीन की तुलना में तीन गुना अधिक वस्तुओं को रख सकता है। इसके भीतर संग्रहीत वस्तुएं कभी खराब नहीं होंगी और परिवेश की सुंदरता को प्रभावित नहीं करेंगी।\n\nचूंकि शेल्फ में जगह सीमित है, इसलिए इनमें टुकड़े, इमारतें, पौधे और बड़े शव नहीं रखे जा सकते।</Frame_Shelf.description>
   
   <!-- EN: viga estructural de nave (en construcción) -->
-  <Frame_Ship_Beam.label>जहाज़ संरचनात्मक बीम (निर्माण में)</Frame_Ship_Beam.label>
+  <Frame_Ship_Beam.label>जहाज की संरचनात्मक बीम (निर्माण में)</Frame_Ship_Beam.label>
   <!-- EN: Una viga estructural alrededor de la cual se puede contruir una nave espacial. Incluye todos los conductos y díodos de tránsito necesarios para comunicación, energía y transporte de materiales. -->
-  <Frame_Ship_Beam.description>एक संरचनात्मक बीम जिसके चारों ओर एक अंतरिक्ष यान का निर्माण किया जा सकता है। इसमें संचार, ऊर्जा और सामग्री परिवहन के लिए सभी आवश्यक पारगमन नलिकाएं और डायोड शामिल हैं।</Frame_Ship_Beam.description>
+  <Frame_Ship_Beam.description>एक संरचनात्मक बीम जिसके चारों ओर एक अंतरिक्ष यान बनाया जा सकता है। इसमें संचार, ऊर्जा और सामग्री के परिवहन के लिए आवश्यक सभी डक्ट्स और ट्रांजिट डायोड शामिल हैं।</Frame_Ship_Beam.description>
   
   <!-- EN: ordenador central de nave (en construcción) -->
-  <Frame_Ship_ComputerCore.label>जहाज़ केंद्रीय कंप्यूटर (निर्माण में)</Frame_Ship_ComputerCore.label>
+  <Frame_Ship_ComputerCore.label>शिप का मुख्य कंप्यूटर (निर्माण में)</Frame_Ship_ComputerCore.label>
   <!-- EN: El núcleo de un ordenador capaz de albergar una IA de inteligencia sobrehumana que podrá guiar a la nave por el espacio estelar durante décadas, a pesar de cualquier dificultad. -->
-  <Frame_Ship_ComputerCore.description>एक कंप्यूटर का कोर जो एक अतिमानवीय बुद्धिमत्ता वाले एआई को होस्ट करने में सक्षम है, जो दशकों तक अंतरिक्ष में जहाज का मार्गदर्शन कर सकता है, किसी भी कठिनाई के बावजूद।</Frame_Ship_ComputerCore.description>
+  <Frame_Ship_ComputerCore.description>एक कंप्यूटर का कोर जो एक अतिमानवीय बुद्धि वाली एआई को समाहित करने में सक्षम है, जो किसी भी कठिनाई के बावजूद दशकों तक अंतरिक्ष में जहाज का मार्गदर्शन कर सकेगी।</Frame_Ship_ComputerCore.description>
   
   <!-- EN: sarcófago de criptosueño de nave (en construcción) -->
-  <Frame_Ship_CryptosleepCasket.label>क्रिप्टोस्लीप सारकोफ़ेज निर्माण</Frame_Ship_CryptosleepCasket.label>
+  <Frame_Ship_CryptosleepCasket.label>स्पेस क्रायोसलीप सार्कोफैगस (निर्माण में)</Frame_Ship_CryptosleepCasket.label>
   <!-- EN: Un sarcófago de criptosueño reforzado contra los peligros del espacio. Capaz de mantener a una persona en criptosueño durante siglos y capaz de sobrevivir una reentrada atmosférica. -->
-  <Frame_Ship_CryptosleepCasket.description>एक क्रिप्टोस्लीप ताबूत जो अंतरिक्ष के खतरों से सुरक्षित है। यह किसी व्यक्ति को सदियों तक क्रिप्टोस्लीप में रखने और वायुमंडलीय पुन: प्रवेश से बचने में सक्षम है।</Frame_Ship_CryptosleepCasket.description>
+  <Frame_Ship_CryptosleepCasket.description>अंतरिक्ष के खतरों से सुरक्षित एक सुदृढ़ क्रिप्टो-स्लीप सार्कोफैगस। किसी व्यक्ति को सदियों तक क्रिप्टो-स्लीप में रखने और वायुमंडलीय पुन: प्रवेश में जीवित रहने में सक्षम।</Frame_Ship_CryptosleepCasket.description>
   
   <!-- EN: motor de nave (en construcción) -->
-  <Frame_Ship_Engine.label>जहाज इंजन</Frame_Ship_Engine.label>
+  <Frame_Ship_Engine.label>शिप मोटर (निर्माण में)</Frame_Ship_Engine.label>
   <!-- EN: Un motor de propulsión Johnson-Tanaka sin reacción capaz de poner a una nave en órbita y en vastas trayectorias insterestelares. -->
-  <Frame_Ship_Engine.description>जॉनसन-तनाका ड्राइव बिना प्रतिक्रिया वाला एक प्रणोदन इंजन है जो एक जहाज को कक्षा में और विशाल अंतरतारकीय प्रक्षेपवक्रों पर रख सकता है।</Frame_Ship_Engine.description>
+  <Frame_Ship_Engine.description>एक बिना प्रतिक्रिया वाला जॉनसन-तानाका प्रोपल्शन इंजन जो एक जहाज को कक्षा में और विशाल अंतरतारकीय पथों पर ले जाने में सक्षम है।</Frame_Ship_Engine.description>
   
   <!-- EN: reactor de nave (en construcción) -->
-  <Frame_Ship_Reactor.label>जहाज रिएक्टर (निर्माण)</Frame_Ship_Reactor.label>
+  <Frame_Ship_Reactor.label>शिप रिएक्टर (निर्माण में)</Frame_Ship_Reactor.label>
   <!-- EN: Abastece una nave durante su viaje entre las estrellas. El despegue requiere un largo proceso de encendido que probablemente atraerá a saqueadores. -->
-  <Frame_Ship_Reactor.description>अंतरतारकीय यात्रा के दौरान एक जहाज को ईंधन भरता है। उड़ान के लिए एक लंबी प्रज्वलन प्रक्रिया की आवश्यकता होती है जो संभवतः लुटेरों को आकर्षित करेगी।</Frame_Ship_Reactor.description>
+  <Frame_Ship_Reactor.description>यह तारों के बीच की यात्रा के दौरान एक जहाज को ईंधन प्रदान करता है। टेकऑफ़ के लिए इग्निशन की एक लंबी प्रक्रिया की आवश्यकता होती है जो संभवतः लुटेरों को आकर्षित करेगी।</Frame_Ship_Reactor.description>
   
   <!-- EN: módulo de sensores (en construcción) -->
-  <Frame_Ship_SensorCluster.label>सेंसर मॉड्यूल</Frame_Ship_SensorCluster.label>
+  <Frame_Ship_SensorCluster.label>सेंसर मॉड्यूल (निर्माण में)</Frame_Ship_SensorCluster.label>
   <!-- EN: Un módulo de sensor multi-funcional. Puede escanear a través del vacío comunicaciones, amenazas, interferencias y servir a otros propósitos. -->
-  <Frame_Ship_SensorCluster.description>एक बहु-कार्यात्मक सेंसर मॉड्यूल। यह निर्वात में संचार, खतरों, हस्तक्षेपों को स्कैन कर सकता है और अन्य उद्देश्यों को पूरा कर सकता है।</Frame_Ship_SensorCluster.description>
+  <Frame_Ship_SensorCluster.description>एक बहु-कार्यात्मक सेंसर मॉड्यूल। यह शून्य के माध्यम से संचार, खतरों, हस्तक्षेप को स्कैन कर सकता है और अन्य उद्देश्यों की पूर्ति कर सकता है।</Frame_Ship_SensorCluster.description>
   
   <!-- EN: baldosa de plata (en construcción) -->
-  <Frame_SilverTile.label>चाँदी की टाइलें</Frame_SilverTile.label>
+  <Frame_SilverTile.label>चांदी की टाइल (निर्माण में)</Frame_SilverTile.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_SilverTile.description>भूभाग का निर्माण प्रगति पर है।</Frame_SilverTile.description>
+  <Frame_SilverTile.description>टेरेन निर्माण प्रगति पर है।</Frame_SilverTile.description>
   
   <!-- EN: mesa de investigación básica (en construcción) -->
-  <Frame_SimpleResearchBench.label>बुनियादी अनुसंधान मेज़ (निर्माण में)</Frame_SimpleResearchBench.label>
+  <Frame_SimpleResearchBench.label>बुनियादी अनुसंधान मेज (निर्माण में)</Frame_SimpleResearchBench.label>
   <!-- EN: Una mesa de trabajo con utensilios para escribir y dispositivos de medición simples. Los investigadores trabajan aquí para descubrir cosas nuevas. -->
-  <Frame_SimpleResearchBench.description>एक कार्य मेज जिस पर लेखन सामग्री और सरल मापने के उपकरण हैं। शोधकर्ता यहाँ नई चीज़ें खोजने के लिए काम करते हैं।</Frame_SimpleResearchBench.description>
+  <Frame_SimpleResearchBench.description>लिखने के उपकरणों और सरल मापन यंत्रों वाली एक कार्य मेज। शोधकर्ता यहाँ नई चीजों की खोज करने के लिए काम करते हैं।</Frame_SimpleResearchBench.description>
   
   <!-- EN: lugar para dormir (en construcción) -->
-  <Frame_SleepingSpot.label>सोने की जगह (निर्माण)</Frame_SleepingSpot.label>
+  <Frame_SleepingSpot.label>सोने की जगह (निर्माणधीन)</Frame_SleepingSpot.label>
   <!-- EN: Designa un lugar en el suelo donde la gente dormirá. No es cómodo. -->
-  <Frame_SleepingSpot.description>ज़मीन पर एक जगह निर्दिष्ट करें जहाँ लोग सोएंगे। यह आरामदायक नहीं है।</Frame_SleepingSpot.description>
+  <Frame_SleepingSpot.description>ज़मीन पर एक ऐसी जगह निर्धारित करें जहाँ लोग सोएंगे। यह आरामदायक नहीं है।</Frame_SleepingSpot.description>
   
   <!-- EN: panel solar (en construcción) -->
-  <Frame_SolarGenerator.label>सोलर पैनल (निर्माण)</Frame_SolarGenerator.label>
+  <Frame_SolarGenerator.label>सोलर पैनल (निर्माण में)</Frame_SolarGenerator.label>
   <!-- EN: Produce electricidad mediante luz solar. No funciona en la oscuridad o bajo luz artificial. -->
-  <Frame_SolarGenerator.description>धूप से बिजली उत्पन्न करता है। अंधेरे में या कृत्रिम प्रकाश में काम नहीं करता।</Frame_SolarGenerator.description>
+  <Frame_SolarGenerator.description>सौर प्रकाश के माध्यम से बिजली का उत्पादन करें। यह अंधेरे में या कृत्रिम प्रकाश के नीचे काम नहीं करता है।</Frame_SolarGenerator.description>
   
   <!-- EN: lámpara de pie (en construcción) -->
-  <Frame_StandingLamp.label>फ़्लोर लैंप निर्माण</Frame_StandingLamp.label>
+  <Frame_StandingLamp.label>फ्लोर लैंप (निर्माण में)</Frame_StandingLamp.label>
   <!-- EN: Una lámpara de pie que ilumina un área. La gente necesita luz para caminar y trabajar a mayor velocidad. -->
-  <Frame_StandingLamp.description>एक फर्श लैंप जो एक क्षेत्र को रोशन करता है। लोगों को चलने और तेज़ी से काम करने के लिए प्रकाश की आवश्यकता होती है।</Frame_StandingLamp.description>
+  <Frame_StandingLamp.description>एक फ्लोर लैंप जो एक क्षेत्र को रोशन करता है। लोगों को अधिक गति से चलने और काम करने के लिए प्रकाश की आवश्यकता होती है।</Frame_StandingLamp.description>
   
   <!-- EN: baldosa estéril (en construcción) -->
-  <Frame_SterileTile.label>बाँझ टाइल</Frame_SterileTile.label>
+  <Frame_SterileTile.label>बाँझ टाइल (निर्माण में)</Frame_SterileTile.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_SterileTile.description>भूभाग का निर्माण प्रगति पर है।</Frame_SterileTile.description>
+  <Frame_SterileTile.description>भूभाग निर्माण प्रगति पर है।</Frame_SterileTile.description>
   
   <!-- EN: taburete (en construcción) -->
-  <Frame_Stool.label>स्टूल (निर्माण)</Frame_Stool.label>
+  <Frame_Stool.label>स्टूल (निर्माण में)</Frame_Stool.label>
   <!-- EN: Una sencilla plataforma para sentarse. No es muy cómoda, pero es mejor que nada. Puede usarse junto a mesas, estaciones de trabajo y demás. -->
-  <Frame_Stool.description>यह बैठने के लिए एक साधारण मंच है। यह बहुत आरामदायक नहीं है, लेकिन कुछ न होने से बेहतर है। इसका उपयोग मेजों, कार्यस्थलों और अन्य चीज़ों के साथ किया जा सकता है।</Frame_Stool.description>
+  <Frame_Stool.description>बैठने के लिए एक साधारण प्लेटफॉर्म। यह बहुत आरामदायक नहीं है, लेकिन कुछ न होने से बेहतर है। इसका उपयोग मेजों, वर्कस्टेशन और अन्य चीजों के साथ किया जा सकता है।</Frame_Stool.description>
   
   <!-- EN: lámpara solar (en construcción) -->
-  <Frame_SunLamp.label>सौर दीपक (निर्माण)</Frame_SunLamp.label>
+  <Frame_SunLamp.label>सोलर लैंप (निर्माण में)</Frame_SunLamp.label>
   <!-- EN: Una lámpara industrial que ilumina brillantamente un área lo suficiente como para que crezcan plantas, pero consume muchísima energía. Se apaga automáticamente por la noche. -->
-  <Frame_SunLamp.description>एक औद्योगिक युग का लैंप जो एक क्षेत्र को पौधों के बढ़ने के लिए पर्याप्त रूप से उज्ज्वल रूप से रोशन करता है, लेकिन बहुत अधिक ऊर्जा की खपत करता है। यह रात में स्वचालित रूप से बंद हो जाता है।</Frame_SunLamp.description>
+  <Frame_SunLamp.description>एक औद्योगिक लैंप जो एक क्षेत्र को पौधों की वृद्धि के लिए पर्याप्त रूप से उज्ज्वल रूप से रोशन करता है, लेकिन बहुत अधिक ऊर्जा की खपत करता है। यह रात में अपने आप बंद हो जाता है।</Frame_SunLamp.description>
   
   <!-- EN: mesa (1x2) (en construcción) -->
-  <Frame_Table1x2c.label>टेबल (1x2)</Frame_Table1x2c.label>
+  <Frame_Table1x2c.label>मेसा (1x2) (निर्माण में)</Frame_Table1x2c.label>
   <!-- EN: Las personas comen junto a las mesas cuando se colocan sillas frente a ellas. -->
-  <Frame_Table1x2c.description>लोग कुर्सियाँ सामने रखने पर मेजों के पास खाते हैं।</Frame_Table1x2c.description>
+  <Frame_Table1x2c.description>जब मेजों के सामने कुर्सियाँ रखी जाती हैं, तो लोग उनके साथ मिलकर भोजन करते हैं।</Frame_Table1x2c.description>
   
   <!-- EN: mesa (2x2) (en construcción) -->
-  <Frame_Table2x2c.label>मेसा (2x2) (निर्माण)</Frame_Table2x2c.label>
+  <Frame_Table2x2c.label>मेसा (2x2) (निर्माण में)</Frame_Table2x2c.label>
   <!-- EN: Las personas comen junto a las mesas cuando se colocan sillas frente a ellas. -->
-  <Frame_Table2x2c.description>लोग कुर्सियाँ सामने रखने पर मेजों के पास खाते हैं।</Frame_Table2x2c.description>
+  <Frame_Table2x2c.description>जब मेजों के सामने कुर्सियाँ रखी जाती हैं, तो लोग उनके साथ मिलकर भोजन करते हैं।</Frame_Table2x2c.description>
   
   <!-- EN: mesa (2x4) (en construcción) -->
-  <Frame_Table2x4c.label>टेबल (निर्माण)</Frame_Table2x4c.label>
+  <Frame_Table2x4c.label>मेसा (2x4) (निर्माण में)</Frame_Table2x4c.label>
   <!-- EN: Las personas comen junto a las mesas cuando se colocan sillas frente a ellas. -->
-  <Frame_Table2x4c.description>लोग मेजों के पास खाते हैं जब उनके सामने कुर्सियाँ रखी जाती हैं।</Frame_Table2x4c.description>
+  <Frame_Table2x4c.description>जब मेजों के सामने कुर्सियाँ रखी जाती हैं, तो लोग उनके साथ मिलकर भोजन करते हैं।</Frame_Table2x4c.description>
   
   <!-- EN: mesa (3x3) (en construcción) -->
-  <Frame_Table3x3c.label>मेसा (3x3) (निर्माण)</Frame_Table3x3c.label>
+  <Frame_Table3x3c.label>मेसा (3x3) (निर्माण में)</Frame_Table3x3c.label>
   <!-- EN: Las personas comen junto a las mesas cuando se colocan sillas frente a ellas. -->
-  <Frame_Table3x3c.description>लोग कुर्सियाँ सामने रखने पर मेजों के पास खाते हैं।</Frame_Table3x3c.description>
+  <Frame_Table3x3c.description>जब मेजों के सामने कुर्सियाँ रखी जाती हैं, तो लोग उनके साथ मिलकर भोजन करते हैं।</Frame_Table3x3c.description>
   
   <!-- EN: mesa de carnicero (en construcción) -->
-  <Frame_TableButcher.label>कसाई मेज (निर्माण)</Frame_TableButcher.label>
+  <Frame_TableButcher.label>कसाई की मेज (निर्माणधीन)</Frame_TableButcher.label>
   <!-- EN: Una mesa pesada para despiezar criaturas muertas en trozos de carne cruda. -->
-  <Frame_TableButcher.description>मृत प्राणियों को कच्चे मांस के टुकड़ों में काटने के लिए एक भारी मेज़।</Frame_TableButcher.description>
+  <Frame_TableButcher.description>मृत जीवों को कच्चे मांस के टुकड़ों में काटने के लिए एक भारी मेज।</Frame_TableButcher.description>
   
   <!-- EN: mesa de maquinado (en construcción) -->
-  <Frame_TableMachining.label>मशीनिंग टेबल</Frame_TableMachining.label>
+  <Frame_TableMachining.label>मशीनिंग टेबल (निर्माण में)</Frame_TableMachining.label>
   <!-- EN: Un banco de trabajo para el ensamblaje de maquinaria como armas de fuego y munición, o desmontar mecanoides desactivados. -->
-  <Frame_TableMachining.description>हथियारों और गोला-बारूद जैसे मशीनरी को इकट्ठा करने या निष्क्रिय किए गए मैकेनोइड्स को अलग करने के लिए एक कार्यक्षेत्र।</Frame_TableMachining.description>
+  <Frame_TableMachining.description>आग्नेयास्त्रों और गोला-बारूद जैसी मशीनरी को असेंबल करने, या निष्क्रिय मेकानॉइड्स को डिसमेंटल करने के लिए एक वर्कबेंच।</Frame_TableMachining.description>
   
   <!-- EN: mesa de escultor (en construcción) -->
-  <Frame_TableSculpting.label>शिल्पकार मेज़ (निर्माण में)</Frame_TableSculpting.label>
+  <Frame_TableSculpting.label>मूर्तिकार की मेज (निर्माणधीन)</Frame_TableSculpting.label>
   <!-- EN: Una mesa de trabajo equipada para la escultura artística. -->
-  <Frame_TableSculpting.description>कलात्मक मूर्तिकला के लिए सुसज्जित एक कार्य मेज़।</Frame_TableSculpting.description>
+  <Frame_TableSculpting.description>कलात्मक मूर्तिकला के लिए सुसज्जित एक कार्यमेज।</Frame_TableSculpting.description>
   
   <!-- EN: mesa de cantería (en construcción) -->
-  <Frame_TableStonecutter.label>पत्थर काटने की मेज</Frame_TableStonecutter.label>
+  <Frame_TableStonecutter.label>मेसनरी टेबल</Frame_TableStonecutter.label>
   <!-- EN: Una mesa de trabajo con sierras y cinceles para labrar trozos de roca hasta obtener bloques de piedra utilizables. -->
-  <Frame_TableStonecutter.description>यह एक कार्यक्षेत्र है जिसमें आरी और छेनी हैं, जिनका उपयोग उपयोगी पत्थर के ब्लॉकों को प्राप्त करने के लिए चट्टान के टुकड़ों को तराशने के लिए किया जाता है।</Frame_TableStonecutter.description>
+  <Frame_TableStonecutter.description>एक कार्यमेज जिसमें आरी और छेनी हैं, जिसका उपयोग चट्टान के टुकड़ों को तराशकर उपयोगी पत्थर के ब्लॉकों में बदलने के लिए किया जाता है।</Frame_TableStonecutter.description>
   
   <!-- EN: baldosa de granito (en construcción) -->
-  <Frame_TileGranite.label>ग्रैनाइट टाइल</Frame_TileGranite.label>
+  <Frame_TileGranite.label>ग्रेनाइट टाइल (निर्माण)</Frame_TileGranite.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_TileGranite.description>भूभाग का निर्माण प्रगति पर है।</Frame_TileGranite.description>
+  <Frame_TileGranite.description>टेरेन निर्माण प्रगति पर है।</Frame_TileGranite.description>
   
   <!-- EN: baldosa de caliza (en construcción) -->
-  <Frame_TileLimestone.label>चूना पत्थर टाइल</Frame_TileLimestone.label>
+  <Frame_TileLimestone.label>चूना पत्थर की टाइल (निर्माण)</Frame_TileLimestone.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_TileLimestone.description>भूभाग का निर्माण प्रगति पर है।</Frame_TileLimestone.description>
+  <Frame_TileLimestone.description>टेरेन निर्माण प्रगति पर है।</Frame_TileLimestone.description>
   
   <!-- EN: baldosa de mármol (en construcción) -->
-  <Frame_TileMarble.label>मार्बल टाइल</Frame_TileMarble.label>
+  <Frame_TileMarble.label>संगमरमर की टाइल</Frame_TileMarble.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_TileMarble.description>भूभाग का निर्माण प्रगति पर है।</Frame_TileMarble.description>
+  <Frame_TileMarble.description>टेरेन निर्माण प्रगति पर है।</Frame_TileMarble.description>
   
   <!-- EN: baldosa de arenisca (en construcción) -->
-  <Frame_TileSandstone.label>रेत पत्थर टाइल</Frame_TileSandstone.label>
+  <Frame_TileSandstone.label>सैंडस्टोन टाइल (निर्माण में)</Frame_TileSandstone.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_TileSandstone.description>भूभाग का निर्माण प्रगति पर है।</Frame_TileSandstone.description>
+  <Frame_TileSandstone.description>टेरेन निर्माण प्रगति पर है।</Frame_TileSandstone.description>
   
   <!-- EN: baldosa de pizarra (en construcción) -->
-  <Frame_TileSlate.label>स्लेट टाइल</Frame_TileSlate.label>
+  <Frame_TileSlate.label>स्लेट टाइल (निर्माण में)</Frame_TileSlate.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_TileSlate.description>भूभाग का निर्माण प्रगति पर है।</Frame_TileSlate.description>
+  <Frame_TileSlate.description>टेरेन निर्माण प्रगति पर है।</Frame_TileSlate.description>
   
   <!-- EN: armario de herramientas (en construcción) -->
-  <Frame_ToolCabinet.label>उपकरण अलमारी (निर्माण में)</Frame_ToolCabinet.label>
+  <Frame_ToolCabinet.label>टूल कैबिनेट (निर्माण में)</Frame_ToolCabinet.label>
   <!-- EN: Aumenta la velocidad de trabajo al colocarse cerca de una mesa de trabajo. Cada mesa de trabajo puede usar hasta dos armarios de herramientas. -->
-  <Frame_ToolCabinet.description>कार्यस्थल के पास खड़े होने पर कार्य गति बढ़ती है। प्रत्येक कार्यस्थल अधिकतम दो उपकरण अलमारियाँ का उपयोग कर सकता है।</Frame_ToolCabinet.description>
+  <Frame_ToolCabinet.description>किसी वर्कटेबल के पास रखे जाने पर कार्य की गति बढ़ाता है। प्रत्येक वर्कटेबल दो टूल कैबिनेट तक का उपयोग कर सकता है।</Frame_ToolCabinet.description>
   
   <!-- EN: antorcha (en construcción) -->
-  <Frame_TorchLamp.label>मशाल (निर्माण)</Frame_TorchLamp.label>
+  <Frame_TorchLamp.label>एंटोरचा (निर्माण में)</Frame_TorchLamp.label>
   <!-- EN: Una antorcha de madera que ilumina un área. La gente necesita luz para moverse y trabajar a velocidad normal. Puede ser automáticamente reabastecida con madera. Genera una pequeña cantidad de calor. -->
-  <Frame_TorchLamp.description>एक लकड़ी का मशाल जो एक क्षेत्र को प्रकाशित करता है। लोगों को सामान्य गति से घूमने और काम करने के लिए प्रकाश की आवश्यकता होती है। इसे स्वचालित रूप से लकड़ी से पुनः भरा जा सकता है। यह थोड़ी मात्रा में गर्मी उत्पन्न करता है।</Frame_TorchLamp.description>
+  <Frame_TorchLamp.description>एक लकड़ी की मशाल जो एक क्षेत्र को रोशन करती है। सामान्य गति से चलने और काम करने के लिए लोगों को रोशनी की आवश्यकता होती है। इसे लकड़ी से स्वचालित रूप से पुन: भरा जा सकता है। यह गर्मी की एक छोटी मात्रा उत्पन्न करती है।</Frame_TorchLamp.description>
   
   <!-- EN: cápsula de transporte (en construcción) -->
-  <Frame_TransportPod.label>परिवहन कैप्सूल (निर्माण)</Frame_TransportPod.label>
+  <Frame_TransportPod.label>परिवहन कैप्सूल (निर्माण में)</Frame_TransportPod.label>
   <!-- EN: Una cápsula de transporte capaz de transportar personas, animales y objetos. Puede ser usada para enviar regalos, transportar gente o suministros, ataques sorpresa o para mandar refuerzos a una batalla. -->
-  <Frame_TransportPod.description>एक परिवहन कैप्सूल जो लोगों, जानवरों और वस्तुओं को ले जा सकता है। इसका उपयोग उपहार भेजने, लोगों या आपूर्ति का परिवहन करने, आश्चर्यजनक हमलों या लड़ाई में सुदृढीकरण भेजने के लिए किया जा सकता है।</Frame_TransportPod.description>
+  <Frame_TransportPod.description>एक परिवहन कैप्सूल जो व्यक्तियों, जानवरों और वस्तुओं को ले जाने में सक्षम है। इसका उपयोग उपहार भेजने, लोगों या आपूर्ति को पहुँचाने, अचानक हमले करने या युद्ध में सुदृढीकरण भेजने के लिए किया जा सकता है।</Frame_TransportPod.description>
   
   <!-- EN: trampa de mina de antimateria (en construcción) -->
   <Frame_TrapIED_AntigrainWarhead.label>एंटीमैटर माइन ट्रैप (निर्माण में)</Frame_TrapIED_AntigrainWarhead.label>
   <!-- EN: Una cabeza alimentada por antimateria conectada a un disparador por proximidad. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
-  <Frame_TrapIED_AntigrainWarhead.description>एक एंटीमैटर द्वारा संचालित सिर जो निकटता ट्रिगर से जुड़ा है। चूंकि यह आसपास की ज़मीन में छिपा हुआ है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। जानवर शांत होने पर इसे महसूस कर सकते हैं।</Frame_TrapIED_AntigrainWarhead.description>
+  <Frame_TrapIED_AntigrainWarhead.description>एंटीमैटर द्वारा संचालित एक हेड जो प्रॉक्सिमिटी ट्रिगर से जुड़ी है। चूंकि यह आसपास के इलाके में छिपी होती है, इसलिए इसे अन्य ट्रैप्स के पास नहीं रखा जा सकता है। जानवर इन्हें शांत होने पर महसूस कर सकते हैं।</Frame_TrapIED_AntigrainWarhead.description>
   
   <!-- EN: trampa de mina PEM (en construcción) -->
-  <Frame_TrapIED_EMP.label>पीईएम माइन ट्रैप (निर्माण में)</Frame_TrapIED_EMP.label>
+  <Frame_TrapIED_EMP.label>PEM माइन ट्रैप (निर्माण में)</Frame_TrapIED_EMP.label>
   <!-- EN: Un par de granadas PEM conectadas a un disparador por proximidad. La explosión puede paralizar mecanoides durante unos cuantos segundos. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
-  <Frame_TrapIED_EMP.description>एक निकटता ट्रिगर से जुड़े कुछ ईएमपी ग्रेनेड। विस्फोट कुछ सेकंड के लिए मेकानॉइड्स को निष्क्रिय कर सकता है। चूंकि यह आसपास की ज़मीन में छिपा हुआ है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। जानवर शांत होने पर इसे महसूस कर सकते हैं।</Frame_TrapIED_EMP.description>
+  <Frame_TrapIED_EMP.description>निकटता ट्रिगर से जुड़े PEM ग्रेनेड का एक जोड़ा। विस्फोट मेकेनोइड्स को कुछ सेकंड के लिए पंगु बना सकता है। चूंकि यह आसपास की जमीन में छिपा होता है, इसलिए इसे अन्य जाल के साथ नहीं रखा जा सकता है। जानवर शांत होने पर इन्हें महसूस कर सकते हैं।</Frame_TrapIED_EMP.description>
   
   <!-- EN: trampa de mina de espuma cortafuegos (en construcción) -->
-  <Frame_TrapIED_Firefoam.label>फोम माइन ट्रैप (निर्माण में)</Frame_TrapIED_Firefoam.label>
+  <Frame_TrapIED_Firefoam.label>फायरप्रूफ फोम माइन ट्रैप (निर्माण में)</Frame_TrapIED_Firefoam.label>
   <!-- EN: Un par de granadas de espuma cortafuegos conectadas a un disparador por proximidad. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
-  <Frame_TrapIED_Firefoam.description>एक जोड़ी अग्निरोधी फोम ग्रेनेड एक निकटता ट्रिगर से जुड़े हैं। चूंकि यह आसपास की ज़मीन में छिपा हुआ है, इसलिए इसे अन्य जाल के साथ नहीं रखा जा सकता है। जानवर शांत होने पर इसे महसूस कर सकते हैं।</Frame_TrapIED_Firefoam.description>
+  <Frame_TrapIED_Firefoam.description>एक प्रॉक्सिमिटी ट्रिगर से जुड़े अग्निशमन फोम ग्रेनेड की एक जोड़ी। चूंकि यह आसपास के इलाके में छिपा हुआ है, इसलिए इसे अन्य ट्रैप्स के साथ नहीं रखा जा सकता है। जानवर इन्हें शांत होने पर महसूस कर सकते हैं।</Frame_TrapIED_Firefoam.description>
   
   <!-- EN: trampa de mina explosiva (en construcción) -->
-  <Frame_TrapIED_HighExplosive.label>विस्फोटक खान जाल (निर्माण में)</Frame_TrapIED_HighExplosive.label>
+  <Frame_TrapIED_HighExplosive.label>विस्फोटक माइन ट्रैप (निर्माण में)</Frame_TrapIED_HighExplosive.label>
   <!-- EN: Un par de granadas altamente explosivas conectadas a un disparador por proximidad. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
-  <Frame_TrapIED_HighExplosive.description>निकटता ट्रिगर से जुड़े अत्यधिक विस्फोटक हथगोले का एक जोड़ा। चूंकि यह आसपास की ज़मीन में छिपा हुआ है, इसलिए इसे अन्य जाल के बगल में नहीं रखा जा सकता है। जानवर शांत होने पर इसे महसूस कर सकते हैं।</Frame_TrapIED_HighExplosive.description>
+  <Frame_TrapIED_HighExplosive.description>एक प्रॉक्सिमिटी ट्रिगर से जुड़े अत्यधिक विस्फोटक ग्रेनेड का एक जोड़ा। चूंकि यह आसपास के इलाके में छिपा होता है, इसलिए इसे अन्य ट्रैप्स के साथ नहीं रखा जा सकता है। जानवर इन्हें शांत होने पर महसूस कर सकते हैं।</Frame_TrapIED_HighExplosive.description>
   
   <!-- EN: trampa de mina incendiaria (en construcción) -->
-  <Frame_TrapIED_Incendiary.label>ज्वलनशील खदान जाल (निर्माण में)</Frame_TrapIED_Incendiary.label>
+  <Frame_TrapIED_Incendiary.label>इन्सेन्डियरी माइन ट्रैप (निर्माण में)</Frame_TrapIED_Incendiary.label>
   <!-- EN: Un par de granadas incendiarias conectadas a un disparador por proximidad. Dado que está oculta en el terreno circundante, no puede colocarse junto a otras trampas. Los animales pueden sentirlas cuando están tranquilos. -->
-  <Frame_TrapIED_Incendiary.description>निकटता ट्रिगर से जुड़े कुछ आग लगाने वाले ग्रेनेड। चूंकि यह आसपास की ज़मीन में छिपा हुआ है, इसलिए इसे अन्य जाल के साथ नहीं रखा जा सकता। जानवर शांत होने पर इसे महसूस कर सकते हैं।</Frame_TrapIED_Incendiary.description>
+  <Frame_TrapIED_Incendiary.description>निकटता द्वारा ट्रिगर से जुड़े एक जोड़े के इन्सेंडीरी ग्रेनेड। चूंकि यह आसपास की जमीन में छिपा हुआ है, इसलिए इसे अन्य ट्रैप्स के साथ नहीं रखा जा सकता है। जानवर इन्हें तब महसूस कर सकते हैं जब वे शांत हों।</Frame_TrapIED_Incendiary.description>
   
   <!-- EN: televisión de tubo (en construcción) -->
   <Frame_TubeTelevision.label>ट्यूब टेलीविजन (निर्माण में)</Frame_TubeTelevision.label>
   <!-- EN: Un tubo de rayos catódicos para mostrar imágenes en movimiento con sonido. Incluso en los mundos limítrofes normalmente hay un viejo transmisor emitiendo algo medianamente interesante. -->
-  <Frame_TubeTelevision.description>एक कैथोड रे ट्यूब जो ध्वनि के साथ चलती हुई छवियों को प्रदर्शित करती है। यहां तक कि सीमांत दुनिया में भी आमतौर पर एक पुराना ट्रांसमीटर कुछ हद तक दिलचस्प चीज़ प्रसारित करता है।</Frame_TubeTelevision.description>
+  <Frame_TubeTelevision.description>Un tubo de rayos catódicos para mostrar imágenes en movimiento con sonido. Incluso en los mundos limítrofes normalmente hay un viejo transmisor emitiendo algo medianamente interesante.</Frame_TubeTelevision.description>
   
   <!-- EN: torreta de cañón automático (en construcción) -->
-  <Frame_Turret_Autocannon.label>स्वचालित तोप बुर्जेटा (निर्माण में)</Frame_Turret_Autocannon.label>
+  <Frame_Turret_Autocannon.label>ऑटोमैटिक कैनन टरेट (निर्माण में)</Frame_Turret_Autocannon.label>
   <!-- EN: Una torreta automática pesada. Sus proyectiles de gran calibre causan grandes daños a distancias considerables, pero su cañón debe ser reemplazado tras cada uso. No puede disparar a objetivos cercanos, y puede explotar cuando está dañada. -->
-  <Frame_Turret_Autocannon.description>एक भारी स्वचालित बुर्ज। इसके बड़े-कैलिबर प्रक्षेप्य महत्वपूर्ण दूरी पर भारी क्षति पहुँचाते हैं, लेकिन प्रत्येक उपयोग के बाद इसकी बंदूक को बदलना होगा। यह निकटवर्ती लक्ष्यों पर गोली नहीं मार सकता है, और क्षतिग्रस्त होने पर यह फट सकता है।</Frame_Turret_Autocannon.description>
+  <Frame_Turret_Autocannon.description>एक भारी ऑटोमैटिक टरेट। इसके बड़े कैलिबर के प्रोजेक्टाइल काफी दूरी पर बड़ा नुकसान पहुँचाते हैं, लेकिन प्रत्येक उपयोग के बाद इसकी तोप को बदलना आवश्यक है। यह पास के लक्ष्यों पर हमला नहीं कर सकती, और क्षतिग्रस्त होने पर इसमें विस्फोट हो सकता है।</Frame_Turret_Autocannon.description>
   
   <!-- EN: minitorreta (en construcción) -->
-  <Frame_Turret_MiniTurret.label>मिनिटोरेटा (निर्माण)</Frame_Turret_MiniTurret.label>
+  <Frame_Turret_MiniTurret.label>मिनीटरेटा (निर्माण में)</Frame_Turret_MiniTurret.label>
   <!-- EN: Una torreta automática portátil. Requiere que el cañón de acero sea reemplazado después de un uso intenso. Puede explotar si resulta dañada. Su estúpida IA no puede controlarse directamente, así que ten cuidado con el fuego amigo. -->
-  <Frame_Turret_MiniTurret.description>एक पोर्टेबल स्वचालित बुर्ज। गहन उपयोग के बाद स्टील बैरल को बदलने की आवश्यकता होती है। यदि क्षतिग्रस्त हो जाए तो यह विस्फोट कर सकता है। इसकी मूर्खतापूर्ण कृत्रिम बुद्धिमत्ता को सीधे नियंत्रित नहीं किया जा सकता है, इसलिए दोस्ताना आग से सावधान रहें।</Frame_Turret_MiniTurret.description>
+  <Frame_Turret_MiniTurret.description>एक पोर्टेबल ऑटोमैटिक टरेट। अत्यधिक उपयोग के बाद इसके स्टील बैरल को बदलने की आवश्यकता होती है। क्षतिग्रस्त होने पर यह फट सकती है। इसका मूर्खतापूर्ण AI सीधे नियंत्रित नहीं किया जा सकता, इसलिए फ्रेंडली फायर से सावधान रहें।</Frame_Turret_MiniTurret.description>
   
   <!-- EN: mortero (en construcción) -->
-  <Frame_Turret_Mortar.label>मोर्टारो (निर्माण)</Frame_Turret_Mortar.label>
+  <Frame_Turret_Mortar.label>मोर्टार (निर्माण में)</Frame_Turret_Mortar.label>
   <!-- EN: Un mortero que lanza todo tipo de proyectiles. Aunque puede causar daños devastadores, la imprecisión inherente del mortero lo hace más útil para atacar grandes fortificaciones que grupos de enemigos en el campo. -->
-  <Frame_Turret_Mortar.description>एक मोर्टार जो हर तरह के प्रक्षेप्य दागता है। हालाँकि यह विनाशकारी क्षति पहुँचा सकता है, मोर्टार की अंतर्निहित अशुद्धि इसे मैदान में दुश्मन समूहों की तुलना में बड़े किलेबंदी पर हमला करने के लिए अधिक उपयोगी बनाती है।</Frame_Turret_Mortar.description>
+  <Frame_Turret_Mortar.description>एक मोर्टार जो हर प्रकार के प्रोजेक्टाइल दागता है। हालाँकि यह विनाशकारी क्षति पहुँचा सकता है, लेकिन मोर्टार की अंतर्निहित अनिश्चितता इसे दुश्मन के समूहों के बजाय बड़ी किलेबंदी पर हमला करने के लिए अधिक उपयोगी बनाती है।</Frame_Turret_Mortar.description>
   
   <!-- EN: cañón de uranio (en construcción) -->
-  <Frame_Turret_Sniper.label>यूरेनियम तोप (निर्माण में)</Frame_Turret_Sniper.label>
+  <Frame_Turret_Sniper.label>यूरेनियम तोप (निर्माणधीन)</Frame_Turret_Sniper.label>
   <!-- EN: Una torreta perfora-blindajes de muy largo alcance. Sus ultra-densos proyectiles de uranio pueden penetrar blindaje pesado a gran distancia, pero requiere la recarga de nuevas balas de uranio después de cada uso. Es más precisa a gran distancia, y no puede disparar a objetivos cercanos. Puede explotar al ser dañada. -->
-  <Frame_Turret_Sniper.description>Una torreta perfora-blindajes de muy largo alcance. Sus ultra-densos proyectiles de uranio pueden penetrar blindaje pesado a gran distancia, pero requiere la recarga de nuevas balas de uranio después de cada uso. Es más precisa a gran distancia, y no puede disparar a objetivos cercanos. Puede explotar al ser dañada.</Frame_Turret_Sniper.description>
+  <Frame_Turret_Sniper.description>एक बहुत लंबी दूरी वाली कवच-भेदक टरेट। इसके अल्ट्रा-सघन यूरेनियम प्रोजेक्टाइल बड़ी दूरी पर भारी कवच को भेद सकते हैं, लेकिन प्रत्येक उपयोग के बाद नए यूरेनियम गोलों की रीलोडिंग की आवश्यकता होती है। यह लंबी दूरी पर अधिक सटीक होती है, और पास के लक्ष्यों पर हमला नहीं कर सकती। क्षतिग्रस्त होने पर यह फट सकती है।</Frame_Turret_Sniper.description>
   
   <!-- EN: conducto de ventilación (en construcción) -->
-  <Frame_Vent.label>वेंटिलेशन कंडक्ट (निर्माण में)</Frame_Vent.label>
+  <Frame_Vent.label>वेंटिलेशन डक्ट (निर्माणधीन)</Frame_Vent.label>
   <!-- EN: Un sencillo respiradero para equilibrar la temperatura entre dos habitaciones sin permitir que la gente pase de una a otra. -->
-  <Frame_Vent.description>एक साधारण वेंटिलेशन शाफ्ट जो दो कमरों के बीच तापमान को संतुलित करता है, बिना लोगों को एक से दूसरे में जाने की अनुमति दिए।</Frame_Vent.description>
+  <Frame_Vent.description>दो कमरों के बीच लोगों को एक से दूसरे में जाने देने के बिना तापमान को संतुलित करने के लिए एक सरल वेंटिलेटर।</Frame_Vent.description>
   
   <!-- EN: monitor de signos vitales (en construcción) -->
-  <Frame_VitalsMonitor.label>महत्वपूर्ण संकेत मॉनिटर</Frame_VitalsMonitor.label>
+  <Frame_VitalsMonitor.label>वाइटल साइन मॉनिटर (निर्माण में)</Frame_VitalsMonitor.label>
   <!-- EN: Mejora la calidad del tratamiento médico, la probabilidad del éxito en cirugías, y la velocidad de inmunización si se sitúa adyacente a una cama hospitalaria. Solo funciona para camas de hospital, no para camas normales. Colocar más de un monitor de signos vitales a la misma cama no tendrá ningún efecto adicional. -->
-  <Frame_VitalsMonitor.description>अस्पताल के बिस्तर के पास रखने पर चिकित्सा उपचार की गुणवत्ता, सर्जरी में सफलता की संभावना और टीकाकरण की गति में सुधार होता है। यह केवल अस्पताल के बिस्तरों के लिए काम करता है, सामान्य बिस्तरों के लिए नहीं। एक ही बिस्तर पर एक से अधिक महत्वपूर्ण संकेत मॉनिटर रखने से कोई अतिरिक्त प्रभाव नहीं पड़ेगा।</Frame_VitalsMonitor.description>
+  <Frame_VitalsMonitor.description>यदि अस्पताल के बिस्तर के बगल में रखा जाए, तो यह चिकित्सा उपचार की गुणवत्ता, सर्जरी में सफलता की संभावना और इम्यूनाइजेशन की गति में सुधार करता है। यह केवल अस्पताल के बिस्तरों के लिए काम करता है, सामान्य बिस्तरों के लिए नहीं। एक ही बिस्तर पर एक से अधिक वाइटल मॉनिटर लगाने से कोई अतिरिक्त प्रभाव नहीं पड़ेगा।</Frame_VitalsMonitor.description>
   
   <!-- EN: muro (en construcción) -->
-  <Frame_Wall.label>निर्माण</Frame_Wall.label>
+  <Frame_Wall.label>दीवार (निर्माण में)</Frame_Wall.label>
   <!-- EN: Un muro infranqueable. Capaz de soportar un techo. -->
-  <Frame_Wall.description>एक अभेद्य दीवार। छत का भार सहन करने में सक्षम।</Frame_Wall.description>
+  <Frame_Wall.description>एक अभेद्य दीवार। छत को संभालने में सक्षम।</Frame_Wall.description>
   
   <!-- EN: generador hidroeléctrico (en construcción) -->
-  <Frame_WatermillGenerator.label>जलविद्युत जनरेटर (निर्माण में)</Frame_WatermillGenerator.label>
+  <Frame_WatermillGenerator.label>पनबिजली जनरेटर (निर्माण में)</Frame_WatermillGenerator.label>
   <!-- EN: Produce electricidad mediante la corriente de un río. Debe colocarse con la rueda en el agua corriente. Si varios generadores hidroeléctricos se colocan demasiado cerca, la turbulencia que generan interferirá y reducirá la generación de energía. -->
-  <Frame_WatermillGenerator.description>नदी की धारा से बिजली उत्पन्न करता है। इसे पानी के बहाव में पहिया के साथ स्थापित किया जाना चाहिए। यदि कई जलविद्युत जनरेटर को बहुत करीब रखा जाता है, तो उनके द्वारा उत्पन्न अशांति हस्तक्षेप करेगी और बिजली उत्पादन को कम कर देगी।</Frame_WatermillGenerator.description>
+  <Frame_WatermillGenerator.description>एक नदी की धारा के माध्यम से बिजली का उत्पादन करता है। इसे पहिये के साथ बहते पानी में रखा जाना चाहिए। यदि कई हाइड्रोइलेक्ट्रिक जनरेटर एक-दूसरे के बहुत करीब रखे जाते हैं, तो उनके द्वारा उत्पन्न विक्षोभ हस्तक्षेप करेगा और ऊर्जा उत्पादन को कम कर देगा।</Frame_WatermillGenerator.description>
   
   <!-- EN: conducto impermeable (en construcción) -->
-  <Frame_WaterproofConduit.label>जलरोधक नाली</Frame_WaterproofConduit.label>
+  <Frame_WaterproofConduit.label>अभेद्य कंडक्टो</Frame_WaterproofConduit.label>
   <!-- EN: Cables eléctricos aislados para conducir electricidad bajo aguas poco profundas. -->
-  <Frame_WaterproofConduit.description>उथले पानी के नीचे बिजली का संचालन करने के लिए पृथक विद्युत केबल।</Frame_WaterproofConduit.description>
+  <Frame_WaterproofConduit.description>कम गहरे पानी के नीचे बिजली प्रवाहित करने के लिए इंसुलेटेड इलेक्ट्रिक केबल।</Frame_WaterproofConduit.description>
   
   <!-- EN: aeroturbina (en construcción) -->
-  <Frame_WindTurbine.label>एरोटर्बाइन (निर्माण)</Frame_WindTurbine.label>
+  <Frame_WindTurbine.label>एरोटर्बाइन (निर्माण में)</Frame_WindTurbine.label>
   <!-- EN: Un generador de electricidad accionado por el viento. Para conseguir un flujo de aire óptimo necesita un gran espacio libre delante y detrás. -->
-  <Frame_WindTurbine.description>पवन से चलने वाला एक बिजली जनरेटर। इष्टतम वायु प्रवाह प्राप्त करने के लिए, इसके सामने और पीछे पर्याप्त खाली जगह की आवश्यकता होती है।</Frame_WindTurbine.description>
+  <Frame_WindTurbine.description>हवा से चलने वाला एक बिजली जनरेटर। इष्टतम वायु प्रवाह प्राप्त करने के लिए इसके आगे और पीछे एक बड़े खाली स्थान की आवश्यकता होती है।</Frame_WindTurbine.description>
   
   <!-- EN: generador a leña (en construcción) -->
   <Frame_WoodFiredGenerator.label>लकड़ी जनरेटर (निर्माण में)</Frame_WoodFiredGenerator.label>
   <!-- EN: Produce energía consumiendo madera. Debe ser reabastecido a mano con madera periódicamente. -->
-  <Frame_WoodFiredGenerator.description>लकड़ी का उपयोग करके ऊर्जा उत्पन्न करता है। इसे समय-समय पर लकड़ी से हाथ से फिर से भरना आवश्यक है।</Frame_WoodFiredGenerator.description>
+  <Frame_WoodFiredGenerator.description>लकड़ी का उपयोग करके ऊर्जा उत्पन्न करता है। इसे समय-समय पर हाथ से लकड़ी के साथ फिर से भरना आवश्यक है।</Frame_WoodFiredGenerator.description>
   
   <!-- EN: suelo de madera (en construcción) -->
-  <Frame_WoodPlankFloor.label>लकड़ी का फर्श</Frame_WoodPlankFloor.label>
+  <Frame_WoodPlankFloor.label>लकड़ी का फर्श (निर्माण में)</Frame_WoodPlankFloor.label>
   <!-- EN: Terrain building in progress. -->
-  <Frame_WoodPlankFloor.description>भूभाग का निर्माण प्रगति पर है।</Frame_WoodPlankFloor.description>
+  <Frame_WoodPlankFloor.description>टेरेन निर्माण प्रगति पर है।</Frame_WoodPlankFloor.description>
   
   <!-- EN: Carne de alpaca -->
-  <Meat_Alpaca.label>अल्पाका मांस</Meat_Alpaca.label>
+  <Meat_Alpaca.label>अल्पाका का मांस</Meat_Alpaca.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Alpaca.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Alpaca.description>
+  <Meat_Alpaca.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Alpaca.description>
   
   <!-- EN: Carne de alfacastor -->
-  <Meat_Alphabeaver.label>अल्फ़ाकास्टर मांस</Meat_Alphabeaver.label>
+  <Meat_Alphabeaver.label>अल्फकास्टर का मांस</Meat_Alphabeaver.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Alphabeaver.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Alphabeaver.description>
+  <Meat_Alphabeaver.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Alphabeaver.description>
   
   <!-- EN: carne de oso -->
   <Meat_Bear_Grizzly.label>भालू का मांस</Meat_Bear_Grizzly.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Bear_Grizzly.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Bear_Grizzly.description>
+  <Meat_Bear_Grizzly.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Bear_Grizzly.description>
   
   <!-- EN: Carne de bumalope -->
-  <Meat_Boomalope.label>बुमालॉप मांस</Meat_Boomalope.label>
+  <Meat_Boomalope.label>ब्युमालोप मांस</Meat_Boomalope.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Boomalope.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Boomalope.description>
+  <Meat_Boomalope.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Boomalope.description>
   
   <!-- EN: Carne de ratabum -->
-  <Meat_Boomrat.label>राताबुम मांस</Meat_Boomrat.label>
+  <Meat_Boomrat.label>रैटबम का मांस</Meat_Boomrat.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Boomrat.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Boomrat.description>
+  <Meat_Boomrat.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Boomrat.description>
   
   <!-- EN: Carne de capibara -->
-  <Meat_Capybara.label>कैपिबारा मांस</Meat_Capybara.label>
+  <Meat_Capybara.label>कैपीबारा का मांस</Meat_Capybara.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Capybara.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Capybara.description>
+  <Meat_Capybara.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Capybara.description>
   
   <!-- EN: Carne de caribú -->
-  <Meat_Caribou.label>कैरिबू मांस</Meat_Caribou.label>
+  <Meat_Caribou.label>कैरिबू का मांस</Meat_Caribou.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Caribou.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Caribou.description>
+  <Meat_Caribou.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Caribou.description>
   
   <!-- EN: carne de pájaro -->
-  <Meat_Cassowary.label>पक्षी मांस</Meat_Cassowary.label>
+  <Meat_Cassowary.label>बर्ड मीट</Meat_Cassowary.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Cassowary.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Cassowary.description>
+  <Meat_Cassowary.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Cassowary.description>
   
   <!-- EN: Carne de gato -->
   <Meat_Cat.label>बिल्ली का मांस</Meat_Cat.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Cat.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Cat.description>
+  <Meat_Cat.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा ही खाया जा सकता है।</Meat_Cat.description>
   
   <!-- EN: Carne de pollo -->
-  <Meat_Chicken.label>चिकन मांस</Meat_Chicken.label>
+  <Meat_Chicken.label>चिकन का मांस</Meat_Chicken.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Chicken.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Chicken.description>
+  <Meat_Chicken.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Chicken.description>
   
   <!-- EN: Carne de chinchilla -->
-  <Meat_Chinchilla.label>चिंचिला मांस</Meat_Chinchilla.label>
+  <Meat_Chinchilla.label>चिंचिला का मांस</Meat_Chinchilla.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Chinchilla.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Chinchilla.description>
+  <Meat_Chinchilla.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Chinchilla.description>
   
   <!-- EN: carne de cobra -->
-  <Meat_Cobra.label>कोबरा मांस</Meat_Cobra.label>
+  <Meat_Cobra.label>कोबरा का मांस</Meat_Cobra.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Cobra.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Cobra.description>
+  <Meat_Cobra.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Cobra.description>
   
   <!-- EN: Carne de puma -->
-  <Meat_Cougar.label>पुमा मांस</Meat_Cougar.label>
+  <Meat_Cougar.label>प्यूमा का मांस</Meat_Cougar.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Cougar.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Cougar.description>
+  <Meat_Cougar.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Cougar.description>
   
   <!-- EN: carne vacuna -->
-  <Meat_Cow.label>बीफ़</Meat_Cow.label>
+  <Meat_Cow.label>बीफ (Beef)</Meat_Cow.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Cow.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Cow.description>
+  <Meat_Cow.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Cow.description>
   
   <!-- EN: carne de venado -->
-  <Meat_Deer.label>हिरण मांस</Meat_Deer.label>
+  <Meat_Deer.label>हिरण का मांस</Meat_Deer.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Deer.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Deer.description>
+  <Meat_Deer.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Deer.description>
   
   <!-- EN: Carne de dromedario -->
-  <Meat_Dromedary.label>ऊँट का मांस</Meat_Dromedary.label>
+  <Meat_Dromedary.label>ड्रोमेडरी मांस</Meat_Dromedary.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Dromedary.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Dromedary.description>
+  <Meat_Dromedary.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Dromedary.description>
   
   <!-- EN: Carne de elefante -->
   <Meat_Elephant.label>हाथी का मांस</Meat_Elephant.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Elephant.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Elephant.description>
+  <Meat_Elephant.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Elephant.description>
   
   <!-- EN: Carne de alce -->
-  <Meat_Elk.label>हिरण का मांस</Meat_Elk.label>
+  <Meat_Elk.label>एल्क का मांस</Meat_Elk.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Elk.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Elk.description>
+  <Meat_Elk.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Elk.description>
   
   <!-- EN: carne de zorro -->
   <Meat_Fox_Fennec.label>लोमड़ी का मांस</Meat_Fox_Fennec.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Fox_Fennec.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Fox_Fennec.description>
+  <Meat_Fox_Fennec.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Fox_Fennec.description>
   
   <!-- EN: Carne de gacela -->
-  <Meat_Gazelle.label>गज़ेल का मांस</Meat_Gazelle.label>
+  <Meat_Gazelle.label>हिरण का मांस</Meat_Gazelle.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Gazelle.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Gazelle.description>
+  <Meat_Gazelle.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Gazelle.description>
   
   <!-- EN: Carne de liebre -->
   <Meat_Hare.label>खरगोश का मांस</Meat_Hare.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Hare.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Hare.description>
+  <Meat_Hare.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Hare.description>
   
   <!-- EN: Carne de humano -->
   <Meat_Human.label>मानव मांस</Meat_Human.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda, aunque a la mayoría de humanos no les guste esa idea. -->
-  <Meat_Human.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा भी खाया जा सकता है, हालाँकि ज़्यादातर इंसानों को यह विचार पसंद नहीं आता।</Meat_Human.description>
+  <Meat_Human.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है, हालाँकि अधिकांश मनुष्यों को यह विचार पसंद नहीं आता।</Meat_Human.description>
   
   <!-- EN: Carne de husky -->
-  <Meat_Husky.label>हस्की मांस</Meat_Husky.label>
+  <Meat_Husky.label>हस्की का मांस</Meat_Husky.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Husky.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Husky.description>
+  <Meat_Husky.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Husky.description>
   
   <!-- EN: Carne de cabra montés -->
-  <Meat_Ibex.label>पहाड़ी बकरी का मांस</Meat_Ibex.label>
+  <Meat_Ibex.label>जंगली बकरी का मांस</Meat_Ibex.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Ibex.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Ibex.description>
+  <Meat_Ibex.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Ibex.description>
   
   <!-- EN: Carne de iguana -->
-  <Meat_Iguana.label>इगुआना मांस</Meat_Iguana.label>
+  <Meat_Iguana.label>इगुआना का मांस</Meat_Iguana.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Iguana.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Iguana.description>
+  <Meat_Iguana.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Iguana.description>
   
   <!-- EN: Carne de labrador -->
-  <Meat_LabradorRetriever.label>लैब्रेडर मांस</Meat_LabradorRetriever.label>
+  <Meat_LabradorRetriever.label>लैब्राडोर का मांस</Meat_LabradorRetriever.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_LabradorRetriever.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_LabradorRetriever.description>
+  <Meat_LabradorRetriever.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_LabradorRetriever.description>
   
   <!-- EN: Carne de lince -->
-  <Meat_Lynx.label>लिंक्स मांस</Meat_Lynx.label>
+  <Meat_Lynx.label>लिंक्स का मांस</Meat_Lynx.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Lynx.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Lynx.description>
+  <Meat_Lynx.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Lynx.description>
   
   <!-- EN: Carne de megaperezoso -->
-  <Meat_Megasloth.label>मेगापेरेज़ोसो मांस</Meat_Megasloth.label>
+  <Meat_Megasloth.label>मेगास्लोथ का मांस</Meat_Megasloth.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Megasloth.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Megasloth.description>
+  <Meat_Megasloth.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Megasloth.description>
   
   <!-- EN: carne de insecto -->
   <Meat_Megaspider.label>कीट मांस</Meat_Megaspider.label>
   <!-- EN: Carne cruda. Si es necesario, puede cocinarse para hacer comida, o incluso consumirse cruda. Extremadamente poco apetecible. -->
-  <Meat_Megaspider.description>कच्चा मांस। यदि आवश्यक हो, तो इसे भोजन बनाने के लिए पकाया जा सकता है, या यहाँ तक कि कच्चा भी खाया जा सकता है। बेहद अनाकर्षक।</Meat_Megaspider.description>
+  <Meat_Megaspider.description>कच्चा मांस। यदि आवश्यक हो, तो भोजन बनाने के लिए इसे पकाया जा सकता है, या यहाँ तक कि कच्चा भी खाया जा सकता है। अत्यंत अरुचिकर।</Meat_Megaspider.description>
   
   <!-- EN: Carne de mono -->
   <Meat_Monkey.label>बंदर का मांस</Meat_Monkey.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Monkey.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Monkey.description>
+  <Meat_Monkey.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा ही खाया जा सकता है।</Meat_Monkey.description>
   
   <!-- EN: Carne de múfalo -->
-  <Meat_Muffalo.label>मफ़ालो मांस</Meat_Muffalo.label>
+  <Meat_Muffalo.label>मफेलो का मांस</Meat_Muffalo.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Muffalo.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Muffalo.description>
+  <Meat_Muffalo.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Muffalo.description>
   
   <!-- EN: Carne de pantera -->
-  <Meat_Panther.label>पेंथरा मांस</Meat_Panther.label>
+  <Meat_Panther.label>पेंथर का मांस</Meat_Panther.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Panther.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Panther.description>
+  <Meat_Panther.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा ही खाया जा सकता है।</Meat_Panther.description>
   
   <!-- EN: carne porcina -->
-  <Meat_Pig.label>सूअर का मांस</Meat_Pig.label>
+  <Meat_Pig.label>सुअर का मांस</Meat_Pig.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Pig.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Pig.description>
+  <Meat_Pig.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Pig.description>
   
   <!-- EN: Carne de mapache -->
-  <Meat_Raccoon.label>मैपोच मांस</Meat_Raccoon.label>
+  <Meat_Raccoon.label>रैकून का मांस</Meat_Raccoon.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Raccoon.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Raccoon.description>
+  <Meat_Raccoon.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Raccoon.description>
   
   <!-- EN: Carne de rata -->
-  <Meat_Rat.label>चूहों का मांस</Meat_Rat.label>
+  <Meat_Rat.label>चूहे का मांस</Meat_Rat.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Rat.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Rat.description>
+  <Meat_Rat.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Rat.description>
   
   <!-- EN: Carne de rinoceronte -->
   <Meat_Rhinoceros.label>गैंडे का मांस</Meat_Rhinoceros.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Rhinoceros.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Rhinoceros.description>
+  <Meat_Rhinoceros.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Rhinoceros.description>
   
   <!-- EN: Carne de ardilla -->
   <Meat_Squirrel.label>गिलहरी का मांस</Meat_Squirrel.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Squirrel.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Squirrel.description>
+  <Meat_Squirrel.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Squirrel.description>
   
   <!-- EN: Carne de trumbo -->
-  <Meat_Thrumbo.label>ट्रम्बो मांस</Meat_Thrumbo.label>
+  <Meat_Thrumbo.label>ट्रम्बो का मांस</Meat_Thrumbo.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Thrumbo.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Thrumbo.description>
+  <Meat_Thrumbo.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा ही खाया जा सकता है।</Meat_Thrumbo.description>
   
   <!-- EN: Carne de tortuga -->
   <Meat_Tortoise.label>कछुए का मांस</Meat_Tortoise.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Tortoise.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Tortoise.description>
+  <Meat_Tortoise.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Tortoise.description>
   
   <!-- EN: Carne de pavo -->
-  <Meat_Turkey.label>टर्की मांस</Meat_Turkey.label>
+  <Meat_Turkey.label>टर्की का मांस</Meat_Turkey.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Turkey.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Turkey.description>
+  <Meat_Turkey.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Turkey.description>
   
   <!-- EN: Carne de wargo -->
-  <Meat_Warg.label>वारगो मांस</Meat_Warg.label>
+  <Meat_Warg.label>वार्गो का मांस</Meat_Warg.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Warg.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Warg.description>
+  <Meat_Warg.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Warg.description>
   
   <!-- EN: carne de lobo -->
   <Meat_Wolf_Timber.label>भेड़िया मांस</Meat_Wolf_Timber.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_Wolf_Timber.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_Wolf_Timber.description>
+  <Meat_Wolf_Timber.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_Wolf_Timber.description>
   
   <!-- EN: Carne de yorkshire -->
   <Meat_YorkshireTerrier.label>यॉर्कशायर मांस</Meat_YorkshireTerrier.label>
   <!-- EN: Carne cruda. Puede cocinarse para hacer comida, o consumirse cruda. -->
-  <Meat_YorkshireTerrier.description>कच्चा मांस। इसे पकाकर भोजन बनाया जा सकता है, या कच्चा भी खाया जा सकता है।</Meat_YorkshireTerrier.description>
+  <Meat_YorkshireTerrier.description>कच्चा मांस। इसे भोजन बनाने के लिए पकाया जा सकता है, या कच्चा खाया जा सकता है।</Meat_YorkshireTerrier.description>
   
 </LanguageData>

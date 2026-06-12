@@ -129,7 +129,7 @@
   <!-- EN: psychically deaf -->
   <PsychicSensitivity.degreeDatas.psychically_deaf.label>मानसिक बहरापन</PsychicSensitivity.degreeDatas.psychically_deaf.label>
   <!-- EN: [PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_deaf.description>{PAWN_gender ? [PAWN_nameDef] का मन बाकी सभी से अलग एक मानसिक आवृत्ति (psychic frequency) पर काम करता है। वह बस मानसिक घटनाओं से प्रभावित नहीं होती है। : [PAWN_nameDef] का दिमाग बाकी सभी से अलग एक मानसिक आवृत्ति (psychic frequency) पर काम करता है। वह बस मानसिक घटनाओं (psychic phenomena) से प्रभावित नहीं होता है।}</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>{PAWN_gender ? [PAWN_nameDef] का मन बाकी सभी से अलग एक मनोवैज्ञानिक आवृत्ति (psychic frequency) पर काम करता है। वह बस मनोवैज्ञानिक घटनाओं से प्रभावित नहीं होती है। : [PAWN_nameDef] का दिमाग बाकी सभी से अलग एक मनोवैज्ञानिक आवृत्ति (psychic frequency) पर काम करता है। वह बस मनोवैज्ञानिक घटनाओं से प्रभावित नहीं होता है।}</PsychicSensitivity.degreeDatas.psychically_deaf.description>
   
   <!-- EN: careful shooter -->
   <ShootingAccuracy.degreeDatas.careful_shooter.label>सटीक निशानेबाज</ShootingAccuracy.degreeDatas.careful_shooter.label>

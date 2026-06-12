@@ -11,7 +11,7 @@
   <ChildSpy47.titleShortFemale>जासूस</ChildSpy47.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a child actor in films and TV shows. [PAWN_possessive] fame put [PAWN_objective] in contact with many different kinds of people, but also tended to get in the way of [PAWN_possessive] education. -->
-  <ChildStar74.description>{PAWN_gender ? [PAWN_nameDef] अपने गृह ग्रह पर फिल्मों और टीवी शो में एक बाल कलाकार के रूप में काफी प्रसिद्ध थी। उसकी प्रसिद्धि ने उसे कई अलग-अलग प्रकार के लोगों के संपर्क में ला दिया, लेकिन इसकी वजह से उसकी शिक्षा में भी बाधा आने लगी। : [PAWN_nameDef] अपने गृहग्रह पर फिल्मों और टीवी शो में एक बाल अभिनेता के रूप में काफी प्रसिद्ध था। उसकी प्रसिद्धि ने उसे कई अलग-अलग प्रकार के लोगों के संपर्क में ला दिया, लेकिन इसकी वजह से उसकी शिक्षा में भी बाधा आने लगी थी।}</ChildStar74.description>
+  <ChildStar74.description>{PAWN_gender ? [PAWN_nameDef] अपनी गृह दुनिया में एक बाल कलाकार के रूप में फिल्मों और टीवी शो में अपनी प्रसिद्धि के लिए जानी जाती थी। उसकी प्रसिद्धि ने उसे कई अलग-अलग प्रकार के लोगों के संपर्क में ला दिया, लेकिन इसने उसकी शिक्षा में अक्सर बाधा डाली। : [PAWN_nameDef] अपने गृह ग्रह पर एक बाल कलाकार के रूप में फिल्मों और टीवी शो में प्रसिद्ध थे। उनकी प्रसिद्धि ने उन्हें कई अलग-अलग प्रकार के लोगों के संपर्क में लाया, लेकिन इसने उनकी शिक्षा में अक्सर बाधा डाली।}</ChildStar74.description>
   <!-- EN: child star -->
   <ChildStar74.title>बाल कलाकार</ChildStar74.title>
   <ChildStar74.titleFemale>बाल कलाकार</ChildStar74.titleFemale>

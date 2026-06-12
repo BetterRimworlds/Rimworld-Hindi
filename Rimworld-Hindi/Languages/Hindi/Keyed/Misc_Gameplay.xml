@@ -3,25 +3,25 @@
 
   <!-- Various -->
   <!-- EN: hit points -->
-  <HitPointsBasic>जीवन अंक</HitPointsBasic>
+  <HitPointsBasic>हिट पॉइंट्स</HitPointsBasic>
   <!-- EN: Work left -->
-  <WorkLeft>कार्य शेष</WorkLeft>
+  <WorkLeft>शेष कार्य</WorkLeft>
   <!-- EN: Contents -->
   <Contents>सामग्री</Contents>
   <!-- EN: Contained resources -->
-  <ContainedResources>संसाधन भंडार</ContainedResources>
+  <ContainedResources>संग्रहित संसाधन</ContainedResources>
   <!-- EN: For prisoner use -->
-  <ForPrisonerUse>कैदी उपयोग</ForPrisonerUse>
+  <ForPrisonerUse>कैदियों के उपयोग हेतु</ForPrisonerUse>
   <!-- EN: In prison cell: For prisoner use -->
-  <InPrisonCell>कैदखाने की कोठरी: कैदी के उपयोग के लिए</InPrisonCell>
+  <InPrisonCell>जेल की कोठरी में: कैदी के उपयोग के लिए</InPrisonCell>
   <!-- EN: For colonist use -->
-  <ForColonistUse>गंभीर नियम:</ForColonistUse>
+  <ForColonistUse>उपनिवेशी के उपयोग हेतु</ForColonistUse>
   <!-- EN: Medical -->
   <MedicalBed>चिकित्सा</MedicalBed>
   <!-- EN: Owner -->
   <Owner>मालिक</Owner>
   <!-- EN: Owners -->
-  <Owners>मालिक</Owners>
+  <Owners>मालिकों</Owners>
   <!-- EN: Assigned colonist -->
   <AssignedColonist>नियुक्त उपनिवेशवादी</AssignedColonist>
   <!-- EN: Uncomfortable room temperature -->
@@ -29,23 +29,23 @@
   <!-- EN: Unsafe room temperature -->
   <BedUnsafeTemperature>असुरक्षित कक्ष तापमान</BedUnsafeTemperature>
   <!-- EN: Died on the {0} -->
-  <DiedOn>{0} पर मृत्यु हो गई।</DiedOn>
+  <DiedOn>{0} पर मृत्यु हो गई</DiedOn>
   <!-- EN: Nobody -->
   <Nobody>कोई नहीं</Nobody>
   <!-- EN: Unowned -->
-  <Unowned>अस्वामित्व</Unowned>
+  <Unowned>अस्वामित्व वाला</Unowned>
   <!-- EN: Dead for {0} -->
-  <DeadTime>मृत {0} के लिए</DeadTime>
+  <DeadTime>{0} के लिए मृत</DeadTime>
   <!-- EN: walk speed {0} -->
   <WalkSpeed>चलने की गति {}</WalkSpeed>
   <!-- EN: fert. -->
-  <FertShort>उर्वरता</FertShort>
+  <FertShort>उर्वरकता</FertShort>
   <!-- EN: dying -->
-  <DyingLower>मृत्यु</DyingLower>
+  <DyingLower>मरणासन्न</DyingLower>
   <!-- EN: Filth on feet: -->
-  <FilthOnFeet>पैर पर गंदगी</FilthOnFeet>
+  <FilthOnFeet>पैरों पर गंदगी:</FilthOnFeet>
   <!-- EN: not enough stored -->
-  <NotEnoughStoredLower>भंडारण अपर्याप्त</NotEnoughStoredLower>
+  <NotEnoughStoredLower>भंडारण में पर्याप्त नहीं है</NotEnoughStoredLower>
   <!-- EN: nothing -->
   <NothingLower>कुछ नहीं</NothingLower>
   <!-- EN: Nothing -->
@@ -55,25 +55,25 @@
   <!-- EN: fresh -->
   <FreshMissingBodyPart>ताज़ा</FreshMissingBodyPart>
   <!-- EN: developed immunity -->
-  <DevelopedImmunityLower>विकसित प्रतिरोधक क्षमता</DevelopedImmunityLower>
+  <DevelopedImmunityLower>विकसित प्रतिरक्षा</DevelopedImmunityLower>
   <!-- EN: Needs tending now -->
-  <NeedsTendingNow>तत्काल ध्यान दें!</NeedsTendingNow>
+  <NeedsTendingNow>अभी उपचार की आवश्यकता है</NeedsTendingNow>
   <!-- EN: Can tend now -->
-  <CanTendNow>देखभाल संभव</CanTendNow>
+  <CanTendNow>अब उपचार कर सकते हैं</CanTendNow>
   <!-- EN: Tending expires in {0} -->
-  <TreatmentExpiresIn>देखभाल {0} में समाप्त होगी।</TreatmentExpiresIn>
+  <TreatmentExpiresIn>देखभाल {0} में समाप्त हो जाएगी</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
-  <NextTendIn>{0} में देखभाल की जा सकती है।</NextTendIn>
+  <NextTendIn>{0} में उपचार किया जा सकता है</NextTendIn>
   <!-- EN: Tend quality -->
-  <TendQuality>देखभाल गुणवत्ता</TendQuality>
+  <TendQuality>देखभाल की गुणवत्ता</TendQuality>
   <!-- EN: Total tend quality -->
-  <DisappearsAtTotalTendQuality>कुल प्रवृत्ति गुणवत्ता</DisappearsAtTotalTendQuality>
+  <DisappearsAtTotalTendQuality>कुल उपचार गुणवत्ता</DisappearsAtTotalTendQuality>
   <!-- EN: no {0} -->
-  <MissingMedicalBillIngredient>कोई नहीं {0}</MissingMedicalBillIngredient>
+  <MissingMedicalBillIngredient>कोई {0} नहीं</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
   <Immunity>प्रतिरक्षा</Immunity>
   <!-- EN: {0} days to recover -->
-  <DaysToRecover>{0} दिन ठीक होने में</DaysToRecover>
+  <DaysToRecover>{0} दिन ठीक होने के लिए</DaysToRecover>
   <!-- EN: Ineffective -->
   <Ineffective>अप्रभावी</Ineffective>
   <!-- EN: illegal -->
@@ -81,7 +81,7 @@
   <!-- EN: detection chance -->
   <DetectionChance>पता लगाने की संभावना</DetectionChance>
   <!-- EN: Race -->
-  <Race>वंश</Race>
+  <Race>प्रजाति</Race>
   <!-- EN: Description -->
   <Description>विवरण</Description>
   <!-- EN: Equipment -->
@@ -89,39 +89,39 @@
   <!-- EN: Apparel -->
   <Apparel>परिधान</Apparel>
   <!-- EN: Inventory -->
-  <Inventory>सूची</Inventory>
+  <Inventory>इन्वेंट्री</Inventory>
   <!-- EN: Information -->
   <ThingInfo>जानकारी</ThingInfo>
   <!-- EN: Drop -->
-  <DropThing>गिरावट</DropThing>
+  <DropThing>गिराएं</DropThing>
   <!-- EN: Temporary faction members will not drop their items. -->
-  <DropThingLodger>अस्थायी गुट सदस्य अपनी वस्तुएँ नहीं छोड़ेंगे।</DropThingLodger>
+  <DropThingLodger>अस्थायी गुट के सदस्य अपनी वस्तुएं नहीं छोड़ेंगे।</DropThingLodger>
   <!-- EN: This person refuses to drop this. -->
-  <DropThingLocked>यह व्यक्ति इसे छोड़ने से इनकार करता है।</DropThingLocked>
+  <DropThingLocked>यह व्यक्ति इसे छोड़ने से इनकार कर रहा है।</DropThingLocked>
   <!-- EN: Rename -->
-  <Rename>नाम बदलें</Rename>
+  <Rename>पुनः नाम दें</Rename>
   <!-- EN: Rename animal -->
-  <RenameAnimal>नाम बदलें</RenameAnimal>
+  <RenameAnimal>जानवर का नाम बदलें</RenameAnimal>
   <!-- EN: Rename colonist -->
-  <RenameColonist>कॉलोनीवासी का नाम बदलें</RenameColonist>
+  <RenameColonist>उपनिवेशी का नाम बदलें</RenameColonist>
   <!-- EN: Renounce title -->
-  <RenounceTitle>त्याग शीर्षक</RenounceTitle>
+  <RenounceTitle>पद त्यागें</RenounceTitle>
   <!-- EN: Execute -->
-  <Execute>क्रियान्वयन</Execute>
+  <Execute>निष्पादित करें</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
-  <ExecuteColonist>दोषी उपनिवेशवादी को निष्पादित करें\n\nयदि आप इसे चालू करते हैं, तो एक वार्डन इस व्यक्ति को निष्पादित करने की कार्यवाही करेगा।</ExecuteColonist>
+  <ExecuteColonist>दोषी उपनिवेशी को मृत्युदंड दें\n\nयदि आप इसे चालू करते हैं, तो एक वार्डन इस व्यक्ति को मृत्युदंड देने की प्रक्रिया शुरू कर देगा।</ExecuteColonist>
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
-  <MessageColonistMarkedForExecution>{0_labelShort} को अब निष्पादन के लिए चिह्नित किया गया है। अगला उपलब्ध वार्डन {0_objective} को निष्पादित करेगा।</MessageColonistMarkedForExecution>
+  <MessageColonistMarkedForExecution>{0_labelShort} को अब मृत्युदंड के लिए चिह्नित कर दिया गया है। अगला उपलब्ध वार्डन {0_objective} को निष्पादित करने जाएगा।</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
-  <TitleOfFaction>{0} का {1}</TitleOfFaction>
+  <TitleOfFaction>{1} का {0}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
-  <RenounceTitleDescription>यह क्रिया {PAWN_nameDef} को उनका {PAWN_possessive} {TITLE} पद खोने के लिए मजबूर करेगी। पद त्यागने के लिए आपको कोई मुआवजा नहीं मिलेगा।\n\nइसके निम्नलिखित प्रभाव होंगे:\n\n{EFFECTS}</RenounceTitleDescription>
+  <RenounceTitleDescription>इस कार्य से {PAWN_nameDef}, {PAWN_possessive} {TITLE} की उपाधि खो देगा। उपाधि का त्याग करने के बदले आपको कोई मुआवज़ा नहीं मिलेगा।\n\nइसके निम्नलिखित प्रभाव होंगे:\n\n{EFFECTS}</RenounceTitleDescription>
   <!-- EN: {PAWN_pronoun} will lose these permissions -->
-  <RenounceTitleWillLoosePermits>वह व्यक्ति इन अनुमतियों को खो देगा।</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLoosePermits>{PAWN_pronoun} इन अनुमतियों को खो देगा</RenounceTitleWillLoosePermits>
   <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
-  <RenounceTitleWillLosePermitPoints>{PAWN_nameDef} को {FACTION_name} के साथ {POINTS} अप्रयुक्त परमिट अंक खोने पड़ेंगे।</RenounceTitleWillLosePermitPoints>
+  <RenounceTitleWillLosePermitPoints>{FACTION_name} के साथ {PAWN_nameDef} अपने {POINTS} बिना उपयोग किए गए परमिट अंक खो देगा।</RenounceTitleWillLosePermitPoints>
   <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
-  <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun} अपने सभी {PAWN_possessive} psylink स्तरों और psycasts को बनाए रखेगा।</RenounceTitleWillKeepPsylinkLevels>
+  <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun} अपने सभी {PAWN_possessive} साइलिंक स्तर और साइकास्ट्स को बनाए रखेगा।</RenounceTitleWillKeepPsylinkLevels>
   <!-- EN: unknown -->
   <UnknownLower>अज्ञात</UnknownLower>
   <!-- EN: On -->
@@ -131,67 +131,67 @@
   <!-- EN: {0} {1} -->
   <SourceToolLabel>{0} {1}</SourceToolLabel>
   <!-- EN: Power -->
-  <PowerSwitch_Power>बिजली</PowerSwitch_Power>
+  <PowerSwitch_Power>शक्ति</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
-  <JoyTolerances>मनोरंजन सहिष्णुताएँ</JoyTolerances>
+  <JoyTolerances>मनोरंजन प्रकार की सहनशीलता</JoyTolerances>
   <!-- EN: Milk fullness -->
-  <MilkFullness>दूध भरापन</MilkFullness>
+  <MilkFullness>दूध की मात्रा</MilkFullness>
   <!-- EN: Wool growth -->
-  <WoolGrowth>ऊन विकास</WoolGrowth>
+  <WoolGrowth>ऊन की वृद्धि</WoolGrowth>
   <!-- EN: Egg progress -->
-  <EggProgress>अंडा प्रगति</EggProgress>
+  <EggProgress>अंडे की प्रगति</EggProgress>
   <!-- EN: Fertilized -->
-  <Fertilized>उर्वरित</Fertilized>
+  <Fertilized>उर्वरक युक्त</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
-  <ProgressStoppedUntilFertilized>प्रगति निषेचित होने तक रुकी हुई।</ProgressStoppedUntilFertilized>
+  <ProgressStoppedUntilFertilized>उर्वरक डालने तक प्रगति रुकी हुई है</ProgressStoppedUntilFertilized>
   <!-- EN: Hatches in -->
-  <HatchesIn>अंडे फूट रहे हैं</HatchesIn>
+  <HatchesIn>हैच में</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
-  <SkillTooLow>ज़रूरत {0} स्तर {2}, पास {1}</SkillTooLow>
+  <SkillTooLow>{0} स्तर के {2} की आवश्यकता है, {1} उपलब्ध है</SkillTooLow>
   <!-- EN: Freezing -->
   <Freezing>जमना</Freezing>
   <!-- EN: Overheating -->
-  <Overheating>अति ताप</Overheating>
+  <Overheating>ओवरहीटिंग</Overheating>
   <!-- EN: Ruined by temperature. -->
   <RuinedByTemperature>तापमान से खराब।</RuinedByTemperature>
   <!-- EN: Missing body parts -->
-  <CorpsePercentMissing>शरीर के अंग छूटे हुए</CorpsePercentMissing>
+  <CorpsePercentMissing>लुप्त शरीर के अंग</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
-  <HiveReproducesIn>पुनरुत्पादन</HiveReproducesIn>
+  <HiveReproducesIn>इसमें प्रजनन होता है</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
-  <DormantHiveNotReproducing>निष्क्रिय</DormantHiveNotReproducing>
+  <DormantHiveNotReproducing>सुप्त: प्रजनन नहीं कर रहा।</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
   <NextSpawnedItemIn>अगला {0} में</NextSpawnedItemIn>
   <!-- EN: Next resource in -->
-  <NextSpawnedResourceIn>अगला संसाधन</NextSpawnedResourceIn>
+  <NextSpawnedResourceIn>अगला संसाधन आने में</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
   <BrokenDown>टूटा हुआ</BrokenDown>
   <!-- EN: (bond) -->
-  <BondBrackets>बंधन</BondBrackets>
+  <BondBrackets>(बंधन)</BondBrackets>
   <!-- EN: Fuel -->
   <Fuel>ईंधन</Fuel>
   <!-- EN: Fuel -->
   <FuelLevelGizmoLabel>ईंधन</FuelLevelGizmoLabel>
   <!-- EN: Set target fuel level to {0} -->
-  <SetTargetFuelLevel>लक्ष्य ईंधन स्तर को {0} पर सेट करें।</SetTargetFuelLevel>
+  <SetTargetFuelLevel>लक्ष्य ईंधन स्तर को {0} पर सेट करें</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>लक्ष्य ईंधन स्तर {0} पर सेट करें\nअधिकतम दूरी: {1} टाइलें</SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>लक्ष्य ईंधन स्तर को {0} पर सेट करें\nअधिकतम दूरी: {1} टाइल्स</SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
   <ConfiguredTargetFuelLevel>लक्ष्य ईंधन स्तर: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
-  <Enemies>दुश्मन</Enemies>
+  <Enemies>शत्रु</Enemies>
   <!-- EN: people -->
   <People>लोग</People>
   <!-- EN: time passed -->
-  <TimePassed>बीता समय</TimePassed>
+  <TimePassed>बीता हुआ समय</TimePassed>
   <!-- EN: current radius -->
   <CurrentRadius>वर्तमान त्रिज्या</CurrentRadius>
   <!-- EN: radius expands in -->
-  <RadiusExpandsIn>त्रिज्या विस्तार</RadiusExpandsIn>
+  <RadiusExpandsIn>त्रिज्या बढ़ेगी में</RadiusExpandsIn>
   <!-- EN: permanent -->
   <Permanent>स्थायी</Permanent>
   <!-- EN: Resting -->
-  <CaravanResting>आराम</CaravanResting>
+  <CaravanResting>विश्राम कर रहा है</CaravanResting>
   <!-- EN: using 1 bedroll -->
   <UsingBedroll>1 बिछौने का उपयोग कर रहा है</UsingBedroll>
   <!-- EN: using {0} bedrolls -->
@@ -199,9 +199,9 @@
   <!-- EN: Est. time to destination: {0} days -->
   <CaravanEstimatedTimeToDestination>गंतव्य तक अनुमानित समय: {0} दिन</CaravanEstimatedTimeToDestination>
   <!-- EN: Route travel time: {0} days -->
-  <CaravanEstimatedDaysToDestination>रास्ते की यात्रा का समय: {0} दिन</CaravanEstimatedDaysToDestination>
+  <CaravanEstimatedDaysToDestination>मार्ग यात्रा का समय: {0} दिन</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
-  <CaravanImmobilizedByMass>स्थिर: अत्यधिक भार।</CaravanImmobilizedByMass>
+  <CaravanImmobilizedByMass>अचल: बहुत अधिक वजन।</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
   <CaravanOutOfFood>भोजन समाप्त।</CaravanOutOfFood>
   <!-- EN: Days of food: {0} -->
@@ -215,7 +215,7 @@
   <!-- EN: {0} {1} -->
   <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
   <!-- EN: 1 animal -->
-  <CaravanAnimal>एक पशु</CaravanAnimal>
+  <CaravanAnimal>1 जानवर</CaravanAnimal>
   <!-- EN: {0} animals -->
   <CaravanAnimalsCount>{0} जानवर</CaravanAnimalsCount>
   <!-- EN: 1 prisoner -->
@@ -223,19 +223,19 @@
   <!-- EN: {0} prisoners -->
   <CaravanPrisonersCount>{0} कैदी</CaravanPrisonersCount>
   <!-- EN: {0} in mental state -->
-  <CaravanPawnsInMentalState>{0} मानसिक अवस्था में</CaravanPawnsInMentalState>
+  <CaravanPawnsInMentalState>{0} मानसिक अवस्था में है</CaravanPawnsInMentalState>
   <!-- EN: {0} downed -->
-  <CaravanPawnsDowned>{0} गिराया गया</CaravanPawnsDowned>
+  <CaravanPawnsDowned>{0} गिरा हुआ</CaravanPawnsDowned>
   <!-- EN: Traveling. -->
-  <CaravanTraveling>यात्रा</CaravanTraveling>
+  <CaravanTraveling>यात्रा कर रहे हैं।</CaravanTraveling>
   <!-- EN: Waiting. -->
-  <CaravanWaiting>प्रतीक्षा</CaravanWaiting>
+  <CaravanWaiting>प्रतीक्षा कर रहे हैं।</CaravanWaiting>
   <!-- EN: Being carried due to illness -->
   <BeingCarriedDueToIllness>बीमारी के कारण ले जाया जा रहा है।</BeingCarriedDueToIllness>
   <!-- EN: Using bedrolls due to illness -->
   <UsingBedrollsDueToIllness>बीमारी के कारण बिछौने का उपयोग कर रहा है</UsingBedrollsDueToIllness>
   <!-- EN: Current tile movement time -->
-  <CurrentTileMovementTime>वर्तमान टाइल गति समय</CurrentTileMovementTime>
+  <CurrentTileMovementTime>वर्तमान टाइल गति का समय</CurrentTileMovementTime>
   <!-- EN: Visibility -->
   <Visibility>दृश्यता</Visibility>
   <!-- EN: Temperature -->
@@ -249,99 +249,99 @@
   <!-- EN: Visiting {0}. -->
   <CaravanVisiting>{0} की यात्रा कर रहे हैं।</CaravanVisiting>
   <!-- EN: Entering {0}. -->
-  <CaravanEntering>{0} में प्रवेश।</CaravanEntering>
+  <CaravanEntering>{0} में प्रवेश कर रहे हैं।</CaravanEntering>
   <!-- EN: Attacking {0}. -->
-  <CaravanAttacking>हमला {0}।</CaravanAttacking>
+  <CaravanAttacking>{0} पर हमला कर रहे हैं।</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
-  <CaravanOfferingGifts>{0} को उपहार भेंट करना।</CaravanOfferingGifts>
+  <CaravanOfferingGifts>{0} को उपहार अर्पित कर रहे हैं।</CaravanOfferingGifts>
   <!-- EN: Trading with {0}. -->
   <CaravanTrading>{0} के साथ व्यापार।</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>एक शव द्वारा पहने जाने के कारण दूषित।</WasWornByCorpse>
   <!-- EN: T -->
-  <WornByCorpseChar>टी</WornByCorpseChar>
+  <WornByCorpseChar>नियमों</WornByCorpseChar>
   <!-- EN: unroofed -->
-  <DeterioratingUnroofed>बिना छत</DeterioratingUnroofed>
+  <DeterioratingUnroofed>बिना छत का</DeterioratingUnroofed>
   <!-- EN: outdoors -->
   <DeterioratingOutdoors>बाहर</DeterioratingOutdoors>
   <!-- EN: raining -->
-  <DeterioratingRaining>बारिश</DeterioratingRaining> 
+  <DeterioratingRaining>बारिश हो रही है</DeterioratingRaining> 
   <!-- EN: protected -->
   <Protected>सुरक्षित</Protected>
   <!-- EN: Deteriorating -->
-  <DeterioratingBecauseOf>क्षतिग्रस्त</DeterioratingBecauseOf>
+  <DeterioratingBecauseOf>खराब हो रहा है</DeterioratingBecauseOf>
   <!-- EN: Will deteriorate in {0}. -->
   <DeteriorateInDuration>{0} में खराब हो जाएगा।</DeteriorateInDuration>
   <!-- EN: Map -->
   <Map>मानचित्र</Map>
   <!-- EN: {0} until enemies arrive -->
-  <CaravanDetectedRaidCountdown>{0} जब तक दुश्मन नहीं आ जाते</CaravanDetectedRaidCountdown>
+  <CaravanDetectedRaidCountdown>{0} जब तक दुश्मन न आ जाएं</CaravanDetectedRaidCountdown>
   <!-- EN: Enemies have learned of your location. They will arrive in {0}. -->
-  <CaravanDetectedRaidCountdownTip>दुश्मनों को आपके ठिकाने का पता चल गया है। वे {0} में पहुंचेंगे।</CaravanDetectedRaidCountdownTip>
+  <CaravanDetectedRaidCountdownTip>दुश्मनों को आपके स्थान का पता चल गया है। वे {0} में पहुँच जाएंगे।</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>कमरा</Room>
   <!-- EN: Beauty here -->
   <BeautyHere>सौंदर्य</BeautyHere>
   <!-- EN: no power -->
-  <NoPower>बिना ऊर्जा</NoPower>
+  <NoPower>बिजली नहीं है</NoPower>
   <!-- EN: not in {0} -->
   <NotInRoomRole>{0} में नहीं</NotInRoomRole>
   <!-- EN: Work speed -->
   <WorkSpeedPenalty>कार्य गति</WorkSpeedPenalty>
   <!-- EN: Disabled -->
-  <DisabledCommand>निष्क्रिय</DisabledCommand>
+  <DisabledCommand>अक्षम</DisabledCommand>
   <!-- EN: Deactivated -->
   <Deactivated>निष्क्रियित</Deactivated>
   <!-- EN: Ready for launch. -->
-  <ReadyForLaunch>प्रक्षेपण के लिए तैयार।</ReadyForLaunch>
+  <ReadyForLaunch>लॉन्च के लिए तैयार।</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
-  <NotReadyForLaunch>प्रक्षेपण के लिए तैयार नहीं।</NotReadyForLaunch>
+  <NotReadyForLaunch>लॉन्च के लिए तैयार नहीं है</NotReadyForLaunch>
   <!-- EN: no fueling port -->
-  <NotAllInGroupConnectedToFuelingPort>ईंधन पोर्ट नहीं</NotAllInGroupConnectedToFuelingPort>
+  <NotAllInGroupConnectedToFuelingPort>ईंधन भरने का पोर्ट नहीं है</NotAllInGroupConnectedToFuelingPort>
   <!-- EN: no fuel -->
-  <NotAllLaunchablesInGroupHaveAnyFuel>ईंधन नहीं</NotAllLaunchablesInGroupHaveAnyFuel>
+  <NotAllLaunchablesInGroupHaveAnyFuel>ईंधन नहीं है</NotAllLaunchablesInGroupHaveAnyFuel>
   <!-- EN: loading in progress -->
-  <LaunchableInGroupHasSomethingLeftToLoad>लोडिंग जारी है</LaunchableInGroupHasSomethingLeftToLoad>
+  <LaunchableInGroupHasSomethingLeftToLoad>लोडिंग प्रगति पर है</LaunchableInGroupHasSomethingLeftToLoad>
   <!-- EN: Beyond maximum range -->
-  <TransportPodDestinationBeyondMaximumRange>अधिकतम सीमा से परे</TransportPodDestinationBeyondMaximumRange>
+  <TransportPodDestinationBeyondMaximumRange>अधिकतम सीमा से बाहर</TransportPodDestinationBeyondMaximumRange>
   <!-- EN: No path to {LAYER_label} -->
-  <TransportPodDestinationNoPath>{LAYER_label} तक कोई रास्ता नहीं।</TransportPodDestinationNoPath>
+  <TransportPodDestinationNoPath>{LAYER_label} तक जाने का कोई रास्ता नहीं है</TransportPodDestinationNoPath>
   <!-- EN: Not enough fuel -->
-  <TransportPodNotEnoughFuel>ईंधन अपर्याप्त।</TransportPodNotEnoughFuel>
+  <TransportPodNotEnoughFuel>पर्याप्त ईंधन नहीं है</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
-  <SettlementTrader>{0} का {1}</SettlementTrader>
+  <SettlementTrader>{1} का {0}</SettlementTrader>
   <!-- EN: Surgery success chance multiplier from room -->
-  <RoomSurgerySuccessChanceFactor>सर्जरी सफलता संभावना गुणक कमरे से</RoomSurgerySuccessChanceFactor>
+  <RoomSurgerySuccessChanceFactor>कमरे से सर्जरी सफलता की संभावना का गुणक</RoomSurgerySuccessChanceFactor>
   <!-- EN: Infection chance multiplier from room -->
-  <RoomInfectionChanceFactor>कमरे से संक्रमण संभावना गुणक</RoomInfectionChanceFactor>
+  <RoomInfectionChanceFactor>कमरे से संक्रमण की संभावना का गुणक</RoomInfectionChanceFactor>
   <!-- EN: Closed -->
   <VentClosed>बंद</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
   <WornBy>{1_labelShort} द्वारा पहना गया</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
-  <EquippedBy>द्वारा सुसज्जित {1_labelShort}</EquippedBy>
+  <EquippedBy>{1_labelShort} द्वारा सुसज्जित</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
-  <QuestTargetDestroyInspectString>{0} इसे नष्ट करने की इच्छा रखता है।\nपुरस्कार: {1} ({2})</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>{0} इसे नष्ट करना चाहता है।\n    इनाम: {1} ({2})</QuestTargetDestroyInspectString>
   <!-- EN: {0} wants this destroyed. -->
-  <QuestTargetDestroyInspectStringShort>{0} को यह नष्ट करने की इच्छा है।</QuestTargetDestroyInspectStringShort>
+  <QuestTargetDestroyInspectStringShort>{0} चाहता है कि इसे नष्ट कर दिया जाए।</QuestTargetDestroyInspectStringShort>
   <!-- EN: Departing on shuttle in {0} -->
-  <ShuttleDelayInspectString>{0} में शटल से प्रस्थान</ShuttleDelayInspectString>
+  <ShuttleDelayInspectString>{0} में शटल से प्रस्थान कर रहे हैं</ShuttleDelayInspectString>
   <!-- EN: Departing in {0} -->
   <ShuttleLeaveDelayInspectString>{0} में प्रस्थान</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
-  <ShouldDepartOnShuttleInspectString>शटल से प्रस्थान करना चाहिए।</ShouldDepartOnShuttleInspectString>
+  <ShouldDepartOnShuttleInspectString>शटल पर प्रस्थान करना चाहिए</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
-  <WorldObjectTimeout>समय बचा: {0}</WorldObjectTimeout>
+  <WorldObjectTimeout>शेष समय: {0}</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
-  <ClickToSortByThisColumn>इस कॉलम से क्रमबद्ध करने के लिए क्लिक करें।</ClickToSortByThisColumn>
+  <ClickToSortByThisColumn>इस कॉलम के अनुसार क्रमबद्ध करने के लिए क्लिक करें।</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
-  <WorkPriorityShiftClickTip>शिफ्ट + क्लिक: प्राथमिकता बढ़ाना\nशिफ्ट + राइट क्लिक: प्राथमिकता घटाना</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickTip>शिफ्ट + क्लिक: प्राथमिकता बढ़ाएं\nशिफ्ट + राइट क्लिक: प्राथमिकता घटाएं</WorkPriorityShiftClickTip>
   <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
-  <WorkPriorityShiftClickEnableDisableTip>शिफ्ट + क्लिक: सब सक्षम करें\nशिफ्ट + राइट क्लिक: सब अक्षम करें</WorkPriorityShiftClickEnableDisableTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + क्लिक: सभी सक्षम करें\nShift + राइट क्लिक: सभी अक्षम करें</WorkPriorityShiftClickEnableDisableTip>
   <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
   <AllowedAreaShiftClickTip>शिफ्ट + क्लिक: सभी को घर निर्धारित करें\nशिफ्ट + राइट क्लिक: सभी को अनियंत्रित निर्धारित करें</AllowedAreaShiftClickTip>
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
-  <CheckboxShiftClickTip>शिफ्ट + क्लिक: सब जांचें\nशिफ्ट + राइट क्लिक: सब अनचेक करें</CheckboxShiftClickTip>
+  <CheckboxShiftClickTip>शिफ्ट + क्लिक: सभी चुनें\nशिफ्ट + राइट क्लिक: सभी अनचेक करें</CheckboxShiftClickTip>
   <!-- EN: {0} {1} -->
   <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
   <!-- EN: Skill Requirements -->
@@ -349,101 +349,101 @@
   <!-- EN: Products -->
   <Products>उत्पाद</Products>
   <!-- EN: Requires -->
-  <Requires>ज़रूरतें</Requires>
+  <Requires>आवश्यकता है</Requires>
   <!-- EN: Replaces -->
-  <Replaces>बदलता है</Replaces>
+  <Replaces>बदल देता है</Replaces>
   <!-- EN: missing {0} -->
-  <MissingPartWithLabel>अनुपलब्ध {0}</MissingPartWithLabel>
+  <MissingPartWithLabel>{0} गायब है</MissingPartWithLabel>
   <!-- EN: {0}x any of -->
-  <NumAnyOf>{0} कोई भी</NumAnyOf>
+  <NumAnyOf>{0} में से कोई भी</NumAnyOf>
   <!-- EN: {0} of {1} -->
-  <Relationship>{0} का {1}</Relationship>
+  <Relationship>{1} का {0}</Relationship>
   <!-- EN: Prisoner -->
   <Prisoner>कैदी</Prisoner>
   <!-- EN: Refugee -->
   <Refugee>शरणार्थी</Refugee>
   <!-- EN: Terrain movement difficulty -->
-  <TileMovementDifficulty>भूभाग गति कठिनाई</TileMovementDifficulty>
+  <TileMovementDifficulty>भूभाग आवाजाही कठिनाई</TileMovementDifficulty>
   <!-- EN: Impassable -->
   <Impassable>अगम्य</Impassable>
   <!-- EN: Caravan movement speed -->
-  <CaravanMovementSpeedFull>कारवां गति</CaravanMovementSpeedFull>
+  <CaravanMovementSpeedFull>काफिला चलने की गति</CaravanMovementSpeedFull>
   <!-- EN: downed -->
-  <DownedLower>गिराया गया</DownedLower>
+  <DownedLower>अचेत</DownedLower>
   <!-- EN: resting -->
-  <Carried>विश्राम</Carried>
+  <Carried>विश्राम कर रहा है</Carried>
   <!-- EN: Rideable animals / people -->
-  <RideableAnimalsPerPeople>सवार होने वाले जानवर / लोग</RideableAnimalsPerPeople>
+  <RideableAnimalsPerPeople>सवारी योग्य जानवर / लोग</RideableAnimalsPerPeople>
   <!-- EN: Multiplier from ridden animals -->
-  <MultiplierFromRiddenAnimals>सवारी जानवरों से गुणक</MultiplierFromRiddenAnimals>
+  <MultiplierFromRiddenAnimals>सवारी किए गए जानवरों से मिलने वाला गुणक</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier from bonuses -->
-  <MultiplierFromMoveSpeedBonus>बोनस गुणक</MultiplierFromMoveSpeedBonus>
+  <MultiplierFromMoveSpeedBonus>बोनस से गुणक</MultiplierFromMoveSpeedBonus>
   <!-- EN: Multiplier for carried mass: {0} -->
-  <MultiplierForCarriedMass>ले जाने वाले द्रव्यमान का गुणक: {0}</MultiplierForCarriedMass>
+  <MultiplierForCarriedMass>वहन किए गए द्रव्यमान के लिए गुणक: {0}</MultiplierForCarriedMass>
   <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
-  <RideableAnimalTip>यह जानवर सवारी करने योग्य है। कारवां में लोग सबसे तेज़ उपलब्ध जानवरों पर सवारी करेंगे, जिससे कारवां की गति में सुधार होगा।</RideableAnimalTip>
+  <RideableAnimalTip>यह जानवर सवारी करने योग्य है। एक कारवां में लोग सबसे तेज़ उपलब्ध जानवरों की सवारी करेंगे, जिससे पूरे कारवां की गति में सुधार होगा।</RideableAnimalTip>
   <!-- EN: This person provides a bonus to the caravan's speed. The speed increase is the average bonus of all of the caravan's members. -->
-  <CaravanBonusTip>यह व्यक्ति कारवां की गति में वृद्धि करता है। गति में वृद्धि कारवां के सभी सदस्यों के औसत बोनस के बराबर है।</CaravanBonusTip>
+  <CaravanBonusTip>यह व्यक्ति कारवां की गति में बोनस प्रदान करता है। गति में वृद्धि कारवां के सभी सदस्यों का औसत बोनस है।</CaravanBonusTip>
   <!-- EN: This caravan can't move because it carries too much. -->
-  <EncumberedCaravanTilesPerDayTip>यह कारवां बहुत अधिक सामान ले जाने के कारण नहीं चल सकता।</EncumberedCaravanTilesPerDayTip>
+  <EncumberedCaravanTilesPerDayTip>यह कारवां आगे नहीं बढ़ सकता क्योंकि इसमें बहुत अधिक सामान है।</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
-  <FinalCaravanPawnsMovementSpeed>कारवाँ सदस्य गति</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanPawnsMovementSpeed>काफिला सदस्यों की गति</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
   <FinalCaravanMovementSpeed>अंतिम गति</FinalCaravanMovementSpeed>
   <!-- EN: Winter -->
-  <Winter>सर्दी</Winter>
+  <Winter>सर्दियाँ</Winter>
   <!-- EN: {0} in winter -->
-  <MovementDifficultyOffsetInWinter>{0} में सर्दी</MovementDifficultyOffsetInWinter>
+  <MovementDifficultyOffsetInWinter>{0} सर्दियों में</MovementDifficultyOffsetInWinter>
   <!-- EN: to -->
-  <RangeTo>तक</RangeTo>
+  <RangeTo>को</RangeTo>
   <!-- EN: Caused by -->
   <CausedBy>के कारण</CausedBy>
   <!-- EN: No letter -->
   <NoDietCategoryLetter>कोई अक्षर नहीं</NoDietCategoryLetter>
   <!-- EN: expires in -->
-  <ExpiresIn>समाप्त होने वाला है</ExpiresIn>
+  <ExpiresIn>समाप्ति में शेष</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
   <CaravanLeaderCaravanName>{1_labelShort} का कारवां</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
-  <Reason>तर्क</Reason>
+  <Reason>कारण</Reason>
   <!-- EN: Relations with {0} -->
   <RelationsWith>{0} के साथ संबंध</RelationsWith>
   <!-- EN: captured by {0} -->
   <capturedBy>{0} द्वारा बंदी बनाया गया</capturedBy>
   <!-- EN: your caravan -->
-  <yourCaravan>आपका कारवाँ</yourCaravan>
+  <yourCaravan>आपका कारवां</yourCaravan>
   <!-- EN: {0} wildness -->
   <CreatureWildness>{0} जंगलीपन</CreatureWildness>
   <!-- EN: {0} trainability -->
   <CreatureTrainability>{0} प्रशिक्षण क्षमता</CreatureTrainability>
   <!-- EN: Follow master while drafted -->
-  <CreatureFollowDrafted>अनुसरण करते हुए मसौदा</CreatureFollowDrafted>
+  <CreatureFollowDrafted>ड्राफ्ट किए जाने के दौरान मास्टर का अनुसरण करें</CreatureFollowDrafted>
   <!-- EN: Follow master while doing field work -->
-  <CreatureFollowFieldwork>साथी के साथ क्षेत्र कार्य करें।</CreatureFollowFieldwork>
+  <CreatureFollowFieldwork>फील्ड वर्क करते समय मास्टर का अनुसरण करें</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
-  <ProximitySingleGoodwillChange>{0} के साथ {1}</ProximitySingleGoodwillChange>
+  <ProximitySingleGoodwillChange>{0}, {1} के साथ</ProximitySingleGoodwillChange>
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <EnterCooldown>{0} में फिर से प्रवेश करना बहुत खतरनाक है।</EnterCooldown>
+  <EnterCooldown>{0} के लिए पुन: प्रवेश करना बहुत खतरनाक है।</EnterCooldown>
   <!-- EN: Caravan -->
-  <Caravan>कारवाँ</Caravan>
+  <Caravan>काफिला</Caravan>
   <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>वहाँ खतरा हो सकता है।</HiddenOrNoSitePartDescription>
   <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
-  <PreciousLumpHostileThreat>स्कैनर गांठ के आसपास गतिविधि उठा रहा है। यह संभवतः शत्रुतापूर्ण है।</PreciousLumpHostileThreat>
+  <PreciousLumpHostileThreat>स्कैनर गांठ के आसपास गतिविधि का पता लगा रहा है। इसकी संभावना शत्रुतापूर्ण होने की है।</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
-  <PreciousLumpLabel>{0} का ढेर</PreciousLumpLabel>
+  <PreciousLumpLabel>{0} का ढेला</PreciousLumpLabel>
   <!-- EN: no active research project -->
-  <NoActiveResearchProjectToFinish>कोई सक्रिय अनुसंधान परियोजना नहीं।</NoActiveResearchProjectToFinish>
+  <NoActiveResearchProjectToFinish>कोई सक्रिय अनुसंधान परियोजना नहीं है</NoActiveResearchProjectToFinish>
   <!-- EN: Current project -->
-  <CurrentProject>वर्तमान परियोजना</CurrentProject>
+  <CurrentProject>वर्तमान प्रोजेक्ट</CurrentProject>
   <!-- EN: Research progress -->
-  <ResearchProgress>शोध प्रगति</ResearchProgress>
+  <ResearchProgress>अनुसंधान प्रगति</ResearchProgress>
   <!-- EN: already has {0} -->
   <AlreadyHasHediff>पहले से ही {0}</AlreadyHasHediff>
   <!-- EN: turret -->
-  <Turret>तोप</Turret>
+  <Turret>टरेट</Turret>
   <!-- EN: turrets -->
-  <Turrets>तोपें</Turrets>
+  <Turrets>टरेट्स</Turrets>
   <!-- EN: mortar -->
   <Mortar>मोर्टार</Mortar>
   <!-- EN: mortars -->
@@ -455,57 +455,57 @@
   <!-- EN: animals -->
   <AnimalsLower>पशु</AnimalsLower>
   <!-- EN: items -->
-  <ItemsLower>सामान</ItemsLower>
+  <ItemsLower>वस्तुएं</ItemsLower>
   <!-- EN: {0} x{1} -->
   <FilthLabel>{0} x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
-  <FilthLabelWithSource>{0} का {1} x{2}</FilthLabelWithSource>
+  <FilthLabelWithSource>{0} {1} का x{2}</FilthLabelWithSource>
   <!-- EN: Required -->
   <Required>आवश्यक</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>चेतावनी: आप ट्रांसपोर्ट पॉड्स का उपयोग करके व्यापार अनुरोध पूरे नहीं कर सकते।\nयदि आप सामान भेजते हैं, तो बस्ती उन्हें उपहार के रूप में स्वीकार कर लेगी लेकिन वे आपको कोई पुरस्कार नहीं देंगे।\n\nव्यापार करने के लिए, एक कारवां के साथ बस्ती के पास जाएँ!\n\nक्या आप निश्चित रूप से इस लदे हुए सामान को गुट को उपहार में देना चाहते हैं?</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>चेतावनी: आप ट्रांसपोर्ट पॉड्स का उपयोग करके व्यापार अनुरोध पूरे नहीं कर सकते।\nयदि आप सामान भेजते हैं, तो बस्ती उन्हें उपहार के रूप में स्वीकार कर लेगी लेकिन वे आपको कोई इनाम नहीं देंगे।\n\nव्यापार करने के लिए, एक कारवां के साथ बस्ती के पास जाएँ!\n\nक्या आप वाकई इस लदे हुए सामान को गुट को उपहार में देना चाहते हैं?</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
   <PrisonerLower>कैदी</PrisonerLower>
   <!-- EN: prisoners -->
   <PrisonersLower>कैदी</PrisonersLower>
   <!-- EN: Click to view this quest in quests tab -->
-  <ClickToViewInQuestsTab>क्वेस्ट टैब में इस खोज को देखने के लिए क्लिक करें।</ClickToViewInQuestsTab>
+  <ClickToViewInQuestsTab>क्वेस्ट टैब में इस क्वेस्ट को देखने के लिए क्लिक करें</ClickToViewInQuestsTab>
   <!-- EN: Mood -->
   <Mood>मनोदशा</Mood>
   <!-- EN: Quest -->
-  <Quest>कार्य</Quest>
+  <Quest>क्वेस्ट</Quest>
   <!-- EN: Brings raids every {0} -->
-  <BringsRaidsEvery>हर {0} पर छापे लाता है।</BringsRaidsEvery>
+  <BringsRaidsEvery>हर {0} में छापे लाता है</BringsRaidsEvery>
   <!-- EN: Generates {0} every {1} -->
-  <GeneratesResourcesEvery>उत्पन्न करता है {0} हर {1}</GeneratesResourcesEvery>
+  <GeneratesResourcesEvery>प्रत्येक {1} पर {0} उत्पन्न करता है</GeneratesResourcesEvery>
   <!-- EN: Foliage kill radius -->
-  <FoliageKillRadius>पौधों का विनाश दायरा</FoliageKillRadius>
+  <FoliageKillRadius>वनस्पति मृत्यु त्रिज्या</FoliageKillRadius>
   <!-- EN: View: {0} -->
-  <ViewHyperlink>देखें {0}</ViewHyperlink>
+  <ViewHyperlink>दृश्य: {0}</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
-  <DetonationCountdown>{0} दिनों में विस्फोट होगा।</DetonationCountdown>
+  <DetonationCountdown>{0} दिन में विस्फोट होगा</DetonationCountdown>
   <!-- EN: Large explosion if damaged. -->
-  <ExplosionOnDamageWarning>क्षति होने पर बड़ा विस्फोट।</ExplosionOnDamageWarning>
+  <ExplosionOnDamageWarning>क्षति होने पर बड़ा विस्फोट।</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
-  <MechCluster>मैक गुच्छे</MechCluster>
+  <MechCluster>मेक क्लस्टर</MechCluster>
   <!-- EN: Spawning in {0} -->
-  <SpawningNextPawnIn>{0} में उत्पन्न होना</SpawningNextPawnIn>
+  <SpawningNextPawnIn>{0} में उत्पन्न हो रहा है</SpawningNextPawnIn>
   <!-- EN: {0} gestation completes in {1}. -->
-  <MechAssemblyCompleteIn>{0} गर्भधारण {1} में पूरा होता है।</MechAssemblyCompleteIn>
+  <MechAssemblyCompleteIn>{0} का गर्भधारण {1} में पूरा होता है।</MechAssemblyCompleteIn>
   <!-- EN: Will gestate -->
-  <MechAssemblyNextType>गर्भावस्था</MechAssemblyNextType>
+  <MechAssemblyNextType>गर्भाधान करेगा</MechAssemblyNextType>
   <!-- EN: produced -->
   <ThingsProduced>उत्पादित</ThingsProduced>
   <!-- EN: harvested -->
-  <PlantsHarvested>कटाई</PlantsHarvested>
+  <PlantsHarvested>कटाई की गई</PlantsHarvested>
   <!-- EN: {0} killed -->
-  <PawnsKilled>{0} मारा</PawnsKilled>
+  <PawnsKilled>{0} ने मार डाला</PawnsKilled>
   <!-- EN: Sent {0}, will return in {1} -->
-  <PawnsLent>भेजा {0}, {1} में वापस आएगा</PawnsLent>
+  <PawnsLent>{0} भेज दिया गया, {1} में वापस आएगा</PawnsLent>
   <!-- EN: Dormant -->
-  <DormantCompInactive>सुषुप्त</DormantCompInactive>
+  <DormantCompInactive>सुप्त</DormantCompInactive>
   <!-- EN: Sealed -->
-  <DormantCompSealed>सील</DormantCompSealed>
+  <DormantCompSealed>सीलबंद</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
   <DormantCompBeacon>मेकैनॉइड्स गिराने के लिए तैयार</DormantCompBeacon>
   <!-- EN: Expired -->
@@ -513,23 +513,23 @@
   <!-- EN: Initiates in -->
   <InitiatesIn>निम्नलिखित में शुरुआत होती है:</InitiatesIn>
   <!-- EN: Activates in {0} -->
-  <SendSignalOnCountdownCompTime>{0} में सक्रिय</SendSignalOnCountdownCompTime>
+  <SendSignalOnCountdownCompTime>{0} में सक्रिय होता है</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->
-  <PsychicEntropy>तंत्रिका ताप</PsychicEntropy>
+  <PsychicEntropy>न्यूरल हीट</PsychicEntropy>
   <!-- EN: Heat -->
   <PsychicEntropyShort>गर्मी</PsychicEntropyShort>
   <!-- EN: {0} pain boost -->
-  <PsychicEntropyPainFocus>{0} दर्द प्रोत्साहन</PsychicEntropyPainFocus>
+  <PsychicEntropyPainFocus>{0} दर्द वृद्धि</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
   <ConditionCauserRadius>त्रिज्या {0}</ConditionCauserRadius>
   <!-- EN: low psyfocus -->
-  <LowPsyfocus>कम मनोकेंद्रण</LowPsyfocus>
+  <LowPsyfocus>कम साइफोकलस</LowPsyfocus>
   <!-- EN: {0} left -->
   <DurationLeft>बचा है</DurationLeft>
   <!-- EN: Any of -->
   <AnyOf>कोई भी</AnyOf>
   <!-- EN: Requires {0} trait -->
-  <TraitRequired>{0} विशेषता आवश्यक है</TraitRequired>
+  <TraitRequired>{0} गुण की आवश्यकता है</TraitRequired>
   <!-- EN: Goodwill -->
   <Goodwill>सद्भावना</Goodwill>
   <!-- EN: Natural goodwill -->
@@ -537,23 +537,23 @@
   <!-- EN: Natural goodwill range -->
   <NaturalGoodwillRange>प्राकृतिक सद्भावना सीमा</NaturalGoodwillRange>
   <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
-  <NaturalGoodwillDescription>प्राकृतिक सद्भावना गुट पहचानों और मान्यताओं पर आधारित होती है। यदि वर्तमान सद्भावना प्राकृतिक सद्भावना से बहुत दूर है, तो यह समय के साथ धीरे-धीरे प्राकृतिक सद्भावना की ओर स्थानांतरित हो जाएगी।\n\nसभी सद्भावना प्रभावों को प्राकृतिक सद्भावना की ओर बढ़ते समय {0} से गुणा किया जाता है।</NaturalGoodwillDescription>
+  <NaturalGoodwillDescription>प्राकृतिक सद्भावना गुट की पहचान और विश्वासों पर आधारित है। यदि वर्तमान सद्भावना प्राकृतिक सद्भावना से बहुत दूर है, तो यह धीरे-धीरे समय के साथ प्राकृतिक सद्भावना की ओर बढ़ेगी।\n\nप्राकृतिक सद्भावना की ओर बढ़ते समय सभी सद्भावना प्रभाव {0} से गुणा किए जाते हैं।</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
-  <JobReport_ReduceResistance>प्रतिरोध कम करना</JobReport_ReduceResistance>
+  <JobReport_ReduceResistance>{0_nameIndef} के प्रतिरोध को कम करना</JobReport_ReduceResistance>
   <!-- EN: Too large -->
-  <TooLargeForBed>क्षतिग्रस्त नियम।</TooLargeForBed>
+  <TooLargeForBed>बहुत बड़ा</TooLargeForBed>
   <!-- EN: Warning -->
-  <Warning>चेतावनी!</Warning>
+  <Warning>चेतावनी</Warning>
   <!-- EN: Has subquest -->
-  <HasSubquest>उप-कार्य है</HasSubquest>
+  <HasSubquest>उप-कार्य उपलब्ध है</HasSubquest>
   <!-- EN: Subquest of -->
-  <SubquestOf>उप-कार्य</SubquestOf>
+  <SubquestOf>का उप-अभियान</SubquestOf>
   <!-- EN: Raid -->
   <Raid>छापा</Raid>
   <!-- EN: Disabled by -->
   <ApparelRequirementDisabledLabel>अक्षम किया गया</ApparelRequirementDisabledLabel>
   <!-- EN: Nudism -->
-  <Nudism>नग्नता</Nudism>
+  <Nudism>नग्नतावाद</Nudism>
   <!-- EN: Study progress -->
   <StudyProgress>अध्ययन प्रगति</StudyProgress>
   <!-- EN: completed -->
@@ -561,23 +561,23 @@
   <!-- EN: Attack this to destroy it. -->
   <AttackToDestroy>हमला करके इसे नष्ट करें।</AttackToDestroy>
   <!-- EN: Remove this by attacking it. -->
-  <RemoveByAttackingTooltip>इसे हमला करके हटा दें।</RemoveByAttackingTooltip>
+  <RemoveByAttackingTooltip>इस पर हमला करके इसे हटा दें।</RemoveByAttackingTooltip>
   <!-- EN: Food -->
   <ThoughtFoodEatenFood>भोजन</ThoughtFoodEatenFood>
   <!-- EN: Ingredients -->
   <ThoughtFoodEatenIngredients>सामग्री</ThoughtFoodEatenIngredients>
   <!-- EN: Shield pack -->
-  <ShieldInbuilt>ढाल पैकेट</ShieldInbuilt>
+  <ShieldInbuilt>शील्ड पैक</ShieldInbuilt>
   <!-- EN: Punctured - will explode soon. -->
-  <PuncturedWillExplode>छिद्रित - जल्द ही विस्फोट होगा।</PuncturedWillExplode>
+  <PuncturedWillExplode>छेद हो गया है - जल्द ही फट जाएगा।</PuncturedWillExplode>
   <!-- EN: Click to open research window -->
-  <ClickToOpenResearchTab>खोलने के लिए क्लिक करें अनुसंधान विंडो</ClickToOpenResearchTab>
+  <ClickToOpenResearchTab>अनुसंधान विंडो खोलने के लिए क्लिक करें</ClickToOpenResearchTab>
   <!-- EN: Target belongs to another faction. -->
-  <TargetBelongsToNPCFaction>लक्ष्य किसी अन्य गुट से संबंधित है।</TargetBelongsToNPCFaction>
+  <TargetBelongsToNPCFaction>लक्ष्य दूसरे गुट का है।</TargetBelongsToNPCFaction>
   <!-- EN: more -->
   <MoreLower>अधिक</MoreLower>
   <!-- EN: Requires -->
-  <RequiredTechprintTip>ज़रूरतें</RequiredTechprintTip>
+  <RequiredTechprintTip>आवश्यकता है</RequiredTechprintTip>
   <!-- EN: size -->
   <Size>आकार</Size>
   <!-- EN: Total planning area -->
@@ -597,7 +597,7 @@
   <!-- EN: Hostiles -->
   <Hostiles>शत्रु</Hostiles>
   <!-- EN: Investigate -->
-  <Investigate>जांच</Investigate> 
+  <Investigate>जांच करें</Investigate> 
   <!-- EN: Activate -->
   <Activate>सक्रिय करें</Activate> 
   <!-- EN: Deactivate -->
@@ -605,64 +605,64 @@
   <!-- EN: Activation -->
   <Activation>सक्रियण</Activation>
   <!-- EN: complete -->
-  <Complete>पूरा करें</Complete>
+  <Complete>पूर्ण</Complete>
   <!-- EN: Must be imprisoned. -->
-  <RequiresImprisonment>कैद में होना।</RequiresImprisonment> 
+  <RequiresImprisonment>कैद करना अनिवार्य है।</RequiresImprisonment> 
   <!-- EN: Prioritize hauling contents -->
-  <HaulFromSource>सामान ढोना</HaulFromSource>
+  <HaulFromSource>सामग्री की ढुलाई को प्राथमिकता दें</HaulFromSource>
   <!-- EN: Use -->
   <UseGizmo>उपयोग करें</UseGizmo>
   <!-- EN: Order someone to use the {0}. -->
-  <UseGizmoTooltip>{0} का उपयोग करने का आदेश दें।</UseGizmoTooltip>
+  <UseGizmoTooltip>{0} का उपयोग करने के लिए किसी को आदेश दें।</UseGizmoTooltip>
   <!-- EN: Choose who should use this -->
-  <UseGizmoMouse>चुनें कि कौन इसका उपयोग करे।</UseGizmoMouse>
+  <UseGizmoMouse>चुनें कि इसका उपयोग कौन करेगा</UseGizmoMouse>
   <!-- EN: Select target -->
   <TargetGizmoMouse>लक्ष्य चुनें</TargetGizmoMouse>
   <!-- EN: Cannot use this -->
-  <CannotUseGizmoMouse>अक्षम</CannotUseGizmoMouse>
+  <CannotUseGizmoMouse>इसका उपयोग नहीं कर सकते</CannotUseGizmoMouse>
   <!-- EN: Buildings -->
   <Buildings>इमारतें</Buildings>
   <!-- EN: not yet discovered -->
-  <NotYetDiscovered>अज्ञात</NotYetDiscovered>
+  <NotYetDiscovered>अभी तक नहीं खोजा गया</NotYetDiscovered>
   <!-- EN: Crawling to safety. -->
   <ReportStringCrawlingToSafety>सुरक्षा की ओर रेंगना।</ReportStringCrawlingToSafety>
   <!-- EN: Crawling to bed. -->
   <ReportStringCrawlingToBed>बिस्तर की ओर रेंगना।</ReportStringCrawlingToBed>
   <!-- EN: flying -->
-  <Flying>उड़ान</Flying>
+  <Flying>उड़ान भर रहा है</Flying>
   <!-- EN: Prevent cutting -->
-  <PreventCutting>रोकें काटना</PreventCutting>
+  <PreventCutting>कटने से रोकें</PreventCutting>
   <!-- EN: When on, colonists won't cut this plant. -->
-  <PreventCuttingDesc>जब चालू हो, तो उपनिवेशवादी इस पौधे को नहीं काटेंगे।</PreventCuttingDesc>
+  <PreventCuttingDesc>चालू होने पर, उपनिवेशी इस पौधे को नहीं काटेंगे।</PreventCuttingDesc>
 
   <!-- EN: Resulting from trait -->
   <ComesFromTrait>लक्षण के कारण उत्पन्न</ComesFromTrait>
   <!-- EN: Resulting from condition -->
-  <ComesFromHediff>शर्त से उत्पन्न</ComesFromHediff>
+  <ComesFromHediff>स्थिति के परिणामस्वरूप</ComesFromHediff>
   <!-- EN: Adds need -->
   <AddsNeed>ज़रूरत जोड़ें</AddsNeed>
   <!-- EN: Adds needs -->
   <AddsNeeds>ज़रूरतें जोड़ें</AddsNeeds>
   <!-- EN: Disables need -->
-  <DisablesNeed>ज़रूरतें बंद करें</DisablesNeed>
+  <DisablesNeed>ज़रूरतें अक्षम करें</DisablesNeed>
   <!-- EN: Disables needs -->
-  <DisablesNeeds>ज़रूरतें बंद करें</DisablesNeeds>
+  <DisablesNeeds>ज़रूरतों को अक्षम करें</DisablesNeeds>
   
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
-  <UserScanAbility>स्कैन गति</UserScanAbility>
+  <UserScanAbility>यूजर स्कैनिंग गति</UserScanAbility>
   <!-- EN: Random find interval -->
-  <ScanAverageInterval>यादृच्छिक अंतराल</ScanAverageInterval>
+  <ScanAverageInterval>रैंडम मिलने का अंतराल</ScanAverageInterval>
   <!-- EN: Progress to guaranteed find -->
-  <ScanningProgressToGuaranteedFind>प्रगति से निश्चित खोज</ScanningProgressToGuaranteedFind>
+  <ScanningProgressToGuaranteedFind>निश्चित प्राप्ति की प्रगति</ScanningProgressToGuaranteedFind>
   
   <!-- Meditation -->
   <!-- EN: meditating at -->
-  <MeditatingAt>ध्यान करना पर</MeditatingAt>
+  <MeditatingAt>में ध्यान केंद्रित करना</MeditatingAt>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
-  <ContainsWort>में {0} / {1} शामिल है।</ContainsWort>
+  <ContainsWort>इसमें {0} / {1} वर्ट (wort) शामिल है।</ContainsWort>
   <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>इसमें {0} / {1} बीयर शामिल है।</ContainsBeer>
   <!-- EN: Fermented -->
@@ -674,112 +674,112 @@
 
   <!-- TextMotes -->
   <!-- EN: Headshot -->
-  <Headshot>सिरमार</Headshot>
+  <Headshot>हेडशॉट</Headshot>
   <!-- EN: Treatment success!\n{0} chance -->
-  <TextMote_TreatSuccess>उपचार सफल!\n{0} संभावना</TextMote_TreatSuccess>
+  <TextMote_TreatSuccess>उपचार सफल रहा!\n{0} संभावना</TextMote_TreatSuccess>
   <!-- EN: Treatment failed\n{0} chance -->
   <TextMote_TreatFailed>उपचार विफल रहा\n{0} संभावना</TextMote_TreatFailed>
   <!-- EN: Harvest\nbotched -->
-  <TextMote_HarvestFailed>कटाई, ख़राब</TextMote_HarvestFailed>
+  <TextMote_HarvestFailed>कटाई विफल रही</TextMote_HarvestFailed>
   <!-- EN: Yield\nwasted -->
-  <TextMote_YieldWasted>उत्पादन बर्बाद</TextMote_YieldWasted>
+  <TextMote_YieldWasted>उपज\nबर्बाद</TextMote_YieldWasted>
   <!-- EN: Product\nwasted -->
-  <TextMote_ProductWasted>बर्बाद</TextMote_ProductWasted>
+  <TextMote_ProductWasted>उत्पाद बर्बाद हो गया</TextMote_ProductWasted>
   <!-- EN: Recruit failed!\n{0} chance -->
-  <TextMote_RecruitFail>भर्ती विफल!\n{0} संभावना</TextMote_RecruitFail>
+  <TextMote_RecruitFail>भर्ती विफल रही!\n{0} संभावना</TextMote_RecruitFail>
   <!-- EN: Resistance\n{0} to {1} -->
-  <TextMote_ResistanceReduced>प्रतिरोध\n{0} को {1}</TextMote_ResistanceReduced>
+  <TextMote_ResistanceReduced>प्रतिरोध\n{0} से {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
-  <TextMote_TameFail>पालतू बनाने में विफलता\n{0} संभावना</TextMote_TameFail>
+  <TextMote_TameFail>वश में करने में विफल रहा\n{0} संभावना</TextMote_TameFail>
   <!-- EN: Tamed! -->
-  <TextMote_TameSuccess>पालतू!</TextMote_TameSuccess>
+  <TextMote_TameSuccess>वश में किया गया!</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
-  <TextMote_TrainFail>प्रशिक्षण विफल: {0}\n{1} संभावना</TextMote_TrainFail>
+  <TextMote_TrainFail>प्रशिक्षण विफल रहा: {0}\n{1} संभावना</TextMote_TrainFail>
   <!-- EN: Trained: {0}\n{1} chance -->
   <TextMote_TrainSuccess>प्रशिक्षित: {0}\n{1} संभावना</TextMote_TrainSuccess>
   <!-- EN: Repair\nbotched -->
-  <TextMote_FixBrokenDownBuildingFail>खराब मरम्मत</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_FixBrokenDownBuildingFail>मरम्मत\nविफल</TextMote_FixBrokenDownBuildingFail>
   <!-- EN: Construction\nbotched -->
-  <TextMote_ConstructionFail>निर्माण त्रुटि</TextMote_ConstructionFail>
+  <TextMote_ConstructionFail>निर्माण विफल</TextMote_ConstructionFail>
   <!-- EN: Dodge -->
-  <TextMote_Dodge>बचना</TextMote_Dodge>
+  <TextMote_Dodge>बचाव</TextMote_Dodge>
   <!-- EN: Immune -->
-  <TextMote_Immune>प्रतिरोधक</TextMote_Immune>
+  <TextMote_Immune>प्रतिरक्षित</TextMote_Immune>
   <!-- EN: {0} tended -->
-  <TextMote_Tended>{0} संभाला</TextMote_Tended>
+  <TextMote_Tended>{0} ने देखभाल की</TextMote_Tended>
   <!-- EN: level {0} -->
   <TextMote_SkillUp>स्तर {0}</TextMote_SkillUp>
   <!-- EN: low mood -->
-  <lowMood>खराब मनोदशा</lowMood>
+  <lowMood>कम मनोदशा</lowMood>
   <!-- EN: low opinion -->
-  <lowOpinion>बुरा विचार</lowOpinion>
+  <lowOpinion>कम राय</lowOpinion>
 
   <!-- Areas -->
   <!-- EN: Home -->
-  <Home>घर</Home>
+  <Home>होम</Home>
   <!-- EN: Build roof -->
-  <BuildRoof>छत बनाना</BuildRoof>
+  <BuildRoof>छत बनाएँ</BuildRoof>
   <!-- EN: No roof -->
-  <NoRoof>बिना छत</NoRoof>
+  <NoRoof>छत नहीं है</NoRoof>
   <!-- EN: Snow clear -->
-  <SnowClear>बर्फ़ हटाओ</SnowClear>
+  <SnowClear>बर्फ साफ करें</SnowClear>
   <!-- EN: Area {0} -->
   <AreaDefaultLabel>क्षेत्र {0}</AreaDefaultLabel>
   <!-- EN: Unrestricted -->
-  <NoAreaAllowed>असीमित</NoAreaAllowed>
+  <NoAreaAllowed>अप्रतिबंधित</NoAreaAllowed>
   <!-- EN: New area -->
   <NewArea>नया क्षेत्र</NewArea>
   <!-- EN: Invert -->
-  <InvertArea>उल्टाओ</InvertArea>
+  <InvertArea>उलटें</InvertArea>
   <!-- EN: Expand -->
-  <ExpandArea>विस्तारित करें</ExpandArea>
+  <ExpandArea>विस्तार करें</ExpandArea>
   <!-- EN: Shrink -->
-  <ShrinkArea>सिकुड़ना</ShrinkArea>
+  <ShrinkArea>सिकुड़ें</ShrinkArea>
   <!-- EN: Maximum {0} areas allowed. -->
-  <MaxAreasReached>अधिकतम {0} क्षेत्र अनुमत हैं।</MaxAreasReached>
+  <MaxAreasReached>अधिकतम {0} क्षेत्रों की अनुमति है।</MaxAreasReached>
 
   <!-- Animal pens -->
   <!-- EN: Unenclosed -->
-  <PenUnenclosedLabel>खुला</PenUnenclosedLabel>
+  <PenUnenclosedLabel>बिना घेरे का</PenUnenclosedLabel>
   <!-- EN: open door -->
-  <PenOpenDoorLabel>दरवाज़ा खोलें</PenOpenDoorLabel>
+  <PenOpenDoorLabel>दरवाजा खोलें</PenOpenDoorLabel>
   <!-- EN: Rename pen -->
-  <RenameAnimalPen>नाम बदलें</RenameAnimalPen>
+  <RenameAnimalPen>पेन का नाम बदलें</RenameAnimalPen>
   <!-- EN: Pen marker {0} -->
   <AnimalPenMarkerDefaultLabel>पेन मार्कर {0}</AnimalPenMarkerDefaultLabel>
   <!-- EN: In pen -->
-  <InPen>कलम से</InPen>
+  <InPen>पेन में</InPen>
   <!-- EN: not in a pen -->
-  <Unpenned>पेन में नहीं।</Unpenned>
+  <Unpenned>बाड़े में नहीं</Unpenned>
   <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
-  <UnpennedTooltip>पशु बाड़े किसी बंद क्षेत्र के भीतर पेन मार्कर बनाकर बनाए जा सकते हैं। आपके हैंडलर जानवरों को उपयुक्त बाड़े में लाएंगे। बाड़ों को बाड़, अवरोध, दीवारें और दरवाजों से घेरा जा सकता है।</UnpennedTooltip>
+  <UnpennedTooltip>एक घेरे वाले क्षेत्र के भीतर पेन मार्कर बनाकर जानवरों के बाड़े बनाए जा सकते हैं। आपके हैंडलर उपयुक्त बाड़े में जानवरों को लाएंगे। बाड़ों को बाड़, बैरिकेड्स, दीवारों और दरवाजों से घेरा जा सकता है।</UnpennedTooltip>
   <!-- EN: Roped by -->
-  <RopedByPawn>बंधक</RopedByPawn>
+  <RopedByPawn>के द्वारा रस्सियों से बंधा हुआ</RopedByPawn>
   <!-- EN: Roped to -->
-  <RopedToThing>बंधा हुआ</RopedToThing>
+  <RopedToThing>रस्सी से बंधा हुआ</RopedToThing>
   <!-- EN: Roped to spot. -->
-  <RopedToSpot>बांधकर देखना।</RopedToSpot>
+  <RopedToSpot>स्थान से बंधा हुआ।</RopedToSpot>
   <!-- EN: Pen size -->
-  <PenSizeLabel>कलम आकार</PenSizeLabel>
+  <PenSizeLabel>पेन का आकार</PenSizeLabel>
   <!-- EN: Very small pen -->
-  <PenSizeDesc_VerySmall>छोटा पेन</PenSizeDesc_VerySmall>
+  <PenSizeDesc_VerySmall>बहुत छोटा बाड़ा</PenSizeDesc_VerySmall>
   <!-- EN: Small pen -->
-  <PenSizeDesc_Small>छोटा कलम</PenSizeDesc_Small>
+  <PenSizeDesc_Small>छोटा बाड़ा</PenSizeDesc_Small>
   <!-- EN: Medium-sized pen -->
-  <PenSizeDesc_Medium>मध्यम पेन</PenSizeDesc_Medium>
+  <PenSizeDesc_Medium>मध्यम आकार का बाड़ा</PenSizeDesc_Medium>
   <!-- EN: Large pen -->
   <PenSizeDesc_Large>बड़ा बाड़ा</PenSizeDesc_Large>
   <!-- EN: Not enclosed - build fences -->
-  <PenSizeDesc_Unenclosed>खुला नहीं - बाड़ बनाएँ।</PenSizeDesc_Unenclosed>
+  <PenSizeDesc_Unenclosed>घेरा नहीं गया है - बाड़ बनाएँ</PenSizeDesc_Unenclosed>
   <!-- EN: {ANIMALDEF_label} capacity -->
   <PenCapacityDesc>{ANIMALDEF_label} क्षमता</PenCapacityDesc>
   <!-- EN: Example animals -->
-  <PenExampleAnimals>पशु उदाहरण</PenExampleAnimals>
+  <PenExampleAnimals>उदाहरण जानवर</PenExampleAnimals>
   <!-- EN: No exterior access - Animals cannot be moved in or out. -->
-  <NoExteriorAccess>बाहरी पहुँच नहीं - जानवरों को अंदर या बाहर ले जाया नहीं जा सकता।</NoExteriorAccess>
+  <NoExteriorAccess>बाहरी पहुंच नहीं है - जानवरों को अंदर या बाहर नहीं ले जाया जा सकता।</NoExteriorAccess>
   
   <!-- EN: Must be connected to walls on both sides to function. -->
-  <DoorMustBeEnclosedByWalls>दीवारों से दोनों तरफ़ जुड़े रहने पर ही कार्य करेगा।</DoorMustBeEnclosedByWalls>
+  <DoorMustBeEnclosedByWalls>कार्य करने के लिए दोनों तरफ दीवारों से जुड़ा होना चाहिए।</DoorMustBeEnclosedByWalls>
 
   <!-- Cell Inspector -->
   <!-- EN: Beauty -->
@@ -791,11 +791,11 @@
   <!-- EN: Terrain -->
   <Terrain_Label>भूभाग</Terrain_Label>
   <!-- EN: Snow -->
-  <Snow_Label>बर्फ़</Snow_Label>
+  <Snow_Label>बर्फ</Snow_Label>
   <!-- EN: Walk speed -->
   <WalkSpeed_Label>चलने की गति</WalkSpeed_Label>
   <!-- EN: Fertility -->
-  <Fertility_Label>प्रजनन</Fertility_Label>
+  <Fertility_Label>प्रजनन क्षमता</Fertility_Label>
   <!-- EN: Temperature -->
   <Temperature_Label>तापमान</Temperature_Label>
   <!-- EN: Light level -->
@@ -803,55 +803,55 @@
   <!-- EN: Biome -->
   <Biome_Label>भूभाग</Biome_Label>
   <!-- EN: Hilliness -->
-  <Hilliness_Label>पहाड़ीपन</Hilliness_Label>
+  <Hilliness_Label>ऊबड़-खाबड़पन</Hilliness_Label>
   <!-- EN: Road -->
   <Road_Label>सड़क</Road_Label>
   <!-- EN: River -->
   <River_Label>नदी</River_Label> 
   <!-- EN: Movement difficulty -->
-  <MovementDifficulty_Label>चलन कठिनाई</MovementDifficulty_Label>
+  <MovementDifficulty_Label>गति की कठिनाई</MovementDifficulty_Label>
   <!-- EN: Pollution -->
   <Pollution_Label>प्रदूषण</Pollution_Label>
   <!-- EN: Filth -->
   <Filth_Label>गंदगी</Filth_Label>
   
   <!-- EN: Features -->
-  <Features_Label>विशेषताएं</Features_Label>
+  <Features_Label>विशेषताएँ</Features_Label>
   <!-- EN: Faction -->
   <Faction_Label>गुट</Faction_Label>
   <!-- EN: Relationship -->
   <Relationship_Label>संबंध</Relationship_Label>
   <!-- EN: Colonists -->
-  <CaravanColonists_Label>कॉलोनिस्ट</CaravanColonists_Label>
+  <CaravanColonists_Label>उपनिवेशी</CaravanColonists_Label>
   <!-- EN: Status -->
   <CaravanStatus_Label>स्थिति</CaravanStatus_Label>
   <!-- EN: Time to destination -->
-  <CaravanTTD_Label>गंतव्य समय</CaravanTTD_Label>
+  <CaravanTTD_Label>गंतव्य तक का समय</CaravanTTD_Label>
   
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
-  <CannotOrderNonControlled>नियंत्रित पात्रों का आदेश नहीं दिया जा सकता।</CannotOrderNonControlled>
+  <CannotOrderNonControlled>जिन पात्रों पर आपका नियंत्रण नहीं है, उन्हें आदेश नहीं दिया जा सकता।</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
   <IsIncapableOfViolence>{1_labelShort} हिंसा करने में असमर्थ है।</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
-  <IsIncapableOfViolenceShort>हिंसाअक्षम नहीं</IsIncapableOfViolenceShort>
+  <IsIncapableOfViolenceShort>हिंसा करने में असमर्थ</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
   <IsNotDrafted>{1_labelShort} ड्राफ्ट नहीं किया गया है।</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
   <ApparelPreventsShooting>{PAWN_nameDef} रेंज हथियार इस्तेमाल नहीं कर सकता क्योंकि उसके पास {PAWN_possessive} {APPAREL_label} है।</ApparelPreventsShooting>
   <!-- EN: Cannot use in {0} -->
-  <CannotUseReason_PocketMap>{0} में उपयोग नहीं कर सकते।</CannotUseReason_PocketMap>
+  <CannotUseReason_PocketMap>{0} में उपयोग नहीं किया जा सकता</CannotUseReason_PocketMap>
   <!-- EN: Range reduced -->
-  <WeatherMaxRangeCap>दायरा कम</WeatherMaxRangeCap>
+  <WeatherMaxRangeCap>रेंज कम हुई</WeatherMaxRangeCap>
 
   <!-- Snow -->
   <!-- EN: Snow -->
-  <Snow>बर्फ़</Snow>
+  <Snow>बर्फ</Snow>
   <!-- EN: No snow -->
   <SnowNone>कोई बर्फ नहीं</SnowNone>
   <!-- EN: dusting -->
-  <SnowDusting>सफाई</SnowDusting>
+  <SnowDusting>धूल झाड़ना</SnowDusting>
   <!-- EN: thin -->
   <SnowThin>पतला</SnowThin>
   <!-- EN: medium -->
@@ -863,15 +863,15 @@
   <!-- EN: Installed -->
   <GunInstalled>स्थापित</GunInstalled>
   <!-- EN: Minimum range -->
-  <MinimumRange>न्यूनतम दूरी</MinimumRange>
+  <MinimumRange>न्यूनतम सीमा</MinimumRange>
   <!-- EN: Can fire in -->
-  <CanFireIn>आग लगा सकते हैं</CanFireIn>
+  <CanFireIn>क्या आग में...</CanFireIn>
   <!-- EN: Cannot fire -->
-  <CannotFire>गोली नहीं चल रही</CannotFire>
+  <CannotFire>गोलीबारी नहीं कर सकते</CannotFire>
   <!-- EN: roofed -->
-  <Roofed>छतदार</Roofed>
+  <Roofed>छत के नीचे</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
-  <ShellLoaded>गोला भरा: {1_label}</ShellLoaded>
+  <ShellLoaded>शेल लोड किया गया: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
   <ShellNotLoaded>लोड नहीं हुआ</ShellNotLoaded>
   <!-- EN: Already active -->
@@ -879,105 +879,105 @@
   <!-- EN: Order activation -->
   <OrderActivation>आदेश सक्रियण</OrderActivation>
   <!-- EN: Order a colonist to activate {THING_definite}. -->
-  <OrderActivationDesc>किसी उपनिवेशवादी को {THING_definite} सक्रिय करने का आदेश दें।</OrderActivationDesc>
+  <OrderActivationDesc>एक उपनिवेशी को {THING_definite} को सक्रिय करने का आदेश दें।</OrderActivationDesc>
   <!-- EN: Send a colonist to activate this. -->
-  <MustBeActivatedByColonist>इसे सक्रिय करने के लिए एक उपनिवेशवादी भेजें।</MustBeActivatedByColonist>
+  <MustBeActivatedByColonist>इसे सक्रिय करने के लिए एक उपनिवेशी को भेजें।</MustBeActivatedByColonist>
   <!-- EN: No nearby fire -->
-  <NoNearbyFire>आग आस-पास नहीं।</NoNearbyFire>
+  <NoNearbyFire>पास में कोई आग नहीं है</NoNearbyFire>
   <!-- EN: No nearby fire. No fuel was used. -->
-  <NoNearbyFireNoFuelUsed>आसपास आग नहीं है। ईंधन इस्तेमाल नहीं हुआ।</NoNearbyFireNoFuelUsed>
+  <NoNearbyFireNoFuelUsed>पास में कोई आग नहीं है। किसी भी ईंधन का उपयोग नहीं किया गया था।</NoNearbyFireNoFuelUsed>
   <!-- EN: Choose who should activate this. -->
-  <ChooseWhoShouldActivate>इसको कौन सक्रिय करे।</ChooseWhoShouldActivate>
+  <ChooseWhoShouldActivate>चुनें कि इसे किसे सक्रिय करना चाहिए।</ChooseWhoShouldActivate>
   <!-- EN: No fuel -->
-  <NoFuel>ईंधन नहीं</NoFuel>
+  <NoFuel>ईंधन नहीं है</NoFuel>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>ले जाना {THING_label} को {DESTINATION}.</ReportHaulingTo>
+  <ReportHaulingTo>{DESTINATION} तक {THING_label} की ढुलाई कर रहे हैं।</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
-  <ReportHaulingToGrave>दफ़नाना {THING_label} में {DESTINATION}.</ReportHaulingToGrave>
+  <ReportHaulingToGrave>{DESTINATION} में {THING_label} को दफनाया जा रहा है।</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>ले जाना।</ReportHauling>
+  <ReportHauling>{1_label} की ढुलाई।</ReportHauling>
   <!-- EN: hauling. -->
-  <ReportHaulingUnknown>ले जाना</ReportHaulingUnknown>
+  <ReportHaulingUnknown>ढुलाई</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
-  <ReportSleeping>सोना</ReportSleeping>
+  <ReportSleeping>सो रहा है।</ReportSleeping>
   <!-- EN: resting. -->
-  <ReportResting>विश्राम</ReportResting>
+  <ReportResting>विश्राम कर रहा है।</ReportResting>
   <!-- EN: laying down. -->
-  <ReportLayingDown>लेटना</ReportLayingDown>
+  <ReportLayingDown>लेटा हुआ।</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
-  <WatchingSunrise>सूर्य देखना।</WatchingSunrise>
+  <WatchingSunrise>सूर्योदय देखना।</WatchingSunrise>
   <!-- EN: cloudwatching. -->
   <CloudWatching>बादल देखना</CloudWatching>
   <!-- EN: watching the sunset. -->
   <WatchingSunset>सूर्यास्त देखना।</WatchingSunset>
   <!-- EN: stargazing. -->
-  <Stargazing>तारालोकन।</Stargazing>
+  <Stargazing>तारों को निहारना</Stargazing>
   <!-- EN: watching the eclipse. -->
-  <WatchingEclipse>ग्रहण देखना</WatchingEclipse>
+  <WatchingEclipse>ग्रहण देखना।</WatchingEclipse>
   <!-- EN: watching the aurora. -->
-  <WatchingAurora>ध्रुवीय ज्योति देखना</WatchingAurora>
+  <WatchingAurora>ऑरोरा को देखना।</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>{0} का उपयोग {1} पर।</UsingVerb>
+  <UsingVerb>{1} पर {0} का उपयोग कर रहे हैं।</UsingVerb>
   <!-- EN: using {0}. -->
-  <UsingVerbNoTarget>{0} का उपयोग करके।</UsingVerbNoTarget>
+  <UsingVerbNoTarget>{0} का उपयोग कर रहे हैं।</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>क्षेत्र</AreaLower>
   <!-- EN: cowering. -->
-  <ReportCowering>डरण।</ReportCowering>
+  <ReportCowering>सहमना</ReportCowering>
   <!-- EN: standing. -->
-  <ReportStanding>खड़ा होना</ReportStanding>
+  <ReportStanding>खड़ा है।</ReportStanding>
   <!-- EN: extinguishing fire. -->
-  <ReportExtinguishingFire>आग बुझाना।</ReportExtinguishingFire>
+  <ReportExtinguishingFire>आग बुझाई जा रही है।</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>आग बुझाना {TARGET_label} पर।</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>{TARGET_label} पर आग बुझाई जा रही है।</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
-  <ReportDiggingUpCorpse>लाश खोदना।</ReportDiggingUpCorpse>
+  <ReportDiggingUpCorpse>शव को खोदना।</ReportDiggingUpCorpse>
   <!-- EN: being carried by {0_labelShort}. -->
   <CarriedBy>{0_labelShort} द्वारा ले जाया जा रहा है।</CarriedBy> 
   <!-- EN: inside {0_labelShort}. -->
-  <InContainer>अंदर {0_labelShort}.</InContainer> 
+  <InContainer>{0_labelShort} के अंदर।</InContainer> 
   <!-- EN: downed, cannot crawl. -->
-  <DownedCannotCrawl>गिरा हुआ, रेंग नहीं सकता।</DownedCannotCrawl> 
+  <DownedCannotCrawl>गिर गया, रेंग नहीं सकता।</DownedCannotCrawl> 
   <!-- EN: downed, unconscious. -->
-  <DownedUnconscious>बेहोश।</DownedUnconscious> 
+  <DownedUnconscious>अचेत, बेहोश।</DownedUnconscious> 
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
-  <LordReportAttendingMarriageCeremony>विवाह समारोह</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingMarriageCeremony>विवाह समारोह में शामिल होना</LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
-  <LordReportAttendingParty>पार्टी में जाना</LordReportAttendingParty>
+  <LordReportAttendingParty>पार्टी में शामिल होना</LordReportAttendingParty>
   <!-- EN: Attending concert -->
-  <LordReportAttendingConcert>संगीत समारोह</LordReportAttendingConcert>
+  <LordReportAttendingConcert>कॉन्सर्ट में जाना</LordReportAttendingConcert>
   <!-- EN: Holding a concert -->
   <LordReportHoldingConcert>संगीत समारोह आयोजित करना</LordReportHoldingConcert>
   <!-- EN: Giving a speech -->
   <LordReportGivingSpeech>भाषण देना</LordReportGivingSpeech>
   <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
-  <LordReportListeningSpeech>संगठक के भाषण को सुनना।</LordReportListeningSpeech>
+  <LordReportListeningSpeech>{ORGANIZER_labelShort} के भाषण को सुन रहे हैं</LordReportListeningSpeech>
   <!-- EN: Forming caravan -->
-  <LordReportFormingCaravan>दल गठन</LordReportFormingCaravan>
+  <LordReportFormingCaravan>काफिला बनाना</LordReportFormingCaravan>
 
   <!-- Shooting report -->
   <!-- EN: Weapon miss radius -->
-  <WeaponMissRadius>हथियार चूक त्रिज्या</WeaponMissRadius>
+  <WeaponMissRadius>हथियार मिस रेडियस</WeaponMissRadius>
   <!-- EN: Shooter -->
-  <ShootReportShooterAbility>गोलीबारी</ShootReportShooterAbility>
+  <ShootReportShooterAbility>शूटर</ShootReportShooterAbility>
   <!-- EN: Weapon -->
   <ShootReportWeapon>हथियार</ShootReportWeapon>
   <!-- EN: Darkness -->
-  <Darkness>अंधेरा</Darkness>
+  <Darkness>अंधकार</Darkness>
   <!-- EN: Target lying down -->
-  <TargetProne>सोना</TargetProne>
+  <TargetProne>लेटे हुए को निशाना बनाएं</TargetProne>
   <!-- EN: Target size -->
-  <TargetSize>आकार</TargetSize>
+  <TargetSize>लक्ष्य का आकार</TargetSize>
   <!-- EN: Weather -->
   <Weather>मौसम</Weather>
   <!-- EN: Cover -->
   <ShootingCover>आड़</ShootingCover>
   <!-- EN: {COVER_label} stops {1} -->
-  <CoverThingBlocksPercentOfShots>{COVER_label} रोकता है {1}</CoverThingBlocksPercentOfShots>
+  <CoverThingBlocksPercentOfShots>{COVER_label} {1} को रोकता है</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->
   <NoCoverLower>कोई आड़ नहीं</NoCoverLower>
   <!-- EN: Execution -->
@@ -985,55 +985,55 @@
 
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
-  <RecipeMake>बनाएं {0}</RecipeMake>
+  <RecipeMake>{0} बनाएँ</RecipeMake>
   <!-- EN: Make {0}. -->
-  <RecipeMakeDescription>बनाएं {0}।</RecipeMakeDescription>
+  <RecipeMakeDescription>{0} बनाएँ।</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
-  <RecipeMakeJobString>बनाना {0}.</RecipeMakeJobString>
+  <RecipeMakeJobString>{0} बना रहे हैं।</RecipeMakeJobString>
   <!-- EN: administer {0} -->
-  <RecipeAdminister>प्रशासन {0}</RecipeAdminister>
+  <RecipeAdminister>{0} दें</RecipeAdminister>
   <!-- EN: Administering {0}. -->
-  <RecipeAdministerJobString>प्रशासन {0}।</RecipeAdministerJobString>
+  <RecipeAdministerJobString>{0} दे रहे हैं।</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
-  <TeetotalerUnhappy>पूर्ण निषेध करने वाला नाखुश होगा।</TeetotalerUnhappy>
+  <TeetotalerUnhappy>नशा न करने वाला व्यक्ति नाखुश होगा</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
-  <ProsthophobeUnhappy>शरीर शुद्धतावादी नाखुश होगा।</ProsthophobeUnhappy>
+  <ProsthophobeUnhappy>बॉडी प्यूरिस्ट नाखुश होंगे</ProsthophobeUnhappy>
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
-  <ThoughtExpiresIn>समाप्त होने में: {0}</ThoughtExpiresIn>
+  <ThoughtExpiresIn>समाप्ति में: {0}</ThoughtExpiresIn>
   <!-- EN: thought disabled by -->
-  <ThoughtNullifiedBy>विचार अक्षम किया गया</ThoughtNullifiedBy>
+  <ThoughtNullifiedBy>द्वारा विचार अक्षम किया गया</ThoughtNullifiedBy>
   <!-- EN: Starts expiring in: {0} -->
-  <ThoughtStartsExpiringIn>समाप्त होने में: {0}</ThoughtStartsExpiringIn>
+  <ThoughtStartsExpiringIn>समाप्त होने में शेष समय: {0}</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
-  <ThoughtFinishesExpiringIn>समाप्त होने में: {0}</ThoughtFinishesExpiringIn>
+  <ThoughtFinishesExpiringIn>समाप्ति में शेष समय: {0}</ThoughtFinishesExpiringIn>
   <!-- EN: Extreme break threshold -->
-  <MentalBreakThresholdExtreme>गंभीर सीमा</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdExtreme>अत्यधिक मानसिक टूटने की सीमा</MentalBreakThresholdExtreme>
   <!-- EN: Major break threshold -->
-  <MentalBreakThresholdMajor>गंभीर विराम सीमा</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMajor>बड़ी मानसिक गिरावट की सीमा</MentalBreakThresholdMajor>
   <!-- EN: Minor break threshold -->
-  <MentalBreakThresholdMinor>मामूली विराम सीमा</MentalBreakThresholdMinor>
+  <MentalBreakThresholdMinor>मामूली मानसिक तनाव की सीमा</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
   <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
-  <PawnMainDescFactionedWrap>{0} का {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescFactionedWrap>{1} का {0}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
-  <PawnTitleDescWrap>{0} में {1}</PawnTitleDescWrap>
+  <PawnTitleDescWrap>{1} में {0}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
-  <PawnMainDescUnderFactionedWrap>{0} के नीचे {1}</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescUnderFactionedWrap>{1} के तहत {0}</PawnMainDescUnderFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>गुट</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
-  <FactionDesc>गुट {PAWN_labelShort} वर्तमान में इससे संबंधित है।</FactionDesc>
+  <FactionDesc>{PAWN_labelShort} वर्तमान में जिस गुट से संबंधित है।</FactionDesc>
   <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
-  <ExtraFactionDesc>गुट {PAWN_labelShort} मूल रूप से इसका सदस्य था।</ExtraFactionDesc>
+  <ExtraFactionDesc>{PAWN_labelShort} मूल रूप से जिस गुट का है।</ExtraFactionDesc>
   <!-- EN: Equipped -->
-  <Equipped>उपकरण</Equipped>
+  <Equipped>सज्जित</Equipped>
   <!-- EN: nothing -->
   <EquippedNothing>कुछ नहीं</EquippedNothing>
   <!-- EN: Dead -->
@@ -1041,37 +1041,37 @@
   <!-- EN: Unconscious -->
   <Unconscious>बेहोश</Unconscious>
   <!-- EN: In shock due to pain -->
-  <PainShock>दर्द से सदमे में</PainShock>
+  <PainShock>दर्द के कारण सदमे में</PainShock>
   <!-- EN: Pain shock -->
-  <PainShockShort>दर्द झटका</PainShockShort>
+  <PainShockShort>दर्द शॉक</PainShockShort>
   <!-- EN: Incapacitated -->
   <Incapacitated>अक्षम</Incapacitated>
   <!-- EN: In restraints (slowed) -->
-  <InRestraints>बंधक (धीमा)</InRestraints>
+  <InRestraints>बेड़ियों में (धीमा)</InRestraints>
   <!-- EN: Carrying -->
-  <Carrying>ले जाना</Carrying>
+  <Carrying>ले जा रहा है</Carrying>
   <!-- EN: Affected by: -->
   <AffectedBy>प्रभावित:</AffectedBy>
   <!-- EN: Queued -->
-  <Queued>पंक्तिबद्ध</Queued>
+  <Queued>कतारबद्ध</Queued>
   <!-- EN: State -->
   <State>स्थिति</State>
   <!-- EN: stun -->
-  <StunLower>बेहोशी</StunLower>
+  <StunLower>स्तब्ध करना</StunLower>
   <!-- EN: Slowed by damage -->
-  <SlowedByDamage>क्षति से धीमा</SlowedByDamage>
+  <SlowedByDamage>क्षति से धीमा हुआ</SlowedByDamage>
 
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
-  <SelectNextInSquareTip>उसी वर्ग में अगली चीज़ चुनें।\n\n(*SectionTitle)शॉर्टकट कुंजी:([/SectionTitle) {0}\n\nआप इसे उसी वर्ग पर धीरे-धीरे क्लिक करके भी कर सकते हैं।</SelectNextInSquareTip>
+  <SelectNextInSquareTip>उसी वर्ग में अगली चीज़ चुनें।\n\n(*SectionTitle)शॉर्टकट कुंजी:(/SectionTitle) {0}\n\nआप ऐसा उसी वर्ग पर धीरे से फिर से क्लिक करके भी कर सकते हैं।</SelectNextInSquareTip>
   <!-- EN: View information. -->
   <DefInfoTip>जानकारी देखें।</DefInfoTip>
   <!-- EN: Select next thing in same square.\n\nYou can also do this by slowly clicking the same square again. -->
-  <SelectNextInSquareTipController>उसी वर्ग में अगली चीज़ चुनें।\n\nआप धीरे-धीरे उसी वर्ग पर दोबारा क्लिक करके भी यह कर सकते हैं।</SelectNextInSquareTipController>
+  <SelectNextInSquareTipController>उसी वर्ग में अगली चीज़ चुनें।\n\nआप इसे उसी वर्ग पर धीरे-धीरे फिर से क्लिक करके भी कर सकते हैं।</SelectNextInSquareTipController>
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
-  <HostilityReponseTip>निकटवर्ती शत्रुओं पर प्रतिक्रिया बदलने का तरीका।</HostilityReponseTip>
+  <HostilityReponseTip>जब ड्राफ्ट में न हो, तब पास के दुश्मनों के प्रति इस व्यक्ति की प्रतिक्रिया बदलें।</HostilityReponseTip>
   <!-- EN: Current mode -->
   <HostilityResponseCurrentMode>वर्तमान मोड</HostilityResponseCurrentMode>
 
@@ -1081,31 +1081,31 @@
 
   <!-- Power readout -->
   <!-- EN: Not connected to power. -->
-  <PowerNotConnected>बिजली से जुड़ा नहीं।</PowerNotConnected>
+  <PowerNotConnected>बिजली से नहीं जुड़ा है।</PowerNotConnected>
   <!-- EN: Grid excess: {0} W ({1} Wd stored) -->
-  <PowerConnectedRateStored>ग्रिड अतिरिक्त: {0} वॅट ({1} वॅट संग्रहित)</PowerConnectedRateStored>
+  <PowerConnectedRateStored>ग्रिड अतिरिक्त: {0} W ({1} Wd संग्रहीत)</PowerConnectedRateStored>
   <!-- EN: Power needed -->
-  <PowerNeeded>बिजली आवश्यक</PowerNeeded>
+  <PowerNeeded>आवश्यक शक्ति</PowerNeeded>
   <!-- EN: Power output -->
-  <PowerOutput>बिजली उत्पादन</PowerOutput>
+  <PowerOutput>पावर आउटपुट</PowerOutput>
   <!-- EN: {0} W when active -->
-  <PowerActiveNeeded>{0} सक्रिय होने पर W</PowerActiveNeeded>
+  <PowerActiveNeeded>सक्रिय होने पर {0} W</PowerActiveNeeded>
   <!-- EN: Stored -->
   <PowerBatteryStored>संग्रहित</PowerBatteryStored>
   <!-- EN: Efficiency -->
-  <PowerBatteryEfficiency>दक्षता</PowerBatteryEfficiency>
+  <PowerBatteryEfficiency>कार्यक्षमता</PowerBatteryEfficiency>
   <!-- EN: Self-discharging -->
-  <SelfDischarging>स्वतः निर्वहन</SelfDischarging>
+  <SelfDischarging>स्वयं-डिस्चार्जिंग</SelfDischarging>
 
   <!-- Temperature control -->
   <!-- EN: Target temperature -->
   <TargetTemperature>लक्ष्य तापमान</TargetTemperature>
   <!-- EN: Current power use -->
-  <PowerConsumptionMode>वर्तमान ऊर्जा उपयोग</PowerConsumptionMode>
+  <PowerConsumptionMode>वर्तमान बिजली उपयोग</PowerConsumptionMode>
   <!-- EN: high -->
   <PowerConsumptionHigh>उच्च</PowerConsumptionHigh>
   <!-- EN: low -->
-  <PowerConsumptionLow>निम्न</PowerConsumptionLow>
+  <PowerConsumptionLow>कम</PowerConsumptionLow>
   <!-- EN: off -->
   <PowerConsumptionOff>बंद</PowerConsumptionOff>
 
@@ -1113,7 +1113,7 @@
   <!-- EN: Indoors -->
   <Indoors>अंदर</Indoors>
   <!-- EN: Unroofed -->
-  <IndoorsUnroofed>बिना छत का</IndoorsUnroofed>
+  <IndoorsUnroofed>बिना छत वाला</IndoorsUnroofed>
   <!-- EN: outdoors -->
   <Outdoors>बाहर</Outdoors>
 
@@ -1121,15 +1121,15 @@
   <!-- EN: Fresh -->
   <RotStateFresh>ताज़ा</RotStateFresh>
   <!-- EN: Rotting -->
-  <RotStateRotting>सड़न</RotStateRotting>
+  <RotStateRotting>सड़ रहा है</RotStateRotting>
   <!-- EN: Dessicated -->
   <RotStateDessicated>सुखाया हुआ</RotStateDessicated>
   <!-- EN: Frozen -->
   <CurrentlyFrozen>जमा हुआ</CurrentlyFrozen> 
   <!-- EN: Refrigerated, spoils in {0} -->
-  <CurrentlyRefrigerated>ठंडा रखा गया, {0} में खराब हो जाएगा।</CurrentlyRefrigerated> 
+  <CurrentlyRefrigerated>रेफ्रिजरेटेड, {0} में खराब हो जाता है</CurrentlyRefrigerated> 
   <!-- EN: Unrefrigerated, spoils in {0} -->
-  <NotRefrigerated>अशीतित, {0} में खराब हो जाता है।</NotRefrigerated> 
+  <NotRefrigerated>बिना रेफ्रिजरेशन के, {0} में खराब हो जाता है</NotRefrigerated> 
   <!-- EN: over a decade -->
   <OverADecade>एक दशक से अधिक</OverADecade>
   <!-- EN: less than a day -->
@@ -1137,63 +1137,63 @@
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>{1_labelShort} से गोली लगी</ShotBy>
+  <ShotBy>{1_labelShort} द्वारा गोली मारी गई</ShotBy>
   <!-- EN: Cannot hit target. -->
-  <CannotHit>लक्ष्य प्रहार नहीं कर सका।</CannotHit>
+  <CannotHit>लक्ष्य पर प्रहार नहीं कर सकते।</CannotHit>
   <!-- EN: Manhunter chance per hit -->
-  <ManhunterPerHit>मानव शिकारी संभावना प्रति प्रहार</ManhunterPerHit>
+  <ManhunterPerHit>प्रत्येक प्रहार पर मैनहंटर की संभावना</ManhunterPerHit>
 
   <!-- Meal -->
   <!-- EN: Ingredients -->
   <Ingredients>सामग्री</Ingredients>
   <!-- EN: The ingredients used to make this meal. -->
-  <IngredientsDesc>इस भोजन को बनाने में इस्तेमाल की गई सामग्री।</IngredientsDesc>
+  <IngredientsDesc>इस भोजन को बनाने में उपयोग की जाने वाली सामग्री।</IngredientsDesc>
   <!-- EN: Dietary type -->
   <DietaryType>आहार प्रकार</DietaryType>
   <!-- EN: The type of meal produced. Some people have preferences for specific types of meals. -->
-  <DietaryTypeDesc>उत्पादित भोजन का प्रकार। कुछ लोगों की विशिष्ट भोजन प्रकारों के लिए प्राथमिकताएँ होती हैं।</DietaryTypeDesc>
+  <DietaryTypeDesc>उत्पादित भोजन का प्रकार। कुछ लोगों की विशिष्ट प्रकार के भोजन के लिए पसंद होती है।</DietaryTypeDesc>
   <!-- EN: only stacks with similar meals -->
-  <OnlyStacksWithCompatibleMeals>केवल समान भोजन के साथ ढेर होता है।</OnlyStacksWithCompatibleMeals>
+  <OnlyStacksWithCompatibleMeals>केवल समान भोजन वाले स्टैक्स</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
-  <PercentGrowth>{0} उगा</PercentGrowth>
+  <PercentGrowth>{0} उगाया गया</PercentGrowth>
   <!-- EN: Growth rate -->
   <GrowthRate>वृद्धि दर</GrowthRate>
   <!-- EN: Fully grown in {0} of growth. -->
-  <FullyGrownIn>पूरी तरह से {0} की वृद्धि में विकसित।</FullyGrownIn>
+  <FullyGrownIn>{0} वृद्धि के साथ पूरी तरह से विकसित।</FullyGrownIn>
   <!-- EN: needs light level -->
-  <PlantNeedsLightLevel>प्रकाश स्तर आवश्यक</PlantNeedsLightLevel>
+  <PlantNeedsLightLevel>प्रकाश स्तर की आवश्यकता है</PlantNeedsLightLevel>
   <!-- EN: resting -->
-  <PlantResting>आराम</PlantResting>
+  <PlantResting>विश्राम कर रहा है</PlantResting>
   <!-- EN: temperature growth multiplier {0}% -->
   <OutOfIdealTemperatureRange>तापमान वृद्धि गुणक {0}%</OutOfIdealTemperatureRange>
   <!-- EN: out of temperature growth range -->
   <OutOfIdealTemperatureRangeNotGrowing>तापमान वृद्धि सीमा से बाहर</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
-  <ReadyToHarvest>कटाई हेतु तैयार।</ReadyToHarvest>
+  <ReadyToHarvest>कटाई के लिए तैयार।</ReadyToHarvest>
   <!-- EN: Mature. -->
-  <Mature>वयस्क।</Mature>
+  <Mature>परिपक्व</Mature>
   <!-- EN: Average plant age -->
   <AveragePlantAge>औसत आयु</AveragePlantAge>
   <!-- EN: Oldest plant age -->
-  <OldestPlantAge>सबसे पुराना पौधा</OldestPlantAge>
+  <OldestPlantAge>सबसे पुराने पौधे की आयु</OldestPlantAge>
   <!-- EN: Growing period -->
-  <OutdoorGrowingPeriod>उगाही अवधि</OutdoorGrowingPeriod>
+  <OutdoorGrowingPeriod>खेती की अवधि</OutdoorGrowingPeriod>
   <!-- EN: Never -->
   <NoGrowingPeriod>कभी नहीं</NoGrowingPeriod>
   <!-- EN: Year-round -->
   <GrowYearRound>वर्षभर</GrowYearRound>
   <!-- EN: Growing season here now. -->
-  <GrowSeasonHereNow>उगाने का मौसम अब यहाँ है।</GrowSeasonHereNow>
+  <GrowSeasonHereNow>यहाँ अब खेती का मौसम है।</GrowSeasonHereNow>
   <!-- EN: Cannot grow (bad seasonal temperature). -->
-  <CannotGrowBadSeasonTemperature>उगाना संभव नहीं (खराब मौसमी तापमान)।</CannotGrowBadSeasonTemperature>
+  <CannotGrowBadSeasonTemperature>उगाया नहीं जा सकता (खराब मौसमी तापमान)।</CannotGrowBadSeasonTemperature>
   <!-- EN: Blighted -->
   <Blighted>विनाश</Blighted>
   <!-- EN: Dying because exposed to light -->
-  <DyingBecauseExposedToLight>रोशनी के संपर्क में आने से मृत्यु</DyingBecauseExposedToLight>
+  <DyingBecauseExposedToLight>प्रकाश के संपर्क में आने के कारण मृत्यु हो रही है</DyingBecauseExposedToLight>
   <!-- EN: Dying from non-ideal terrain -->
-  <DyingBecauseOfTerrain>अव्यवस्थित भूभाग से मृत्यु</DyingBecauseOfTerrain>
+  <DyingBecauseOfTerrain>अप्रत्यक्ष भूभाग के कारण मृत्यु हो रही है</DyingBecauseOfTerrain>
   <!-- EN: Cut now -->
   <AutoCutNow>तुरंत काटें</AutoCutNow>
   <!-- EN: harvesting -->
@@ -1201,9 +1201,9 @@
   <!-- EN: cutting -->
   <CutGerund>काटना</CutGerund>
   <!-- EN: Cut all blight -->
-  <CutAllBlight>कटाई</CutAllBlight>
+  <CutAllBlight>सभी ब्लाइट काटें</CutAllBlight>
   <!-- EN: Mark all blighted plants to be destroyed. Blighted plants will not yield any food or resources and should be destroyed before the blight spreads. -->
-  <CutAllBlightDesc>प्रभावित पौधों को नष्ट करने के लिए चिह्नित करें। प्रभावित पौधे कोई भी भोजन या संसाधन नहीं देंगे और उन्हें फैलने से पहले नष्ट कर दिया जाना चाहिए।</CutAllBlightDesc>
+  <CutAllBlightDesc>नष्ट किए जाने के लिए सभी रोगग्रस्त पौधों को चिह्नित करें। रोगग्रस्त पौधे कोई भोजन या संसाधन नहीं देंगे और बीमारी फैलने से पहले उन्हें नष्ट कर दिया जाना चाहिए।</CutAllBlightDesc>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -1215,15 +1215,15 @@
   <!-- EN: Stockpile zone -->
   <Stockpile>भंडारण क्षेत्र</Stockpile>
   <!-- EN: stockpile -->
-  <StockpileGroup>भंडारण</StockpileGroup>
+  <StockpileGroup>भंडार</StockpileGroup>
   <!-- EN: Dumping stockpile zone -->
-  <DumpingStockpile>निपटान क्षेत्र</DumpingStockpile>
+  <DumpingStockpile>डंपिंग स्टॉकपाइल ज़ोन</DumpingStockpile>
   <!-- EN: Corpse stockpile zone -->
-  <CorpseStockpile>शव भंडारण क्षेत्र</CorpseStockpile>
+  <CorpseStockpile>शव स्टॉकपाइल ज़ोन</CorpseStockpile>
   <!-- EN: Priority -->
   <Priority>प्राथमिकता</Priority>
   <!-- EN: Clear all -->
-  <ClearAll>साफ़ करें</ClearAll>
+  <ClearAll>सब कुछ साफ़ करें</ClearAll>
   <!-- EN: Allow all -->
   <AllowAll>अनुमति दें</AllowAll>
   
@@ -1237,15 +1237,15 @@
 
   <!-- ThingFilter -->
   <!-- EN: {0} hit points -->
-  <HitPoints>{0} हिट पॉइंट</HitPoints>
+  <HitPoints>{0} हिट पॉइंट्स</HitPoints>
   <!-- EN: any quality -->
   <AnyQuality>कोई भी गुणवत्ता</AnyQuality>
   <!-- EN: {0} only -->
-  <OnlyQuality>{0} केवल</OnlyQuality>
+  <OnlyQuality>केवल {0}</OnlyQuality>
 
   <!-- Mouseover indicator -->
   <!-- EN: Undiscovered -->
-  <Undiscovered>अज्ञात</Undiscovered>
+  <Undiscovered>अनदेखा</Undiscovered>
   
   <!-- Animal management -->
   <!-- EN: Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
@@ -1257,119 +1257,119 @@
 
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
-  <ShowLearningHelperWhenEmptyToggleButton>सीखने में सहायक की दृश्यता खाली होने पर बदलें।\n\nसीखने में सहायक हमेशा दिखाई देता है यदि कोई अवधारणा सीखने के लिए सक्रिय है। यह टॉगल इसे तब गायब कर देता है जब कोई अवधारणा सक्रिय नहीं होती।</ShowLearningHelperWhenEmptyToggleButton>
+  <ShowLearningHelperWhenEmptyToggleButton>जब यह खाली हो, तब लर्निंग हेल्पर की दृश्यता को टॉगल करें।\n\nयदि सीखने के लिए कोई सक्रिय कॉन्सेप्ट मौजूद है, तो लर्निंग हेल्पर हमेशा दिखाई देता है। यह टॉगल इसे तब गायब कर देता है जब कोई कॉन्सेप्ट सक्रिय नहीं होता है।</ShowLearningHelperWhenEmptyToggleButton>
   <!-- EN: Toggle visibility of zones. -->
-  <ZoneVisibilityToggleButton>ज़ोन दृश्यता टॉगल करें।</ZoneVisibilityToggleButton>
+  <ZoneVisibilityToggleButton>ज़ोन की दृश्यता को टॉगल करें।</ZoneVisibilityToggleButton>
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the cursor is pointing. -->
-  <ShowBeautyToggleButton>सौंदर्य प्रदर्शन चालू/बंद करें।\n\nकर्सर की ओर इंगित स्थान पर खड़े व्यक्ति द्वारा दुनिया की सुंदरता प्रदर्शित करता है।</ShowBeautyToggleButton>
+  <ShowBeautyToggleButton>सुंदरता प्रदर्शन को टॉगल करें।\n\nकर्सर जहाँ इशारा कर रहा है, वहाँ खड़े पात्र द्वारा महसूस की जाने वाली दुनिया की सुंदरता प्रदर्शित करता है।</ShowBeautyToggleButton>
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the cursor is pointing. -->
-  <ShowRoomStatsToggleButton>कमरे के आँकड़े दिखाएँ।\n\nकर्सर जिस कमरे पर है उसके आँकड़े दिखाता है।</ShowRoomStatsToggleButton>
+  <ShowRoomStatsToggleButton>कमरे के आँकड़ों के प्रदर्शन को चालू या बंद करें।\n\nउस कमरे के आँकड़े प्रदर्शित करता है जहाँ कर्सर इशारा कर रहा है।</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton>कॉलोनीस्ट बार टॉगल करें।\n\nस्क्रीन के शीर्ष पर सभी कॉलोनीस्ट के लिए आइकन और बुनियादी स्थिति प्रदर्शित करता है।\n\nआप राइट-क्लिक करके और उन्हें खींचकर कॉलोनीस्ट बार में कॉलोनीस्ट को पुन: व्यवस्थित कर सकते हैं।</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>उपनिवेशी बार को टॉगल करें।\n\nस्क्रीन के ऊपरी भाग में सभी उपनिवेशी के लिए आइकन और बुनियादी स्थिति प्रदर्शित करता है।\n\nआप राइट-क्लिक करके और उन्हें खींचकर उपनिवेशी बार में उपनिवेशी को पुनर्व्यवस्थित कर सकते हैं।</ShowColonistBarToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by pressing the left trigger button and dragging them. -->
-  <ShowColonistBarToggleButtonController>कॉलोनीस्ट बार टॉगल करें।\n\nस्क्रीन के शीर्ष पर सभी कॉलोनीस्ट के लिए आइकन और बुनियादी स्थिति प्रदर्शित करता है।\n\nआप बाएं ट्रिगर बटन दबाकर और उन्हें खींचकर कॉलोनीस्ट बार में कॉलोनीस्ट को पुन: व्यवस्थित कर सकते हैं।</ShowColonistBarToggleButtonController>
+  <ShowColonistBarToggleButtonController>उपनिवेशी बार को चालू/बंद करें।\n\nस्क्रीन के ऊपरी भाग में सभी उपनिवेशी के लिए आइकन और बुनियादी स्थिति प्रदर्शित करता है।\n\nआप लेफ्ट ट्रिगर बटन दबाकर और उन्हें खींचकर उपनिवेशी बार में उपनिवेशी को पुनर्व्यवस्थित कर सकते हैं।</ShowColonistBarToggleButtonController>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
   <AutoHomeAreaToggleButton>नए निर्माण के आसपास घर के क्षेत्र का स्वतः विस्तार बदलना।</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
   <AutoRebuildButton>घर के क्षेत्र में नष्ट संरचनाओं का स्वचालित पुनर्निर्माण चालू/बंद करें।</AutoRebuildButton>
   <!-- EN: Toggle categorized mode on the resource readout. -->
-  <CategorizedResourceReadoutToggleButton>संसाधन प्रदर्शन में वर्गीकृत मोड चालू करें।</CategorizedResourceReadoutToggleButton>
+  <CategorizedResourceReadoutToggleButton>संसाधन रीडआउट पर श्रेणीबद्ध मोड को चालू या बंद करें।</CategorizedResourceReadoutToggleButton>
   <!-- EN: Toggle displaying animal names for tame named animals. -->
-  <ShowAnimalNamesToggleButton>पालतू नाम वाले जानवरों के नाम दिखाना बदलें।</ShowAnimalNamesToggleButton>
+  <ShowAnimalNamesToggleButton>पालतू नाम वाले जानवरों के लिए जानवरों के नाम दिखाने को चालू या बंद करें।</ShowAnimalNamesToggleButton>
   <!-- EN: Toggle visibility of roofs. -->
-  <ShowRoofOverlayToggleButton>छतों की दृश्यता बदलें।</ShowRoofOverlayToggleButton>
+  <ShowRoofOverlayToggleButton>छतों की दृश्यता को बदलें।</ShowRoofOverlayToggleButton>
   <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
-  <ShowFertilityOverlayToggleButton>उर्वरता आवरण चालू/बंद करें।\n\nयह दर्शाता है कि भूमि कितनी उपजाऊ है, जो प्रभावित करता है कि किस प्रकार के पौधे उग सकते हैं और वे कितनी तेजी से उगते हैं।</ShowFertilityOverlayToggleButton>
+  <ShowFertilityOverlayToggleButton>प्रजनन क्षमता ओवरले को चालू या बंद करें।\n\nयह दिखाता है कि ज़मीन कितनी उपजाऊ है, जो इस बात को प्रभावित करता है कि किस प्रकार के पौधे उग सकते हैं और वे कितनी तेज़ी से बढ़ते हैं।</ShowFertilityOverlayToggleButton>
   <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
-  <ShowTerrainAffordanceOverlayToggleButton>भूदृश्य अनुकूलता दृश्यता बदलें।\n\nयह प्रत्येक स्थान पर किस प्रकार की इमारतें बनाई जा सकती हैं, से संबंधित है।\n\nउदाहरण के लिए, कुछ प्रकार की भूमि केवल हल्की या मध्यम इमारतें स्वीकार करती हैं, भारी नहीं। पुल केवल पानी पर बनाए जा सकते हैं।</ShowTerrainAffordanceOverlayToggleButton>
+  <ShowTerrainAffordanceOverlayToggleButton>टेरेन अफोर्डेंस की दृश्यता को चालू या बंद करें।\n\nयह इस संबंध में है कि प्रत्येक स्थान पर किस प्रकार के निर्माण किए जा सकते हैं।\n\nउदाहरण के लिए, कुछ प्रकार की ज़मीन केवल हल्के या मध्यम निर्माण स्वीकार करती है, लेकिन भारी नहीं। पुल केवल पानी पर बनाए जा सकते हैं।</ShowTerrainAffordanceOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
-  <LockNorthUpToggleButton>कैमरे के घूमने को स्थिर करें ताकि उत्तरी ध्रुव हमेशा ऊपर रहे।</LockNorthUpToggleButton>
+  <LockNorthUpToggleButton>कैमरे के रोटेशन को लॉक करें ताकि उत्तरी ध्रुव हमेशा ऊपर रहे।</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting on the planet view. -->
-  <UsePlanetDayNightSystemToggleButton>ग्रह दृश्य पर दिन/रात प्रकाश चालू करें।</UsePlanetDayNightSystemToggleButton>
+  <UsePlanetDayNightSystemToggleButton>ग्रह के दृश्य पर दिन/रात की रोशनी को टॉगल करें।</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons for settlements belonging to other factions. -->
-  <ShowBasesExpandingIconsToggleButton>अन्य गुटों के बस्तियों के लिए विस्तार योग्य आइकन प्रदर्शित करना टॉगल करें।</ShowBasesExpandingIconsToggleButton>
+  <ShowBasesExpandingIconsToggleButton>Toggle displaying expanding icons for settlements belonging to other factions.</ShowBasesExpandingIconsToggleButton>
   <!-- EN: Toggle displaying expanding icons for important locations, such as your colony, quest locations, and active maps. -->
-  <ShowImportantExpandingIconsToggleButton>महत्वपूर्ण स्थानों के विस्तार चिह्न प्रदर्शन को बदलें, जैसे कि आपका उपनिवेश, खोज स्थान, और सक्रिय मानचित्र।</ShowImportantExpandingIconsToggleButton>
+  <ShowImportantExpandingIconsToggleButton>महत्वपूर्ण स्थानों, जैसे कि आपके उपनिवेश, क्वेस्ट स्थानों और सक्रिय मानचित्रों के लिए विस्तृत होते हुए आइकन दिखाने को चालू या बंद करें।</ShowImportantExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
-  <ShowWorldFeaturesToggleButton>भूमि आकृतियों के नामों की दृश्यता बदलें।</ShowWorldFeaturesToggleButton>
+  <ShowWorldFeaturesToggleButton>भू-आकृतियों के नामों की दृश्यता को चालू या बंद करें।</ShowWorldFeaturesToggleButton>
   <!-- EN: Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death. -->
-  <ShowTemperatureOverlayToggleButton>तापमान आवरण चालू करें। यह प्रत्येक कमरे और बाहर के हवा के तापमान को दर्शाता है।\n\nयदि तापमान बहुत अधिक या बहुत कम है तो उपनिवेशवासी नाखुश होंगे। अत्यधिक तापमान के संपर्क में आने से हाइपोथर्मिया, फ्रॉस्टबाइट, हीटस्ट्रोक, जलन और मृत्यु हो सकती है।</ShowTemperatureOverlayToggleButton>
+  <ShowTemperatureOverlayToggleButton>हीट ओवरले चालू या बंद करें। यह प्रत्येक कमरे और बाहर के वायु तापमान को दिखाता है।\n\nयदि तापमान बहुत अधिक या बहुत कम है तो उपनिवेशी नाखुश होंगे। अत्यधिक तापमान के संपर्क में आने से हाइपोथर्मिया, फ्रॉस्टबाइट, हीटस्ट्रोक, जलन और मृत्यु हो सकती है।</ShowTemperatureOverlayToggleButton>
 
   <!-- Hotkeys -->
   <!-- EN: Hotkey -->
-  <HotKeyTip>शॉर्टकट</HotKeyTip>
+  <HotKeyTip>हॉटकी</HotKeyTip>
   
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
-  <FireOn>आग लगाओ</FireOn>
+  <FireOn>{1_label} पर आग लगाओ</FireOn>
   <!-- EN: Burning -->
-  <Burning>जलाना</Burning>
+  <Burning>जल रहा है</Burning>
   <!-- EN: fire size {0} -->
   <FireSizeLower>आग का आकार {0}</FireSizeLower>
 
   <!-- Game conditions -->
   <!-- EN: Special conditions affecting the area right now. -->
-  <GameConditionsTip>वर्तमान में क्षेत्र को प्रभावित करने वाली विशेष स्थितियाँ।</GameConditionsTip>
+  <GameConditionsTip>अभी इस क्षेत्र को प्रभावित करने वाली विशेष स्थितियाँ।</GameConditionsTip>
   <!-- EN: time left -->
   <TimeLeft>शेष समय</TimeLeft>
   <!-- EN: impact date -->
   <ImpactDate>प्रभाव तिथि</ImpactDate>
   <!-- EN: Source unknown. -->
-  <SourceUnknown>अज्ञात स्रोत।</SourceUnknown>
+  <SourceUnknown>स्रोत अज्ञात।</SourceUnknown>
   <!-- EN: Click to jump to the source. -->
   <ClickToJumpToSource>स्रोत पर जाने के लिए क्लिक करें।</ClickToJumpToSource>
   <!-- EN: Click to jump to the flashstorm. -->
-  <ClickToJumpToFlashstorm>फ़्लैशस्टॉर्म पर जाने के लिए क्लिक करें।</ClickToJumpToFlashstorm>
+  <ClickToJumpToFlashstorm>फ्लैशस्टॉर्म पर जाने के लिए क्लिक करें।</ClickToJumpToFlashstorm>
   <!-- EN: Caused by quest: {0} -->
-  <CausedByQuest>कारण: {0} से हुआ</CausedByQuest>
+  <CausedByQuest>क्वेस्ट के कारण: {0}</CausedByQuest>
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
-  <NoStuffsToBuildWith>आपके पास बनाने के लिए कोई उपयोगी सामग्री नहीं है।</NoStuffsToBuildWith>
+  <NoStuffsToBuildWith>इसे बनाने के लिए आपके पास कोई उपयोग योग्य सामग्री नहीं है।</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
   <!-- EN: {0} will have work speed penalty -->
-  <WillGetWorkSpeedPenalty>{0} को कार्य गति दंड होगा</WillGetWorkSpeedPenalty>
+  <WillGetWorkSpeedPenalty>{0} को कार्य गति में दंड का सामना करना होगा</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>छत के नीचे नहीं रखा जा सकता।</MustPlaceUnroofed>
   <!-- EN: Must be placed under thick roof. -->
-  <MustPlaceUnderThickRoof>मोटे छत के नीचे रखा जाना चाहिए।</MustPlaceUnderThickRoof>
+  <MustPlaceUnderThickRoof>इसे घने छत के नीचे रखा जाना चाहिए।</MustPlaceUnderThickRoof>
   <!-- EN: Must be placed against a wall. -->
-  <MustPlaceOnWall>दीवार के सहारे रखा जाना चाहिए।</MustPlaceOnWall>
+  <MustPlaceOnWall>इसे दीवार के सहारे रखा जाना चाहिए।</MustPlaceOnWall>
   <!-- EN: Something is already placed on this wall. -->
-  <SomethingPlacedOnThisWall>दीवार पर पहले से ही कुछ रखा है।</SomethingPlacedOnThisWall>
+  <SomethingPlacedOnThisWall>इस दीवार पर पहले से ही कुछ रखा हुआ है।</SomethingPlacedOnThisWall>
   <!-- EN: This building can not support attachments. -->
-  <CannotSupportAttachment>यह इमारत संलग्नकों का समर्थन नहीं कर सकती।</CannotSupportAttachment>
+  <CannotSupportAttachment>यह इमारत अटैचमेंट का समर्थन नहीं कर सकती।</CannotSupportAttachment>
   <!-- EN: Must place with head attached to ship structural beam. -->
-  <MustPlaceHeadOnShipBeam>इसे जहाज़ संरचनात्मक बीम से सिर जुड़ा हुआ रखकर रखना चाहिए।</MustPlaceHeadOnShipBeam>
+  <MustPlaceHeadOnShipBeam>इसे जहाज़ी संरचनात्मक बीम से सिर के साथ जोड़कर रखना आवश्यक है।</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>इसे ऐसी किसी चीज़ के पास रखा जाना चाहिए जिसे हॉपर की आवश्यकता हो।</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>इसे ऐसी किसी चीज़ के बगल में रखा जाना चाहिए जिसे हॉपर की आवश्यकता हो।</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
-  <MustPlaceOnSteamGeyser>भाप झरने पर सीधे रखा जाना चाहिए।</MustPlaceOnSteamGeyser>
+  <MustPlaceOnSteamGeyser>इसे सीधे स्टीम गीजर पर रखा जाना चाहिए।</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
-  <MustPlaceCoolerWithFreeSpaces>कूलर की गर्म और ठंडी दोनों तरफ़ें खुली होनी चाहिए।</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceCoolerWithFreeSpaces>कूलर के गर्म और ठंडे दोनों पक्षों का खुला होना आवश्यक है।</MustPlaceCoolerWithFreeSpaces>
   <!-- EN: Both the sides must be exposed for air to pass through. -->
-  <MustPlaceVentWithFreeSpaces>दोनों तरफ़ हवा के आवागमन के लिए खुले होने चाहिए।</MustPlaceVentWithFreeSpaces>
+  <MustPlaceVentWithFreeSpaces>हवा के गुजरने के लिए दोनों पक्षों का खुला होना आवश्यक है।</MustPlaceVentWithFreeSpaces>
   <!-- EN: Must be placed with standable space on all sides. -->
   <MustPlaceAdjacentStandable>सभी तरफ खड़े होने योग्य स्थान के साथ रखा जाना चाहिए।</MustPlaceAdjacentStandable>
   <!-- EN: Must be placed next to a pod launcher's fueling port. -->
-  <MustPlaceNearFuelingPort>पॉड लांचर के ईंधन भरने वाले पोर्ट के पास रखा जाना चाहिए।</MustPlaceNearFuelingPort>
+  <MustPlaceNearFuelingPort>पॉड लॉन्चर के फ्यूलिंग पोर्ट के बगल में रखा जाना चाहिए।</MustPlaceNearFuelingPort>
   <!-- EN: Must be placed on drillable resources. -->
-  <MustPlaceOnDrillable>खोजने योग्य संसाधनों पर रखा जाना चाहिए।</MustPlaceOnDrillable>
+  <MustPlaceOnDrillable>इसे ड्रिल करने योग्य संसाधनों पर रखा जाना चाहिए।</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
   <CannotPlaceAdjacentTrap>जाल के पास नहीं रखा जा सकता।</CannotPlaceAdjacentTrap>
   <!-- EN: Cannot be placed next to another building of the same type. -->
-  <CannotPlaceAdjacentSameDef>एक ही प्रकार की अन्य इमारत के बगल में नहीं रखा जा सकता।</CannotPlaceAdjacentSameDef>
+  <CannotPlaceAdjacentSameDef>एक ही प्रकार की दूसरी इमारत के बगल में नहीं रखा जा सकता।</CannotPlaceAdjacentSameDef>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
-  <WindTurbine_WindPathIsBlockedBy>रुका हुआ</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedBy>द्वारा बाधित</WindTurbine_WindPathIsBlockedBy>
   <!-- EN: Blocked by roof -->
-  <WindTurbine_WindPathIsBlockedByRoof>छत से अवरुद्ध</WindTurbine_WindPathIsBlockedByRoof>
+  <WindTurbine_WindPathIsBlockedByRoof>छत से बाधित</WindTurbine_WindPathIsBlockedByRoof>
 
   <!-- Watermill generator -->
   <!-- EN: Flow reduced: Turbulence from other watermill -->
-  <Watermill_WaterUsedTwice>प्रवाह कम हुआ: अन्य जलचक्की से अशांति</Watermill_WaterUsedTwice>
+  <Watermill_WaterUsedTwice>प्रवाह कम हुआ: अन्य वॉटरमिल से विक्षोभ</Watermill_WaterUsedTwice>
 
   <!-- Cryptosleep casket -->
   <!-- EN: Contains -->
@@ -1379,53 +1379,53 @@
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
-  <ShipReportCannotLaunch>प्रारंभ नहीं हो सका।</ShipReportCannotLaunch>
+  <ShipReportCannotLaunch>लॉन्च नहीं कर सकते।</ShipReportCannotLaunch>
   <!-- EN: Ready for launch. -->
-  <ShipReportCanLaunch>प्रक्षेपण के लिए तैयार।</ShipReportCanLaunch>
+  <ShipReportCanLaunch>लॉन्च के लिए तैयार।</ShipReportCanLaunch>
   <!-- EN: Missing critical component -->
   <ShipReportMissingPart>महत्वपूर्ण घटक गायब है</ShipReportMissingPart>
   <!-- EN: requires -->
-  <ShipReportMissingPartRequires>आवश्यकताएँ</ShipReportMissingPartRequires>
+  <ShipReportMissingPartRequires>आवश्यकता है</ShipReportMissingPartRequires>
   <!-- EN: No full cryptosleep caskets -->
-  <ShipReportNoFullPods>कोई पूर्ण क्रिप्टोस्लीप ताबूत नहीं</ShipReportNoFullPods>
+  <ShipReportNoFullPods>कोई भी पूर्ण क्रिप्टोस्लीप कैस्केट्स नहीं</ShipReportNoFullPods>
   <!-- EN: Hibernating component -->
   <ShipReportHibernating>सुप्त घटक</ShipReportHibernating>
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>घटक अभी तैयार नहीं है</ShipReportNotReady>
   <!-- EN: No settlement to return to. Form a settlement first. -->
-  <ShipNoSettlementToReturnTo>कोई बस्ती लौटने के लिए नहीं। पहले बस्ती बनाएं।</ShipNoSettlementToReturnTo> 
+  <ShipNoSettlementToReturnTo>वापस जाने के लिए कोई बस्ती नहीं है। पहले एक बस्ती बनाएँ।</ShipNoSettlementToReturnTo> 
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>(*Name)Charlon Whitestone(/Name) रिएक्टर के सुप्तावस्था रिकवरी अनुक्रम को शुरू करने के लिए तैयार है।\n\nयह चेतावनी देता है कि इस प्रक्रिया में लगभग 15 दिन लगेंगे, और ऊर्जा संकेत लंबी दूरी से पता लगाने योग्य होगा।\n\nइस प्रकार का ऊर्जा संकेत अंतरतारकीय उड़ान क्षमता का संकेत देता है, और यह हताश हमलावरों के गिरोह और घातक मेकैनॉइड्स के झुंड को आकर्षित करेगा।\n\nआप पर ऐसी तीव्रता से हमला किया जाएगा जो आपने पहले कभी नहीं देखी होगी। सुनिश्चित करें कि आपकी रक्षा प्रणालियाँ पहले से तैयार हैं।</HibernateWarning>
+  <HibernateWarning>(*Name)Charlon Whitestone(/Name) रिएक्टर के हाइबरनेशन रिकवरी अनुक्रम को शुरू करने के लिए तैयार है।\n\nयह चेतावनी देता है कि इस प्रक्रिया में लगभग 15 दिन लगेंगे, और ऊर्जा संकेत लंबी दूरी से पहचाने जा सकते हैं।\n\nइस प्रकार का ऊर्जा संकेत अंतरतारकीय उड़ान क्षमता का संकेत देता है, और यह हताश छापामार के गिरोहों और घातक मेकैनॉइड्स के झुंडों को आकर्षित करेगा।\n\nआप पर ऐसी तीव्रता से हमला किया जाएगा जो आपने पहले कभी नहीं देखी होगी। सुनिश्चित करें कि आपकी रक्षा प्रणालियाँ पहले से तैयार हैं।</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarningStandalone>रिएक्टर चालू होने के लिए तैयार है।\n\nइस प्रक्रिया में लगभग 15 दिन लगेंगे, और ऊर्जा संकेत लंबी दूरी से पहचाने जा सकेंगे। इस प्रकार का ऊर्जा संकेत अंतरतारकीय उड़ान क्षमता को दर्शाता है, और यह हताश हमलावरों के गिरोह तथा घातक मेकैनॉइड्स के झुंडों को आकर्षित करेगा।\n\nआप पर ऐसी तीव्रता से हमला किया जाएगा जो आपने पहले कभी नहीं देखी होगी। सुनिश्चित करें कि आपकी रक्षा प्रणालियाँ पहले से तैयार हैं।</HibernateWarningStandalone>
+  <HibernateWarningStandalone>रिएक्टर पावर अप करने के लिए तैयार है।\n\nइस प्रक्रिया में लगभग 15 दिन लगेंगे, और ऊर्जा संकेत को बहुत दूर से पहचाना जा सकेगा। इस प्रकार का ऊर्जा संकेत अंतरतारकीय उड़ान क्षमता को दर्शाता है, और यह हताश छापामारों के गिरोहों तथा घातक मेकैनॉइड्स के झुंडों को आकर्षित करेगा।\n\nआप पर ऐसी तीव्रता से हमला किया जाएगा जो आपने पहले कभी नहीं देखी होगी। सुनिश्चित करें कि आपकी रक्षा प्रणालियाँ पहले से तैयार हैं।</HibernateWarningStandalone>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>(*नाम)चार्लोन व्हाइटस्टोन(/नाम) रिएक्टर के शीतनिद्रा पुनर्प्राप्ति क्रम शुरू करने के लिए तैयार है। वे आपको चेतावनी देते हैं कि इस प्रक्रिया में लगभग 15 दिन लगेंगे।</HibernateWarningPacifist>
+  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name) रिएक्टर के हाइबरनेशन रिकवरी सीक्वेंस को शुरू करने के लिए तैयार है। वे आपको चेतावनी देते हैं कि इस प्रक्रिया में लगभग 15 दिन लगेंगे।</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
   <HibernateWarningStandalonePacifist>रिएक्टर चालू होने के लिए तैयार है। प्रक्रिया में लगभग  दिन लगेंगे।</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
   <!-- EN: skilltrainer ({0}) -->
-  <SkillNeurotrainerLabel>कौशल प्रशिक्षक {0}</SkillNeurotrainerLabel>
+  <SkillNeurotrainerLabel>स्किलट्रेनर ({0})</SkillNeurotrainerLabel>
   <!-- EN: Use skilltrainer to learn {0} -->
-  <SkillNeurotrainerUseLabel>कौशल प्रशिक्षक से {0} सीखें</SkillNeurotrainerUseLabel>
+  <SkillNeurotrainerUseLabel>{0} सीखने के लिए स्किलट्रेनर का उपयोग करें</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
-  <SkillNeurotrainerDescription>एक बार इस्तेमाल होने वाली मैकेनाइट्स की अत्यधिक खुराक जो एक विशिष्ट कौशल को प्रशिक्षित करती है।\n\nखुराक आंख की कक्षा के माध्यम से दी जाती है। एक बार मस्तिष्क में जारी होने के बाद, मैकेनाइट्स जल्दी से विषय के कौशल को एक विशिष्ट क्षेत्र में सुधार करते हैं, आवश्यकतानुसार खुद को तंत्रिका ऊतक में परिवर्तित करते हैं।</SkillNeurotrainerDescription>
+  <SkillNeurotrainerDescription>मैकेनाइट्स की एक बार उपयोग होने वाली सुपर-डोज़ जो एक विशिष्ट कौशल को प्रशिक्षित करती है।\n\nयह डोज़ आँख की कक्षा के माध्यम से दी जाती है। मस्तिष्क में मुक्त होने के बाद, मैकेनाइट्स आवश्यकतानुसार स्वयं को तंत्रिका ऊतक (न्यूरल टिश्यू) में परिवर्तित करते हुए, विषय के किसी विशिष्ट क्षेत्र के कौशल में तेज़ी से सुधार करते हैं।</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <SkillNeurotrainerUsed>{USER_labelShort} ने स्तर {2} से स्तर {3} तक जाने के लिए {1} न्यूरो प्रशिक्षक का उपयोग किया।</SkillNeurotrainerUsed>
+  <SkillNeurotrainerUsed>{USER_labelShort} ने {2} स्तर से {3} स्तर पर जाने के लिए {1} न्यूरोट्रेनर का उपयोग किया।</SkillNeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
   <Installed>स्थापित</Installed>
   <!-- EN: Not installed -->
-  <NotInstalled>स्थापित नहीं</NotInstalled>
+  <NotInstalled>इंस्टॉल नहीं किया गया</NotInstalled>
   <!-- EN: Extracted tree will die in {time} unless replanted. -->
-  <MinifiedTreeWillDieIn>काटा गया पेड़ {time} में सूख जाएगा जब तक कि उसे दोबारा न लगाया जाए।</MinifiedTreeWillDieIn>
+  <MinifiedTreeWillDieIn>निकाला गया पेड़ {time} में मर जाएगा जब तक कि उसे पुन: रोपा न जाए।</MinifiedTreeWillDieIn>
 
   <!-- Art -->
   <!-- EN: Title -->
   <Title>शीर्षक</Title>
   <!-- EN: Untitled -->
-  <Untitled>बिना शीर्षक</Untitled>
+  <Untitled>शीर्षकहीन</Untitled>
 
   <!-- Unfinished thing -->
   <!-- EN: Unfinished {0} -->
@@ -1439,17 +1439,17 @@
   <!-- EN: quality -->
   <quality>गुणवत्ता</quality>
   <!-- EN: An item's quality is how well-made it is. -->
-  <QualityDescription>किसी वस्तु की गुणवत्ता यह दर्शाती है कि वह कितनी अच्छी तरह से बनाई गई है।</QualityDescription>
+  <QualityDescription>किसी वस्तु की गुणवत्ता इस बात पर निर्भर करती है कि वह कितनी अच्छी तरह बनाई गई है।</QualityDescription>
   <!-- EN: Quality: {0} -->
-  <QualityIs>गुणवत्ता {0}</QualityIs>
+  <QualityIs>गुणवत्ता: {0}</QualityIs>
 
   <!-- Mood descriptions -->
   <!-- EN: mental state -->
   <Mood_MentalState>मानसिक स्थिति</Mood_MentalState>
   <!-- EN: about to break -->
-  <Mood_AboutToBreak>टूटने वाला है।</Mood_AboutToBreak>
+  <Mood_AboutToBreak>टूटने ही वाला है</Mood_AboutToBreak>
   <!-- EN: on edge -->
-  <Mood_OnEdge>सीमा पर</Mood_OnEdge>
+  <Mood_OnEdge>तनावपूर्ण</Mood_OnEdge>
   <!-- EN: stressed -->
   <Mood_Stressed>तनावग्रस्त</Mood_Stressed>
   <!-- EN: neutral -->
@@ -1457,83 +1457,83 @@
   <!-- EN: content -->
   <Mood_Content>सामग्री</Mood_Content>
   <!-- EN: happy -->
-  <Mood_Happy>खुशी</Mood_Happy>
+  <Mood_Happy>खुश</Mood_Happy>
 
   <!-- Game over -->
   <!-- EN: Game Over -->
   <GameOver>खेल समाप्त</GameOver>
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
-  <GameOverEveryoneDead>सब मर गए हैं या चले गए हैं। यह कहानी समाप्त हो गई है।\n\nशायद कोई और इस जगह के खंडहरों का उपयोग करेगा।</GameOverEveryoneDead>
+  <GameOverEveryoneDead>सब मर चुके हैं या जा चुके हैं। यह कहानी समाप्त हो चुकी है।\n\nशायद कोई और इस स्थान के अवशेषों का उपयोग कर पाएगा।</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
-  <GameOverPlanetkillerImpact>प्रकाश की गति के करीब, ग्रह-विनाशक हथियार एक खरब हाइड्रोजन बमों की शक्ति के साथ जमीन पर टकराया। एक राइफल से गोली मारे गए पानी के गुब्बारे की तरह, यह दुनिया प्रभाव के तहत तरल हो गई और अपने पिघले हुए अवशेष ब्रह्मांड में बिखेर दिए।\n\n{0} का एक हिस्सा अब एक छोटा क्षुद्रग्रह बेल्ट है। बाकी पिघला हुआ, रेडियोधर्मी नरक है, जो लगातार किलोमीटर ऊंचे ग्रहकम्पन से हिलता रहता है।\n\nआप जीवित नहीं रहे।</GameOverPlanetkillerImpact>
+  <GameOverPlanetkillerImpact>At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive.</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->
-  <GameOverShipLaunchedIntro>आपने यान प्रक्षेपित कर दिया!</GameOverShipLaunchedIntro>
+  <GameOverShipLaunchedIntro>आपने जहाज लॉन्च कर दिया है!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunchedEnding>आपका मशीन व्यक्तित्व अब जहाज को एक सुरक्षित स्थान की ओर ले जाने का प्रयास करेगा। इसे इस प्रणाली में एक समृद्ध ग्रह मिल सकता है। या, यह दूसरे तारे तक सदियों लंबी यात्रा कर सकता है। यह यहाँ एक नई चमकदार दुनिया बनाने के लिए किसी के आने के इंतज़ार में, एक क्षुद्रग्रह पर बर्फ के नीचे छिपने का निर्णय भी ले सकता है।\n\nजब आप जागेंगे तब आपको पता चलेगा।</GameOverShipLaunchedEnding>
+  <GameOverShipLaunchedEnding>Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up.</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
-  <GameOverColonistsEscaped>ये उपनिवेशवादी भाग गए:\n\n{0}</GameOverColonistsEscaped>
+  <GameOverColonistsEscaped>ये उपनिवेशी बच निकले:\n\n{0}</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->
-  <GameOverColonistsLeft>ये उपनिवेशवादी पीछे छूट गए:\n\n{0}</GameOverColonistsLeft>
+  <GameOverColonistsLeft>इन उपनिवेशी को पीछे छोड़ दिया गया था:\n\n{0}</GameOverColonistsLeft>
   <!-- EN: In memory of:\n -->
-  <GameOverInMemoryOf>स्मृति में:</GameOverInMemoryOf>
+  <GameOverInMemoryOf>की याद में:</GameOverInMemoryOf>
   <!-- EN: Keep watching -->
-  <GameOverKeepWatching>निगरानी जारी रखें</GameOverKeepWatching>
+  <GameOverKeepWatching>देखते रहें</GameOverKeepWatching>
   <!-- EN: Keep watching for now -->
-  <GameOverKeepWatchingForNow>ठीक है। मैं प्रतीक्षा करूँगा।</GameOverKeepWatchingForNow>
+  <GameOverKeepWatchingForNow>अभी के लिए देखते रहें</GameOverKeepWatchingForNow>
   <!-- EN: Create new wanderers -->
-  <GameOverCreateNewWanderers>नए आवारा</GameOverCreateNewWanderers>
+  <GameOverCreateNewWanderers>नए घुमंतू बनाएँ</GameOverCreateNewWanderers>
   <!-- EN: Everyone is dead or gone. Perhaps someone will find a use for the ruins of this place.\n\nChoose new wanderers arrive at your colony and continue the story. -->
-  <GameOverCreateNewWanderersText>सब मर गए हैं या चले गए हैं। शायद कोई इस जगह के खंडहरों का उपयोग करेगा।\n\nनए आवारा लोग आपकी बस्ती में आते हैं और कहानी जारी रखते हैं।</GameOverCreateNewWanderersText>
+  <GameOverCreateNewWanderersText>सब मर चुके हैं या जा चुके हैं। शायद कोई इस जगह के अवशेषों के लिए कोई उपयोग ढूंढ लेगा।\n\nनए घुमंतू आपके उपनिवेश में आते हैं और कहानी को आगे बढ़ाते हैं, इसे चुनें।</GameOverCreateNewWanderersText>
   <!-- EN: Main menu -->
   <GameOverMainMenu>मुख्य मेनू</GameOverMainMenu>
   <!-- EN: No colony -->
-  <NoColony>कोई बस्ती नहीं</NoColony>
+  <NoColony>कोई उपनिवेश नहीं</NoColony>
   <!-- EN: cannot reach any destination -->
-  <NoWandererDestination>किसी भी गंतव्य तक पहुँच संभव नहीं।</NoWandererDestination>
+  <NoWandererDestination>किसी भी गंतव्य तक नहीं पहुँचा जा सकता</NoWandererDestination>
   <!-- EN: must wait {0}h -->
-  <GameOverCreateNewWanderersWait>इंतजार करें {0}घंटा</GameOverCreateNewWanderersWait>
+  <GameOverCreateNewWanderersWait>{0}घंटे प्रतीक्षा करनी होगी</GameOverCreateNewWanderersWait>
 
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
-  <LifespanExpiry>समाप्ति में:</LifespanExpiry>
+  <LifespanExpiry>समाप्ति में शेष:</LifespanExpiry>
 
   <!-- Facilities -->
   <!-- EN: inactive -->
   <InactiveFacility>निष्क्रिय</InactiveFacility>
   <!-- EN: Links to -->
-  <FacilityPotentiallyLinkedTo>लिंकें</FacilityPotentiallyLinkedTo>
+  <FacilityPotentiallyLinkedTo>के लिंक</FacilityPotentiallyLinkedTo>
   <!-- EN: Not linked to a building -->
   <FacilityNoPotentialLinks>से कोई संबंध नहीं है</FacilityNoPotentialLinks>
   <!-- EN: Max connected per building -->
-  <FacilityMaxSimultaneousConnections>प्रति भवन अधिकतम जुड़ाव</FacilityMaxSimultaneousConnections>
+  <FacilityMaxSimultaneousConnections>प्रत्येक इमारत के लिए अधिकतम जुड़े हुए</FacilityMaxSimultaneousConnections>
   <!-- EN: Front of building is blocked. -->
-  <FacilityFrontBlocked>इमारत का अगला भाग अवरुद्ध है।</FacilityFrontBlocked>
+  <FacilityFrontBlocked>इमारत का अगला हिस्सा अवरुद्ध है।</FacilityFrontBlocked>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort} का {1} अब बढ़ रहा है।</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort} का {1} अब खेती हो रहा है।</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
   <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort} की {1} अब स्थिर है।</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort} का {1} अब छूट में है।</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort} की {1} अब सुधार की स्थिति में है।</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
   <MarriageSpotUsable>अब उपयोग करने योग्य है</MarriageSpotUsable>
   <!-- EN: Not usable: {0}. -->
-  <MarriageSpotNotUsable>अनुपयोगी: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotUsable>उपयोग के योग्य नहीं: {0}</MarriageSpotNotUsable>
   <!-- EN: blocked -->
   <MarriageSpotNotStandable>अवरुद्ध</MarriageSpotNotStandable>
   <!-- EN: too dangerous for {1_labelShort} -->
   <MarriageSpotDangerous>{1_labelShort} के लिए बहुत खतरनाक</MarriageSpotDangerous>
   <!-- EN: forbidden for {1_labelShort} -->
-  <MarriageSpotForbidden>निषिद्ध {1_labelShort}</MarriageSpotForbidden>
+  <MarriageSpotForbidden>{1_labelShort} के लिए वर्जित</MarriageSpotForbidden>
   <!-- EN: reserved -->
   <MarriageSpotReserved>आरक्षित</MarriageSpotReserved>
   <!-- EN: unreachable for {1_labelShort} -->
-  <MarriageSpotUnreachable>अगम्य {1_labelShort}</MarriageSpotUnreachable>
+  <MarriageSpotUnreachable>{1_labelShort} के लिए अपहुंच योग्य</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
-  <MarriageSpotInPrisonCell>कोठरी में</MarriageSpotInPrisonCell>
+  <MarriageSpotInPrisonCell>जेल की कोठरी में</MarriageSpotInPrisonCell>
   <!-- EN: uncomfortable temperature -->
   <NotEnjoyableOutsideTemperature>असहज तापमान</NotEnjoyableOutsideTemperature>
 
@@ -1555,83 +1555,83 @@
 
   <!-- Maintainable -->
   <!-- EN: Due for maintenance. -->
-  <DueForMaintenance>रखरखाव हेतु।</DueForMaintenance>
+  <DueForMaintenance>रखरखाव के लिए तैयार।</DueForMaintenance>
   <!-- EN: Deteriorating due to lack of maintenance. -->
-  <DeterioratingDueToLackOfMaintenance>रखरखाव की कमी से बिगड़ रहा है।</DeterioratingDueToLackOfMaintenance>
+  <DeterioratingDueToLackOfMaintenance>रखरखाव की कमी के कारण खराब हो रहा है।</DeterioratingDueToLackOfMaintenance>
 
   <!-- Deep drill -->
   <!-- EN: Progress to next lump -->
-  <ProgressToNextLump>अगले खंड की ओर प्रगति</ProgressToNextLump>
+  <ProgressToNextLump>अगले लम्प की ओर प्रगति</ProgressToNextLump>
   <!-- EN: Resource below -->
-  <ResourceBelow>संसाधन नीचे।</ResourceBelow>
+  <ResourceBelow>नीचे संसाधन</ResourceBelow>
   <!-- EN: Progress to next portion -->
   <ProgressToNextPortion>अगले हिस्से की ओर प्रगति</ProgressToNextPortion>
   <!-- EN: No resources below. -->
-  <DeepDrillNoResources>संसाधन नहीं।</DeepDrillNoResources>
+  <DeepDrillNoResources>नीचे कोई संसाधन नहीं।</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>गहरी ड्रिल संसाधन समाप्त, ड्रिल स्वचालित रूप से निषिद्ध। {0} के खनन की शुरुआत करने के लिए अनफ़ॉर्बिड करें।</DeepDrillExhausted>
+  <DeepDrillExhausted>डीप ड्रिल संसाधन समाप्त हो गए हैं, ड्रिल स्वचालित रूप से वर्जित कर दी गई है। {0} के खनन को शुरू करने के लिए अनफ़ॉरबिड करें।</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
-  <DeepDrillExhaustedNoFallback>गहरी ड्रिल संसाधन समाप्त।</DeepDrillExhaustedNoFallback>
+  <DeepDrillExhaustedNoFallback>डीप ड्रिल संसाधन समाप्त हो गए।</DeepDrillExhaustedNoFallback>
 
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
-  <ChargesRemaining>शेष भार</ChargesRemaining>
+  <ChargesRemaining>शेष चार्ज</ChargesRemaining>
   
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
-  <LearningHelper>सीखने में सहायता</LearningHelper>
+  <LearningHelper>सीखने में सहायक</LearningHelper>
   <!-- EN: In-game tutor that aims to teach you information about topics relevant to your colony's current state -->
-  <LearningHelperTooltip>खेल शिक्षक जो आपके उपनिवेश की वर्तमान स्थिति से संबंधित विषयों के बारे में जानकारी सिखाने का लक्ष्य रखता है।</LearningHelperTooltip>
+  <LearningHelperTooltip>इन-गेम ट्यूटर जिसका उद्देश्य आपको आपके उपनिवेश की वर्तमान स्थिति से संबंधित विषयों के बारे में जानकारी देना है</LearningHelperTooltip>
   <!-- EN: Mark as learned -->
-  <MarkLearned>सीख लिया।</MarkLearned>
+  <MarkLearned>सीखा हुआ चिह्नित करें</MarkLearned>
   <!-- EN: Already learned -->
   <AlreadyLearned>सीखा गया</AlreadyLearned>
   <!-- EN: Filter -->
-  <Filter>छानना</Filter>
+  <Filter>फ़िल्टर</Filter>
 
   <!-- Compass -->
   <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
-  <CompassTip>उत्तर दिशा दिखाता है। उत्तरी ध्रुव ऊपर की ओर देखने के लिए कैमरे को घुमाएं।</CompassTip>
+  <CompassTip>उत्तर दिशा दिखाता है। कैमरे को घुमाने के लिए क्लिक करें ताकि उत्तरी ध्रुव ऊपर रहे।</CompassTip>
 
   <!-- World route planner -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
-  <RoutePlannerButtonTip>क्लिक करके योजना मोड में प्रवेश करें जहां आप अपनी यात्रा की योजना बना सकते हैं और मार्ग बिंदुओं के बीच की दूरी की गणना कर सकते हैं।</RoutePlannerButtonTip>
+  <RoutePlannerButtonTip>प्लानिंग मोड में प्रवेश करने के लिए क्लिक करें जहाँ आप अपनी यात्रा की योजना बना सकते हैं और वेपॉइंट्स के बीच की दूरी की गणना कर सकते हैं।</RoutePlannerButtonTip>
   <!-- EN: Add two or more waypoints. -->
-  <RoutePlannerAddTwoOrMoreWaypoints>दो या अधिक मार्ग बिंदु जोड़ें।</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddTwoOrMoreWaypoints>दो या अधिक वेपॉइंट्स जोड़ें।</RoutePlannerAddTwoOrMoreWaypoints>
   <!-- EN: Add one or more waypoints. -->
-  <RoutePlannerAddOneOrMoreWaypoints>एक या अधिक मार्ग बिंदु जोड़ें।</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>एक या अधिक वेपॉइंट्स जोड़ें।</RoutePlannerAddOneOrMoreWaypoints>
   <!-- EN: Total route time: {0} -->
   <RoutePlannerEstTimeToFinalDest>कुल मार्ग समय: {0}</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
-  <RoutePlannerUsingAverageTicksPerMoveWarning>योजना मोड डिफ़ॉल्ट कारवां गति का उपयोग करता है। आपकी गति भिन्न हो सकती है।</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>प्लानिंग मोड डिफ़ॉल्ट कारवां गति का उपयोग करता है। आपकी गति भिन्न हो सकती है।</RoutePlannerUsingAverageTicksPerMoveWarning>
   <!-- EN: Calculating for: {0} -->
-  <RoutePlannerUsingTicksPerMoveOfCaravan>गणना कर रहा है: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>{0} के लिए गणना कर रहा है:</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->
-  <RoutePlannerPressRMBToAddAndRemoveWaypoints>दाहिना माउस बटन: रास्ते के बिंदु जोड़ें/हटाएं।</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>राइट माउस बटन: वेपॉइंट्स जोड़ें/हटाएं।</RoutePlannerPressRMBToAddAndRemoveWaypoints>
   <!-- EN: Left trigger button: Add/remove waypoints. -->
-  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>बायां ट्रिगर बटन: मार्ग बिंदु जोड़ें/हटाएं।</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>बायां ट्रिगर बटन: वेपॉइंट्स जोड़ें/हटाएं।</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
   <!-- EN: ESC: Exit planning mode. -->
-  <RoutePlannerPressEscapeToExit>ESC: योजना मोड से बाहर निकलें।</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToExit>ESC: प्लानिंग मोड से बाहर निकलें।</RoutePlannerPressEscapeToExit>
   <!-- EN: {Key:Cancel}: Exit planning mode. -->
-  <RoutePlannerPressEscapeToExitController>{Key:Cancel}: योजना मोड से बाहर निकलें।</RoutePlannerPressEscapeToExitController>
+  <RoutePlannerPressEscapeToExitController>{Key:Cancel}: प्लानिंग मोड से बाहर निकलें।</RoutePlannerPressEscapeToExitController>
   <!-- EN: ESC: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: कारवां गठन संवाद पर लौटें।</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: कारवां फॉर्मेशन संवाद पर वापस लौटें।</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
   <!-- EN: {Key:Cancel}: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{Key:Cancel}: कारवां गठन संवाद पर लौटें।</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{Key:Cancel}: कारवां फॉर्मेशन संवाद पर वापस लौटें।</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToWaypoint>अनुमानित यात्रा समय: {0}</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypoint>अनुमानित यात्रा का समय: {0}</EstimatedTimeToWaypoint>
   <!-- EN: Est. travel time (from previous waypoint): {0} -->
-  <EstimatedTimeToWaypointFromPrevious>अनुमानित यात्रा समय (पिछले वेपॉइंट से): {0}</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToWaypointFromPrevious>अनुमानित यात्रा का समय (पिछले वेपॉइंट से): {0}</EstimatedTimeToWaypointFromPrevious>
   <!-- EN: Est. travel time: {0} -->
   <EstimatedTimeToTile>अनुमानित यात्रा समय: {0}</EstimatedTimeToTile>
   <!-- EN: Foraged food amount -->
-  <ForagedFoodAmount>एकत्रित भोजन</ForagedFoodAmount>
+  <ForagedFoodAmount>संग्रहित भोजन की मात्रा</ForagedFoodAmount>
 
   <!-- Outfits -->
   <!-- EN: Anything -->
   <OutfitAnything>कुछ भी</OutfitAnything>
   <!-- EN: Worker -->
-  <OutfitWorker>कर्मचारी</OutfitWorker>
+  <OutfitWorker>श्रमिक</OutfitWorker>
   <!-- EN: Soldier -->
   <OutfitSoldier>सैनिक</OutfitSoldier>
   <!-- EN: Nudist -->
@@ -1641,15 +1641,15 @@
 
   <!-- Hibernatable -->
   <!-- EN: Hibernating -->
-  <HibernatableHibernating>शीतनिद्रा</HibernatableHibernating>
+  <HibernatableHibernating>सुप्तावस्था में</HibernatableHibernating>
   <!-- EN: Starting up -->
-  <HibernatableStartingUp>शुरू करना</HibernatableStartingUp>
+  <HibernatableStartingUp>शुरू हो रहा है</HibernatableStartingUp>
 
   <!-- Transport pods -->
   <!-- EN: {0}: See available orders... -->
   <ClickToSeeAvailableOrders_WorldObject>{0}: उपलब्ध आदेश देखें…</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
-  <ClickToSeeAvailableOrders_Empty>आदेश देखें…</ClickToSeeAvailableOrders_Empty>
+  <ClickToSeeAvailableOrders_Empty>उपलब्ध ऑर्डर देखें…</ClickToSeeAvailableOrders_Empty>
   
   <!-- Pawn tooltips -->
   <!-- EN: {0} ({1})\n{2}\n{3} -->
@@ -1661,13 +1661,13 @@
   <!-- EN: {0}\n{1} -->
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Fall rate: {0} / s ({1}s until zero) -->
-  <PawnTooltipPsychicEntropyStats>गिरने की दर: {0} / सेकंड ({1} सेकंड में शून्य)</PawnTooltipPsychicEntropyStats>
+  <PawnTooltipPsychicEntropyStats>गिरने की दर: {0} / s ({1}s शून्य होने तक)</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
-  <PawnTooltipPsychicEntropyDesc>मनोवैज्ञानिक शक्ति का उपयोग करने के बाद तंत्रिका ऊष्मा (neural heat) बढ़ जाती है। सामान्य सीमा से अधिक होने पर कई दिनों तक चलने वाला मनोवैज्ञानिक ब्रेकडाउन हो सकता है।\n\nतंत्रिका ऊष्मा समय के साथ स्वाभाविक रूप से कम हो जाती है। इस प्रक्रिया को एल्टेक्स परिधान पहनने या दर्द में होने से तेज़ किया जा सकता है।</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyDesc>साइकिक शक्ति का उपयोग करने के बाद न्यूरल हीट बढ़ जाती है। सामान्य सीमा से अधिक होने पर कई दिनों तक रहने वाला साइकिक ब्रेकडाउन हो सकता है।\n\nन्यूरल हीट समय के साथ स्वाभाविक रूप से कम हो जाती है। इस प्रक्रिया को एल्टेक्स परिधान पहनकर या दर्द में रहकर तेज किया जा सकता है।</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
-  <PawnTooltipPsychicEntropyPainFocus>दर्द प्रोत्साहन\n\nदर्द मन को केंद्रित करता है और तंत्रिका ऊष्मा अपव्यय को तेज करता है।\n\nदर्द स्तर: {0}\nऊष्मा पुनर्प्राप्ति बोनस: {1}</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyPainFocus>दर्द वृद्धि\n\nदर्द मन को केंद्रित करता है और न्यूरल हीट डिसिपेशन की गति बढ़ाता है।\n\nदर्द का स्तर: {0}\nहीट रिकवरी में बोनस: {1}</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
-  <PawnTooltipPsychicEntropyLimit>न्यूरल हीट लिमिटर को चालू या बंद करें। आपकी हीट लिमिट से अधिक होने पर कुछ दिनों तक चलने वाला मानसिक ब्रेकडाउन हो सकता है। इससे स्थायी क्षति नहीं होगी।</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsychicEntropyLimit>न्यूरल हीट लिमिटर को चालू या बंद करें। आपकी हीट सीमा से अधिक होने पर कई दिन तक चलने वाला साइकिक ब्रेकडाउन हो सकता है। इससे स्थायी नुकसान नहीं होगा।</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
   <PawnTooltipPsyfocus>साइकोफोकस: {0}</PawnTooltipPsyfocus>
   
@@ -1677,33 +1677,33 @@
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
-  <Reward_Pawn_DropPod>{0_nameDef} नाम का एक {0_age}-वर्षीय {0_title} ({0_relationInfoInParentheses}) एक परिवहन पॉड में पहुँचेगा</Reward_Pawn_DropPod>
+  <Reward_Pawn_DropPod>{0_nameDef} नाम का एक {0_age}-वर्ष का {0_title} ({0_relationInfoInParentheses}) एक ट्रांसपोर्ट पॉड में आएगा</Reward_Pawn_DropPod>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_WalkIn>एक {0_age} वर्षीय {0_title} जिसका नाम {0_nameDef} है, आएगा और आपके साथ जुड़ जाएगा {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
+  <Reward_Pawn_WalkIn>{0_nameDef} नाम का एक {0_age}-वर्षीय {0_title}, जो {0_relationInfoInParentheses} है, आएगा और आपके साथ शामिल होगा</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_Caravan>एक {0_age} वर्षीय {0_title} जिसका नाम {0_nameDef} है, आपके साथ {0_relationInfoInParentheses} शामिल होगा।</Reward_Pawn_Caravan>
+  <Reward_Pawn_Caravan>{0_nameDef} नाम का एक {0_age}-वर्ष का {0_title}, {0_relationInfoInParentheses}, आपके साथ शामिल होगा</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):\n\n{0} -->
-  <Reward_Items>निम्नलिखित संसाधनों के साथ परिवहन पॉड पहुँचेंगे (कुल मूल्य {1}):\n\n{0}</Reward_Items>
+  <Reward_Items>निम्नलिखित संसाधनों के साथ ट्रांसपोर्ट पॉड्स पहुँचेंगे (कुल मूल्य {1}):\n\n{0}</Reward_Items>
   <!-- EN: you will receive (total value {1}):\n\n{0} -->
-  <Reward_Items_Caravan>आपको (कुल मूल्य {1}) प्राप्त होगा:\n\n{0}</Reward_Items_Caravan>
+  <Reward_Items_Caravan>आपको प्राप्त होगा (कुल मूल्य {1}):\n\n{0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
-  <Reward_Goodwill>आपके गुट के संबंध {0_name} से {1} से बेहतर होंगे।</Reward_Goodwill>
+  <Reward_Goodwill>{0_name} के साथ आपके गुट के संबंध {1} से सुधर जाएंगे</Reward_Goodwill>
   <!-- EN: you will be taken to the stars -->
-  <Reward_PassageOffworld>तुम तारों तक ले जाए जाओगे।</Reward_PassageOffworld>
+  <Reward_PassageOffworld>आपको सितारों तक ले जाया जाएगा</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
-  <Reward_PassageOffworld_Label>अंतरग्रहीय प्रस्थान</Reward_PassageOffworld_Label>
+  <Reward_PassageOffworld_Label>ऑफवर्ल्ड मार्ग</Reward_PassageOffworld_Label>
   <!-- EN: you can loot everything from the camp -->
-  <Reward_CampLoot>आप शिविर से सब कुछ लूट सकते हैं।</Reward_CampLoot>
+  <Reward_CampLoot>आप कैंप से सब कुछ लूट सकते हैं</Reward_CampLoot>
   <!-- EN: Camp loot -->
-  <Reward_CampLoot_Label>शिविर लूट</Reward_CampLoot_Label>
+  <Reward_CampLoot_Label>कैंप लूट</Reward_CampLoot_Label>
   <!-- EN: It is unclear what will happen if you accept this quest -->
-  <Reward_Unknown>इस खोज को स्वीकार करने पर क्या होगा यह स्पष्ट नहीं है।</Reward_Unknown>
+  <Reward_Unknown>यह स्पष्ट नहीं है कि यदि आप इस क्वेस्ट को स्वीकार करते हैं तो क्या होगा</Reward_Unknown>
   <!-- EN: Unknown -->
   <Reward_Unknown_Label>अज्ञात</Reward_Unknown_Label>
   <!-- EN: the visitors will work and fight for you -->
-  <Reward_VisitorsHelp>आगंतुक आपके लिए काम करेंगे और लड़ेंगे।</Reward_VisitorsHelp>
+  <Reward_VisitorsHelp>आगंतुक आपके लिए काम करेंगे और लड़ेंगे</Reward_VisitorsHelp>
   <!-- EN: Visitors' help -->
-  <Reward_VisitorsHelp_Label>विज़िटर सहायता</Reward_VisitorsHelp_Label>
+  <Reward_VisitorsHelp_Label>आगंतुकों की सहायता</Reward_VisitorsHelp_Label>
   <!-- EN: New psylink level -->
   <Reward_BestowingCeremony_Label>नया साइलिंक स्तर</Reward_BestowingCeremony_Label>
   <!-- EN: {PAWNNAME} gains psylink -->
@@ -1711,27 +1711,27 @@
   <!-- EN: Shuttle loot -->
   <Reward_ShuttleLoot_Label>शटल लूट</Reward_ShuttleLoot_Label>
   <!-- EN: you can deconstruct and loot the shuttle -->
-  <Reward_ShuttleLoot>आप शटल को नष्ट करके लूट सकते हैं।</Reward_ShuttleLoot>
+  <Reward_ShuttleLoot>आप शटल को नष्ट कर सकते हैं और लूट सकते हैं</Reward_ShuttleLoot>
   <!-- EN: Possible future reward -->
-  <Reward_PossibleFutureReward_Label>संभावित इनाम</Reward_PossibleFutureReward_Label>
+  <Reward_PossibleFutureReward_Label>संभावित भविष्य का इनाम</Reward_PossibleFutureReward_Label>
   <!-- EN: a reward possibly granted in the future -->
-  <Reward_PossibleFutureReward>एक संभावित भविष्य पुरस्कार</Reward_PossibleFutureReward>
+  <Reward_PossibleFutureReward>एक पुरस्कार जो भविष्य में दिया जा सकता है</Reward_PossibleFutureReward>
   <!-- EN: {TITLE} title -->
-  <Reward_Title_Label>शीर्षक</Reward_Title_Label>
+  <Reward_Title_Label>{TITLE} शीर्षक</Reward_Title_Label>
   <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
-  <Reward_Title>{PAWNNAME} को {FACTION} से {TITLE} उपाधि प्राप्त हुई</Reward_Title>
+  <Reward_Title>{PAWNNAME} gains {TITLE} title from {FACTION}</Reward_Title>
   <!-- EN: value {0} -->
   <TotalValue>मूल्य {0}</TotalValue>
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
-  <BondedWith>जुड़ा हुआ: {0}</BondedWith>
+  <BondedWith>से जुड़ा है: {0}</BondedWith>
   <!-- EN: Not yet bonded -->
-  <NotBonded>बंधा नहीं</NotBonded>
+  <NotBonded>अभी तक बंधा नहीं है</NotBonded>
   <!-- EN: bonded to someone else -->
   <BladelinkBondedToSomeoneElse>किसी दूसरे से बंधा हुआ</BladelinkBondedToSomeoneElse>
   <!-- EN: (existing bond) -->
-  <BladelinkAlreadyBonded>संबंध</BladelinkAlreadyBonded>
+  <BladelinkAlreadyBonded>(मौजूदा बंधन)</BladelinkAlreadyBonded>
   <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
   <BladelinkAlreadyBondedDialog>एक व्यक्ति एक समय में केवल एक ही पर्सोना हथियार के साथ जुड़ सकता है।\n\n{WEAPON_labelShort} को सुसज्जित करने और उसके साथ जुड़ने के लिए, {PAWN_nameDef} के वर्तमान में जुड़े हुए हथियार {BONDEDWEAPON_labelShort} को पहले नष्ट किया जाना चाहिए।</BladelinkAlreadyBondedDialog>
   <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
@@ -1747,15 +1747,15 @@
 
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1}. -->
-  <InterceptsProjectilesEvery>अवरोधित करता है {0} हर {1} पर।</InterceptsProjectilesEvery>
+  <InterceptsProjectilesEvery>{1} के हर {0} को इंटरसेप्ट करता है।</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0}. -->
-  <InterceptsProjectiles>अवरोध {0}.</InterceptsProjectiles>
+  <InterceptsProjectiles>{0} को रोकता है।</InterceptsProjectiles>
   <!-- EN: ground and aerial projectiles -->
-  <InterceptsProjectiles_BothProjectiles>भूमि और हवाई प्रक्षेपण</InterceptsProjectiles_BothProjectiles>
+  <InterceptsProjectiles_BothProjectiles>ज़मीनी और हवाई प्रोजेक्टाइल्स</InterceptsProjectiles_BothProjectiles>
   <!-- EN: ground projectiles -->
-  <InterceptsProjectiles_GroundProjectiles>ज़मीनी प्रक्षेपण</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>ज़मीनी प्रोजेक्टाइल्स</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
-  <InterceptsProjectiles_AerialProjectiles>हवाई प्रक्षेपण</InterceptsProjectiles_AerialProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>हवाई प्रोजेक्टाइल्स</InterceptsProjectiles_AerialProjectiles>
 
   <!-- Condition causers -->
   <!-- EN: Affected gender -->
@@ -1763,30 +1763,30 @@
 
   <!-- Hediff misc -->
   <!-- EN: Caused by: {0} -->
-  <CausedByHediff>के कारण: {0}</CausedByHediff>
+  <CausedByHediff>कारण: {0}</CausedByHediff>
   
   <!-- EN: {DAMAGE_label} weakness -->
-  <DamageFactorWeakness>कमजोरी</DamageFactorWeakness>
+  <DamageFactorWeakness>{DAMAGE_label} कमजोरी</DamageFactorWeakness>
   <!-- EN: {DAMAGE_label} resistance -->
-  <DamageFactorResistance>क्षति प्रतिरोध</DamageFactorResistance>
+  <DamageFactorResistance>{DAMAGE_label} प्रतिरोध</DamageFactorResistance>
   <!-- EN: {DAMAGE_label} damage that this creature receives is multiplied by this amount. -->
-  <DamageFactor>प्राप्त क्षति को यह राशि से गुणा किया जाता है।</DamageFactor>
+  <DamageFactor>इस जीव को होने वाला {DAMAGE_label} नुकसान इस मात्रा से गुणा हो जाता है।</DamageFactor>
   
   <!-- Healing -->
   <!-- EN: {0_nameDef}'s {1} was healed. -->
   <HealingHealHediff>{0_nameDef} का {1} ठीक हो गया।</HealingHealHediff>
   <!-- EN: {0_nameDef}'s {1} was restored. -->
-  <HealingRestoreBodyPart>{0_nameDef} का {1} बहाल किया गया।</HealingRestoreBodyPart>
+  <HealingRestoreBodyPart>{0_nameDef} का {1} बहाल कर दिया गया।</HealingRestoreBodyPart>
 
   <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
-  <WarningBuildingCausesHostility>सावधान: यहाँ इमारत रखने से {FACTION_name} क्रोधित होगा!</WarningBuildingCausesHostility>
+  <WarningBuildingCausesHostility>सावधान: यहाँ कोई इमारत रखने से {FACTION_name} क्रोधित हो जाएगा!</WarningBuildingCausesHostility>
 
   <!-- EN: Choose landing site -->
-  <ChooseLandingSite>स्थल चुनें</ChooseLandingSite>
+  <ChooseLandingSite>लैंडिंग स्थल चुनें</ChooseLandingSite>
 
   <!-- LordJobs -->
   <!-- EN: Outcome chances at {0} quality -->
-  <LordJobOutcomeChances>{0} गुणवत्ता की संभावनाएँ</LordJobOutcomeChances>
+  <LordJobOutcomeChances>{0} गुणवत्ता पर परिणाम की संभावनाएँ</LordJobOutcomeChances>
   <!-- EN: Expected duration -->
   <ExpectedLordJobDuration>अपेक्षित अवधि</ExpectedLordJobDuration>
 
@@ -1795,75 +1795,75 @@
   <Ritual>अनुष्ठान</Ritual>
 
   <!-- EN: Takes place at -->
-  <RitualTakesPlaceAt>होता है</RitualTakesPlaceAt>
+  <RitualTakesPlaceAt>यहाँ घटित होता है</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
-  <RitualTargetThingDefsInfo>कोई भी {0}</RitualTargetThingDefsInfo>
+  <RitualTargetThingDefsInfo>कोई {0} भी नहीं</RitualTargetThingDefsInfo>
   <!-- EN: Attending {0} -->
-  <LordReportAttending>उपस्थित {0}</LordReportAttending>
+  <LordReportAttending>{0} में उपस्थित</LordReportAttending>
   <!-- EN: {0} has been canceled. -->
   <RitualCalledOff>{0} रद्द कर दिया गया है।</RitualCalledOff>
   <!-- EN: {0} was not completed because of lack of attendance. -->
-  <RitualNobodyAttended>{0} पूरा नहीं हो सका क्योंकि उपस्थिति की कमी थी।</RitualNobodyAttended>
+  <RitualNobodyAttended>उपस्थिति की कमी के कारण {0} पूरा नहीं हो सका।</RitualNobodyAttended>
   <!-- EN: {0} has been completed. -->
   <RitualFinished>{0} पूरा हो गया है।</RitualFinished>
   <!-- EN: ends in {0} -->
-  <RitualEndsIn>{0} में समाप्त होता है</RitualEndsIn>
+  <RitualEndsIn>{0} पर समाप्त होता है</RitualEndsIn>
   <!-- EN: Can start any time -->
-  <RitualStartAnyTime>कभी भी शुरू किया जा सकता है।</RitualStartAnyTime>
+  <RitualStartAnyTime>किसी भी समय शुरू कर सकते हैं</RitualStartAnyTime>
   <!-- EN: Can start after event -->
-  <RitualStartEvent>शुरू हो सकता है घटना के बाद।</RitualStartEvent>
+  <RitualStartEvent>घटना के बाद शुरू कर सकते हैं</RitualStartEvent>
   <!-- EN: Focus objects -->
-  <RitualFocusObjects>लक्ष्य वस्तुएं</RitualFocusObjects>
+  <RitualFocusObjects>वस्तुओं पर ध्यान दें</RitualFocusObjects>
   <!-- EN: Participating roles -->
-  <RitualParticipatingRoles>भागीदारी भूमिकाएं</RitualParticipatingRoles>
+  <RitualParticipatingRoles>भागीदार भूमिकाएँ</RitualParticipatingRoles>
   <!-- EN: Organizers -->
   <Organizers>आयोजक</Organizers>
   <!-- EN: Quality factors -->
   <QualityFactors>गुणवत्ता कारक</QualityFactors>
   <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
-  <QualityFactorTooltipUncertain>यह शर्त पूरी हो सकती है, परिस्थितियों पर निर्भर करते हुए।\n\nयदि यह पूरी होती है, तो गुणवत्ता बोनस लागू होगा।</QualityFactorTooltipUncertain>
+  <QualityFactorTooltipUncertain>यह स्थिति, चीजें कैसे आगे बढ़ती हैं, इस पर निर्भर करते हुए, पूरी की जा सकती है।\n\nयदि यह पूरी हो जाती है, तो गुणवत्ता बोनस लागू होगा।</QualityFactorTooltipUncertain>
   <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
   <QualityFactorTooltipNotFulfilled>यह शर्त पूरी नहीं हुई है।\n\nगुणवत्ता बोनस लागू नहीं होगा।</QualityFactorTooltipNotFulfilled>
   <!-- EN: Spectators -->
   <Spectators>दर्शक</Spectators>
   <!-- EN: Not participating -->
-  <NotParticipating>भाग नहीं लेना</NotParticipating>
+  <NotParticipating>भाग नहीं ले रहा है</NotParticipating>
   <!-- EN: Drag and drop or left/right click to move people. -->
-  <DragPawnsToRolesInfo>खींचकर छोड़ें या लोगों को ले जाने के लिए बाएं/दाएं क्लिक करें।</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfo>लोगों को ले जाने के लिए ड्रैग और ड्रॉप करें या बाएँ/दाएँ क्लिक करें।</DragPawnsToRolesInfo>
   <!-- EN: Drag and drop or click to move people. -->
-  <DragPawnsToRolesInfoController>खींचकर या क्लिक करके लोगों को हिलाएं।</DragPawnsToRolesInfoController>
+  <DragPawnsToRolesInfoController>लोगों को ले जाने के लिए खींचें और छोड़ें या क्लिक करें।</DragPawnsToRolesInfoController>
   <!-- EN: A slave. The human property of others. -->
-  <RitualBeginSlaveDesc>एक गुलाम। दूसरों की संपत्ति मनुष्य।</RitualBeginSlaveDesc>
+  <RitualBeginSlaveDesc>एक गुलाम। दूसरों की मानवीय संपत्ति।</RitualBeginSlaveDesc>
   <!-- EN: {0_labelShort} is sleeping. If included in the event, {0_pronoun} will wake up to participate. -->
   <RitualBeginSleepingDesc>{0_labelShort} सो रहा/रही है। यदि घटना में शामिल किया गया, तो {0_pronoun} भाग लेने के लिए जाग जाएगा/जाएगी।</RitualBeginSleepingDesc>
   <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the event. -->
-  <RitualBeginSleepingWarning>कुछ चयनित प्रतिभागी सो रहे हैं। वे घटना शुरू होने पर जागेंगे।</RitualBeginSleepingWarning>
+  <RitualBeginSleepingWarning>चुने गए कुछ प्रतिभागी सो रहे हैं। इवेंट शुरू होने पर वे जाग जाएंगे।</RitualBeginSleepingWarning>
   <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
-  <RitualRoleRequiresSocialRole>यह पद {0} सामाजिक भूमिका वाले उपनिवेशवादी द्वारा सबसे अच्छी तरह से किया जाता है।\n\nयदि कोई इस भूमिका के बिना व्यक्ति इस पद को भरता है, तो आपको निम्नलिखित बोनस नहीं मिलेंगे:</RitualRoleRequiresSocialRole>
+  <RitualRoleRequiresSocialRole>यह पद {0} की सामाजिक भूमिका निभाने वाले उपनिवेशी द्वारा सबसे अच्छी तरह से किया जाता है।\n\nयदि इस भूमिका के बिना कोई व्यक्ति इस पद को भरता है, तो आपको निम्नलिखित बोनस नहीं मिलेंगे</RitualRoleRequiresSocialRole>
   <!-- EN: No substitute available for the role of {0}. -->
   <RitualRoleCantSubstitute>{0} की भूमिका के लिए कोई विकल्प उपलब्ध नहीं है।</RitualRoleCantSubstitute>
   <!-- EN: {0} progress -->
   <RitualOutcomeProgress>{0} प्रगति</RitualOutcomeProgress>
   <!-- EN: {0} quality depends on -->
-  <RitualOutcomeQualityAbstract>{0} गुणवत्ता पर निर्भर करती है</RitualOutcomeQualityAbstract>
+  <RitualOutcomeQualityAbstract>{0} की गुणवत्ता निर्भर करती है</RitualOutcomeQualityAbstract>
   <!-- EN: {0} total quality was {1}, determined by these factors -->
-  <RitualOutcomeQualitySpecific>{0} कुल गुणवत्ता {1} थी, जो इन कारकों से निर्धारित हुई</RitualOutcomeQualitySpecific>
+  <RitualOutcomeQualitySpecific>{0} कुल गुणवत्ता {1} थी, जो इन कारकों द्वारा निर्धारित की गई थी</RitualOutcomeQualitySpecific>
   <!-- EN: Performed recently -->
   <RitualOutcomePerformedRecently>हाल ही में किया गया</RitualOutcomePerformedRecently>
   <!-- EN: {0} expectations -->
-  <RitualQualityExpectations>{0} अपेक्षाएँ</RitualQualityExpectations>
+  <RitualQualityExpectations>{0} उम्मीदें</RitualQualityExpectations>
   <!-- EN: Ritual ambience sound -->
-  <RitualAmbienceSound>अनुष्ठान माहौल ध्वनि</RitualAmbienceSound>
+  <RitualAmbienceSound>अनुष्ठान परिवेश ध्वनि</RitualAmbienceSound>
   <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
-  <RitualQualityLowWarning>कुल {0} गुणवत्ता {1} से नीचे है। आगे बढ़ने से आपकी कॉलोनी पर नकारात्मक प्रभाव पड़ने की संभावना है।\n\nक्या आप निश्चित हैं?</RitualQualityLowWarning>
+  <RitualQualityLowWarning>कुल {0} गुणवत्ता {1} से नीचे है। आगे बढ़ने से आपके उपनिवेश पर सबसे अधिक नकारात्मक प्रभाव पड़ सकता है।\n\nक्या आप सुनिश्चित हैं?</RitualQualityLowWarning>
   <!-- EN: No reachable appropriate place to speak. -->
   <AbilitySpeechDisabledNoSpot>बोलने के लिए कोई उपयुक्त स्थान नहीं है।</AbilitySpeechDisabledNoSpot>
   <!-- EN: {0_labelShort} is incapable of {1}. -->
   <AbilityDisabledNoCapacity>{0_labelShort} {1} करने में असमर्थ है।</AbilityDisabledNoCapacity>
   <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
-  <RitualOutcomeExtraDesc_Mood>अनुष्ठान में भाग लेने वाले सभी को {0} मनोदशा {1} दिनों के लिए प्राप्त होगी।</RitualOutcomeExtraDesc_Mood>
+  <RitualOutcomeExtraDesc_Mood>अनुष्ठान में भाग लेने वाले प्रत्येक व्यक्ति को {1} दिनों के लिए {0} मनोदशा प्राप्त होती है।</RitualOutcomeExtraDesc_Mood>
   <!-- EN: This ritual has no quality offsets, so the best outcome is always expected -->
-  <RitualOutcomeNoQuality>यह अनुष्ठान में कोई गुणवत्ता अंतर नहीं है, इसलिए सर्वोत्तम परिणाम हमेशा अपेक्षित है।</RitualOutcomeNoQuality>
+  <RitualOutcomeNoQuality>इस अनुष्ठान में कोई गुणवत्ता ऑफसेट नहीं है, इसलिए हमेशा सर्वोत्तम परिणाम की अपेक्षा की जाती है</RitualOutcomeNoQuality>
 
   <!-- EN: Begin -->
   <Begin>शुरू करें</Begin>
@@ -1872,56 +1872,56 @@
   <!-- EN: Begin {0} for {1} -->
   <BeginRitualFor>शुरू करें {0} के लिए {1}</BeginRitualFor>
   <!-- EN: {0} (out of {1}) -->
-  <QualityOutOf>{0} (कुल {1})</QualityOutOf>
+  <QualityOutOf>{0} ({1} में से)</QualityOutOf>
   <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
-  <DateRitualNoObligation>{0} एक तिथि-विशिष्ट अनुष्ठान है। आप इसे {1} में, {2} को शुरू कर सकते हैं।</DateRitualNoObligation>
+  <DateRitualNoObligation>{0} एक तिथि-विशिष्ट अनुष्ठान है। आप इसे {1} में, {2} को शुरू कर पाएंगे।</DateRitualNoObligation>
 
   <!-- EN: Replace with -->
-  <PreceptReplaceWith>बदलें</PreceptReplaceWith>
+  <PreceptReplaceWith>से बदलें</PreceptReplaceWith>
   <!-- EN: Ritual seat of {IDEOS} -->
-  <RitualSeatOf>आसन की रस्म {IDEOS}</RitualSeatOf>
+  <RitualSeatOf>{IDEOS} की अनुष्ठान सीट</RitualSeatOf>
   <!-- EN: Expected quality -->
-  <ExpectedLordJobQuality>आपातकालीन नियम।</ExpectedLordJobQuality>
+  <ExpectedLordJobQuality>अपेक्षित गुणवत्ता</ExpectedLordJobQuality>
   <!-- EN: Starting quality -->
-  <StartingQuality>प्रारंभिक गुणवत्ता</StartingQuality>
+  <StartingQuality>शुरुआती गुणवत्ता</StartingQuality>
   <!-- EN: {PAWN_labelShort}'s {1} -->
   <RitualPredictedOutcomeDescPawnStat>{PAWN_labelShort} का {1}</RitualPredictedOutcomeDescPawnStat>
   <!-- EN: Room beauty -->
-  <RitualPredictedOutcomeDescRoomBeauty>कमरा सौंदर्य</RitualPredictedOutcomeDescRoomBeauty>
+  <RitualPredictedOutcomeDescRoomBeauty>कमरे की सुंदरता</RitualPredictedOutcomeDescRoomBeauty>
   <!-- EN: {PAWN_labelShort}'s expectations -->
   <RitualPredictedOutcomeDescPawnExpectations>{PAWN_labelShort} की अपेक्षाएँ</RitualPredictedOutcomeDescPawnExpectations>
   <!-- EN: Loved one present -->
-  <RitualOutcomeLovedOnePresentLabel>प्रिय उपस्थिति</RitualOutcomeLovedOnePresentLabel>
+  <RitualOutcomeLovedOnePresentLabel>प्रियजन उपस्थित है</RitualOutcomeLovedOnePresentLabel>
   <!-- EN: Any person that {PAWN_labelShort} considers their friend or more. -->
   <RitualOutcomeLovedOnePresentTip>कोई भी व्यक्ति जिसे {PAWN_labelShort} अपना मित्र या उससे अधिक मानता है।</RitualOutcomeLovedOnePresentTip>
 
   <!-- EN: Any of these -->
-  <RitualOutcomeLabelAnyOfThese>गंभीर नियम:</RitualOutcomeLabelAnyOfThese>
+  <RitualOutcomeLabelAnyOfThese>इनमें से कोई भी</RitualOutcomeLabelAnyOfThese>
   <!-- EN: Replaces {PAWN_labelShort} -->
-  <RitualRoleReplaces>बदलता है {PAWN_labelShort}</RitualRoleReplaces>
+  <RitualRoleReplaces>{PAWN_labelShort} को बदलता है</RitualRoleReplaces>
 
   <!-- EN: present -->
   <Present>उपस्थित</Present>
   <!-- EN: {0} used -->
-  <Used>{0} प्रयुक्त</Used>
+  <Used>{0} उपयोग किया गया</Used>
   <!-- EN: {0} starting quality -->
-  <StartingRitualQuality>{0} प्रारंभिक गुणवत्ता</StartingRitualQuality>
+  <StartingRitualQuality>{0} शुरुआती गुणवत्ता</StartingRitualQuality>
 
   <!-- EN: up to {0} quality -->
   <OutcomeBonusDesc_Quality>{0} गुणवत्ता तक</OutcomeBonusDesc_Quality>
   <!-- EN: {0} quality -->
   <OutcomeBonusDesc_QualitySingleOffset>{0} गुणवत्ता</OutcomeBonusDesc_QualitySingleOffset>
   <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
-  <OutcomeLetterLabel>परिणाम लेबल, अनुष्ठान लेबल</OutcomeLetterLabel>
+  <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
   <!-- EN: {0} max -->
   <MaxValue>{0} अधिकतम</MaxValue>
 
   <!-- EN: {0} of -->
   <ThingOf>{0} का</ThingOf>
   <!-- EN: {0} of {1} -->
-  <ThingOfSource>{0} का {1}</ThingOfSource>
+  <ThingOfSource>{1} का {0}</ThingOfSource>
   <!-- EN: {0} of {1} and {2} -->
-  <ThingOfTwoSources>{0} का {1} और {2}</ThingOfTwoSources>
+  <ThingOfTwoSources>{0}, {1} और {2} का</ThingOfTwoSources>
 
   <!-- Gas types -->
   <!-- EN: blind smoke -->
@@ -1929,9 +1929,9 @@
   <!-- EN: tox gas -->
   <ToxGas>विषाक्त गैस</ToxGas>
   <!-- EN: rot stink -->
-  <RotStink>सड़न दुर्गंध</RotStink>
+  <RotStink>सड़न की दुर्गंध</RotStink>
   <!-- EN: deadlife dust -->
-  <DeadlifeDust>मृत जीवन धूल</DeadlifeDust> 
+  <DeadlifeDust>डेडलाइफ डस्ट</DeadlifeDust> 
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->
@@ -1956,12 +1956,12 @@
   <!-- EN: {0_nameDef} is in a mental state. -->
   <PawnIsInMentalState>{0_nameDef} एक मानसिक अवस्था में है।</PawnIsInMentalState>
   <!-- EN: {0_nameDef} is in an aggressive mental state. -->
-  <PawnIsInAggroMentalState>{0_nameDef} आक्रामक मानसिक अवस्था में है।</PawnIsInAggroMentalState>
+  <PawnIsInAggroMentalState>{0_nameDef} एक आक्रामक मानसिक अवस्था में है।</PawnIsInAggroMentalState>
 
   <!-- EN: Disabled work -->
   <DisabledWorkLabel>अक्षम कार्य</DisabledWorkLabel>
   <!-- EN: Disabled needs -->
-  <DisabledNeedsLabel>अक्षम आवश्यकताएँ</DisabledNeedsLabel>
+  <DisabledNeedsLabel>अक्षम ज़रूरतें</DisabledNeedsLabel>
 
   <!-- Glowers -->
   <!-- EN: change color -->
@@ -1969,26 +1969,26 @@
   <!-- EN: Change the color of the light. -->
   <GlowerChangeColorDescription>प्रकाश का रंग बदलें।</GlowerChangeColorDescription>
   <!-- EN: You must research {0} to change light color. -->
-  <GlowerChangeColorNeedsResearch>आपको प्रकाश का रंग बदलने के लिए {0} पर शोध करना होगा।</GlowerChangeColorNeedsResearch>
+  <GlowerChangeColorNeedsResearch>प्रकाश का रंग बदलने के लिए आपको {0} का अनुसंधान करना होगा।</GlowerChangeColorNeedsResearch>
 
   <!-- Shields -->
   <!-- EN: A personal shield that will attempt to stop incoming projectiles or shrapnel. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP. -->
-  <ShieldPersonalTip>एक व्यक्तिगत ढाल जो आने वाली प्रक्षेप्य या टुकड़ों को रोकने का प्रयास करेगी। यह पहनने वाले को बाहर से गोली चलाने से रोकता है, और ईएमपी से टकराने पर तुरंत बंद हो जाता है।</ShieldPersonalTip>
+  <ShieldPersonalTip>एक व्यक्तिगत ढाल जो आने वाले प्रोजेक्टाइल या छर्रों को रोकने का प्रयास करेगी। यह पहनने वाले को बाहर गोली चलाने से रोकती है, और ईएमपी से टकराने पर तुरंत बंद हो जाती है।</ShieldPersonalTip>
 
   <!-- EN: {PAWN_nameDef} is so loyal to {PAWN_possessive} home that {PAWN_pronoun} will refuse to be recruited if taken prisoner. -->
-  <UnrecruitableDesc>{PAWN_nameDef} अपने घर के प्रति इतना वफादार है कि बंदी बनाए जाने पर भी {PAWN_pronoun} भर्ती होने से इनकार कर देगा।</UnrecruitableDesc>
+  <UnrecruitableDesc>{PAWN_nameDef}, {PAWN_possessive} घर के प्रति इतना वफादार है कि यदि उसे बंदी बना लिया जाए, तो वह भर्ती होने से इनकार कर देगा।</UnrecruitableDesc>
 
   <!-- EN: Random -->
   <Random>यादृच्छिक</Random>
 
   <!-- EN: Plant {0_label} -->
-  <PlantThing>पौधा लगाना</PlantThing>
+  <PlantThing>पौधा {0_label}</PlantThing>
   <!-- EN: Plant a {0_label} in a chosen area. -->
-  <PlantThingDesc>चुने हुए क्षेत्र में {0_label} लगाएं।</PlantThingDesc>
+  <PlantThingDesc>एक चुने हुए क्षेत्र में {0_label} लगाएँ।</PlantThingDesc>
   <!-- EN: Cancel planting {0_label} -->
-  <CancelPlantThing>रोपण रद्द करें</CancelPlantThing>
+  <CancelPlantThing>{0_label} की रोपाई रद्द करें</CancelPlantThing>
   <!-- EN: Cancel planting the {0_label}. -->
-  <CancelPlantThingDesc>रोपण रद्द करें {0_label} का।</CancelPlantThingDesc>
+  <CancelPlantThingDesc>{0_label} की बुवाई रद्द करें।</CancelPlantThingDesc>
 
   <!-- EN: another gathering is in progress. -->
   <AbilitySpeechDisabledAnotherGatheringInProgress>एक और सभा जारी है।</AbilitySpeechDisabledAnotherGatheringInProgress>
@@ -2006,82 +2006,82 @@
   <!-- EN: already unlocked -->
   <AlreadyUnlocked>पहले से खुला</AlreadyUnlocked>
   <!-- EN: when discovered -->
-  <WhenDiscovered>खोजे जाने पर</WhenDiscovered>
+  <WhenDiscovered>खोजने पर</WhenDiscovered>
   
   <!-- EN: Was driven into a mental break after reading {0}. -->
-  <BookMentalBreakMessage>{0} पढ़ने के बाद मानसिक रूप से टूट गया।</BookMentalBreakMessage>
+  <BookMentalBreakMessage>{0} को पढ़ने के बाद मानसिक टूटन की ओर ले जाया गया।</BookMentalBreakMessage>
   <!-- EN: {0} done (complete in {1} hours) -->
-  <BookReadProgress>{0} पूरा हुआ ({1} घंटों में पूरा)</BookReadProgress>
+  <BookReadProgress>{0} पूरा हुआ ({1} घंटों में पूर्ण)</BookReadProgress>
   
   <!-- EN: learning speed -->
   <BookLearningModifier>सीखने की गति</BookLearningModifier>
   <!-- EN: Mental break chance -->
-  <BookMentalBreak>मानसिक विराम संभावना</BookMentalBreak>
+  <BookMentalBreak>मानसिक टूटन की संभावना</BookMentalBreak>
   
   <!-- EN: {BOOK_labelShort} is not readable -->
-  <BookNotReadable>{BOOK_labelShort} पठनीय नहीं है।</BookNotReadable>
+  <BookNotReadable>{BOOK_labelShort} पढ़ने योग्य नहीं है</BookNotReadable>
   <!-- EN: {PAWN_nameDef} can't read -->
-  <BookCantRead>पढ़ नहीं सकता</BookCantRead>
+  <BookCantRead>{PAWN_nameDef} पढ़ नहीं सकता</BookCantRead>
   <!-- EN: {PAWN_nameDef} must be a {STAGES} -->
-  <BookCantBeStage>{PAWN_nameDef} को एक {STAGES} होना चाहिए।</BookCantBeStage>
+  <BookCantBeStage>{PAWN_nameDef} को एक {STAGES} होना चाहिए</BookCantBeStage>
   <!-- EN: {PAWN_nameDef} is blind -->
-  <BookBlind>{PAWN_nameDef} अंधा है।</BookBlind>
+  <BookBlind>{PAWN_nameDef} अंधा है</BookBlind>
   
   <!-- EN: max level {0} -->
   <BookMaxLevel>अधिकतम स्तर {0}</BookMaxLevel>
   
   <!-- EN: Reading {0}: {1} done (complete in {2} hours) -->
-  <ReadingReportHeader>पढ़ना {0}: {1} पूरा हुआ ({2} घंटों में पूरा)</ReadingReportHeader>
+  <ReadingReportHeader>{0} पढ़ना: {1} पूरा हुआ ({2} घंटों में पूर्ण)</ReadingReportHeader>
   
   <!-- EN: Assign reading -->
-  <ReadingDialogTitle>सौंपना पढ़ने</ReadingDialogTitle>
+  <ReadingDialogTitle>पढ़ना सौंपें</ReadingDialogTitle>
   <!-- EN: Assign to {0} -->
-  <ReadingAssignTo>सौंपें {0}</ReadingAssignTo>
+  <ReadingAssignTo>{0} को सौंपें</ReadingAssignTo>
   <!-- EN: Assign -->
-  <ReadingAssign>सौंपना</ReadingAssign>
+  <ReadingAssign>नियुक्त करें</ReadingAssign>
 
   <!-- EN: The books currently on this bookshelf. -->
-  <ContainedBooksDesc>इस बुकशेल्फ़ पर वर्तमान में रखी किताबें।</ContainedBooksDesc>
+  <ContainedBooksDesc>इस बुकशेल्फ़ पर वर्तमान में मौजूद पुस्तकें।</ContainedBooksDesc>
   
   <!-- EN: Books stored -->
-  <BookshelfStoredInspect>पुस्तकें संग्रहित</BookshelfStoredInspect>
+  <BookshelfStoredInspect>संग्रहित पुस्तकें</BookshelfStoredInspect>
   <!-- EN: Reading bonus in room -->
   <BookshelfReadingBonusInspect>कमरे में पढ़ने का बोनस</BookshelfReadingBonusInspect>
 
   <!-- EN: Remove this book from the bookshelf. -->
-  <EjectBookTooltip>इस पुस्तक को बुकशेल्फ़ से निकालें।</EjectBookTooltip>
+  <EjectBookTooltip>इस किताब को बुकशेल्फ़ से हटाएँ।</EjectBookTooltip>
   
   <!-- Pushing -->
   <!-- EN: Push to... -->
-  <CommandPushTo>धक्का दें…</CommandPushTo>
+  <CommandPushTo>... पर धकेलें</CommandPushTo>
   <!-- EN: requires {0} -->
-  <RequiredCapacity>ज़रूरत {0}</RequiredCapacity>
+  <RequiredCapacity>{0} की आवश्यकता है</RequiredCapacity>
 
   <!-- Pocket Maps -->
   <!-- EN: Unable to enter {0}, destination is blocked -->
-  <UnableToEnterPortal>{0} में प्रवेश करने में असमर्थ, गंतव्य अवरुद्ध है।</UnableToEnterPortal>
+  <UnableToEnterPortal>{0} में प्रवेश करने में असमर्थ, गंतव्य अवरुद्ध है</UnableToEnterPortal>
 
   <!-- EN: This category of research has not been discovered. -->
-  <ResearchNotDiscovered>इस शोध श्रेणी की खोज नहीं हुई है।</ResearchNotDiscovered>
+  <ResearchNotDiscovered>अनुसंधान की इस श्रेणी की खोज नहीं की गई है।</ResearchNotDiscovered>
 
   <!-- EN: Emergence -->
-  <Emergence>उदय</Emergence>
+  <Emergence>उद्भव</Emergence>
   
   <!-- EN: remove {0} -->
-  <RemovePart>हटाएँ {0}</RemovePart>
+  <RemovePart>{0} हटाएँ</RemovePart>
 
   <!-- EN: {GERUND} {TARGETLABEL} at -->
-  <DoWorkAtThing>पर</DoWorkAtThing>
+  <DoWorkAtThing>{GERGUND} {TARGETLABEL} पर</DoWorkAtThing>
   <!-- EN: can be studied in {0} -->
   <CanBeStudiedInDuration>{0} में अध्ययन किया जा सकता है</CanBeStudiedInDuration>
   
   <!-- EN: About to explode -->
   <AboutToExplode>विस्फोट होने वाला है।</AboutToExplode>
   <!-- EN: No fuel to eject -->
-  <RefuelableNoFuelToEject>ईंधन निकालने को नहीं है।</RefuelableNoFuelToEject>
+  <RefuelableNoFuelToEject>बाहर निकालने के लिए कोई ईंधन नहीं है</RefuelableNoFuelToEject>
   
   <!-- EN: New Anomaly expansion available now! -->
-  <MainScreen_AnomalyAvailableNow>नया विसंगति विस्तार अब उपलब्ध है!</MainScreen_AnomalyAvailableNow>
+  <MainScreen_AnomalyAvailableNow>नया एनॉमली विस्तार अब उपलब्ध है!</MainScreen_AnomalyAvailableNow>
 
   <!-- EN: Disabled by scenario -->
   <DisabledByScenario>परिदृश्य द्वारा अक्षम</DisabledByScenario>
@@ -2089,13 +2089,13 @@
   <!-- EN: blocked by roof -->
   <BlockedByRoof>छत से अवरुद्ध</BlockedByRoof>
   <!-- EN: Blocked by terrain (requires {0_label} terrain support) -->
-  <BlockedByTerrain>भूभाग से अवरुद्ध ({0_label} भूभाग समर्थन आवश्यक है)</BlockedByTerrain>
+  <BlockedByTerrain>भूभाग द्वारा बाधित ({0_label} भूभाग समर्थन की आवश्यकता है)</BlockedByTerrain>
 
   <!-- Craters -->
   <!-- EN: Fill in -->
-  <DesignatorFillIn>भरना</DesignatorFillIn>
+  <DesignatorFillIn>भरें</DesignatorFillIn>
   <!-- EN: Designate this crater to be filled in. A colonist assigned to construction will fill it in. -->
-  <DesignatorFillInDesc>इस गड्ढे को भरने के लिए नामित करें। निर्माण कार्य में नियुक्त एक उपनिवेशक इसे भर देगा।</DesignatorFillInDesc>
+  <DesignatorFillInDesc>इस क्रेटर को भरने के लिए नामित करें। निर्माण के लिए नियुक्त एक उपनिवेशी इसे भर देगा।</DesignatorFillInDesc>
 
   <!-- Hacking -->
   <!-- EN: Hack progress -->
@@ -2107,9 +2107,9 @@
   <!-- EN: hacked -->
   <Hacked>हैक किया गया</Hacked>
   <!-- EN: Terminals hacked -->
-  <TerminalsHacked>टर्मिनल हैक किए गए</TerminalsHacked>
+  <TerminalsHacked>टर्मिनल्स हैक किए गए</TerminalsHacked>
   <!-- EN: Intellectual needed -->
-  <IntellectualSkillPrerequisite>बौद्धिक आवश्यक</IntellectualSkillPrerequisite>
+  <IntellectualSkillPrerequisite>बौद्धिक कौशल की आवश्यकता है</IntellectualSkillPrerequisite>
   <!-- EN: Auto hack -->
   <AutoHack>स्वचालित हैकिंग</AutoHack>
   <!-- EN: When enabled, researchers will automatically hack this. -->
@@ -2117,75 +2117,75 @@
 
   <!-- World -->
   <!-- EN: View {LAYER_label} -->
-  <WorldSelectLayer>दृश्य {LAYER_label}</WorldSelectLayer>
+  <WorldSelectLayer>{LAYER_label} देखें</WorldSelectLayer>
   <!-- EN: Jump to location -->
-  <WorldJumpTo>स्थान पर जाएँ</WorldJumpTo>
+  <WorldJumpTo>स्थान पर जंप करें</WorldJumpTo>
   <!-- EN: Find a colony, caravan, or quest location on the world map. -->
-  <WorldJumpToDesc>दुनिया के मानचित्र पर एक कॉलोनी, कारवां या खोज स्थान ढूँढें।</WorldJumpToDesc>
+  <WorldJumpToDesc>विश्व मानचित्र पर एक उपनिवेश, कारवां, या क्वेस्ट स्थान खोजें।</WorldJumpToDesc>
   <!-- EN: Nothing to jump to. -->
-  <NothingToJumpTo>कुछ भी नहीं कूदना।</NothingToJumpTo>
+  <NothingToJumpTo>जंप करने के लिए कुछ भी नहीं है।</NothingToJumpTo>
   <!-- EN: cannot function in {0} -->
-  <CannotFunctionOnLayer>{0} में कार्य नहीं कर सकता।</CannotFunctionOnLayer>
+  <CannotFunctionOnLayer>{0} में कार्य नहीं कर सकते</CannotFunctionOnLayer>
   <!-- EN: New settlement -->
-  <NewSettlement>नया ठिकाना</NewSettlement>
+  <NewSettlement>नई बस्ती</NewSettlement>
   <!-- EN: Settled -->
-  <Settled>बसावट</Settled>
+  <Settled>बस गया</Settled>
   <!-- EN: Abandoned -->
   <Abandoned>छोड़ा गया</Abandoned>
   <!-- EN: Cannot perform {GERUND} {LAYER} -->
-  <CannotPerformPlanetLayer>{GERUND} {LAYER} करने में असमर्थ।</CannotPerformPlanetLayer>
+  <CannotPerformPlanetLayer>{LAYER} पर {GERUND} करना संभव नहीं है</CannotPerformPlanetLayer>
   <!-- EN: This will not affect you {GERUND} {LAYER}. -->
-  <ThisWillNotAffectLayer>यह आपको प्रभावित नहीं करेगा {क्रिया} {परत}.</ThisWillNotAffectLayer>
+  <ThisWillNotAffectLayer>इससे आप पर {LAYER} के दौरान {GERUND} का कोई प्रभाव नहीं पड़ेगा।</ThisWillNotAffectLayer>
 
   <!-- Pocket maps -->
   <!-- EN: Enter {0} -->
-  <EnterPortal>दर्ज करें {0}</EnterPortal>
+  <EnterPortal>{0} दर्ज करें</EnterPortal>
   <!-- EN: Entering {0} -->
-  <EnteringPortal>दर्ज करना {0}</EnteringPortal>
+  <EnteringPortal>{0} में प्रवेश कर रहे हैं</EnteringPortal>
   <!-- EN: Select people and items to enter the {0}. -->
   <CommandEnterPortalDesc>{0} में प्रवेश करने के लिए लोगों और वस्तुओं का चयन करें।</CommandEnterPortalDesc>
   <!-- EN: Cancel entering -->
   <CommandCancelEnterPortal>प्रवेश रद्द करें</CommandCancelEnterPortal>
   <!-- EN: Cancel exiting -->
-  <CommandCancelExitPortal>रद्द करना</CommandCancelExitPortal>
+  <CommandCancelExitPortal>निकास रद्द करें</CommandCancelExitPortal>
   <!-- EN: Cancel loading people or items into this. -->
-  <CommandCancelEnterPortalDesc>इसमे लोगों या वस्तुओं को लोड करने का रद्द करना।</CommandCancelEnterPortalDesc>
+  <CommandCancelEnterPortalDesc>इसमें लोगों या वस्तुओं को लोड करना रद्द करें।</CommandCancelEnterPortalDesc>
   <!-- EN: Exit {0} -->
-  <ExitPortal>बाहर निकलें {0}</ExitPortal>
+  <ExitPortal>{0} से बाहर निकलें</ExitPortal>
 
   <!-- CompProjectileInterceptor -->
   <!-- EN: Shield energy -->
-  <ShieldEnergy>ऊर्जा ढाल</ShieldEnergy>
+  <ShieldEnergy>शील्ड ऊर्जा</ShieldEnergy>
   <!-- EN: Shield cooldown -->
-  <ShieldTimeToRecovery>शील्ड शीतलन</ShieldTimeToRecovery>
+  <ShieldTimeToRecovery>शील्ड कूलडाउन</ShieldTimeToRecovery>
   <!-- EN: Shield duration -->
-  <ShieldDuration>ढाल अवधि</ShieldDuration>
+  <ShieldDuration>शील्ड की अवधि</ShieldDuration>
   <!-- EN: On cooldown -->
-  <ShieldOnCooldown>ठंडा होना</ShieldOnCooldown>
+  <ShieldOnCooldown>कूलडाउन पर है</ShieldOnCooldown>
   <!-- EN: Below minimum energy -->
-  <ShieldBelowMinHitpoints>न्यूनतम ऊर्जा से नीचे</ShieldBelowMinHitpoints>
+  <ShieldBelowMinHitpoints>न्यूनतम ऊर्जा से कम</ShieldBelowMinHitpoints>
   <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
-  <ProjectileInterceptorTip>एक निम्न-कोण प्रक्षेपित ढाल जो आने वाली प्रक्षेप्य या छर्रों को रोकने का प्रयास करेगी। ईएमपी से टकराने पर यह तुरंत बंद हो जाती है।</ProjectileInterceptorTip>
+  <ProjectileInterceptorTip>एक निम्न-कोण वाला प्रोजेक्टेड शील्ड जो आने वाले प्रोजेक्टाइल या छर्रों को रोकने का प्रयास करेगा। यदि ईएमपी से टकराया जाए तो यह तुरंत बंद हो जाता है।</ProjectileInterceptorTip>
 
   <!-- EN: max {0} -->
   <MaxOf>अधिकतम {0}</MaxOf>
 
   <!-- EN: Cannot use {TARGETABLE_label}: {TARGET_nameDef} already has {2}. -->
-  <CannotUseDueToHediff>नहीं कर सकते: {TARGETABLE_label} में पहले से ही {2} है।</CannotUseDueToHediff>
+  <CannotUseDueToHediff>{TARGETABLE_label} का उपयोग नहीं किया जा सकता: {TARGET_nameDef} के पास पहले से ही {2} है।</CannotUseDueToHediff>
 
   <!-- Scanner -->
   <!-- EN: Blocked by roof -->
-  <CannotUseScannerRoofed>छत से अवरुद्ध</CannotUseScannerRoofed>
+  <CannotUseScannerRoofed>छत द्वारा बाधित</CannotUseScannerRoofed>
   <!-- EN: Biome does not contain drillable resources -->
-  <CannotUseScannerNoBedrock>बायोम में ड्रिल करने योग्य संसाधन नहीं हैं।</CannotUseScannerNoBedrock>
+  <CannotUseScannerNoBedrock>बायोम में ड्रिल करने योग्य संसाधन नहीं हैं</CannotUseScannerNoBedrock>
   
   <!-- Quests -->
   <!-- EN: Cannot accept this quest {GERUND} {LAYER}. -->
-  <CannotAcceptQuestFromLayer>स्वीकार नहीं कर सकते यह खोज {GERUND} {LAYER}.</CannotAcceptQuestFromLayer>
+  <CannotAcceptQuestFromLayer>इस क्वेस्ट को स्वीकार नहीं किया जा सकता {GERUND} {LAYER}।</CannotAcceptQuestFromLayer>
   <!-- EN: Cannot accept this quest without a permanent colony. -->
-  <CannotAcceptQuestNoMap>स्थायी बस्ती के बिना यह खोज स्वीकार नहीं की जा सकती।</CannotAcceptQuestNoMap>
+  <CannotAcceptQuestNoMap>एक स्थायी उपनिवेश के बिना इस मिशन को स्वीकार नहीं किया जा सकता।</CannotAcceptQuestNoMap>
 
   <!-- EN: {0} of {1} -->
-  <GuildTradeShipName>{0} में से {1}</GuildTradeShipName>
+  <GuildTradeShipName>{1} का {0}</GuildTradeShipName>
   
 </LanguageData>

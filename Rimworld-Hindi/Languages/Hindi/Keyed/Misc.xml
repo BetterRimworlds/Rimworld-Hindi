@@ -45,7 +45,7 @@
   <!-- EN: Sex -->
   <Sex>लिंग</Sex>
   <!-- EN: min -->
-  <min>खनन</min>
+  <min>न्यूनतम</min>
   <!-- EN: max -->
   <max>अधिकतम</max>
   <!-- EN: chance -->
@@ -65,7 +65,7 @@
   <!-- EN: interval (days) -->
   <intervalDays>अंतराल (दिन)</intervalDays>
   <!-- EN: delay (days) -->
-  <delayDays>विलंब (दिन)</delayDays>
+  <delayDays>देरी (दिन)</delayDays>
   <!-- EN: repeat -->
   <repeat>दोहराएँ</repeat>
   <!-- EN: default -->
@@ -77,7 +77,7 @@
   <!-- EN: NO -->
   <NoUppercase>नहीं</NoUppercase>
   <!-- EN: kg -->
-  <kg>किलोग्राम</kg>
+  <kg>किग्रा</kg>
   <!-- EN: Day -->
   <Day>दिन</Day>
   <!-- EN: day -->
@@ -99,7 +99,7 @@
   <!-- EN: Translation -->
   <Translation>गंभीर नियम</Translation>
   <!-- EN: min(days) -->
-  <minDays>न्यूनतम(दिन)</minDays>
+  <minDays>न्यूनतम दिन</minDays>
   <!-- EN: max(days) -->
   <maxDays>अधिकतम दिन</maxDays>
   <!-- EN: Processing -->
@@ -135,7 +135,7 @@
   <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>किसी {0} का मृत शरीर।</CorpseDesc>
   <!-- EN: {1_label} (dead) -->
-  <DeadLabel>मृत</DeadLabel>
+  <DeadLabel>{1_label} (मृत)</DeadLabel>
 
   <!-- EN: rough {0} -->
   <RoughStoneTerrainLabel>खुरदरा {0}</RoughStoneTerrainLabel>
@@ -151,9 +151,9 @@
   <SmoothStoneTerrainDesc>चिकना प्राकृतिक {0} फर्श।</SmoothStoneTerrainDesc>
 
   <!-- EN: (blueprint) -->
-  <BlueprintLabelExtra>ब्लूप्रिंट</BlueprintLabelExtra>
+  <BlueprintLabelExtra>(ब्लूप्रिंट)</BlueprintLabelExtra>
   <!-- EN: (building) -->
-  <FrameLabelExtra>निर्माण</FrameLabelExtra>
+  <FrameLabelExtra>(निर्माण)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
   <FactionUnaffiliated>अनाबद्ध</FactionUnaffiliated>
@@ -162,7 +162,7 @@
   <StillWishContinue>जारी रखें?</StillWishContinue>
   
   <!-- EN: ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah -->
-  <BabyTalk>These appear to be babbling sounds. A short UI label reflecting this, adhering to the rules, would be:\n\n**बड़बड़ाहट** (Barbarahat) - meaning &amp;quot;babbling&amp;quot; or &amp;quot;muttering&amp;quot;. \n\nIt&amp;apos;s concise and fits the context of nonsensical sounds.</BabyTalk>
+  <BabyTalk>बा,बहा,बू,बुह,गा,गाह,गू,न्या,ना,नाह,नू,वू,वा,वुह,मा,माह</BabyTalk>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
@@ -181,7 +181,7 @@
   <DeepResourceRemaining>{COUNT} {RESOURCE_label} यहाँ भूमिगत।</DeepResourceRemaining>
   
   <!-- EN: (various) -->
-  <VariousLabel>विवरण</VariousLabel>
+  <VariousLabel>(विभिन्न)</VariousLabel>
 
   <!-- History events -->
   <!-- EN: Colonist died -->

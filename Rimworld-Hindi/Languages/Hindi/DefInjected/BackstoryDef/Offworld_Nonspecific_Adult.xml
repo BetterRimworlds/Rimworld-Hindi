@@ -34,8 +34,8 @@
   <Bartender62.title>बारटेंडर</Bartender62.title>
   <Bartender62.titleFemale>बारटेंडर</Bartender62.titleFemale>
   <!-- EN: barkeep -->
-  <Bartender62.titleShort>बारटेंडर</Bartender62.titleShort>
-  <Bartender62.titleShortFemale>बारटेंडर (Bartender)</Bartender62.titleShortFemale>
+  <Bartender62.titleShort>बारकीपर</Bartender62.titleShort>
+  <Bartender62.titleShortFemale>बारकीपर</Bartender62.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] protected whoever paid [PAWN_objective]. [PAWN_pronoun] gained proficiency in many different combat forms, and was known for [PAWN_possessive] ruthlessness against those who crossed [PAWN_objective]. -->
   <Bodyguard58.description>{PAWN_gender ? [PAWN_nameDef] उस व्यक्ति की रक्षा करती थी जो उसे भुगतान करता था। उसने कई अलग-अलग युद्ध शैलियों में दक्षता प्राप्त की और उन लोगों के खिलाफ अपनी निर्दयता के लिए जानी जाती थी जिन्होंने उसके खिलाफ कदम उठाया होता था। : [PAWN_nameDef] उस व्यक्ति की रक्षा करता था जो उसे भुगतान करता था। उसने कई अलग-अलग युद्ध शैलियों में दक्षता प्राप्त की और उन लोगों के खिलाफ अपनी निर्दयता के लिए जाना जाता था जिन्होंने उसके खिलाफ कदम उठाया होता था।}</Bodyguard58.description>
@@ -125,7 +125,7 @@
   <Counselor26.titleFemale>सलाहकार</Counselor26.titleFemale>
   <!-- EN: counselor -->
   <Counselor26.titleShort>परामर्शदाता</Counselor26.titleShort>
-  <Counselor26.titleShortFemale>परामर्शदाता (Paramarshadata)</Counselor26.titleShortFemale>
+  <Counselor26.titleShortFemale>परामर्शदाता</Counselor26.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] ran a crop farm. [PAWN_pronoun] analyzed soil, agricultural equipment, weather patterns, and price trends to optimize the planting and harvesting of massive crop fields. -->
   <CropFarmer17.description>{PAWN_gender ? [PAWN_nameDef] ने एक फसल खेत चलाया। उसने मिट्टी, कृषि उपकरण, मौसम के पैटर्न और मूल्य रुझानों का विश्लेषण करके विशाल फसल क्षेत्रों की रोपाई और कटाई को अनुकूलित किया। : [PAWN_nameDef] एक फसल खेत चलाता था। उसने विशाल फसल क्षेत्रों की रोपाई और कटाई को अनुकूलित करने के लिए मिट्टी, कृषि उपकरण, मौसम के पैटर्न और मूल्य रुझानों का विश्लेषण किया।}</CropFarmer17.description>
@@ -206,7 +206,7 @@
   <Gardener99.titleFemale>माली</Gardener99.titleFemale>
   <!-- EN: gardener -->
   <Gardener99.titleShort>माली</Gardener99.titleShort>
-  <Gardener99.titleShortFemale>माली (Mālī)</Gardener99.titleShortFemale>
+  <Gardener99.titleShortFemale>माली</Gardener99.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] worked with miners and cave-diggers, identifying rock types and natural formations.\n\nDuring [PAWN_possessive] years underground [PAWN_pronoun] also gained experience repairing drilling machines and other technical equipment. -->
   <Geologist66.description>{PAWN_gender ? [PAWN_nameDef] खनिकों और गुफा खोदने वालों के साथ काम करती थी, चट्टानों के प्रकारों और प्राकृतिक संरचनाओं की पहचान करती थी।\n\nअपने वर्षों के भूमिगत अनुभव के दौरान, उसने ड्रिलिंग मशीनों और अन्य तकनीकी उपकरणों की मरम्मत का भी अनुभव प्राप्त किया। : [PAWN_nameDef] खनिकों और गुफा खोदने वालों के साथ काम करता था, चट्टानों के प्रकारों और प्राकृतिक संरचनाओं की पहचान करता था।\n\nअपने वर्षों के भूमिगत अनुभव के दौरान, उसने ड्रिलिंग मशीनों और अन्य तकनीकी उपकरणों की मरम्मत का भी अनुभव प्राप्त किया।}</Geologist66.description>
@@ -247,7 +247,7 @@
   <Hunter89.titleShortFemale>शिकारी महिला</Hunter89.titleShortFemale>
   
   <!-- EN: On [PAWN_possessive] homeworld, [PAWN_nameDef] worked as a moderately successful inventor. [PAWN_pronoun] developed several minor technologies. -->
-  <Inventor6.description>{PAWN_gender ? अपने गृह ग्रह पर, [PAWN_nameDef] एक मध्यम रूप से सफल आविष्कारक के रूप में काम करती थी। उसने कई छोटी तकनीकों को विकसित किया था। : अपने गृह ग्रह पर, [PAWN_nameDef] एक मध्यम रूप से सफल आविष्कारक के रूप में काम करता था। उसने कई छोटी तकनीकों को विकसित किया।}</Inventor6.description>
+  <Inventor6.description>{PAWN_gender ? अपने गृह ग्रह पर, [PAWN_nameDef] एक मध्यम रूप से सफल आविष्कारक के रूप में काम करती थी। उसने कई छोटी-मोटी तकनीकें विकसित कीं। : अपने गृह ग्रह पर, [PAWN_nameDef] एक मध्यम रूप से सफल आविष्कारक के रूप में काम करता था। उसने कई छोटी-मोटी तकनीकें विकसित कीं।}</Inventor6.description>
   <!-- EN: inventor -->
   <Inventor6.title>आविष्कारक</Inventor6.title>
   <Inventor6.titleFemale>आविष्कारक</Inventor6.titleFemale>

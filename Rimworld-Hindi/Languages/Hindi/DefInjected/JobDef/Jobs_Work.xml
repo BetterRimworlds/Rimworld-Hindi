@@ -215,9 +215,9 @@
   <Uninstall.reportString>TargetA को अनइंस्टॉल किया जा रहा है।</Uninstall.reportString>
   
   <!-- EN: unroping TargetA. -->
-  <Unrope.reportString>TargetA को कपड़े उतारना।</Unrope.reportString>
+  <Unrope.reportString>TargetA की रस्सी खोलना।</Unrope.reportString>
   
   <!-- EN: using comms console. -->
-  <UseCommsConsole.reportString>संचार कंसोल का उपयोग कर रहे हैं।</UseCommsConsole.reportString>
+  <UseCommsConsole.reportString>संचार कंसोल का उपयोग कर रहा है।</UseCommsConsole.reportString>
   
 </LanguageData>

@@ -16,7 +16,7 @@
   <SmokeleafHigh.labelNoun>स्मोकलीफ नशा</SmokeleafHigh.labelNoun>
   
   <!-- EN: smokeleaf tolerance -->
-  <SmokeleafTolerance.label>स्मोकलीफ सहनशीलता</SmokeleafTolerance.label>
+  <SmokeleafTolerance.label>धूम्रपान पत्ती के प्रति सहनशीलता</SmokeleafTolerance.label>
   <!-- EN: A built-up tolerance to smokeleaf. The more severe this tolerance is, the more smokeleaf it takes to get the same effect. -->
   <SmokeleafTolerance.description>स्मोकलीफ के प्रति विकसित सहनशीलता। यह सहनशीलता जितनी गंभीर होगी, समान प्रभाव प्राप्त करने के लिए उतने ही अधिक स्मोकलीफ की आवश्यकता होगी।</SmokeleafTolerance.description>
   <!-- EN: small -->

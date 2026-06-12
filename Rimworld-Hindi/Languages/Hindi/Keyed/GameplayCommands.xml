@@ -40,7 +40,7 @@
   <!-- EN: Undraft -->
   <CommandUndraftLabel>हटाएँ</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
-  <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>सैन्य भर्ती टॉगल करें।\n\nभर्ती लोग आदेश लेते हैं और लड़ते हैं। वे काम, खाना या आराम नहीं करेंगे।</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>चल नहीं सकता।</IsIncapped>
   <!-- EN: {0_labelShort} is participating in {1}. -->
@@ -515,7 +515,7 @@
   <!-- EN: Take off and fly to a destination. -->
   <CommandLaunchGroupDesc>उड़ान भरना और किसी गंतव्य की ओर जाना।</CommandLaunchGroupDesc>
   <!-- EN: Must be loaded first. -->
-  <CommandLaunchGroupFailNotLoaded>महत्वपूर्ण नियम:\n- कोई स्पष्टीकरण, नोट्स या कोष्ठकीय टिप्पणी नहीं।\n- केवल एक अनुवाद - कोई विकल्प नहीं [केवल 1</CommandLaunchGroupFailNotLoaded>
+  <CommandLaunchGroupFailNotLoaded>सबसे पहले लोड किया जाना चाहिए।</CommandLaunchGroupFailNotLoaded>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
   <CommandLaunchGroupFailNotConnectedToFuelingPort>इस लोडिंग समूह के कुछ ट्रांसपोर्ट पॉड ईंधन भरने वाले पोर्ट से जुड़े नहीं हैं।</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Roof blocking launch. -->
@@ -718,7 +718,7 @@
   <!-- EN: Linked storage settings -->
   <LinkedStorageSettings>जुड़ा भंडारण सेटिंग</LinkedStorageSettings>
   <!-- EN: 1 building -->
-  <OneBuilding>1 इमारत</OneBuilding>
+  <OneBuilding>इमारत</OneBuilding>
   <!-- EN: {0} buildings -->
   <NumBuildings>{0} इमारतें</NumBuildings>
   <!-- EN: Stores -->

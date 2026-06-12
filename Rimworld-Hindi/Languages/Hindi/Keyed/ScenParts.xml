@@ -70,7 +70,7 @@
   <!-- EN: Map is scattered with -->
   <ScenPart_MapScatteredWith>मानचित्र बिखरा पड़ा है।</ScenPart_MapScatteredWith>
   <!-- EN: Permanent game condition(s) -->
-  <ScenPart_PermaGameCondition>स्थायी स्थिति(याँ)</ScenPart_PermaGameCondition>
+  <ScenPart_PermaGameCondition>स्थायी गेम स्थिति(याँ)</ScenPart_PermaGameCondition>
   <!-- EN: Incident(s) disabled -->
   <ScenPart_DisableIncident>घटनाएँ अक्षम</ScenPart_DisableIncident>
   <!-- EN: Incident created -->

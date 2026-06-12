@@ -110,10 +110,10 @@
   <Drugs.label>दवाएँ</Drugs.label>
   
   <!-- EN: eggs (fert.) -->
-  <EggsFertilized.label>अंडे (उर्वर)</EggsFertilized.label>
+  <EggsFertilized.label>अंडे (प्रजनन)</EggsFertilized.label>
   
   <!-- EN: eggs (unfert.) -->
-  <EggsUnfertilized.label>अंडे (बंजर)</EggsUnfertilized.label>
+  <EggsUnfertilized.label>अंडे (अपूर्ण)</EggsUnfertilized.label>
   
   <!-- EN: meals -->
   <FoodMeals.label>भोजन</FoodMeals.label>

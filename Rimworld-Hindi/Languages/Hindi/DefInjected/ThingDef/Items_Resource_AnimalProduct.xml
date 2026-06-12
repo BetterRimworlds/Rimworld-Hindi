@@ -2,102 +2,102 @@
 <LanguageData>
   
   <!-- EN: cassowary egg (fert.) -->
-  <EggCassowaryFertilized.label>कसूवरी अंडा (उपजाऊ)</EggCassowaryFertilized.label>
+  <EggCassowaryFertilized.label>कैसोवरी अंडा (उर्वरक)</EggCassowaryFertilized.label>
   <!-- EN: A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked. -->
   <EggCassowaryFertilized.description>एक निषेचित कासुवरी अंडा। यदि सब ठीक रहा, तो यह एक शिशु कासुवरी से निकलेगा। इसे कच्चा खाया जा सकता है, लेकिन पका हुआ बेहतर होता है।</EggCassowaryFertilized.description>
   
   <!-- EN: cassowary egg (unfert.) -->
-  <EggCassowaryUnfertilized.label>कसुवरी अंडा (बांझ)</EggCassowaryUnfertilized.label>
+  <EggCassowaryUnfertilized.label>कैसोवरी अंडा (अपूर्ण)</EggCassowaryUnfertilized.label>
   <!-- EN: An unfertilized cassowary egg. It can be eaten raw, but it's much better cooked. -->
   <EggCassowaryUnfertilized.description>एक गैर-उर्वरित कैसवरी अंडा। इसे कच्चा खाया जा सकता है, लेकिन पका हुआ बेहतर होता है।</EggCassowaryUnfertilized.description>
   
   <!-- EN: chicken egg (fert.) -->
-  <EggChickenFertilized.label>उर्वरित मुर्गी अंडा</EggChickenFertilized.label>
+  <EggChickenFertilized.label>मुर्गी का अंडा (प्रजनन योग्य)</EggChickenFertilized.label>
   <!-- EN: A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
   <EggChickenFertilized.description>एक निषेचित मुर्गी का अंडा। यदि सब ठीक रहा, तो यह एक चूजे में बदल जाएगा। इसे कच्चा खाया जा सकता है, लेकिन पका हुआ बेहतर होता है।</EggChickenFertilized.description>
   
   <!-- EN: chicken egg (unfert.) -->
-  <EggChickenUnfertilized.label>अंडा (अनउपजाऊ)</EggChickenUnfertilized.label>
+  <EggChickenUnfertilized.label>मुर्गी का अंडा (अपूर्ण)</EggChickenUnfertilized.label>
   <!-- EN: An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked. -->
   <EggChickenUnfertilized.description>एक निषेचित मुर्गी का अंडा। इसे कच्चा खाया जा सकता है, लेकिन पकाकर खाना बहुत बेहतर है।</EggChickenUnfertilized.description>
   
   <!-- EN: cobra egg (fert.) -->
-  <EggCobraFertilized.label>सांप अंडा (उर्वर)</EggCobraFertilized.label>
+  <EggCobraFertilized.label>कोबरा अंडा (उर्वरक)</EggCobraFertilized.label>
   <!-- EN: A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked. -->
   <EggCobraFertilized.description>एक निषेचित कोबरा अंडा। यदि सब ठीक रहा, तो यह एक शिशु कोबरा से निकलेगा। इसे कच्चा खाया जा सकता है, लेकिन पका हुआ बेहतर होता है।</EggCobraFertilized.description>
   
   <!-- EN: cobra egg (unfert.) -->
-  <EggCobraUnfertilized.label>सांप अंडा (अना hatched)</EggCobraUnfertilized.label>
+  <EggCobraUnfertilized.label>कोबरा अंडा (अपूर्ण)</EggCobraUnfertilized.label>
   <!-- EN: An unfertilized cobra egg. It can be eaten raw, but it's much better cooked. -->
   <EggCobraUnfertilized.description>एक निषेचित नाग अंडे। इसे कच्चा खाया जा सकता है, लेकिन पकाकर खाना बहुत बेहतर है।</EggCobraUnfertilized.description>
   
   <!-- EN: duck egg (fert.) -->
-  <EggDuckFertilized.label>बतख अंडा (उर्वर)</EggDuckFertilized.label>
+  <EggDuckFertilized.label>बत्तख का अंडा (प्रजनन योग्य)</EggDuckFertilized.label>
   <!-- EN: A fertilized duck egg. If all goes well, it should hatch into a duckling. It can be eaten raw, but it's much better cooked. -->
   <EggDuckFertilized.description>एक निषेचित बत्तख का अंडा। यदि सब ठीक रहा, तो इससे बत्तख का बच्चा निकलेगा। इसे कच्चा खाया जा सकता है, लेकिन पका हुआ बेहतर होता है।</EggDuckFertilized.description>
   
   <!-- EN: duck egg (unfert.) -->
-  <EggDuckUnfertilized.label>बतख अंडा (अनउपजाऊ)</EggDuckUnfertilized.label>
+  <EggDuckUnfertilized.label>बत्तख का अंडा (अपूर्ण)</EggDuckUnfertilized.label>
   <!-- EN: An unfertilized duck egg. It can be eaten raw, but it's much, much better cooked. -->
   <EggDuckUnfertilized.description>एक निषेचित बत्तख का अंडा। इसे कच्चा खाया जा सकता है, लेकिन पकाकर खाना बहुत, बहुत बेहतर है।</EggDuckUnfertilized.description>
   
   <!-- EN: emu egg (fert.) -->
-  <EggEmuFertilized.label>ईमू अंडा (उपजाऊ)</EggEmuFertilized.label>
+  <EggEmuFertilized.label>एमू अंडा (निषेचन योग्य)</EggEmuFertilized.label>
   <!-- EN: A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked. -->
   <EggEmuFertilized.description>एक निषेचित इमू अंडा। यदि सब ठीक रहा, तो यह एक शिशु इमू में से निकलेगा। इसे कच्चा खाया जा सकता है, लेकिन पका हुआ बेहतर होता है।</EggEmuFertilized.description>
   
   <!-- EN: emu egg (unfert.) -->
-  <EggEmuUnfertilized.label>ईमू अंडा (बंजर)</EggEmuUnfertilized.label>
+  <EggEmuUnfertilized.label>एमू अंडा (अपूर्ण)</EggEmuUnfertilized.label>
   <!-- EN: An unfertilized emu egg. It can be eaten raw, but it's much better cooked. -->
   <EggEmuUnfertilized.description>एक उर्वरित न किए गए इमू अंडे। इसे कच्चा खाया जा सकता है, लेकिन पका हुआ बेहतर होता है।</EggEmuUnfertilized.description>
   
   <!-- EN: goose egg (fert.) -->
-  <EggGooseFertilized.label>अंडा</EggGooseFertilized.label>
+  <EggGooseFertilized.label>गूज़ एग (प्रजनन)</EggGooseFertilized.label>
   <!-- EN: A fertilized goose egg. If all goes well, it should hatch into a baby goose. It can be eaten raw, but it's much better cooked. -->
   <EggGooseFertilized.description>एक निषेचित हंस अंडा। यदि सब ठीक रहा, तो इससे एक शिशु हंस निकलेगा। इसे कच्चा खाया जा सकता है, लेकिन पकाकर खाना बेहतर है।</EggGooseFertilized.description>
   
   <!-- EN: goose egg (unfert.) -->
-  <EggGooseUnfertilized.label>अंडवा</EggGooseUnfertilized.label>
+  <EggGooseUnfertilized.label>गूज़ एग (अपूर्ण)</EggGooseUnfertilized.label>
   <!-- EN: An unfertilized goose egg. It can be eaten raw, but it's much, much better cooked. -->
   <EggGooseUnfertilized.description>एक निषेचित हंस अंडा। इसे कच्चा खाया जा सकता है, लेकिन पकाकर खाना बहुत बेहतर है।</EggGooseUnfertilized.description>
   
   <!-- EN: iguana egg (fert.) -->
-  <EggIguanaFertilized.label>इगुआना अंडा (उपजाऊ)</EggIguanaFertilized.label>
+  <EggIguanaFertilized.label>इगुआना अंडा (उर्वरक)</EggIguanaFertilized.label>
   <!-- EN: A fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked. -->
   <EggIguanaFertilized.description>एक निषेचित इगुआना अंडा। यदि सब ठीक रहा, तो यह एक शिशु इगुआना से निकलेगा। इसे कच्चा खाया जा सकता है, लेकिन पका हुआ बेहतर होता है।</EggIguanaFertilized.description>
   
   <!-- EN: iguana egg (unfert.) -->
-  <EggIguanaUnfertilized.label>इगुआना अंडा (अनुजातक)</EggIguanaUnfertilized.label>
+  <EggIguanaUnfertilized.label>इगुआना अंडा (अपूर्ण)</EggIguanaUnfertilized.label>
   <!-- EN: An unfertilized iguana egg. It can be eaten raw, but it's much better cooked. -->
   <EggIguanaUnfertilized.description>एक निषेचित इगुआना अंडा। इसे कच्चा खाया जा सकता है, लेकिन पकाकर खाना बहुत बेहतर है।</EggIguanaUnfertilized.description>
   
   <!-- EN: ostrich egg (fert.) -->
-  <EggOstrichFertilized.label>शुतुरमुर्ग अंडा (उपजाऊ)</EggOstrichFertilized.label>
+  <EggOstrichFertilized.label>शुतुरमुर्ग का अंडा (प्रजनन योग्य)</EggOstrichFertilized.label>
   <!-- EN: A fertilized ostrich egg. If all goes well, it should hatch into a baby ostrich. It can be eaten raw, but it's much better cooked. -->
   <EggOstrichFertilized.description>एक निषेचित शुतुरमुर्ग अंडा। यदि सब ठीक रहा, तो इससे एक बच्चा शुतुरमुर्ग निकलेगा। इसे कच्चा खाया जा सकता है, लेकिन पका हुआ बेहतर होता है।</EggOstrichFertilized.description>
   
   <!-- EN: ostrich egg (unfert.) -->
-  <EggOstrichUnfertilized.label>अंडा (शुष्क)</EggOstrichUnfertilized.label>
+  <EggOstrichUnfertilized.label>शुतुरमुर्ग का अंडा (अपूर्ण)</EggOstrichUnfertilized.label>
   <!-- EN: An unfertilized ostrich egg. It can be eaten raw, but it's much better cooked. -->
   <EggOstrichUnfertilized.description>एक उर्वरित न किए गए शुतुरमुर्ग का अंडा। इसे कच्चा खाया जा सकता है, लेकिन पका हुआ बेहतर होता है।</EggOstrichUnfertilized.description>
   
   <!-- EN: tortoise egg (fert.) -->
-  <EggTortoiseFertilized.label>कछुआ अंडा (उपजाऊ)</EggTortoiseFertilized.label>
+  <EggTortoiseFertilized.label>कछुआ अंडा (उर्वरक)</EggTortoiseFertilized.label>
   <!-- EN: A fertilized tortoise egg. If all goes well, it should hatch into a baby tortoise. It can be eaten raw, but it's much better cooked. -->
   <EggTortoiseFertilized.description>एक निषेचित कछुआ अंडा। यदि सब ठीक रहा, तो इससे एक बच्चा कछुआ निकलेगा। इसे कच्चा खाया जा सकता है, लेकिन पकाकर खाना बेहतर है।</EggTortoiseFertilized.description>
   
   <!-- EN: tortoise egg (unfert.) -->
-  <EggTortoiseUnfertilized.label>कछुआ अंडा (अनुजातक)</EggTortoiseUnfertilized.label>
+  <EggTortoiseUnfertilized.label>कछुए का अंडा (अपूर्ण)</EggTortoiseUnfertilized.label>
   <!-- EN: An unfertilized tortoise egg. It can be eaten raw, but it's much better cooked. -->
   <EggTortoiseUnfertilized.description>एक निषेचित कछुआ अंडा। इसे कच्चा खाया जा सकता है, लेकिन पकाकर खाना बहुत बेहतर है।</EggTortoiseUnfertilized.description>
   
   <!-- EN: turkey egg (fert.) -->
-  <EggTurkeyFertilized.label>टर्की अंडा (उर्वर)</EggTurkeyFertilized.label>
+  <EggTurkeyFertilized.label>टर्की अंडा (उर्वरक)</EggTurkeyFertilized.label>
   <!-- EN: A fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked. -->
   <EggTurkeyFertilized.description>एक निषेचित टर्की अंडा। यदि सब ठीक रहा, तो इससे एक बच्चा टर्की निकलेगा। इसे कच्चा खाया जा सकता है, लेकिन पका हुआ बेहतर होता है।</EggTurkeyFertilized.description>
   
   <!-- EN: turkey egg (unfert.) -->
-  <EggTurkeyUnfertilized.label>टर्की अंडा (अनउपजाऊ)</EggTurkeyUnfertilized.label>
+  <EggTurkeyUnfertilized.label>टर्की अंडा (अपूर्ण)</EggTurkeyUnfertilized.label>
   <!-- EN: An unfertilized turkey egg. It can be eaten raw, but it's much better cooked. -->
   <EggTurkeyUnfertilized.description>एक उर्वरित न किए गए टर्की का अंडा। इसे कच्चा खाया जा सकता है, लेकिन पका हुआ बेहतर होता है।</EggTurkeyUnfertilized.description>
   

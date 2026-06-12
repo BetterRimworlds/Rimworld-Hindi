@@ -73,7 +73,7 @@
   <!-- EN: Plant -->
   <PlantVerb>पौधा लगाना</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here -->
-  <ClipboardBillNotAvailableHere>ठीक है, मैं समझ गया। मुझे बस अनुवाद करने दीजिए। मुझे टेक्स्ट प्रदान करें। \n\n(Okay, I understand. Just give me the text to translate.)</ClipboardBillNotAvailableHere>
+  <ClipboardBillNotAvailableHere>कॉपी किया गया बिल यहाँ पेस्ट नहीं किया जा सकता</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
   <ReorderBillUpTip>ऊपर खिसकाओ</ReorderBillUpTip>
   <!-- EN: Move down -->
@@ -129,7 +129,7 @@
   <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>भर्ती करें</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
-  <ConsideredGuilty>दोषी ठहराया गया ({0} में समाप्त)</ConsideredGuilty>
+  <ConsideredGuilty>दोषी माना गया ({0} में समाप्त होगा)</ConsideredGuilty>
   <!-- EN: Considered guilty -->
   <ConsideredGuiltyNoTimer>दोषी ठहराया गया</ConsideredGuiltyNoTimer>
   <!-- EN: Last resistance reduction -->
@@ -325,19 +325,19 @@
   <!-- EN: Gathering animals -->
   <FormingCaravanStatus_GatheringAnimals>पशु संग्रह</FormingCaravanStatus_GatheringAnimals>
   <!-- EN: Gathering animals (waiting) -->
-  <FormingCaravanStatus_GatheringAnimals_Pause>पशु संग्रह</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringAnimals_Pause>जानवर इकट्ठा हो रहे हैं (प्रतीक्षा में)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
   <FormingCaravanStatus_GatheringItems>सामग्री संग्रह</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
-  <FormingCaravanStatus_GatheringItems_Pause>इकट्ठा करना</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringItems_Pause>वस्तुएं एकत्र की जा रही हैं (प्रतीक्षा में)</FormingCaravanStatus_GatheringItems_Pause>
   <!-- EN: Gathering downed people -->
   <FormingCaravanStatus_GatheringDownedPawns>गिरफ्तार लोग</FormingCaravanStatus_GatheringDownedPawns>
   <!-- EN: Gathering downed people (waiting) -->
-  <FormingCaravanStatus_GatheringDownedPawns_Pause>गिरते हुए लोगों को इकट्ठा करना (प्रतीक्षा)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>गिरे हुए लोगों को इकट्ठा करना (प्रतीक्षा में)</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <!-- EN: Leaving -->
   <FormingCaravanStatus_Leaving>छोड़ना</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->
-  <FormingCaravanStatus_Leaving_Pause>प्रस्थान</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Leaving_Pause>निकल रहा है (प्रतीक्षा कर रहा है)</FormingCaravanStatus_Leaving_Pause>
   <!-- EN: Waiting -->
   <FormingCaravanStatus_Waiting>प्रतीक्षा</FormingCaravanStatus_Waiting>
   <!-- EN: Members -->

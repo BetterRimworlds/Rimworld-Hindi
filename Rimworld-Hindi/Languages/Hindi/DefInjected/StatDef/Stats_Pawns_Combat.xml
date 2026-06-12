@@ -59,22 +59,22 @@
   <RangedCooldownFactor.description>दूरस्थ हथियार का उपयोग करते समय विस्फोटों के बीच कूलडाउन पर एक गुणक।</RangedCooldownFactor.description>
   
   <!-- EN: accuracy factor (long) -->
-  <ShootingAccuracyFactor_Long.label>सटीकता गुणक</ShootingAccuracyFactor_Long.label>
+  <ShootingAccuracyFactor_Long.label>सटीकता कारक (लंबा)</ShootingAccuracyFactor_Long.label>
   <!-- EN: A multiplier on accuracy at a distance of 40 cells or more. -->
   <ShootingAccuracyFactor_Long.description>40 सेल या उससे अधिक दूरी पर सटीकता का गुणक।</ShootingAccuracyFactor_Long.description>
   
   <!-- EN: accuracy factor (medium) -->
-  <ShootingAccuracyFactor_Medium.label>सटीकता गुणक</ShootingAccuracyFactor_Medium.label>
+  <ShootingAccuracyFactor_Medium.label>सटीकता कारक (मध्यम)</ShootingAccuracyFactor_Medium.label>
   <!-- EN: A multiplier on accuracy at a distance of 25 cells. -->
   <ShootingAccuracyFactor_Medium.description>25 सेल की दूरी पर सटीकता का गुणक।</ShootingAccuracyFactor_Medium.description>
   
   <!-- EN: accuracy factor (short) -->
-  <ShootingAccuracyFactor_Short.label>सटीकता गुणक</ShootingAccuracyFactor_Short.label>
+  <ShootingAccuracyFactor_Short.label>सटीकता कारक</ShootingAccuracyFactor_Short.label>
   <!-- EN: A multiplier on accuracy at a distance of 12 cells. -->
   <ShootingAccuracyFactor_Short.description>12 सेल की दूरी पर सटीकता पर एक गुणक।</ShootingAccuracyFactor_Short.description>
   
   <!-- EN: accuracy factor (close) -->
-  <ShootingAccuracyFactor_Touch.label>सटीकता गुणक</ShootingAccuracyFactor_Touch.label>
+  <ShootingAccuracyFactor_Touch.label>सटीकता कारक (निकट)</ShootingAccuracyFactor_Touch.label>
   <!-- EN: A multiplier on accuracy at a distance of 3 cells or less. -->
   <ShootingAccuracyFactor_Touch.description>3 सेल या उससे कम दूरी पर सटीकता का गुणक।</ShootingAccuracyFactor_Touch.description>
   
@@ -83,7 +83,7 @@
   <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
   <ShootingAccuracyPawn.description>हर सेल की दूरी पर निशाना न चूकने की मूल संभावना।\n\nलक्ष्य लगाने की संभावना कई अन्य कारकों से भी प्रभावित होती है।\n\nकिसी भी शॉट के लिए निशाना लगने की व्याख्या देखने के लिए, एक निशानेबाज का चयन करें और लक्ष्य पर माउस ले जाएं।</ShootingAccuracyPawn.description>
   <!-- EN: shooting accuracy (people) -->
-  <ShootingAccuracyPawn.labelForFullStatList>शूटिंग सटीकता</ShootingAccuracyPawn.labelForFullStatList>
+  <ShootingAccuracyPawn.labelForFullStatList>निशानेबाज़ी सटीकता (लोग)</ShootingAccuracyPawn.labelForFullStatList>
   
   <!-- EN: stagger time multiplier -->
   <StaggerDurationFactor.label>विलंब गुणक</StaggerDurationFactor.label>

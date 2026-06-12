@@ -31,7 +31,7 @@
   <!-- EN: Abandon specific count -->
   <AbandonSpecificCountTip>छोड़ना गिनती</AbandonSpecificCountTip>
   <!-- EN: Abandon (all) -->
-  <AbandonAllTip>छोड़ना</AbandonAllTip>
+  <AbandonAllTip>त्यागें (सभी)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>छोड़ी गई वस्तुएं गायब हो जाती हैं और कभी नहीं मिल सकतीं।</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->

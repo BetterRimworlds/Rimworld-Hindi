@@ -541,7 +541,7 @@
   <!-- EN: You have successfully completed the quest '{0}'! -->
   <LetterQuestCompletedSuccess>आपने सफलतापूर्वक खोज ‘{0}’ पूरी कर ली है!</LetterQuestCompletedSuccess>
   <!-- EN: You have failed the quest '{0}'. -->
-  <LetterQuestCompletedFail>आपने खोज ‘{0}’ में विफल रहे।</LetterQuestCompletedFail>
+  <LetterQuestCompletedFail>आप खोज '{0}' में विफल रहे।</LetterQuestCompletedFail>
   <!-- EN: You have concluded the quest '{0}'. -->
   <LetterQuestCompletedConcluded>आपने खोज ‘{0}’ समाप्त कर ली है।</LetterQuestCompletedConcluded>
 

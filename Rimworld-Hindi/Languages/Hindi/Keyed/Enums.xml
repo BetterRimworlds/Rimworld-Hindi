@@ -213,9 +213,9 @@
   <!-- EN: Show animal names -->
   <ShowAnimalNames>पशु नाम दिखाएँ</ShowAnimalNames>
   <!-- EN: Tame (named only) -->
-  <AnimalNameDisplayMode_TameNamed>पालना (नामित)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameNamed>पालतू (केवल नाम वाला)</AnimalNameDisplayMode_TameNamed>
   <!-- EN: Tame (all) -->
-  <AnimalNameDisplayMode_TameAll>पालना</AnimalNameDisplayMode_TameAll>
+  <AnimalNameDisplayMode_TameAll>वश में करें (सभी)</AnimalNameDisplayMode_TameAll>
 
   <!-- Highlight display mode -->
   <!-- EN: Character highlighting -->

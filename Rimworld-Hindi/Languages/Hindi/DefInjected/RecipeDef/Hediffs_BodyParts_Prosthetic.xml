@@ -41,7 +41,7 @@
   <!-- EN: Install a prosthetic heart. -->
   <InstallSimpleProstheticHeart.description>एक कृत्रिम अंग हृदय स्थापित करें।</InstallSimpleProstheticHeart.description>
   <!-- EN: Installing prosthetic heart. -->
-  <InstallSimpleProstheticHeart.jobString>कृत्रिम अंग हृदय स्थापित किया जा रहा है।</InstallSimpleProstheticHeart.jobString>
+  <InstallSimpleProstheticHeart.jobString>कृत्रिम हृदय स्थापित करना।</InstallSimpleProstheticHeart.jobString>
   
   <!-- EN: install prosthetic leg -->
   <InstallSimpleProstheticLeg.label>कृत्रिम अंग पैर लगाना</InstallSimpleProstheticLeg.label>

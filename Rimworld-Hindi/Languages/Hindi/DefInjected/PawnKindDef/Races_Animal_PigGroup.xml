@@ -69,7 +69,7 @@
   <Ibex.lifeStages.1.labelMalePlural>युवा कैब्रिटोस मोंटेसेस</Ibex.lifeStages.1.labelMalePlural><!-- EN: cabras monteses jóvenes -->
   <Ibex.lifeStages.1.labelPlural>युवा कैब्रस मोंटेसेस</Ibex.lifeStages.1.labelPlural><!-- EN: cabra montés -->
   <Ibex.lifeStages.2.label>पहाड़ी बकरी</Ibex.lifeStages.2.label><!-- EN: cabra montés -->
-  <Ibex.lifeStages.2.labelFemale>पहाड़ी बकरी (पशु)</Ibex.lifeStages.2.labelFemale><!-- EN: cabras monteses -->
+  <Ibex.lifeStages.2.labelFemale>काब्रा मोंटेस</Ibex.lifeStages.2.labelFemale><!-- EN: cabras monteses -->
   <Ibex.lifeStages.2.labelFemalePlural>पहाड़ी बकरी जीवन चक्र</Ibex.lifeStages.2.labelFemalePlural><!-- EN: cabrito montés -->
   <Ibex.lifeStages.2.labelMale>कैब्रिटो मोंटेस</Ibex.lifeStages.2.labelMale><!-- EN: cabritos monteses -->
   <Ibex.lifeStages.2.labelMalePlural>कैब्रिटोस मोंटेसेस</Ibex.lifeStages.2.labelMalePlural><!-- EN: cabras monteses -->
@@ -78,7 +78,7 @@
   <!-- EN: pig --><!-- EN: cerdo -->
   <Pig.label>सुअर</Pig.label>
   <!-- EN: sow --><!-- EN: cerda -->
-  <Pig.labelFemale>सूअर (suar)</Pig.labelFemale><!-- EN: cerdos -->
+  <Pig.labelFemale>सुअर (मादा)</Pig.labelFemale><!-- EN: cerdos -->
   <Pig.labelPlural>सुअर</Pig.labelPlural>
   <!-- EN: piglet --><!-- EN: lechón -->
   <Pig.lifeStages.piglet.label>लेचोन</Pig.lifeStages.piglet.label><!-- EN: cochinillo -->
@@ -86,7 +86,7 @@
   <Pig.lifeStages.1.labelFemale>कोचीनिला जीव-चरण</Pig.lifeStages.1.labelFemale><!-- EN: cochinillo -->
   <Pig.lifeStages.1.labelMale>कोचिनीलो</Pig.lifeStages.1.labelMale><!-- EN: cerdo -->
   <Pig.lifeStages.2.label>सुअर</Pig.lifeStages.2.label><!-- EN: cerda -->
-  <Pig.lifeStages.2.labelFemale>सूअर (suar)</Pig.lifeStages.2.labelFemale><!-- EN: cerdo -->
+  <Pig.lifeStages.2.labelFemale>सुअर (मादा)</Pig.lifeStages.2.labelFemale><!-- EN: cerdo -->
   <Pig.lifeStages.2.labelMale>सुअर</Pig.lifeStages.2.labelMale>
   
   <!-- EN: wild boar --><!-- EN: jabalí -->

@@ -36,8 +36,8 @@
   <!-- EN: sheep --><!-- EN: oveja -->
   <Sheep.label>भेड़</Sheep.label>
   <!-- EN: ewe --><!-- EN: oveja -->
-  <Sheep.labelFemale>भेड़ (bhed)</Sheep.labelFemale><!-- EN: ovejas -->
-  <Sheep.labelFemalePlural>भेड़ें (bheden)</Sheep.labelFemalePlural>
+  <Sheep.labelFemale>भेड़</Sheep.labelFemale><!-- EN: ovejas -->
+  <Sheep.labelFemalePlural>भेड़ें</Sheep.labelFemalePlural>
   <!-- EN: ram --><!-- EN: carnero -->
   <Sheep.labelMale>कारनेरो</Sheep.labelMale><!-- EN: carneros -->
   <Sheep.labelMalePlural>कारनेरोस</Sheep.labelMalePlural>
@@ -45,21 +45,21 @@
   <Sheep.labelPlural>ओवेजास</Sheep.labelPlural>
   <!-- EN: lamb --><!-- EN: cordero -->
   <Sheep.lifeStages.lamb.label>कॉर्डेरो</Sheep.lifeStages.lamb.label><!-- EN: cordera -->
-  <Sheep.lifeStages.lamb.labelFemale>भेड़ियाँ (bhediyan)</Sheep.lifeStages.lamb.labelFemale><!-- EN: corderas -->
+  <Sheep.lifeStages.lamb.labelFemale>कोडेरा</Sheep.lifeStages.lamb.labelFemale><!-- EN: corderas -->
   <Sheep.lifeStages.lamb.labelFemalePlural>कोर्डेरास</Sheep.lifeStages.lamb.labelFemalePlural><!-- EN: cordero -->
   <Sheep.lifeStages.lamb.labelMale>कोर्डेरो</Sheep.lifeStages.lamb.labelMale><!-- EN: corderos -->
   <Sheep.lifeStages.lamb.labelMalePlural>कोर्डेरोस</Sheep.lifeStages.lamb.labelMalePlural>
   <!-- EN: lambs --><!-- EN: corderos -->
   <Sheep.lifeStages.lamb.labelPlural>कोर्डेरोस</Sheep.lifeStages.lamb.labelPlural><!-- EN: oveja joven -->
   <Sheep.lifeStages.1.label>युवा भेड़</Sheep.lifeStages.1.label><!-- EN: oveja joven -->
-  <Sheep.lifeStages.1.labelFemale>युवा भेड़ (yuva bhed)</Sheep.lifeStages.1.labelFemale><!-- EN: ovejas jóvenes -->
+  <Sheep.lifeStages.1.labelFemale>युवा ओवेजा</Sheep.lifeStages.1.labelFemale><!-- EN: ovejas jóvenes -->
   <Sheep.lifeStages.1.labelFemalePlural>युवा भेड़ें</Sheep.lifeStages.1.labelFemalePlural><!-- EN: carnero joven -->
   <Sheep.lifeStages.1.labelMale>कारनेरो युवा</Sheep.lifeStages.1.labelMale><!-- EN: carneros jóvenes -->
   <Sheep.lifeStages.1.labelMalePlural>कारनेरोस युंगस</Sheep.lifeStages.1.labelMalePlural><!-- EN: ovejas jóvenes -->
   <Sheep.lifeStages.1.labelPlural>युवा ओवेजास</Sheep.lifeStages.1.labelPlural><!-- EN: oveja -->
   <Sheep.lifeStages.2.label>भेड़</Sheep.lifeStages.2.label><!-- EN: oveja -->
-  <Sheep.lifeStages.2.labelFemale>भेड़ (bhed)</Sheep.lifeStages.2.labelFemale><!-- EN: ovejas -->
-  <Sheep.lifeStages.2.labelFemalePlural>भेड़ें (bheden)</Sheep.lifeStages.2.labelFemalePlural><!-- EN: carnero -->
+  <Sheep.lifeStages.2.labelFemale>भेड़</Sheep.lifeStages.2.labelFemale><!-- EN: ovejas -->
+  <Sheep.lifeStages.2.labelFemalePlural>भेड़ें</Sheep.lifeStages.2.labelFemalePlural><!-- EN: carnero -->
   <Sheep.lifeStages.2.labelMale>कारनेरो</Sheep.lifeStages.2.labelMale><!-- EN: carneros -->
   <Sheep.lifeStages.2.labelMalePlural>कैरनेरोस</Sheep.lifeStages.2.labelMalePlural><!-- EN: ovejas -->
   <Sheep.lifeStages.2.labelPlural>ओवेजास</Sheep.lifeStages.2.labelPlural>

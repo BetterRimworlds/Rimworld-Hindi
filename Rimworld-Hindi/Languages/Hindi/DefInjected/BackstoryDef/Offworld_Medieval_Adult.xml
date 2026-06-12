@@ -20,13 +20,13 @@
   <Herbalist54.titleShortFemale>वनस्पति विज्ञानी महिला</Herbalist54.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
-  <MedievalDoctor40.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुग के ग्रह पर डॉक्टर के रूप में काम करती थी। वह दृढ़ता से विश्वास करती है कि अधिकांश बीमारियों का इलाज थोड़े से रक्तस्राव से किया जा सकता है।\n\nवह एक कुशल एनेस्थेटिस्ट भी थी, जिसने एक विशेष तकनीक विकसित की थी जिसमें सिर पर ज़ोरदार प्रहार शामिल था। : [PAWN_nameDef] एक मध्ययुग के ग्रह पर डॉक्टर के रूप में काम करता था। उसका दृढ़ विश्वास है कि अधिकांश बीमारियों का इलाज थोड़े से रक्तस्राव (bloodletting) से किया जा सकता है।\n\nवह एक कुशल एनेस्थेटिस्ट भी था, जिसने एक विशेष तकनीक विकसित की थी जिसमें सिर पर ज़ोरदार प्रहार शामिल था।}</MedievalDoctor40.description>
+  <MedievalDoctor40.description>{PAWN_gender ? [PAWN_nameDef] एक मध्ययुगीन ग्रह पर डॉक्टर के रूप में काम करती थी। वह दृढ़ता से विश्वास करती है कि अधिकांश बीमारियों का इलाज थोड़े से रक्तस्राव से किया जा सकता है।\n\nवह एक कुशल एनेस्थेटिस्ट भी थी, जिसने एक विशेष तकनीक विकसित की थी जिसमें सिर पर ज़ोरदार प्रहार शामिल था। : [PAWN_nameDef] एक मध्ययुगीन ग्रह पर डॉक्टर के रूप में काम करता था। उसका दृढ़ विश्वास है कि अधिकांश बीमारियों का इलाज थोड़े से रक्तस्राव (bloodletting) से किया जा सकता है।\n\nवह एक कुशल एनेस्थेटिस्ट भी था, जिसने एक विशेष तकनीक विकसित की थी जिसमें सिर पर ज़ोरदार प्रहार शामिल था।}</MedievalDoctor40.description>
   <!-- EN: medieval doctor -->
   <MedievalDoctor40.title>मध्ययुग का चिकित्सक</MedievalDoctor40.title>
   <MedievalDoctor40.titleFemale>मध्ययुगीन चिकित्सक</MedievalDoctor40.titleFemale>
   <!-- EN: quack -->
-  <MedievalDoctor40.titleShort>बत्तख़ का शोर</MedievalDoctor40.titleShort>
-  <MedievalDoctor40.titleShortFemale>बत्तखिनी</MedievalDoctor40.titleShortFemale>
+  <MedievalDoctor40.titleShort>नीम-हकीम</MedievalDoctor40.titleShort>
+  <MedievalDoctor40.titleShortFemale>नीम-हकीम</MedievalDoctor40.titleShortFemale>
   
   <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life can leave one  incapable of participating in technology-driven activities. -->
   <MedievalFarmOaf58.description>खेती करना, निराई करना, बैलगाड़ी चलाना, ठेलागाड़ी धकेलना। खाइयाँ खोदना, बीज बोना, फसल का अनुमान लगाना।\n\nमध्ययुगीन स्तर के किसान सामान्य अर्थों में शिक्षित नहीं होते हैं, लेकिन उन्हें बिना तकनीक के पौधे उगाने के बारे में बहुत कुछ पता होता है। हालाँकि, ऐसा जीवन जीने से कोई तकनीक-संचालित गतिविधियों में भाग लेने में असमर्थ हो सकता है।</MedievalFarmOaf58.description>
@@ -72,7 +72,7 @@
   <MessageCarrier77.titleShortFemale>संदेशवाहक महिला</MessageCarrier77.titleShortFemale>
   
   <!-- EN: As the food taster for a medieval king, [PAWN_nameDef] sampled any dish served at the royal table. [PAWN_pronoun] lived a decadent lifestyle at court, growing fat and doing very little real work. -->
-  <Taster16.description>{PAWN_gender ? एक मध्ययुग के राजा की खाद्य चखने वाली (food taster) के रूप में, [PAWN_nameDef] शाही मेज पर परोसे जाने वाले किसी भी व्यंजन का स्वाद लेती थी। वह दरबार में एक विलासी जीवन जीती थी, जिससे वह मोटी होती गई और उसने बहुत कम वास्तविक काम किया। : एक मध्ययुग के राजा के भोजन चखने वाले के रूप में, [PAWN_nameDef] शाही मेज पर परोसे जाने वाले किसी भी व्यंजन का स्वाद चखता था। वह दरबार में एक विलासी जीवन जीता था, जिससे वह मोटा होता गया और उसने बहुत कम वास्तविक काम किया।}</Taster16.description>
+  <Taster16.description>एक मध्ययुगीन राजा के भोजन परीक्षक के रूप में, [PAWN_nameDef] ने शाही मेज पर परोसे गए किसी भी व्यंजन का स्वाद चखा। [PAWN_pronoun] दरबार में एक विलासितापूर्ण जीवन जीता था, मोटा होता जा रहा था और बहुत कम वास्तविक काम करता था।</Taster16.description>
   <!-- EN: taster -->
   <Taster16.title>स्वाद परीक्षक</Taster16.title>
   <Taster16.titleFemale>स्वाद-परीक्षक</Taster16.titleFemale>

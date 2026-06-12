@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: carpet ({0}) -->
-  <Carpet.label>गलीचा {0}</Carpet.label>
+  <Carpet.label>कालीन ({0})</Carpet.label>
   <!-- EN: Soft carpet made from fibers dyed a single color. It's welcoming, cozy, and boosts the beauty of the room it's in. It's also quite flammable, and cleaning it is a laborious process. -->
   <Carpet.description>एक रंग में रंगे रेशों से बना नरम कालीन। यह स्वागत करने वाला, आरामदायक है, और जिस कमरे में यह है उसकी सुंदरता को बढ़ाता है। यह काफी ज्वलनशील भी है, और इसे साफ करना एक कठिन प्रक्रिया है।</Carpet.description>
   

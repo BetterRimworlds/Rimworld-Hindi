@@ -129,22 +129,22 @@
   <SunLamp.comps.CompSchedule.offMessage>पौधों के विश्राम काल के लिए बंद</SunLamp.comps.CompSchedule.offMessage>
   
   <!-- EN: table (1x2) -->
-  <Table1x2c.label>टेबल</Table1x2c.label>
+  <Table1x2c.label>मेज (1x2)</Table1x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table1x2c.description>लोग कुर्सियों के सामने रखे जाने पर मेजों से खाते हैं।</Table1x2c.description>
   
   <!-- EN: table (2x2) -->
-  <Table2x2c.label>टेबल</Table2x2c.label>
+  <Table2x2c.label>मेज (2x2)</Table2x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table2x2c.description>लोग कुर्सियों के सामने रखे जाने पर मेजों से खाते हैं।</Table2x2c.description>
   
   <!-- EN: table (2x4) -->
-  <Table2x4c.label>टेबल</Table2x4c.label>
+  <Table2x4c.label>मेज (2x4)</Table2x4c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table2x4c.description>लोग कुर्सियों के सामने रखे जाने पर मेजों से खाते हैं।</Table2x4c.description>
   
   <!-- EN: table (3x3) -->
-  <Table3x3c.label>टेबल</Table3x3c.label>
+  <Table3x3c.label>मेज (3x3)</Table3x3c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table3x3c.description>लोग कुर्सियों के सामने रखे जाने पर मेजों से खाते हैं।</Table3x3c.description>
   

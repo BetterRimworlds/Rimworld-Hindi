@@ -20,7 +20,7 @@
   <!-- EN: Learning speed -->
   <LearningSpeed>सीखने की गति</LearningSpeed>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
-  <LearnedMaxToday>अधिकतम सीखा आज ({0}/{1}, आगे सीखने को {2} से गुणा किया गया)</LearnedMaxToday>
+  <LearnedMaxToday>आज अधिकतम सीखा ({0}/{1}, आगे की सीख {2} से गुणा होगी)</LearnedMaxToday>
   <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->
   <ChildrenLearn>बच्चे वयस्कों को काम करते देखकर और पाठ डेस्क पर सबक लेकर कौशल सीखते हैं।</ChildrenLearn>
   <!-- EN: Effects at level {0} -->

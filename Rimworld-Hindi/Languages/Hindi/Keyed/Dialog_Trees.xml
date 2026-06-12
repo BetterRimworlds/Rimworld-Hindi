@@ -8,7 +8,7 @@
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle. -->
   <FactionGreetingWary>{0} {NEGOTIATOR_labelShort} को अभिवादन करता है और पूछता है कि आप क्या काम करवाना चाहते हैं।</FactionGreetingWary>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
-  <FactionGreetingWarm>{0} {0} {NEGOTIATOR_labelShort} से गर्मजोशी से मिलता है और पूछता है कि {LEADER_pronoun} आपकी मदद के लिए क्या कर सकता है।</FactionGreetingWarm>
+  <FactionGreetingWarm>{0} {NEGOTIATOR_labelShort} से गर्मजोशी से मिलता है और पूछता है कि {LEADER_pronoun} आपकी मदद के लिए क्या कर सकता है।</FactionGreetingWarm>
 
   <!-- EN: won't do {0} -->
   <WorkTypeDisablesOption>नहीं करेगा {0}</WorkTypeDisablesOption>
@@ -51,7 +51,7 @@
   
   <!-- AI core request -->
   <!-- EN: Request the location of a {0} (cost: {1} silver) -->
-  <RequestAICoreInformation>{0} के स्थान का अनुरोध करें (लागत: {1} चांदी)</RequestAICoreInformation>
+  <RequestAICoreInformation>{0} के स्थान का अनुरोध करें (लागत: {1} चाँदी)</RequestAICoreInformation>
   <!-- EN: {0} sends the requested information and wishes you good luck. -->
   <RequestAICoreInformationResult>{0} अनुरोधित जानकारी भेजता/भेजती है और आपको शुभकामनाएँ देता/देती है।</RequestAICoreInformationResult>
   <!-- EN: no more locations known -->

@@ -17,7 +17,7 @@
   <!-- EN: psychic shock lance -->
   <Apparel_PsychicShockLance.label>मानसिक शॉक लैंस</Apparel_PsychicShockLance.label>
   <!-- EN: A limited-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. There is a risk of brain damage. It has a long range, but requires line of sight. -->
-  <Apparel_PsychicShockLance.description>एक सीमित-उपयोग वाला साइकिक इफ़ेक्टर। यह अराजक छवियों के साथ लक्ष्य के मन को झकझोर देता है, जिससे सुसंगत धारणा बाधित हो जाती है और वे साइकिक शॉक की स्थिति में चले जाते हैं। इसमें मस्तिष्क क्षति का जोखिम होता है। इसकी रेंज लंबी है, लेकिन इसके लिए दृष्टि रेखा (लाइन ऑफ साइट) की आवश्यकता होती है।</Apparel_PsychicShockLance.description>
+  <Apparel_PsychicShockLance.description>एक सीमित उपयोग वाला साइकिक इफेक्टर। यह अराजक छवियों के साथ लक्ष्य के मन को झकझोर देता है, जिससे सुसंगत धारणा बाधित हो जाती है और वे साइकिक शॉक की स्थिति में चले जाते हैं। इसमें मस्तिष्क क्षति का जोखिम होता है। इसकी रेंज लंबी है, लेकिन इसके लिए दृष्टि रेखा (लाइन ऑफ साइट) की आवश्यकता होती है।</Apparel_PsychicShockLance.description>
   <!-- EN: charge -->
   <Apparel_PsychicShockLance.comps.CompApparelReloadable.chargeNoun>चार्जिंग</Apparel_PsychicShockLance.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->

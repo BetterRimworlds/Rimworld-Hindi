@@ -43,7 +43,7 @@
   <!-- EN: The chance this food will cause food poisoning. -->
   <FoodPoisonChanceFixedHuman.description>यह भोजन विषाक्तता पैदा करने की संभावना है।</FoodPoisonChanceFixedHuman.description>
   <!-- EN: food poison chance (food stat) -->
-  <FoodPoisonChanceFixedHuman.labelForFullStatList>भोजन विषाक्तता संभावना (भोजन आँकड़ा)</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>भोजन विषाक्तता की संभावना (भोजन सांख्यिकी)</FoodPoisonChanceFixedHuman.labelForFullStatList>
   
   <!-- EN: market value -->
   <MarketValue.label>बाजार मूल्य</MarketValue.label>

@@ -4,7 +4,7 @@
   <!-- EN: Armor - Blunt -->
   <StuffPower_Armor_Blunt.label>कवच - कुंद</StuffPower_Armor_Blunt.label>
   <!-- EN: Armor against blunt damage like club impacts, rock falls, and explosions. -->
-  <StuffPower_Armor_Blunt.description>गदा के प्रहार, चट्टान गिरने और विस्फोटों जैसे कुंद क्षति (blunt damage) के विरुद्ध कवच।</StuffPower_Armor_Blunt.description>
+  <StuffPower_Armor_Blunt.description>क्लब के प्रहार, चट्टान गिरने और विस्फोटों जैसे कुंद क्षति (blunt damage) के विरुद्ध कवच।</StuffPower_Armor_Blunt.description>
   <!-- EN: Armor - Blunt (material factor) -->
   <StuffPower_Armor_Blunt.labelForFullStatList>कवच - कुंद (सामग्री कारक)</StuffPower_Armor_Blunt.labelForFullStatList>
   
@@ -27,13 +27,13 @@
   <!-- EN: How much an apparel made of this material improves a wearer's minimum comfortable temperature when worn. -->
   <StuffPower_Insulation_Cold.description>यह सामग्री से बने परिधान पहनने पर किसी व्यक्ति का न्यूनतम आरामदायक तापमान कितना बेहतर होता है।</StuffPower_Insulation_Cold.description>
   <!-- EN: Insulation - Cold (material factor) -->
-  <StuffPower_Insulation_Cold.labelForFullStatList>अवरोधन - शीत (सामग्री कारक)</StuffPower_Insulation_Cold.labelForFullStatList>
+  <StuffPower_Insulation_Cold.labelForFullStatList>इन्सुलेशन - ठंड (सामग्री कारक)</StuffPower_Insulation_Cold.labelForFullStatList>
   
   <!-- EN: Insulation - Heat -->
   <StuffPower_Insulation_Heat.label>ऊष्मारोधन</StuffPower_Insulation_Heat.label>
   <!-- EN: How much an apparel made of this material improves a wearer's maximum comfortable temperature when worn. -->
   <StuffPower_Insulation_Heat.description>यह सामग्री से बने परिधान पहनने पर किसी व्यक्ति का अधिकतम आरामदायक तापमान कितना बढ़ता है।</StuffPower_Insulation_Heat.description>
   <!-- EN: Insulation - Heat (material factor) -->
-  <StuffPower_Insulation_Heat.labelForFullStatList>अवरोधन - ऊष्मा (सामग्री कारक)</StuffPower_Insulation_Heat.labelForFullStatList>
+  <StuffPower_Insulation_Heat.labelForFullStatList>इन्सुलेशन - ऊष्मा (सामग्री कारक)</StuffPower_Insulation_Heat.labelForFullStatList>
   
 </LanguageData>

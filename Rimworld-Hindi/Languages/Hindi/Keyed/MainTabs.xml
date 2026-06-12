@@ -15,7 +15,7 @@
   <!-- EN: {1_labelShort} cannot do this kind of work. -->
   <CannotDoThisWork>{1_labelShort} यह तरह का काम नहीं कर सकता।</CannotDoThisWork>
   <!-- EN: (none) -->
-  <NoneBrackets>नियम।</NoneBrackets>
+  <NoneBrackets>(none)</NoneBrackets>
   <!-- EN: This colonist is not able to do any work of this type because of their health condition. -->
   <IncapableOfWorkTypeBecauseOfCapacities>यह उपनिवेशवादी स्वास्थ्य स्थिति के कारण इस प्रकार का कोई भी कार्य करने में असमर्थ है।</IncapableOfWorkTypeBecauseOfCapacities>
   <!-- EN: E -->
@@ -167,19 +167,19 @@
   <!-- EN: Storyteller -->
   <Storyteller>कथाकार</Storyteller>
   <!-- EN: Colony wealth (this map) -->
-  <ThisMapColonyWealthTotal>कॉलोनी संपत्ति (यह मानचित्र)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthTotal>उपनिवेश की संपत्ति (यह मानचित्र)</ThisMapColonyWealthTotal>
   <!-- EN: Colony wealth (items) (this map) -->
-  <ThisMapColonyWealthItems>कॉलोनी संपत्ति (वस्तुएं) (यह मानचित्र)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthItems>उपनिवेश की संपत्ति (वस्तुएं) (यह मानचित्र)</ThisMapColonyWealthItems>
   <!-- EN: Colony wealth (buildings) (this map) -->
-  <ThisMapColonyWealthBuildings>कॉलोनी संपत्ति (इमारतें) (यह मानचित्र)</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthBuildings>उपनिवेश की संपत्ति (इमारतें) (यह मानचित्र)</ThisMapColonyWealthBuildings>
   <!-- EN: Colony wealth (people and animals) (this map) -->
-  <ThisMapColonyWealthColonistsAndTameAnimals>कॉलोनी संपत्ति (लोग और जानवर) (यह मानचित्र)</ThisMapColonyWealthColonistsAndTameAnimals>
+  <ThisMapColonyWealthColonistsAndTameAnimals>उपनिवेश की संपत्ति (लोग और जानवर) (यह मानचित्र)</ThisMapColonyWealthColonistsAndTameAnimals>
   <!-- EN: Major threats -->
   <NumThreatBigs>गंभीर खतरे</NumThreatBigs>
   <!-- EN: Enemy raids -->
   <NumEnemyRaids>शत्रु छापे</NumEnemyRaids>
   <!-- EN: Damage taken (this map) -->
-  <ThisMapDamageTaken>क्षति प्राप्त (यह मानचित्र)</ThisMapDamageTaken>
+  <ThisMapDamageTaken>लिया गया नुकसान (यह मानचित्र)</ThisMapDamageTaken>
   <!-- EN: Colonists killed -->
   <ColonistsKilled>कॉलोनिस्ट मारे गए</ColonistsKilled>
   <!-- EN: Colonists launched into space -->

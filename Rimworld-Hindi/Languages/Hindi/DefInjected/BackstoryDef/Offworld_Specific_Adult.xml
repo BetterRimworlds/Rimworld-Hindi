@@ -17,7 +17,7 @@
   <CaveworldIlluminator95.titleFemale>गुफा-प्रकाशक</CaveworldIlluminator95.titleFemale>
   <!-- EN: illuminator -->
   <CaveworldIlluminator95.titleShort>प्रकाशक</CaveworldIlluminator95.titleShort>
-  <CaveworldIlluminator95.titleShortFemale>ज्योतिर्मय (Jyotirmay)</CaveworldIlluminator95.titleShortFemale>
+  <CaveworldIlluminator95.titleShortFemale>प्रकाशक</CaveworldIlluminator95.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a settler on a new colony world.\n\nSuch a life requires a jack-of-all trades at basic hands-on tasks. -->
   <ColonySettler53.description>{PAWN_gender ? [PAWN_nameDef] एक नए उपनिवेश ग्रह पर एक उपनिवेशवादी थी।\n\nऐसे जीवन के लिए बुनियादी हाथों से किए जाने वाले कार्यों में एक कुशल व्यक्ति की आवश्यकता होती है। : [PAWN_nameDef] एक नए उपनिवेश ग्रह पर एक उपनिवेशवादी था।\n\nऐसे जीवन के लिए बुनियादी हाथों से किए जाने वाले कार्यों में एक कुशल व्यक्ति की आवश्यकता होती है।}</ColonySettler53.description>
@@ -29,7 +29,7 @@
   <ColonySettler53.titleShortFemale>बसने वाली</ColonySettler53.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. [PAWN_pronoun] used [PAWN_possessive] hands-on industrial skills daily - and wasn't bad in a bar fight either. -->
-  <DeepSpaceMiner3.description>{PAWN_gender ? [PAWN_nameDef] ने एक गहरे अंतरिक्ष रिग पर क्षुद्रग्रहों से धातु निकालने का पसीना बहाने वाला, गंदा काम किया। उसने दैनिक रूप से अपने व्यावहारिक औद्योगिक युग के कौशल का उपयोग किया - और वह बार की लड़ाई में भी कम नहीं थी। : [PAWN_nameDef] ने एक गहरे अंतरिक्ष रिग पर क्षुद्रग्रहों से धातु निकालने का पसीने और गंदगी से भरा काम किया। उसने दैनिक रूप से अपने व्यावहारिक औद्योगिक युग के कौशल का उपयोग किया - और वह बार की लड़ाई में भी बुरा नहीं था।}</DeepSpaceMiner3.description>
+  <DeepSpaceMiner3.description>{PAWN_gender ? [PAWN_nameDef] ने गहरे अंतरिक्ष रिग पर क्षुद्रग्रहों से धातु निकालने का पसीने और धूल से भरा काम किया। वह अपनी हाथों से की जाने वाली औद्योगिक कौशल का दैनिक उपयोग करती थी - और बार की लड़ाई में भी बुरी नहीं थी। : [PAWN_nameDef] ने गहरे अंतरिक्ष रिग पर क्षुद्रग्रहों से धातु निकालने का पसीने और धूल से भरा काम किया। वह अपने हाथों से की जाने वाली औद्योगिक कौशल का दैनिक उपयोग करता था - और बार की लड़ाई में भी बुरा नहीं था।}</DeepSpaceMiner3.description>
   <!-- EN: deep space miner -->
   <DeepSpaceMiner3.title>अंतरिक्ष खनिक</DeepSpaceMiner3.title>
   <DeepSpaceMiner3.titleFemale>अंतरिक्ष खनिक</DeepSpaceMiner3.titleFemale>
@@ -38,13 +38,13 @@
   <DeepSpaceMiner3.titleShortFemale>खनिक महिला</DeepSpaceMiner3.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] did menial, unskilled work in an industrial factory. [PAWN_possessive] job also included caring for the mules and horses which transported the goods. -->
-  <FactoryWorker58.description>{PAWN_gender ? [PAWN_nameDef] ने एक औद्योगिक युग की फैक्ट्री में मामूली, अकुशल काम किया। उसके काम में उन खच्चरों और घोड़ों की देखभाल करना भी शामिल था जो सामान का परिवहन करते थे। : [PAWN_nameDef] ने एक औद्योगिक युग की फैक्ट्री में साधारण, अकुशल काम किया। उसके काम में उन खच्चरों और घोड़ों की देखभाल करना भी शामिल था जो सामान का परिवहन करते थे।}</FactoryWorker58.description>
+  <FactoryWorker58.description>[PAWN_nameDef] ने एक औद्योगिक कारखाने में तुच्छ, अकुशल कार्य किया। उसके काम में माल ढोने वाले खच्चरों और घोड़ों की देखभाल भी शामिल थी।</FactoryWorker58.description>
   <!-- EN: factory worker -->
   <FactoryWorker58.title>कारखाना कर्मचारी</FactoryWorker58.title>
   <FactoryWorker58.titleFemale>कारखाना कर्मी</FactoryWorker58.titleFemale>
   <!-- EN: worker -->
-  <FactoryWorker58.titleShort>मज़दूर</FactoryWorker58.titleShort>
-  <FactoryWorker58.titleShortFemale>मज़दूरिन (Mazdoorin)</FactoryWorker58.titleShortFemale>
+  <FactoryWorker58.titleShort>श्रमिक</FactoryWorker58.titleShort>
+  <FactoryWorker58.titleShortFemale>श्रमिक</FactoryWorker58.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] turned out to have an excellent memory and a gift for performing complex calculations in [PAWN_possessive] head. An industrial-world dictator decided to employ [PAWN_nameDef] to keep track of [PAWN_possessive] state's finances and expenditure. -->
   <HumanComputer83.description>{PAWN_gender ? [PAWN_nameDef] की याददाश्त बहुत ही शानदार निकली और उसके पास अपने दिमाग में जटिल गणनाएं करने का एक विशेष हुनर था। एक औद्योगिक युग के तानाशाह ने [PAWN_nameDef] को अपने राज्य के वित्त और खर्चों का हिसाब रखने के लिए काम पर रखने का निर्णय लिया। : [PAWN_nameDef] की याददाश्त बहुत शानदार निकली और उसमें अपने दिमाग में जटिल गणनाएं करने का एक विशेष हुनर था। एक औद्योगिक युग के तानाशाह ने [PAWN_nameDef] को अपने राज्य के वित्त और खर्चों का हिसाब रखने के लिए काम पर रखने का निर्णय लिया।}</HumanComputer83.description>
@@ -54,14 +54,14 @@
   <HumanComputer83.titleShort>{PAWN_gender ? कंप्यूटर विशेषज्ञ महिला : कंप्यूटर विशेषज्ञ}</HumanComputer83.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.\n\nWhen the local government imposed harsh restrictions on joywire manufacturing, [PAWN_pronoun] began selling [PAWN_possessive] products on the black market. -->
-  <JoywireArtist8.description>[PAWN_nameDef] ने उपयोगकर्ता के आनंद को अधिकतम करने के लिए अत्याधुनिक आनंद तार सॉफ़्टवेयर विकसित करने हेतु एक शहरी दुनिया की प्रयोगशाला में काम किया।\n\nजब स्थानीय सरकार ने आनंद तार के निर्माण पर कड़े प्रतिबंध लगा दिए, तो उसने काले बाजार में अपने उत्पाद बेचना शुरू कर दिया।</JoywireArtist8.description>
+  <JoywireArtist8.description>{PAWN_gender ? [PAWN_nameDef] एक शहरी दुनिया की प्रयोगशाला में उपयोगकर्ता के आनंद को अधिकतम करने के लिए अत्याधुनिक जॉयवायर सॉफ्टवेयर विकसित करती थी।\n\nजब स्थानीय सरकार ने जॉयवायर निर्माण पर कठोर प्रतिबंध लगाए, तो उसने अपने उत्पादों को काले बाजार में बेचना शुरू कर दिया। : [PAWN_nameDef] एक शहरी दुनिया की प्रयोगशाला में उपयोगकर्ता के आनंद को अधिकतम करने के लिए अत्याधुनिक जॉयवायर सॉफ्टवेयर विकसित करता था।\n\nजब स्थानीय सरकार ने जॉयवायर निर्माण पर कठोर प्रतिबंध लगाए, तो उसने अपने उत्पादों को काले बाजार में बेचना शुरू कर दिया।}</JoywireArtist8.description>
   <!-- EN: joywire artist -->
   <JoywireArtist8.title>आनंद तार कलाकार</JoywireArtist8.title>
   <!-- EN: joywirer -->
-  <JoywireArtist8.titleShort>{PAWN_gender ? आनंद-तारिका (Ānand-Tārikā) : खुशी तारक}</JoywireArtist8.titleShort>
+  <JoywireArtist8.titleShort>जॉयवायरर</JoywireArtist8.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a high-ranking member of an urbworld crime syndicate.\n\n[PAWN_pronoun] bribed officials, maintained the loyalty of [PAWN_possessive] subordinates, and extracted overdue payments - by any means necessary. -->
-  <MafiaBoss17.description>{PAWN_gender ? [PAWN_nameDef] शहरी दुनिया के एक अपराध सिंडिकेट की उच्च पदस्थ सदस्य थी।\n\nउसने अधिकारियों को रिश्वत दी, अपने अधीनस्थों की वफादारी बनाए रखी, और किसी भी आवश्यक साधन से बकाया भुगतान वसूल किया। : [PAWN_nameDef] शहरी दुनिया के एक अपराध सिंडिकेट का उच्च पदस्थ सदस्य था।\n\nउसने अधिकारियों को रिश्वत दी, अपने अधीनस्थों की वफादारी बनाए रखी, और किसी भी आवश्यक साधन से बकाया भुगतान वसूल किया।}</MafiaBoss17.description>
+  <MafiaBoss17.description>{PAWN_gender ? [PAWN_nameDef] एक शहरी दुनिया के अपराध सिंडिकेट की उच्च-पदस्थ सदस्य थी।\n\nउसने अधिकारियों को रिश्वत दी, अपने अधीनस्थों की वफादारी बनाए रखी, और किसी भी साधन से बकाया भुगतान वसूल किए। : [PAWN_nameDef] एक शहरी दुनिया के अपराध सिंडिकेट का उच्च-पदस्थ सदस्य था।\n\nउसने अधिकारियों को रिश्वत दी, अपने अधीनस्थों की वफादारी बनाए रखी, और किसी भी साधन से बकाया भुगतान वसूल किए।}</MafiaBoss17.description>
   <!-- EN: mafia boss -->
   <MafiaBoss17.title>माफिया सरगना</MafiaBoss17.title>
   <MafiaBoss17.titleFemale>माफिया सरगना</MafiaBoss17.titleFemale>
@@ -70,7 +70,7 @@
   <MafiaBoss17.titleShortFemale>बॉस महिला</MafiaBoss17.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] adult life in an insane asylum. [PAWN_possessive] industrial homeworld had a poor understanding of mental illness, and [PAWN_pronoun] was treated more like an animal than a person.\n\nThough [PAWN_pronoun] eventually recovered and was released, [PAWN_possessive] experience dampened many of [PAWN_possessive] basic life skills. -->
-  <PsychiatricPatient94.description>{PAWN_gender ? [PAWN_nameDef] ने अपने वयस्क जीवन का अधिकांश समय एक पागलखाने में बिताया। उसके औद्योगिक युग के गृह-संसार में मानसिक बीमारी की समझ बहुत कम थी, और उसके साथ एक इंसान के बजाय एक जानवर की तरह व्यवहार किया जाता था।\n\nहालाँकि वह अंततः ठीक हो गई और उसे रिहा कर दिया गया, लेकिन उसके अनुभव ने उसके कई बुनियादी जीवन कौशल को कम कर दिया था। : [PAWN_nameDef] ने अपने वयस्क जीवन का अधिकांश समय एक पागलखाने में बिताया। उसके औद्योगिक युग के गृहग्रह में मानसिक बीमारी की समझ बहुत कम थी, और उसके साथ एक इंसान के बजाय एक जानवर की तरह व्यवहार किया जाता था।\n\nहालाँकि अंततः वह ठीक हो गया और उसे रिहा कर दिया गया, लेकिन उसके अनुभव ने उसके कई बुनियादी जीवन कौशल को कम कर दिया।}</PsychiatricPatient94.description>
+  <PsychiatricPatient94.description>{PAWN_gender ? [PAWN_nameDef] ने अपने वयस्क जीवन का अधिकांश भाग एक पागलखाने में बिताया। उसका औद्योगिक गृह ग्रह मानसिक बीमारी को ठीक से नहीं समझता था, और उसके साथ एक व्यक्ति के बजाय एक जानवर जैसा व्यवहार किया गया।\n\nहालांकि वह अंततः ठीक हो गई और रिहा कर दी गई, लेकिन उसके अनुभव ने उसके कई बुनियादी जीवन कौशल को कम कर दिया। : [PAWN_nameDef] ने अपने वयस्क जीवन का अधिकांश भाग एक पागलखाने में बिताया। उसका औद्योगिक गृह ग्रह मानसिक बीमारी को ठीक से नहीं समझता था, और उसके साथ एक व्यक्ति के बजाय एक जानवर जैसा व्यवहार किया गया।\n\nहालांकि वह अंततः ठीक हो गया और रिहा हो गया, लेकिन उसके अनुभव ने उसके कई बुनियादी जीवन कौशल को कम कर दिया।}</PsychiatricPatient94.description>
   <!-- EN: psychiatric patient -->
   <PsychiatricPatient94.title>मानसिक रोगी</PsychiatricPatient94.title>
   <PsychiatricPatient94.titleFemale>मानसिक रोगी</PsychiatricPatient94.titleFemale>
@@ -92,7 +92,7 @@
   <SpaceTactician28.titleFemale>अंतरिक्ष रणनीतिकार</SpaceTactician28.titleFemale>
   <!-- EN: tactician -->
   <SpaceTactician28.titleShort>रणनीतिकार</SpaceTactician28.titleShort>
-  <SpaceTactician28.titleShortFemale>रणनीतिकार (Rananeetikaar)</SpaceTactician28.titleShortFemale>
+  <SpaceTactician28.titleShortFemale>रणनीतिकार</SpaceTactician28.titleShortFemale>
   
   <!-- EN: While other passengers pass the years between star systems in cryptosleep sarcophagi, [PAWN_nameDef] had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids. -->
   <StarshipJanitor33.description>{PAWN_gender ? जहाँ अन्य यात्री क्रिप्टोस्लीप सार्कोफैगी में सितारों के बीच के वर्षों को बिताते थे, वहीं [PAWN_nameDef] को निरीक्षण करने, नेविगेशन सिस्टम की जाँच करने और मेकैनॉइड्स में तेल डालने के लिए समय-समय पर जागना पड़ता था। : जब अन्य यात्री क्रिप्टोस्लीप सार्कोफेगी में सितारों के बीच के वर्षों को बिताते हैं, तब [PAWN_nameDef] को निरीक्षण करने, नेविगेशन सिस्टम की जांच करने और मेकैनॉइड्स में तेल डालने के लिए समय-समय पर जागना पड़ता था।}</StarshipJanitor33.description>

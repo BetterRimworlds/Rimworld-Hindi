@@ -76,7 +76,7 @@
   <Inspired_Trade.baseInspectLine>प्रेरित: प्रेरित व्यापार</Inspired_Trade.baseInspectLine>
   <!-- EN: [PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
   <Inspired_Trade.beginLetter>{PAWN_gender ? वह अपनी अगली व्यापारिक डील को बंद करते समय एक महत्वपूर्ण व्यापार मूल्य बोनस प्राप्त करेगी।\n\nप्रेरणा 8 दिनों के बाद, या जब सौदा हो जाए, समाप्त हो जाएगी। : वह अपने अगले व्यापार समझौते को बंद करते समय एक महत्वपूर्ण व्यापार मूल्य बोनस प्राप्त करेगा।\n\nप्रेरणा 8 दिनों के बाद, या जब सौदा हो जाए, समाप्त हो जाएगी।}</Inspired_Trade.beginLetter><!-- EN: [PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
-  <Inspired_Trade.beginLetterLabel>{PAWN_gender ? व्यापार मूल्य प्रोत्साहन (महिला) : व्यापार मूल्य प्रोत्साहन}</Inspired_Trade.beginLetterLabel>
+  <Inspired_Trade.beginLetterLabel>[PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done.</Inspired_Trade.beginLetterLabel>
   <!-- EN: {0} is no longer inspired (inspired trade). -->
   <Inspired_Trade.endMessage>{0} अब प्रेरित नहीं है (प्रेरित व्यापार)।</Inspired_Trade.endMessage>
   

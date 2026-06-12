@@ -32,7 +32,7 @@
   <!-- EN: Transport pod crash -->
   <LetterLabelRefugeePodCrash>परिवहन पॉड दुर्घटना</LetterLabelRefugeePodCrash>
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
-  <RefugeePodCrash>{PAWN_titleIndef} जिसका नाम {PAWN_nameDef} है, पास ही एक ट्रांसपोर्ट पॉड में क्रैश हो रहा है। यदि {PAWN_pronoun} प्रभाव से बच जाता है, तो {PAWN_pronoun} बुरी तरह घायल हो जाएगा।</RefugeePodCrash>
+  <RefugeePodCrash>एक {PAWN_titleIndef} जिसका नाम {PAWN_nameDef} है, पास में एक परिवहन पॉड में दुर्घटनाग्रस्त हो रहा है। यदि {PAWN_pronoun} प्रभाव से बच जाता है, तो {PAWN_pronoun} बुरी तरह से घायल हो जाएगा।</RefugeePodCrash>
   <!-- EN: {PAWN_nameDef} is a child of {AGE}. -->
   <RefugeePodCrash_Child>{PAWN_nameDef} {UMAR} साल का बच्चा है।</RefugeePodCrash_Child>
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
@@ -105,7 +105,7 @@
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
   <MessageAnimalInsanityPulse>{SOURCE_label} ने एक मानसिक स्पंदन उत्सर्जित किया है जिसने आस-पास के जानवरों को पागल कर दिया है।</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
-  <LetterShipPartDroveColonistInsane>क्रैश हुए जहाज के हिस्से से एक केंद्रित मानसिक स्पंदन (psychic pulse) निकला है जिसने उपनिवेशवादी {0} को पागल कर दिया है।</LetterShipPartDroveColonistInsane>
+  <LetterShipPartDroveColonistInsane>क्रैश हुए जहाज के हिस्से ने एक केंद्रित साइकिक पल्स उत्सर्जित की है जिसने उपनिवेशी {0} को पागल कर दिया है।</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
   <AwokeDaysAgo>जागा {0} दिन पहले</AwokeDaysAgo>
   <!-- EN: Activated {0} days ago -->
@@ -117,7 +117,7 @@
   <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>ड्रोन तीव्र</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>क्रैश हुआ जहाज का हिस्सा अब एक अधिक शक्तिशाली प्रकार की मानसिक गूँज (psychic drone) उत्सर्जित कर रहा है। क्षेत्र में मौजूद प्रत्येक {0} मानव जैसा जीव अब अधिक विचलित, भयभीत और शंकालु महसूस कर रहा है।</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>क्रैश हुआ जहाज का हिस्सा अब एक अधिक शक्तिशाली प्रकार की साइकिक ड्रोन उत्सर्जित कर रहा है। क्षेत्र में मौजूद प्रत्येक {0} मानव जैसा प्राणी अब अधिक विचलित, भयभीत और शंकालु महसूस कर रहा है।</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
@@ -201,7 +201,7 @@
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
   <LetterCaravanRequest>एक आस-पास का समझौता, {0}, आपसे एक विशेष व्यापार अनुरोध के साथ संपर्क करता है। वे खरीदना चाहेंगे:\n\n  {1} (कीमत {2})\n\nइसके बदले में, वे पेश करते हैं:\n\n  {3} (कीमत {4})\n\nयह अनुरोध समाप्त हो जाएगा: {5}\n\nयदि आप व्यापार करना चाहते हैं, तो अनुरोधित आपूर्ति के साथ एक कारवां भेजें। अनुमानित यात्रा समय है {6}। आप विश्व मानचित्र पर {0} का चयन करके इस प्रस्ताव की समीक्षा कर सकते हैं।</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({2}) ({1} left) -->
-  <CaravanRequestInfo>{0} ({2}) ({1} बचा हुआ)</CaravanRequestInfo>
+  <CaravanRequestInfo>अनुरोध कर रहे हैं: {0} ({2}) ({1} छोड़ दिया)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
   <NormalQualityOrBetter>सामान्य गुणवत्ता या बेहतर</NormalQualityOrBetter>
   <!-- EN: not tainted -->

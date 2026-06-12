@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: Accuracy (long) -->
-  <AccuracyLong.label>सटीकता</AccuracyLong.label>
+  <AccuracyLong.label>सटीकता (लंबी)</AccuracyLong.label>
   <!-- EN: The weapon's accuracy at a distance of 40 cells or more.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyLong.description>हथियार की 40 सेल या उससे अधिक दूरी पर सटीकता।\n\nएक वास्तविक गोली की हिट होने की संभावना अन्य कारकों से भी प्रभावित होगी।</AccuracyLong.description>
   
   <!-- EN: Accuracy (medium) -->
-  <AccuracyMedium.label>सटीकता</AccuracyMedium.label>
+  <AccuracyMedium.label>सटीकता (मध्यम)</AccuracyMedium.label>
   <!-- EN: The weapon's accuracy at a distance of 25 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyMedium.description>हथियार की 25 सेल की दूरी पर सटीकता।\n\nएक वास्तविक गोली लगने की संभावना अन्य कारकों से भी प्रभावित होगी।</AccuracyMedium.description>
   
@@ -17,7 +17,7 @@
   <AccuracyShort.description>हथियार की 12 सेल की दूरी पर सटीकता।\n\nएक वास्तविक गोली लगने की संभावना अन्य कारकों से भी प्रभावित होगी।</AccuracyShort.description>
   
   <!-- EN: Accuracy (close) -->
-  <AccuracyTouch.label>सटीकता</AccuracyTouch.label>
+  <AccuracyTouch.label>सटीकता (निकट)</AccuracyTouch.label>
   <!-- EN: The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
   <AccuracyTouch.description>हथियार की 3 सेल या उससे कम दूरी पर सटीकता।\n\nएक वास्तविक गोली की हिट होने की संभावना अन्य कारकों से भी प्रभावित होगी।</AccuracyTouch.description>
   

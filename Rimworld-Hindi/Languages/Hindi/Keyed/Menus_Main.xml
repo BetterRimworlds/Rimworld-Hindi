@@ -27,7 +27,7 @@
   <!-- EN: Cleanup translation files -->
   <CleanupTranslationFiles>सफाई</CleanupTranslationFiles>
   <!-- EN: Update translations files (TKey's) -->
-  <TranslationFilesTKeyUpdate>महत्वपूर्ण नियम:\n- कोई स्पष्टीकरण, नोट्स या कोष्ठक में टिप्पणियाँ नहीं।\n- केवल एक अनुवाद - कोई विकल्प नहीं [</TranslationFilesTKeyUpdate>
+  <TranslationFilesTKeyUpdate>अनुवाद फ़ाइलों (TKey's) को अपडेट करें</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>सफाई</CleaningTranslationFiles>
   <!-- EN: Dev quicktest -->
@@ -139,7 +139,7 @@
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>संस्करण {0} अब उपलब्ध है। अधिक जानकारी के लिए ludeon.com देखें।</BuildNowAvailable>
   <!-- EN: This is the latest version. -->
-  <BuildUpToDate>ठीक है। मैं तैयार हूँ। मुझे RimWorld का सामान्य गेम टेक्स्ट दें। \n\n(Okay. I am ready. Give me the RimWorld general game text.)</BuildUpToDate>
+  <BuildUpToDate>यह नवीनतम संस्करण है।</BuildUpToDate>
   <!-- EN: Error getting version info: {0} -->
   <ErrorGettingVersionInfo>त्रुटि संस्करण जानकारी प्राप्त करने में: {0}</ErrorGettingVersionInfo>
   <!-- EN: Loading version info... -->
@@ -287,7 +287,7 @@
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
   <ModLoadFolderDoesntExist>फ़ोल्डर {0} संस्करण {1} के लिए निर्दिष्ट मौजूद नहीं है।</ModLoadFolderDoesntExist>
   <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
-  <ModLoadFolderMalformedVersion>गलत संस्करण स्ट्रिंग &amp;apos;{0}&amp;apos;। सही प्रारूप मेजर.माइनर है (जैसे 1.1)</ModLoadFolderMalformedVersion>
+  <ModLoadFolderMalformedVersion>त्रुटिपूर्ण वर्शन स्ट्रिंग '{0}'। सही प्रारूप मेजर.माइनर (जैसे 1.1) है</ModLoadFolderMalformedVersion>
   <!-- EN: The list of load folders for version {0} is empty. -->
   <ModLoadFolderListEmpty>संस्करण {0} के लिए लोड फ़ोल्डर की सूची खाली है।</ModLoadFolderListEmpty>
   <!-- EN: Version {0} lists the same folder more than once: {1}. -->
@@ -327,7 +327,7 @@
   <!-- EN: Add part -->
   <AddPart>जोड़ें भाग</AddPart>
   <!-- EN: All text fields must be filled. -->
-  <TextFieldsMustBeFilled>महत्वपूर्ण नियम:\n- कोई स्पष्टीकरण, नोट्स या कोष्ठक में टिप्पणियाँ नहीं।\n- केवल एक अनुवाद - कोई विकल्प नहीं [केवल 1, कोई '</TextFieldsMustBeFilled>
+  <TextFieldsMustBeFilled>सभी टेक्स्ट फ़ील्ड भरे होने चाहिए।</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
   <ConfirmSteamWorkshopUpload>क्या आप वाकई इस फ़ाइल को स्टीम वर्कशॉप पर अपलोड करना चाहते हैं?\n\nआपको स्टीम वर्कशॉप की सेवा शर्तों से सहमत होना होगा। पूरी शर्तें यहाँ देखें:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
@@ -339,7 +339,7 @@
   <!-- EN: Too many (max {0}): -->
   <TooMany>बहुत ज़्यादा (अधिकतम {0}):</TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>कार्यशाला पर अद्यतन किया जा सकता है, क्योंकि आप लेखक हैं। \n\n(Karyashala par adyatan kiya ja sakta hai, kyoki aap lekhak hain.)</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>चूंकि आप इसके लेखक हैं, इसलिए वर्कशॉप पर अपडेट किया जा सकता है।</CanBeUpdatedOnWorkshop>
   <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
   <ScenarioChangedSavePrompt>यह परिदृश्य संपादित किया गया है।\n\nक्या आप आगे बढ़ने से पहले इसे सहेजना चाहते हैं?</ScenarioChangedSavePrompt>
   
@@ -762,6 +762,6 @@
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
   <FactionsDisabledWarning>अन्य गुटों के बिना, छापे, व्यापार और खोज सामान्य रूप से नहीं होंगे।</FactionsDisabledWarning>
   <!-- EN: Cannot be removed for this scenario. -->
-  <FactionRemovalDisabled>ज़रूरी नियम:\n- हटाया नहीं जा सकता।</FactionRemovalDisabled>
+  <FactionRemovalDisabled>इस परिदृश्य के लिए हटाया नहीं जा सकता।</FactionRemovalDisabled>
 
 </LanguageData>

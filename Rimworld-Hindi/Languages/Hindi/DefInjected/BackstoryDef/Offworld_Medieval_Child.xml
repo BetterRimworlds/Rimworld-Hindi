@@ -4,8 +4,8 @@
   <!-- EN: The child of an illicit affair, [PAWN_nameDef] was brought up by ascetics in a medieval convent. [PAWN_pronoun] learned the value of hard work and submission, but was taught that technology is heretical and violence immoral. -->
   <ConventChild16.description>{PAWN_gender ? एक अवैध संबंध की संतान, [PAWN_nameDef] का पालन-पोषण एक मध्ययुग के कॉन्वेंट में तपस्वियों द्वारा किया गया था। उसने कड़ी मेहनत और समर्पण का महत्व सीखा, लेकिन उसे यह सिखाया गया कि तकनीक पाखंड है और हिंसा अनैतिक है। : एक अवैध संबंध की संतान, [PAWN_nameDef] का पालन-पोषण एक मध्ययुग के कॉन्वेंट में तपस्वियों द्वारा किया गया था। उसने कड़ी मेहनत और समर्पण का मूल्य सीखा, लेकिन उसे यह सिखाया गया कि तकनीक पाखंड है और हिंसा अनैतिक है।}</ConventChild16.description>
   <!-- EN: convent child -->
-  <ConventChild16.title>монастырь का बच्चा</ConventChild16.title>
-  <ConventChild16.titleFemale>नन की बच्ची</ConventChild16.titleFemale>
+  <ConventChild16.title>मठ का बच्चा</ConventChild16.title>
+  <ConventChild16.titleFemale>मठ की बच्ची</ConventChild16.titleFemale>
   <!-- EN: illicit -->
   <ConventChild16.titleShort>अवैध संतान</ConventChild16.titleShort>
   <ConventChild16.titleShortFemale>अवैध संतान</ConventChild16.titleShortFemale>
@@ -28,6 +28,6 @@
   <MedievalSlave49.titleFemale>मध्ययुग की दासी</MedievalSlave49.titleFemale>
   <!-- EN: slave -->
   <MedievalSlave49.titleShort>गुलाम</MedievalSlave49.titleShort>
-  <MedievalSlave49.titleShortFemale>गुलामी दासी</MedievalSlave49.titleShortFemale>
+  <MedievalSlave49.titleShortFemale>दासी</MedievalSlave49.titleShortFemale>
   
 </LanguageData>

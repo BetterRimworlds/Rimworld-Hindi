@@ -43,8 +43,8 @@
   <Carver1.title>नक्काशीदार</Carver1.title>
   <Carver1.titleFemale>नक्काशीकार</Carver1.titleFemale>
   <!-- EN: carver -->
-  <Carver1.titleShort>कारीगर मूर्तिकार</Carver1.titleShort>
-  <Carver1.titleShortFemale>शिल्पकार (शिल्पकारिणी)</Carver1.titleShortFemale>
+  <Carver1.titleShort>नक्काशीकार</Carver1.titleShort>
+  <Carver1.titleShortFemale>नक्काशीकार</Carver1.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] specialized in cave complex excavation and construction. -->
   <CaveBuilder81.description>{PAWN_gender ? गुफा परिसर की खुदाई और निर्माण में [PAWN_nameDef] विशेषज्ञ थीं। : [PAWN_nameDef] गुफा परिसर की खुदाई और निर्माण में विशेषज्ञ था।}</CaveBuilder81.description>
