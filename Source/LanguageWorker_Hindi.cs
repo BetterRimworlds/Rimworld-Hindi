@@ -1,5 +1,7 @@
+// ==== Source/LanguageWorker_Hindi.cs ====
 using System;
 using System.Collections.Generic;
+using System.Text;
 using Verse;
 
 namespace BetterRimworlds
@@ -7,7 +9,6 @@ namespace BetterRimworlds
     public class LanguageWorker_Hindi : LanguageWorker
     {
         // Hindi grammar notes:
-        // - Script: Devanagari (LTR) - No reversal or shaping needed for RimWorld.
         // - Articles: Like Urdu/Sanskrit, Hindi has no definite or indefinite articles.
         // - Plurals: Two-case system (singular for 1, plural for everything else).
         // - Ordinals: Gender-sensitive (Masc: वाँ / Fem: वीं).
@@ -23,16 +24,65 @@ namespace BetterRimworlds
 
         public override string WithDefiniteArticle(string str, Gender gender, bool plural = false, bool name = false)
         {
-            if (str.NullOrEmpty())
-                return "";
-
+            if (str.NullOrEmpty()) return "";
             return str;
         }
 
         public override string PostProcessed(string str)
         {
-            // Hindi is LTR, so we just perform standard space merging from the base.
-            return base.PostProcessed(str);
+            if (str.NullOrEmpty()) 
+                return base.PostProcessed(str);
+
+            // Run standard space merging first
+            string processed = base.PostProcessed(str);
+
+            // Apply a manual font-shaping pass to fix RimWorld's LTR vowel rendering bug
+            return ShapeDevanagariForUnity(processed);
+        }
+
+        private string ShapeDevanagariForUnity(string input)
+        {
+            if (string.IsNullOrEmpty(input)) return input;
+
+            StringBuilder sb = new StringBuilder();
+            char[] chars = input.ToCharArray();
+
+            for (int i = 0; i < chars.Length; i++)
+            {
+                // Fix the short-i vowel bug (chhoti ee matra: \u093f)
+                // If a consonant is followed by a short-i, RimWorld displays it as: [Consonant][Vowel]
+                // We need to look ahead, grab it, and place it BEFORE the consonant/conjunct group.
+                if (i < chars.Length - 1 && chars[i + 1] == '\u093F')
+                {
+                    // Check if it's a half-letter conjunct group (e.g., 'स्' + 'त' in सिस्टम)
+                    // Devanagari Virama (halant) is \u094D
+                    if (i > 1 && chars[i - 1] == '\u094D')
+                    {
+                        // Trace backward to find the absolute beginning of the consonant cluster
+                        int startCluster = i - 2;
+                        while (startCluster > 0 && chars[startCluster] == '\u094D')
+                        {
+                            startCluster -= 2; // Jump back past previous half-letters
+                        }
+                        
+                        // Safely pull the vowel to the front of the entire cluster
+                        sb.Insert(sb.Length - (i - startCluster), '\u093F');
+                        sb.Append(chars[i]);
+                        i++; // Skip the vowel on the next cycle
+                        continue;
+                    }
+
+                    // Standard single consonant swap (e.g., 'न' + 'ि' -> 'िन')
+                    sb.Append('\u093F');
+                    sb.Append(chars[i]);
+                    i++; // Skip the vowel on next cycle
+                    continue;
+                }
+
+                sb.Append(chars[i]);
+            }
+
+            return sb.ToString();
         }
 
         public override string ResolveNumCase(float number, List<string> args)
