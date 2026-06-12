@@ -46,6 +46,11 @@
       <Private>False</Private>
     </Reference>
 
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>/rimworld/1.6/RimWorldLinux_Data/Managed/UnityEngine.AssetBundleModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
     <Reference Include="0Harmony">
       <HintPath>/rimworld/1.6/Mods/Harmony/Current/Assemblies/0Harmony.dll</HintPath>
       <Private>False</Private>

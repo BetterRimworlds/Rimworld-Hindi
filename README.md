@@ -136,6 +136,56 @@ Open a GitHub issue here:
 
 ---
 
+## Translation Stats
+
+```
+================ HINDI TRANSLATION ANALYSIS ================
+Volume: 125,547 English words -> 188,137 Hindi words
+
+--- LLM (ChatGPT 5.1 Equivalent) ---
+Total API Calls           : 17,326
+Total LLM Tokens In       : 4,325,506
+Total LLM Tokens Out      : 316,306
+LLM total cost            : $8.57
+  ├─ Input cost           : $5.41
+  └─ Output cost          : $3.16
+Total runtime             : 10.27 hours
+
+--- Human Translation Team (Dubai) ---
+Project Lead Time         : 114.1 calendar days
+Average Rate              : $35.00/hr
+
+Role            | #  | Total Hrs  | Hrs/Person   | Cost
+---------------------------------------------------------------------------
+Translators     | 3  | 1,411.0    | 470.3        | 181,246.48 AED ($49,385.96)
+Editors         | 1  | 348.1      | 348.1        | 44,707.47 AED ($12,181.87)
+Proofreaders    | 1  | 122.3      | 122.3        | 15,708.03 AED ($4,280.12)
+---------------------------------------------------------------------------
+TOTAL BILLABLE HOURS: 1,881.4  | 241,661.98 AED ($65,847.95)
+
+    [ VS SINGLE HUMAN ]
+    Human Calendar Time   : 526.8 Days (376.3 work + 150.5 wknd)
+    Autonomo Speedup      : 1230.5x FASTER
+
+--- Human Translation Team (USA) ---
+Project Lead Time         : 137.0 calendar days
+Average Rate              : $75.00/hr
+
+Role            | #  | Total Hrs  | Hrs/Person   | Cost
+---------------------------------------------------------------------------
+Translators     | 3  | 1,693.2    | 564.4        | $126,992.47
+Editors         | 1  | 417.7      | 417.7        | $31,324.81
+Proofreaders    | 1  | 146.7      | 146.7        | $11,006.01
+---------------------------------------------------------------------------
+TOTAL BILLABLE HOURS: 2,257.6  | $169,323.30
+
+    [ VS SINGLE HUMAN ]
+    Human Calendar Time   : 632.1 Days (451.5 work + 180.6 wknd)
+    Autonomo Speedup      : 1476.6x FASTER
+```
+
+---
+
 ## Credits
 
 Published by **[Better Rimworlds](https://github.com/BetterRimworlds)**
