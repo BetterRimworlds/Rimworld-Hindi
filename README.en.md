@@ -31,7 +31,7 @@ Harmony Lib is required for this mod to work correctly.
 ## Installation
 
 ### Option A: Steam Workshop (recommended)
-1. Subscribe to **Harmony Lib** on Steam Workshop
+1. Subscribe to [**Harmony Lib**](https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) on Steam Workshop
 2. Subscribe to the mod on Steam Workshop
 3. Launch RimWorld
 4. Go to **Mods**
@@ -41,7 +41,7 @@ Harmony Lib is required for this mod to work correctly.
 
 > If you don’t see either mod in your list, restart Steam and RimWorld.
 
-*(Workshop link: add once published.)*
+[**Rimworld-Hindi on Steam Workshop**](https://steamcommunity.com/sharedfiles/filedetails/?id=3743477376)
 
 ---
 

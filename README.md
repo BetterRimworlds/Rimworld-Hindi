@@ -43,7 +43,7 @@ RimWorld में **पूर्ण हिंदी लोकलाइज़े
 
 > यदि आपको अपनी सूची में इनमें से कोई भी मॉड दिखाई नहीं देता, तो Steam और RimWorld को पुनः प्रारंभ करें।
 
-*(Workshop link: प्रकाशित होने के बाद जोड़ें।)*
+[**Rimworld-Hindi on Steam Workshop**](https://steamcommunity.com/sharedfiles/filedetails/?id=3743477376)
 
 ---
 
